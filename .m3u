@@ -182,6 +182,25 @@ https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/chunklist_w1
 #EXTINF:-1 ,КВН ТВ
 http://109.239.208.82:80/kvn/index.m3u8
 
+#EXTINF:-1 ,СТС HD
+https://vgtrk-live-megafon2.mediavitrina.ru/hls-livef2/ctc/tracks-v5a1/mono.m3u8
+#EXTINF:-1 ,СТС love
+https://vgtrk-live-megafon2.mediavitrina.ru/hls-livef2/ctc-love/tracks-v3a1/mono.m3u8
+#EXTINF:-1 ,Ю
+https://vgtrk-live-megafon2.mediavitrina.ru/hls-livef2/yu/tracks-v3a1/mono.m3u8
+#EXTINF:-1 ,Че
+https://vgtrk-live-megafon2.mediavitrina.ru/hls-livef2/ctc-che/tracks-v3a1/mono.m3u8
+#EXTINF:-1 ,Пятница!
+https://vgtrk-live-megafon2.mediavitrina.ru:443/hls-livec2/streams/vitrina-hls/friday/tracks-v5a1/mono.m3u8
+#EXTINF:-1 ,ОТР
+https://vgtrk-live-megafon2.mediavitrina.ru:443/hls-livec2/streams/vitrina-hls/otr_0/tracks-v5a1/mono.m3u8
+#EXTINF:-1 ,Пятый канал
+https://tv5-live-megafon2.mediavitrina.ru/hls-livef2/tv-5/tracks-v3a1/mono.m3u8
+#EXTINF:-1 ,Домашний HD
+https://dom-live-megafon2.mediavitrina.ru/hls-livef1/ctc-dom/tracks-v5a1/mono.m3u8
+#EXTINF:-1 ,Спас
+https://vgtrk-live-megafon2.mediavitrina.ru/hls-livef2/spas/tracks-v3a1/mono.m3u8
+
 #EXTINF:-1 ,МИР HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 ,МИР 24 HD
