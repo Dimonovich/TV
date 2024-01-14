@@ -141,6 +141,9 @@ https://s196.glaz.tv:8082/liveg/domkino.stream/playlist.m3u8
 #EXTINF:-1 ,black
 https://stream01.vnet.am/Kinosemya/mono.m3u8
 
+#EXTINF:-1 ,НСТ
+https://s196.glaz.tv:8082/liveg/nst.stream/playlist.m3u8
+
 #EXTINF:-1 ,Trash
 https://livetv.mylifeisgood.net.ru/channels/trash.m3u8
 #EXTINF:-1 ,Совершенно секретно
