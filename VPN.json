@@ -31,6 +31,21 @@
     "udpdns": false
   },
   {
+    "server": "172.232.49.192",
+    "server_port": 2443,
+    "password": "42nJxr7iUdyjQ2PZHeSk8zpwWxEqKJAqpRqlqdRQKpg=",
+    "method": "aes-256-gcm",
+    "remarks": "🇫🇷 Франция (https://t.me/freeneo_net)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
     "server": "80.71.157.52",
     "server_port": 7710,
     "password": "A2RmMQmEDdFNJnq6jSxD2O",
