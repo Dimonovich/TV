@@ -138,11 +138,10 @@ https://strm.yandex.ru/kal/arsenal_belarus/arsenal_belarus0.m3u8
 
 #EXTINF:-1 ,Дом кино
 http://91.207.115.228:5000/c30
-#EXTINF:-1 ,black
-https://stream01.vnet.am/Kinosemya/mono.m3u8
-
 #EXTINF:-1 ,НСТ
 http://91.207.115.228:5000/c169
+#EXTINF:-1 ,black
+https://stream01.vnet.am/Kinosemya/mono.m3u8
 
 #EXTINF:-1 ,Trash
 https://livetv.mylifeisgood.net.ru/channels/trash.m3u8
