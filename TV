@@ -2134,9 +2134,9 @@ http://212.22.76.51:82/A2/tracks-v1a1/mono.m3u8
 http://212.22.76.51:83/Amedia_Hit/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Инфострой (VPN)",Amedia Premium
 http://212.22.76.51:83/Amedia_Premium/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Инфострой (VPN)",Aвто Плюс
+#EXTINF:-1 group-title="Инфострой (VPN)",Авто плюс
 http://212.22.76.51:82/Avto_Plus/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Инфострой (VPN)",Cарафан
+#EXTINF:-1 group-title="Инфострой (VPN)",Сарафан
 http://212.22.76.51:83/Sarafan/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Инфострой (VPN)",FAN
 http://212.22.76.51:83/FAN/tracks-v1a1/mono.m3u8
@@ -2146,13 +2146,13 @@ http://212.22.76.51:83/FlixSnip/tracks-v1a1/mono.m3u8
 http://212.22.76.51:82/fox_life/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Инфострой (VPN)",Hollywood
 http://212.22.76.51:82/Hollywood/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Инфострой (VPN)",Kиномикс
+#EXTINF:-1 group-title="Инфострой (VPN)",Киномикс
 http://212.22.76.51:82/Kinomiks/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Инфострой (VPN)",Киносвидание
 http://212.22.76.51:82/kinosvidanie/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Инфострой (VPN)",Кинохит
 http://212.22.76.51:82/kinohit/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Инфострой (VPN)",Kиносерия
+#EXTINF:-1 group-title="Инфострой (VPN)",Киносерия
 http://212.22.76.51:82/KINOSERIA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Инфострой (VPN)",Mezzo
 http://212.22.76.51:83/Mezzo/tracks-v1a1/mono.m3u8
@@ -2168,7 +2168,7 @@ http://212.22.76.51:83/Tamyr/tracks-v1a1/mono.m3u8
 http://212.22.76.51:83/TDK/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Инфострой (VPN)",TV 1000
 http://212.22.76.51:82/tv1000/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Инфострой (VPN)",TV 1000 Аction
+#EXTINF:-1 group-title="Инфострой (VPN)",TV1000 Action
 http://212.22.76.51:82/tv1000_action/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Инфострой (VPN)",TV XXI
 http://212.22.76.51:82/xxi/tracks-v1a1/mono.m3u8
@@ -2186,7 +2186,7 @@ http://212.22.76.51:83/Avto_Plus/tracks-v1a1/mono.m3u8
 http://212.22.76.51:83/BelRos/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Инфострой (VPN)",БСТ
 http://212.22.76.51:83/BST/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Инфострой (VPN)",Вместе РФ
+#EXTINF:-1 group-title="Инфострой (VPN)",Вместе-РФ
 http://212.22.76.51:83/vmesterf/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Инфострой (VPN)",Дом Кино
 http://212.22.76.51:82/DOM_KINO/tracks-v1a1/mono.m3u8
@@ -2256,11 +2256,11 @@ http://212.22.76.51:83/Komedia/tracks-v1a1/mono.m3u8
 http://212.22.76.51:83/Russkiy_detektiv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Инфострой (VPN)",Русский Роман
 http://212.22.76.51:82/RUS_ROMAN/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Инфострой (VPN)",Сinema
+#EXTINF:-1 group-title="Инфострой (VPN)",Cinema
 http://212.22.76.51:82/cinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Инфострой (VPN)",Сарафан
 http://212.22.76.51:82/sarafan/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Инфострой (VPN)",Совершеннно Секретно
+#EXTINF:-1 group-title="Инфострой (VPN)",Совершенно Секретно
 http://212.22.76.51:83/Sovershenno_Sekretno/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Инфострой (VPN)",Союз
 http://212.22.76.51:82/soyuz/tracks-v1a1/mono.m3u8
@@ -2286,8 +2286,6 @@ http://212.22.76.51:83/tochka_otryva/tracks-v1a1/mono.m3u8
 http://212.22.76.51:83/U/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Инфострой (VPN)",Усадьба
 http://212.22.76.51:83/Usadba/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Инфострой (VPN)",Чe
-http://212.22.76.51:83/Ce/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Инфострой (VPN)",ЧЕ
 http://212.22.76.51:82/che/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Инфострой (VPN)",ТНТ Music
@@ -2318,13 +2316,13 @@ http://212.22.76.51:82/karusel/tracks-v1a1/mono.m3u8
 http://212.22.76.51:82/detskij_mir/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Инфострой (VPN)",Бобер
 http://212.22.76.51:83/Bober/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Инфострой (VPN)",Аni
+#EXTINF:-1 group-title="Инфострой (VPN)",Ani
 http://212.22.76.51:82/ani/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Инфострой (VPN)",TiJi
 http://212.22.76.51:83/TiJi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Инфострой (VPN)",Nickelodeon
 http://212.22.76.51:82/nickelodeon/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Инфострой (VPN)",O!
+#EXTINF:-1 group-title="Инфострой (VPN)",О!
 http://212.22.76.51:83/O_/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Инфострой (VPN)",Gulli Girl
 http://212.22.76.51:83/Gulli_Girl/tracks-v1a1/mono.m3u8
@@ -2342,10 +2340,6 @@ http://212.22.76.51:82/futbol/tracks-v1a1/mono.m3u8
 http://212.22.76.51:83/Viasat_Sport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Инфострой (VPN)",Extreme Sports
 http://212.22.76.51:82/extreme_sports/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Инфострой (VPN)",Еurosport 1
-http://212.22.76.51:82/eurosport_1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Инфострой (VPN)",Еurosport 2
-http://212.22.76.51:82/eurosport_2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Инфострой (VPN)",Матч Премьер
 http://212.22.76.51:82/match_premier/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Инфострой (VPN)",Матч ТВ
