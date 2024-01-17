@@ -16,6 +16,21 @@
     "udpdns": false
   },
   {
+    "server": "51.21.126.136",
+    "server_port": 443,
+    "password": "IUDnrXExpb0IVVHsExsKWL",
+    "method": "CHACHA20-IETF-POLY1305",
+    "remarks": "🇸🇪 Швеция (https://t.me/freeneo_net)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
     "server": "213.183.63.69",
     "server_port": 9000,
     "password": "a3GFYt36Sm82Vys9",
