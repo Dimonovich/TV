@@ -171,16 +171,12 @@ http://185.46.48.18:80/match/tracks-v1a1/mono.m3u8
 http://dancehits80.denvs.ru:8080/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://i.ibb.co/YtCX7cz/9-E897182-8693-44-A6-A36-F-D117-B1-A188-E2.png",MediaService Lorenz TV
 http://84.38.180.145:8080/Uhierjfk/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",Мамонтёнок
-https://void.greenhosting.ru/Mamutens_Mpeg4/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://i.postimg.cc/s2qT2Rr8/logo.png",Movify История
 https://void.greenhosting.ru/MovifyVesture_Mpeg4/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://i.postimg.cc/s2qT2Rr8/logo.png",Movify Кино
 https://void.greenhosting.ru/MovifyKino_Mpeg4/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://i.postimg.cc/s2qT2Rr8/logo.png",Movify Сериал
 https://void.greenhosting.ru/MovifySerial_Mpeg4/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://i.postimg.cc/s2qT2Rr8/logo.png",ХОЧУ ВСЕ ЗНАТЬ
-https://void.greenhosting.ru/HochuVjeZnat_Mpeg4/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://i.ibb.co/5sCvkr3/e4d37e44-eb06-4806-bd9b-14aa7080373c.png",Fox Kids
 https://foxkids-online.ru/hls/test_240p264kbs/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",TV1000 Русское кино
@@ -227,8 +223,6 @@ http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_LenTV/hls/1024x576@1272/playli
 http://tele2dvrnat01-02.cdnvideo.ru:80/stream/TatTVR_tat24_1f55f482a2df2bede07c661806c4eb/hls/1920x1080@4504/playlist.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",Эфир
 http://tele2dvrnat01-02.cdnvideo.ru/stream/TatTVR_efir_2c28d5412dd75bf975fb951c740a30/hls/1920x1080@4504/playlist.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",AIVA HD
-http://live-1.otcnet.ru/aivaya/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://dimgrad24.ru/images/new/favicon.png",Димград 24 HD
 http://live-1.otcnet.ru/dimgrad/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://ulpravda.ru/images/new/favicon.png",УЛПРАВДА ТВ
