@@ -31,6 +31,21 @@
     "udpdns": false
   },
   {
+    "server": "51.15.138.174",
+    "server_port": 8916,
+    "password": "I9TLNryGY7yVTtsXnK0RK9",
+    "method": "CHACHA20-IETF-POLY1305",
+    "remarks": "🇺🇦 Украина (https://t.me/freeneo_net)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
     "server": "213.183.63.69",
     "server_port": 9000,
     "password": "a3GFYt36Sm82Vys9",
