@@ -1890,10 +1890,10 @@ http://video.platformcraft.ru/hls/etv/egorievsk-tv/720p.m3u8
 
 #EXTINF:-1 group-title="Рэй-связь (VPN)",Первый HD
 http://94.232.104.237:8000/play/099/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",Первый канал
+http://94.232.104.237:8000/play/001/index.m3u8
 #EXTINF:-1 group-title="Рэй-связь (VPN)",ТНТ HD
 http://94.232.104.237:8000/play/138/index.m3u8
-#EXTINF:-1 group-title="Рэй-связь (VPN)",Первый
-http://94.232.104.237:8000/play/001/index.m3u8
 #EXTINF:-1 group-title="Рэй-связь (VPN)",Россия 1
 http://94.232.104.237:8000/play/002/index.m3u8
 #EXTINF:-1 group-title="Рэй-связь (VPN)",Россия К
@@ -1956,7 +1956,7 @@ http://94.232.104.237:8000/play/018/index.m3u8
 http://94.232.104.237:8000/play/021/index.m3u8
 #EXTINF:-1 group-title="Рэй-связь (VPN)",Десятка
 http://94.232.104.237:8000/play/022/index.m3u8
-#EXTINF:-1 group-title="Рэй-связь (VPN)",Paramaunt Camedy
+#EXTINF:-1 group-title="Рэй-связь (VPN)",Paramount Comedy
 http://94.232.104.237:8000/play/023/index.m3u8
 #EXTINF:-1 group-title="Рэй-связь (VPN)",Осинники ТВ
 http://94.232.104.237:8000/play/024/index.m3u8
@@ -1994,7 +1994,7 @@ http://94.232.104.237:8000/play/058/index.m3u8
 http://94.232.104.237:8000/play/075/index.m3u8
 #EXTINF:-1 group-title="Рэй-связь (VPN)",VIP Premiere HD
 http://94.232.104.237:8000/play/076/index.m3u8
-#EXTINF:-1 group-title="Рэй-связь (VPN)",Автоплюс
+#EXTINF:-1 group-title="Рэй-связь (VPN)",Авто плюс
 http://94.232.104.237:8000/play/087/index.m3u8
 #EXTINF:-1 group-title="Рэй-связь (VPN)",Оружие
 http://94.232.104.237:8000/play/091/index.m3u8
@@ -2020,7 +2020,7 @@ http://94.232.104.237:8000/play/106/index.m3u8
 http://94.232.104.237:8000/play/107/index.m3u8
 #EXTINF:-1 group-title="Рэй-связь (VPN)",Точка ТВ
 http://94.232.104.237:8000/play/111/index.m3u8
-#EXTINF:-1 group-title="Рэй-связь (VPN)",Dizi
+#EXTINF:-1 group-title="Рэй-связь (VPN)",Timeless Dizi Channel
 http://94.232.104.237:8000/play/112/index.m3u8
 #EXTINF:-1 group-title="Рэй-связь (VPN)",365 дней ТВ
 http://94.232.104.237:8000/play/113/index.m3u8
@@ -2030,7 +2030,7 @@ http://94.232.104.237:8000/play/117/index.m3u8
 http://94.232.104.237:8000/play/121/index.m3u8
 #EXTINF:-1 group-title="Рэй-связь (VPN)",DocuBox
 http://94.232.104.237:8000/play/205/index.m3u8
-#EXTINF:-1 group-title="Рэй-связь (VPN)",O!
+#EXTINF:-1 group-title="Рэй-связь (VPN)",О!
 http://94.232.104.237:8000/play/241/index.m3u8
 #EXTINF:-1 group-title="Рэй-связь (VPN)",Ani
 http://94.232.104.237:8000/play/123/index.m3u8
@@ -2042,7 +2042,7 @@ http://94.232.104.237:8000/play/044/index.m3u8
 http://94.232.104.237:8000/play/028/index.m3u8
 #EXTINF:-1 group-title="Рэй-связь (VPN)",Радость моя
 http://94.232.104.237:8000/play/029/index.m3u8
-#EXTINF:-1 group-title="Рэй-связь (VPN)",Мультляндия
+#EXTINF:-1 group-title="Рэй-связь (VPN)",Мультландия
 http://94.232.104.237:8000/play/030/index.m3u8
 #EXTINF:-1 group-title="Рэй-связь (VPN)",Уникум
 http://94.232.104.237:8000/play/031/index.m3u8
@@ -2066,7 +2066,7 @@ http://94.232.104.237:8000/play/070/index.m3u8
 http://94.232.104.237:8000/play/020/index.m3u8
 #EXTINF:-1 group-title="Рэй-связь (VPN)",MTV 90s
 http://94.232.104.237:8000/play/102/index.m3u8
-#EXTINF:-1 group-title="Рэй-связь (VPN)",THT Music
+#EXTINF:-1 group-title="Рэй-связь (VPN)",ТНТ Music
 http://94.232.104.237:8000/play/120/index.m3u8
 #EXTINF:-1 group-title="Рэй-связь (VPN)",Матч!
 http://94.232.104.237:8000/play/003/index.m3u8
