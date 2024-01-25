@@ -24,14 +24,8 @@ http://194.26.229.213/souzmultfilm/index.m3u8
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.ibb.co/Bn4m324/image-3.png",КІНО ТV VHS
 https://playlist.nuum.ru/live/28423/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="TEST ⓵",SONG TV HD
-https://streamer1.connectto.com/236/mono.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Shot TV
-https://streamer1.connectto.com/472/mono.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Грозный
 https://streamer1.connectto.com/517/mono.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Шокирующее HD
-https://streamer1.connectto.com/518/mono.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Комедийное HD
 https://streamer1.connectto.com/519/mono.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Stingray Iconcert
@@ -42,8 +36,6 @@ https://streamer1.connectto.com/529/mono.m3u8
 https://streamer1.connectto.com/530/mono.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Кавказ 24
 https://streamer1.connectto.com/532/mono.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Ani
-https://streamer1.connectto.com/534/mono.m3u8
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/HWNnL7LN/knopka-tv.jpg",Кнопка ТВ
 http://api.alpaca.t62a.com/hls/9116/stream0.m3u8
 #EXTINF:-1 group-title="TEST ⓵",МУЛЬТИМАНИЯ
