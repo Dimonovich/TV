@@ -133,8 +133,6 @@ http://s18209.cdn.ngenix.net/hls/CH_R01_TV3/playlist.m3u8
 http://s18209.cdn.ngenix.net/hls/CH_R01_KARUSEL/playlist.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",Ю
 http://s18209.cdn.ngenix.net/hls/CH_R03_U/playlist.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",viju TV1000 Новелла
-http://95.182.121.79/Novella_HD/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",Конный мир
 http://cdn-01.bonus-tv.ru/konnyimir/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",TVMChannel
@@ -165,12 +163,8 @@ http://dancehits80.denvs.ru:8080/index.m3u8
 http://84.38.180.145:8080/Uhierjfk/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://i.postimg.cc/s2qT2Rr8/logo.png",Movify История
 https://void.greenhosting.ru/MovifyVesture_Mpeg4/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://i.postimg.cc/s2qT2Rr8/logo.png",Movify Кино
-https://void.greenhosting.ru/MovifyKino_Mpeg4/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://i.postimg.cc/s2qT2Rr8/logo.png",Movify Сериал
 https://void.greenhosting.ru/MovifySerial_Mpeg4/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://i.ibb.co/5sCvkr3/e4d37e44-eb06-4806-bd9b-14aa7080373c.png",Fox Kids
-https://foxkids-online.ru/hls/test_240p264kbs/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",TV1000 Русское кино
 http://194.143.148.28:8080/TV1000RuKino/mpegts
 #EXTINF:-1 group-title="TEST (VPN)" ,НТС Иркутск
@@ -185,8 +179,6 @@ http://195.26.83.96:7029/play/a006
 http://195.26.83.96:7029/play/9
 #EXTINF:-1 group-title="TEST (VPN)" tvg-id="aist",Аист ТВ
 http://tv.streams.baikal-telecom.net/Aist/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",MCM HD
-http://tv.streams.baikal-telecom.net/MCM/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",НТС Иркутск
 http://tv.streams.baikal-telecom.net/NTS/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",TV1000 Русское кино
