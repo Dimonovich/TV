@@ -243,7 +243,7 @@ http://185.32.44.154/tntcomedy/index.m3u8
 http://185.32.44.154/tnt/index.m3u8
 #EXTINF:-1 group-title="IZONE",НТВ
 http://185.32.44.154/ntvplus/index.m3u8
-#EXTINF:-1 group-title="IZONE",РТР ПЛАНЕТА
+#EXTINF:-1 group-title="IZONE" tvg-id="rtr-planeta-eu",РТР Планета
 http://185.32.44.154/rtrplaneta/index.m3u8
 #EXTINF:-1 group-title="IZONE",Discovery Science
 http://185.32.44.154/discoveryscience/index.m3u8
@@ -307,13 +307,11 @@ http://185.32.44.154/ViasatSportHD/index.m3u8
 http://185.32.44.154/paramountchannel/index.m3u8
 #EXTINF:-1 group-title="IZONE",Мир Сериала
 http://185.32.44.154/mirseriala/index.m3u8
-#EXTINF:-1 group-title="IZONE",Мужское Кино
-http://185.32.44.154/mkino/index.m3u8
-#EXTINF:-1 group-title="IZONE"  ,TV XXI
+#EXTINF:-1 group-title="IZONE" ,TV XXI
 http://185.32.44.154/tv21/index.m3u8
 #EXTINF:-1 group-title="IZONE",РУССКАЯ КОМЕДИЯ
 http://185.32.44.154/vh1classic/index.m3u8
-#EXTINF:-1 group-title="IZONE",НАШЕ ЛЮБИМОЕ КИНО
+#EXTINF:-1 group-title="IZONE",ЛЮБИМОЕ КИНО
 http://185.32.44.154/lubimoekino/index.m3u8
 #EXTINF:-1 group-title="IZONE",FLIX SNIP
 http://185.32.44.154/fineliving/index.m3u8
@@ -333,6 +331,8 @@ http://185.32.44.154/KinoTVHD/index.m3u8
 http://185.32.44.154/rodnoekino/index.m3u8
 #EXTINF:-1 group-title="IZONE",КИНОСВИДАНИЕ
 http://185.32.44.154/kinosvidanie/index.m3u8
+#EXTINF:-1 group-title="IZONE",Мужское Кино
+http://185.32.44.154/mkino/index.m3u8
 #EXTINF:-1 group-title="IZONE",КИНОСЕМЬЯ
 http://185.32.44.154/kinosemya/index.m3u8
 #EXTINF:-1 group-title="IZONE",КИНОМИКС
@@ -345,7 +345,7 @@ http://185.32.44.154/nashenovoekino/index.m3u8
 http://185.32.44.154/kinoseria/index.m3u8
 #EXTINF:-1 group-title="IZONE",КИНОКОМЕДИЯ
 http://185.32.44.154/kinokomedia/index.m3u8
-#EXTINF:-1 group-title="IZONE"  ,КИНОХИТ
+#EXTINF:-1 group-title="IZONE",КИНОХИТ
 http://185.32.44.154/kinoxit/index.m3u8
 #EXTINF:-1 group-title="IZONE",ДОМ КИНО
 http://185.32.44.154/domkino/index.m3u8
@@ -403,7 +403,7 @@ http://185.32.44.154/domashniy/index.m3u8
 http://185.32.44.154/2x2/index.m3u8
 #EXTINF:-1 group-title="IZONE",ЗВЕЗДА
 http://185.32.44.154/zvezda/index.m3u8
-#EXTINF:-1 group-title="IZONE",World Fashion
+#EXTINF:-1 group-title="IZONE",World Fashion TV
 http://185.32.44.154/worldfashion/index.m3u8
 #EXTINF:-1 group-title="IZONE",ТВЦ
 http://185.32.44.154/tvc/index.m3u8
