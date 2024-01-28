@@ -6035,63 +6035,6 @@ http://arbiter.bolshoe.tv/?path=abr2/viasat_sport_hd/71/copy/playlist.m3u8&wmsAu
 
 
 
-
-#EXTINF:-1 group-title="Тывасвязьинформ (VPN 🇷🇺)",Первый канал
-http://tv.tuva.ru/ort/index.m3u8
-#EXTINF:-1 group-title="Тывасвязьинформ (VPN 🇷🇺)",РОССИЯ 1
-http://94.230.240.17:8080/rossia1/index.m3u8
-#EXTINF:-1 group-title="Тывасвязьинформ (VPN 🇷🇺)",РОССИЯ 24
-http://94.230.240.17:8080/rossia24/index.m3u8
-#EXTINF:-1 group-title="Тывасвязьинформ (VPN 🇷🇺)",Культура
-http://94.230.240.17:8080/kultura/index.m3u8
-#EXTINF:-1 group-title="Тывасвязьинформ (VPN 🇷🇺)",ТНТ
-http://94.230.240.17:8080/tnt/index.m3u8
-#EXTINF:-1 group-title="Тывасвязьинформ (VPN 🇷🇺)",НТВ
-http://94.230.240.17:8080/ntv/index.m3u8
-#EXTINF:-1 group-title="Тывасвязьинформ (VPN 🇷🇺)",История
-http://94.230.240.17:8080/istoria/index.m3u8
-#EXTINF:-1 group-title="Тывасвязьинформ (VPN 🇷🇺)",Наука 2.0
-http://94.230.240.17:8080/nauka2/index.m3u8
-#EXTINF:-1 group-title="Тывасвязьинформ (VPN 🇷🇺)",Пятый канал
-http://94.230.240.17:8080/5kanal/index.m3u8
-#EXTINF:-1 group-title="Тывасвязьинформ (VPN 🇷🇺)",ПЯТНИЦА!
-http://94.230.240.17:8080/friday/index.m3u8
-#EXTINF:-1 group-title="Тывасвязьинформ (VPN 🇷🇺)",МИР
-http://94.230.240.17:8080/mir/index.m3u8
-#EXTINF:-1 group-title="Тывасвязьинформ (VPN 🇷🇺)",ОТР
-http://94.230.240.17:8080/otp/index.m3u8
-#EXTINF:-1 group-title="Тывасвязьинформ (VPN 🇷🇺)",СПАС
-http://94.230.240.17:8080/spas/index.m3u8
-#EXTINF:-1 group-title="Тывасвязьинформ (VPN 🇷🇺)",ТВ3
-http://94.230.240.17:8080/tv3/index.m3u8
-#EXTINF:-1 group-title="Тывасвязьинформ (VPN 🇷🇺)",ТВЦ
-http://94.230.240.17:8080/tvcentr/index.m3u8
-#EXTINF:-1 group-title="Тывасвязьинформ (VPN 🇷🇺)",Усадьба
-http://94.230.240.17:8080/usadba/index.m3u8
-#EXTINF:-1 group-title="Тывасвязьинформ (VPN 🇷🇺)",OVAA TV
-http://94.230.240.17:8080/ovaa/index.m3u8
-#EXTINF:-1 group-title="Тывасвязьинформ (VPN 🇷🇺)",ТЫВА 24
-http://94.230.240.17:8080/tuva24/index.m3u8
-#EXTINF:-1 group-title="Тывасвязьинформ (VPN 🇷🇺)",FAN
-http://94.230.240.17:8080/fan/index.m3u8
-#EXTINF:-1 group-title="Тывасвязьинформ (VPN 🇷🇺)",Карусель
-http://94.230.240.17:8080/karusel/index.m3u8
-#EXTINF:-1 group-title="Тывасвязьинформ (VPN 🇷🇺)",FilmBox
-http://94.230.240.17:8080/film_box/index.m3u8
-#EXTINF:-1 group-title="Тывасвязьинформ (VPN 🇷🇺)",Русский бестселлер
-http://94.230.240.17:8080/rusbestseller/index.m3u8
-#EXTINF:-1 group-title="Тывасвязьинформ (VPN 🇷🇺)",Звезда
-http://94.230.240.17:8080/zvezda/index.m3u8
-#EXTINF:-1 group-title="Тывасвязьинформ (VPN 🇷🇺)",МузТВ
-http://94.230.240.17:8080/muztv/index.m3u8
-#EXTINF:-1 group-title="Тывасвязьинформ (VPN 🇷🇺)",Матч ТВ
-http://94.230.240.17:8080/machtv/index.m3u8
-#EXTINF:-1 group-title="Тывасвязьинформ (VPN 🇷🇺)",M-1 Global
-http://94.230.240.17:8080/m1global/index.m3u8
-
-
-
-
 #EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)",НТВ Хит
 https://strm.yandex.ru/kal/ntv_hit/ntv_hit0.m3u8
 #EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)",НТВ Стиль
