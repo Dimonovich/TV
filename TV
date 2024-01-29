@@ -2268,7 +2268,206 @@ http://video.platformcraft.ru/hls/etv/egorievsk-tv/720p.m3u8
 
 
 
-
+#EXTINF:-1 group-title="Рэй-связь (VPN)",Первый HD
+http://94.232.104.237:8000/play/099/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",Первый канал
+http://94.232.104.237:8000/play/001/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",ТНТ HD
+http://94.232.104.237:8000/play/138/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",Россия 1
+http://94.232.104.237:8000/play/002/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",Россия К
+http://94.232.104.237:8000/play/006/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",НТВ
+http://94.232.104.237:8000/play/004/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",РЕН ТВ
+http://94.232.104.237:8000/play/011/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",ТНТ4
+http://94.232.104.237:8000/play/025/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",ТНТ
+http://94.232.104.237:8000/play/019/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",Россия 24
+http://94.232.104.237:8000/play/007/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",5 Канал
+http://94.232.104.237:8000/play/005/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",Карусель
+http://94.232.104.237:8000/play/008/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",VIASAT Explore
+http://94.232.104.237:8000/play/077/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",VIASAT History
+http://94.232.104.237:8000/play/078/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",VIASAT Nature
+http://94.232.104.237:8000/play/079/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",Investigation Discovery
+http://94.232.104.237:8000/play/109/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",Моя планета
+http://94.232.104.237:8000/play/072/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",Наука
+http://94.232.104.237:8000/play/073/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",История
+http://94.232.104.237:8000/play/074/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",Телепутешествия
+http://94.232.104.237:8000/play/080/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",Galaxy
+http://94.232.104.237:8000/play/083/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",RTG TV
+http://94.232.104.237:8000/play/085/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",ТНВ-Планета
+http://94.232.104.237:8000/play/116/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",Живая планета
+http://94.232.104.237:8000/play/124/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",Зоопарк
+http://94.232.104.237:8000/play/086/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",ОТР
+http://94.232.104.237:8000/play/009/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",СПАС
+http://94.232.104.237:8000/play/012/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",СТС
+http://94.232.104.237:8000/play/013/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",Домашний
+http://94.232.104.237:8000/play/014/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",ТВ3
+http://94.232.104.237:8000/play/015/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",Пятница
+http://94.232.104.237:8000/play/016/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",Звезда
+http://94.232.104.237:8000/play/017/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",Мир
+http://94.232.104.237:8000/play/018/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",Кузбасс
+http://94.232.104.237:8000/play/021/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",Десятка
+http://94.232.104.237:8000/play/022/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",Paramount Comedy
+http://94.232.104.237:8000/play/023/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",Осинники ТВ
+http://94.232.104.237:8000/play/024/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",Кино ТВ
+http://94.232.104.237:8000/play/035/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",8 канал
+http://94.232.104.237:8000/play/036/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",НСТ
+http://94.232.104.237:8000/play/037/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",TV1000
+http://94.232.104.237:8000/play/039/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",TV1000 Action
+http://94.232.104.237:8000/play/040/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",TV1000 Русское кино
+http://94.232.104.237:8000/play/041/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",Витрина ТВ
+http://94.232.104.237:8000/play/042/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",Русский Детектив
+http://94.232.104.237:8000/play/043/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",Загородная жизнь
+http://94.232.104.237:8000/play/045/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",Еврокино
+http://94.232.104.237:8000/play/046/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",Кинопоказ
+http://94.232.104.237:8000/play/047/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",Русский иллюзион
+http://94.232.104.237:8000/play/048/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",Иллюзион+
+http://94.232.104.237:8000/play/049/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",TV XXI
+http://94.232.104.237:8000/play/050/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",СТС Love
+http://94.232.104.237:8000/play/058/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",Дорама
+http://94.232.104.237:8000/play/075/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",VIP Premiere HD
+http://94.232.104.237:8000/play/076/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",Авто плюс
+http://94.232.104.237:8000/play/087/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",Оружие
+http://94.232.104.237:8000/play/091/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",Кухня ТВ
+http://94.232.104.237:8000/play/094/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",Жара HD
+http://94.232.104.237:8000/play/095/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",Ю
+http://94.232.104.237:8000/play/096/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",Индия
+http://94.232.104.237:8000/play/097/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",Fashion Channel TV
+http://94.232.104.237:8000/play/098/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",Смайлик ТВ
+http://94.232.104.237:8000/play/103/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",Русский бестселлер
+http://94.232.104.237:8000/play/104/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",Кинокомедия
+http://94.232.104.237:8000/play/105/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",.black
+http://94.232.104.237:8000/play/106/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",Top Secret
+http://94.232.104.237:8000/play/107/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",Точка ТВ
+http://94.232.104.237:8000/play/111/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",Timeless Dizi Channel
+http://94.232.104.237:8000/play/112/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",365 дней ТВ
+http://94.232.104.237:8000/play/113/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",Ностальгия
+http://94.232.104.237:8000/play/117/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",Усадьба
+http://94.232.104.237:8000/play/121/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",DocuBox
+http://94.232.104.237:8000/play/205/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",О!
+http://94.232.104.237:8000/play/241/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",Ani
+http://94.232.104.237:8000/play/123/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",Супергерои
+http://94.232.104.237:8000/play/093/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",Бобёр
+http://94.232.104.237:8000/play/044/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",Солнце
+http://94.232.104.237:8000/play/028/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",Радость моя
+http://94.232.104.237:8000/play/029/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",Мультландия
+http://94.232.104.237:8000/play/030/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",Уникум
+http://94.232.104.237:8000/play/031/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",Cartoon Network
+http://94.232.104.237:8000/play/032/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",Мама
+http://94.232.104.237:8000/play/033/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",Детский мир
+http://94.232.104.237:8000/play/034/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",Bridge
+http://94.232.104.237:8000/play/110/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",Bridge TV Classic
+http://94.232.104.237:8000/play/119/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",Музыка Первого
+http://94.232.104.237:8000/play/101/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",Шансон ТВ
+http://94.232.104.237:8000/play/027/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",RU.TV
+http://94.232.104.237:8000/play/070/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",МУЗТВ
+http://94.232.104.237:8000/play/020/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",MTV 90s
+http://94.232.104.237:8000/play/102/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",ТНТ Music
+http://94.232.104.237:8000/play/120/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",Матч!
+http://94.232.104.237:8000/play/003/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",Матч! Страна
+http://94.232.104.237:8000/play/059/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",Eurosport 2
+http://94.232.104.237:8000/play/062/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",VIASAT Sport
+http://94.232.104.237:8000/play/063/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",RUSSIAN EXTREME
+http://94.232.104.237:8000/play/064/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",КХЛ HD
+http://94.232.104.237:8000/play/227/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",КХЛ ТВ
+http://94.232.104.237:8000/play/065/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",Матч! Игра
+http://94.232.104.237:8000/play/108/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",Хоккейный
+http://94.232.104.237:8000/play/122/index.m3u8
 
 
 
