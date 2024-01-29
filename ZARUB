@@ -1557,6 +1557,8 @@ http://82.212.74.3:8000/live/7512.m3u8
 https://master.starmena-cloud.com/hls/yemenshabab.m3u8
 #EXTINF:-1 group-title="Казахстан 🇰🇿",Balapan TV
 https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
+#EXTINF:-1 group-title="Казахстан 🇰🇿",Хабар
+https://livekhabar-srt.cdnvideo.ru/khabarsrt/khabarsrt/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Казахстан 🇰🇿",Первый канал Евразия
 https://1tvkz-stream.daitsuna.net/1tvkz/1tvkz/1tvkz/1tvkz_720/chunks.m3u8
 #EXTINF:-1 group-title="Казахстан 🇰🇿",КТК
