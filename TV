@@ -2266,7 +2266,56 @@ https://tvsamaragis.tk/new/new/tracks-v1a1/mono.m3u8
 http://video.platformcraft.ru/hls/etv/egorievsk-tv/720p.m3u8
 
 
-
+#EXTINF:-1 group-title="Megalink (VPN)",ПЕРВЫЙ HD
+http://188.190.222.48:80/1_kanal_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Megalink (VPN)",ПЕРВЫЙ
+http://188.190.222.48:80/1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Megalink (VPN)",Россия 1
+http://188.190.222.48:80/Russia_1/index.m3u8
+#EXTINF:-1 group-title="Megalink (VPN)",НТВ
+http://188.190.222.48:80/HTB/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Megalink (VPN)",Кинохит HD
+http://188.190.222.48:80/Kinohit_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Megalink (VPN)",Cinema HD
+http://188.190.222.48:80/Cinema_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Megalink (VPN)",Amedia 2 HD
+http://188.190.222.48:80/Amedia2_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Megalink (VPN)",Киносат
+http://188.190.222.48:80/Kinosat/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Megalink (VPN)",Bridge TV Classic
+http://188.190.222.48:80/Bridge_classic/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Megalink (VPN)",9 Волна
+http://188.190.222.48:80/9volna/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Megalink (VPN)",Ocean TV
+http://188.190.222.48:80/Ocean_TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Megalink (VPN)",НАУКА
+http://188.190.222.48:80/Nauka/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Megalink (VPN)",360_HD
+http://188.190.222.48:80/360_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Megalink (VPN)" ,Москва Доверие
+http://188.190.222.48:80/Moskva_doverie/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Megalink (VPN)",БелРос
+http://188.190.222.48:80/TPO/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Megalink (VPN)",RTD HD
+http://188.190.222.48:80/RTD_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Megalink (VPN)",Fashion HD
+http://188.190.222.48:80/Fashion_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Megalink (VPN)",Fashionbox
+http://188.190.222.48:80/Fashionbox/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Megalink (VPN)",СОЛНЦЕ
+http://188.190.222.48:80/Solnce/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Megalink (VPN)",Мультимузыка
+http://188.190.222.48:80/Multimuzika/index.m3u8
+#EXTINF:-1 group-title="Megalink (VPN)",Ani
+http://188.190.222.48:80/Ani/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Megalink (VPN)",СТАРТ ТВ
+http://188.190.222.48:80/Start_TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Megalink (VPN)",МАТЧ! АРЕНА HD
+http://188.190.222.48:80/Match_Arena_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Megalink (VPN)",МАТЧ! ИГРА HD
+http://188.190.222.48:80/Match_Igra_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Megalink (VPN)",KHL
+http://188.190.222.48:80/KHL/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 group-title="К Телеком (VPN)",ТЕХНО 24
