@@ -61,21 +61,6 @@
     "udpdns": false
   },
   {
-    "server": "217.30.10.68",
-    "server_port": 9054,
-    "password": "VcFuyXvND2yQWSFY",
-    "method": "aes-256-cfb",
-    "remarks": "🇵🇱 Польша (https://t.me/freeneo_net)",
-    "route": "all",
-    "remote_dns": "one.one.one.one",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
     "server": "77.72.5.150",
     "server_port": 989,
     "password": "f8f7aCzcPKbsF8p3",
