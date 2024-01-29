@@ -2290,8 +2290,6 @@ http://94.232.104.237:8000/play/019/index.m3u8
 http://94.232.104.237:8000/play/007/index.m3u8
 #EXTINF:-1 group-title="Рэй-связь (VPN)",5 Канал
 http://94.232.104.237:8000/play/005/index.m3u8
-#EXTINF:-1 group-title="Рэй-связь (VPN)",Карусель
-http://94.232.104.237:8000/play/008/index.m3u8
 #EXTINF:-1 group-title="Рэй-связь (VPN)",VIASAT Explore
 http://94.232.104.237:8000/play/077/index.m3u8
 #EXTINF:-1 group-title="Рэй-связь (VPN)",VIASAT History
@@ -2420,11 +2418,13 @@ http://94.232.104.237:8000/play/123/index.m3u8
 http://94.232.104.237:8000/play/093/index.m3u8
 #EXTINF:-1 group-title="Рэй-связь (VPN)",Бобёр
 http://94.232.104.237:8000/play/044/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",Карусель
+http://94.232.104.237:8000/play/008/index.m3u8
 #EXTINF:-1 group-title="Рэй-связь (VPN)",Солнце
 http://94.232.104.237:8000/play/028/index.m3u8
 #EXTINF:-1 group-title="Рэй-связь (VPN)",Радость моя
 http://94.232.104.237:8000/play/029/index.m3u8
-#EXTINF:-1 group-title="Рэй-связь (VPN)",Мультландия
+#EXTINF:-1 group-title="Рэй-связь (VPN)",Мультиландия
 http://94.232.104.237:8000/play/030/index.m3u8
 #EXTINF:-1 group-title="Рэй-связь (VPN)",Уникум
 http://94.232.104.237:8000/play/031/index.m3u8
