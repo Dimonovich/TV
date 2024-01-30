@@ -46,6 +46,21 @@
     "udpdns": false
   },
   {
+    "server": "5.188.181.201",
+    "server_port": 9054,
+    "password": "VcFuyXvND2yQWSFY",
+    "method": "aes-256-cfb",
+    "remarks": "🇪🇸 Испания (https://t.me/freeneo_net)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
     "server": "172.104.146.97",
     "server_port": 2443,
     "password": "TnOtO/7zszOuNoHjMvUKGVcwgxPManln6gJh4OhLW4g=",
