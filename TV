@@ -2453,8 +2453,6 @@ http://bigteisti6.cdn.lifeyosso.fun:56371/VIPSERIAL/video.m3u8
 http://bigteisti6.cdn.lifeyosso.fun:56371/VIPPREMIERE/video.m3u8
 #EXTINF:-1 group-title="Мэйл Ру (VPN)" ,VIP MEGAHIT HD
 http://bigteisti6.cdn.lifeyosso.fun:56371/VIPMEGAHIT/video.m3u8
-#EXTINF:-1 group-title="Мэйл Ру (VPN)" ,VH1 HD
-http://bigteisti2.cdn.lifeyosso.fun:32144/VH1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Мэйл Ру (VPN)" ,Ю
 http://bigteisti6.cdn.lifeyosso.fun:56371/yu/video.m3u8
 #EXTINF:-1 group-title="Мэйл Ру (VPN)" ,Че
@@ -2527,7 +2525,7 @@ http://bigteisti6.cdn.lifeyosso.fun:56371/sonce/video.m3u8
 http://bigteisti6.cdn.lifeyosso.fun:56371/BOOMERANG/video.m3u8
 #EXTINF:-1 group-title="Мэйл Ру (VPN)" ,CARTOON NETWORK
 http://bigteisti2.cdn.lifeyosso.fun:32144/CARTOONNETWORK/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Мэйл Ру (VPN)" ,Myzen HD
+#EXTINF:-1 group-title="Мэйл Ру (VPN)" ,MyZen TV
 http://bigteisti6.cdn.lifeyosso.fun:56371/myzen_hd/video.m3u8
 #EXTINF:-1 group-title="Мэйл Ру (VPN)" ,MTV Russia
 http://bigteisti6.cdn.lifeyosso.fun:56371/MTV_Russia/video.m3u8
@@ -2535,6 +2533,8 @@ http://bigteisti6.cdn.lifeyosso.fun:56371/MTV_Russia/video.m3u8
 http://bigteisti6.cdn.lifeyosso.fun:56371/MTV90/video.m3u8
 #EXTINF:-1 group-title="Мэйл Ру (VPN)" ,MTV 80s
 http://bigteisti6.cdn.lifeyosso.fun:56371/MTV80/video.m3u8
+#EXTINF:-1 group-title="Мэйл Ру (VPN)" ,YES-MTV 00s
+http://bigteisti2.cdn.lifeyosso.fun:32144/VH1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Мэйл Ру (VPN)" ,BRIDGE TV HITS HD
 http://bigteisti6.cdn.lifeyosso.fun:56371/BRIDGEHITS/video.m3u8
 #EXTINF:-1 group-title="Мэйл Ру (VPN)" ,BRIDGE TV CLASSIC
@@ -2545,7 +2545,7 @@ http://bigteisti2.cdn.lifeyosso.fun:32144/BRIDGETV/tracks-v1a1/mono.m3u8
 http://bigteisti2.cdn.lifeyosso.fun:32144/BRIDGEHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Мэйл Ру (VPN)" ,Удар
 http://bigteisti6.cdn.lifeyosso.fun:56371/UFC/video.m3u8
-#EXTINF:-1 group-title="Мэйл Ру (VPN)" ,X SPORT
+#EXTINF:-1 group-title="Мэйл Ру (VPN)" ,XSPORT UA
 http://bigteisti6.cdn.lifeyosso.fun:56371/XSPORT/video.m3u8
 #EXTINF:-1 group-title="Мэйл Ру (VPN)" ,Беларусь 5
 http://bigteisti2.cdn.lifeyosso.fun:32144/BELARUS5/tracks-v1a1/mono.m3u8
