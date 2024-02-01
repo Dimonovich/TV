@@ -2373,16 +2373,26 @@ http://bigteisti6.cdn.lifeyosso.fun:56371/ntv/video.m3u8
 http://bigteisti6.cdn.lifeyosso.fun:56371/tnt4/video.m3u8
 #EXTINF:-1 group-title="Мэйл Ру (VPN)" ,ТНТ HD
 http://bigteisti6.cdn.lifeyosso.fun:56371/tnt/video.m3u8
+#EXTINF:-1 group-title="Мэйл Ру (VPN)" ,Техно 24
+http://bigteisti2.kfc.lifeyosso.fun:56374/tehno24/video.m3u8
 #EXTINF:-1 group-title="Мэйл Ру (VPN)" ,Охота и рыбалка
 http://bigteisti2.cdn.lifeyosso.fun:32144/OHOTAIRIBALKA/mono.m3u8
 #EXTINF:-1 group-title="Мэйл Ру (VPN)" ,VIASAT NATURE HD
 http://bigteisti6.cdn.lifeyosso.fun:56371/VIASATNATURE/video.m3u8
 #EXTINF:-1 group-title="Мэйл Ру (VPN)" ,Travel Channel HD
 http://bigteisti6.cdn.lifeyosso.fun:56371/Travel_Channel_HD/mono.m3u8
+#EXTINF:-1 group-title="Мэйл Ру (VPN)" ,History HD
+http://bigteisti8.cdn.lifeyosso.fun:4399/HistoryHD/video.m3u8
+#EXTINF:-1 group-title="Мэйл Ру (VPN)" ,Discovery HD
+http://bigteisti8.cdn.lifeyosso.fun:4399/discovery/video.m3u8
+#EXTINF:-1 group-title="Мэйл Ру (VPN)" ,Мuseum HD
+http://bigteisti8.cdn.lifeyosso.fun:4399/museum_hd/video.m3u8
 #EXTINF:-1 group-title="Мэйл Ру (VPN)" ,OCEAN TV
 http://bigteisti2.cdn.lifeyosso.fun:32144/OCEANTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Мэйл Ру (VPN)" ,NATIONAL GEOGRAPHIC HD
 http://bigteisti2.cdn.lifeyosso.fun:32144/NATIONALGEOGRAPHIC/mono.m3u8
+#EXTINF:-1 group-title="Мэйл Ру (VPN)" ,HD Life
+http://bigteisti2.kfc.lifeyosso.fun:56374/HDL/video.m3u8
 #EXTINF:-1 group-title="Мэйл Ру (VPN)" ,Nat Geo Wild HD
 http://bigteisti6.cdn.lifeyosso.fun:56371/NatGeoWild/video.m3u8
 #EXTINF:-1 group-title="Мэйл Ру (VPN)" ,HGTV HD
@@ -2405,6 +2415,20 @@ http://bigteisti6.cdn.lifeyosso.fun:56371/stb/video.m3u8
 http://bigteisti2.cdn.lifeyosso.fun:32144/FRIDAY/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Мэйл Ру (VPN)" ,ОТР HD
 http://bigteisti6.cdn.lifeyosso.fun:56371/otr/video.m3u8
+#EXTINF:-1 group-title="Мэйл Ру (VPN)" ,Мужской
+http://bigteisti2.kfc.lifeyosso.fun:56374/muzhskoy/video.m3u8
+#EXTINF:-1 group-title="Мэйл Ру (VPN)" ,KINO 24
+http://bigteisti2.kfc.lifeyosso.fun:56374/KINO24/video.m3u8
+#EXTINF:-1 group-title="Мэйл Ру (VPN)" ,True Crime
+http://bigteisti8.cdn.lifeyosso.fun:4399/true_crime_hd/video.m3u8
+#EXTINF:-1 group-title="Мэйл Ру (VPN)" ,ХИТ HD
+http://bigteisti8.cdn.lifeyosso.fun:4399/HIT/video.m3u8
+#EXTINF:-1 group-title="Мэйл Ру (VPN)" ,FAN HD
+http://bigteisti8.cdn.lifeyosso.fun:4399/fan_hd/video.m3u8
+#EXTINF:-1 group-title="Мэйл Ру (VPN)" ,Кинопоказ HD
+http://bigteisti8.cdn.lifeyosso.fun:4399/kinopokaz/video.m3u8
+#EXTINF:-1 group-title="Мэйл Ру (VPN)" ,Мосфильм. Золотая коллекция
+http://bigteisti2.kfc.lifeyosso.fun:56374/mosfilmhd/video.m3u8
 #EXTINF:-1 group-title="Мэйл Ру (VPN)" ,Остросюжетное HD
 http://bigteisti2.cdn.lifeyosso.fun:32144/OSTROSUJETNOE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Мэйл Ру (VPN)" ,НСТ
@@ -2413,18 +2437,32 @@ http://bigteisti2.cdn.lifeyosso.fun:32144/NST/tracks-v1a1/mono.m3u8
 http://bigteisti2.cdn.lifeyosso.fun:32144/NOSTALGIA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Мэйл Ру (VPN)" ,Наше мужское HD
 http://bigteisti6.cdn.lifeyosso.fun:56371/nashemuzhskoe/video.m3u8
+#EXTINF:-1 group-title="Мэйл Ру (VPN)" ,Мужское кино
+http://bigteisti2.kfc.lifeyosso.fun:56374/muzhskoekino/video.m3u8
 #EXTINF:-1 group-title="Мэйл Ру (VPN)" ,Наш Кинопоказ HD
 http://bigteisti6.cdn.lifeyosso.fun:56371/nashkinopokaz/video.m3u8
 #EXTINF:-1 group-title="Мэйл Ру (VPN)" ,Мир сериала
 http://bigteisti6.cdn.lifeyosso.fun:56371/MIRSERIALA/video.m3u8
+#EXTINF:-1 group-title="Мэйл Ру (VPN)" ,Поехали!
+http://bigteisti2.kfc.lifeyosso.fun:56374/Poehali/video.m3u8
+#EXTINF:-1 group-title="Мэйл Ру (VPN)" ,TLC HD
+http://bigteisti2.kfc.lifeyosso.fun:56374/TLC/video.m3u8
 #EXTINF:-1 group-title="Мэйл Ру (VPN)" ,Мир HD
 http://bigteisti6.cdn.lifeyosso.fun:56371/mir/video.m3u8
+#EXTINF:-1 group-title="Мэйл Ру (VPN)" ,Русский бестселлер
+http://bigteisti2.kfc.lifeyosso.fun:56374/rusbest/video.m3u8
 #EXTINF:-1 group-title="Мэйл Ру (VPN)" ,Любимое HD
 http://bigteisti2.cdn.lifeyosso.fun:32144/LUBIMOE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Мэйл Ру (VPN)" ,Комедийное HD
+http://bigteisti8.cdn.lifeyosso.fun:4399/komediinoe/video.m3u8
+#EXTINF:-1 group-title="Мэйл Ру (VPN)" ,Дом Кино Премиум HD
+http://bigteisti2.kfc.lifeyosso.fun:56374/domkinopremium/video.m3u8
 #EXTINF:-1 group-title="Мэйл Ру (VPN)" ,Кухня ТВ
 http://bigteisti6.cdn.lifeyosso.fun:56371/kuhnya_tv/video.m3u8
 #EXTINF:-1 group-title="Мэйл Ру (VPN)" ,Кинохит HD
 http://bigteisti2.cdn.lifeyosso.fun:32144/kinohit/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Мэйл Ру (VPN)" ,Родное кино
+http://bigteisti2.kfc.lifeyosso.fun:56374/rodnoe_kino/video.m3u8
 #EXTINF:-1 group-title="Мэйл Ру (VPN)" ,Киносерия HD
 http://bigteisti6.cdn.lifeyosso.fun:56371/kinoseriya/video.m3u8
 #EXTINF:-1 group-title="Мэйл Ру (VPN)" ,Киносемья HD
@@ -2457,6 +2495,10 @@ http://bigteisti6.cdn.lifeyosso.fun:56371/VIPMEGAHIT/video.m3u8
 http://bigteisti6.cdn.lifeyosso.fun:56371/yu/video.m3u8
 #EXTINF:-1 group-title="Мэйл Ру (VPN)" ,Че
 http://bigteisti6.cdn.lifeyosso.fun:56371/CHE/video.m3u8
+#EXTINF:-1 group-title="Мэйл Ру (VPN)" ,Star Family
+http://bigteisti8.cdn.lifeyosso.fun:4399/star_family_ru_hd/video.m3u8
+#EXTINF:-1 group-title="Мэйл Ру (VPN)" ,Star_Cinema
+http://bigteisti8.cdn.lifeyosso.fun:4399/star_cinema_ru_hd/video.m3u8
 #EXTINF:-1 group-title="Мэйл Ру (VPN)" ,TV1000 HD
 http://bigteisti6.cdn.lifeyosso.fun:56371/TV1000/video.m3u8
 #EXTINF:-1 group-title="Мэйл Ру (VPN)" ,TV1000 ACTION HD
@@ -2483,14 +2525,22 @@ http://bigteisti6.cdn.lifeyosso.fun:56371/FilmBox/video.m3u8
 http://bigteisti6.cdn.lifeyosso.fun:56371/enter_film/video.m3u8
 #EXTINF:-1 group-title="Мэйл Ру (VPN)" ,Docubox HD
 http://bigteisti6.cdn.lifeyosso.fun:56371/docubox_hd/video.m3u8
+#EXTINF:-1 group-title="Мэйл Ру (VPN)" ,MyZen TV
+http://bigteisti6.cdn.lifeyosso.fun:56371/myzen_hd/video.m3u8
 #EXTINF:-1 group-title="Мэйл Ру (VPN)" ,AMC HD
 http://bigteisti6.cdn.lifeyosso.fun:56371/AMC/video.m3u8
-#EXTINF:-1 group-title="Мэйл Ру (VPN)" ,Aiva HD
-http://bigteisti6.cdn.lifeyosso.fun:56371/aiva/video.m3u8
+#EXTINF:-1 group-title="Мэйл Ру (VPN)" ,Звезда HD
+http://bigteisti8.cdn.lifeyosso.fun:4399/ZVEZDA/video.m3u8
+#EXTINF:-1 group-title="Мэйл Ру (VPN)" ,ТВЦ
+http://bigteisti2.kfc.lifeyosso.fun:56374/vok_plustv/video.m3u8
 #EXTINF:-1 group-title="Мэйл Ру (VPN)" ,8TV HD
 http://bigteisti6.cdn.lifeyosso.fun:56371/8TV/video.m3u8
+#EXTINF:-1 group-title="Мэйл Ру (VPN)" ,FOX LIFE HD
+http://bigteisti2.kfc.lifeyosso.fun:56374/FOXLIFE/video.m3u8
 #EXTINF:-1 group-title="Мэйл Ру (VPN)" ,5 канал
 http://bigteisti6.cdn.lifeyosso.fun:56371/pyatbIiy_kAnAl/video.m3u8
+#EXTINF:-1 group-title="Мэйл Ру (VPN)" ,8 канал
+http://bigteisti2.kfc.lifeyosso.fun:56374/8kanal/video.m3u8
 #EXTINF:-1 group-title="Мэйл Ру (VPN)" ,2x2
 http://bigteisti6.cdn.lifeyosso.fun:56371/2x2/video.m3u8
 #EXTINF:-1 group-title="Мэйл Ру (VPN)" ,ICTV HD
@@ -2515,18 +2565,26 @@ http://bigteisti6.cdn.lifeyosso.fun:56371/Da_Vinci/video.m3u8
 http://bigteisti6.cdn.lifeyosso.fun:56371/GULLI/video.m3u8
 #EXTINF:-1 group-title="Мэйл Ру (VPN)" ,JIM JAM
 http://bigteisti2.cdn.lifeyosso.fun:32144/JIMJAM/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Мэйл Ру (VPN)" ,Малыш
+http://bigteisti2.kfc.lifeyosso.fun:56374/malish/video.m3u8
+#EXTINF:-1 group-title="Мэйл Ру (VPN)" ,Детский мир
+http://bigteisti2.kfc.lifeyosso.fun:56374/detskiy/video.m3u8
+#EXTINF:-1 group-title="Мэйл Ру (VPN)" ,О!
+http://bigteisti2.kfc.lifeyosso.fun:56374/O/video.m3u8
 #EXTINF:-1 group-title="Мэйл Ру (VPN)" ,Мама
 http://bigteisti2.cdn.lifeyosso.fun:32144/mama/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Мэйл Ру (VPN)" ,Nicktoons
 http://bigteisti6.cdn.lifeyosso.fun:56371/Nicktoons/video.m3u8
+#EXTINF:-1 group-title="Мэйл Ру (VPN)" ,Радость моя
+http://bigteisti2.kfc.lifeyosso.fun:56374/radost_moya/video.m3u8
 #EXTINF:-1 group-title="Мэйл Ру (VPN)" ,Сонце
 http://bigteisti6.cdn.lifeyosso.fun:56371/sonce/video.m3u8
 #EXTINF:-1 group-title="Мэйл Ру (VPN)" ,BOOMERANG HD
 http://bigteisti6.cdn.lifeyosso.fun:56371/BOOMERANG/video.m3u8
 #EXTINF:-1 group-title="Мэйл Ру (VPN)" ,CARTOON NETWORK
 http://bigteisti2.cdn.lifeyosso.fun:32144/CARTOONNETWORK/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Мэйл Ру (VPN)" ,MyZen TV
-http://bigteisti6.cdn.lifeyosso.fun:56371/myzen_hd/video.m3u8
+#EXTINF:-1 group-title="Мэйл Ру (VPN)" ,Aiva HD
+http://bigteisti6.cdn.lifeyosso.fun:56371/aiva/video.m3u8
 #EXTINF:-1 group-title="Мэйл Ру (VPN)" ,MTV Russia
 http://bigteisti6.cdn.lifeyosso.fun:56371/MTV_Russia/video.m3u8
 #EXTINF:-1 group-title="Мэйл Ру (VPN)" ,MTV 90s
@@ -2555,12 +2613,17 @@ http://bigteisti2.cdn.lifeyosso.fun:32144/KHLHD/tracks-v1a1/mono.m3u8
 http://bigteisti6.cdn.lifeyosso.fun:56371/KHL/video.m3u8
 #EXTINF:-1 group-title="Мэйл Ру (VPN)" ,Матч HD
 http://bigteisti6.cdn.lifeyosso.fun:56371/MATCHHD/video.m3u8
+#EXTINF:-1 group-title="Мэйл Ру (VPN)" ,Матч Премьер HD
+http://bigteisti2.kfc.lifeyosso.fun:56374/MPREMIER/video.m3u8
 #EXTINF:-1 group-title="Мэйл Ру (VPN)" ,Eurosport 2 HD
 http://bigteisti2.cdn.lifeyosso.fun:32144/eurosport2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Мэйл Ру (VPN)" ,Eurosport 2 HD
 http://bigteisti6.cdn.lifeyosso.fun:56371/eurosport_2/video.m3u8
 #EXTINF:-1 group-title="Мэйл Ру (VPN)" ,Eurosport 1 HD
 http://bigteisti6.cdn.lifeyosso.fun:56371/eurosport_1/video.m3u8
+
+
+
 
 
 
