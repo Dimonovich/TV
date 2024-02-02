@@ -215,6 +215,146 @@ http://live-1.otcnet.ru/pravdatv/tracks-v1a1/index.m3u8
 
 
 
+#EXTINF:-1 group-title="Interhost Communication" ,ПЕРВЫЙ КАНАЛ HD
+http://185.37.150.40:8092/Pervi_HD/index.m3u8
+#EXTINF:-1 group-title="Interhost Communication" ,РЕН ТВ
+http://185.37.150.40:8092/RenTV_HD/playlist.m3u8
+#EXTINF:-1 group-title="Interhost Communication" ,РТР Планета Европа
+http://185.37.150.40:8092/PTP_planeta/playlist.m3u8
+#EXTINF:-1 group-title="Interhost Communication" ,Россия 1 HD
+http://185.37.150.40:8092/Rossiya_HD/playlist.m3u8
+#EXTINF:-1 group-title="Interhost Communication" ,HTB HD
+http://185.37.150.40:8092/HTB_HD/playlist.m3u8
+#EXTINF:-1 group-title="Interhost Communication" ,THT4
+http://185.37.150.40:8092/THT4/playlist.m3u8
+#EXTINF:-1 group-title="Interhost Communication" ,Travel+Adventure
+http://185.37.150.40:8092/Travel_Adventure_HD/playlist.m3u8
+#EXTINF:-1 group-title="Interhost Communication" ,ИСТОРИЯ
+http://185.37.150.40:8092/Istoriya/playlist.m3u8
+#EXTINF:-1 group-title="Interhost Communication" ,Ocean TV
+http://185.37.150.40:8092/Okean/playlist.m3u8
+#EXTINF:-1 group-title="Interhost Communication" ,RTG HD
+http://185.37.150.40:8092/RTG_HD/playlist.m3u8
+#EXTINF:-1 group-title="Interhost Communication" ,Galaxy
+http://185.37.150.40:8092/Galaxy/playlist.m3u8
+#EXTINF:-1 group-title="Interhost Communication" ,ПЕРВЫЙ КОСМИЧЕСКИЙ HD
+http://185.37.150.40:8092/EurekaHD/playlist.m3u8
+#EXTINF:-1 group-title="Interhost Communication" ,Индия
+http://185.37.150.40:8092/Zee_TV/playlist.m3u8
+#EXTINF:-1 group-title="Interhost Communication" ,TV XXI
+http://185.37.150.40:8092/tv21/playlist.m3u8
+#EXTINF:-1 group-title="Interhost Communication" ,HCT
+http://185.37.150.40:8092/HCT/playlist.m3u8
+#EXTINF:-1 group-title="Interhost Communication" ,ДОМ КИНО
+http://185.37.150.40:8092/Dom_kino/playlist.m3u8
+#EXTINF:-1 group-title="Interhost Communication" ,АМЕДИА 1
+http://185.37.150.40:8092/Amedia1/playlist.m3u8
+#EXTINF:-1 group-title="Interhost Communication" ,АМЕДИА 2
+http://185.37.150.40:8092/Amedia2/playlist.m3u8
+#EXTINF:-1 group-title="Interhost Communication" ,Ginger HD
+http://185.37.150.40:8092/Ginger_HD/playlist.m3u8
+#EXTINF:-1 group-title="Interhost Communication" ,КИНОХИТ
+http://185.37.150.40:8092/kinohit/playlist.m3u8
+#EXTINF:-1 group-title="Interhost Communication" ,РОДНОЕ КИНО
+http://185.37.150.40:8092/Nashe_kino/playlist.m3u8
+#EXTINF:-1 group-title="Interhost Communication" ,КИНОСЕРИЯ
+http://185.37.150.40:8092/Mnogo_tv/playlist.m3u8
+#EXTINF:-1 group-title="Interhost Communication" ,КИНОКОМЕДИЯ
+http://185.37.150.40:8092/Komediya/playlist.m3u8
+#EXTINF:-1 group-title="Interhost Communication" ,КИНОМИКС
+http://185.37.150.40:8092/kino_plus/playlist.m3u8
+#EXTINF:-1 group-title="Interhost Communication" ,RED
+http://185.37.150.40:8092/Sony_enter/playlist.m3u8
+#EXTINF:-1 group-title="Interhost Communication" ,Sky-Fi HD
+http://185.37.150.40:8092/Axn_skyfi/playlist.m3u8
+#EXTINF:-1 group-title="Interhost Communication" ,МУЖСКОЕ КИНО
+http://185.37.150.40:8092/Muj_kino/playlist.m3u8
+#EXTINF:-1 group-title="Interhost Communication" ,РУССКИЙ БЕСТСЕЛЛЕР
+http://185.37.150.40:8092/russkiy_b/playlist.m3u8
+#EXTINF:-1 group-title="Interhost Communication" ,КИНОПОКАЗ
+http://185.37.150.40:8092/Kinopokaz/playlist.m3u8
+#EXTINF:-1 group-title="Interhost Communication" ,ИЛЛЮЗИОН ПЛЮС
+http://185.37.150.40:8092/Illyuzion/playlist.m3u8
+#EXTINF:-1 group-title="Interhost Communication" ,ЕВРОКИНО
+http://185.37.150.40:8092/Evrokino/playlist.m3u8
+#EXTINF:-1 group-title="Interhost Communication" ,Super
+http://185.37.150.40:8092/Super/playlist.m3u8
+#EXTINF:-1 group-title="Interhost Communication" ,ВРЕМЯ
+http://185.37.150.40:8092/Vremya/playlist.m3u8
+#EXTINF:-1 group-title="Interhost Communication" ,ПЕРЕЦ
+http://185.37.150.40:8092/Perec/playlist.m3u8
+#EXTINF:-1 group-title="Interhost Communication" ,КВН
+http://185.37.150.40:8092/kvn/playlist.m3u8
+#EXTINF:-1 group-title="Interhost Communication" ,CАРАФАН
+http://185.37.150.40:8092/sarafan/playlist.m3u8
+#EXTINF:-1 group-title="Interhost Communication" ,АВТО 24
+http://185.37.150.40:8092/avto24/playlist.m3u8
+#EXTINF:-1 group-title="Interhost Communication" ,КУХНЯ ТВ
+http://185.37.150.40:8092/Kuhnya_TV/playlist.m3u8
+#EXTINF:-1 group-title="Interhost Communication" ,ТЕЛЕКАФЕ
+http://185.37.150.40:8092/Telekafe/playlist.m3u8
+#EXTINF:-1 group-title="Interhost Communication" ,ЦТВ
+http://185.37.150.40:8092/ctv/playlist.m3u8
+#EXTINF:-1 group-title="Interhost Communication" ,ЗООРАРК
+http://185.37.150.40:8092/Zoo/playlist.m3u8
+#EXTINF:-1 group-title="Interhost Communication" ,ОРУЖИЕ
+http://185.37.150.40:8092/orujie/playlist.m3u8
+#EXTINF:-1 group-title="Interhost Communication" ,ПОЕХАЛИ
+http://185.37.150.40:8092/Poehali/playlist.m3u8
+#EXTINF:-1 group-title="Interhost Communication" ,RTVI
+http://185.37.150.40:8092/rtvi/playlist.m3u8
+#EXTINF:-1 group-title="Interhost Communication" ,ДОКТОР
+http://185.37.150.40:8092/24Doc/playlist.m3u8
+#EXTINF:-1 group-title="Interhost Communication" ,8 Канал
+http://185.37.150.40:8092/8kanal/playlist.m3u8
+#EXTINF:-1 group-title="Interhost Communication" ,ЕДА HD
+http://185.37.150.40:8092/Eda_HD/playlist.m3u8
+#EXTINF:-1 group-title="Interhost Communication" ,ЖИВИ
+http://185.37.150.40:8092/jivi/playlist.m3u8
+#EXTINF:-1 group-title="Interhost Communication" ,Euronews
+http://185.37.150.40:8092/Euronews/playlist.m3u8
+#EXTINF:-1 group-title="Interhost Communication" ,СТС HD
+http://185.37.150.40:8092/CTC_HD/playlist.m3u8
+#EXTINF:-1 group-title="Interhost Communication" ,ТВЦ
+http://185.37.150.40:8092/TVC/playlist.m3u8
+#EXTINF:-1 group-title="Interhost Communication" ,ТВ3
+http://185.37.150.40:8092/tv_3/playlist.m3u8
+#EXTINF:-1 group-title="Interhost Communication" ,ЧЕ
+http://185.37.150.40:8092/Che/playlist.m3u8
+#EXTINF:-1 group-title="Interhost Communication" ,ДОМАШНИЙ
+http://185.37.150.40:8092/Domashni/playlist.m3u8
+#EXTINF:-1 group-title="Interhost Communication" ,5 КАНАЛ
+http://185.37.150.40:8092/5_kanal/playlist.m3u8
+#EXTINF:-1 group-title="Interhost Communication" ,World-fashion
+http://185.37.150.40:8092/World_Fashion/playlist.m3u8
+#EXTINF:-1 group-title="Interhost Communication" ,ЗВЕЗДА
+http://185.37.150.40:8092/Zvezda/playlist.m3u8
+#EXTINF:-1 group-title="Interhost Communication" ,РОССИЯ К
+http://185.37.150.40:8092/Rus_kultura/playlist.m3u8
+#EXTINF:-1 group-title="Interhost Communication" ,Інтер
+http://185.37.150.40:8092/Inter/playlist.m3u8
+#EXTINF:-1 group-title="Interhost Communication" ,2X2
+http://185.37.150.40:8092/2_2/playlist.m3u8
+#EXTINF:-1 group-title="Interhost Communication" ,МАМА
+http://185.37.150.40:8092/Mama/playlist.m3u8
+#EXTINF:-1 group-title="Interhost Communication" ,БОБЕР
+http://185.37.150.40:8092/Bober/playlist.m3u8
+#EXTINF:-1 group-title="Interhost Communication" ,УНИКУМ
+http://185.37.150.40:8092/Detskiy/playlist.m3u8
+#EXTINF:-1 group-title="Interhost Communication" ,КАРУСЕЛЬ
+http://185.37.150.40:8092/Karusel/playlist.m3u8
+#EXTINF:-1 group-title="Interhost Communication" ,МУЛЬТИЛАНДИЯ
+http://185.37.150.40:8092/Multimaniya/playlist.m3u8
+#EXTINF:-1 group-title="Interhost Communication" ,МУЛЬТ HD
+http://185.37.150.40:8092/TLUMHD/playlist.m3u8
+#EXTINF:-1 group-title="Interhost Communication" ,Пiксель ТВ
+http://185.37.150.40:8092/Piksel/playlist.m3u8
+#EXTINF:-1 group-title="Interhost Communication" ,МАТЧ ПРЕМЬЕР
+http://185.37.150.40:8092/Nash_futbol_HD/playlist.m3u8
+#EXTINF:-1 group-title="Interhost Communication" ,KHL PRIME
+http://185.37.150.40:8092/KHL_HD/index.m3u8
+#EXTINF:-1 group-title="Interhost Communication" ,Матч! Боец
+http://185.37.150.40:8092/Boec/playlist.m3u8
 
 
 
