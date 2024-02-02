@@ -219,7 +219,7 @@ http://live-1.otcnet.ru/pravdatv/tracks-v1a1/index.m3u8
 http://185.37.150.40:8092/Pervi_HD/index.m3u8
 #EXTINF:-1 group-title="Interhost Communication" ,РЕН ТВ
 http://185.37.150.40:8092/RenTV_HD/playlist.m3u8
-#EXTINF:-1 group-title="Interhost Communication" ,tvg-id="rtr-planeta-eu",РТР Планета
+#EXTINF:-1 group-title="Interhost Communication" ,Россия 1
 http://185.37.150.40:8092/PTP_planeta/playlist.m3u8
 #EXTINF:-1 group-title="Interhost Communication" ,Россия 1 HD
 http://185.37.150.40:8092/Rossiya_HD/playlist.m3u8
