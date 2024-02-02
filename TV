@@ -267,7 +267,7 @@ http://185.37.150.40:8092/Komediya/playlist.m3u8
 http://185.37.150.40:8092/Muj_kino/playlist.m3u8
 #EXTINF:-1 group-title="Interhost Communication" ,КИНОМИКС
 http://185.37.150.40:8092/kino_plus/playlist.m3u8
-#EXTINF:-1 group-title="Interhost Communication" ,/RED
+#EXTINF:-1 group-title="Interhost Communication" ,.RED
 http://185.37.150.40:8092/Sony_enter/playlist.m3u8
 #EXTINF:-1 group-title="Interhost Communication" ,.Sci-Fi HD
 http://185.37.150.40:8092/Axn_skyfi/playlist.m3u8
@@ -275,7 +275,7 @@ http://185.37.150.40:8092/Axn_skyfi/playlist.m3u8
 http://185.37.150.40:8092/russkiy_b/playlist.m3u8
 #EXTINF:-1 group-title="Interhost Communication" ,КИНОПОКАЗ
 http://185.37.150.40:8092/Kinopokaz/playlist.m3u8
-#EXTINF:-1 group-title="Interhost Communication" ,ИЛЛЮЗИОН ПЛЮС
+#EXTINF:-1 group-title="Interhost Communication" ,ИЛЛЮЗИОН+
 http://185.37.150.40:8092/Illyuzion/playlist.m3u8
 #EXTINF:-1 group-title="Interhost Communication" ,ЕВРОКИНО
 http://185.37.150.40:8092/Evrokino/playlist.m3u8
