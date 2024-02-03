@@ -3461,8 +3461,6 @@ http://hls.k-telecom.org:8081/kt/65/playlist.m3u8
 http://hls.k-telecom.org:8081/kt/116/playlist.m3u8
 #EXTINF:-1 group-title="К Телеком_2 (VPN)" ,МОЯ ПЛАНЕТА HD
 http://hls.k-telecom.org:8081/kt/150/playlist.m3u8
-#EXTINF:-1 group-title="К Телеком_2 (VPN)" ,МУЖСКОЕ КИНО
-http://hls.k-telecom.org:8081/kt/195/playlist.m3u8
 #EXTINF:-1 group-title="К Телеком_2 (VPN)" ,Нано ТВ
 http://hls.k-telecom.org:8081/kt/73/playlist.m3u8
 #EXTINF:-1 group-title="К Телеком_2 (VPN)" ,НАУКА
@@ -3477,6 +3475,8 @@ http://hls.k-telecom.org:8081/kt/178/playlist.m3u8
 http://hls.k-telecom.org:8081/kt/45/playlist.m3u8
 #EXTINF:-1 group-title="К Телеком_2 (VPN)" ,ОХОТНИК И РЫБОЛОВ HD
 http://hls.k-telecom.org:8081/kt/122/playlist.m3u8
+#EXTINF:-1 group-title="К Телеком_2 (VPN)" ,ИСТОРИЯ
+http://hls.k-telecom.org:8081/kt/82/playlist.m3u8
 #EXTINF:-1 group-title="К Телеком_2 (VPN)" ,ТНВ-Татарстан
 http://hls.k-telecom.org:8081/kt/137/playlist.m3u8
 #EXTINF:-1 group-title="К Телеком_2 (VPN)" ,ЗАГОРОДНЫЙ
@@ -3487,7 +3487,7 @@ http://hls.k-telecom.org:8081/kt/213/playlist.m3u8
 http://hls.k-telecom.org:8081/kt/72/playlist.m3u8
 #EXTINF:-1 group-title="К Телеком_2 (VPN)" ,Первый вегетарианский
 http://hls.k-telecom.org:8081/kt/161/playlist.m3u8
-#EXTINF:-1 group-title="К Телеком_2 (VPN)" ,2х2
+#EXTINF:-1 group-title="К Телеком_2 (VPN)" ,2x2
 http://hls.k-telecom.org:8081/kt/34/playlist.m3u8
 #EXTINF:-1 group-title="К Телеком_2 (VPN)" ,360 HD
 http://hls.k-telecom.org:8081/kt/149/playlist.m3u8
@@ -3527,7 +3527,7 @@ http://hls.k-telecom.org:8081/kt/208/playlist.m3u8
 http://hls.k-telecom.org:8081/kt/211/playlist.m3u8
 #EXTINF:-1 group-title="К Телеком_2 (VPN)" ,Plan B
 http://hls.k-telecom.org:8081/kt/207/playlist.m3u8
-#EXTINF:-1 group-title="К Телеком_2 (VPN)" ,RTD HD
+#EXTINF:-1 group-title="К Телеком_2 (VPN)" ,RT HD
 http://hls.k-telecom.org:8081/kt/113/playlist.m3u8
 #EXTINF:-1 group-title="К Телеком_2 (VPN)" ,TVM CHANNEL
 http://hls.k-telecom.org:8081/kt/111/playlist.m3u8
@@ -3557,7 +3557,7 @@ http://hls.k-telecom.org:8081/kt/179/playlist.m3u8
 http://hls.k-telecom.org:8081/kt/63/playlist.m3u8
 #EXTINF:-1 group-title="К Телеком_2 (VPN)" ,ЕДА
 http://hls.k-telecom.org:8081/kt/12/playlist.m3u8
-#EXTINF:-1 group-title="К Телеком_2 (VPN)" ,ЖАРА ТВ
+#EXTINF:-1 group-title="К Телеком_2 (VPN)" ,ЖАРА
 http://hls.k-telecom.org:8081/kt/17/playlist.m3u8
 #EXTINF:-1 group-title="К Телеком_2 (VPN)" ,Звезда
 http://hls.k-telecom.org:8081/kt/27/playlist.m3u8
@@ -3567,10 +3567,6 @@ http://hls.k-telecom.org:8081/kt/180/playlist.m3u8
 http://hls.k-telecom.org:8081/kt/255/playlist.m3u8
 #EXTINF:-1 group-title="К Телеком_2 (VPN)" ,Зоопарк
 http://hls.k-telecom.org:8081/kt/77/playlist.m3u8
-#EXTINF:-1 group-title="К Телеком_2 (VPN)" ,ИНДИЙСКОЕ КИНО
-http://hls.k-telecom.org:8081/kt/168/playlist.m3u8
-#EXTINF:-1 group-title="К Телеком_2 (VPN)" ,ИСТОРИЯ
-http://hls.k-telecom.org:8081/kt/82/playlist.m3u8
 #EXTINF:-1 group-title="К Телеком_2 (VPN)" ,Калейдоскоп ТВ
 http://hls.k-telecom.org:8081/kt/40/playlist.m3u8
 #EXTINF:-1 group-title="К Телеком_2 (VPN)" ,КАПИТАН ФАНТАСТИКА HD
@@ -3587,10 +3583,18 @@ http://hls.k-telecom.org:8081/kt/124/playlist.m3u8
 http://hls.k-telecom.org:8081/kt/194/playlist.m3u8
 #EXTINF:-1 group-title="К Телеком_2 (VPN)" ,КИНОМИКС
 http://hls.k-telecom.org:8081/kt/193/playlist.m3u8
+#EXTINF:-1 group-title="К Телеком_2 (VPN)" ,НАШЕ НОВОЕ КИНО
+http://hls.k-telecom.org:8081/kt/199/playlist.m3u8
+#EXTINF:-1 group-title="К Телеком_2 (VPN)" ,ИНДИЙСКОЕ КИНО
+http://hls.k-telecom.org:8081/kt/168/playlist.m3u8
+#EXTINF:-1 group-title="К Телеком_2 (VPN)" ,МУЖСКОЕ КИНО
+http://hls.k-telecom.org:8081/kt/195/playlist.m3u8
 #EXTINF:-1 group-title="К Телеком_2 (VPN)" ,КИНОПРЕМЬЕРА HD
 http://hls.k-telecom.org:8081/kt/157/playlist.m3u8
 #EXTINF:-1 group-title="К Телеком_2 (VPN)" ,КИНОСВИДАНИЕ
 http://hls.k-telecom.org:8081/kt/196/playlist.m3u8
+#EXTINF:-1 group-title="К Телеком_2 (VPN)" ,Родное кино
+http://hls.k-telecom.org:8081/kt/101/playlist.m3u8
 #EXTINF:-1 group-title="К Телеком_2 (VPN)" ,КИНОСЕМЬЯ
 http://hls.k-telecom.org:8081/kt/198/playlist.m3u8
 #EXTINF:-1 group-title="К Телеком_2 (VPN)" ,КИНОСЕРИЯ
@@ -3619,12 +3623,10 @@ http://hls.k-telecom.org:8081/kt/144/playlist.m3u8
 http://hls.k-telecom.org:8081/kt/192/playlist.m3u8
 #EXTINF:-1 group-title="К Телеком_2 (VPN)" ,МОСФИЛЬМ. ЗОЛОТАЯ КОЛЛЕКЦИЯ
 http://hls.k-telecom.org:8081/kt/251/playlist.m3u8
-#EXTINF:-1 group-title="К Телеком_2 (VPN)" ,НАШЕ ЛЮБИМОЕ КИНО
+#EXTINF:-1 group-title="К Телеком_2 (VPN)" ,ЛЮБИМОЕ КИНО
 http://hls.k-telecom.org:8081/kt/119/playlist.m3u8
 #EXTINF:-1 group-title="К Телеком_2 (VPN)" ,НАШЕ МУЖСКОЕ
 http://hls.k-telecom.org:8081/kt/159/playlist.m3u8
-#EXTINF:-1 group-title="К Телеком_2 (VPN)" ,НАШЕ НОВОЕ КИНО
-http://hls.k-telecom.org:8081/kt/199/playlist.m3u8
 #EXTINF:-1 group-title="К Телеком_2 (VPN)" ,НОСТАЛЬГИЯ
 http://hls.k-telecom.org:8081/kt/188/playlist.m3u8
 #EXTINF:-1 group-title="К Телеком_2 (VPN)" ,НСТ
@@ -3651,8 +3653,6 @@ http://hls.k-telecom.org:8081/kt/9/playlist.m3u8
 http://hls.k-telecom.org:8081/kt/37/playlist.m3u8
 #EXTINF:-1 group-title="К Телеком_2 (VPN)" ,Ретро
 http://hls.k-telecom.org:8081/kt/43/playlist.m3u8
-#EXTINF:-1 group-title="К Телеком_2 (VPN)" ,Родное кино
-http://hls.k-telecom.org:8081/kt/101/playlist.m3u8
 #EXTINF:-1 group-title="К Телеком_2 (VPN)" ,РУССКАЯ КОМЕДИЯ
 http://hls.k-telecom.org:8081/kt/219/playlist.m3u8
 #EXTINF:-1 group-title="К Телеком_2 (VPN)" ,РУССКИЙ БЕСТСЕЛЛЕР
@@ -3689,8 +3689,6 @@ http://hls.k-telecom.org:8081/kt/189/playlist.m3u8
 http://hls.k-telecom.org:8081/kt/117/playlist.m3u8
 #EXTINF:-1 group-title="К Телеком_2 (VPN)" ,Ю
 http://hls.k-telecom.org:8081/kt/30/playlist.m3u8
-#EXTINF:-1 group-title="К Телеком_2 (VPN)" ,ТИП ТОП HD
-http://hls.k-telecom.org:8081/kt/182/playlist.m3u8
 #EXTINF:-1 group-title="К Телеком_2 (VPN)" ,Точка тв
 http://hls.k-telecom.org:8081/kt/66/playlist.m3u8
 #EXTINF:-1 group-title="К Телеком_2 (VPN)" ,ТРИ АНГЕЛА
@@ -3707,6 +3705,8 @@ http://hls.k-telecom.org:8081/kt/92/playlist.m3u8
 http://hls.k-telecom.org:8081/kt/175/playlist.m3u8
 #EXTINF:-1 group-title="К Телеком_2 (VPN)" ,Солнце
 http://hls.k-telecom.org:8081/kt/56/playlist.m3u8
+#EXTINF:-1 group-title="К Телеком_2 (VPN)" ,ТИП-ТОП HD
+http://hls.k-telecom.org:8081/kt/182/playlist.m3u8
 #EXTINF:-1 group-title="К Телеком_2 (VPN)" ,СТС KIDS
 http://hls.k-telecom.org:8081/kt/33/playlist.m3u8
 #EXTINF:-1 group-title="К Телеком_2 (VPN)" ,РЫЖИЙ
@@ -3715,7 +3715,7 @@ http://hls.k-telecom.org:8081/kt/231/playlist.m3u8
 http://hls.k-telecom.org:8081/kt/51/playlist.m3u8
 #EXTINF:-1 group-title="К Телеком_2 (VPN)" ,Карусель
 http://hls.k-telecom.org:8081/kt/8/playlist.m3u8
-#EXTINF:-1 group-title="К Телеком_2 (VPN)" ,ЛЕВА HD
+#EXTINF:-1 group-title="К Телеком_2 (VPN)" ,Лёва
 http://hls.k-telecom.org:8081/kt/74/playlist.m3u8
 #EXTINF:-1 group-title="К Телеком_2 (VPN)" ,МАМА
 http://hls.k-telecom.org:8081/kt/32/playlist.m3u8
@@ -3761,7 +3761,7 @@ http://hls.k-telecom.org:8081/kt/90/playlist.m3u8
 http://hls.k-telecom.org:8081/kt/106/playlist.m3u8
 #EXTINF:-1 group-title="К Телеком_2 (VPN)" ,Футбол
 http://hls.k-telecom.org:8081/kt/100/playlist.m3u8
-#EXTINF:-1 group-title="К Телеком_2 (VPN)" ,МОТОРСПОРТ
+#EXTINF:-1 group-title="К Телеком_2 (VPN)" ,Моторспорт ТВ
 http://hls.k-telecom.org:8081/kt/226/playlist.m3u8
 #EXTINF:-1 group-title="К Телеком_2 (VPN)" ,МАТЧ! АРЕНА
 http://hls.k-telecom.org:8081/kt/143/playlist.m3u8
