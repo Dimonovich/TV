@@ -321,8 +321,6 @@ https://bkm.beetv.kz/btv/live/hls/000002927.m3u8
 https://bkm.beetv.kz/btv/live/hls/000000663.m3u8
 #EXTINF:-1 group-title="Орбита Плюс",8 КАНАЛ
 https://bkm.beetv.kz/btv/live/hls/000001564.m3u8
-#EXTINF:-1 group-title="Орбита Плюс",Almaty TV
-https://bkm.beetv.kz/btv/live/hls/000000667.m3u8
 #EXTINF:-1 group-title="Орбита Плюс",Amedia 1
 https://bkm.beetv.kz/btv/live/hls/000000710.m3u8
 #EXTINF:-1 group-title="Орбита Плюс",Amedia 2
@@ -357,8 +355,6 @@ https://bkm.beetv.kz/btv/live/hls/000000868.m3u8
 https://bkm.beetv.kz/btv/live/hls/000004375.m3u8
 #EXTINF:-1 group-title="Орбита Плюс",АВТО 24
 https://bkm.beetv.kz/btv/live/hls/000000815.m3u8
-#EXTINF:-1 group-title="Орбита Плюс",АйFak
-https://bkm.beetv.kz/btv/live/hls/000001510.m3u8
 #EXTINF:-1 group-title="Орбита Плюс",Amedia Hit
 https://bkm.beetv.kz/btv/live/hls/000001662.m3u8
 #EXTINF:-1 group-title="Орбита Плюс",АНЕКДОТ ТВ
@@ -383,8 +379,6 @@ https://bkm.beetv.kz/btv/live/hls/000000588.m3u8
 https://bkm.beetv.kz/btv/live/hls/000000147.m3u8
 #EXTINF:-1 group-title="Орбита Плюс",КАПИТАН ФАНТАСТИКА
 https://bkm.beetv.kz/btv/live/hls/000001474.m3u8
-#EXTINF:-1 group-title="Орбита Плюс",КТК
-https://bkm.beetv.kz/btv/live/hls/000000672.m3u8
 #EXTINF:-1 group-title="Орбита Плюс",КТО КУДА
 https://bkm.beetv.kz/btv/live/hls/000001377.m3u8
 #EXTINF:-1 group-title="Орбита Плюс",ЛЮБИМОЕ КИНО
@@ -425,8 +419,6 @@ https://bkm.beetv.kz/btv/live/hls/000000206.m3u8
 https://bkm.beetv.kz/btv/live/hls/000007625.m3u8
 #EXTINF:-1 group-title="Орбита Плюс",Мосфильм. Золотая коллекция
 https://bkm.beetv.kz/btv/live/hls/000006365.m3u8
-#EXTINF:-1 group-title="Орбита Плюс",ТОЙ  ДУМАН
-https://bkm.beetv.kz/btv/live/hls/000002936.m3u8
 #EXTINF:-1 group-title="Орбита Плюс",ФЕНИКС+КИНО
 https://bkm.beetv.kz/btv/live/hls/000000125.m3u8
 #EXTINF:-1 group-title="Орбита Плюс",ЦЕНТРАЛЬНОЕ ТЕЛЕВИДЕНИЕ
@@ -451,13 +443,9 @@ https://bkm.beetv.kz/btv/live/hls/000004472.m3u8
 https://bkm.beetv.kz/btv/live/hls/000004471.m3u8
 #EXTINF:-1 group-title="Орбита Плюс",Дорама HD
 https://bkm.beetv.kz/btv/live/hls/000003392.m3u8
-#EXTINF:-1 group-title="Орбита Плюс",QAlem 1HD
-https://bkm.beetv.kz/btv/live/hls/000005449.m3u8
-#EXTINF:-1 group-title="Орбита Плюс",QAlem 2HD
-https://bkm.beetv.kz/btv/live/hls/000005450.m3u8
 #EXTINF:-1 group-title="Орбита Плюс",Победа
 https://bkm.beetv.kz/btv/live/hls/000004534.m3u8
-#EXTINF:-1 group-title="Орбита Плюс",FILMUADrama
+#EXTINF:-1 group-title="Орбита Плюс" tvg-id="filmua-drama",FILM UA Drama
 https://bkm.beetv.kz/btv/live/hls/000003028.m3u8
 #EXTINF:-1 group-title="Орбита Плюс",ТВ 3 International
 https://bkm.beetv.kz/btv/live/hls/000004712.m3u8
@@ -477,9 +465,9 @@ https://bkm.beetv.kz/btv/live/hls/000001829.m3u8
 https://bkm.beetv.kz/btv/live/hls/000003718.m3u8
 #EXTINF:-1 group-title="Орбита Плюс",France 24 HD
 https://bkm.beetv.kz/btv/live/hls/000000290.m3u8
-#EXTINF:-1 group-title="Орбита Плюс",Start.Air HD
+#EXTINF:-1 group-title="Орбита Плюс",START Air HD
 https://bkm.beetv.kz/btv/live/hls/000007815.m3u8
-#EXTINF:-1 group-title="Орбита Плюс",Start.World HD
+#EXTINF:-1 group-title="Орбита Плюс",START World
 https://bkm.beetv.kz/btv/live/hls/000007818.m3u8
 #EXTINF:-1 group-title="Орбита Плюс",CNN International
 https://bkm.beetv.kz/btv/live/hls/000000707.m3u8
@@ -493,8 +481,6 @@ https://bkm.beetv.kz/btv/live/hls/000003910.m3u8
 https://bkm.beetv.kz/btv/live/hls/000003748.m3u8
 #EXTINF:-1 group-title="Орбита Плюс",TRT AVAZ HD
 https://bkm.beetv.kz/btv/live/hls/000003240.m3u8
-#EXTINF:-1 group-title="Орбита Плюс",EuroNews English HD
-https://bkm.beetv.kz/btv/live/hls/000002455.m3u8
 #EXTINF:-1 group-title="Орбита Плюс",El Arna
 https://bkm.beetv.kz/btv/live/hls/000000670.m3u8
 #EXTINF:-1 group-title="Орбита Плюс",Jetisy
@@ -505,6 +491,18 @@ https://bkm.beetv.kz/btv/live/hls/000000941.m3u8
 https://bkm.beetv.kz/btv/live/hls/000002851.m3u8
 #EXTINF:-1 group-title="Орбита Плюс",Atameken tv
 https://bkm.beetv.kz/btv/live/hls/000001404.m3u8
+#EXTINF:-1 group-title="Орбита Плюс",Almaty TV
+https://bkm.beetv.kz/btv/live/hls/000000667.m3u8
+#EXTINF:-1 group-title="Орбита Плюс",АйFak
+https://bkm.beetv.kz/btv/live/hls/000001510.m3u8
+#EXTINF:-1 group-title="Орбита Плюс",КТК
+https://bkm.beetv.kz/btv/live/hls/000000672.m3u8
+#EXTINF:-1 group-title="Орбита Плюс",ТОЙ  ДУМАН
+https://bkm.beetv.kz/btv/live/hls/000002936.m3u8
+#EXTINF:-1 group-title="Орбита Плюс",QAlem 1HD
+https://bkm.beetv.kz/btv/live/hls/000005449.m3u8
+#EXTINF:-1 group-title="Орбита Плюс",QAlem 2HD
+https://bkm.beetv.kz/btv/live/hls/000005450.m3u8
 #EXTINF:-1 group-title="Орбита Плюс",Алау тв
 https://bkm.beetv.kz/btv/live/hls/000001511.m3u8
 #EXTINF:-1 group-title="Орбита Плюс",Ирбис тв
@@ -545,12 +543,30 @@ https://bkm.beetv.kz/btv/live/hls/000003038.m3u8
 https://bkm.beetv.kz/btv/live/hls/000000659.m3u8
 #EXTINF:-1 group-title="Орбита Плюс",Mańǵystaý
 https://bkm.beetv.kz/btv/live/hls/000003247.m3u8
+#EXTINF:-1 group-title="Орбита Плюс",BBC World News
+https://bkm.beetv.kz/btv/live/hls/000000014.m3u8
+#EXTINF:-1 group-title="Орбита Плюс",Caspian News
+https://bkm.beetv.kz/btv/live/hls/000004646.m3u8
+#EXTINF:-1 group-title="Орбита Плюс",Наша Тема
+https://bkm.beetv.kz/btv/live/hls/000003785.m3u8
+#EXTINF:-1 group-title="Орбита Плюс",TMB TV
+https://bkm.beetv.kz/btv/live/hls/000003452.m3u8
+#EXTINF:-1 group-title="Орбита Плюс",Дача HD
+https://bkm.beetv.kz/btv/live/hls/000006646.m3u8
+#EXTINF:-1 group-title="Орбита Плюс",Домашний International
+https://bkm.beetv.kz/btv/live/hls/000002348.m3u8
+#EXTINF:-1 group-title="Орбита Плюс",Women's Magazine HD
+https://bkm.beetv.kz/btv/live/hls/000008065.m3u8
 #EXTINF:-1 group-title="Орбита Плюс",Ońtústik
 https://bkm.beetv.kz/btv/live/hls/000003251.m3u8
 #EXTINF:-1 group-title="Орбита Плюс",Qyzyljar
 https://bkm.beetv.kz/btv/live/hls/000003249.m3u8
 #EXTINF:-1 group-title="Орбита Плюс",Saryarqa
 https://bkm.beetv.kz/btv/live/hls/000003146.m3u8
+#EXTINF:-1 group-title="Орбита Плюс",Ertis
+https://bkm.beetv.kz/btv/live/hls/000003248.m3u8
+#EXTINF:-1 group-title="Орбита Плюс",Jambyl
+https://bkm.beetv.kz/btv/live/hls/000003244.m3u8
 #EXTINF:-1 group-title="Орбита Плюс",Kókshe
 https://bkm.beetv.kz/btv/live/hls/000003021.m3u8
 #EXTINF:-1 group-title="Орбита Плюс",Qyzylorda
@@ -677,24 +693,6 @@ https://bkm.beetv.kz/btv/live/hls/000006998.m3u8
 https://bkm.beetv.kz/btv/live/hls/000006899.m3u8
 #EXTINF:-1 group-title="Орбита Плюс",Q League
 https://bkm.beetv.kz/btv/live/hls/000006969.m3u8
-#EXTINF:-1 group-title="Орбита Плюс",BBC World News
-https://bkm.beetv.kz/btv/live/hls/000000014.m3u8
-#EXTINF:-1 group-title="Орбита Плюс",Caspian News
-https://bkm.beetv.kz/btv/live/hls/000004646.m3u8
-#EXTINF:-1 group-title="Орбита Плюс",Наша Тема
-https://bkm.beetv.kz/btv/live/hls/000003785.m3u8
-#EXTINF:-1 group-title="Орбита Плюс",TMB TV
-https://bkm.beetv.kz/btv/live/hls/000003452.m3u8
-#EXTINF:-1 group-title="Орбита Плюс",Дача HD
-https://bkm.beetv.kz/btv/live/hls/000006646.m3u8
-#EXTINF:-1 group-title="Орбита Плюс",Ertis
-https://bkm.beetv.kz/btv/live/hls/000003248.m3u8
-#EXTINF:-1 group-title="Орбита Плюс",Jambyl
-https://bkm.beetv.kz/btv/live/hls/000003244.m3u8
-#EXTINF:-1 group-title="Орбита Плюс",Домашний International
-https://bkm.beetv.kz/btv/live/hls/000002348.m3u8
-#EXTINF:-1 group-title="Орбита Плюс",Women's Magazine HD
-https://bkm.beetv.kz/btv/live/hls/000008065.m3u8
 
 
 
