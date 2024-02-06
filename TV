@@ -10084,6 +10084,8 @@ http://127.0.0.1:6878/ace/getstream?id=3147c586346aee00c005d1caa55204d38678c95f&
 http://127.0.0.1:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229&.mp4
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Dazn 2 Bar HD
 http://127.0.0.1:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865&.mp4
+#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️" ,SKY SPORTS PREMIER LEAGUE UK
+http://127.0.0.1:6878/ace/getstream?infohash=b81a8e83ac842cf7e06b33c999002571ca1861b3
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️" tvg-logo="http://epg.it999.ru/img/4572.png",SKY SPORTS ARENA UK
 http://127.0.0.1:6878/ace/getstream?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c&.mp4
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️" tvg-logo="http://epg.it999.ru/img/4577.png",SKY SPORTS CRICKET UK
@@ -10116,5 +10118,27 @@ http://127.0.0.1:6878/ace/getstream?id=77800bb07c1d69135024ee2379c97472eb12dd45&
 http://127.0.0.1:6878/ace/getstream?id=45eab0695ce13265687ace5e5bcef8d8ee8bc69a&.mp4
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Ziggo Sport Voetbal
 http://127.0.0.1:6878/ace/getstream?id=95769f95c6af45e8ec46526c3be1104d0a0c7b91&.mp4
+#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",[magenta] Sport 1 - myTeamTV
+http://127.0.0.1:6878/ace/getstream?infohash=1d08eb70e51005f6b52c07c69cbe7ad8b515d174
+#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",[magenta] Sport 2 - myTeamTV
+http://127.0.0.1:6878/ace/getstream?infohash=0b8dd14fae3fd9f6b4adcec6c26f53490c4c52a6
+#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",[magenta] Sport 3 - myTeamTV
+http://127.0.0.1:6878/ace/getstream?infohash=eb9ef8cfb7193b087f66c2072ad97d36cd266a9d
+#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",[magenta] Sport 4 - myTeamTV
+http://127.0.0.1:6878/ace/getstream?infohash=bf65ee0790793f4f773c39b6fde8fdbe3fbb9465
+#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",[magenta] Sport 5 - myTeamTV
+http://127.0.0.1:6878/ace/getstream?infohash=92d464a26a857d119c098eefac43bfb25e6e5f1a
+#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",[magenta] Sport 6 - myTeamTV
+http://127.0.0.1:6878/ace/getstream?infohash=c7da2bedd584836e3eab3199939e471e5dcae8fc
+#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",[magenta] Sport 7 - myTeamTV
+http://127.0.0.1:6878/ace/getstream?infohash=8c54e949d608a0f154a36ad0ff9a9a3397a40a4a
+#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",[magenta] Sport 8 - myTeamTV
+http://127.0.0.1:6878/ace/getstream?infohash=6d2d997aea908ffc6c61b43b5053f65c3b02f4df
+#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",[magenta] Sport 9 - myTeamTV
+http://127.0.0.1:6878/ace/getstream?infohash=ce9dfe7efa2fd304947f8b57554a524479b4de9e
+#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Magenta Sport 10 HD [DE]
+http://127.0.0.1:6878/ace/getstream?infohash=ab4f0c0791a41b00cf45e26e3a783314750481ac
+#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Magenta Sport 11 HD [DE]
+http://127.0.0.1:6878/ace/getstream?infohash=348ef293fa3338b18559c37f96b7ce1861fa4f11
 
 
