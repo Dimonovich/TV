@@ -46,21 +46,6 @@
     "udpdns": false
   },
   {
-    "server": "139.162.143.24",
-    "server_port": 8080,
-    "password": "XlUFgoOqDlVqlZFD3Js0YA",
-    "method": "CHACHA20-IETF-POLY1305",
-    "remarks": "🇳🇱 Нидерланды 2 (https://t.me/freeneo_net)",
-    "route": "all",
-    "remote_dns": "one.one.one.one",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
     "server": "217.30.10.70",
     "server_port": 9044,
     "password": "KBGjZYcy4SyRShmA",
