@@ -15,7 +15,7 @@ http://hlstest.eltex-media.ru:8085/Rossia1/index.m3u8
 http://217.25.80.15/Rossia_Kul_tura/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 ,Россия 24
-http://135.181.115.81/russia/rossiya24/playlist.m3u8
+http://81.177.197.13:8000/play/a00l/index.m3u8
 
 #EXTINF:-1 ,Неизвестная Россия
 https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
@@ -39,7 +39,7 @@ https://bl.uma.media/live/317849/HLS/317849_3/1/1/playlist.m3u8
 http://91.207.115.228:5000/c109
 
 #EXTINF:-1 ,РЕН-ТВ
-http://135.181.115.81/russia/rentv/playlist.m3u8
+http://94.232.104.237:8000/play/011/index.m3u8
 
 #EXTINF:-1 ,HDL
 https://strm.yandex.ru/kal/hd_life_belarus/hd_life_belarus0.m3u8
@@ -81,7 +81,7 @@ http://212.22.76.51:82/discovery/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Nat geo wild HD
 https://bkm.beetv.kz/btv/live/hls/000004474.m3u8
 #EXTINF:-1 ,National geographic
-http://135.181.115.81/russia/nat_geo/playlist.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000034.m3u8
 
 #EXTINF:-1 ,viju Explore
 http://91.207.115.228:5000/c95
@@ -104,7 +104,7 @@ http://91.207.115.228:5000/c144
 http://91.207.115.228:5000/c145
 
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
-http://135.181.115.81/russia/mosfilm/playlist.m3u8
+https://bkm.beetv.kz/btv/live/hls/000006365.m3u8
 
 #EXTINF:-1 ,РУССКИЙ РОМАН
 http://91.142.158.107:8092/play/25/index.m3u8
@@ -175,7 +175,7 @@ https://stv.mediacdn.ru/live/cdn/mult/playlist_hdhigh.m3u8
 http://45.11.139.43:8081/stream/karusel/hls/playlist.m3u8
 
 #EXTINF:-1 ,Tiji
-http://135.181.115.81/russia/tiji/playlist.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000174.m3u8
 
 #EXTINF:-1 ,Солнце
 https://tv.mediacdn.ru/live/disney/playlist_3000k.m3u8
