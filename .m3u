@@ -39,7 +39,7 @@ https://bl.uma.media/live/317849/HLS/317849_3/1/1/playlist.m3u8
 http://91.207.115.228:5000/c109
 
 #EXTINF:-1 ,РЕН-ТВ
-http://185.37.150.46:8092/RenTV_HD/tracks-v1a1/index.m3u8
+http://94.232.104.237:8000/play/011/index.m3u8
 
 #EXTINF:-1 ,HDL
 https://strm.yandex.ru/kal/hd_life_belarus/hd_life_belarus0.m3u8
@@ -83,11 +83,6 @@ https://bkm.beetv.kz/btv/live/hls/000004474.m3u8
 #EXTINF:-1 ,National geographic
 https://bkm.beetv.kz/btv/live/hls/000000034.m3u8
 
-#EXTINF:-1,Телепутешествия
-https://stream8.itv.uz/1453/index.m3u8
-#EXTINF:-1,Глазами Туриста HD
-https://stream8.itv.uz/1423/index.m3u8
-
 #EXTINF:-1 ,viju Explore
 http://91.207.115.228:5000/c95
 #EXTINF:-1 ,viju History
@@ -107,6 +102,13 @@ http://91.207.115.228:5000/c143
 http://91.207.115.228:5000/c144
 #EXTINF:-1 ,viju+ Premiere
 http://91.207.115.228:5000/c145
+
+#EXTINF:-1,Дорама
+http://95.67.12.82:9046
+#EXTINF:-1,Flix Snip
+http://95.67.12.82:9061
+#EXTINF:-1,Gags Network HD
+http://95.67.12.82:9069
 
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
 https://bkm.beetv.kz/btv/live/hls/000006365.m3u8
@@ -313,6 +315,10 @@ http://194.26.229.213/373_Setanta-Sports-Eurazia/index.m3u8
 http://194.26.229.213/sportsnews-highlights/index.m3u8
 #EXTINF:-1 ,Joj-Sport
 http://194.26.229.213/joj-sport/index.m3u8
+
+
+#EXTINF:-1 ,Trace Sport Stars
+http://95.67.12.82:9067
 
 #EXTINF:-1 ,Матч HD
 http://bl.uma.media/live/126836/HLS/317849_3/2/1/playlist.m3u8
