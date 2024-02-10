@@ -46,11 +46,11 @@
     "udpdns": false
   },
   {
-    "server": "217.30.10.70",
-    "server_port": 9044,
-    "password": "KBGjZYcy4SyRShmA",
-    "method": "aes-256-cfb",
-    "remarks": "🇵🇱 Польша (https://t.me/freeneo_net)",
+    "server": "172.234.96.140",
+    "server_port": 8443,
+    "password": "13631601-dda7-4854-8e18-c9cae70ef241",
+    "method": "aes-256-gcm",
+    "remarks": "🇫🇮 Финляндия (https://t.me/freeneo_net)",
     "route": "all",
     "remote_dns": "one.one.one.one",
     "ipv6": false,
