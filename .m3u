@@ -150,6 +150,12 @@ https://strm.yandex.ru/kal/kinokomedia_belarus/kinokomedia_belarus0.m3u8
 #EXTINF:-1 ,Арсенал HD
 https://strm.yandex.ru/kal/arsenal_belarus/arsenal_belarus0.m3u8
 
+
+#EXTINF:-1 ,Фантастика
+http://195.9.195.3:8080/hls/187241.m3u8
+#EXTINF:-1 ,Страх
+http://195.9.195.3:8080/hls/202127.m3u8
+
 #EXTINF:-1 ,Дом кино
 http://91.207.115.228:5000/c30
 #EXTINF:-1 ,НСТ
