@@ -31,9 +31,9 @@ https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
 https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 ,ТНТ HD
-https://bl.uma.media/live/317850/HLS/4614144_3/2/1/playlist.m3u8
+http://185.37.150.46:8092/THT_HD/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,ТНТ4
-https://bl.uma.media/live/317849/HLS/317849_3/1/1/playlist.m3u8
+http://141.95.55.143/CH71/index.m3u8
 
 #EXTINF:-1,Охота и рыбалка
 http://91.207.115.228:5000/c109
@@ -151,7 +151,7 @@ https://strm.yandex.ru/kal/kinokomedia_belarus/kinokomedia_belarus0.m3u8
 https://strm.yandex.ru/kal/arsenal_belarus/arsenal_belarus0.m3u8
 
 
-#EXTINF:-1 ,Фантастиka HD
+#EXTINF:-1 ,Фантастика
 http://195.9.195.3:8080/hls/187241.m3u8
 #EXTINF:-1 ,Страх
 http://195.9.195.3:8080/hls/202127.m3u8
@@ -169,13 +169,13 @@ https://livetv.mylifeisgood.net.ru/channels/trash.m3u8
 https://livetv.mylifeisgood.net.ru/channels/sovsec127.m3u8
 
 #EXTINF:-1 ,2x2
-https://bl.uma.media/live/317805/HLS/317805_3/1/1/playlist.m3u8
+https://strm.yandex.ru/kal/2x2_belarus/2x2_belarus0.m3u8
 #EXTINF:-1 ,Суббота!
-https://bl.uma.media/live/317845/HLS/317845_3/1/1/playlist.m3u8
+http://hls.k-telecom.org:8081/kt/212/playlist.m3u8
 #EXTINF:-1 ,ТВ3
-https://bl.uma.media/live/317846/HLS/4614144_3/2/1/playlist.m3u8
+http://hls.k-telecom.org:8081/kt/19/playlist.m3u8
 #EXTINF:-1 ,Пятница!
-https://bl.uma.media/live/317843/HLS/4614144_3/2/1/playlist.m3u8
+http://hls.k-telecom.org:8081/kt/20/playlist.m3u8
 
 #EXTINF:-1 ,Мама
 http://stv.mediacdn.ru/live/cdn/mama/playlist_sdhigh.m3u8
@@ -327,31 +327,31 @@ http://194.26.229.213/joj-sport/index.m3u8
 http://95.67.12.82:9067
 
 #EXTINF:-1 ,Матч HD
-http://bl.uma.media/live/126836/HLS/317849_3/2/1/playlist.m3u8
+http://hls.k-telecom.org:8081/kt/222/playlist.m3u8
 #EXTINF:-1, Матч! Футбол 1 HD
 http://194.143.148.28:8080/MatchFutbol1/mpegts
 #EXTINF:-1, Матч! Футбол 2 HD
 http://91.207.115.228:5000/c115
 #EXTINF:-1, Матч! Футбол 3 HD
-http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
+http://185.57.68.33/110/mpegts
 #EXTINF:-1 ,Матч! Арена
-http://bl.uma.media/live/126868/HLS/6866944_4/2/1/playlist.m3u8
+http://87.120.142.11:18000/Match!Arena
 #EXTINF:-1 ,Матч! Боец
-http://bl.uma.media/live/132838/HLS/132838_4/2/1/playlist.m3u8
+http://87.120.142.11:18000/Match!
 #EXTINF:-1 ,Матч! Игра
-http://bl.uma.media/live/154036/HLS/154036_4/2/1/playlist.m3u8
+http://87.120.142.11:18000/Match!Igra
 #EXTINF:-1 ,Матч Премьер HD
-https://bl.uma.media/live/126866/HLS/4614144_3/1/1/playlist.m3u8
+http://185.37.150.46:8092/Nash_futbol_HD/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,Матч! Страна
-http://bl.uma.media/live/291663/HLS/4614144_3/2/1/playlist.m3u8
+http://hls.k-telecom.org:8081/kt/107/playlist.m3u8
 #EXTINF:-1 ,KHL
-http://bl.uma.media/live/148307/HLS/148307_3/2/1/playlist.m3u8
+https://strm.yandex.ru/kal/khl_belarus/khl_belarus0.m3u
 #EXTINF:-1 ,KHL HD
-http://bl.uma.media/live/171748/HLS/171748_4/2/1/playlist.m3u8
+http://185.37.150.46:8092/KHL_HD/index.m3u8
 #EXTINF:-1 ,Viasat Sport
-https://bl.uma.media/live/485548/HLS/4614144_3/2/1/playlist.m3u8
+http://217.25.80.15/Viasat_Sport_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Конный мир HD
-https://bl.uma.media/live/400930/HLS/4614144_3/1/1/playlist.m3u8
+http://cdn-01.bonus-tv.ru/konnyimir/index.m3u8
 
 #EXTINF:-1 ,IMPACT! Wrestling
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
