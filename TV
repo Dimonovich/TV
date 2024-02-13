@@ -10,7 +10,7 @@ http://194.26.229.213/intro/index.m3u8
 
 
 
-   
+
 
 
 
@@ -9577,6 +9577,9 @@ http://hls.goodgame.ru/hls/176975.m3u8
 #EXTINF:-1 group-title="Good Game",STR TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/185110.m3u8
+#EXTINF:-1 group-title="Good Game",Кошмар HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://hlss.goodgame.ru/hls/204709.m3u8
 #EXTINF:-1 group-title="Good Game",Видеосалон VHS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/175764.m3u8
@@ -9628,6 +9631,21 @@ https://hls.goodgame.ru/hls/198446.m3u8
 #EXTINF:-1 group-title="Good Game" tvg-logo="https://i.postimg.cc/Pqjssphr/Fox-Kids-Exclusive.png",Fox Kids Exclusive HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/179445.m3u8
+#EXTINF:-1 group-title="Good Game",Millenniym UHD
+#EXTVLCOPT:http-user-agent=SmartTV
+https://hls.goodgame.ru/hls/206461.m3u8
+#EXTINF:-1 group-title="Good Game",Кино и сериалы?
+#EXTVLCOPT:http-user-agent=SmartTV
+https://hls.goodgame.ru/hls/206513.m3u8 
+#EXTINF:-1 group-title="Good Game",AlexVira
+#EXTVLCOPT:http-user-agent=SmartTV
+https://hls.goodgame.ru/hls/106103.m3u8 
+#EXTINF:-1 group-title="Good Game"Эфира net
+#EXTVLCOPT:http-user-agent=SmartTV
+https://hls.goodgame.ru/hls/181039.m3u8 
+#EXTINF:-1 group-title="Good Game",Tyty35Ru
+#EXTVLCOPT:http-user-agent=SmartTV
+https://hls.goodgame.ru/hls/206510.m3u8
 
 
 
