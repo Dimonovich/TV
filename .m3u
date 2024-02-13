@@ -12,7 +12,7 @@ http://91.142.158.107:8092/play/1/index.m3u8
 http://hlstest.eltex-media.ru:8085/Rossia1/index.m3u8
 
 #EXTINF:-1,РОССИЯ К
-http://217.25.80.15/Rossia_Kul_tura/tracks-v1a1/mono.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000066.m3u8
 
 #EXTINF:-1 ,Россия 24
 http://81.177.197.13:8000/play/a00l/index.m3u8
@@ -76,7 +76,7 @@ http://91.207.115.228:5000/c147
 #EXTINF:-1 ,Discovery Science
 http://91.207.115.228:5000/c148
 #EXTINF:-1 ,Discovery Channel
-http://212.22.76.51:82/discovery/tracks-v1a1/mono.m3u8
+https://bkm.beetv.kz/btv/live/hls/000001496.m3u8
 
 #EXTINF:-1 ,Nat geo wild HD
 https://bkm.beetv.kz/btv/live/hls/000004474.m3u8
@@ -207,19 +207,19 @@ http://109.239.208.82:80/kvn/index.m3u8
 #EXTINF:-1 ,СТС HD
 https://bkm.beetv.kz/btv/live/hls/000000428.m3u8
 #EXTINF:-1 ,СТС love
-http://217.25.80.15/STS_Love/tracks-v1a1/mono.m3u8
+http://94.232.104.237:8000/play/058/index.m3u8
 #EXTINF:-1 ,Ю
-http://217.25.80.15/U/tracks-v1a1/mono.m3u8
+http://94.232.104.237:8000/play/096/index.m3u8
 #EXTINF:-1 ,Че
-http://217.25.80.15/Ce/tracks-v1a1/mono.m3u8
+http://hls.k-telecom.org:8081/kt/35/playlist.m3u8
 #EXTINF:-1 ,Пятница!
 http://94.232.104.237:8000/play/016/index.m3u8
 #EXTINF:-1 ,ОТР
-http://217.25.80.15/OTR/tracks-v1a1/mono.m3u8
+http://hls.k-telecom.org:8081/kt/132/playlist.m3u8
 #EXTINF:-1 ,Пятый канал
-http://217.25.80.15/Peterburg_5_kanal/tracks-v1a1/mono.m3u8
+http://hls.k-telecom.org:8081/kt/9/playlist.m3u8
 #EXTINF:-1 ,Домашний HD
-http://217.25.80.15/domashniy_hd/tracks-v1a1/mono.m3u8
+http://hls.k-telecom.org:8081/kt/25/playlist.m3u8
 
 
 #EXTINF:-1 ,МИР HD
@@ -283,45 +283,17 @@ http://91.207.115.228:5000/c153
 #EXTINF:-1,Eurosport 2 HD
 http://91.207.115.228:5000/c154
 
-#EXTINF:-1 ,Старт
-http://194.26.229.213/start_new/index.m3u8
-#EXTINF:-1 ,Старт Триумф
-http://194.26.229.213/start_triumf/index.m3u8
-#EXTINF:-1 ,Russian Extreme HD
-http://194.26.229.213/373_Russian_Extreme/index.m3u8
-#EXTINF:-1 ,Игрa
-http://194.26.229.213/373_igra/index.m3u8
-#EXTINF:-1 ,Сила
-http://194.26.229.213/373_sila/index.m3u8
-#EXTINF:-1 ,М-1 Global
-http://194.26.229.213/373_m1globall/index.m3u8
-#EXTINF:-1 ,Поединок
-http://194.26.229.213/373_poedinok/index.m3u8
-#EXTINF:-1 ,Футбольный
-http://194.26.229.213/373_futboln/index.m3u8
-#EXTINF:-1 ,Хоккейный
-http://194.26.229.213/373_hocceyn/index.m3u8
-#EXTINF:-1 ,Спортивный
-http://194.26.229.213/373_sportivn/index.m3u8
-#EXTINF:-1 ,Бокс ТВ
-http://194.26.229.213/373_box/index.m3u8
 #EXTINF:-1 ,Setanta Sports 1 HD
-http://194.26.229.213/373_Setanta-Sports-1/index.m3u8
+https://stream8.itv.uz/1263/index.m3u8
 #EXTINF:-1 ,Setanta Sports 2 HD
-http://194.26.229.213/373_Setanta-Sports-2/index.m3u8
-#EXTINF:-1 ,Setanta Sports Ukraine
-http://194.26.229.213/373_Setanta-Sports-Ukraine/index.m3u8
-#EXTINF:-1 ,Сетанта Спорт+
-http://194.26.229.213/373_Setanta-Sports-Plus-Ukraine/index.m3u8
+https://stream8.itv.uz/1264/index.m3u8
 #EXTINF:-1 ,Setanta Qazaqstan
-http://194.26.229.213/373_Setanta-Qazaqstan/index.m3u8
-#EXTINF:-1 ,Setanta Sports Eurazia
-http://194.26.229.213/373_Setanta-Sports-Eurazia/index.m3u8
+https://bkm.beetv.kz/btv/live/hls/000004619.m3u8
+
 #EXTINF:-1 ,SportsNews HighLights
 http://194.26.229.213/sportsnews-highlights/index.m3u8
 #EXTINF:-1 ,Joj-Sport
 http://194.26.229.213/joj-sport/index.m3u8
-
 
 #EXTINF:-1 ,Trace Sport Stars
 http://95.67.12.82:9067
@@ -338,6 +310,8 @@ http://185.57.68.33/110/mpegts
 http://87.120.142.11:18000/Match!Arena
 #EXTINF:-1 ,Матч! Боец
 http://87.120.142.11:18000/Match!
+#EXTINF:-1 ,Матч! Планета
+http://141.95.55.143/CH27/index.m3u8
 #EXTINF:-1 ,Матч! Игра
 http://87.120.142.11:18000/Match!Igra
 #EXTINF:-1 ,Матч Премьер HD
@@ -349,7 +323,7 @@ https://stream8.itv.uz/1422/index.m3u8
 #EXTINF:-1 ,KHL HD
 http://185.37.150.46:8092/KHL_HD/index.m3u8
 #EXTINF:-1 ,Viasat Sport
-http://217.25.80.15/Viasat_Sport_HD/tracks-v1a1/mono.m3u8
+http://141.95.55.143/CH3815/index.m3u8
 #EXTINF:-1 ,Конный мир HD
 http://cdn-01.bonus-tv.ru/konnyimir/index.m3u8
 
