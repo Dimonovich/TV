@@ -224,7 +224,7 @@ http://live-1.otcnet.ru/pravdatv/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 group-title="CloudFlare",Первый канал HD
 http://hls127.homeiptv.org:8880/Perviy_Kanal_HD/video.m3u8
-#EXTINF:-1 group-title="CloudFlare",Первый
+#EXTINF:-1 group-title="CloudFlare",Первый канал
 http://hls127.homeiptv.org:8880/Perviy_Kanal/video.m3u8
 #EXTINF:-1 group-title="CloudFlare",ТНТ HD
 http://hls127.homeiptv.org:8880/TNT_HD/video.m3u8
@@ -234,7 +234,7 @@ http://hls127.homeiptv.org:8880/REN-TV/video.m3u8
 http://hls127.homeiptv.org:8880/Rossiya_1/video.m3u8
 #EXTINF:-1 group-title="CloudFlare",Россия 24
 http://hls127.homeiptv.org:8880/Rossiya_24/video.m3u8
-#EXTINF:-1 group-title="CloudFlare",Россия 1HD
+#EXTINF:-1 group-title="CloudFlare",Россия 1 HD
 http://hls127.homeiptv.org:8880/Rossiya_HD/video.m3u8
 #EXTINF:-1 group-title="CloudFlare",НТВ
 http://hls127.homeiptv.org:8880/NTV/video.m3u8
@@ -246,7 +246,7 @@ http://hls127.homeiptv.org:8880/NTV_HIT/video.m3u8
 http://hls127.homeiptv.org:8880/NTV_MIR/video.m3u8
 #EXTINF:-1 group-title="CloudFlare",Nat Geo Wild HD
 http://hls127.homeiptv.org:8880/Nat_Geo_Wild_HD/video.m3u8
-#EXTINF:-1 group-title="CloudFlare",National Geographic Channel
+#EXTINF:-1 group-title="CloudFlare",National Geographic
 http://hls127.homeiptv.org:8880/National_Geographic_Channel/video.m3u8
 #EXTINF:-1 group-title="CloudFlare",NATIONAL GEOGRAPHIC HD
 http://hls127.homeiptv.org:8880/NATIONALGEOGRAPHICHD/video.m3u8
@@ -662,7 +662,7 @@ http://hls127.homeiptv.org:8880/Viasat_Kino_Action_HD/video.m3u8
 http://hls127.homeiptv.org:8880/Viasat_Kino_World_HD/video.m3u8
 #EXTINF:-1 group-title="CloudFlare" ,Viasat Kino Megahit HD
 http://hls127.homeiptv.org:8880/Viasat_Kino_Megahit_HD/video.m3u8
-#EXTINF:-1 group-title="CloudFlare" ,Viasat Kino Comedy FHD
+#EXTINF:-1 group-title="CloudFlare" ,Viasat Kino Comedy HD
 http://hls127.homeiptv.org:8880/Viasat_Kino_Comedy_HD/video.m3u8
 #EXTINF:-1 group-title="CloudFlare",Наш Киномир
 http://hls127.homeiptv.org:8880/Nash_kinomir/video.m3u8
@@ -676,9 +676,9 @@ http://hls127.homeiptv.org:8880/Kinojem_2_HD/video.m3u8
 http://hls127.homeiptv.org:8880/TRI_CINEMA_UHD/video.m3u8
 #EXTINF:-1 group-title="CloudFlare" ,Киноужас
 http://hls127.homeiptv.org:8880/Kinouzhas/video.m3u8
-#EXTINF:-1 group-title="CloudFlare",Kиносемья
+#EXTINF:-1 group-title="CloudFlare",Киносемья
 http://hls127.homeiptv.org:8880/Kinosemya/video.m3u8
-#EXTINF:-1 group-title="CloudFlare",Kиносемья_HD
+#EXTINF:-1 group-title="CloudFlare",Kиносемья HD
 http://hls127.homeiptv.org:8880/Kinosemya_HD/video.m3u8
 #EXTINF:-1 group-title="CloudFlare" ,Киносвидание
 http://hls127.homeiptv.org:8880/Kinosvidanie/video.m3u8
@@ -692,7 +692,7 @@ http://hls127.homeiptv.org:8880/Kino_Tv/video.m3u8
 http://hls127.homeiptv.org:8880/Kino_TV_HD/video.m3u8
 #EXTINF:-1 group-title="CloudFlare",Кино 24
 http://hls127.homeiptv.org:8880/kino24/video.m3u8
-#EXTINF:-1 group-title="CloudFlare",Kинохит HD
+#EXTINF:-1 group-title="CloudFlare",Кинохит
 http://hls127.homeiptv.org:8880/Kinohit_HD/video.m3u8
 #EXTINF:-1 group-title="CloudFlare",Kиномикс
 http://hls127.homeiptv.org:8880/Kinomix/video.m3u8
@@ -700,8 +700,6 @@ http://hls127.homeiptv.org:8880/Kinomix/video.m3u8
 http://hls127.homeiptv.org:8880/Kinosat/video.m3u8
 #EXTINF:-1 group-title="CloudFlare" ,Кинопоказ 
 http://hls127.homeiptv.org:8880/Kinopokaz/video.m3u8
-#EXTINF:-1 group-title="CloudFlare",Kинопоказ_HD
-http://hls127.homeiptv.org:8880/Kinopokaz_HD/video.m3u8
 #EXTINF:-1 group-title="CloudFlare",Kинопоказ HD
 http://hls127.homeiptv.org:8880/KinopokazHD/video.m3u8
 #EXTINF:-1 group-title="CloudFlare",Kинопремьера HD
@@ -750,7 +748,7 @@ http://hls127.homeiptv.org:8880/PremialnoeHD/video.m3u8
 http://hls127.homeiptv.org:8880/Russkiy_Detektiv/video.m3u8
 #EXTINF:-1 group-title="CloudFlare",Русский Роман
 http://hls127.homeiptv.org:8880/Russkiy_Roman/video.m3u8
-#EXTINF:-1 group-title="CloudFlare",Синема
+#EXTINF:-1 group-title="CloudFlare",Cinema
 http://hls127.homeiptv.org:8880/Sinema/video.m3u8
 #EXTINF:-1 group-title="CloudFlare",Kinoman
 http://hls127.homeiptv.org:8880/Kinoman/video.m3u8
@@ -762,9 +760,9 @@ http://hls127.homeiptv.org:8880/Amedia_Premium/video.m3u8
 http://hls127.homeiptv.org:8880/Amedia_Premium_HD/video.m3u8
 #EXTINF:-1 group-title="CloudFlare",Backus tv HD
 http://hls127.homeiptv.org:8880/backustv/video.m3u8
-#EXTINF:-1 group-title="CloudFlare",Black HD
+#EXTINF:-1 group-title="CloudFlare",.Black HD
 http://hls127.homeiptv.org:8880/Black/video.m3u8
-#EXTINF:-1 group-title="CloudFlare",Болт
+#EXTINF:-1 group-title="CloudFlare",Bolt
 http://hls127.homeiptv.org:8880/Bolt/video.m3u8
 #EXTINF:-1 group-title="CloudFlare",Cinema
 http://hls127.homeiptv.org:8880/Cinema/video.m3u8
@@ -782,13 +780,13 @@ http://hls127.homeiptv.org:8880/FAN/video.m3u8
 http://hls127.homeiptv.org:8880/flixsnip/video.m3u8
 #EXTINF:-1 group-title="CloudFlare",FOX HD
 http://hls127.homeiptv.org:8880/FOX_HD/video.m3u8
-#EXTINF:-1 group-title="CloudFlare",Red
+#EXTINF:-1 group-title="CloudFlare",.Red
 http://hls127.homeiptv.org:8880/Red/video.m3u8
 #EXTINF:-1 group-title="CloudFlare",Hollywood
 http://hls127.homeiptv.org:8880/Hollywood/video.m3u8
 #EXTINF:-1 group-title="CloudFlare",Hollywood HD
 http://hls127.homeiptv.org:8880/Hollywood_HD/video.m3u8
-#EXTINF:-1 group-title="CloudFlare",Mосфильм. Золотая коллекция
+#EXTINF:-1 group-title="CloudFlare",Mосфильм.Золотая коллекция
 http://hls127.homeiptv.org:8880/Mosfilm/video.m3u8
 #EXTINF:-1 group-title="CloudFlare",НСТ
 http://hls127.homeiptv.org:8880/NST/video.m3u8
@@ -808,7 +806,7 @@ http://hls127.homeiptv.org:8880/Vostok_TV/video.m3u8
 http://hls127.homeiptv.org:8880/Ru_TV/video.m3u8
 #EXTINF:-1 group-title="CloudFlare",1HD
 http://hls127.homeiptv.org:8880/1HD/video.m3u8
-#EXTINF:-1 group-title="CloudFlare",MTV LiveHD
+#EXTINF:-1 group-title="CloudFlare",MTV Live HD
 http://hls127.homeiptv.org:8880/MTV_Live_HD/video.m3u8
 #EXTINF:-1 group-title="CloudFlare",Пес и Кот
 http://hls127.homeiptv.org:8880/Pes_i_Ko/video.m3u8
@@ -822,14 +820,12 @@ http://hls127.homeiptv.org:8880/DRIVE/video.m3u8
 http://hls127.homeiptv.org:8880/edahd/video.m3u8
 #EXTINF:-1 group-title="CloudFlare",Кухня HD
 http://hls127.homeiptv.org:8880/Kuhnya_HD/video.m3u8
-#EXTINF:-1 group-title="CloudFlare",Кухня
+#EXTINF:-1 group-title="CloudFlare",Кухня ТВ
 http://hls127.homeiptv.org:8880/Kuhnya_TV/video.m3u8
 #EXTINF:-1 group-title="CloudFlare",Енисей
 http://hls127.homeiptv.org:8880/Enisey/video.m3u8
-#EXTINF:-1 group-title="CloudFlare",Moсква 24
+#EXTINF:-1 group-title="CloudFlare",Москва 24
 http://hls127.homeiptv.org:8880/Moskva24/video.m3u8
-#EXTINF:-1 group-title="CloudFlare",Moсква_24
-http://hls127.homeiptv.org:8880/Moskva_24/video.m3u8
 #EXTINF:-1 group-title="CloudFlare",Мир Белогорья
 http://hls127.homeiptv.org:8880/Mir_Belogorya/video.m3u8
 #EXTINF:-1 group-title="CloudFlare",Катунь 24
@@ -848,9 +844,9 @@ http://hls127.homeiptv.org:8880/Teatr/video.m3u8
 http://hls127.homeiptv.org:8880/Doverie/video.m3u8
 #EXTINF:-1 group-title="CloudFlare",FashionBox
 http://hls127.homeiptv.org:8880/FashionBox/video.m3u8
-#EXTINF:-1 group-title="CloudFlare",Mульт
+#EXTINF:-1 group-title="CloudFlare",Мульт
 http://hls127.homeiptv.org:8880/Mult/video.m3u8
-#EXTINF:-1 group-title="CloudFlare",Mульт HD
+#EXTINF:-1 group-title="CloudFlare",Мульт HD
 http://hls127.homeiptv.org:8880/Mult_HD/video.m3u8
 #EXTINF:-1 group-title="CloudFlare",Ю
 http://hls127.homeiptv.org:8880/U_TV/video.m3u8
@@ -860,7 +856,7 @@ http://hls127.homeiptv.org:8880/Unikum/video.m3u8
 http://hls127.homeiptv.org:8880/Ani/video.m3u8
 #EXTINF:-1 group-title="CloudFlare",Cartoon Network
 http://hls127.homeiptv.org:8880/cartoonnetwork/video.m3u8
-#EXTINF:-1 group-title="CloudFlare",CTC Kids HD
+#EXTINF:-1 group-title="CloudFlare",СТС Kids HD
 http://hls127.homeiptv.org:8880/CTC_Kids_HD/video.m3u8
 #EXTINF:-1 group-title="CloudFlare",Da Vinci
 http://hls127.homeiptv.org:8880/Da_Vinci_Learning/video.m3u8
@@ -898,7 +894,7 @@ http://hls127.homeiptv.org:8880/Mir_24/video.m3u8
 http://hls127.homeiptv.org:8880/RBK/video.m3u8
 #EXTINF:-1 group-title="CloudFlare",Домашний
 http://hls127.homeiptv.org:8880/Domashniy/video.m3u8
-#EXTINF:-1 group-title="CloudFlare",ТВ 3
+#EXTINF:-1 group-title="CloudFlare",ТВ3
 http://hls127.homeiptv.org:8880/TV3/video.m3u8
 #EXTINF:-1 group-title="CloudFlare",Союз
 http://hls127.homeiptv.org:8880/Souz/video.m3u8
@@ -916,7 +912,7 @@ http://hls127.homeiptv.org:8880/STS_Love/video.m3u8
 http://hls127.homeiptv.org:8880/STSHD/video.m3u8
 #EXTINF:-1 group-title="CloudFlare",Трофей
 http://hls127.homeiptv.org:8880/Trofey/video.m3u8
-#EXTINF:-1 group-title="CloudFlare",STB
+#EXTINF:-1 group-title="CloudFlare",СТБ
 http://hls127.homeiptv.org:8880/STB/video.m3u8
 #EXTINF:-1 group-title="CloudFlare",ICTV 2
 http://hls127.homeiptv.org:8880/ICTV2/video.m3u8
@@ -936,7 +932,7 @@ http://hls127.homeiptv.org:8880/AZSTAR/video.m3u8
 http://hls127.homeiptv.org:8880/Fauna/video.m3u8
 #EXTINF:-1 group-title="CloudFlare",ICTV
 http://hls127.homeiptv.org:8880/ICTV/video.m3u8
-#EXTINF:-1 group-title="CloudFlare",INTER
+#EXTINF:-1 group-title="CloudFlare",Интер
 http://hls127.homeiptv.org:8880/INTER/video.m3u8
 #EXTINF:-1 group-title="CloudFlare",M1
 http://hls127.homeiptv.org:8880/M1/video.m3u8
@@ -950,7 +946,7 @@ http://hls127.homeiptv.org:8880/SeaTV/video.m3u8
 http://hls127.homeiptv.org:8880/glas/video.m3u8
 #EXTINF:-1 group-title="CloudFlare",Unian
 http://hls127.homeiptv.org:8880/Unian/video.m3u8
-#EXTINF:-1 group-title="CloudFlare",TET
+#EXTINF:-1 group-title="CloudFlare",ТЕТ
 http://hls127.homeiptv.org:8880/TET/video.m3u8
 #EXTINF:-1 group-title="CloudFlare",RADA
 http://hls127.homeiptv.org:8880/RADA/video.m3u8
@@ -962,11 +958,11 @@ http://hls127.homeiptv.org:8880/NTN/video.m3u8
 http://hls127.homeiptv.org:8880/MEGA/video.m3u8
 #EXTINF:-1 group-title="CloudFlare",M2 HD
 http://hls127.homeiptv.org:8880/M2/video.m3u8
-#EXTINF:-1 group-title="CloudFlare",K2
+#EXTINF:-1 group-title="CloudFlare",K2 HD
 http://hls127.homeiptv.org:8880/K2/video.m3u8
 #EXTINF:-1 group-title="CloudFlare",K1 HD
 http://hls127.homeiptv.org:8880/K1/video.m3u8
-#EXTINF:-1 group-title="CloudFlare",EnglishClub HD
+#EXTINF:-1 group-title="CloudFlare",English Club HD
 http://hls127.homeiptv.org:8880/EnglishClub/video.m3u8
 #EXTINF:-1 group-title="CloudFlare",Бигуди
 http://hls127.homeiptv.org:8880/Bigudi/video.m3u8
@@ -980,7 +976,7 @@ http://hls127.homeiptv.org:8880/Start_Triumf/video.m3u8
 http://hls127.homeiptv.org:8880/Football/video.m3u8
 #EXTINF:-1 group-title="CloudFlare",KHL TV
 http://hls127.homeiptv.org:8880/KHL_TV/video.m3u8
-#EXTINF:-1 group-title="CloudFlare",Setanta Qazaqstan_HD
+#EXTINF:-1 group-title="CloudFlare",Setanta Qazaqstan HD
 http://hls127.homeiptv.org:8880/Setanta_Qazaqstan_HD/video.m3u8
 #EXTINF:-1 group-title="CloudFlare",Maтч Планета
 http://hls127.homeiptv.org:8880/Match_Planeta/video.m3u8
