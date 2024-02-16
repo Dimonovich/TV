@@ -43,7 +43,7 @@ http://api.alpaca.t62a.com/hls/9116/stream0.m3u8
 https://void.greenhosting.ru/Multimania_Mpeg4/video.m3u8
 #EXTINF:-1 group-title="TEST ⓵" ,Cartoon Network
 http://89.254.128.5:22280/cartoon_network/video.m3u8
-#EXTINF:-1 group-title="TEST ⓵" ,НТВ-Америка
+#EXTINF:-1 group-title="TEST ⓵" tvg-id="ntv-amerika",НТВ-Америка   
 http://4.59.210.197:8815/udp/127.0.0.1:6003
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://www.cableman.ru/sites/default/files/2020/1gk.c2.jpg",1+2
 http://89.254.128.5:22280/1_2/mono.m3u8
