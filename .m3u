@@ -33,7 +33,7 @@ https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 ,ТНТ HD
 http://185.37.150.46:8092/THT_HD/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,ТНТ4
-http://141.95.55.143/CH71/index.m3u8
+https://bkm.beetv.kz/btv/live/hls/000002926.m3u8
 
 #EXTINF:-1,Охота и рыбалка
 http://91.207.115.228:5000/c109
@@ -265,8 +265,6 @@ http://89.254.128.5:22280/mtv_00/video.m3u8
 
 #EXTINF:-1 ,CVR
 https://live.prd.dlive.tv/hls/live/cybervybezradio.m3u8
-#EXTINF:-1 ,Happy Radio
-https://live.prd.dlive.tv/hls/live/happyradio.m3u8
 #EXTINF:-1 ,VIVA Russia
 https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
 
@@ -315,7 +313,7 @@ http://87.120.142.11:18000/Match!Arena
 #EXTINF:-1 ,Матч! Боец
 http://87.120.142.11:18000/Match!
 #EXTINF:-1 ,Матч! Планета
-http://141.95.55.143/CH27/index.m3u8
+https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
 #EXTINF:-1 ,Матч! Игра
 http://87.120.142.11:18000/Match!Igra
 #EXTINF:-1 ,Матч Премьер HD
@@ -327,7 +325,7 @@ https://stream8.itv.uz/1422/index.m3u8
 #EXTINF:-1 ,KHL HD
 http://185.37.150.46:8092/KHL_HD/index.m3u8
 #EXTINF:-1 ,Viasat Sport
-http://141.95.55.143/CH3815/index.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000135.m3u8
 #EXTINF:-1 ,Конный мир HD
 http://cdn-01.bonus-tv.ru/konnyimir/index.m3u8
 
