@@ -43,6 +43,8 @@ http://api.alpaca.t62a.com/hls/9116/stream0.m3u8
 https://void.greenhosting.ru/Multimania_Mpeg4/video.m3u8
 #EXTINF:-1 group-title="TEST ⓵" ,Cartoon Network
 http://89.254.128.5:22280/cartoon_network/video.m3u8
+#EXTINF:-1 group-title="TEST ⓵" ,НТВ-Америка
+http://4.59.210.197:8815/udp/127.0.0.1:6003
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://www.cableman.ru/sites/default/files/2020/1gk.c2.jpg",1+2
 http://89.254.128.5:22280/1_2/mono.m3u8
 #EXTINF:-1 group-title="TEST ⓵" ,Duo7 HD EE
@@ -2837,75 +2839,75 @@ https://ipv4.bozztv.com/dvrfl07/ushba46/tracks-v1a1/mono.m3u8
 https://ipv4.bozztv.com/dvrfl07/ushba55/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Ushba TV" ,Залипательное
 https://ipv4.bozztv.com/dvrfl07/ushba58/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Ushba TV" ,Кинозал 1
+#EXTINF:-1 group-title="📺 Ushba TV" ,Кинозалы 1
 https://ipv4.bozztv.com/dvrfl07/ushba13/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Ushba TV" ,Кинозал 2
+#EXTINF:-1 group-title="📺 Ushba TV" ,Кинозалы 2
 https://ipv4.bozztv.com/dvrfl07/ushba14/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Ushba TV" ,Кинозал 3
+#EXTINF:-1 group-title="📺 Ushba TV" ,Кинозалы 3
 https://ipv4.bozztv.com/dvrfl07/ushba24/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Ushba TV" ,Кинозал 4
+#EXTINF:-1 group-title="📺 Ushba TV" ,Кинозалы 4
 https://ipv4.bozztv.com/dvrfl07/ushba26/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Ushba TV" ,Кинозал 5
+#EXTINF:-1 group-title="📺 Ushba TV" ,Кинозалы 5
 https://ipv4.bozztv.com/dvrfl07/ushba-films-b/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Ushba TV" ,Кинозал 6
+#EXTINF:-1 group-title="📺 Ushba TV" ,Кинозалы 6
 https://ipv4.bozztv.com/dvrfl07/ushba-films-c/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Ushba TV" ,Кинозал 7
+#EXTINF:-1 group-title="📺 Ushba TV" ,Кинозалы 7
 https://ipv4.bozztv.com/dvrfl07/ushba-films-d/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Ushba TV" ,Кинозал 8
+#EXTINF:-1 group-title="📺 Ushba TV" ,Кинозалы 8
 https://ipv4.bozztv.com/dvrfl07/ushba-films-e/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Ushba TV" ,Кинозал 9
+#EXTINF:-1 group-title="📺 Ushba TV" ,Кинозалы 9
 https://ipv4.bozztv.com/dvrfl07/ushba-films-f/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Ushba TV" ,Кинозал 10
+#EXTINF:-1 group-title="📺 Ushba TV" ,Кинозалы 10
 https://ipv4.bozztv.com/dvrfl07/ushba-films-g/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Ushba TV" ,Кинозал 11
+#EXTINF:-1 group-title="📺 Ushba TV" ,Кинозалы 11
 https://ipv4.bozztv.com/dvrfl07/ushba-films-h/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Ushba TV" ,Кинозал 12
+#EXTINF:-1 group-title="📺 Ushba TV" ,Кинозалы 12
 https://ipv4.bozztv.com/dvrfl07/ushba-films-i/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Ushba TV" ,Кинозал 13
+#EXTINF:-1 group-title="📺 Ushba TV" ,Кинозалы 13
 https://ipv4.bozztv.com/dvrfl07/ushba-films-j/index.m3u8
-#EXTINF:-1 group-title="📺 Ushba TV" ,Кинозал 14
+#EXTINF:-1 group-title="📺 Ushba TV" ,Кинозалы 14
 https://ipv4.bozztv.com/dvrfl07/ushba-films-m/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Ushba TV" ,Кинозал 15
+#EXTINF:-1 group-title="📺 Ushba TV" ,Кинозалы 15
 https://ipv4.bozztv.com/dvrfl07/ushba-films-p/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Ushba TV" ,Кинозал 16
+#EXTINF:-1 group-title="📺 Ushba TV" ,Кинозалы 16
 https://ipv4.bozztv.com/dvrfl07/ushba-films-t/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Ushba TV" ,Кинозал 17
+#EXTINF:-1 group-title="📺 Ushba TV" ,Кинозалы 17
 https://ipv4.bozztv.com/dvrfl07/ushba-films-yz/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Ushba TV" ,Кинозал 18
+#EXTINF:-1 group-title="📺 Ushba TV" ,Кинозалы 18
 https://ipv4.bozztv.com/dvrfl07/ushba-films-n/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Ushba TV" ,Кинозал 19
+#EXTINF:-1 group-title="📺 Ushba TV" ,Кинозалы 19
 https://ipv4.bozztv.com/dvrfl07/ushba-films-qr/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Ushba TV" ,Кинозал 20
+#EXTINF:-1 group-title="📺 Ushba TV" ,Кинозалы 20
 https://ipv4.bozztv.com/dvrfl07/ushba-films-uv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Ushba TV" ,Кинозал 21
+#EXTINF:-1 group-title="📺 Ushba TV" ,Кинозалы 21
 https://ipv4.bozztv.com/dvrfl07/ushba-films-o/index.m3u8
-#EXTINF:-1 group-title="📺 Ushba TV" ,Кинозал 22
+#EXTINF:-1 group-title="📺 Ushba TV" ,Кинозалы 22
 https://ipv4.bozztv.com/dvrfl07/ushba-films-s/index.m3u8
-#EXTINF:-1 group-title="📺 Ushba TV" ,Кинозал 23
+#EXTINF:-1 group-title="📺 Ushba TV" ,Кинозалы 23
 https://ipv4.bozztv.com/dvrfl07/ushba-films-w/index.m3u8
-#EXTINF:-1 group-title="📺 Ushba TV" ,Кинозал 24
+#EXTINF:-1 group-title="📺 Ushba TV" ,Кинозалы 24
 https://ipv4.bozztv.com/dvrfl07/ushba-rfilrms-0/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Ushba TV" ,Кинозал 25
+#EXTINF:-1 group-title="📺 Ushba TV" ,Кинозалы 25
 https://ipv4.bozztv.com/dvrfl07/ushba-rfilrms-a/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Ushba TV" ,Кинозал 26
+#EXTINF:-1 group-title="📺 Ushba TV" ,Кинозалы 26
 https://ipv4.bozztv.com/dvrfl07/ushba-rfilrms-b/index.m3u8
-#EXTINF:-1 group-title="📺 Ushba TV" ,Кинозал 27
+#EXTINF:-1 group-title="📺 Ushba TV" ,Кинозалы 27
 https://ipv4.bozztv.com/dvrfl07/ushba-rfilrms-c/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Ushba TV" ,Кинозал 28
+#EXTINF:-1 group-title="📺 Ushba TV" ,Кинозалы 28
 https://ipv4.bozztv.com/dvrfl07/ushba-rfilrms-d/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Ushba TV" ,Кинозал 29
+#EXTINF:-1 group-title="📺 Ushba TV" ,Кинозалы 29
 https://ipv4.bozztv.com/dvrfl07/ushba-rfilrms-e/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Ushba TV" ,Кинозал 30
+#EXTINF:-1 group-title="📺 Ushba TV" ,Кинозалы 30
 https://ipv4.bozztv.com/dvrfl07/ushba-rfilrms-g/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Ushba TV" ,Кинозал 31
+#EXTINF:-1 group-title="📺 Ushba TV" ,Кинозалы 31
 https://ipv4.bozztv.com/dvrfl07/ushba-rfilrms-i/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Ushba TV" ,Кинозал 32
+#EXTINF:-1 group-title="📺 Ushba TV" ,Кинозалы 32
 https://ipv4.bozztv.com/dvrfl07/ushba-rfilrms-k/index.m3u8
-#EXTINF:-1 group-title="📺 Ushba TV" ,Кинозал 33
+#EXTINF:-1 group-title="📺 Ushba TV" ,Кинозалы 33
 https://ipv4.bozztv.com/dvrfl07/ushba-rfilrms-p/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Ushba TV" ,Кинозал 34
+#EXTINF:-1 group-title="📺 Ushba TV" ,Кинозалы 34
 https://ipv4.bozztv.com/dvrfl07/ushba-rfilrms-v/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Ushba TV" ,Кинозал 35
+#EXTINF:-1 group-title="📺 Ushba TV" ,Кинозалы 35
 https://ipv4.bozztv.com/dvrfl07/ushba-rfilrms-z/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Ushba TV" ,Retrovision
 https://ipv4.bozztv.com/dvrfl07/ushba-rvision/tracks-v1a1/mono.m3u8
