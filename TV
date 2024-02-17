@@ -4725,12 +4725,12 @@ http://5.153.190.251:8000/play/a0a7
 http://5.153.190.251:8000/play/a06s
 #EXTINF:-1 group-title="LightNet (VPN)",Иллюзион+
 http://5.153.190.251:8000/play/a02f
-#EXTINF:-1 group-title="LightNet (VPN)",Индийское кино
-http://5.153.190.251:8000/play/a02g
 #EXTINF:-1 group-title="LightNet (VPN)",Индия
 http://5.153.190.251:8000/play/a01p
 #EXTINF:-1 group-title="LightNet (VPN)",КВН ТВ
 http://5.153.190.251:8000/play/a02i
+#EXTINF:-1 group-title="LightNet (VPN)",Кинопоказ
+http://5.153.190.251:8000/play/a065
 #EXTINF:-1 group-title="LightNet (VPN)",КИНЕКО
 http://5.153.190.251:8000/play/a00o
 #EXTINF:-1 group-title="LightNet (VPN)",КИНЕКО HD
@@ -4751,18 +4751,20 @@ http://5.153.190.251:8000/play/a02n
 http://5.153.190.251:8000/play/a0af
 #EXTINF:-1 group-title="LightNet (VPN)",Кинокомедия
 http://5.153.190.251:8000/play/a02v
+#EXTINF:-1 group-title="LightNet (VPN)",Индийское кино
+http://5.153.190.251:8000/play/a02g
 #EXTINF:-1 group-title="LightNet (VPN)",Киноман
 http://5.153.190.251:8000/play/a064
 #EXTINF:-1 group-title="LightNet (VPN)",Киномикс
 http://5.153.190.251:8000/play/a02o
 #EXTINF:-1 group-title="LightNet (VPN)",Киномикс HD
 http://5.153.190.251:8000/play/a0ag
-#EXTINF:-1 group-title="LightNet (VPN)",Кинопоказ
-http://5.153.190.251:8000/play/a065
 #EXTINF:-1 group-title="LightNet (VPN)",Кинопремьера HD
 http://5.153.190.251:8000/play/a02p
 #EXTINF:-1 group-title="LightNet (VPN)",Киносвидание
 http://5.153.190.251:8000/play/a02q
+#EXTINF:-1 group-title="LightNet (VPN)",Наше новое кино
+http://5.153.190.251:8000/play/a047
 #EXTINF:-1 group-title="LightNet (VPN)",Киносемья
 http://5.153.190.251:8000/play/a02r
 #EXTINF:-1 group-title="LightNet (VPN)",Киносемья HD
@@ -4773,6 +4775,10 @@ http://5.153.190.251:8000/play/a02s
 http://5.153.190.251:8000/play/a02t
 #EXTINF:-1 group-title="LightNet (VPN)",Кинохит
 http://5.153.190.251:8000/play/a02u
+#EXTINF:-1 group-title="LightNet (VPN)",Мужское кино
+http://5.153.190.251:8000/play/a03t
+#EXTINF:-1 group-title="LightNet (VPN)",Мужское кино HD
+http://5.153.190.251:8000/play/a0au
 #EXTINF:-1 group-title="LightNet (VPN)",Кинохит HD
 http://5.153.190.251:8000/play/a0ai
 #EXTINF:-1 group-title="LightNet (VPN)",Ключ
@@ -4789,13 +4795,13 @@ http://5.153.190.251:8000/play/a02w
 http://5.153.190.251:8000/play/a085
 #EXTINF:-1 group-title="LightNet (VPN)",Кто есть кто
 http://5.153.190.251:8000/play/a02x
-#EXTINF:-1 group-title="LightNet (VPN)",КтоКуда
+#EXTINF:-1 group-title="LightNet (VPN)",Кто Куда
 http://5.153.190.251:8000/play/a0ak
 #EXTINF:-1 group-title="LightNet (VPN)",Курай ТВ
 http://5.153.190.251:8000/play/a0al
 #EXTINF:-1 group-title="LightNet (VPN)",Кухня ТВ
 http://5.153.190.251:8000/play/a02y
-#EXTINF:-1 group-title="LightNet (VPN)",ЛенТВ24
+#EXTINF:-1 group-title="LightNet (VPN)",Лен ТВ 24
 http://5.153.190.251:8000/play/a0am
 #EXTINF:-1 group-title="LightNet (VPN)",Любимое HD
 http://5.153.190.251:8000/play/a067
@@ -4811,10 +4817,6 @@ http://5.153.190.251:8000/play/a03n
 http://5.153.190.251:8000/play/a0ar
 #EXTINF:-1 group-title="LightNet (VPN)",Мосфильм. Золотая коллекция
 http://5.153.190.251:8000/play/a03q
-#EXTINF:-1 group-title="LightNet (VPN)",Мужское кино
-http://5.153.190.251:8000/play/a03t
-#EXTINF:-1 group-title="LightNet (VPN)",Мужское кино HD
-http://5.153.190.251:8000/play/a0au
 #EXTINF:-1 group-title="LightNet (VPN)",Мужской
 http://5.153.190.251:8000/play/a0av
 #EXTINF:-1 group-title="LightNet (VPN)",НСТ
@@ -4827,8 +4829,6 @@ http://5.153.190.251:8000/play/a06t
 http://5.153.190.251:8000/play/a069
 #EXTINF:-1 group-title="LightNet (VPN)",Наше мужское
 http://5.153.190.251:8000/play/a06a
-#EXTINF:-1 group-title="LightNet (VPN)",Наше новое кино
-http://5.153.190.251:8000/play/a047
 #EXTINF:-1 group-title="LightNet (VPN)",Ностальгия
 http://5.153.190.251:8000/play/a049
 #EXTINF:-1 group-title="LightNet (VPN)",О!
