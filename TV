@@ -24,8 +24,6 @@ http://194.26.229.213/souzmultfilm/index.m3u8
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://posters.hdrezka.quest/uploads/posts/2017-05/1494729344-290867852.jpg",Big Buck Bunny
 https://live-par-2-cdn-alt.livepush.io/live/bigbuckbunnyclip/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.ibb.co/Bn4m324/image-3.png",КІНО ТV VHS
-https://playlist.nuum.ru/live/28423/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TEST ⓵"  tvg-id="ntv-amerika",НТВ Америка    
 http://4.59.210.197:8815/udp/127.0.0.1:6003
 #EXTINF:-1 group-title="TEST ⓵",Грозный
@@ -54,8 +52,6 @@ http://89.254.128.5:22280/duo7_hd/index.m3u8
 http://89.254.128.5:22280/mtv_00/video.m3u8
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="http://epg.it999.ru/img/2859.png" ,8 канал HD UA
 http://89.254.128.5:22280/8tv_hd/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵" ,Тайна
-https://tochkatv-live.cdnvideo.ru/tochkatv_pub/tainatv.stream_aac.smil/tracks-v1a1/mono.m3u8?hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 group-title="TEST ⓵" ,CGTN русский
 http://liveru.cgtn.com/200r/prog_index.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Беларусь 1
@@ -139,6 +135,8 @@ http://s18209.cdn.ngenix.net/hls/CH_R01_KARUSEL/playlist.m3u8
 http://s18209.cdn.ngenix.net/hls/CH_R03_U/playlist.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",Конный мир
 http://cdn-01.bonus-tv.ru/konnyimir/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Тайна
+https://tochkatv-live.cdnvideo.ru/tochkatv_pub/tainatv.stream_aac.smil/tracks-v1a1/mono.m3u8?hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 group-title="TEST (VPN)",TVMChannel
 http://cdn-01.bonus-tv.ru:80/tvm_edge/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",Девятая Волна
