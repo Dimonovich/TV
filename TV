@@ -25,6 +25,8 @@ http://194.26.229.213/souzmultfilm/index.m3u8
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.ibb.co/Bn4m324/image-3.png",КІНО ТV VHS
 https://playlist.nuum.ru/live/28423/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="TEST ⓵"  tvg-id="ntv-amerika",НТВ Америка    
+http://4.59.210.197:8815/udp/127.0.0.1:6003
 #EXTINF:-1 group-title="TEST ⓵",Грозный
 https://streamer1.connectto.com/517/mono.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Комедийное HD
@@ -3064,7 +3066,7 @@ https://m3u8.ott.blue/watch/7719/index.m3u8?geo=auto&token=944500988957657842203
 https://ipv4.bozztv.com/dvrfl07/ushba3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Usba TV" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Star Media
 https://ipv4.bozztv.com/dvrfl07/ushba4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Usba TV" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,1+1
+#EXTINF:-1 group-title="📺 Usba TV" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Украина
 https://ipv4.bozztv.com/dvrfl07/ushba5/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Usba TV" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Квартал 95
 https://ipv4.bozztv.com/dvrfl07/ushba7/tracks-v1a1/mono.m3u8
@@ -3072,7 +3074,7 @@ https://ipv4.bozztv.com/dvrfl07/ushba7/tracks-v1a1/mono.m3u8
 https://ipv4.bozztv.com/dvrfl07/ushba12/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Usba TV" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Военный
 https://ipv4.bozztv.com/dvrfl07/ushba16/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Usba TV" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Детский
+#EXTINF:-1 group-title="📺 Usba TV" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Ералаш
 https://ipv4.bozztv.com/dvrfl07/ushba8/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Usba TV" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Приколы 1
 https://ipv4.bozztv.com/dvrfl07/ushba11/tracks-v1a1/mono.m3u8
