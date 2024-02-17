@@ -76,21 +76,6 @@
     "udpdns": false
   },
   {
-    "server": "172.234.96.140",
-    "server_port": 8443,
-    "password": "13631601-dda7-4854-8e18-c9cae70ef241",
-    "method": "aes-256-gcm",
-    "remarks": "🇫🇮 Финляндия (https://t.me/freeneo_net)",
-    "route": "all",
-    "remote_dns": "one.one.one.one",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
     "server": "212.102.53.80",
     "server_port": 443,
     "password": "shadowsocks",
