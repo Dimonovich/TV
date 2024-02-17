@@ -4447,7 +4447,7 @@ http://178.212.236.3:8802/play/m1_33
 http://178.212.236.3:8802/play/m2_23
 #EXTINF:-1 group-title="Тенор (VPN)",Крым 24
 http://178.212.236.3:8802/play/m1_38
-#EXTINF:-1 group-title="Тенор (VPN)",Луганск 24
+#EXTINF:-1 group-title="Тенор (VPN)" tvg-logo="https://online-red.com/images/tv/lugansk-24.png",Луганск 24
 http://178.212.236.3:8802/play/m1_39
 #EXTINF:-1 group-title="Тенор (VPN)",Мир
 http://178.212.236.3:8802/play/m1_32
@@ -4455,7 +4455,7 @@ http://178.212.236.3:8802/play/m1_32
 http://178.212.236.3:8802/play/m1_36
 #EXTINF:-1 group-title="Тенор (VPN)",Таврия ТВ
 http://178.212.236.3:8802/play/m1_34
-#EXTINF:-1 group-title="Тенор (VPN)",Юнион
+#EXTINF:-1 group-title="Тенор (VPN)" tvg-id="unian-tv",Юнион
 http://178.212.236.3:8802/play/m1_37
 #EXTINF:-1 group-title="Тенор (VPN)",За!
 http://178.212.236.3:8802/play/m1_35
@@ -4485,8 +4485,6 @@ http://178.212.236.3:8802/play/a016
 http://178.212.236.3:8802/play/404
 #EXTINF:-1 group-title="Тенор (VPN)",БелРос
 http://178.212.236.3:8802/play/a019
-#EXTINF:-1 group-title="Тенор (VPN)",Драма
-http://178.212.236.3:8802/play/drama
 #EXTINF:-1 group-title="Тенор (VPN)",E TV 
 http://178.212.236.3:8802/play/etc
 #EXTINF:-1 group-title="Тенор (VPN)",Дорама
@@ -4495,7 +4493,7 @@ http://178.212.236.3:8802/play/a015
 http://178.212.236.3:8802/play/m2_29
 #EXTINF:-1 group-title="Тенор (VPN)",Ani
 http://178.212.236.3:8802/play/a012
-#EXTINF:-1 group-title="Тенор (VPN)",Лапкм LIVe
+#EXTINF:-1 group-title="Тенор (VPN)" tvg-id="lapki-live",Лапк LIVe
 http://178.212.236.3:8802/play/a017
 #EXTINF:-1 group-title="Тенор (VPN)",Мультиландия
 http://178.212.236.3:8802/play/a00s
