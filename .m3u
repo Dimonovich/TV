@@ -107,6 +107,9 @@ http://91.207.115.228:5000/c144
 #EXTINF:-1 ,viju+ Premiere
 http://91.207.115.228:5000/c145
 
+#EXTINF:-1 ,Prokop TV Detektiv
+http://194.26.229.213/Prokop-TV-Detektiv-HD/index.m3u8
+
 #EXTINF:-1,Дорама
 http://95.67.12.82:9046
 #EXTINF:-1,Flix Snip
@@ -286,9 +289,9 @@ http://91.207.115.228:5000/c153
 http://91.207.115.228:5000/c154
 
 #EXTINF:-1 ,Setanta Sports 1 HD
-https://stream10.itv.uz/1263/index.m3u8
+https://bkm.beetv.kz/btv/live/hls/000004498.m3u8
 #EXTINF:-1 ,Setanta Sports 2 HD
-https://stream10.itv.uz/1264/index.m3u8
+https://bkm.beetv.kz/btv/live/hls/000004499.m3u8
 #EXTINF:-1 ,Setanta Qazaqstan
 https://bkm.beetv.kz/btv/live/hls/000004619.m3u8
 
@@ -321,7 +324,7 @@ http://185.37.150.46:8092/Nash_futbol_HD/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,Матч! Страна
 http://hls.k-telecom.org:8081/kt/107/playlist.m3u8
 #EXTINF:-1 ,KHL
-https://stream10.itv.uz/1422/index.m3u8
+https://stream3.itv.uz/1422/index.m3u8
 #EXTINF:-1 ,KHL HD
 http://185.37.150.46:8092/KHL_HD/index.m3u8
 #EXTINF:-1 ,Viasat Sport
