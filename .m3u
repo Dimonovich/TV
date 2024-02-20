@@ -107,15 +107,15 @@ http://91.207.115.228:5000/c144
 #EXTINF:-1 ,viju+ Premiere
 http://91.207.115.228:5000/c145
 
-
-
-
 #EXTINF:-1,Дорама
 http://95.67.12.82:9046
 #EXTINF:-1,Flix Snip
 http://95.67.12.82:9061
 #EXTINF:-1,Gags Network HD
 http://95.67.12.82:9069
+
+#EXTINF:-1 ,Ералаш
+https://ipv4.bozztv.com/dvrfl07/ushba8/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
 https://bkm.beetv.kz/btv/live/hls/000006365.m3u8
@@ -135,7 +135,6 @@ http://188.113.190.15/312/video.m3u8
 http://188.113.190.15/327/video.m3u8
 #EXTINF:-1,РОДНОЕ КИНО
 http://188.113.190.15/317/video.m3u8
-
 
 #EXTINF:-1 ,КИНОУЖАС HD
 http://hls.k-telecom.org:8081/kt/227/playlist.m3u8
