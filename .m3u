@@ -256,7 +256,7 @@ https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/chunklist_w1
 #EXTINF:-1 ,КВН ТВ
 http://109.239.208.82:80/kvn/index.m3u8
 
-#EXTINF:-1 ,СТС HD
+#EXTINF:-1 ,СТС
 https://bkm.beetv.kz/btv/live/hls/000000428.m3u8
 #EXTINF:-1 ,СТС love
 http://94.232.104.237:8000/play/058/index.m3u8
@@ -270,7 +270,7 @@ http://94.232.104.237:8000/play/016/index.m3u8
 http://hls.k-telecom.org:8081/kt/132/playlist.m3u8
 #EXTINF:-1 ,Пятый канал
 http://hls.k-telecom.org:8081/kt/9/playlist.m3u8
-#EXTINF:-1 ,Домашний HD
+#EXTINF:-1 ,Домашний
 http://hls.k-telecom.org:8081/kt/25/playlist.m3u8
 
 
