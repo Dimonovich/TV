@@ -216,6 +216,75 @@ http://live-1.otcnet.ru/pravdatv/tracks-v1a1/index.m3u8
 
 
 
+
+
+#EXTINF:-1  group-title="Klimedia",Trash HD
+http://cdn.klimedia.space/lb/trash/index.m3u8
+#EXTINF:-1  group-title="Klimedia",НСТ
+http://cdn.klimedia.space/lb/nst/index.m3u8
+#EXTINF:-1  group-title="Klimedia",Время
+http://cdn.klimedia.space/lb/Vremya/index.m3u8
+#EXTINF:-1  group-title="Klimedia",БелРос
+http://cdn.klimedia.space/lb/belros/index.m3u8
+#EXTINF:-1  group-title="Klimedia",FAN HD
+http://cdn.klimedia.space/lb/Fan/index.m3u8
+#EXTINF:-1  group-title="Klimedia",Bridge TV Hits HD
+http://cdn.klimedia.space/lb/Bridge_TV_Hits/index.m3u8
+#EXTINF:-1  group-title="Klimedia" tvg-id="solovjinypomiot" ,Soloviyov Live
+http://cdn.klimedia.space/lb/sovlive/index.m3u8
+#EXTINF:-1  group-title="Klimedia",Усадьба
+http://cdn.klimedia.space/lb/Usadba/index.m3u8
+#EXTINF:-1  group-title="Klimedia",Авто 24
+http://cdn.klimedia.space/lb/avto_24/index.m3u8
+#EXTINF:-1  group-title="Klimedia",Драйв
+http://cdn.klimedia.space/lb/Draiv/index.m3u8
+#EXTINF:-1  group-title="Klimedia",Мир Вокруг HD
+http://cdn.klimedia.space/lb/mirvocrug/index.m3u8
+#EXTINF:-1  group-title="Klimedia",RTG
+http://cdn.klimedia.space/lb/RTG/index.m3u8
+#EXTINF:-1  group-title="Klimedia",DocuBox
+http://cdn.klimedia.space/lb/Docubox/index.m3u8
+#EXTINF:-1  group-title="Klimedia",Приключения HD
+http://cdn.klimedia.space/lb/HD_Teletr/index.m3u8
+#EXTINF:-1  group-title="Klimedia",Моя Стихия
+http://cdn.klimedia.space/lb/Morskoy/index.m3u8
+#EXTINF:-1  group-title="Klimedia",RTVI
+http://cdn.klimedia.space/lb/rtvl/index.m3u8
+#EXTINF:-1 ,Настоящее время
+http://cdn.klimedia.space/lb/nastyvremy/index.m3u8
+#EXTINF:-1  group-title="Klimedia",Boomerang
+http://cdn.klimedia.space/lb/Boomerang/index.m3u8
+#EXTINF:-1  group-title="Klimedia",2x2
+http://cdn.klimedia.space/lb/2plus2/index.m3u8
+#EXTINF:-1  group-title="Klimedia",Мульт HD
+http://cdn.klimedia.space/lb/Mul-t-HD/index.m3u8
+#EXTINF:-1  group-title="Klimedia",Мультимузыка
+http://cdn.klimedia.space/lb/Mul-t-i-muzyka/index.m3u8
+#EXTINF:-1  group-title="Klimedia",AIVA HD
+http://cdn.klimedia.space/lb/AIVAHD/index.m3u8
+#EXTINF:-1  group-title="Klimedia",TMF RUS
+http://cdn.klimedia.space/lb/tmftu/index.m3u8
+#EXTINF:-1  group-title="Klimedia",Мультиландия
+http://cdn.klimedia.space/lb/Mul-tilandiya/index.m3u8
+#EXTINF:-1  group-title="Klimedia",СТС Kids HD
+http://cdn.klimedia.space/lb/STS-Kids/index.m3u8
+#EXTINF:-1  group-title="Klimedia",Nickelodeon HD
+http://cdn.klimedia.space/lb/Nickelodeon/index.m3u8
+#EXTINF:-1  group-title="Klimedia",Уникум HD
+http://cdn.klimedia.space/lb/Detskiy-HD/index.m3u8
+#EXTINF:-1  group-title="Klimedia",Домашний
+http://cdn.klimedia.space/lb/motostort/index.m3u8
+#EXTINF:-1  group-title="Klimedia",Апостроф TV HD
+http://cdn.klimedia.space/lb/tvukopa/index.m3u8
+#EXTINF:-1  group-title="Klimedia", Киев HD
+http://cdn.klimedia.space/lb/kievhd/index.m3u8
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="Oracle Corporation",Cobra Comedy HD
 http://158.101.194.132:8888/channel/61817e7f/index.m3u8?q=02cf305da86efe6f18af9941335b4d1d
 #EXTINF:-1 group-title="Oracle Corporation",Cobra Detektiv HD
