@@ -5,13 +5,13 @@ https://d2dw21aq0j0l5c.cloudfront.net/playlist_1920x1080.m3u8
 #EXTINF:-1 ,Первый HD
 https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 
-#EXTINF:-1,ПЕРВЫЙ КАНАЛ
+#EXTINF:-1 ,ПЕРВЫЙ КАНАЛ
 http://91.142.158.107:8092/play/1/index.m3u8
 
 #EXTINF:-1 ,Россия 1
 http://hlstest.eltex-media.ru:8085/Rossia1/index.m3u8
 
-#EXTINF:-1,РОССИЯ К
+#EXTINF:-1 ,РОССИЯ К
 https://bkm.beetv.kz/btv/live/hls/000000066.m3u8
 
 #EXTINF:-1 ,Россия 24
@@ -32,10 +32,11 @@ https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 ,ТНТ HD
 http://185.37.150.46:8092/THT_HD/tracks-v1a1/index.m3u8
+
 #EXTINF:-1 ,ТНТ4
 https://bkm.beetv.kz/btv/live/hls/000002926.m3u8
 
-#EXTINF:-1,Охота и рыбалка
+#EXTINF:-1 ,Охота и рыбалка
 http://91.207.115.228:5000/c109
 
 #EXTINF:-1 ,РЕН-ТВ
@@ -43,25 +44,18 @@ http://94.232.104.237:8000/play/011/index.m3u8
 
 #EXTINF:-1 ,HDL
 https://strm.yandex.ru/kal/hd_life_belarus/hd_life_belarus0.m3u8
-
 #EXTINF:-1 ,RTG HD
 https://strm.yandex.ru/kal/rtg/rtg0.m3u8
-
 #EXTINF:-1 ,Investigation Discovery
 https://stream01.vnet.am/InvestigationDiscovery/mono.m3u8
-
 #EXTINF:-1 ,Большая Азия
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 ,МОЯ ПЛАНЕТА
 https://strm.yandex.ru/kal/moya_planeta_hd_belarus/moya_planeta_hd_belarus0.m3u8
 #EXTINF:-1 ,Приключения HD
 https://strm.yandex.ru/kal/prikluchenia_belarus/prikluchenia_belarus0.m3u8
-
 #EXTINF:-1 ,В мире животных HD
 https://strm.yandex.ru/kal/v_mire_zhivotnykh_belarus/v_mire_zhivotnykh_belarus0.m3u8
-#EXTINF:-1 ,RTG HD
-https://strm.yandex.ru/kal/rtg/rtg0.m3u8
 #EXTINF:-1 ,Наша Сибирь
 https://strm.yandex.ru/kal/sibir/sibir0.m3u8
 #EXTINF:-1 ,Охотник и рыболов Int
@@ -69,15 +63,16 @@ https://strm.yandex.ru/kal/ohotnik_rybolov_belarus/ohotnik_rybolov_belarus0.m3u8
 #EXTINF:-1 ,Диалоги о рыбалке
 https://strm.yandex.ru/kal/dialogi/dialogi0.m3u8
 
+
 #EXTINF:-1 ,История
 http://91.207.115.228:5000/c85
 #EXTINF:-1 ,Animal Planet
 http://91.207.115.228:5000/c147
 #EXTINF:-1 ,Discovery Science
 http://91.207.115.228:5000/c148
+
 #EXTINF:-1 ,Discovery Channel
 https://bkm.beetv.kz/btv/live/hls/000001496.m3u8
-
 #EXTINF:-1 ,Nat geo wild HD
 https://bkm.beetv.kz/btv/live/hls/000004474.m3u8
 #EXTINF:-1 ,National geographic
@@ -87,14 +82,14 @@ https://bkm.beetv.kz/btv/live/hls/000002722.m3u8
 #EXTINF:-1 ,History HD
 https://bkm.beetv.kz/btv/live/hls/000001000.m3u8
 
+
 #EXTINF:-1 ,viju Explore
 http://91.207.115.228:5000/c95
 #EXTINF:-1 ,viju History
 http://91.207.115.228:5000/c96
 #EXTINF:-1 ,Viasat Nature HD
 http://91.207.115.228:5000/c97
-
-#EXTINF:-1 ,TV 1000 
+#EXTINF:-1 ,TV 1000
 http://91.207.115.228:5000/c48
 #EXTINF:-1 ,viju TV1000 Action
 http://91.207.115.228:5000/c49
@@ -107,11 +102,13 @@ http://91.207.115.228:5000/c144
 #EXTINF:-1 ,viju+ Premiere
 http://91.207.115.228:5000/c145
 
-#EXTINF:-1,Дорама
+#EXTINF:-1 ,Дорама
 http://95.67.12.82:9046
-#EXTINF:-1,Flix Snip
+
+#EXTINF:-1 ,Flix Snip
 http://95.67.12.82:9061
-#EXTINF:-1,Gags Network HD
+
+#EXTINF:-1 ,Gags Network HD
 http://95.67.12.82:9069
 
 #EXTINF:-1 ,Ералаш
@@ -129,11 +126,11 @@ http://91.142.158.107:8092/play/26/index.m3u8
 #EXTINF:-1 ,Кино ТВ HD
 http://91.142.158.107:8092/play/28/index.m3u8
 
-#EXTINF:-1,КИНОСЕРИЯ
+#EXTINF:-1 ,КИНОСЕРИЯ
 http://188.113.190.15/312/video.m3u8
-#EXTINF:-1,НАШЕ НОВОЕ КИНО
+#EXTINF:-1 ,НАШЕ НОВОЕ КИНО
 http://188.113.190.15/327/video.m3u8
-#EXTINF:-1,РОДНОЕ КИНО
+#EXTINF:-1 ,РОДНОЕ КИНО
 http://188.113.190.15/317/video.m3u8
 
 #EXTINF:-1 ,КИНОУЖАС HD
@@ -156,7 +153,7 @@ https://strm.yandex.ru/kal/kinokomedia_belarus/kinokomedia_belarus0.m3u8
 #EXTINF:-1 ,Арсенал HD
 https://strm.yandex.ru/kal/arsenal_belarus/arsenal_belarus0.m3u8
 
-#EXTINF:-1 , Fantastica HD
+#EXTINF:-1 ,Fantastica HD
 http://195.9.195.3:8080/hls/187241.m3u8
 #EXTINF:-1 ,Страх
 http://195.9.195.3:8080/hls/202127.m3u8
@@ -165,61 +162,64 @@ http://195.9.195.3:8080/hls/202127.m3u8
 http://91.207.115.228:5000/c30
 #EXTINF:-1 ,НСТ
 http://91.207.115.228:5000/c169
+
 #EXTINF:-1 ,black
 https://stream01.vnet.am/Kinosemya/mono.m3u8
 
-#EXTINF: 1,Prokop TV Detektiv HD  
-http://194.26.229.213/Prokop-TV-Detektiv-HD/video.m3u8 
-#EXTINF: 1,Prokop TV Kids HD  
-http://194.26.229.213/Prokop-TV-Kids-HD/video.m3u8 
-#EXTINF: 1,Prokop-TV-Масяня  
-http://194.26.229.213/Prokop-TV-masyana/video.m3u8 
-#EXTINF: 1,Prokop TV Hip Hop  
-http://194.26.229.213/Prokop-TV-Hip-Hop/video.m3u8 
-#EXTINF: 1,Prokop-TV-Сказки СССР  
-http://194.26.229.213/Prokop-TV-skazki-ussr/video.m3u8 
-#EXTINF: 1,Prokop TV Show HD  
-http://194.26.229.213/Prokop-TV-Show-HD/video.m3u8 
-#EXTINF: 1,Prokop TV Serial HD  
-http://194.26.229.213/Prokop-TV-Serial-HD/video.m3u8 
-#EXTINF: 1,Prokop TV HD UA  
-http://194.26.229.213/Prokop-TV-HD-UA/video.m3u8 
-#EXTINF: 1,Prokop TV Criminal HD  
-http://194.26.229.213/Prokop-TV-Criminal-HD/video.m3u8 
-#EXTINF: 1,Prokop TV Cinema 4K  
-http://194.26.229.213/Prokop-TV-Cinema-4K/video.m3u8 
-#EXTINF: 1,Prokop TV Kung Fu  
-http://194.26.229.213/Prokop-TV-Kung-Fu/video.m3u8 
-#EXTINF: 1,Prokop TV Comedy HD  
-http://194.26.229.213/Prokop-TV-Comedy-HD/video.m3u8 
-#EXTINF: 1,Prokop TV Docu HD  
-http://194.26.229.213/Prokop-TV-Docu-HD/video.m3u8 
-#EXTINF: 1,Prokop TV Horror HD  
-http://194.26.229.213/Prokop-TV-Horror-HD/video.m3u8 
-#EXTINF: 1,Prokop TV Fantazy HD  
-http://194.26.229.213/Prokop-TV-Fantazy-HD/video.m3u8 
-#EXTINF: 1,Prokop TV The Simpsons HD UA  
-http://194.26.229.213/Prokop-TV-The-Simpsons-HD-UA/video.m3u8 
-#EXTINF: 1,Prokop TV Netflix HD  
-http://194.26.229.213/Prokop-TV-Netflix-HD/video.m3u8 
-#EXTINF: 1,Prokop-TV-Вторая мировая  
-http://194.26.229.213/Prokop-TV-2-mirovaya/video.m3u8 
-#EXTINF: 1,Prokop TV 60 FPS  
-http://194.26.229.213/Prokop-TV-60-FPS/video.m3u8 
-#EXTINF: 1,Prokop TV History HD  
-http://194.26.229.213/Prokop-TV-History-HD/video.m3u8 
-#EXTINF: 1,Prokop TV New Films HD  
-http://194.26.229.213/Prokop-TV-New-Films-HD/video.m3u8 
-#EXTINF: 1,Prokop TV Music  
-http://194.26.229.213/Prokop-TV-Music/video.m3u8 
+#EXTINF:-1 ,Prokop TV Detektiv HD
+http://194.26.229.213/Prokop-TV-Detektiv-HD/video.m3u8
+#EXTINF:-1 ,Prokop TV Kids HD
+http://194.26.229.213/Prokop-TV-Kids-HD/video.m3u8
+#EXTINF:-1 ,Prokop-TV-Масяня
+http://194.26.229.213/Prokop-TV-masyana/video.m3u8
+#EXTINF:-1 ,Prokop TV Hip Hop
+http://194.26.229.213/Prokop-TV-Hip-Hop/video.m3u8
+#EXTINF:-1 ,Prokop-TV-Сказки СССР
+http://194.26.229.213/Prokop-TV-skazki-ussr/video.m3u8
+#EXTINF:-1 ,Prokop TV Show HD
+http://194.26.229.213/Prokop-TV-Show-HD/video.m3u8
+#EXTINF:-1 ,Prokop TV Serial HD
+http://194.26.229.213/Prokop-TV-Serial-HD/video.m3u8
+#EXTINF:-1 ,Prokop TV HD UA
+http://194.26.229.213/Prokop-TV-HD-UA/video.m3u8
+#EXTINF:-1 ,Prokop TV Criminal HD
+http://194.26.229.213/Prokop-TV-Criminal-HD/video.m3u8
+#EXTINF:-1 ,Prokop TV Cinema 4K
+http://194.26.229.213/Prokop-TV-Cinema-4K/video.m3u8
+#EXTINF:-1 ,Prokop TV Kung Fu
+http://194.26.229.213/Prokop-TV-Kung-Fu/video.m3u8
+#EXTINF:-1 ,Prokop TV Comedy HD
+http://194.26.229.213/Prokop-TV-Comedy-HD/video.m3u8
+#EXTINF:-1 ,Prokop TV Docu HD
+http://194.26.229.213/Prokop-TV-Docu-HD/video.m3u8
+#EXTINF:-1 ,Prokop TV Horror HD
+http://194.26.229.213/Prokop-TV-Horror-HD/video.m3u8
+#EXTINF:-1 ,Prokop TV Fantazy HD
+http://194.26.229.213/Prokop-TV-Fantazy-HD/video.m3u8
+#EXTINF:-1 ,Prokop TV The Simpsons HD UA
+http://194.26.229.213/Prokop-TV-The-Simpsons-HD-UA/video.m3u8
+#EXTINF:-1 ,Prokop TV Netflix HD
+http://194.26.229.213/Prokop-TV-Netflix-HD/video.m3u8
+#EXTINF:-1 ,Prokop-TV-Вторая мировая
+http://194.26.229.213/Prokop-TV-2-mirovaya/video.m3u8
+#EXTINF:-1 ,Prokop TV 60 FPS
+http://194.26.229.213/Prokop-TV-60-FPS/video.m3u8
+#EXTINF:-1 ,Prokop TV History HD
+http://194.26.229.213/Prokop-TV-History-HD/video.m3u8
+#EXTINF:-1 ,Prokop TV New Films HD
+http://194.26.229.213/Prokop-TV-New-Films-HD/video.m3u8
+#EXTINF:-1 ,Prokop TV Music
+http://194.26.229.213/Prokop-TV-Music/video.m3u8
 
 #EXTINF:-1 ,Trash
 https://livetv.mylifeisgood.net.ru/channels/trash.m3u8
+
 #EXTINF:-1 ,Совершенно секретно
 https://livetv.mylifeisgood.net.ru/channels/sovsec127.m3u8
 
 #EXTINF:-1 ,2x2
 https://strm.yandex.ru/kal/2x2_belarus/2x2_belarus0.m3u8
+
 #EXTINF:-1 ,Суббота!
 http://hls.k-telecom.org:8081/kt/212/playlist.m3u8
 #EXTINF:-1 ,ТВ3
@@ -234,7 +234,7 @@ http://stv.mediacdn.ru/live/cdn/ani/playlist_sdhigh.m3u8
 #EXTINF:-1 ,Мульт
 https://stv.mediacdn.ru/live/cdn/mult/playlist_hdhigh.m3u8
 
-#EXTINF:-1,Карусель
+#EXTINF:-1 ,Карусель
 http://45.11.139.43:8081/stream/karusel/hls/playlist.m3u8
 
 #EXTINF:-1 ,Tiji
@@ -243,11 +243,12 @@ https://bkm.beetv.kz/btv/live/hls/000000174.m3u8
 #EXTINF:-1 ,Солнце
 https://tv.mediacdn.ru/live/disney/playlist_3000k.m3u8
 
-#EXTINF:-1,Кнопка ТВ
+#EXTINF:-1 ,Кнопка ТВ
 https://api.alpaca.t62a.com/hls/9116/stream0.m3u8
 
 #EXTINF:-1 ,Sochi Live HD
 http://serv30.vintera.tv:8081/sochi/sochi_stream/chunks.m3u8
+
 #EXTINF:-1 ,Беларусь 24
 https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/chunklist_w1008231497_b5160000_sleng.m3u8
 
@@ -256,14 +257,18 @@ http://109.239.208.82:80/kvn/index.m3u8
 
 #EXTINF:-1 ,СТС
 https://bkm.beetv.kz/btv/live/hls/000000428.m3u8
+
 #EXTINF:-1 ,СТС love
 http://94.232.104.237:8000/play/058/index.m3u8
 #EXTINF:-1 ,Ю
 http://94.232.104.237:8000/play/096/index.m3u8
+
 #EXTINF:-1 ,Че
 http://hls.k-telecom.org:8081/kt/35/playlist.m3u8
+
 #EXTINF:-1 ,Пятница!
 http://94.232.104.237:8000/play/016/index.m3u8
+
 #EXTINF:-1 ,ОТР
 http://hls.k-telecom.org:8081/kt/132/playlist.m3u8
 #EXTINF:-1 ,Пятый канал
@@ -271,11 +276,11 @@ http://hls.k-telecom.org:8081/kt/9/playlist.m3u8
 #EXTINF:-1 ,Домашний
 http://hls.k-telecom.org:8081/kt/25/playlist.m3u8
 
-
 #EXTINF:-1 ,МИР HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 ,МИР 24 HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+
 #EXTINF:-1 ,ТВЦ
 https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 
@@ -311,6 +316,7 @@ http://89.254.128.5:22280/mtv_00/video.m3u8
 
 #EXTINF:-1 ,CVR
 https://live.prd.dlive.tv/hls/live/cybervybezradio.m3u8
+
 #EXTINF:-1 ,VIVA Russia
 https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
 
@@ -323,12 +329,12 @@ https://endpnt.com/hls/nasa4k60/playlist.m3u8
 #EXTINF:-1 ,Love Nature 4k
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
 
-#EXTINF:-1,Беларусь 5
+#EXTINF:-1 ,Беларусь 5
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8
 
-#EXTINF:-1,Eurosport 1 HD
+#EXTINF:-1 ,Eurosport 1 HD
 http://91.207.115.228:5000/c153
-#EXTINF:-1,Eurosport 2 HD
+#EXTINF:-1 ,Eurosport 2 HD
 http://91.207.115.228:5000/c154
 
 #EXTINF:-1 ,Setanta Sports 1 HD
@@ -348,12 +354,14 @@ http://95.67.12.82:9067
 
 #EXTINF:-1 ,Матч HD
 http://hls.k-telecom.org:8081/kt/222/playlist.m3u8
-#EXTINF:-1, Матч! Футбол 1 HD
+
+#EXTINF:-1 ,Матч! Футбол 1 HD
 http://194.143.148.28:8080/MatchFutbol1/mpegts
-#EXTINF:-1, Матч! Футбол 2 HD
+#EXTINF:-1 ,Матч! Футбол 2 HD
 http://91.207.115.228:5000/c115
-#EXTINF:-1, Матч! Футбол 3 HD
+#EXTINF:-1 ,Матч! Футбол 3 HD
 http://185.57.68.33/110/mpegts
+
 #EXTINF:-1 ,Матч! Арена
 http://87.120.142.11:18000/Match!Arena
 #EXTINF:-1 ,Матч! Боец
