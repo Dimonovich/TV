@@ -2247,7 +2247,7 @@ https://company.fluid.stream/CompanyTV/smil:Company_ALL.smil/playlist_slita.m3u8
 #EXTINF:-1 group-title="Музыкальные 🎶",RTV Altea HD
 http://54.38.156.56/live/stream/index.m3u8
 #EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://www.coolstreaming.us/img/ch/image24561560526.jpg",Zerouno TV
-http://5db313b643fd8.streamlock.net:1935/ZerounoTV/ZerounoTV/playlist.m3u8
+https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="http://tv.10dailythings.com/images/channels/GR/ng-tv/normal.png",NG TV
 https://live.streams.ovh/NGradio/NGradio/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://photos.live-tv-channels.org/tv-logo/gr-baraza-music-tv-6107-300x225.jpg",Baraza TV Hits
@@ -2314,8 +2314,6 @@ https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
 https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://www.coolstreaming.us/img/ch/image58595345123.jpg",Muzzik Mediteraneo
 https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶",OneRUS HD
-http://rtmp.one.by:1499
 #EXTINF:-1 group-title="Музыкальные 🎶",Retro TV
 https://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w2024688549.m3u8
 #EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://www.rockfm.ro/assets/logo/rockfm-white.png",Rock TV
@@ -2378,8 +2376,6 @@ http://hls-zhara.cdnvideo.ru/zhara/zhara/playlist.m3u8
 https://myradio24.org/tisradio_video.m3u8
 #EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://www.coolstreaming.us/img/ch/image91450472363.jpg",30A MUSIC TV
 https://30a-tv.com/feeds/720p/6.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://www.coolstreaming.us/img/ch/image29305691365.jpg",SYSTEM RADIO TV
-https://w1.mediastreaming.it/radiosystemtv/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://www.coolstreaming.us/img/ch/image87899621576.jpg",COMPANY TV HD
 https://5929b138b139d.streamlock.net/CompanyTV/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://www.coolstreaming.us/img/ch/ima35817922978.jpg",RADIO PADOVA TV
