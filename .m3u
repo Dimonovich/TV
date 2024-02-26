@@ -36,9 +36,6 @@ http://185.37.150.46:8092/THT_HD/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,ТНТ4
 https://bkm.beetv.kz/btv/live/hls/000002926.m3u8
 
-#EXTINF:-1 ,Охота и рыбалка
-http://91.207.115.228:5000/c109
-
 #EXTINF:-1 ,РЕН-ТВ
 http://94.232.104.237:8000/play/011/index.m3u8
 
@@ -65,11 +62,9 @@ https://strm.yandex.ru/kal/dialogi/dialogi0.m3u8
 
 
 #EXTINF:-1 ,История
-http://91.207.115.228:5000/c85
+http://109.239.208.82:80/history/index.m3u8
 #EXTINF:-1 ,Animal Planet
-http://91.207.115.228:5000/c147
-#EXTINF:-1 ,Discovery Science
-http://91.207.115.228:5000/c148
+http://78.26.128.59:9876/play/286/index.m3u8
 
 #EXTINF:-1 ,Discovery Channel
 https://bkm.beetv.kz/btv/live/hls/000001496.m3u8
@@ -84,23 +79,23 @@ https://bkm.beetv.kz/btv/live/hls/000001000.m3u8
 
 
 #EXTINF:-1 ,viju Explore
-http://91.207.115.228:5000/c95
+http://94.232.104.237:8000/play/077/index.m3u8
 #EXTINF:-1 ,viju History
-http://91.207.115.228:5000/c96
+http://94.232.104.237:8000/play/078/index.m3u8
 #EXTINF:-1 ,Viasat Nature HD
-http://91.207.115.228:5000/c97
+http://94.232.104.237:8000/play/079/index.m3u8
 #EXTINF:-1 ,TV 1000
-http://91.207.115.228:5000/c48
+http://94.232.104.237:8000/play/039/index.m3u8
 #EXTINF:-1 ,viju TV1000 Action
-http://91.207.115.228:5000/c49
+http://94.232.104.237:8000/play/040/index.m3u8
 #EXTINF:-1 ,TV1000 Русское кино
-http://91.207.115.228:5000/c37
+http://94.232.104.237:8000/play/041/index.m3u8
 #EXTINF:-1 ,viju+ Comedy
-http://91.207.115.228:5000/c143
+https://bkm.beetv.kz/btv/live/hls/000000870.m3u8
 #EXTINF:-1 ,viju+ Megahit
-http://91.207.115.228:5000/c144
+https://bkm.beetv.kz/btv/live/hls/000000869.m3u8
 #EXTINF:-1 ,viju+ Premiere
-http://91.207.115.228:5000/c145
+http://94.232.104.237:8000/play/076/index.m3u8
 
 #EXTINF:-1 ,Дорама
 http://95.67.12.82:9046
@@ -133,9 +128,6 @@ http://188.113.190.15/327/video.m3u8
 #EXTINF:-1 ,РОДНОЕ КИНО
 http://188.113.190.15/317/video.m3u8
 
-#EXTINF:-1 ,КИНОУЖАС HD
-http://hls.k-telecom.org:8081/kt/227/playlist.m3u8
-
 #EXTINF:-1 ,Кинопремьера HD
 https://strm.yandex.ru/kal/kinopremiera_hd_belarus/kinopremiera_hd_belarus0.m3u8
 #EXTINF:-1 ,Кинохит
@@ -159,9 +151,9 @@ http://195.9.195.3:8080/hls/187241.m3u8
 http://195.9.195.3:8080/hls/202127.m3u8
 
 #EXTINF:-1 ,Дом кино
-http://91.207.115.228:5000/c30
+https://bkm.beetv.kz/btv/live/hls/000000050.m3u8
 #EXTINF:-1 ,НСТ
-http://91.207.115.228:5000/c169
+http://94.232.104.237:8000/play/037/index.m3u8
 
 #EXTINF:-1 ,black
 https://stream01.vnet.am/Kinosemya/mono.m3u8
@@ -221,11 +213,13 @@ https://livetv.mylifeisgood.net.ru/channels/sovsec127.m3u8
 https://strm.yandex.ru/kal/2x2_belarus/2x2_belarus0.m3u8
 
 #EXTINF:-1 ,Суббота!
-http://hls.k-telecom.org:8081/kt/212/playlist.m3u8
+http://185.37.150.40:8092/Super/playlist.m3u8
 #EXTINF:-1 ,ТВ3
-http://hls.k-telecom.org:8081/kt/19/playlist.m3u8
+http://s18209.cdn.ngenix.net/hls/CH_R01_TV3/playlist.m3u8
 #EXTINF:-1 ,Пятница!
-http://hls.k-telecom.org:8081/kt/20/playlist.m3u8
+http://s18209.cdn.ngenix.net/hls/CH_R01_FRIDAY/playlist.m3u8
+#EXTINF:-1 ,Че
+http://s18209.cdn.ngenix.net/hls/CH_R02_PERETZ/playlist.m3u8
 
 #EXTINF:-1 ,Мама
 http://stv.mediacdn.ru/live/cdn/mama/playlist_sdhigh.m3u8
@@ -263,18 +257,13 @@ http://94.232.104.237:8000/play/058/index.m3u8
 #EXTINF:-1 ,Ю
 http://94.232.104.237:8000/play/096/index.m3u8
 
-#EXTINF:-1 ,Че
-http://hls.k-telecom.org:8081/kt/35/playlist.m3u8
-
-#EXTINF:-1 ,Пятница!
-http://94.232.104.237:8000/play/016/index.m3u8
 
 #EXTINF:-1 ,ОТР
-http://hls.k-telecom.org:8081/kt/132/playlist.m3u8
+http://s18209.cdn.ngenix.net/hls/CH_R01_OTR/playlist.m3u8
 #EXTINF:-1 ,Пятый канал
-http://hls.k-telecom.org:8081/kt/9/playlist.m3u8
+http://s18209.cdn.ngenix.net/hls/CH_R02_5TV/playlist.m3u8
 #EXTINF:-1 ,Домашний
-http://hls.k-telecom.org:8081/kt/25/playlist.m3u8
+http://s18209.cdn.ngenix.net/hls/CH_R04_DOMASHNY/playlist.m3u8
 
 #EXTINF:-1 ,МИР HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
@@ -288,9 +277,9 @@ https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 
 #EXTINF:-1 ,CHD TV RU Rock
-http://194.26.229.213/chdtv_ru_rock/index.m3u8
+http://80.85.241.205:8070/chdtv_ru_rock/index.m3u8
 #EXTINF:-1 ,CHD-TV Rock
-http://194.26.229.213/chdtv_rock/index.m3u8
+http://80.85.241.205:8070/chdtv_rock/index.m3u8
 
 #EXTINF:-1 ,Bridge TV
 https://livetv.mylifeisgood.net.ru/channels/bridgetv24h.m3u8
@@ -333,9 +322,9 @@ https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8
 
 #EXTINF:-1 ,Eurosport 1 HD
-http://91.207.115.228:5000/c153
+http://78.26.128.59:9876/play/89/index.m3u8
 #EXTINF:-1 ,Eurosport 2 HD
-http://91.207.115.228:5000/c154
+https://bkm.beetv.kz/btv/live/hls/000002479.m3u8
 
 #EXTINF:-1 ,Setanta Sports 1 HD
 https://bkm.beetv.kz/btv/live/hls/000004498.m3u8
@@ -353,7 +342,7 @@ http://194.26.229.213/joj-sport/index.m3u8
 http://95.67.12.82:9067
 
 #EXTINF:-1 ,Матч HD
-http://hls.k-telecom.org:8081/kt/222/playlist.m3u8
+http://31.148.6.9:10003/index.m3u8
 
 #EXTINF:-1 ,Матч! Футбол 1 HD
 http://194.143.148.28:8080/MatchFutbol1/mpegts
@@ -371,11 +360,11 @@ https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
 #EXTINF:-1 ,Матч! Игра
 http://87.120.142.11:18000/Match!Igra
 #EXTINF:-1 ,Матч Премьер HD
-http://hls.k-telecom.org:8081/kt/103/playlist.m3u8
+http://185.37.150.46:8092/Nash_futbol_HD/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,Матч! Страна
-http://hls.k-telecom.org:8081/kt/107/playlist.m3u8
+http://94.232.104.237:8000/play/059/index.m3u8
 #EXTINF:-1 ,KHL
-https://stream3.itv.uz/1422/index.m3u8
+http://94.232.104.237:8000/play/065/index.m3u8
 #EXTINF:-1 ,KHL HD
 http://185.37.150.46:8092/KHL_HD/index.m3u8
 #EXTINF:-1 ,Viasat Sport
