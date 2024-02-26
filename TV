@@ -15,13 +15,13 @@ http://194.26.229.213/intro/index.m3u8
 
 
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/3rkRjpjC/photo-2024-01-14-15-41-50.jpg",CHD-TV RU Rock HD
-http://194.26.229.213/chdtv_ru_rock/index.m3u8
+http://80.85.241.205:8070/chdtv_ru_rock/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/MHNdgRXj/photo-2024-01-14-15-42-03.jpg",CHD-TV Rock
-http://194.26.229.213/chdtv_rock/index.m3u8
+http://80.85.241.205:8070/chdtv_rock/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/RCgvJhdQ/image.png",СоюзМультфильм
-http://194.26.229.213/souzmultfilm/index.m3u8
+http://80.85.241.205:8070/souzmultfilm/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/BvqS8HVV/1.png",Чип и Дейл
-http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
+http://80.85.241.205:8070/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://posters.hdrezka.quest/uploads/posts/2017-05/1494729344-290867852.jpg",Big Buck Bunny
 https://live-par-2-cdn-alt.livepush.io/live/bigbuckbunnyclip/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵"  tvg-id="ntv-amerika",НТВ Америка    
