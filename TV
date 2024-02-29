@@ -177,6 +177,30 @@ http://dancehits80.denvs.ru:8080/index.m3u8
 https://void.greenhosting.ru/MovifyVesture_Mpeg4/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://i.postimg.cc/s2qT2Rr8/logo.png",Movify Сериал
 https://void.greenhosting.ru/MovifySerial_Mpeg4/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Magic VHS HD
+http://clients3.arm-iptv.ru:8080/Magic_VHS/video.m3u8?token=Home
+#EXTINF:-1 group-title="TEST (VPN)",Magic Karate HD
+http://clients3.arm-iptv.ru:8080/Magic_Karate/video.m3u8?token=Home
+#EXTINF:-1 group-title="TEST (VPN)",Magic Comedy HD
+http://clients3.arm-iptv.ru:8080/Magic_Comedy/video.m3u8?token=Home
+#EXTINF:-1 group-title="TEST (VPN)",Magic Disney HD
+http://clients3.arm-iptv.ru:8080/Magic_Disney/video.m3u8?token=Home
+#EXTINF:-1 group-title="TEST (VPN)",Magic Horror HD
+http://clients3.arm-iptv.ru:8080/Magic_Horror/video.m3u8?token=Home
+#EXTINF:-1 group-title="TEST (VPN)",Magic Galaxy HD
+http://clients3.arm-iptv.ru:8080/Magic_Galaxy/video.m3u8?token=Home
+#EXTINF:-1 group-title="TEST (VPN)",Magic Action HD
+http://clients3.arm-iptv.ru:8080/Magic_Action/video.m3u8?token=Home
+#EXTINF:-1 group-title="TEST (VPN)",Magic Thriller HD
+http://clients3.arm-iptv.ru:8080/Magic_Thriller/video.m3u8?token=Home
+#EXTINF:-1 group-title="TEST (VPN)",Magic Family HD
+http://clients3.arm-iptv.ru:8080/Magic_Family/video.m3u8?token=Home
+#EXTINF:-1 group-title="TEST (VPN)",Magic Love HD
+http://clients3.arm-iptv.ru:8080/Magic_Love/video.m3u8?token=Home
+#EXTINF:-1 group-title="TEST (VPN)",Magic Russian HD
+http://clients3.arm-iptv.ru:8080/Magic_Russian/video.m3u8?token=Home
+#EXTINF:-1 group-title="TEST (VPN)",Magic Adventure HD
+http://clients3.arm-iptv.ru:8080/Magic_Adventure/video.m3u8?token=Home
 #EXTINF:-1 group-title="TEST (VPN)",TV1000 Русское кино
 http://194.143.148.28:8080/TV1000RuKino/mpegts
 #EXTINF:-1 group-title="TEST (VPN)" ,НТС Иркутск
