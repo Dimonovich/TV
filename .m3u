@@ -105,11 +105,6 @@ http://212.22.76.51:7000/A2/tracks-v1a1/mono.m3u8
 http://212.22.76.51:7000/Amedia_Hit/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Amedia Premium HD
 http://212.22.76.51:7000/Amedia_Premium_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Инфострой (VPN)" ,Flix Snip
-http://212.22.76.51:7000/FlixSnip/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Инфострой (VPN)" ,Hollywood HD
-http://212.22.76.51:7000/Hollywood_HD/tracks-v1a1/mono.m3u8
-
 
 #EXTINF:-1 ,Gags Network HD
 http://95.67.12.82:9069
