@@ -26,6 +26,16 @@ http://80.85.241.205:8070/chip-n-dale-rescue-rangers/index.m3u8
 https://live-par-2-cdn-alt.livepush.io/live/bigbuckbunnyclip/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵"  tvg-id="ntv-amerika",НТВ Америка    
 http://4.59.210.197:8815/udp/127.0.0.1:6003
+#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.ibb.co/C2mStjR/image-14.png" ,Alpha Cinema
+https://live.15plusmg.ru/memfs/8ecd3547-36cd-4f81-811a-1d29b7a78c3c_output_0.m3u8
+#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.ibb.co/PTMhFrx/image-17.png",Alpha Onenite
+https://live.15plusmg.ru/memfs/1d9a92dd-4d7f-4866-a5b1-e30fd6ebf14a_output_0.m3u8
+#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.ibb.co/n1Bd75c/image-19.png" ,Alpha Games
+https://live.15plusmg.ru/memfs/d738f8fa-8577-4e55-946c-d2a04b60bab0_output_0.m3u8
+#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.ibb.co/fGbrQPn/image-20.png" ,Alpha Nature
+https://live.15plusmg.ru/memfs/e661237b-5e55-41f5-802f-c40a266f00b2_output_0.m3u8
+#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.ibb.co/FzQhQjW/image-21.png" ,Alpha Funny
+https://live.15plusmg.ru/memfs/f8f91c8f-a5c1-4c26-907e-b9d469906093_output_0.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Грозный
 https://streamer1.connectto.com/517/mono.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Комедийное HD
