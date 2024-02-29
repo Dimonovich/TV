@@ -37,7 +37,7 @@ http://185.37.150.46:8092/THT_HD/tracks-v1a1/index.m3u8
 https://bkm.beetv.kz/btv/live/hls/000002926.m3u8
 
 #EXTINF:-1 ,РЕН-ТВ
-http://94.232.104.237:8000/play/011/index.m3u8
+http://s18209.cdn.ngenix.net/hls/CH_R02_RENTV/playlist.m3u8
 
 #EXTINF:-1 ,HDL
 https://strm.yandex.ru/kal/hd_life_belarus/hd_life_belarus0.m3u8
@@ -95,26 +95,21 @@ https://bkm.beetv.kz/btv/live/hls/000000870.m3u8
 #EXTINF:-1 ,viju+ Megahit
 https://bkm.beetv.kz/btv/live/hls/000000869.m3u8
 #EXTINF:-1 ,viju+ Premiere
-http://94.232.104.237:8000/play/076/index.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000868.m3u8
 
 #EXTINF:-1 ,a1
 http://212.22.76.51:7000/A1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,a2
 http://212.22.76.51:7000/A2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Amedia HIT
-http://212.22.76.51:83/Amedia_Hit/tracks-v1a1/mono.m3u8
+http://212.22.76.51:7000/Amedia_Hit/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Amedia Premium HD
-http://212.22.76.51:83/Amedia_Premium_HD/tracks-v1a1/mono.m3u8
+http://212.22.76.51:7000/Amedia_Premium_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Инфострой (VPN)" ,Flix Snip
-http://212.22.76.51:83/FlixSnip/tracks-v1a1/mono.m3u8
+http://212.22.76.51:7000/FlixSnip/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Инфострой (VPN)" ,Hollywood HD
-http://212.22.76.51:83/Hollywood_HD/tracks-v1a1/mono.m3u8
+http://212.22.76.51:7000/Hollywood_HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 ,Дорама
-http://95.67.12.82:9046
-
-#EXTINF:-1 ,Flix Snip
-http://95.67.12.82:9061
 
 #EXTINF:-1 ,Gags Network HD
 http://95.67.12.82:9069
@@ -353,30 +348,35 @@ http://95.67.12.82:9067
 http://31.148.6.9:10003/index.m3u8
 
 #EXTINF:-1 ,Матч! Футбол 1 HD
-http://212.22.76.51:7000/match_futbol_1_hd/tracks-v1a1/mono.m3u8
+http://80.85.241.205:8070/m1/index.m3u8
 #EXTINF:-1 ,Матч! Футбол 2 HD
 http://80.85.241.205:8070/m2/index.m3u8
 #EXTINF:-1 ,Матч! Футбол 3 HD
 http://80.85.241.205:8070/m3/index.m3u8
-
 #EXTINF:-1 ,Матч! Арена
-http://87.120.142.11:18000/Match!Arena
+http://80.85.241.205:8070/ma/index.m3u8
 #EXTINF:-1 ,Матч! Боец
-http://87.120.142.11:18000/Match!
+http://80.85.241.205:8070/mb/index.m3u8
+#EXTINF:-1 ,Матч! Игра
+http://80.85.241.205:8070/mi/index.m3u8
+#EXTINF:-1 ,Матч! Страна
+http://80.85.241.205:8070/ms/index.m3u8
+
 #EXTINF:-1 ,Матч! Планета
 https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
-#EXTINF:-1 ,Матч! Игра
-http://87.120.142.11:18000/Match!Igra
+
 #EXTINF:-1 ,Матч Премьер HD
 http://212.22.76.51:7000/match_premier/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Матч! Страна
-http://94.232.104.237:8000/play/059/index.m3u8
+
 #EXTINF:-1 ,KHL
 http://94.232.104.237:8000/play/065/index.m3u8
+
 #EXTINF:-1 ,KHL HD
 http://185.37.150.46:8092/KHL_HD/index.m3u8
+
 #EXTINF:-1 ,Viasat Sport
 https://bkm.beetv.kz/btv/live/hls/000000135.m3u8
+
 #EXTINF:-1 ,Конный мир HD
 http://cdn-01.bonus-tv.ru/konnyimir/index.m3u8
 
