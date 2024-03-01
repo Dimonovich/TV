@@ -356,12 +356,11 @@ http://80.85.241.205:8070/mb/index.m3u8
 http://80.85.241.205:8070/mi/index.m3u8
 #EXTINF:-1 ,Матч! Страна
 http://80.85.241.205:8070/ms/index.m3u8
+#EXTINF:-1 ,Матч Премьер HD
+http://80.85.241.205:8070/mp/index.m3u8
 
 #EXTINF:-1 ,Матч! Планета
 https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
-
-#EXTINF:-1 ,Матч Премьер HD
-http://212.22.76.51:7000/match_premier/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 ,KHL
 http://94.232.104.237:8000/play/065/index.m3u8
