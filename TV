@@ -3237,6 +3237,8 @@ http://109.239.208.82:80/kvn/index.m3u8
 http://109.239.208.82:80/auto24/index.m3u8
 #EXTINF:-1 group-title="Экран (VPN)",ЗДОРОВОЕ ТВ
 http://109.239.208.82:80/zdorovoe/index.m3u8
+#EXTINF:-1 group-title="Экран (VPN)",Тонус
+http://109.239.208.82:80/tonus/index.m3u8
 #EXTINF:-1 group-title="Экран (VPN)",МУЛЬТ
 http://109.239.208.82:80/mult/index.m3u8
 #EXTINF:-1 group-title="Экран (VPN)",Мультимузыка
@@ -6934,8 +6936,6 @@ http://127.0.0.1:6878/ace/getstream?id=3a08c5a973e162429910f441bf8aa45b24d667e0&
 http://127.0.0.1:6878/ace/getstream?id=5347a5417c376ac10cdf9c1a3a26eadbe76c280a&.mp4
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Nat Geo Wild
 http://127.0.0.1:6878/ace/getstream?id=b2fe281859c9bd201fd07234693f0fe360b0b339&.mp4
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",DTX HD
-http://127.0.0.1:6878/ace/getstream?id=b2c8dfc5ec5fdfb098ae4285335ee465f0b63885&.mp4
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Discovery Science HD
 http://127.0.0.1:6878/ace/getstream?id=61c8e867268715eae83f9934e9bc08b1bb6a9227&.mp4
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Discovery HD
