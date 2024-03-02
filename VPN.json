@@ -76,11 +76,11 @@
     "udpdns": false
   },
   {
-    "server": "212.102.53.80",
-    "server_port": 443,
-    "password": "shadowsocks",
-    "method": "aes-128-gcm",
-    "remarks": "🇬🇧 Великобритания (https://t.me/freeneo_net)",
+    "server": "91.190.155.55",
+    "server_port": 34994,
+    "password": "dfMw7Ai0oamEUuiJpXgbJU",
+    "method": "CHACHA20-IETF-POLY1305",
+    "remarks": "🇳🇴 Норвегия (https://t.me/freeneo_net)",
     "route": "all",
     "remote_dns": "one.one.one.one",
     "ipv6": false,
