@@ -30,8 +30,8 @@ https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 ,НТВ Стиль
 https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
 
-#EXTINF:-1 ,ТНТ HD
-http://185.37.150.46:8092/THT_HD/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,ТНТ
+http://s18209.cdn.ngenix.net/hls/CH_R01_TNT/playlist.m3u8
 
 #EXTINF:-1 ,ТНТ4
 https://bkm.beetv.kz/btv/live/hls/000002926.m3u8
