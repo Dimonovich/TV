@@ -46,21 +46,6 @@
     "udpdns": false
   },
   {
-    "server": "185.104.192.195",
-    "server_port": 57104,
-    "password": "pwGSXAOqRgnBPcl9BzVZYR",
-    "method": "CHACHA20-IETF-POLY1305",
-    "remarks": "🇬🇪 Грузия (https://t.me/freeneo_net)",
-    "route": "all",
-    "remote_dns": "one.one.one.one",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
     "server": "5.188.181.201",
     "server_port": 9054,
     "password": "VcFuyXvND2yQWSFY",
