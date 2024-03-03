@@ -30,8 +30,8 @@ https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 ,НТВ Стиль
 https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
 
-#EXTINF:-1 ,ТНТ
-http://s18209.cdn.ngenix.net/hls/CH_R01_TNT/playlist.m3u8
+#EXTINF:-1 ,ТНТ HD
+http://185.37.150.46:8092/THT_HD/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 ,ТНТ4
 https://bkm.beetv.kz/btv/live/hls/000002926.m3u8
@@ -114,6 +114,13 @@ https://ipv4.bozztv.com/dvrfl07/ushba8/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
 https://bkm.beetv.kz/btv/live/hls/000006365.m3u8
+
+#EXTINF:-1 ,Duo7
+http://89.254.128.5:22280/duo7_hd/index.m3u8
+#EXTINF:-1 ,Star Family HD
+http://89.254.128.5:22280/star_family_hd/video.m3u8
+#EXTINF:-1 ,Viasat Kino Action
+http://89.254.128.5:22280/viasat_kino_action/index.m3u8
 
 #EXTINF:-1 ,РУССКИЙ РОМАН
 http://91.142.158.107:8092/play/25/index.m3u8
@@ -237,6 +244,9 @@ http://45.11.139.43:8081/stream/karusel/hls/playlist.m3u8
 #EXTINF:-1 ,Tiji
 https://bkm.beetv.kz/btv/live/hls/000000174.m3u8
 
+#EXTINF:-1 ,NickToons
+http://89.254.128.5:22280/nicktoons/video.m3u8
+
 #EXTINF:-1 ,Солнце
 https://tv.mediacdn.ru/live/disney/playlist_3000k.m3u8
 
@@ -350,6 +360,8 @@ http://80.85.241.205:8070/m2/index.m3u8
 http://80.85.241.205:8070/m3/index.m3u8
 #EXTINF:-1 ,Матч! Арена
 http://80.85.241.205:8070/ma/index.m3u8
+#EXTINF:-1 ,Матч! Боец
+http://80.85.241.205:8070/mb/index.m3u8
 #EXTINF:-1 ,Матч! Игра
 http://80.85.241.205:8070/mi/index.m3u8
 #EXTINF:-1 ,Матч! Страна
