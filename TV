@@ -56,6 +56,8 @@ https://void.greenhosting.ru/Multimania_Mpeg4/video.m3u8
 http://89.254.128.5:22280/nicktoons/video.m3u8
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://www.cableman.ru/sites/default/files/2020/1gk.c2.jpg",1+2
 http://89.254.128.5:22280/1_2/mono.m3u8
+#EXTINF:-1 group-title="TEST ⓵" tvg-id="filmzone-ee",FilmZone EE
+http://89.254.128.5:22280/film_zone/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TEST ⓵" ,Duo7 HD EE
 http://89.254.128.5:22280/duo7_hd/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵" tvg-id="6614" tvg-logo="http://epg.it999.ru/img/6614.png",YES-MTV 00s
