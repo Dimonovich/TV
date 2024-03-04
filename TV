@@ -258,6 +258,208 @@ http://live-1.otcnet.ru/pravdatv/tracks-v1a1/index.m3u8
 
 
 
+#EXTINF:-1 group-title="Uplink",Первый канал Евразия
+http://109.248.236.21:4433/udp/238.1.1.7:1234
+#EXTINF:-1 group-title="Uplink",Россия 24
+http://109.248.236.21:4433/udp/238.1.1.40:1234
+#EXTINF:-1 group-title="Uplink",Россия РТР
+http://109.248.236.21:4433/udp/238.1.1.16:1234
+#EXTINF:-1 group-title="Uplink",ТНТ
+http://109.248.236.21:4433/udp/238.1.1.15:1234
+#EXTINF:-1 group-title="Uplink",ТНТ4
+http://109.248.236.21:4433/udp/238.1.1.12:1234
+#EXTINF:-1 group-title="Uplink" tvg-id="rentv-int",РЕН ТВ INTERNATIONAL
+http://109.248.236.21:4433/udp/238.1.1.72:1234 
+#EXTINF:-1 group-title="Uplink" tvg-id="piatnica-int",Пятница International
+http://109.248.236.21:4433/udp/238.1.1.84:1234 
+#EXTINF:-1 group-title="Uplink" tvg-id="perec-int",Перец INTERNATIONAL 
+http://109.248.236.21:4433/udp/238.1.1.118:1234  
+#EXTINF:-1 group-title="Uplink" tvg-id="domashny-int",Домашний INTERNATIONAL
+http://109.248.236.21:4433/udp/238.1.1.120:1234   
+#EXTINF:-1 group-title="Uplink",Travel XP HD
+http://109.248.236.21:4433/udp/238.1.1.124:1234
+#EXTINF:-1 group-title="Uplink",RTG TV
+http://109.248.236.21:4433/udp/238.1.1.9:1234
+#EXTINF:-1 group-title="Uplink",Домашние животные
+http://109.248.236.21:4433/udp/238.1.1.107:1234
+#EXTINF:-1 group-title="Uplink",Рыбалка и охота
+http://109.248.236.21:4433/udp/238.1.1.22:1234
+#EXTINF:-1 group-title="Uplink",Загородный
+http://109.248.236.21:4433/udp/238.1.1.28:1234
+#EXTINF:-1 group-title="Uplink",HD Life
+http://109.248.236.21:4433/udp/238.1.1.59:1234
+#EXTINF:-1 group-title="Uplink",Viasat History
+http://109.248.236.21:4433/udp/238.1.1.1:1234
+#EXTINF:-1 group-title="Uplink",Viasat Explore
+http://109.248.236.21:4433/udp/238.1.1.18:1234
+#EXTINF:-1 group-title="Uplink",Viasat Nature
+http://109.248.236.21:4433/udp/238.1.1.51:1234
+#EXTINF:-1 group-title="Uplink",Animal Planet
+http://109.248.236.21:4433/udp/238.1.1.25:1234
+#EXTINF:-1 group-title="Uplink",Моя Планета
+http://109.248.236.21:4433/udp/238.1.1.95:1234
+#EXTINF:-1 group-title="Uplink",Т24
+http://109.248.236.21:4433/udp/238.1.1.88:1234
+#EXTINF:-1 group-title="Uplink",Психология 21
+http://109.248.236.21:4433/udp/238.1.1.103:1234
+#EXTINF:-1 group-title="Uplink",Оружие
+http://109.248.236.21:4433/udp/238.1.1.34:1234
+#EXTINF:-1 group-title="Uplink",Вопросы и ответы
+http://109.248.236.21:4433/udp/238.1.1.2:1234
+#EXTINF:-1 group-title="Uplink",Точка отрыва
+http://109.248.236.21:4433/udp/238.1.1.127:1234
+#EXTINF:-1 group-title="Uplink",В мире животных HD
+http://109.248.236.21:4433/udp/238.1.1.48:1234
+#EXTINF:-1 group-title="Uplink",НСТ
+http://109.248.236.21:4433/udp/238.1.1.123:1234
+#EXTINF:-1 group-title="Uplink",НТК
+http://109.248.236.21:4433/udp/238.1.1.3:1234
+#EXTINF:-1 group-title="Uplink",ТВЦ
+http://109.248.236.21:4433/udp/238.1.1.11:1234
+#EXTINF:-1 group-title="Uplink",Кинопремьера 
+http://109.248.236.21:4433/udp/238.1.1.19:1234
+#EXTINF:-1 group-title="Uplink",Мужское Кино
+http://109.248.236.21:4433/udp/238.1.1.74:1234
+#EXTINF:-1 group-title="Uplink",Кинохит
+http://109.248.236.21:4433/udp/238.1.1.53:1234
+#EXTINF:-1 group-title="Uplink",Киносвидание
+http://109.248.236.21:4433/udp/238.1.1.105:1234
+#EXTINF:-1 group-title="Uplink",Киносемья
+http://109.248.236.21:4433/udp/238.1.1.52:1234
+#EXTINF:-1 group-title="Uplink",Кинокомедия
+http://109.248.236.21:4433/udp/238.1.1.133:1234
+#EXTINF:-1 group-title="Uplink",Индийское Кино
+http://109.248.236.21:4433/udp/238.1.1.132:1234
+#EXTINF:-1 group-title="Uplink",Наше Новое Кино 
+http://109.248.236.21:4433/udp/238.1.1.54:1234
+#EXTINF:-1 group-title="Uplink",Родное Кино
+http://109.248.236.21:4433/udp/238.1.1.77:1234
+#EXTINF:-1 group-title="Uplink",Киносерия
+http://109.248.236.21:4433/udp/238.1.1.57:1234
+#EXTINF:-1 group-title="Uplink",Cinema
+http://109.248.236.21:4433/udp/238.1.1.140:1234
+#EXTINF:-1 group-title="Uplink",Иллюзион+
+http://109.248.236.21:4433/udp/238.1.1.104:1234
+#EXTINF:-1 group-title="Uplink",Еврокино
+http://109.248.236.21:4433/udp/238.1.1.49:1234
+#EXTINF:-1 group-title="Uplink",Viju TV1000
+http://109.248.236.21:4433/udp/238.1.1.41:1234
+#EXTINF:-1 group-title="Uplink",Viju TV1000 Action
+http://109.248.236.21:4433/udp/238.1.1.43:1234
+#EXTINF:-1 group-title="Uplink",Viju TV1000 Русское
+http://109.248.236.21:4433/udp/238.1.1.44:1234
+#EXTINF:-1 group-title="Uplink",Amedia 1
+http://109.248.236.21:4433/udp/238.1.1.97:1234
+#EXTINF:-1 group-title="Uplink",Amedia Hit
+http://109.248.236.21:4433/udp/238.1.1.96:1234
+#EXTINF:-1 group-title="Uplink",Amedia Premium
+http://109.248.236.21:4433/udp/238.1.1.71:1234
+#EXTINF:-1 group-title="Uplink",.red
+http://109.248.236.21:4433/udp/238.1.1.141:1234
+#EXTINF:-1 group-title="Uplink",.sci-fi
+http://109.248.236.21:4433/udp/238.1.1.138:1234
+#EXTINF:-1 group-title="Uplink",.black
+http://109.248.236.21:4433/udp/238.1.1.139:1234
+#EXTINF:-1 group-title="Uplink",Индия
+http://109.248.236.21:4433/udp/238.1.1.31:1234
+#EXTINF:-1 group-title="Uplink",Победа
+http://109.248.236.21:4433/udp/238.1.1.128:1234
+#EXTINF:-1 group-title="Uplink",Дом Кино HD
+http://109.248.236.21:4433/udp/238.1.1.171:1234
+#EXTINF:-1 group-title="Uplink",Дом Кино
+http://109.248.236.21:4433/udp/238.1.1.32:1234
+#EXTINF:-1 group-title="Uplink",Дом Кино Премиум HD
+http://109.248.236.21:4433/udp/238.1.1.66:1234
+#EXTINF:-1 group-title="Uplink",Русский Иллюзион
+http://109.248.236.21:4433/udp/238.1.1.129:1234
+#EXTINF:-1 group-title="Uplink",Ностальгия
+http://109.248.236.21:4433/udp/238.1.1.83:1234
+#EXTINF:-1 group-title="Uplink",Мосфильм. Золотая коллекция
+http://109.248.236.21:4433/udp/238.1.1.100:1234
+#EXTINF:-1 group-title="Uplink",Мир Сериала
+http://109.248.236.21:4433/udp/238.1.1.136:1234
+#EXTINF:-1 group-title="Uplink",Ю
+http://109.248.236.21:4433/udp/238.1.1.108:1234
+#EXTINF:-1 group-title="Uplink",СТС
+http://109.248.236.21:4433/udp/238.1.1.67:1234
+#EXTINF:-1 group-title="Uplink",СТС Love
+http://109.248.236.21:4433/udp/238.1.1.69:1234
+#EXTINF:-1 group-title="Uplink",Время
+http://109.248.236.21:4433/udp/238.1.1.33:1234
+#EXTINF:-1 group-title="Uplink",Телекафе
+http://109.248.236.21:4433/udp/238.1.1.99:1234
+#EXTINF:-1 group-title="Uplink",Авто 24
+http://109.248.236.21:4433/udp/238.1.1.110:1234
+#EXTINF:-1 group-title="Uplink",БелРос
+http://109.248.236.21:4433/udp/238.1.1.30:1234
+#EXTINF:-1 group-title="Uplink",Мульт
+http://109.248.236.21:4433/udp/238.1.1.29:1234
+#EXTINF:-1 group-title="Uplink",Мультиландия
+http://109.248.236.21:4433/udp/238.1.1.26:1234
+#EXTINF:-1 group-title="Uplink",Карусель
+http://109.248.236.21:4433/udp/238.1.1.45:1234
+#EXTINF:-1 group-title="Uplink",О!
+http://109.248.236.21:4433/udp/238.1.1.93:1234
+#EXTINF:-1 group-title="Uplink",Сказки Зайки
+http://109.248.236.21:4433/udp/238.1.1.98:1234
+#EXTINF:-1 group-title="Uplink",Tiji
+http://109.248.236.21:4433/udp/238.1.1.121:1234
+#EXTINF:-1 group-title="Uplink",Bolapan
+http://109.248.236.21:4433/udp/238.1.1.146:1234
+#EXTINF:-1 group-title="Uplink",Мультфильм
+http://109.248.236.21:4433/udp/238.1.1.119:1234
+#EXTINF:-1 group-title="Uplink",Бобер
+http://109.248.236.21:4433/udp/238.1.1.58:1234
+#EXTINF:-1 group-title="Uplink",Ля-минор
+http://109.248.236.21:4433/udp/238.1.1.135:1234
+#EXTINF:-1 group-title="Uplink",Музыка Первого
+http://109.248.236.21:4433/udp/238.1.1.172:1234
+#EXTINF:-1 group-title="Uplink",о2тв
+http://109.248.236.21:4433/udp/238.1.1.17:1234
+#EXTINF:-1 group-title="Uplink",Жара TV
+http://109.248.236.21:4433/udp/238.1.1.106:1234
+#EXTINF:-1 group-title="Uplink",Europa Plus TV
+http://109.248.236.21:4433/udp/238.1.1.27:1234
+#EXTINF:-1 group-title="Uplink",ТНТ Music
+http://109.248.236.21:4433/udp/238.1.1.46:1234
+#EXTINF:-1 group-title="Uplink",МузТВ
+http://109.248.236.21:4433/udp/238.1.1.90:1234
+#EXTINF:-1 group-title="Uplink",R Music 
+http://109.248.236.21:4433/udp/238.1.1.122:1234
+#EXTINF:-1 group-title="Uplink",RU.TV
+http://109.248.236.21:4433/udp/238.1.1.70:1234
+#EXTINF:-1 group-title="Uplink",Шансон ТВ
+http://109.248.236.21:4433/udp/238.1.1.79:1234
+#EXTINF:-1 group-title="Uplink",Bridge TV
+http://109.248.236.21:4433/udp/238.1.1.117:1234
+#EXTINF:-1 group-title="Uplink",Удар
+http://109.248.236.21:4433/udp/238.1.1.144:1234
+#EXTINF:-1 group-title="Uplink",Бокс ТВ
+http://109.248.236.21:4433/udp/238.1.1.13:1234
+#EXTINF:-1 group-title="Uplink",KHL Prime
+http://109.248.236.21:4433/udp/238.1.1.36:1234
+#EXTINF:-1 group-title="Uplink",Матч! Планета
+http://109.248.236.21:4433/udp/238.1.1.39:1234
+#EXTINF:-1 group-title="Uplink",Матч ТВ
+http://109.248.236.21:4433/udp/238.1.1.89:1234
+#EXTINF:-1 group-title="Uplink",Viasat Sport
+http://109.248.236.21:4433/udp/238.1.1.50:1234
+#EXTINF:-1 group-title="Uplink",Setanta 1
+http://109.248.236.21:4433/udp/238.1.1.162:1234
+#EXTINF:-1 group-title="Uplink",Eurosport 1 
+http://109.248.236.21:4433/udp/238.1.1.114:1234
+#EXTINF:-1 group-title="Uplink",Eurosport 2
+http://109.248.236.21:4433/udp/238.1.1.115:1234
+#EXTINF:-1 group-title="Uplink",Sport+ Qazaqstan
+http://109.248.236.21:4433/udp/238.1.1.204:1234
+#EXTINF:-1 group-title="Uplink",QazSport HD
+http://109.248.236.21:4433/udp/238.1.1.116:1234
+#EXTINF:-1 group-title="Uplink",Q Arena
+http://109.248.236.21:4433/udp/238.1.1.142:1234
+#EXTINF:-1 group-title="Uplink",Leacue
+http://109.248.236.21:4433/udp/238.1.1.143:1234
+
+
 
 
 
