@@ -24,8 +24,10 @@ http://80.85.241.205:8070/souzmultfilm/index.m3u8
 http://80.85.241.205:8070/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://posters.hdrezka.quest/uploads/posts/2017-05/1494729344-290867852.jpg",Big Buck Bunny
 https://live-par-2-cdn-alt.livepush.io/live/bigbuckbunnyclip/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵"  tvg-id="ntv-amerika",НТВ Америка    
+#EXTINF:-1 group-title="TEST ⓵" tvg-id="ntv-amerika",НТВ Америка    
 http://4.59.210.197:8815/udp/127.0.0.1:6003
+#EXTINF:-1 group-title="TEST ⓵",viju TV1000 новелла
+http://158.101.194.132:8080/channel/n51877d66/index.m3u8?q=5656d7c7c902657d3491c0330b58ec0e
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.ibb.co/C2mStjR/image-14.png" ,Alpha Cinema
 https://live.15plusmg.ru/memfs/8ecd3547-36cd-4f81-811a-1d29b7a78c3c_output_0.m3u8
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.ibb.co/PTMhFrx/image-17.png",Alpha Onenite
