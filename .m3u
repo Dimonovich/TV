@@ -15,7 +15,7 @@ http://hlstest.eltex-media.ru:8085/Rossia1/index.m3u8
 https://bkm.beetv.kz/btv/live/hls/000000066.m3u8
 
 #EXTINF:-1 ,Россия 24
-http://81.177.197.13:8000/play/a00l/index.m3u8
+http://s18209.cdn.ngenix.net/hls/CH_R01_ROSSIA24/playlist.m3u8
 
 #EXTINF:-1 ,Неизвестная Россия
 https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
@@ -166,13 +166,13 @@ https://bkm.beetv.kz/btv/live/hls/000000050.m3u8
 http://94.232.104.237:8000/play/037/index.m3u8
 
 #EXTINF:-1 ,black
-https://stream01.vnet.am/Kinosemya/mono.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000520.m3u8
 
 #EXTINF:-1 ,Trash
-https://livetv.mylifeisgood.net.ru/channels/trash.m3u8
+https://bkm.beetv.kz/btv/live/hls/000005621.m3u8
 
 #EXTINF:-1 ,Совершенно секретно
-https://livetv.mylifeisgood.net.ru/channels/sovsec127.m3u8
+https://strm.yandex.ru/kal/sovsec/sovsec0.m3u8
 
 #EXTINF:-1 ,2x2
 https://strm.yandex.ru/kal/2x2_belarus/2x2_belarus0.m3u8
