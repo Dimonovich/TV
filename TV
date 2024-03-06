@@ -723,7 +723,7 @@ https://bkm.beetv.kz/btv/live/hls/000000198.m3u8
 https://bkm.beetv.kz/btv/live/hls/000000066.m3u8
 #EXTINF:-1 group-title="Орбита Плюс",РОССИЯ РТР
 https://bkm.beetv.kz/btv/live/hls/000000812.m3u8
-#EXTINF:-1 group-title="Орбита Плюс",РЕН ТВ
+#EXTINF:-1 group-title="Орбита Плюс",tvg-id="rentv-int",РЕН ТВ INTERNATIONAL
 https://bkm.beetv.kz/btv/live/hls/000002472.m3u8
 #EXTINF:-1 group-title="Орбита Плюс",ANIMAL PLANET
 https://bkm.beetv.kz/btv/live/hls/000000216.m3u8
