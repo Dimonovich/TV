@@ -31,11 +31,11 @@
     "udpdns": false
   },
   {
-    "server": "167.235.27.67",
-    "server_port": 38818,
-    "password": "TELEGRAM:@ZEDMODEON-TELEGRAM:@ZEDMODEON-TELEGRAM:@ZEDMODEON,TELEGRAM:@ZEDMODEON",
-    "method": "aes-128-gcm",
-    "remarks": "🇩🇪 Германия (https://t.me/freeneo_net)",
+    "server": "193.228.128.143",
+    "server_port": 27981,
+    "password": "pg6G3tuVQllmcS7zCo5Fce",
+    "method": "CHACHA20-IETF-POLY1305",
+    "remarks": "🇪🇪 Эстония (https://t.me/freeneo_net)",
     "route": "all",
     "remote_dns": "one.one.one.one",
     "ipv6": false,
