@@ -77,6 +77,7 @@ https://bkm.beetv.kz/btv/live/hls/000002722.m3u8
 #EXTINF:-1 ,History HD
 https://bkm.beetv.kz/btv/live/hls/000001000.m3u8
 
+
 #EXTINF:-1 ,viju Explore
 http://94.232.104.237:8000/play/077/index.m3u8
 #EXTINF:-1 ,viju History
@@ -129,6 +130,9 @@ http://91.142.158.107:8092/play/27/index.m3u8
 http://91.142.158.107:8092/play/26/index.m3u8
 #EXTINF:-1 ,Кино ТВ HD
 http://91.142.158.107:8092/play/28/index.m3u8
+
+#EXTINF:-1,Индийское Кино
+http://158.101.222.193:88/vesti/play.php?channel_id=32
 
 #EXTINF:-1 ,КИНОСЕРИЯ
 http://188.113.190.15/312/video.m3u8
