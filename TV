@@ -273,7 +273,7 @@ http://91.205.199.7:8000/play/a0t1
 http://91.205.199.7:8000/play/a0nu
 #EXTINF:-1 group-title="MEGANET-HD" ,Россия 1 (+4)
 http://91.205.199.7:8000/play/a0od
-#EXTINF:-1 group-title="MEGANET-HD" ,РЕН (+4)
+#EXTINF:-1 group-title="MEGANET-HD" ,Рен ТВ +4
 http://91.205.199.7:8000/play/a0om
 #EXTINF:-1 group-title="MEGANET-HD" ,НТВ Хит
 http://91.205.199.7:8000/play/a0pp
@@ -377,8 +377,6 @@ http://91.205.199.7:8000/play/a0ot
 http://91.205.199.7:8000/play/a0ow
 #EXTINF:-1 group-title="MEGANET-HD" ,РТР Планета
 http://91.205.199.7:8000/play/a0oi
-#EXTINF:-1 group-title="MEGANET-HD" ,Родное Кино
-http://91.205.199.7:8000/play/a0p6
 #EXTINF:-1 group-title="MEGANET-HD" ,РБК
 http://91.205.199.7:8000/play/a0og
 #EXTINF:-1 group-title="MEGANET-HD" ,Пятница
@@ -387,16 +385,12 @@ http://91.205.199.7:8000/play/a0q5
 http://91.205.199.7:8000/play/a0q7
 #EXTINF:-1 group-title="MEGANET-HD" ,Перец international
 http://91.205.199.7:8000/play/a0n7
-#EXTINF:-1 group-title="MEGANET-HD" ,Первый Вегетариански
+#EXTINF:-1 group-title="MEGANET-HD" ,Первый Вегетарианский
 http://91.205.199.7:8000/play/a0rt
 #EXTINF:-1 group-title="MEGANET-HD" ,Ностальгия
 http://91.205.199.7:8000/play/a0rz
-#EXTINF:-1 group-title="MEGANET-HD" ,Наше новое кино
-http://91.205.199.7:8000/play/a0rb
 #EXTINF:-1 group-title="MEGANET-HD" ,Мужской
 http://91.205.199.7:8000/play/a0t3
-#EXTINF:-1 group-title="MEGANET-HD" ,МУЖСКОЕ КИНО
-http://91.205.199.7:8000/play/mujkoekino
 #EXTINF:-1 group-title="MEGANET-HD" ,Мосфильм. Золотая коллекция
 http://91.205.199.7:8000/play/a0s8
 #EXTINF:-1 group-title="MEGANET-HD" ,Москва 24
@@ -423,8 +417,16 @@ http://91.205.199.7:8000/play/a0sj
 http://91.205.199.7:8000/play/a0p2
 #EXTINF:-1 group-title="MEGANET-HD" ,Кинохит HD
 http://91.205.199.7:8000/play/a0tv
+#EXTINF:-1 group-title="MEGANET-HD" ,Наше новое кино
+http://91.205.199.7:8000/play/a0rb
+#EXTINF:-1 group-title="MEGANET-HD" ,МУЖСКОЕ КИНО
+http://91.205.199.7:8000/play/mujkoekino
+#EXTINF:-1 group-title="MEGANET-HD" ,Родное Кино
+http://91.205.199.7:8000/play/a0p6
 #EXTINF:-1 group-title="MEGANET-HD" ,Киноужас
 http://91.205.199.7:8000/play/a0nn
+#EXTINF:-1 group-title="MEGANET-HD" ,ИНДИЙСКОЕ КИНО
+http://91.205.199.7:8000/play/indiskoekino
 #EXTINF:-1 group-title="MEGANET-HD" ,Киносерия
 http://91.205.199.7:8000/play/a0t4
 #EXTINF:-1 group-title="MEGANET-HD" ,Киносемья HD
@@ -447,8 +449,6 @@ http://91.205.199.7:8000/play/a0of
 http://91.205.199.7:8000/play/a0sh
 #EXTINF:-1 group-title="MEGANET-HD" ,Индия
 http://91.205.199.7:8000/play/a0sg
-#EXTINF:-1 group-title="MEGANET-HD" ,ИНДИЙСКОЕ КИНО
-http://91.205.199.7:8000/play/indiskoekino
 #EXTINF:-1 group-title="MEGANET-HD" ,Иллюзион+
 http://91.205.199.7:8000/play/a0s9
 #EXTINF:-1 group-title="MEGANET-HD" ,Известия
@@ -465,7 +465,7 @@ http://91.205.199.7:8000/play/a0oy
 http://91.205.199.7:8000/play/a0rl
 #EXTINF:-1 group-title="MEGANET-HD" ,Еврокино
 http://91.205.199.7:8000/play/a0rw
-#EXTINF:-1 group-title="MEGANET-HD" ,Домашний-international
+#EXTINF:-1 group-title="MEGANET-HD" ,Домашний international
 http://91.205.199.7:8000/play/a0oo
 #EXTINF:-1 group-title="MEGANET-HD" ,Домашний
 http://91.205.199.7:8000/play/a0nv
@@ -515,7 +515,7 @@ http://91.205.199.7:8000/play/a0rp
 http://91.205.199.7:8000/play/a0q4
 #EXTINF:-1 group-title="MEGANET-HD" ,Fox
 http://91.205.199.7:8000/play/a0sq
-#EXTINF:-1 group-title="MEGANET-HD" ,Fashion HD
+#EXTINF:-1 group-title="MEGANET-HD" ,Fashion TV HD
 http://91.205.199.7:8000/play/a0qx
 #EXTINF:-1 group-title="MEGANET-HD" ,Euronews
 http://91.205.199.7:8000/play/a0n3
@@ -587,7 +587,7 @@ http://91.205.199.7:8000/play/a0o3
 http://91.205.199.7:8000/play/a0p8
 #EXTINF:-1 group-title="MEGANET-HD" ,Classic Music
 http://91.205.199.7:8000/play/a0o9
-#EXTINF:-1 group-title="MEGANET-HD" ,C Music
+#EXTINF:-1 group-title="MEGANET-HD" ,Classic Music
 http://91.205.199.7:8000/play/a0pl
 #EXTINF:-1 group-title="MEGANET-HD" ,9 Волна
 http://91.205.199.7:8000/play/a0or
