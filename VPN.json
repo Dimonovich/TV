@@ -46,6 +46,21 @@
     "udpdns": false
   },
   {
+    "server": "213.183.63.69",
+    "server_port": 9011,
+    "password": "M3t2ZEQcMGRWBjRa",
+    "method": "aes-256-cfb",
+    "remarks": "🇧🇬 Болгария 3 (https://t.me/freeneo_net)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
     "server": "193.228.128.143",
     "server_port": 27981,
     "password": "pg6G3tuVQllmcS7zCo5Fce",
