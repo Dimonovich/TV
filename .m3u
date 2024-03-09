@@ -356,5 +356,9 @@ https://bkm.beetv.kz/btv/live/hls/000000135.m3u8
 #EXTINF:-1 ,Конный мир HD
 http://cdn-01.bonus-tv.ru/konnyimir/index.m3u8
 
+
+#EXTINF:-1 ,111
+http://levshanov.tlkf.ru:8080/tv/24tv.php?id=227
+
 #EXTINF:-1 ,IMPACT! Wrestling
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
