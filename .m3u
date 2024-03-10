@@ -179,6 +179,13 @@ https://strm.yandex.ru/kal/sovsec/sovsec0.m3u8
 #EXTINF:-1 ,2x2
 https://strm.yandex.ru/kal/2x2_belarus/2x2_belarus0.m3u8
 
+
+#EXTINF:-1 ,ОТР
+http://s18209.cdn.ngenix.net/hls/CH_R01_OTR/playlist.m3u8
+#EXTINF:-1 ,Пятый канал
+http://s18209.cdn.ngenix.net/hls/CH_R02_5TV/playlist.m3u8
+#EXTINF:-1 ,Домашний
+http://s18209.cdn.ngenix.net/hls/CH_R04_DOMASHNY/playlist.m3u8
 #EXTINF:-1 ,Суббота!
 http://185.37.150.40:8092/Super/playlist.m3u8
 #EXTINF:-1 ,ТВ3
@@ -225,13 +232,6 @@ https://bkm.beetv.kz/btv/live/hls/000000428.m3u8
 http://94.232.104.237:8000/play/058/index.m3u8
 #EXTINF:-1 ,Ю
 http://94.232.104.237:8000/play/096/index.m3u8
-
-#EXTINF:-1 ,ОТР
-http://s18209.cdn.ngenix.net/hls/CH_R01_OTR/playlist.m3u8
-#EXTINF:-1 ,Пятый канал
-http://s18209.cdn.ngenix.net/hls/CH_R02_5TV/playlist.m3u8
-#EXTINF:-1 ,Домашний
-http://s18209.cdn.ngenix.net/hls/CH_R04_DOMASHNY/playlist.m3u8
 
 #EXTINF:-1 ,МИР PREMIUM
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
