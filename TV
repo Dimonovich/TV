@@ -15,37 +15,23 @@ http://194.26.229.213/intro/index.m3u8
 
 
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/3rkRjpjC/photo-2024-01-14-15-41-50.jpg",CHD-TV RU Rock HD
-http://80.85.241.205:8070/chdtv_ru_rock/index.m3u8
+http://194.26.229.213/chdtv_ru_rock/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/MHNdgRXj/photo-2024-01-14-15-42-03.jpg",CHD-TV Rock
-http://80.85.241.205:8070/chdtv_rock/index.m3u8
+http://194.26.229.213/chdtv_rock/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/RCgvJhdQ/image.png",СоюзМультфильм
-http://80.85.241.205:8070/souzmultfilm/index.m3u8
+http://194.26.229.213/souzmultfilm/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/BvqS8HVV/1.png",Чип и Дейл
-http://80.85.241.205:8070/chip-n-dale-rescue-rangers/index.m3u8
+http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://posters.hdrezka.quest/uploads/posts/2017-05/1494729344-290867852.jpg",Big Buck Bunny
 https://live-par-2-cdn-alt.livepush.io/live/bigbuckbunnyclip/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵" tvg-id="ntv-amerika",НТВ Америка    
 http://4.59.210.197:8815/udp/127.0.0.1:6003
 #EXTINF:-1 group-title="TEST ⓵",viju TV1000 новелла
 http://158.101.194.132:8080/channel/n51877d66/index.m3u8?q=5656d7c7c902657d3491c0330b58ec0e
-#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.ibb.co/C2mStjR/image-14.png" ,Alpha Cinema
-https://live.15plusmg.ru/memfs/8ecd3547-36cd-4f81-811a-1d29b7a78c3c_output_0.m3u8
-#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.ibb.co/PTMhFrx/image-17.png",Alpha Onenite
-https://live.15plusmg.ru/memfs/1d9a92dd-4d7f-4866-a5b1-e30fd6ebf14a_output_0.m3u8
-#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.ibb.co/n1Bd75c/image-19.png" ,Alpha Games
-https://live.15plusmg.ru/memfs/d738f8fa-8577-4e55-946c-d2a04b60bab0_output_0.m3u8
-#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.ibb.co/fGbrQPn/image-20.png" ,Alpha Nature
-https://live.15plusmg.ru/memfs/e661237b-5e55-41f5-802f-c40a266f00b2_output_0.m3u8
-#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.ibb.co/FzQhQjW/image-21.png" ,Alpha Funny
-https://live.15plusmg.ru/memfs/f8f91c8f-a5c1-4c26-907e-b9d469906093_output_0.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Грозный
 https://streamer1.connectto.com/517/mono.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Комедийное HD
 https://streamer1.connectto.com/519/mono.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Stingray Iconcert
-https://streamer1.connectto.com/526/mono.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Galaxy
-https://streamer1.connectto.com/529/mono.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Открытый мир
 https://streamer1.connectto.com/530/mono.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Кавказ 24
@@ -54,18 +40,6 @@ https://streamer1.connectto.com/532/mono.m3u8
 http://api.alpaca.t62a.com/hls/9116/stream0.m3u8
 #EXTINF:-1 group-title="TEST ⓵",МУЛЬТИМАНИЯ
 https://void.greenhosting.ru/Multimania_Mpeg4/video.m3u8
-#EXTINF:-1 group-title="TEST ⓵" ,Nicktoons
-http://89.254.128.5:22280/nicktoons/video.m3u8
-#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://www.cableman.ru/sites/default/files/2020/1gk.c2.jpg",1+2
-http://89.254.128.5:22280/1_2/mono.m3u8
-#EXTINF:-1 group-title="TEST ⓵" tvg-id="filmzone-ee",FilmZone EE
-http://89.254.128.5:22280/film_zone/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="TEST ⓵" ,Duo7 HD EE
-http://89.254.128.5:22280/duo7_hd/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵" tvg-id="6614" tvg-logo="http://epg.it999.ru/img/6614.png",YES-MTV 00s
-http://89.254.128.5:22280/mtv_00/video.m3u8
-#EXTINF:-1 group-title="TEST ⓵" tvg-logo="http://epg.it999.ru/img/2859.png" ,8 канал HD UA
-http://89.254.128.5:22280/8tv_hd/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵" ,CGTN русский
 http://liveru.cgtn.com/200r/prog_index.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Беларусь 1
