@@ -3935,6 +3935,12 @@ http://109.239.208.82:80/zoo/index.m3u8
 http://109.239.208.82:80/retro/index.m3u8
 #EXTINF:-1 group-title="Экран (VPN)",ЕВРОКИНО
 http://109.239.208.82:80/eurokino/index.m3u8
+#EXTINF:-1 group-title="Экран (VPN)",Запад 24 
+http://109.239.208.82/zapad24/index.m3u8
+#EXTINF:-1 group-title="Экран (VPN)",ТИЛЬЗИТ
+http://109.239.208.82:80/tilsit/index.m3u8
+#EXTINF:-1 group-title="Экран (VPN)",360 НОВОСТИ
+http://109.239.208.82:80/360-news/index.m3u8
 #EXTINF:-1 group-title="Экран (VPN)",КВН ТВ
 http://109.239.208.82:80/kvn/index.m3u8
 #EXTINF:-1 group-title="Экран (VPN)",АВТО 24
@@ -3977,6 +3983,14 @@ http://146.158.0.56:80/FashionBox/index.m3u8
 http://146.158.0.56:80/Galaxy/index.m3u8
 #EXTINF:-1 group-title="Север-Связь (VPN)",Кто есть кто
 http://146.158.0.56:80/KtoEstKto/index.m3u8
+#EXTINF:-1 group-title="Север-Связь (VPN)",Ямал 1 HD
+http://146.158.0.56/Arktika24HD/index.m3u8
+#EXTINF:-1 group-title="Север-Связь (VPN)",Три Ангела
+http://146.158.0.56/Triangela/index.m3u8
+#EXTINF:-1 group-title="Север-Связь (VPN)",Shop&Show
+http://146.158.0.56/Shop&Show/mono.m3u8
+#EXTINF:-1 group-title="Север-Связь (VPN)",Pro100TV
+http://146.158.0.56/Pro100TV/mono.m3u8
 #EXTINF:-1 group-title="Север-Связь (VPN)",Кухня тв
 http://146.158.0.56:80/KuhnyaTV/index.m3u8
 #EXTINF:-1 group-title="Север-Связь (VPN)",КВН ТВ
@@ -4001,6 +4015,8 @@ http://146.158.0.56:80/OtkritiyMir/index.m3u8
 http://146.158.0.56:80/Pro100TV/index.m3u8
 #EXTINF:-1 group-title="Север-Связь (VPN)",Шансон ТВ
 http://146.158.0.56:80/ShansonTV/index.m3u8
+#EXTINF:-1 group-title="Север-Связь (VPN)",Russian Music Box
+http://146.158.0.56/RussianMusicBox/mono.m3u8
 #EXTINF:-1 group-title="Север-Связь (VPN)",Театр
 http://146.158.0.56:80/Teatr/index.m3u8
 #EXTINF:-1 group-title="Север-Связь (VPN)",Успех
