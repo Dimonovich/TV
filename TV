@@ -3073,7 +3073,7 @@ http://83.234.207.29:8015/play/a002/index.m3u8
 http://83.234.207.29:8015/play/a003/index.m3u8
 #EXTINF:-1 group-title="ТрансТелеКом (VPN)",НТВ Хит
 http://83.234.207.29:8009/play/a01v/index.m3u8
-#EXTINF:-1 group-title="ТрансТелеКом (VPN)",THT4
+#EXTINF:-1 group-title="ТрансТелеКом (VPN)",ТНТ4
 http://83.234.207.29:8007/play/a01y/index.m3u8
 http://83.234.207.29:8002/play/a005/index.m3u8
 #EXTINF:-1 group-title="ТрансТелеКом (VPN)",Animal Planet
@@ -3122,7 +3122,7 @@ http://83.234.207.29:8008/play/a01v/index.m3u8
 http://83.234.207.29:8002/play/a009/index.m3u8
 #EXTINF:-1 group-title="ТрансТелеКом (VPN)",Cinema
 http://83.234.207.29:8012/play/a01b/index.m3u8
-#EXTINF:-1 group-title="ТрансТелеКом (VPN)",CTC Love
+#EXTINF:-1 group-title="ТрансТелеКом (VPN)",СТС Love
 http://83.234.207.29:8001/play/a00p/index.m3u8
 #EXTINF:-1 group-title="ТрансТелеКом (VPN)",FAN
 http://83.234.207.29:8001/play/a018/index.m3u8
@@ -3178,8 +3178,6 @@ http://83.234.207.29:8003/play/a01h/index.m3u8
 http://83.234.207.29:8009/play/a02k/index.m3u8
 #EXTINF:-1 group-title="ТрансТелеКом (VPN)",Иллюзион+
 http://83.234.207.29:8008/play/a01y/index.m3u8
-#EXTINF:-1 group-title="ТрансТелеКом (VPN)",ИНДИЙСКОЕ КИНО
-http://83.234.207.29:8009/play/a01x/index.m3u8
 #EXTINF:-1 group-title="ТрансТелеКом (VPN)",Индия
 http://83.234.207.29:8003/play/a014/index.m3u8
 #EXTINF:-1 group-title="ТрансТелеКом (VPN)",КВН ТВ
@@ -3188,6 +3186,8 @@ http://83.234.207.29:8009/play/a01u/index.m3u8
 http://83.234.207.29:8011/play/a00i/index.m3u8
 #EXTINF:-1 group-title="ТрансТелеКом (VPN)",Кино ТВ HD
 http://83.234.207.29:8013/play/a00m/index.m3u8
+#EXTINF:-1 group-title="ТрансТелеКом (VPN)",ИНДИЙСКОЕ КИНО
+http://83.234.207.29:8009/play/a01x/index.m3u8
 #EXTINF:-1 group-title="ТрансТелеКом (VPN)",КИНОКОМЕДИЯ
 http://83.234.207.29:8003/play/a010/index.m3u8
 #EXTINF:-1 group-title="ТрансТелеКом (VPN)",КИНОМИКС
@@ -3204,14 +3204,14 @@ http://83.234.207.29:8004/play/a01u/index.m3u8
 http://83.234.207.29:8003/play/a00j/index.m3u8
 #EXTINF:-1 group-title="ТрансТелеКом (VPN)",МУЖСКОЕ КИНО
 http://83.234.207.29:8003/play/a016/index.m3u8
-#EXTINF:-1 group-title="ТрансТелеКом (VPN)",Любимое кино
-http://83.234.207.29:8010/play/a01z/index.m3u8
 #EXTINF:-1 group-title="ТрансТелеКом (VPN)",НАШЕ НОВОЕ КИНО
 http://83.234.207.29:8003/play/a018/index.m3u8
 #EXTINF:-1 group-title="ТрансТелеКом (VPN)",РОДНОЕ КИНО
 http://83.234.207.29:8003/play/a017/index.m3u8
 #EXTINF:-1 group-title="ТрансТелеКом (VPN)",КИНОХИТ
 http://83.234.207.29:8003/play/a00z/index.m3u8
+#EXTINF:-1 group-title="ТрансТелеКом (VPN)",Любимое кино
+http://83.234.207.29:8010/play/a01z/index.m3u8
 #EXTINF:-1 group-title="ТрансТелеКом (VPN)",Комедия
 http://83.234.207.29:8010/play/a01t/index.m3u8
 #EXTINF:-1 group-title="ТрансТелеКом (VPN)",Кухня ТВ
@@ -3226,8 +3226,6 @@ http://83.234.207.29:8007/play/a01o/index.m3u8
 http://83.234.207.29:8012/play/a01e/index.m3u8
 #EXTINF:-1 group-title="ТрансТелеКом (VPN)",НСТ
 http://83.234.207.29:8008/play/a017/index.m3u8
-#EXTINF:-1 group-title="ТрансТелеКом (VPN)",НСТВ
-http://83.234.207.29:8012/play/a01f/index.m3u8
 #EXTINF:-1 group-title="ТрансТелеКом (VPN)",ОТР
 http://83.234.207.29:8004/play/a00z/index.m3u8
 #EXTINF:-1 group-title="ТрансТелеКом (VPN)",ПOЕХАЛИ!
@@ -3250,11 +3248,11 @@ http://83.234.207.29:8004/play/a01b/index.m3u8
 http://83.234.207.29:8007/play/a029/index.m3u8
 #EXTINF:-1 group-title="ТрансТелеКом (VPN)",ТВЦ
 http://83.234.207.29:8007/play/a01b/index.m3u8
-#EXTINF:-1 group-title="ТрансТелеКом (VPN)",Телеканал 360
+#EXTINF:-1 group-title="ТрансТелеКом (VPN)",360
 http://83.234.207.29:8004/play/a01e/index.m3u8
 #EXTINF:-1 group-title="ТрансТелеКом (VPN)",ТЕЛЕКАФЕ
 http://83.234.207.29:8008/play/a00g/index.m3u8
-#EXTINF:-1 group-title="ТрансТелеКом (VPN)",Усадьба-ТВ
+#EXTINF:-1 group-title="ТрансТелеКом (VPN)",Усадьба
 http://83.234.207.29:8011/play/a016/index.m3u8
 #EXTINF:-1 group-title="ТрансТелеКом (VPN)",Че
 http://83.234.207.29:8009/play/a026/index.m3u8
@@ -3264,7 +3262,7 @@ http://83.234.207.29:8004/play/a019/index.m3u8
 http://83.234.207.29:8008/play/a00y/index.m3u8
 #EXTINF:-1 group-title="ТрансТелеКом (VPN)",Мама
 http://83.234.207.29:8011/play/a00k/index.m3u8
-#EXTINF:-1 group-title="ТрансТелеКом (VPN)",Лева
+#EXTINF:-1 group-title="ТрансТелеКом (VPN)",Лёва
 http://83.234.207.29:8008/play/a01m/index.m3u8
 #EXTINF:-1 group-title="ТрансТелеКом (VPN)",Супергерои
 http://83.234.207.29:8003/play/a01f/index.m3u8
@@ -3288,13 +3286,13 @@ http://83.234.207.29:8008/play/a01z/index.m3u8
 http://83.234.207.29:8004/play/a01g/index.m3u8
 #EXTINF:-1 group-title="ТрансТелеКом (VPN)",Радость моя
 http://83.234.207.29:8004/play/a01j/index.m3u8
-#EXTINF:-1 group-title="ТрансТелеКом (VPN)",CTC kids
+#EXTINF:-1 group-title="ТрансТелеКом (VPN)",СТС Kids
 http://83.234.207.29:8008/play/a015/index.m3u8
 #EXTINF:-1 group-title="ТрансТелеКом (VPN)",BABY TIME
 http://83.234.207.29:8007/play/a018/index.m3u8
 #EXTINF:-1 group-title="ТрансТелеКом (VPN)",Ani
 http://83.234.207.29:8010/play/a026/index.m3u8
-#EXTINF:-1 group-title="ТрансТелеКом (VPN)",O!
+#EXTINF:-1 group-title="ТрансТелеКом (VPN)",О!
 http://83.234.207.29:8008/play/a01b/index.m3u8
 #EXTINF:-1 group-title="ТрансТелеКом (VPN)",Мультимузыка
 http://83.234.207.29:8010/play/a023/index.m3u8
@@ -3306,7 +3304,7 @@ http://83.234.207.29:8003/play/a013/index.m3u8
 http://83.234.207.29:8003/play/a00v/index.m3u8
 #EXTINF:-1 group-title="ТрансТелеКом (VPN)",RU.TV
 http://83.234.207.29:8007/play/a00f/index.m3u8
-#EXTINF:-1 group-title="ТрансТелеКом (VPN)",THT MUSIC
+#EXTINF:-1 group-title="ТрансТелеКом (VPN)",ТНТ Music
 http://83.234.207.29:8004/play/a01a/index.m3u8
 #EXTINF:-1 group-title="ТрансТелеКом (VPN)",BRIDGE TV
 http://83.234.207.29:8007/play/a02j/index.m3u8
@@ -3334,8 +3332,6 @@ http://83.234.207.29:8010/play/a02f/index.m3u8
 http://83.234.207.29:8004/play/a00s/index.m3u8
 #EXTINF:-1 group-title="ТрансТелеКом (VPN)",Матч! Боец
 http://83.234.207.29:8010/play/a02e/index.m3u8
-#EXTINF:-1 group-title="ТрансТелеКом (VPN)",МАТЧ! БОЕЦ
-http://83.234.207.29:8004/play/a005/index.m3u8
 #EXTINF:-1 group-title="ТрансТелеКом (VPN)",МАТЧ! ФУТБОЛ 1
 http://83.234.207.29:8004/play/a00w/index.m3u8
 #EXTINF:-1 group-title="ТрансТелеКом (VPN)",МАТЧ! ФУТБОЛ 2
