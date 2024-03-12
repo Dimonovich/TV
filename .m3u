@@ -79,23 +79,23 @@ https://bkm.beetv.kz/btv/live/hls/000001000.m3u8
 
 
 #EXTINF:-1 ,viju Explore
-http://94.232.104.237:8000/play/077/index.m3u8
+https://bkm.beetv.kz/btv/live/hls/000004157.m3u8
 #EXTINF:-1 ,viju History
-http://94.232.104.237:8000/play/078/index.m3u8
+https://bkm.beetv.kz/btv/live/hls/000005528.m3u8
 #EXTINF:-1 ,Viasat Nature HD
-http://94.232.104.237:8000/play/079/index.m3u8
+https://bkm.beetv.kz/btv/live/hls/000006482.m3u8
 #EXTINF:-1 ,TV 1000
-http://94.232.104.237:8000/play/039/index.m3u8
+https://bkm.beetv.kz/btv/live/hls/000003747.m3u8
 #EXTINF:-1 ,viju TV1000 Action
-http://94.232.104.237:8000/play/040/index.m3u8
+https://bkm.beetv.kz/btv/live/hls/000003910.m3u8
 #EXTINF:-1 ,TV1000 Русское кино
-http://94.232.104.237:8000/play/041/index.m3u8
+https://bkm.beetv.kz/btv/live/hls/000003748.m3u8
 #EXTINF:-1 ,viju+ Comedy
 https://bkm.beetv.kz/btv/live/hls/000000870.m3u8
 #EXTINF:-1 ,viju+ Megahit
 https://bkm.beetv.kz/btv/live/hls/000000869.m3u8
-#EXTINF:-1 ,viju+ Premiere
-https://bkm.beetv.kz/btv/live/hls/000000868.m3u8
+#EXTINF:-1 ,viju+ Serial
+https://bkm.beetv.kz/btv/live/hls/000004375.m3u8
 
 #EXTINF:-1 ,a1
 https://bkm.beetv.kz/btv/live/hls/000000710.m3u8
@@ -114,13 +114,6 @@ https://ipv4.bozztv.com/dvrfl07/ushba8/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
 https://bkm.beetv.kz/btv/live/hls/000006365.m3u8
-
-#EXTINF:-1 ,Duo7
-http://89.254.128.5:22280/duo7_hd/index.m3u8
-#EXTINF:-1 ,Star Family HD
-http://89.254.128.5:22280/star_family_hd/video.m3u8
-#EXTINF:-1 ,Viasat Kino Action
-http://89.254.128.5:22280/viasat_kino_action/index.m3u8
 
 #EXTINF:-1 ,РУССКИЙ РОМАН
 http://91.142.158.107:8092/play/25/index.m3u8
@@ -167,7 +160,7 @@ http://195.9.195.3:8080/hls/204709.m3u8
 #EXTINF:-1 ,Дом кино
 https://bkm.beetv.kz/btv/live/hls/000000050.m3u8
 #EXTINF:-1 ,НСТ
-http://94.232.104.237:8000/play/037/index.m3u8
+https://strm.yandex.ru/kal/nst_belarus/nst_belarus0.m3u8
 
 #EXTINF:-1 ,black
 https://bkm.beetv.kz/btv/live/hls/000000520.m3u8
@@ -188,8 +181,6 @@ http://s18209.cdn.ngenix.net/hls/CH_R01_OTR/playlist.m3u8
 http://s18209.cdn.ngenix.net/hls/CH_R02_5TV/playlist.m3u8
 #EXTINF:-1 ,Домашний
 http://s18209.cdn.ngenix.net/hls/CH_R04_DOMASHNY/playlist.m3u8
-#EXTINF:-1 ,Суббота!
-http://185.37.150.40:8092/Super/playlist.m3u8
 #EXTINF:-1 ,ТВ3
 http://s18209.cdn.ngenix.net/hls/CH_R01_TV3/playlist.m3u8
 #EXTINF:-1 ,Пятница!
@@ -209,9 +200,6 @@ https://stv.mediacdn.ru/live/cdn/mult/playlist_hdhigh.m3u8
 #EXTINF:-1 ,Tiji
 https://bkm.beetv.kz/btv/live/hls/000000174.m3u8
 
-#EXTINF:-1 ,NickToons
-http://89.254.128.5:22280/nicktoons/video.m3u8
-
 #EXTINF:-1 ,Солнце
 https://tv.mediacdn.ru/live/disney/playlist_3000k.m3u8
 
@@ -230,10 +218,8 @@ http://109.239.208.82:80/kvn/index.m3u8
 #EXTINF:-1 ,СТС
 https://bkm.beetv.kz/btv/live/hls/000000428.m3u8
 
-#EXTINF:-1 ,СТС love
-http://94.232.104.237:8000/play/058/index.m3u8
 #EXTINF:-1 ,Ю
-http://94.232.104.237:8000/play/096/index.m3u8
+https://strm.yandex.ru/kal/utv/utv0.m3u8
 
 #EXTINF:-1 ,МИР PREMIUM
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
@@ -276,7 +262,7 @@ https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
 
 #EXTINF:-1 ,MTV 00s
-http://89.254.128.5:22280/mtv_00/video.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000264.m3u8
 
 #EXTINF:-1 ,CVR
 https://live.prd.dlive.tv/hls/live/cybervybezradio.m3u8
@@ -354,9 +340,8 @@ https://mhd116.iptv2022.com/p/M6wUsHqo_W61YO_hflS9KQ,1710277214/streaming/fightb
 
 #EXTINF:-1 ,Матч! Планета
 https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
-
 #EXTINF:-1 ,KHL
-http://94.232.104.237:8000/play/065/index.m3u8
+https://strm.yandex.ru/kal/khl_belarus/khl_belarus0.m3u8
 
 #EXTINF:-1 ,KHL HD
 http://185.37.150.46:8092/KHL_HD/index.m3u8
