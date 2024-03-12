@@ -3075,7 +3075,6 @@ http://83.234.207.29:8015/play/a003/index.m3u8
 http://83.234.207.29:8009/play/a01v/index.m3u8
 #EXTINF:-1 group-title="ТрансТелеКом (VPN)",ТНТ4
 http://83.234.207.29:8007/play/a01y/index.m3u8
-http://83.234.207.29:8002/play/a005/index.m3u8
 #EXTINF:-1 group-title="ТрансТелеКом (VPN)",Animal Planet
 http://83.234.207.29:8006/play/a01f/index.m3u8
 #EXTINF:-1 group-title="ТрансТелеКом (VPN)",Discovery Channel HD
@@ -3112,6 +3111,8 @@ http://83.234.207.29:8007/play/a010/index.m3u8
 http://83.234.207.29:8003/play/a00t/index.m3u8
 #EXTINF:-1 group-title="ТрансТелеКом (VPN)",8 канал
 http://83.234.207.29:8007/play/a02g/index.m3u8
+#EXTINF:-1 group-title="ТрансТелеКом (VPN)",Amedia Premium
+http://83.234.207.29:8002/play/a005/index.m3u8
 #EXTINF:-1 group-title="ТрансТелеКом (VPN)",Amedia 1
 http://83.234.207.29:8008/play/a01t/index.m3u8
 #EXTINF:-1 group-title="ТрансТелеКом (VPN)",Amedia 2
