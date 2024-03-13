@@ -61,11 +61,11 @@
     "udpdns": false
   },
   {
-    "server": "193.228.128.143",
-    "server_port": 27981,
-    "password": "pg6G3tuVQllmcS7zCo5Fce",
-    "method": "CHACHA20-IETF-POLY1305",
-    "remarks": "🇪🇪 Эстония (https://t.me/freeneo_net)",
+    "server": "5.188.181.201",
+    "server_port": 9040,
+    "password": "p9z5BVADH2YFs3MN",
+    "method": "aes-256-cfb",
+    "remarks": "🇪🇸 Испания (https://t.me/freeneo_net)",
     "route": "all",
     "remote_dns": "one.one.one.one",
     "ipv6": false,
