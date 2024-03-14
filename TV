@@ -2907,39 +2907,12 @@ http://video.platformcraft.ru/hls/etv/egorievsk-tv/720p.m3u8
 
 
 
-
-
-
-#EXTINF:-1 group-title="К Телеком (VPN)" ,Galaxy HD
-http://94.230.128.105:8080/Galaxy/index.m3u8
-#EXTINF:-1 group-title="К Телеком (VPN)" ,HD Life
-http://94.230.128.105:8080/HDLife/index.m3u8
 #EXTINF:-1 group-title="К Телеком (VPN)" ,ЗАГОРОДНАЯ ЖИЗНЬ
 http://94.230.128.105:8080/Zagorodnyi/index.m3u8
-#EXTINF:-1 group-title="К Телеком (VPN)" ,Кинохит
-http://94.230.128.105:8080/Kinohit/index.m3u8
-#EXTINF:-1 group-title="К Телеком (VPN)" ,Кинокомедия
-http://94.230.128.105:8080/Kinokomedia/index.m3u8
-#EXTINF:-1 group-title="К Телеком (VPN)" ,Киномикс
-http://94.230.128.105:8080/Kinomiks/index.m3u8
-#EXTINF:-1 group-title="К Телеком (VPN)" ,Кинопремьера HD
-http://94.230.128.105:8080/Kinopremiera_HD/index.m3u8
-#EXTINF:-1 group-title="К Телеком (VPN)" ,Киносемья
-http://94.230.128.105:8080/Kinosemja/index.m3u8
-#EXTINF:-1 group-title="К Телеком (VPN)" ,Киносерия
-http://94.230.128.105:8080/Kinoseria/index.m3u8
-#EXTINF:-1 group-title="К Телеком (VPN)" ,Киносвидание
-http://94.230.128.105:8080/Kinosvidanie/index.m3u8
-#EXTINF:-1 group-title="К Телеком (VPN)" ,Кухня ТВ
-http://94.230.128.105:8080/KuhnyaTV/index.m3u8
 #EXTINF:-1 group-title="К Телеком (VPN)" ,Arirang
 http://94.230.128.105:8080/Arirang/index.m3u8
 #EXTINF:-1 group-title="К Телеком (VPN)" ,БСТ
 http://94.230.128.105:8080/BST/index.m3u8
-#EXTINF:-1 group-title="К Телеком (VPN)" ,КВН ТВ
-http://94.230.128.105:8080/KVN/index.m3u8
-#EXTINF:-1 group-title="К Телеком (VPN)" ,Ностальгия
-http://94.230.128.105:8080/Nostalgia/index.m3u8
 #EXTINF:-1 group-title="К Телеком (VPN)" ,Здоровое ТВ
 http://94.230.128.105:8080/ZdorovoeTV/index.m3u8
 #EXTINF:-1 group-title="К Телеком (VPN)" ,Вместе-РФ
@@ -2949,8 +2922,6 @@ http://94.230.128.105:8080/HTC/index.m3u8
 #EXTINF:-1 group-title="К Телеком (VPN)" ,ТОЧКА ТВ
 http://94.230.128.105:8080/TochkaTV/index.m3u8
 #EXTINF:-1 group-title="К Телеком (VPN)" ,Рыжий
-http://94.230.128.105:8080/Ryzhij/index.m3u8
-#EXTINF:-1 group-title="К Телеком (VPN)" ,Мульт HD
 http://94.230.128.105:8080/Mult_HD/index.m3u8
 #EXTINF:-1 group-title="К Телеком (VPN)" ,RU.TV
 http://94.230.128.105:8080/RU.TV/index.m3u8
