@@ -194,6 +194,84 @@ http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_LenTV/hls/1024x576@1272/playli
 
 
 
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="MNT-CLOUDFLARE",ТНТ (+2)
+http://serv7.iptv11.com/880/video.m3u8
+#EXTINF:-1 group-title="MNT-CLOUDFLARE",Россия-1 +6
+http://serv7.iptv11.com/751/video.m3u8
+#EXTINF:-1 group-title="MNT-CLOUDFLARE",Приключения HD
+http://serv7.iptv11.com/257/video.m3u8
+#EXTINF:-1 group-title="MNT-CLOUDFLARE",Наука 2.0
+http://serv7.iptv11.com/Nauka20/video.m3u8
+#EXTINF:-1 group-title="MNT-CLOUDFLARE",Travel+Adventure
+http://serv7.iptv11.com/881/video.m3u8
+#EXTINF:-1 group-title="MNT-CLOUDFLARE",Mега
+http://serv7.iptv11.com/557/video.m3u8
+#EXTINF:-1 group-title="MNT-CLOUDFLARE",ТВЦ
+http://serv7.iptv11.com/1214/video.m3u8
+#EXTINF:-1 group-title="MNT-CLOUDFLARE",СТС
+http://serv7.iptv11.com/STSHD/video.m3u8
+#EXTINF:-1 group-title="MNT-CLOUDFLARE",Сарафан
+http://serv7.iptv11.com/Sarafan/video.m3u8
+#EXTINF:-1 group-title="MNT-CLOUDFLARE",Суспільне Київ HD
+http://serv7.iptv11.com/892/video.m3u8
+#EXTINF:-1 group-title="MNT-CLOUDFLARE",Ратник
+http://serv7.iptv11.com/NauticalChannelHD/video.m3u8
+#EXTINF:-1 group-title="MNT-CLOUDFLARE",Пятый канал
+http://serv7.iptv11.com/5Kanal/video.m3u8
+#EXTINF:-1 group-title="MNT-CLOUDFLARE",Победа HD
+http://serv7.iptv11.com/1216/video.m3u8
+#EXTINF:-1 group-title="MNT-CLOUDFLARE",Наше новое кино
+http://serv7.iptv11.com/NasheNovoeKino/video.m3u8
+#EXTINF:-1 group-title="MNT-CLOUDFLARE",Наш кинороман HD
+http://serv7.iptv11.com/246/video.m3u8
+#EXTINF:-1 group-title="MNT-CLOUDFLARE",Кинохит
+http://serv7.iptv11.com/Kinohit/video.m3u8
+#EXTINF:-1 group-title="MNT-CLOUDFLARE",Камеди HD
+http://serv7.iptv11.com/255/video.m3u8
+#EXTINF:-1 group-title="MNT-CLOUDFLARE",Индийское кино
+http://serv7.iptv11.com/IndianKino/video.m3u8
+#EXTINF:-1 group-title="MNT-CLOUDFLARE",Зоопарк
+http://serv7.iptv11.com/Zoopark/video.m3u8
+#EXTINF:-1 group-title="MNT-CLOUDFLARE",Звезда Плюс
+http://serv7.iptv11.com/155/video.m3u8
+#EXTINF:-1 group-title="MNT-CLOUDFLARE",Домашний
+http://serv7.iptv11.com/Domashniy/video.m3u8
+#EXTINF:-1 group-title="MNT-CLOUDFLARE",Блокбастер HD
+http://serv7.iptv11.com/249/video.m3u8
+#EXTINF:-1 group-title="MNT-CLOUDFLARE",Viju TV1000 Русское Кино
+http://serv7.iptv11.com/TV1000RUS/video.m3u8
+#EXTINF:-1 group-title="MNT-CLOUDFLARE",Viju TV1000 Action
+http://serv7.iptv11.com/TV1000Action/video.m3u8
+#EXTINF:-1 group-title="MNT-CLOUDFLARE",УНІАН
+http://serv7.iptv11.com/Unian/video.m3u8
+#EXTINF:-1 group-title="MNT-CLOUDFLARE",TV XXI
+http://serv7.iptv11.com/TV-21M/video.m3u8
+#EXTINF:-1 group-title="MNT-CLOUDFLARE",ТЕТ
+http://serv7.iptv11.com/553/video.m3u8
+#EXTINF:-1 group-title="MNT-CLOUDFLARE",Star Family
+http://serv7.iptv11.com/StarFamily/video.m3u8
+#EXTINF:-1 group-title="MNT-CLOUDFLARE",Star Cinema HD
+http://serv7.iptv11.com/StarCinemaHD/video.m3u8
+#EXTINF:-1 group-title="MNT-CLOUDFLARE",FlixSnip
+http://serv7.iptv11.com/CBSReality/video.m3u8
+#EXTINF:-1 group-title="MNT-CLOUDFLARE",РАДОСТЬ МОЯ
+http://serv7.iptv11.com/RadostMoya/video.m3u8
+#EXTINF:-1 group-title="MNT-CLOUDFLARE",Уникум
+http://serv7.iptv11.com/Unikum/video.m3u8
+#EXTINF:-1 group-title="MNT-CLOUDFLARE",Setanta Sports HD
+http://serv7.iptv11.com/SetantaSportsHD-ua/video.m3u8
+
+
+
+
+
 #EXTINF:-1 group-title="Netka Telekom",Первый канал HD
 https://stream1.itv.uz/1214/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Netka Telekom",Первый канал
