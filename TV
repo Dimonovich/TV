@@ -6303,6 +6303,10 @@ http://45.15.43.12:80/matchtv/video.m3u8?token=test
 
 
 
+#EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)",Неизвестная россия HD
+http://strm.yandex.ru/kal/neizvestnaia_rossia/neizvestnaia_rossia0.m3u8
+#EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)",Москва 24
+http://strm.yandex.ru/kal/msk24_n/msk24_n0.m3u8
 #EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)",НТВ Хит
 https://strm.yandex.ru/kal/ntv_hit/ntv_hit0.m3u8
 #EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)",НТВ Стиль
@@ -6343,6 +6347,12 @@ https://strm.yandex.ru/kal/rtg/rtg0.m3u8
 https://strm.yandex.ru/kal/sibir/sibir0.m3u8
 #EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)",Диалоги о рыбалке
 https://strm.yandex.ru/kal/dialogi/dialogi0.m3u8
+#EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)",EPIC HD 
+http://strm.yandex.ru/kal/epic/epic0.m3u8
+#EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)",ПроДвижение 
+http://strm.yandex.ru/kal/prodvizhenie/prodvizhenie0.m3u8
+#EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)",English Class HD 
+http://strm.yandex.ru/kal/english_class_belarus/english_class_belarus0.m3u8
 #EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)",Беларусь 1
 https://strm.yandex.ru/kal/belarus_1/belarus_10.m3u8
 #EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)",Беларусь 2
@@ -6417,7 +6427,7 @@ https://strm.yandex.ru/kal/mir_belarus/mir_belarus0.m3u8
 https://strm.yandex.ru/kal/mir24/mir240.m3u8
 #EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)",Москва-24
 https://strm.yandex.ru/kal/msk24_supres/msk24_supres0.m3u8
-#EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)" ,RT Doc
+#EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)",RT Doc
 https://strm.yandex.ru/kal/rtd_hd/rtd_hd0.m3u8
 #EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)",2x2
 https://strm.yandex.ru/kal/2x2_belarus/2x2_belarus0.m3u8
