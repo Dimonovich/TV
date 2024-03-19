@@ -7149,6 +7149,31 @@ https://v2.catcast.tv/content/40546/index.m3u8
 
 
 
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Good Game",alpha Cinema 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://hls.goodgame.ru/hls/205072.m3u8
+#EXTINF:-1 group-title="Good Game",alpha Nature
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://hls.goodgame.ru/hls/205115.m3u8
+#EXTINF:-1 group-title="Good Game",alpha Onenite 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://hls.goodgame.ru/hls/205116.m3u8
+#EXTINF:-1 group-title="Good Game",alpha Games 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://hls.goodgame.ru/hls/206709.m3u8
+#EXTINF:-1 group-title="Good Game",alpha Funny 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://hls.goodgame.ru/hls/206963.m3u8
+#EXTINF:-1 group-title="Good Game",alpha Horror 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://hls.goodgame.ru/hls/207299.m3u8
 #EXTINF:-1 group-title="Good Game" tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-1filmax.jpg",1FILMAX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/204708_720.m3u8
