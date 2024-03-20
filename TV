@@ -2823,18 +2823,6 @@ http://video.platformcraft.ru/hls/etv/egorievsk-tv/720p.m3u8
 
 
 
-#EXTINF:-1 group-title="К Телеком (VPN)" ,Капитан Фантастика
-http://94.230.128.105/Kapitan/mono.m3u8
-#EXTINF:-1 group-title="К Телеком (VPN)" ,Кинокомедия
-http://94.230.128.105/KinokomediaTV/mono.m3u8
-#EXTINF:-1 group-title="К Телеком (VPN)" ,КВН ТВ
-http://94.230.128.105/KVNTV/mono.m3u8
-#EXTINF:-1 group-title="К Телеком (VPN)" ,Кухня ТВ
-http://94.230.128.105/Kuhnya_TV/mono.m3u8
-#EXTINF:-1 group-title="К Телеком (VPN)" ,HD Life
-http://94.230.128.105/HD_Life/mono.m3u8
-#EXTINF:-1 group-title="К Телеком (VPN)" ,Galaxy TV
-http://94.230.128.105/GalaxyTV/mono.m3u8
 #EXTINF:-1 group-title="К Телеком (VPN)" ,ТОЧКА ТВ
 http://94.230.128.105:8080/TochkaTV/mono.m3u8
 #EXTINF:-1 group-title="К Телеком (VPN)" ,БСТ
