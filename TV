@@ -2148,12 +2148,7 @@ https://5926fc9c7c5b2.streamlock.net/9318/9318/chunklist.m3u8
 
 
 
-#EXTINF:-1 group-title="Спорткомплекс 🏆" ,Setanta Ukraine + HD
-http://194.33.181.28:9010/udp/238.255.51.33:1234
-#EXTINF:-1 group-title="Спорткомплекс 🏆" ,Setanta Ukraine HD
-http://194.33.181.28:9010/udp/238.255.51.27:1234
-#EXTINF:-1 group-title="Спорткомплекс 🏆" ,Суспільне Спорт HD
-http://194.33.181.28:9010/udp/238.255.51.37:1234
+
 #EXTINF:-1 group-title="Спорткомплекс 🏆" , Матч! Футбол 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0
 https://e6.varcdn.top/m1/tracks-v1a1/mono.m3u8
