@@ -3019,6 +3019,52 @@ http://video.platformcraft.ru/hls/etv/egorievsk-tv/720p.m3u8
 
 
 
+#EXTINF:-1 group-title="Зелёная точка (VPN)",ПЕРВЫЙ КАНАЛ
+http://81.177.197.13:8000/play/a001/index.m3u8
+#EXTINF:-1 group-title="Зелёная точка (VPN)",РОССИЯ 1
+http://81.177.197.13:8000/play/a00k/index.m3u8
+#EXTINF:-1 group-title="Зелёная точка (VPN)",РОССИЯ К
+http://81.177.197.13:8000/play/a005/index.m3u8
+#EXTINF:-1 group-title="Зелёная точка (VPN)",РОССИЯ 24
+http://81.177.197.13:8000/play/a00l/index.m3u8
+#EXTINF:-1 group-title="Зелёная точка (VPN)",ТНТ
+http://81.177.197.13:8000/play/a00i/index.m3u8
+#EXTINF:-1 group-title="Зелёная точка (VPN)",НТВ
+http://81.177.197.13:8000/play/a003/index.m3u8
+#EXTINF:-1 group-title="Зелёная точка (VPN)",РЕН ТВ
+http://81.177.197.13:8000/play/a00a/index.m3u8
+#EXTINF:-1 group-title="Зелёная точка (VPN)",ПЯТЫЙ КАНАЛ
+http://81.177.197.13:8000/play/a004/index.m3u8
+#EXTINF:-1 group-title="Зелёная точка (VPN)",ОТР
+http://81.177.197.13:8000/play/a00m/index.m3u8
+#EXTINF:-1 group-title="Зелёная точка (VPN)",ТВЦ
+http://81.177.197.13:8000/play/a007/index.m3u8
+#EXTINF:-1 group-title="Зелёная точка (VPN)",Спас
+http://81.177.197.13:8000/play/a00b/index.m3u8
+#EXTINF:-1 group-title="Зелёная точка (VPN)",СТС
+http://81.177.197.13:8000/play/a00c/index.m3u8
+#EXTINF:-1 group-title="Зелёная точка (VPN)",Томское время
+http://81.177.197.13:8000/play/5/index.m3u8
+#EXTINF:-1 group-title="Зелёная точка (VPN)",Домашний
+http://81.177.197.13:8000/play/a00d/index.m3u8
+#EXTINF:-1 group-title="Зелёная точка (VPN)",ТВ3
+http://81.177.197.13:8000/play/a00e/index.m3u8
+#EXTINF:-1 group-title="Зелёная точка (VPN)",Пятница
+http://81.177.197.13:8000/play/a00f/index.m3u8
+#EXTINF:-1 group-title="Зелёная точка (VPN)",Звезда
+http://81.177.197.13:8000/play/a00g/index.m3u8
+#EXTINF:-1 group-title="Зелёная точка (VPN)",МИР
+http://81.177.197.13:8000/play/a00h/index.m3u8
+#EXTINF:-1 group-title="Зелёная точка (VPN)",МузТВ
+http://81.177.197.13:8000/play/a00j/index.m3u8
+#EXTINF:-1 group-title="Зелёная точка (VPN)",КАРУСЕЛЬ
+http://81.177.197.13:8000/play/a006/index.m3u8
+#EXTINF:-1 group-title="Зелёная точка (VPN)",МАТЧ ТВ
+http://81.177.197.13:8000/play/a002/index.m3u8
+
+
+
+
 
 #EXTINF:-1 group-title="К Телеком (VPN)" ,ТОЧКА ТВ
 http://94.230.128.105:8080/TochkaTV/mono.m3u8
