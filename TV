@@ -2343,137 +2343,6 @@ https://5926fc9c7c5b2.streamlock.net/9318/9318/chunklist.m3u8
 
 
 
-#EXTINF:-1 group-title="Спорткомплекс 🏆" , Матч! Футбол 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0
-https://e6.varcdn.top/m1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆" ,Матч! Футбол 1 HD
-http://194.143.148.28:8080/MatchFutbol1/mpegts
-#EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-logo="https://varplatform.top/logo/1m.png", Матч! Футбол 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0
-https://e6.varcdn.top/m2/index.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆" , Матч! Футбол 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0
-https://e6.varcdn.top/m3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆" ,Матч! HD
-https://livetv.mylifeisgood.net.ru/channels/matchhd_nocensored.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆" ,Матч! HD
-http://194.143.148.28:8080/MatchHD/mpegts
-#EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-id="2051", Матч! HD(VPN 🇷🇺)
-http://94.230.240.17:8080/machtv/index.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-id="2051" ,Матч HD (VPN)
-http://tv.streams.baikal-telecom.net/MatchHD/index.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆" , Матч ТВ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0
-https://e6.varcdn.top/match/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆" , Матч премьер
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0
-https://e6.varcdn.top/mp/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆" ,Матч! Арена
-http://194.143.148.28:8080/MatchArena/mpegts
-#EXTINF:-1 group-title="Спорткомплекс 🏆" ,Матч! Арена
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0
-https://e6.varcdn.top/marena/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆" , Матч! Страна
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0
-https://bal.varcdn.top/lb/matchstrana/index.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆" , Матч! Боец
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0
-https://e6.varcdn.top/matchboec/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆" ,Матч! Игра
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0
-https://e6.varcdn.top/matchigra/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆" ,Беларусь 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0
-https://e6.varcdn.top/b5/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆" ,Беларусь 5
-https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆" ,СТАРТ HD
-https://livetv.mylifeisgood.net.ru/channels/startlive.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆" ,SPORT 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0
-https://e6.varcdn.top/sport1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆" ,SPORT 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0
-https://e6.varcdn.top/sport2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-logo="https://varplatform.top/logo/32.png", QazSport
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0
-http://77.247.109.114/lb/KazSportKZ/index.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆" ,Eurosport 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0
-https://e6.varcdn.top/Eurosport1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆" ,Eurosport 2 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0
-https://e6.varcdn.top/Eurosport2/index.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-logo="https://varplatform.top/logo/8.png", Setanta Ukraine HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0
-https://e6.varcdn.top/setantasport/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆" ,Setanta Ukraine Plus HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0
-https://e1.varcdn.top/setantaplusukraina/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆" ,Setanta Sports 1 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0
-https://e2.varcdn.top/setanta1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆" ,Setanta Qazaqstan
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0
-https://e6.varcdn.top/rpl1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆" ,Q Sport HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0
-https://e6.varcdn.top/alexfoot2/index.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-logo="https://varplatform.top/logo/okko.png" tvg-id="okko-sport",Okko sports
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0
-https://bal.varcdn.top/1tv/index.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Motor Racing
-https://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Turkmen Sport
-http://217.174.225.146/hls/ch004_720/index.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-logo="https://varplatform.top/logo/34.png", Viasat sport
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0
-https://e6.varcdn.top/ViasatSport/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆" ,KHL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0
-https://e6.varcdn.top/khl/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆" ,KHL Prime
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html
-https://e6.varcdn.top/khlHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆" ,Телеканал Футбол
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0
-https://e6.varcdn.top/footbolru/index.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-logo="https://varplatform.top/logo/km.png", Конный мир
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0
-https://e6.varcdn.top/ua3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Canal Motor
-http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-logo="https://assets-imgx.fubo.tv/marketing/lp/images/fsn/fsn-logo-white.png",Fubo Sports Network
-https://playout.fubo.tv/plex/3.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Edge Sport
-https://edgesport-samsunguk.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Tennis Channel
-https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Sports Grid
-https://sportsgrid-tribal.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",TVS Boxing
-https://rpn1.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-logo="https://streamstak.com/motoamericatv/wp-content/uploads/sites/3/2021/10/motoamerica-logo-horizontal.png",Moto America TV
-http://stream.ads.ottera.tv/playlist.m3u8?network_id=2457
-#EXTINF:-1 group-title="Спорткомплекс 🏆",beIN Sports 1 HD TR
-https://jankdomains.store/panel/pasha/bein1.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",beIN Sports 2 HD TR
-https://jankdomains.store/panel/pasha/bein2.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",beIN Sports 3 HD TR
-https://jankdomains.store/panel/pasha/bein3.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",beIN Sports 4 HD TR
-https://jankdomains.store/panel/pasha/bein4.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆" ,TSN 4
-https://mlb.mrgamingstreams.com/tsn4.m3u8
-
-
-
-
-
-
-
-
-
 
 #EXTINF:-1 group-title="Caspel",Первый канал HD
 http://mfe02.cliptv.az/dash/Perviy_Kanal_HDhshd6637.ism/playlist.mpd
@@ -7665,6 +7534,57 @@ https://hls.goodgame.ru/hls/33606.m3u8
 #EXTINF:-1 group-title="Game Stream 🎮 Not 24/7" tvg-logo="https://goodgame.ru/files/avatars/av_406699_bAzv.jpg",zawibis
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/40782.m3u8
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Спорткомплекс 🏆" ,Матч! Футбол 1 HD
+http://194.143.148.28:8080/MatchFutbol1/mpegts
+#EXTINF:-1 group-title="Спорткомплекс 🏆" ,Матч! HD
+https://livetv.mylifeisgood.net.ru/channels/matchhd_nocensored.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆" ,Матч! HD
+http://194.143.148.28:8080/MatchHD/mpegts
+#EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-id="2051", Матч! HD
+http://94.230.240.17:8080/machtv/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-id="2051" ,Матч HD
+http://tv.streams.baikal-telecom.net/MatchHD/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆" ,Матч! Арена
+http://194.143.148.28:8080/MatchArena/mpegts
+#EXTINF:-1 group-title="Спорткомплекс 🏆" ,Беларусь 5
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆" ,СТАРТ HD
+https://livetv.mylifeisgood.net.ru/channels/startlive.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Motor Racing
+https://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Turkmen Sport
+http://217.174.225.146/hls/ch004_720/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Canal Motor
+http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-logo="https://assets-imgx.fubo.tv/marketing/lp/images/fsn/fsn-logo-white.png",Fubo Sports Network
+https://playout.fubo.tv/plex/3.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Edge Sport
+https://edgesport-samsunguk.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Tennis Channel
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Sports Grid
+https://sportsgrid-tribal.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-logo="https://streamstak.com/motoamericatv/wp-content/uploads/sites/3/2021/10/motoamerica-logo-horizontal.png",Moto America TV
+http://stream.ads.ottera.tv/playlist.m3u8?network_id=2457
+#EXTINF:-1 group-title="Спорткомплекс 🏆",beIN Sports 1 HD TR
+https://jankdomains.store/panel/pasha/bein1.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",beIN Sports 2 HD TR
+https://jankdomains.store/panel/pasha/bein2.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",beIN Sports 3 HD TR
+https://jankdomains.store/panel/pasha/bein3.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",beIN Sports 4 HD TR
+https://jankdomains.store/panel/pasha/bein4.m3u8
+
+
 
 
 
