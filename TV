@@ -203,15 +203,15 @@ http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_LenTV/hls/1024x576@1272/playli
 http://193.201.98.10:5000/c99
 #EXTINF:-1 group-title="ДВ-Ком (VPN)",Россия 1 HD
 http://193.201.98.10:5000/c100
-#EXTINF:-1 group-title="ДВ-Ком (VPN)",THT4
+#EXTINF:-1 group-title="ДВ-Ком (VPN)",ТНТ4
 http://193.201.98.10:5000/c142
-#EXTINF:-1 group-title="ДВ-Ком (VPN)",THT HD
+#EXTINF:-1 group-title="ДВ-Ком (VPN)",ТНТ
 http://193.201.98.10:5000/c157
 #EXTINF:-1 group-title="ДВ-Ком (VPN)",.Black
 http://193.201.98.10:5000/c79
-#EXTINF:-1 group-title="ДВ-Ком (VPN)",Планета
+#EXTINF:-1 group-title="ДВ-Ком (VPN)",Моя планета
 http://193.201.98.10:5000/c82
-#EXTINF:-1 group-title="ДВ-Ком (VPN)",Телепутешествие
+#EXTINF:-1 group-title="ДВ-Ком (VPN)",Телепутешествия HD
 http://193.201.98.10:5000/c93
 #EXTINF:-1 group-title="ДВ-Ком (VPN)",Travel Channel
 http://193.201.98.10:5000/c149
@@ -227,7 +227,7 @@ http://193.201.98.10:5000/c97
 http://193.201.98.10:5000/c98
 #EXTINF:-1 group-title="ДВ-Ком (VPN)",Охота и Рыбалка
 http://193.201.98.10:5000/c109
-#EXTINF:-1 group-title="ДВ-Ком (VPN)",Discovery Chennel HD
+#EXTINF:-1 group-title="ДВ-Ком (VPN)",Discovery Channel HD
 http://193.201.98.10:5000/c146
 #EXTINF:-1 group-title="ДВ-Ком (VPN)",Animal Planet HD
 http://193.201.98.10:5000/c147
@@ -249,7 +249,7 @@ http://193.201.98.10:5000/c83
 http://193.201.98.10:5000/c22
 #EXTINF:-1 group-title="ДВ-Ком (VPN)",Кинопоказ
 http://193.201.98.10:5000/c28
-#EXTINF:-1 group-title="ДВ-Ком (VPN)",Золотая Коллекция
+#EXTINF:-1 group-title="ДВ-Ком (VPN)",Мосфильм. Золотая Коллекция
 http://193.201.98.10:5000/c29
 #EXTINF:-1 group-title="ДВ-Ком (VPN)",Дом кино
 http://193.201.98.10:5000/c30
