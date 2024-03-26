@@ -110,7 +110,22 @@
     "server_port": 9098,
     "password": "aLpQtfEZe445QyHk",
     "method": "aes-256-cfb",
-    "remarks": "🇹🇷 Турция (https://t.me/freeneo_net)",
+    "remarks": "🇹🇷 Турция 1 (https://t.me/freeneo_net)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "45.89.52.66",
+    "server_port": 9031,
+    "password": "BwcAUZk8hUFAkDGN",
+    "method": "aes-256-cfb",
+    "remarks": "🇹🇷 Турция 2 (https://t.me/freeneo_net)",
     "route": "all",
     "remote_dns": "one.one.one.one",
     "ipv6": false,
