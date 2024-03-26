@@ -27,8 +27,14 @@ http://89.223.45.5:8000/geny-flac
 http://89.223.45.5:8000/zed-flac
 #EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",The Cheese
 http://thecheese.ddns.net:8004/stream
+#EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",Qabayan FM
+https://c2.radioboss.fm:8478/live
+#EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",Le Bon Mix
+https://stream10.xdevel.com/audio17s976748-2218/stream/icecast.audio
 #EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",Radio Sing Sing Flac
 http://stream.sing-sing.org:8000/singsingFlac
+#EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",Flow Radio
+http://109.169.23.84:36527/flowplataformas
 #EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",Frequence 3
 http://hd.stream.frequence3.net:80/frequence3.flac
 #EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",Frequence 3 - Dance
@@ -77,6 +83,10 @@ https://radio.eduneu.ar:8000/radio1_aire
 https://flacradio.ru:1095/stream
 #EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",Hit Radio
 https://flacradio.ru:1075/stream
+#EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",PowerXS
+http://vriezenet.nl:11051/hrflac
+#EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",PowerXS Dance Classics
+http://vriezenet.nl:11051/dcflac
 #EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",8 Марта
 https://flacradio.ru:1145/stream
 #EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",Радио Лето
@@ -119,6 +129,38 @@ https://stream.and-stuff.nl:8443/riverside
 https://icecast.centaury.cl:7560/SuperStereoNoData1plus
 #EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",Zappa Stream Radio
 http://streams.norbert.de:8000/zappa.flac
+#EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",Zap! FM
+https://zapstream.nl:8443/1
+#EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",Sweet FM
+http://stream.sweetfm.fr:8000/dab-forever-lms
+#EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",SuperStereo 1 Yacht Rock (24-bit/96kHz)
+http://icecast.centaury.cl:7570/SuperStereoHiRes1
+#EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",SuperStereo 1+ Yacht Rock (16-bit/4.1kHz)
+http://icecast.centaury.cl:7560/SuperStereoNoData1
+#EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",SuperStereo 2 50s-60s-70s (24-bit/96kHz)
+http://icecast.centaury.cl:7570/SuperStereoHiRes2
+#EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",SuperStereo 4 50s-60-70s (16-bit/4.1kHz)
+http://icecast.centaury.cl:7560/SuperStereoNoData2
+#EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",SuperStereo 3 80’s (24-bit/96kHz)
+http://icecast.centaury.cl:7570/SuperStereoHiRes3
+#EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",SuperStereo 3 80’s (16-bit/4.1kHz)
+http://icecast.centaury.cl:7560/SuperStereoNoData3
+#EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",SuperStereo 4 Ballads 80’s-90s-00s (24-bit/96kHz)
+http://icecast.centaury.cl:7570/SuperStereoHiRes4
+#EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",SuperStereo 4 Ballads 80’s-90s-00s (16-bit/4.1kHz)
+http://icecast.centaury.cl:7560/SuperStereoNoData4
+#EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",SuperStereo 5 Rock (24-bit/96kHz)
+http://icecast.centaury.cl:7570/SuperStereoHiRes5
+#EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",SuperStereo 5 Rock (16-bit/4.1kHz)
+http://icecast.centaury.cl:7560/SuperStereoNoData5
+#EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",SuperStereo 6 Instrumental Music (24-bit/96kHz)
+http://icecast.centaury.cl:7570/SuperStereoHiRes6
+#EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",SuperStereo 6 Instrumental Music (16-bit/4.1kHz)
+http://icecast.centaury.cl:7560/SuperStereoNoData6
+#EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",SuperStereo 7 Jazz (24-bit/96kHz)
+http://icecast.centaury.cl:7570/SuperStereoHiRes7
+#EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",SuperStereo 7 Jazz (16-bit/4.1kHz)
+http://icecast.centaury.cl:7560/SuperStereoNoData7
 
 
 
