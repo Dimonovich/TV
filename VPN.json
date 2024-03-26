@@ -62,10 +62,40 @@
   },
   {
     "server": "5.188.181.201",
-    "server_port": 9000,
-    "password": "a3GFYt36Sm82Vys9",
+    "server_port": 9040,
+    "password": "p9z5BVADH2YFs3MN",
     "method": "aes-256-cfb",
     "remarks": "🇪🇸 Испания (https://t.me/freeneo_net)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "5.188.181.201",
+    "server_port": 9054,
+    "password": "VcFuyXvND2yQWSFY",
+    "method": "aes-256-cfb",
+    "remarks": "🇪🇸 Испания 2 (https://t.me/freeneo_net)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "5.188.181.201",
+    "server_port": 9041,
+    "password": "U6qnYRhfyDmn8sgn",
+    "method": "aes-256-cfb",
+    "remarks": "🇪🇸 Испания 3 (https://t.me/freeneo_net)",
     "route": "all",
     "remote_dns": "one.one.one.one",
     "ipv6": false,
