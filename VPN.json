@@ -135,6 +135,21 @@
     },
     "udpdns": false
   },
+  {
+    "server": "45.89.52.66",
+    "server_port": 9042,
+    "password": "S7KwUu7yBy58S3Ga",
+    "method": "aes-256-cfb",
+    "remarks": "🇹🇷 Турция 3 (https://t.me/freeneo_net)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
   { 
     "server": "109.201.152.181",
     "server_port": 443,
