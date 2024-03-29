@@ -3118,14 +3118,13 @@ http://94.230.128.105:8080/Vmeste/index.m3u8
 http://94.230.128.105:8080/HTC/index.m3u8
 #EXTINF:-1 group-title="К Телеком (VPN)" ,ТОЧКА ТВ
 http://94.230.128.105:8080/TochkaTV/index.m3u8
-#EXTINF:-1 group-title="К Телеком (VPN)" ,Рыжий
+#EXTINF:-1 group-title="К Телеком (VPN)" ,Мульт
 http://94.230.128.105:8080/Mult_HD/index.m3u8
 #EXTINF:-1 group-title="К Телеком (VPN)" ,RU.TV
 http://94.230.128.105:8080/RU.TV/index.m3u8
 #EXTINF:-1 group-title="К Телеком (VPN)" ,Russian music box
 http://94.230.128.105:8080/MUSIC/index.m3u8
-#EXTINF:-1 group-title="К Телеком (VPN)" ,RU.TV
-http://94.230.128.105:8080/RU.TV/mono.m3u8
+
 
 
 
