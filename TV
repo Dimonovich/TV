@@ -245,6 +245,10 @@ http://persik.by/stream/1215/453417/10721.m3u8
 http://persik.by/stream/1215/453417/10405.m3u8
 #EXTINF:-1 group-title="Persik TV",БЕЛАРУСЬ 1
 http://persik.by/stream/1215/453417/11000.m3u8
+#EXTINF:-1 group-title="Persik TV",РТР БЕЛАРУСЬ HD
+http://persik.by/stream/1215/453417/11182.m3u8
+#EXTINF:-1 group-title="Persik TV",РТР БЕЛАРУСЬ
+http://persik.by/stream/1215/453417/10725.m3u8
 #EXTINF:-1 group-title="Persik TV",Приключения HD
 http://persik.by/stream/1215/453417/10707.m3u8
 #EXTINF:-1 group-title="Persik TV",HD Life
@@ -371,10 +375,6 @@ http://persik.by/stream/1215/453417/11025.m3u8
 http://persik.by/stream/1215/453417/177.m3u8
 #EXTINF:-1 group-title="Persik TV",Русские комедии
 http://persik.by/stream/1215/453417/11038.m3u8
-#EXTINF:-1 group-title="Persik TV",РТР БЕЛАРУСЬ HD
-http://persik.by/stream/1215/453417/11182.m3u8
-#EXTINF:-1 group-title="Persik TV",РТР БЕЛАРУСЬ
-http://persik.by/stream/1215/453417/10725.m3u8
 #EXTINF:-1 group-title="Persik TV",Роскосмос HD
 http://persik.by/stream/1215/453417/10487.m3u8
 #EXTINF:-1 group-title="Persik TV",РосКино HD
@@ -385,8 +385,6 @@ http://persik.by/stream/1215/453417/11136.m3u8
 http://persik.by/stream/1215/453417/11029.m3u8
 #EXTINF:-1 group-title="Persik TV",Рождественские фильмы
 http://persik.by/stream/1215/453417/11345.m3u8
-#EXTINF:-1 group-title="Persik TV",РОДНОЕ КИНО
-http://persik.by/stream/1215/453417/312.m3u8
 #EXTINF:-1 group-title="Persik TV",Ретро HD
 http://persik.by/stream/1215/453417/10709.m3u8
 #EXTINF:-1 group-title="Persik TV",Рекомендуем
@@ -445,18 +443,12 @@ http://persik.by/stream/1215/453417/11146.m3u8
 http://persik.by/stream/1215/453417/11027.m3u8
 #EXTINF:-1 group-title="Persik TV",Наши сериалы HD
 http://persik.by/stream/1215/453417/11030.m3u8
-#EXTINF:-1 group-title="Persik TV",НАШЕ НОВОЕ КИНО
-http://persik.by/stream/1215/453417/260.m3u8
 #EXTINF:-1 group-title="Persik TV",НАШЕ ЛЮБИМОЕ КИНО
 http://persik.by/stream/1215/453417/10452.m3u8
 #EXTINF:-1 group-title="Persik TV",На реальных событиях
 http://persik.by/stream/1215/453417/11012.m3u8
 #EXTINF:-1 group-title="Persik TV",Музыкальные фильмы HD
 http://persik.by/stream/1215/453417/10747.m3u8
-#EXTINF:-1 group-title="Persik TV",МУЖСКОЕ КИНО HD
-http://persik.by/stream/1215/453417/10368.m3u8
-#EXTINF:-1 group-title="Persik TV",МУЖСКОЕ КИНО
-http://persik.by/stream/1215/453417/10025.m3u8
 #EXTINF:-1 group-title="Persik TV",МУВИ ТВ
 http://persik.by/stream/1215/453417/241.m3u8
 #EXTINF:-1 group-title="Persik TV",Молодость HD
@@ -529,10 +521,20 @@ http://persik.by/stream/1215/453417/11237.m3u8
 http://persik.by/stream/1215/453417/11230.m3u8
 #EXTINF:-1 group-title="Persik TV",Козловский
 http://persik.by/stream/1215/453417/11069.m3u8
-#EXTINF:-1 group-title="Persik TV",КИНОХИТ
-http://persik.by/stream/1215/453417/213.m3u8
 #EXTINF:-1 group-title="Persik TV",КиноТОП HD
 http://persik.by/stream/1215/453417/10716.m3u8
+#EXTINF:-1 group-title="Persik TV",КИНОХИТ
+http://persik.by/stream/1215/453417/213.m3u8
+#EXTINF:-1 group-title="Persik TV",МУЖСКОЕ КИНО HD
+http://persik.by/stream/1215/453417/10368.m3u8
+#EXTINF:-1 group-title="Persik TV",МУЖСКОЕ КИНО
+http://persik.by/stream/1215/453417/10025.m3u8
+#EXTINF:-1 group-title="Persik TV",НАШЕ НОВОЕ КИНО
+http://persik.by/stream/1215/453417/260.m3u8
+#EXTINF:-1 group-title="Persik TV",ИНДИЙСКОЕ КИНО
+http://persik.by/stream/1215/453417/11002.m3u8
+#EXTINF:-1 group-title="Persik TV",РОДНОЕ КИНО
+http://persik.by/stream/1215/453417/312.m3u8
 #EXTINF:-1 group-title="Persik TV",КИНОСЕМЬЯ
 http://persik.by/stream/1215/453417/590.m3u8
 #EXTINF:-1 group-title="Persik TV",КИНОСВИДАНИЕ
@@ -569,8 +571,6 @@ http://persik.by/stream/1215/453417/10234.m3u8
 http://persik.by/stream/1215/453417/10949.m3u8
 #EXTINF:-1 group-title="Persik TV",История кратко
 http://persik.by/stream/1215/453417/11290.m3u8
-#EXTINF:-1 group-title="Persik TV",ИНДИЙСКОЕ КИНО
-http://persik.by/stream/1215/453417/11002.m3u8
 #EXTINF:-1 group-title="Persik TV",Иллюзион+
 http://persik.by/stream/1215/453417/327.m3u8
 #EXTINF:-1 group-title="Persik TV",Известные актёры
@@ -715,8 +715,6 @@ http://persik.by/stream/1215/453417/11343.m3u8
 http://persik.by/stream/1215/453417/11225.m3u8
 #EXTINF:-1 group-title="Persik TV",Dance!
 http://persik.by/stream/1215/453417/11252.m3u8
-#EXTINF:-1 group-title="Persik TV",DA VINCI
-http://persik.by/stream/1215/453417/11222.m3u8
 #EXTINF:-1 group-title="Persik TV",CТБ
 http://persik.by/stream/1215/453417/10727.m3u8
 #EXTINF:-1 group-title="Persik TV",Aygad
@@ -747,6 +745,8 @@ http://persik.by/stream/1215/453417/10945.m3u8
 http://persik.by/stream/1215/453417/10688.m3u8
 #EXTINF:-1 group-title="Persik TV",КАРУСЕЛЬ
 http://persik.by/stream/1215/453417/687.m3u8
+#EXTINF:-1 group-title="Persik TV",DA VINCI
+http://persik.by/stream/1215/453417/11222.m3u8
 #EXTINF:-1 group-title="Persik TV",Мультсериалы HD
 http://persik.by/stream/1215/453417/10748.m3u8
 #EXTINF:-1 group-title="Persik TV",МУЛЬТИЛАНДИЯ
