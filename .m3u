@@ -112,6 +112,13 @@ http://95.67.12.82:9069
 #EXTINF:-1 ,Ералаш
 https://ipv4.bozztv.com/dvrfl07/ushba8/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1,CineMan MiniSeries
+http://95.216.6.244/CineMan_MiniSeries/index.m3u8
+#EXTINF:-1,CineMan Лесник
+http://95.216.6.244/CineMan_lesnik/index.m3u8
+#EXTINF:-1,CineMan Симпсоны
+http://95.216.6.244/CineMan_Simpson/index.m3u8
+
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
 https://bkm.beetv.kz/btv/live/hls/000006365.m3u8
 
