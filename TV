@@ -3525,6 +3525,244 @@ http://video.platformcraft.ru/hls/etv/egorievsk-tv/720p.m3u8
 
 
 
+
+
+
+
+
+
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,Первый канал HD
+http://195.191.130.17:8085/udp/127.0.0.1:20073
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,Первый канал
+http://195.191.130.17:8085/udp/127.0.0.1:20701
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,Россия 1
+http://195.191.130.17:8085/udp/127.0.0.1:20702
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,Россия 1 HD
+http://195.191.130.17:8085/udp/127.0.0.1:10173
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,Россия 24
+http://195.191.130.17:8085/udp/127.0.0.1:20049
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,Россия К
+http://195.191.130.17:8085/udp/127.0.0.1:20059
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,РЕН ТВ
+http://195.191.130.17:8085/udp/127.0.0.1:20711
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,РЕН ТВ HD
+http://195.191.130.17:8085/udp/127.0.0.1:14834
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,ТНТ
+http://195.191.130.17:8085/udp/127.0.0.1:20719
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,ТНТ HD
+http://195.191.130.17:8085/udp/127.0.0.1:20086
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,ТНТ4
+http://195.191.130.17:8085/udp/127.0.0.1:20041
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,НТВ
+http://195.191.130.17:8085/udp/127.0.0.1:20704
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,НТВ HD
+http://195.191.130.17:8085/udp/127.0.0.1:20220
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,НТВ Сериал
+http://195.191.130.17:8085/udp/127.0.0.1:20784
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,НТВ Хит
+http://195.191.130.17:8085/udp/127.0.0.1:23781
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,Discovery Channel
+http://195.191.208.8:8095/udp/238.2.173.1:1234
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,HOME 4K
+http://195.191.130.17:8085/udp/127.0.0.1:13445
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,История
+http://195.191.130.17:8085/udp/127.0.0.1:20273
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,Моя планета
+http://195.191.130.17:8085/udp/127.0.0.1:20135
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,Моя планета HD
+http://195.191.130.17:8085/udp/127.0.0.1:20374
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,Дикая рыбалка HD
+http://195.191.130.17:8085/udp/127.0.0.1:23743
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,Нано ТВ HD
+http://195.191.130.17:8085/udp/127.0.0.1:24306
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,.Black
+http://195.191.130.17:8085/udp/127.0.0.1:10235
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,Спас
+http://195.191.130.17:8085/udp/127.0.0.1:10060
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,2x2
+http://195.191.130.17:8085/udp/127.0.0.1:10100
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,5 канал
+http://195.191.130.17:8085/udp/127.0.0.1:20705
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,8 канал
+http://195.191.130.17:8085/udp/127.0.0.1:20309
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,9 Волна
+http://195.191.130.17:8085/udp/127.0.0.1:10314
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,Amedia 1
+http://195.191.130.17:8085/udp/127.0.0.1:10267
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,Amedia 1 HD
+http://195.191.130.17:8085/udp/127.0.0.1:20629
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,Amedia 2
+http://195.191.130.17:8085/udp/127.0.0.1:20261
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,Amedia Premium HD
+http://195.191.130.17:8085/udp/127.0.0.1:10187
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,Arirang
+http://195.191.130.17:8085/udp/127.0.0.1:10315
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,CGTN Русский
+http://195.191.130.17:8085/udp/127.0.0.1:15722
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,Cinema HD
+http://195.191.130.17:8085/udp/127.0.0.1:15773
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,Cinema UHD
+http://195.191.130.17:8085/udp/127.0.0.1:20799
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,CTC HD
+http://195.191.130.17:8085/udp/127.0.0.1:10036
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,CTC LOVE
+http://195.191.130.17:8085/udp/127.0.0.1:10284
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,E TV
+http://195.191.130.17:8085/udp/127.0.0.1:20221
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,Hollywood
+http://195.191.130.17:8085/udp/127.0.0.1:23723
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,Kinoman
+http://195.191.130.17:8085/udp/127.0.0.1:13670
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,Plan B HD
+http://195.191.130.17:8085/udp/127.0.0.1:25716
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,Sochi live HD
+http://195.191.130.17:8085/udp/127.0.0.1:15595
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,Trash HD
+http://195.191.130.17:8085/udp/127.0.0.1:14830
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,Ultra Cinema
+http://195.191.130.17:8085/udp/127.0.0.1:10799
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,Авто 24
+http://195.191.130.17:8085/udp/127.0.0.1:10256
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,Беларусь 24
+http://195.191.130.17:8085/udp/127.0.0.1:20341
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,Домашний
+http://195.191.130.17:8085/udp/127.0.0.1:10714
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,Домашний HD
+http://195.191.130.17:8085/udp/127.0.0.1:15037
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,Еврокино
+http://195.191.130.17:8085/udp/127.0.0.1:10096
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,Звезда
+http://195.191.130.17:8085/udp/127.0.0.1:20717
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,Звезда плюс
+http://195.191.130.17:8085/udp/127.0.0.1:15769
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,Звезда плюс HD
+http://195.191.130.17:8085/udp/127.0.0.1:25769
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,Иллюзион+
+http://195.191.130.17:8085/udp/127.0.0.1:20020
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,Индия
+http://195.191.130.17:8085/udp/127.0.0.1:20245
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,Кино ТВ
+http://195.191.130.17:8085/udp/127.0.0.1:20388
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,Кино ТВ HD
+http://195.191.130.17:8085/udp/127.0.0.1:20381
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,Кинокомедия
+http://195.191.130.17:8085/udp/127.0.0.1:10026
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,Родное кино
+http://195.191.130.17:8085/udp/127.0.0.1:10012
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,Кинопоказ
+http://195.191.130.17:8085/udp/127.0.0.1:20129
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,Кинопоказ HD
+http://195.191.130.17:8085/udp/127.0.0.1:24781
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,Любимое кино HD
+http://195.191.130.17:8085/udp/127.0.0.1:25552
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,Мир
+http://195.191.130.17:8085/udp/127.0.0.1:10718
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,Мир сериала
+http://195.191.130.17:8085/udp/127.0.0.1:15568
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,Мир сериала HD
+http://195.191.130.17:8085/udp/127.0.0.1:25568
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,О Кино
+http://195.191.130.17:8085/udp/127.0.0.1:14887
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,ОТР
+http://195.191.130.17:8085/udp/127.0.0.1:20199
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,Пятница
+http://195.191.130.17:8085/udp/127.0.0.1:20716
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,Пятница HD
+http://195.191.130.17:8085/udp/127.0.0.1:23664
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,Ретро
+http://195.191.130.17:8085/udp/127.0.0.1:20087
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,Русский детектив
+http://195.191.130.17:8085/udp/127.0.0.1:20282
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,Русский Иллюзион
+http://195.191.130.17:8085/udp/127.0.0.1:10201
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,Русский роман
+http://195.191.130.17:8085/udp/127.0.0.1:10172
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,Сарафан
+http://195.191.130.17:8085/udp/127.0.0.1:20117
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,Спас
+http://195.191.130.17:8085/udp/127.0.0.1:20060
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,СТС
+http://195.191.130.17:8085/udp/127.0.0.1:20713
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,СТС HD
+http://195.191.130.17:8085/udp/127.0.0.1:20036
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,СТС Love
+http://195.191.130.17:8085/udp/127.0.0.1:20284
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,Суббота
+http://195.191.130.17:8085/udp/127.0.0.1:23685
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,ТВ3
+http://195.191.130.17:8085/udp/127.0.0.1:10715
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,ТВ3 HD
+http://195.191.130.17:8085/udp/127.0.0.1:20519
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,ТВЦ
+http://195.191.130.17:8085/udp/127.0.0.1:20710
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,ТВЦ HD
+http://195.191.130.17:8085/udp/127.0.0.1:25740
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,Хабар 24
+http://195.191.130.17:8085/udp/127.0.0.1:10464
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,Чё
+http://195.191.130.17:8085/udp/127.0.0.1:20109
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,Ю (+2)
+http://195.191.130.17:8085/udp/127.0.0.1:14346
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,Ювелирочка
+http://195.191.130.17:8085/udp/127.0.0.1:14806
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,МузТВ
+http://195.191.130.17:8085/udp/127.0.0.1:20010
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,Bridge HD
+http://195.191.130.17:8085/udp/127.0.0.1:20154
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,BRIDGE TV
+http://195.191.130.17:8085/udp/127.0.0.1:10069
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,BRIDGE TV Classic
+http://195.191.130.17:8085/udp/127.0.0.1:10389
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,BRIDGE TV Deluxe HD
+http://195.191.130.17:8085/udp/127.0.0.1:10154
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,BRIDGE TV Hits HD
+http://195.191.130.17:8085/udp/127.0.0.1:17352
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,Bridge TV Rock
+http://195.191.130.17:8085/udp/127.0.0.1:27364
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,Bridge TV Русский Хит
+http://195.191.130.17:8085/udp/127.0.0.1:20158
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,Bridge TV Фреш
+http://195.191.130.17:8085/udp/127.0.0.1:27426
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,BRIDGE TV Шлягер
+http://195.191.130.17:8085/udp/127.0.0.1:15014
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,RU.TV
+http://195.191.130.17:8085/udp/127.0.0.1:20063
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,RUSSIAN MUSICBOX
+http://195.191.130.17:8085/udp/127.0.0.1:10230
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,Европа плюс ТВ
+http://195.191.130.17:8085/udp/127.0.0.1:23735
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,Солнце
+http://195.191.130.17:8085/udp/127.0.0.1:20721
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,Радость моя
+http://195.191.130.17:8085/udp/127.0.0.1:10300
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,Мульт
+http://195.191.130.17:8085/udp/127.0.0.1:20200
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,Детский мир
+http://195.191.130.17:8085/udp/127.0.0.1:10020
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,Мама
+http://195.191.130.17:8085/udp/127.0.0.1:10090
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,Карусель
+http://195.191.130.17:8085/udp/127.0.0.1:20708
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,TiJi
+http://195.191.130.17:8085/udp/127.0.0.1:10218
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,Gulli Girl
+http://195.191.130.17:8085/udp/127.0.0.1:10217
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,Мульт HD
+http://195.191.130.17:8085/udp/127.0.0.1:20312
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,Мультимузыка
+http://195.191.130.17:8085/udp/127.0.0.1:20156
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,МАТЧ ТВ
+http://195.191.130.17:8085/udp/127.0.0.1:10005
+#EXTINF:-1 group-title="Сигма-КТВ (VPN)" ,Матч ТВ HD
+http://195.191.130.17:8085/udp/127.0.0.1:20397
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="Sbcloud (VPN)",Первый канал HD
 http://212.22.70.73:212/channel/78ddf14/index.m3u8?q=78530ab488b6d4956e061f6fb3773b9d
 #EXTINF:-1 group-title="Sbcloud (VPN)",Первый канал HD +4
