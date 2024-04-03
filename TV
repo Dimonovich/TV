@@ -2311,7 +2311,7 @@ http://87.99.87.203:2007/channel/n5b8f1b16/index.m3u8?q=1b8c2b84d89772e85341da42
 #EXTINF:-1 tvg-logo="https://epgx.site/p/clarity4k-kosmomir.png" group-title="Кинозалы", Clarity4K Космомир
 http://87.99.87.203:2007/channel/n22109934/index.m3u8?q=1b8c2b84d89772e85341da42b9e646b9
 
-#EXTINF:-1 tvg-logo="https://epgx.site/p/clarity4k-multlandia.png" group-title="Кинозалы Clarity4K", (OФЛАЙН) Clarity4K Мультляндия
+#EXTINF:-1 tvg-logo="https://epgx.site/p/clarity4k-multlandia.png" group-title="Кинозалы",Clarity4K Мультляндия
 http://87.99.87.203:2007/channel/n62ac791b/index.m3u8?q=1b8c2b84d89772e85341da42b9e646b9
 
 #EXTINF:-1 tvg-logo="https://epgx.site/p/clarity4k-muzikl.png" group-title="Кинозалы", Clarity4K Мюзикл
@@ -2357,7 +2357,7 @@ http://158.101.194.132:8888/channel/n1bd3d9b5/index.m3u8?q=bd91265e95c35a693799a
 #EXTINF:-1 tvg-logo="http://158.101.214.187:8080/logos/bcu-cosmo-hd.png" group-title="Кинозалы",BCU Cosmo HD
 http://158.101.194.132:8888/channel/30698872/index.m3u8?q=bd91265e95c35a693799a1f8ed7a004a
 
-#EXTINF:-1 tvg-logo="http://158.101.214.187:8080/logos/bcu-cosmo-hd.png" group-title="Кинозалы BCU", (OФЛАЙН) BCU Cosmo HD OLD
+#EXTINF:-1 tvg-logo="http://158.101.214.187:8080/logos/bcu-cosmo-hd.png" group-title="Кинозалы BCU", BCU Cosmo HD OLD
 http://158.101.194.132:8888/channel/56bbbd59/index.m3u8?q=bd91265e95c35a693799a1f8ed7a004a
 
 #EXTINF:-1 tvg-logo="http://158.101.214.187:8080/logos/bcu-criminal-hd.png" group-title="Кинозалы",BCU Criminal HD
