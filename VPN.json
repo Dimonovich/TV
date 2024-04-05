@@ -16,6 +16,36 @@
     "udpdns": false
   },
   {
+    "server": "103.172.116.79",
+    "server_port": 9097,
+    "password": "Sn5B7jTqr76aCJT8",
+    "method": "aes-256-cfb",
+    "remarks": "🇸🇬 Сингапур 1 (https://t.me/freeneo_net)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.172.116.103",
+    "server_port": 9097,
+    "password": "Sn5B7jTqr76aCJT8",
+    "method": "aes-256-cfb",
+    "remarks": "🇸🇬 Сингапур 2 (https://t.me/freeneo_net)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
     "server": "213.183.63.69",
     "server_port": 9005,
     "password": "ZET59LF6DvCC8KVt",
