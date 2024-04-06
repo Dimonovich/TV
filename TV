@@ -201,6 +201,502 @@ http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_LenTV/hls/1024x576@1272/playli
 
 
 
+
+
+
+#EXTINF:-1 group-title="Казахтелеком",Первый канал HD
+http://147.30.217.23:5555/play/perviyHD
+#EXTINF:-1 group-title="Казахтелеком",Первый Канал HD (+4)
+http://147.30.217.23:5555/play/perviy(4)HD
+#EXTINF:-1 group-title="Казахтелеком",Первый канал (+2)
+http://147.30.217.23:5555/play/perviy(2)
+#EXTINF:-1 group-title="Казахтелеком",Первый канал (+4)
+http://147.30.217.23:5555/play/perviy(4)
+#EXTINF:-1 group-title="Казахтелеком",Первый канал
+http://147.30.217.23:5555/play/perviy
+#EXTINF:-1 group-title="Казахтелеком",Россия 1
+http://147.30.217.23:5555/play/rossiya
+#EXTINF:-1 group-title="Казахтелеком",Россия 1 (+2)
+http://147.30.217.23:5555/play/rossiya(2)
+#EXTINF:-1 group-title="Казахтелеком",Россия 1 (+4)
+http://147.30.217.23:5555/play/a10a
+#EXTINF:-1 group-title="Казахтелеком",Россия 1 (+4)
+http://147.30.217.23:5555/play/rossiya(4)
+#EXTINF:-1 group-title="Казахтелеком",Россия 24
+http://147.30.217.23:5555/play/rossiya24
+#EXTINF:-1 group-title="Казахтелеком",Россия HD
+http://147.30.217.23:5555/play/rossiyaHD
+#EXTINF:-1 group-title="Казахтелеком",Россия К
+http://147.30.217.23:5555/play/rossiyaK
+#EXTINF:-1 group-title="Казахтелеком",ТНТ
+http://147.30.217.23:5555/play/tnt
+#EXTINF:-1 group-title="Казахтелеком",ТНТ (+2)
+http://147.30.217.23:5555/play/tnt(2)
+#EXTINF:-1 group-title="Казахтелеком",ТНТ (+4)
+http://147.30.217.23:5555/play/tnt(4)
+#EXTINF:-1 group-title="Казахтелеком",ТНТ +2
+http://147.30.217.23:5555/play/a0ys
+#EXTINF:-1 group-title="Казахтелеком",ТНТ HD
+http://147.30.217.23:5555/play/tnt-HD
+#EXTINF:-1 group-title="Казахтелеком",РЕН
+http://147.30.217.23:5555/play/rentv
+#EXTINF:-1 group-title="Казахтелеком",РЕН (+2)
+http://147.30.217.23:5555/play/rentv(2)
+#EXTINF:-1 group-title="Казахтелеком",РЕН (+4)
+http://147.30.217.23:5555/play/rentv(4)
+#EXTINF:-1 group-title="Казахтелеком",НТВ
+http://147.30.217.23:5555/play/ntv
+#EXTINF:-1 group-title="Казахтелеком",НТВ (+2)
+http://147.30.217.23:5555/play/ntv(2)
+#EXTINF:-1 group-title="Казахтелеком",НТВ (+4)
+http://147.30.217.23:5555/play/ntv(4)
+#EXTINF:-1 group-title="Казахтелеком",НТВ HD
+http://147.30.217.23:5555/play/ntv_HD
+#EXTINF:-1 group-title="Казахтелеком",НТВ Право
+http://147.30.217.23:5555/play/a0zg
+#EXTINF:-1 group-title="Казахтелеком",НТВ Сериал
+http://147.30.217.23:5555/play/a0zi
+#EXTINF:-1 group-title="Казахтелеком",НТВ Стиль
+http://147.30.217.23:5555/play/a0st
+#EXTINF:-1 group-title="Казахтелеком",НТВ-ХИТ
+http://147.30.217.23:5555/play/a0zl
+#EXTINF:-1 group-title="Казахтелеком",Ocean TV
+http://147.30.217.23:5555/play/a0sn
+#EXTINF:-1 group-title="Казахтелеком",RTG HD
+http://147.30.217.23:5555/play/a0qz
+#EXTINF:-1 group-title="Казахтелеком",RTG TV
+http://147.30.217.23:5555/play/RTGTV
+#EXTINF:-1 group-title="Казахтелеком",Viasat Explore
+http://147.30.217.23:5555/play/a0km
+#EXTINF:-1 group-title="Казахтелеком",Viasat History
+http://147.30.217.23:5555/play/a0kn
+#EXTINF:-1 group-title="Казахтелеком",Viasat Nature
+http://147.30.217.23:5555/play/a0ko
+#EXTINF:-1 group-title="Казахтелеком",Viasat Nature/History HD
+http://147.30.217.23:5555/play/viasatNatiure-History
+#EXTINF:-1 group-title="Казахтелеком",Investigation Discovery
+http://147.30.217.23:5555/play/a0va
+#EXTINF:-1 group-title="Казахтелеком",Большая Азия
+http://147.30.217.23:5555/play/a0rt
+#EXTINF:-1 group-title="Казахтелеком",Диалоги о рыбалке
+http://147.30.217.23:5555/play/a104
+#EXTINF:-1 group-title="Казахтелеком",Глазами Туриста HD
+http://147.30.217.23:5555/play/a0qx
+#EXTINF:-1 group-title="Казахтелеком",Дикая охота HD
+http://147.30.217.23:5555/play/a0sx
+#EXTINF:-1 group-title="Казахтелеком",Дикая рыбалка HD
+http://147.30.217.23:5555/play/a0sw
+#EXTINF:-1 group-title="Казахтелеком",Дикий
+http://147.30.217.23:5555/play/a0u6
+#EXTINF:-1 group-title="Казахтелеком",Живая Планета
+http://147.30.217.23:5555/play/a0lc
+#EXTINF:-1 group-title="Казахтелеком",Живая Природа HD
+http://147.30.217.23:5555/play/a0qy
+#EXTINF:-1 group-title="Казахтелеком",Живи активно HD
+http://147.30.217.23:5555/play/a0uo
+#EXTINF:-1 group-title="Казахтелеком",История
+http://147.30.217.23:5555/play/a0l7
+#EXTINF:-1 group-title="Казахтелеком",Моя Планета
+http://147.30.217.23:5555/play/a0lp
+#EXTINF:-1 group-title="Казахтелеком",Моя стихия
+http://147.30.217.23:5555/play/a0zn
+#EXTINF:-1 group-title="Казахтелеком",Наука
+http://147.30.217.23:5555/play/a0lo
+#EXTINF:-1 group-title="Казахтелеком",Big Planet
+http://147.30.217.23:5555/play/a0wb
+#EXTINF:-1 group-title="Казахтелеком",Наука HD
+http://147.30.217.23:5555/play/a0m3
+#EXTINF:-1 group-title="Казахтелеком",Охота и Рыбалка
+http://147.30.217.23:5555/play/a0ri
+#EXTINF:-1 group-title="Казахтелеком",TERRA
+http://147.30.217.23:5555/play/terra-sd
+#EXTINF:-1 group-title="Казахтелеком",TERRA HD
+http://147.30.217.23:5555/play/a0vh
+#EXTINF:-1 group-title="Казахтелеком",Т24
+http://147.30.217.23:5555/play/a0ly
+#EXTINF:-1 group-title="Казахтелеком",.Black
+http://147.30.217.23:5555/play/black
+#EXTINF:-1 group-title="Казахтелеком",.Red
+http://147.30.217.23:5555/play/red
+#EXTINF:-1 group-title="Казахтелеком",.Sci-Fi
+http://147.30.217.23:5555/play/sci-fi
+#EXTINF:-1 group-title="Казахтелеком",2x2
+http://147.30.217.23:5555/play/2x2
+#EXTINF:-1 group-title="Казахтелеком",360' Подмосковье
+http://147.30.217.23:5555/play/360moskva
+#EXTINF:-1 group-title="Казахтелеком",365 дней ТВ
+http://147.30.217.23:5555/play/a10j
+#EXTINF:-1 group-title="Казахтелеком",8 Канал
+http://147.30.217.23:5555/play/8kanal
+#EXTINF:-1 group-title="Казахтелеком",9 Волна
+http://147.30.217.23:5555/play/9volna
+#EXTINF:-1 group-title="Казахтелеком",Amedia 1
+http://147.30.217.23:5555/play/amedia1
+#EXTINF:-1 group-title="Казахтелеком",Amedia 2
+http://147.30.217.23:5555/play/amedia2
+#EXTINF:-1 group-title="Казахтелеком",AMEDIA HIT
+http://147.30.217.23:5555/play/a10g
+#EXTINF:-1 group-title="Казахтелеком",Amedia Hit HD
+http://147.30.217.23:5555/play/amedia-hitHD
+#EXTINF:-1 group-title="Казахтелеком",Amedia Premium
+http://147.30.217.23:5555/play/a10h
+#EXTINF:-1 group-title="Казахтелеком",Bollywood HD
+http://147.30.217.23:5555/play/bollywoodNTV
+#EXTINF:-1 group-title="Казахтелеком",CTC Love
+http://147.30.217.23:5555/play/a0ze
+#EXTINF:-1 group-title="Казахтелеком",DocuBox
+http://147.30.217.23:5555/play/a0ur
+#EXTINF:-1 group-title="Казахтелеком",E TV
+http://147.30.217.23:5555/play/a0zw
+#EXTINF:-1 group-title="Казахтелеком",FAN
+http://147.30.217.23:5555/play/a0zd
+#EXTINF:-1 group-title="Казахтелеком",Fashion HD
+http://147.30.217.23:5555/play/a0sq
+#EXTINF:-1 group-title="Казахтелеком",FastnfunBox
+http://147.30.217.23:5555/play/a0uu
+#EXTINF:-1 group-title="Казахтелеком",FightBox
+http://147.30.217.23:5555/play/a0uv
+#EXTINF:-1 group-title="Казахтелеком",FilmBox
+http://147.30.217.23:5555/play/filmBox
+#EXTINF:-1 group-title="Казахтелеком",FilmBox Arthouse
+http://147.30.217.23:5555/play/filmBoxArt
+#EXTINF:-1 group-title="Казахтелеком",FlixSnip
+http://147.30.217.23:5555/play/flixSnipNTV
+#EXTINF:-1 group-title="Казахтелеком",Gagsnetwork
+http://147.30.217.23:5555/play/a0uj
+#EXTINF:-1 group-title="Казахтелеком",KinoLiving
+http://147.30.217.23:5555/play/kinoLivingNTV
+#EXTINF:-1 group-title="Казахтелеком",Plan B HD
+http://147.30.217.23:5555/play/PlanB-HD
+#EXTINF:-1 group-title="Казахтелеком",SHOT TV
+http://147.30.217.23:5555/play/a0rm
+#EXTINF:-1 group-title="Казахтелеком",Star Cinema
+http://147.30.217.23:5555/play/a110
+#EXTINF:-1 group-title="Казахтелеком",Star Family
+http://147.30.217.23:5555/play/a111
+#EXTINF:-1 group-title="Казахтелеком",START Air
+http://147.30.217.23:5555/play/startAir
+#EXTINF:-1 group-title="Казахтелеком",START World
+http://147.30.217.23:5555/play/a0zp
+#EXTINF:-1 group-title="Казахтелеком",Hollywood
+http://147.30.217.23:5555/play/hollywood
+#EXTINF:-1 group-title="Казахтелеком",Timeless Dizi Channel
+http://147.30.217.23:5555/play/a0uy
+#EXTINF:-1 group-title="Казахтелеком",TV XXI
+http://147.30.217.23:5555/play/tv21vek
+#EXTINF:-1 group-title="Казахтелеком",Доктор
+http://147.30.217.23:5555/play/a0rs
+#EXTINF:-1 group-title="Казахтелеком",viju TV1000
+http://147.30.217.23:5555/play/a0y1
+#EXTINF:-1 group-title="Казахтелеком",viju TV1000 action
+http://147.30.217.23:5555/play/a0y2
+#EXTINF:-1 group-title="Казахтелеком",viju TV1000 новелла
+http://147.30.217.23:5555/play/TV1000novela
+#EXTINF:-1 group-title="Казахтелеком",viju TV1000 русское
+http://147.30.217.23:5555/play/a0y3
+#EXTINF:-1 group-title="Казахтелеком",viju+ Megahit
+http://147.30.217.23:5555/play/VIPmegahit
+#EXTINF:-1 group-title="Казахтелеком",ViP Comedy
+http://147.30.217.23:5555/play/VIPcomedy
+#EXTINF:-1 group-title="Казахтелеком",ViP Premiere
+http://147.30.217.23:5555/play/VIPpremiere
+#EXTINF:-1 group-title="Казахтелеком",ViP Serial HD
+http://147.30.217.23:5555/play/VIPserial
+#EXTINF:-1 group-title="Казахтелеком",Индия
+http://147.30.217.23:5555/play/ZeeRus
+#EXTINF:-1 group-title="Казахтелеком",Авто 24
+http://147.30.217.23:5555/play/a0le
+#EXTINF:-1 group-title="Казахтелеком",Авто Плюс
+http://147.30.217.23:5555/play/a0w4
+#EXTINF:-1 group-title="Казахтелеком",БелРос
+http://147.30.217.23:5555/play/a0tz
+#EXTINF:-1 group-title="Казахтелеком",Ваш Успех
+http://147.30.217.23:5555/play/a0ud
+#EXTINF:-1 group-title="Казахтелеком",Восток ТВ
+http://147.30.217.23:5555/play/a0ro
+#EXTINF:-1 group-title="Казахтелеком",Время
+http://147.30.217.23:5555/play/Vremya
+#EXTINF:-1 group-title="Казахтелеком",Дом Кино
+http://147.30.217.23:5555/play/a0yl
+#EXTINF:-1 group-title="Казахтелеком",Дом Кино Премиум HD
+http://147.30.217.23:5555/play/domkinoPremium
+#EXTINF:-1 group-title="Казахтелеком",Домашний (+2)
+http://147.30.217.23:5555/play/domashniy(2)
+#EXTINF:-1 group-title="Казахтелеком",Домашний (+4)
+http://147.30.217.23:5555/play/domashniy(4)
+#EXTINF:-1 group-title="Казахтелеком",Дорама
+http://147.30.217.23:5555/play/a103
+#EXTINF:-1 group-title="Казахтелеком",Енисей
+http://147.30.217.23:5555/play/a0t2
+#EXTINF:-1 group-title="Казахтелеком",Енисей HD
+http://147.30.217.23:5555/play/a0x4
+#EXTINF:-1 group-title="Казахтелеком",Жара
+http://147.30.217.23:5555/play/zhara
+#EXTINF:-1 group-title="Казахтелеком",ЖИВИ!
+http://147.30.217.23:5555/play/a0zr
+#EXTINF:-1 group-title="Казахтелеком",Загородная жизнь
+http://147.30.217.23:5555/play/a0sj
+#EXTINF:-1 group-title="Казахтелеком",Зал суда
+http://147.30.217.23:5555/play/a0ui
+#EXTINF:-1 group-title="Казахтелеком",Звезда
+http://147.30.217.23:5555/play/zvezda
+#EXTINF:-1 group-title="Казахтелеком",Звезда (+2)
+http://147.30.217.23:5555/play/zvezda(2)
+#EXTINF:-1 group-title="Казахтелеком",Звезда (+4)
+http://147.30.217.23:5555/play/zvezda(4)
+#EXTINF:-1 group-title="Казахтелеком",ЗооПарк
+http://147.30.217.23:5555/play/a0r4
+#EXTINF:-1 group-title="Казахтелеком",Известия
+http://147.30.217.23:5555/play/izvestiya
+#EXTINF:-1 group-title="Казахтелеком",Иллюзион+
+http://147.30.217.23:5555/play/a107
+#EXTINF:-1 group-title="Казахтелеком",ИНДИЙСКОЕ КИНО
+http://147.30.217.23:5555/play/indian-kino-ntv
+#EXTINF:-1 group-title="Казахтелеком",Индия
+http://147.30.217.23:5555/play/a10p
+#EXTINF:-1 group-title="Казахтелеком",Катунь 24
+http://147.30.217.23:5555/play/a0r9
+#EXTINF:-1 group-title="Казахтелеком",КВН ТВ
+http://147.30.217.23:5555/play/a0ra
+#EXTINF:-1 group-title="Казахтелеком",КИНЕКО
+http://147.30.217.23:5555/play/kinekoNTV
+#EXTINF:-1 group-title="Казахтелеком",Кино 24
+http://147.30.217.23:5555/play/Kino24
+#EXTINF:-1 group-title="Казахтелеком",Кино без границ
+http://147.30.217.23:5555/play/kino-bez-granic
+#EXTINF:-1 group-title="Казахтелеком",Кино ТВ (+4)
+http://147.30.217.23:5555/play/kinotv(4)
+#EXTINF:-1 group-title="Казахтелеком",Кино ТВ HD
+http://147.30.217.23:5555/play/KinotvHD
+#EXTINF:-1 group-title="Казахтелеком",КИНОКОМЕДИЯ
+http://147.30.217.23:5555/play/kinocomediyaNTV
+#EXTINF:-1 group-title="Казахтелеком",КИНОМИКС
+http://147.30.217.23:5555/play/kinomixNTV
+#EXTINF:-1 group-title="Казахтелеком",КИНОПРЕМЬЕРА HD
+http://147.30.217.23:5555/play/kinopremieraHD
+#EXTINF:-1 group-title="Казахтелеком",КИНОСВИДАНИЕ
+http://147.30.217.23:5555/play/kinosvidanie
+#EXTINF:-1 group-title="Казахтелеком",КИНОСЕМЬЯ
+http://147.30.217.23:5555/play/kinosemiyaNTV
+#EXTINF:-1 group-title="Казахтелеком",КИНО ТВ
+http://147.30.217.23:5555/play/a10b
+#EXTINF:-1 group-title="Казахтелеком",КИНОУЖАС
+http://147.30.217.23:5555/play/kinouzhasNTV
+#EXTINF:-1 group-title="Казахтелеком",КИНОХИТ
+http://147.30.217.23:5555/play/kinohitNTV
+#EXTINF:-1 group-title="Казахтелеком",Комедия
+http://147.30.217.23:5555/play/komediyaTV
+#EXTINF:-1 group-title="Казахтелеком",МУЖСКОЕ КИНО
+http://147.30.217.23:5555/play/MENkinoNTV
+#EXTINF:-1 group-title="Казахтелеком",Мужской
+http://147.30.217.23:5555/play/a0si
+#EXTINF:-1 group-title="Казахтелеком",Наше новое кино
+http://147.30.217.23:5555/play/nashe-new-kino
+#EXTINF:-1 group-title="Казахтелеком",Конный мир
+http://147.30.217.23:5555/play/a0rd
+#EXTINF:-1 group-title="Казахтелеком",Кто есть кто
+http://147.30.217.23:5555/play/a0vt
+#EXTINF:-1 group-title="Казахтелеком",Кухня ТВ
+http://147.30.217.23:5555/play/a0vu
+#EXTINF:-1 group-title="Казахтелеком",Мир
+http://147.30.217.23:5555/play/mir
+#EXTINF:-1 group-title="Казахтелеком",Мир 24
+http://147.30.217.23:5555/play/mir24
+#EXTINF:-1 group-title="Казахтелеком",Мир Белогорья
+http://147.30.217.23:5555/play/a0lf
+#EXTINF:-1 group-title="Казахтелеком",Мир сериала
+http://147.30.217.23:5555/play/mir-seriala
+#EXTINF:-1 group-title="Казахтелеком",Мир Увлечений
+http://147.30.217.23:5555/play/a0u7
+#EXTINF:-1 group-title="Казахтелеком",Москва 24
+http://147.30.217.23:5555/play/moskva24
+#EXTINF:-1 group-title="Казахтелеком",Москва Доверие
+http://147.30.217.23:5555/play/a0zq
+#EXTINF:-1 group-title="Казахтелеком",Мосфильм. Золотая Коллекция
+http://147.30.217.23:5555/play/a0zf
+#EXTINF:-1 group-title="Казахтелеком",Kinojam
+http://147.30.217.23:5555/play/kinoJam1
+#EXTINF:-1 group-title="Казахтелеком",НВВ
+http://147.30.217.23:5555/play/nvv
+#EXTINF:-1 group-title="Казахтелеком",НИК
+http://147.30.217.23:5555/play/a0y7
+#EXTINF:-1 group-title="Казахтелеком",Ностальгия
+http://147.30.217.23:5555/play/a0lg
+#EXTINF:-1 group-title="Казахтелеком",НСТ
+http://147.30.217.23:5555/play/a10i
+#EXTINF:-1 group-title="Казахтелеком",НСТВ
+http://147.30.217.23:5555/play/nstv
+#EXTINF:-1 group-title="Казахтелеком",ОТР
+http://147.30.217.23:5555/play/otv
+#EXTINF:-1 group-title="Казахтелеком",Первый Вегетарианский
+http://147.30.217.23:5555/play/a0t9
+#EXTINF:-1 group-title="Казахтелеком",Победа
+http://147.30.217.23:5555/play/pobeda
+#EXTINF:-1 group-title="Казахтелеком",Пятница
+http://147.30.217.23:5555/play/pyatnica
+#EXTINF:-1 group-title="Казахтелеком",Пятый канал +2
+http://147.30.217.23:5555/play/a0yt
+#EXTINF:-1 group-title="Казахтелеком",РБК
+http://147.30.217.23:5555/play/rbk
+#EXTINF:-1 group-title="Казахтелеком",Родное кино
+http://147.30.217.23:5555/play/rodnoeKino
+#EXTINF:-1 group-title="Казахтелеком",Русский бестселлер
+http://147.30.217.23:5555/play/a0zu
+#EXTINF:-1 group-title="Казахтелеком",Русский детектив
+http://147.30.217.23:5555/play/a0zj
+#EXTINF:-1 group-title="Казахтелеком",Русский иллюзион
+http://147.30.217.23:5555/play/Russkiy-ilusion
+#EXTINF:-1 group-title="Казахтелеком",Русский роман
+http://147.30.217.23:5555/play/a0zx
+#EXTINF:-1 group-title="Казахтелеком",САПФИР HD
+http://147.30.217.23:5555/play/kinoSaphireNTV
+#EXTINF:-1 group-title="Казахтелеком",Сарафан
+http://147.30.217.23:5555/play/a0zs
+#EXTINF:-1 group-title="Казахтелеком",Синема
+http://147.30.217.23:5555/play/cinema
+#EXTINF:-1 group-title="Казахтелеком",Славянскiй МIРЪ
+http://147.30.217.23:5555/play/a0ua
+#EXTINF:-1 group-title="Казахтелеком",Союз
+http://147.30.217.23:5555/play/a0js
+#EXTINF:-1 group-title="Казахтелеком",Спас
+http://147.30.217.23:5555/play/a0ul
+#EXTINF:-1 group-title="Казахтелеком",Супер ТВ
+http://147.30.217.23:5555/play/strana-super
+#EXTINF:-1 group-title="Казахтелеком",СТС
+http://147.30.217.23:5555/play/sts
+#EXTINF:-1 group-title="Казахтелеком",СТС (+2)
+http://147.30.217.23:5555/play/sts(2)
+#EXTINF:-1 group-title="Казахтелеком",СТС (+4)
+http://147.30.217.23:5555/play/sts(4)
+#EXTINF:-1 group-title="Казахтелеком",СТС HD
+http://147.30.217.23:5555/play/stsHD
+#EXTINF:-1 group-title="Казахтелеком",СТС Love
+http://147.30.217.23:5555/play/stsLove
+#EXTINF:-1 group-title="Казахтелеком",Тайны Галактики
+http://147.30.217.23:5555/play/a0sh
+#EXTINF:-1 group-title="Казахтелеком",ТВ3
+http://147.30.217.23:5555/play/tv3
+#EXTINF:-1 group-title="Казахтелеком",ТВЦ
+http://147.30.217.23:5555/play/tvc
+#EXTINF:-1 group-title="Казахтелеком",ТВЦ +2
+http://147.30.217.23:5555/play/a0yr
+#EXTINF:-1 group-title="Казахтелеком",Точка отрыва
+http://147.30.217.23:5555/play/a0rc
+#EXTINF:-1 group-title="Казахтелеком",Усадьба-ТВ
+http://147.30.217.23:5555/play/a0w8
+#EXTINF:-1 group-title="Казахтелеком",Че
+http://147.30.217.23:5555/play/che-tv
+#EXTINF:-1 group-title="Казахтелеком",Шаян ТВ
+http://147.30.217.23:5555/play/shayanTV
+#EXTINF:-1 group-title="Казахтелеком",Ю
+http://147.30.217.23:5555/play/u-tv
+#EXTINF:-1 group-title="Казахтелеком",СуперГерои
+http://147.30.217.23:5555/play/a0yw
+#EXTINF:-1 group-title="Казахтелеком",СТС Kids
+http://147.30.217.23:5555/play/stsKids
+#EXTINF:-1 group-title="Казахтелеком",Солнце
+http://147.30.217.23:5555/play/solnce
+#EXTINF:-1 group-title="Казахтелеком",Мульт
+http://147.30.217.23:5555/play/a0zh
+#EXTINF:-1 group-title="Казахтелеком",Мама
+http://147.30.217.23:5555/play/mama
+#EXTINF:-1 group-title="Казахтелеком",Лёва
+http://147.30.217.23:5555/play/Leva
+#EXTINF:-1 group-title="Казахтелеком",Карусель
+http://147.30.217.23:5555/play/karusel
+#EXTINF:-1 group-title="Казахтелеком",Детский
+http://147.30.217.23:5555/play/detskiy
+#EXTINF:-1 group-title="Казахтелеком",Детский Мир
+http://147.30.217.23:5555/play/detskiyMir
+#EXTINF:-1 group-title="Казахтелеком",В гостях у сказки
+http://147.30.217.23:5555/play/a0zy
+#EXTINF:-1 group-title="Казахтелеком",TiJi
+http://147.30.217.23:5555/play/tiJi
+#EXTINF:-1 group-title="Казахтелеком",Gulli Girl
+http://147.30.217.23:5555/play/guliGirl
+#EXTINF:-1 group-title="Казахтелеком",Bolt
+http://147.30.217.23:5555/play/bolt
+#EXTINF:-1 group-title="Казахтелеком",Ani
+http://147.30.217.23:5555/play/ani
+#EXTINF:-1 group-title="Казахтелеком",Da Vinci
+http://147.30.217.23:5555/play/a0xn
+#EXTINF:-1 group-title="Казахтелеком",МультиМузыка
+http://147.30.217.23:5555/play/multiMusik
+#EXTINF:-1 group-title="Казахтелеком",ТНТ Music
+http://147.30.217.23:5555/play/tnt-music
+#EXTINF:-1 group-title="Казахтелеком",Шансон ТВ
+http://147.30.217.23:5555/play/shanson
+#EXTINF:-1 group-title="Казахтелеком",Ля-минор ТВ
+http://147.30.217.23:5555/play/liminor
+#EXTINF:-1 group-title="Казахтелеком",RU.TV
+http://147.30.217.23:5555/play/rutv
+#EXTINF:-1 group-title="Казахтелеком",O2TV
+http://147.30.217.23:5555/play/o2tv
+#EXTINF:-1 group-title="Казахтелеком",Mezzo
+http://147.30.217.23:5555/play/a10z
+#EXTINF:-1 group-title="Казахтелеком",iConcerts HD
+http://147.30.217.23:5555/play/Iconcert111111
+#EXTINF:-1 group-title="Казахтелеком",МузТВ
+http://147.30.217.23:5555/play/muztv
+#EXTINF:-1 group-title="Казахтелеком",Европа Плюс ТВ
+http://147.30.217.23:5555/play/a10l
+#EXTINF:-1 group-title="Казахтелеком",BRIDGE TV HD
+http://147.30.217.23:5555/play/bridge-delux
+#EXTINF:-1 group-title="Казахтелеком",BRIDGE TV TV
+http://147.30.217.23:5555/play/bridge
+#EXTINF:-1 group-title="Казахтелеком",BRIDGE TV Classic
+http://147.30.217.23:5555/play/bridgetv-classic
+#EXTINF:-1 group-title="Казахтелеком",BRIDGE TV Русский Хит
+http://147.30.217.23:5555/play/bridgetv-rus
+#EXTINF:-1 group-title="Казахтелеком",C Music
+http://147.30.217.23:5555/play/Cmusic
+#EXTINF:-1 group-title="Казахтелеком",Classic Music
+http://147.30.217.23:5555/play/a108
+#EXTINF:-1 group-title="Казахтелеком",Футбол
+http://147.30.217.23:5555/play/a0t1
+#EXTINF:-1 group-title="Казахтелеком",БОКС ТВ
+http://147.30.217.23:5555/play/a0zv
+#EXTINF:-1 group-title="Казахтелеком",Viasat Sport
+http://147.30.217.23:5555/play/a0kp
+#EXTINF:-1 group-title="Казахтелеком",Extreme Sports
+http://147.30.217.23:5555/play/a10v
+#EXTINF:-1 group-title="Казахтелеком",KHL
+http://147.30.217.23:5555/play/a0s9
+#EXTINF:-1 group-title="Казахтелеком",KHL Prime HD
+http://147.30.217.23:5555/play/a0sf
+#EXTINF:-1 group-title="Казахтелеком",Матч! Арена
+http://147.30.217.23:5555/play/a0l4
+#EXTINF:-1 group-title="Казахтелеком",Матч! Боец
+http://147.30.217.23:5555/play/a0kz
+#EXTINF:-1 group-title="Казахтелеком",Матч! Игра
+http://147.30.217.23:5555/play/a0l9
+#EXTINF:-1 group-title="Казахтелеком",МАТЧ ПРЕМЬЕР HD
+http://147.30.217.23:5555/play/a0wi
+#EXTINF:-1 group-title="Казахтелеком",Матч! Страна
+http://147.30.217.23:5555/play/a0l6
+#EXTINF:-1 group-title="Казахтелеком",Матч ТВ
+http://147.30.217.23:5555/play/a0kb
+#EXTINF:-1 group-title="Казахтелеком",Матч ТВ HD
+http://147.30.217.23:5555/play/a0ll
+#EXTINF:-1 group-title="Казахтелеком",Матч! Футбол 1
+http://147.30.217.23:5555/play/a0kt
+#EXTINF:-1 group-title="Казахтелеком",Матч! Футбол 2
+http://147.30.217.23:5555/play/a0ku
+#EXTINF:-1 group-title="Казахтелеком",Матч! Футбол 3
+http://147.30.217.23:5555/play/a0kv
+#EXTINF:-1 group-title="Казахтелеком",МАТЧ! БОЕЦ HD
+http://147.30.217.23:5555/play/a0wj
+#EXTINF:-1 group-title="Казахтелеком",МАТЧ! ПЛАНЕТА
+http://147.30.217.23:5555/play/a10m
+#EXTINF:-1 group-title="Казахтелеком",Матч! Премьер
+http://147.30.217.23:5555/play/a0k0
+#EXTINF:-1 group-title="Казахтелеком",Моторспорт ТВ
+http://147.30.217.23:5555/play/a0wd
+
+
+
+
+
 #EXTINF:-1 group-title="Persik",ПЕРВЫЙ КАНАЛ
 http://persik.by/stream/6566/346565/8.m3u8
 #EXTINF:-1 group-title="Persik",РОССИЯ 1
