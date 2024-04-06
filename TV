@@ -238,11 +238,11 @@ http://147.30.217.23:5555/play/tnt(4)
 http://147.30.217.23:5555/play/a0ys
 #EXTINF:-1 group-title="Казахтелеком",ТНТ HD
 http://147.30.217.23:5555/play/tnt-HD
-#EXTINF:-1 group-title="Казахтелеком",РЕН
+#EXTINF:-1 group-title="Казахтелеком",РЕН ТВ
 http://147.30.217.23:5555/play/rentv
-#EXTINF:-1 group-title="Казахтелеком",РЕН (+2)
+#EXTINF:-1 group-title="Казахтелеком",РЕН ТВ (+2)
 http://147.30.217.23:5555/play/rentv(2)
-#EXTINF:-1 group-title="Казахтелеком",РЕН (+4)
+#EXTINF:-1 group-title="Казахтелеком",РЕН ТВ (+4)
 http://147.30.217.23:5555/play/rentv(4)
 #EXTINF:-1 group-title="Казахтелеком",НТВ
 http://147.30.217.23:5555/play/ntv
@@ -342,7 +342,7 @@ http://147.30.217.23:5555/play/amedia-hitHD
 http://147.30.217.23:5555/play/a10h
 #EXTINF:-1 group-title="Казахтелеком",Bollywood HD
 http://147.30.217.23:5555/play/bollywoodNTV
-#EXTINF:-1 group-title="Казахтелеком",CTC Love
+#EXTINF:-1 group-title="Казахтелеком",СТС Love
 http://147.30.217.23:5555/play/a0ze
 #EXTINF:-1 group-title="Казахтелеком",DocuBox
 http://147.30.217.23:5555/play/a0ur
@@ -350,7 +350,7 @@ http://147.30.217.23:5555/play/a0ur
 http://147.30.217.23:5555/play/a0zw
 #EXTINF:-1 group-title="Казахтелеком",FAN
 http://147.30.217.23:5555/play/a0zd
-#EXTINF:-1 group-title="Казахтелеком",Fashion HD
+#EXTINF:-1 group-title="Казахтелеком",Fashion TV HD
 http://147.30.217.23:5555/play/a0sq
 #EXTINF:-1 group-title="Казахтелеком",FastnfunBox
 http://147.30.217.23:5555/play/a0uu
@@ -410,7 +410,7 @@ http://147.30.217.23:5555/play/a0le
 http://147.30.217.23:5555/play/a0w4
 #EXTINF:-1 group-title="Казахтелеком",БелРос
 http://147.30.217.23:5555/play/a0tz
-#EXTINF:-1 group-title="Казахтелеком",Ваш Успех
+#EXTINF:-1 group-title="Казахтелеком",Успех
 http://147.30.217.23:5555/play/a0ud
 #EXTINF:-1 group-title="Казахтелеком",Восток ТВ
 http://147.30.217.23:5555/play/a0ro
@@ -450,8 +450,6 @@ http://147.30.217.23:5555/play/a0r4
 http://147.30.217.23:5555/play/izvestiya
 #EXTINF:-1 group-title="Казахтелеком",Иллюзион+
 http://147.30.217.23:5555/play/a107
-#EXTINF:-1 group-title="Казахтелеком",ИНДИЙСКОЕ КИНО
-http://147.30.217.23:5555/play/indian-kino-ntv
 #EXTINF:-1 group-title="Казахтелеком",Индия
 http://147.30.217.23:5555/play/a10p
 #EXTINF:-1 group-title="Казахтелеком",Катунь 24
@@ -468,6 +466,8 @@ http://147.30.217.23:5555/play/kino-bez-granic
 http://147.30.217.23:5555/play/kinotv(4)
 #EXTINF:-1 group-title="Казахтелеком",Кино ТВ HD
 http://147.30.217.23:5555/play/KinotvHD
+#EXTINF:-1 group-title="Казахтелеком",ИНДИЙСКОЕ КИНО
+http://147.30.217.23:5555/play/indian-kino-ntv
 #EXTINF:-1 group-title="Казахтелеком",КИНОКОМЕДИЯ
 http://147.30.217.23:5555/play/kinocomediyaNTV
 #EXTINF:-1 group-title="Казахтелеком",КИНОМИКС
@@ -476,6 +476,8 @@ http://147.30.217.23:5555/play/kinomixNTV
 http://147.30.217.23:5555/play/kinopremieraHD
 #EXTINF:-1 group-title="Казахтелеком",КИНОСВИДАНИЕ
 http://147.30.217.23:5555/play/kinosvidanie
+#EXTINF:-1 group-title="Казахтелеком",Родное кино
+http://147.30.217.23:5555/play/rodnoeKino
 #EXTINF:-1 group-title="Казахтелеком",КИНОСЕМЬЯ
 http://147.30.217.23:5555/play/kinosemiyaNTV
 #EXTINF:-1 group-title="Казахтелеком",КИНО ТВ
@@ -486,12 +488,12 @@ http://147.30.217.23:5555/play/kinouzhasNTV
 http://147.30.217.23:5555/play/kinohitNTV
 #EXTINF:-1 group-title="Казахтелеком",Комедия
 http://147.30.217.23:5555/play/komediyaTV
+#EXTINF:-1 group-title="Казахтелеком",Наше новое кино
+http://147.30.217.23:5555/play/nashe-new-kino
 #EXTINF:-1 group-title="Казахтелеком",МУЖСКОЕ КИНО
 http://147.30.217.23:5555/play/MENkinoNTV
 #EXTINF:-1 group-title="Казахтелеком",Мужской
 http://147.30.217.23:5555/play/a0si
-#EXTINF:-1 group-title="Казахтелеком",Наше новое кино
-http://147.30.217.23:5555/play/nashe-new-kino
 #EXTINF:-1 group-title="Казахтелеком",Конный мир
 http://147.30.217.23:5555/play/a0rd
 #EXTINF:-1 group-title="Казахтелеком",Кто есть кто
@@ -514,7 +516,7 @@ http://147.30.217.23:5555/play/moskva24
 http://147.30.217.23:5555/play/a0zq
 #EXTINF:-1 group-title="Казахтелеком",Мосфильм. Золотая Коллекция
 http://147.30.217.23:5555/play/a0zf
-#EXTINF:-1 group-title="Казахтелеком",Kinojam
+#EXTINF:-1 group-title="Казахтелеком",Kinojam 1
 http://147.30.217.23:5555/play/kinoJam1
 #EXTINF:-1 group-title="Казахтелеком",НВВ
 http://147.30.217.23:5555/play/nvv
@@ -524,8 +526,6 @@ http://147.30.217.23:5555/play/a0y7
 http://147.30.217.23:5555/play/a0lg
 #EXTINF:-1 group-title="Казахтелеком",НСТ
 http://147.30.217.23:5555/play/a10i
-#EXTINF:-1 group-title="Казахтелеком",НСТВ
-http://147.30.217.23:5555/play/nstv
 #EXTINF:-1 group-title="Казахтелеком",ОТР
 http://147.30.217.23:5555/play/otv
 #EXTINF:-1 group-title="Казахтелеком",Первый Вегетарианский
@@ -538,8 +538,6 @@ http://147.30.217.23:5555/play/pyatnica
 http://147.30.217.23:5555/play/a0yt
 #EXTINF:-1 group-title="Казахтелеком",РБК
 http://147.30.217.23:5555/play/rbk
-#EXTINF:-1 group-title="Казахтелеком",Родное кино
-http://147.30.217.23:5555/play/rodnoeKino
 #EXTINF:-1 group-title="Казахтелеком",Русский бестселлер
 http://147.30.217.23:5555/play/a0zu
 #EXTINF:-1 group-title="Казахтелеком",Русский детектив
@@ -560,7 +558,7 @@ http://147.30.217.23:5555/play/a0ua
 http://147.30.217.23:5555/play/a0js
 #EXTINF:-1 group-title="Казахтелеком",Спас
 http://147.30.217.23:5555/play/a0ul
-#EXTINF:-1 group-title="Казахтелеком",Супер ТВ
+#EXTINF:-1 group-title="Казахтелеком",Суббота
 http://147.30.217.23:5555/play/strana-super
 #EXTINF:-1 group-title="Казахтелеком",СТС
 http://147.30.217.23:5555/play/sts
@@ -582,7 +580,7 @@ http://147.30.217.23:5555/play/tvc
 http://147.30.217.23:5555/play/a0yr
 #EXTINF:-1 group-title="Казахтелеком",Точка отрыва
 http://147.30.217.23:5555/play/a0rc
-#EXTINF:-1 group-title="Казахтелеком",Усадьба-ТВ
+#EXTINF:-1 group-title="Казахтелеком",Усадьба
 http://147.30.217.23:5555/play/a0w8
 #EXTINF:-1 group-title="Казахтелеком",Че
 http://147.30.217.23:5555/play/che-tv
@@ -640,7 +638,7 @@ http://147.30.217.23:5555/play/Iconcert111111
 http://147.30.217.23:5555/play/muztv
 #EXTINF:-1 group-title="Казахтелеком",Европа Плюс ТВ
 http://147.30.217.23:5555/play/a10l
-#EXTINF:-1 group-title="Казахтелеком",BRIDGE TV HD
+#EXTINF:-1 group-title="Казахтелеком",BRIDGE HD
 http://147.30.217.23:5555/play/bridge-delux
 #EXTINF:-1 group-title="Казахтелеком",BRIDGE TV TV
 http://147.30.217.23:5555/play/bridge
@@ -690,8 +688,7 @@ http://147.30.217.23:5555/play/a0wj
 http://147.30.217.23:5555/play/a10m
 #EXTINF:-1 group-title="Казахтелеком",Матч! Премьер
 http://147.30.217.23:5555/play/a0k0
-#EXTINF:-1 group-title="Казахтелеком",Моторспорт ТВ
-http://147.30.217.23:5555/play/a0wd
+
 
 
 
