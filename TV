@@ -1747,7 +1747,7 @@ http://88.135.128.20:7272/PK41HvJyzlbR8XZ
 http://88.135.128.20:7272/07pqiSOeAdHpghx
 #EXTINF:-1 group-title="PRONETS",Star cinema
 http://88.135.128.20:7272/szWljUvHlTAKXVa
-#EXTINF:-1 group-title="PRONETS",FilmzoneLAV
+#EXTINF:-1 group-title="PRONETS" tvg-id="filmzone-lv",Filmzone LAV
 http://88.135.128.20:7272/ko7BKj9NV0ZCX2C
 #EXTINF:-1 group-title="PRONETS",Kino 1 HD
 http://88.135.128.20:7272/i0yRlKi4YlfGtF6
@@ -1759,9 +1759,17 @@ http://88.135.128.20:7272/Hdyt7wbXlSuwOpq
 http://88.135.128.20:7272/Tujrl3B6ZZcnOYY
 #EXTINF:-1 group-title="PRONETS",1+2
 http://88.135.128.20:7272/KfbeysdY6Fva3sW
+#EXTINF:-1 group-title="PRONETS",TV6 HD LV
+http://88.135.128.20:7272/bb5CYNDsgMfWvfV
+#EXTINF:-1 group-title="PRONETS",LTV1 LV
+http://88.135.128.20:7272/tPAkF4jBwx4gvGi
 #EXTINF:-1 group-title="PRONETS",LTV7 HD LV
 http://88.135.128.20:7272/V7TDZTlhBTRzVf9
-#EXTINF:-1 group-title="PRONETS",Duo7 HD LV
+#EXTINF:-1 group-title="PRONETS",DUO3 HD LV
+http://88.135.128.20:7272/FSvh0OsSPGQldO3
+#EXTINF:-1 group-title="PRONETS",DUO6 HD LV
+http://88.135.128.20:7272/0LR5mfb5OCeHPoD
+#EXTINF:-1 group-title="PRONETS" tvg-id="duo7lv",Duo7 HD LV
 http://88.135.128.20:7272/OidghvyF6N7KlSd
 #EXTINF:-1 group-title="PRONETS",Super Baltic
 http://88.135.128.20:7272/OkcbfGtsHx1g4Vs
@@ -1775,7 +1783,7 @@ http://88.135.128.20:7272/5RqMvVnGzdoBQbf
 http://88.135.128.20:7272/CGGe9lr8Dx9PZy1
 #EXTINF:-1 group-title="PRONETS",ATV
 http://88.135.128.20:7272/vmaqlWglY371sbY
-#EXTINF:-1 group-title="PRONETS",tvg-id="super-plus" ,Super+
+#EXTINF:-1 group-title="PRONETS" tvg-id="super-plus" ,Super+
 http://88.135.128.20:7272/JkfGhb36Cvs7Fgz
 #EXTINF:-1 group-title="PRONETS",8TV
 http://88.135.128.20:7272/kJd8eBVsywE41mz
@@ -1785,14 +1793,10 @@ http://88.135.128.20:7272/AcKVE6YprpwA0OJ
 http://88.135.128.20:7272/JS7lUbMstASMl0r
 #EXTINF:-1 group-title="PRONETS",S.TV
 http://88.135.128.20:7272/uWetVcX2Ui9a75M
-#EXTINF:-1 group-title="PRONETS",LTV1 LV
-http://88.135.128.20:7272/tPAkF4jBwx4gvGi
 #EXTINF:-1 group-title="PRONETS",TV3 Mini HD LV
 http://88.135.128.20:7272/VscUdphoPXRnGFi
 #EXTINF:-1 group-title="PRONETS",Настоящее время
 http://88.135.128.20:7272/J8BymSQSWStHrzm
-#EXTINF:-1 group-title="PRONETS",TV6 HD LV
-http://88.135.128.20:7272/bb5CYNDsgMfWvfV
 #EXTINF:-1 group-title="PRONETS",360 TV HD LV
 http://88.135.128.20:7272/twf63Pir8Vtwa5q
 #EXTINF:-1 group-title="PRONETS",TV3 Life HD LV
@@ -1803,16 +1807,8 @@ http://88.135.128.20:7272/eRtafx5E4P0z16g
 http://88.135.128.20:7272/LqlrRf78B9OzD2B
 #EXTINF:-1 group-title="PRONETS",Re:TV
 http://88.135.128.20:7272/7goFKoxyCpLtt81
-#EXTINF:-1 group-title="PRONETS",Duo6 LAV SD
-http://88.135.128.20:7272/0LR5mfb5OCeHPoD
-#EXTINF:-1 group-title="PRONETS",Eurosport 2 HD
-http://88.135.128.20:7272/4TViUcJR91U6Lzr
-#EXTINF:-1 group-title="PRONETS",qsport HD
-http://88.135.128.20:7272/bFlmfsIl2ohurGj
 #EXTINF:-1 group-title="PRONETS",Euronews Russia
 http://88.135.128.20:7272/D2ZXkMDowMdakQy
-#EXTINF:-1 group-title="PRONETS",DUO3 HD LV
-http://88.135.128.20:7272/FSvh0OsSPGQldO3
 #EXTINF:-1 group-title="PRONETS",Детский мир
 http://88.135.128.20:7272/QprBifEqIqS3hjD
 #EXTINF:-1 group-title="PRONETS",Nick Jr
@@ -1821,7 +1817,7 @@ http://88.135.128.20:7272/Jke5tdvCxp2Yhs6
 http://88.135.128.20:7272/DL3JGiEPHMCY4vy
 #EXTINF:-1 group-title="PRONETS",Bolt
 http://88.135.128.20:7272/6B1DxxB8sXUqpZM
-#EXTINF:-1 group-title="PRONETS",StarFamily HD
+#EXTINF:-1 group-title="PRONETS",Star Family HD
 http://88.135.128.20:7272/MTsnTXg1kReNwSf
 #EXTINF:-1 group-title="PRONETS",FREEДОМ UATV
 http://88.135.128.20:7272/zf4x08OAlX3ekjA
@@ -1829,6 +1825,10 @@ http://88.135.128.20:7272/zf4x08OAlX3ekjA
 http://88.135.128.20:7272/Wetd63YgcVe23Jk
 #EXTINF:-1 group-title="PRONETS",Q Sport
 http://88.135.128.20:7272/ipKJnd6cVw1Nu7a
+#EXTINF:-1 group-title="PRONETS",qsport HD
+http://88.135.128.20:7272/bFlmfsIl2ohurGj
+#EXTINF:-1 group-title="PRONETS",Eurosport 2 HD
+http://88.135.128.20:7272/4TViUcJR91U6Lzr
 
 
 
