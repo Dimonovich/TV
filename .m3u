@@ -112,13 +112,6 @@ http://95.67.12.82:9069
 #EXTINF:-1 ,Ералаш
 https://ipv4.bozztv.com/dvrfl07/ushba8/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,CineMan MiniSeries
-http://95.216.6.244/CineMan_MiniSeries/index.m3u8
-#EXTINF:-1,CineMan Лесник
-http://95.216.6.244/CineMan_lesnik/index.m3u8
-#EXTINF:-1,CineMan Симпсоны
-http://95.216.6.244/CineMan_Simpson/index.m3u8
-
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
 https://bkm.beetv.kz/btv/live/hls/000006365.m3u8
 
@@ -339,7 +332,7 @@ http://185.37.150.46:8092/KHL_HD/index.m3u8
 https://bkm.beetv.kz/btv/live/hls/000000135.m3u8
 
 #EXTINF:-1 ,Конный мир HD
-http://cdn-01.bonus-tv.ru/konnyimir/index.m3u8
+http://176.113.48.221:8986/145
 
 #EXTINF:-1 ,IMPACT! Wrestling
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
