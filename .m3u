@@ -155,6 +155,53 @@ http://195.9.195.3:8080/hls/202127.m3u8
 #EXTINF:-1 ,Кошмар HD
 http://195.9.195.3:8080/hls/204709.m3u8
 
+#EXTINF:-1 ,Prokop TV Detektiv HD  
+http://194.26.229.213/Prokop-TV-Detektiv-HD/video.m3u8 
+#EXTINF:-1 ,Prokop TV Kids HD  
+http://194.26.229.213/Prokop-TV-Kids-HD/video.m3u8 
+#EXTINF:-1 ,Prokop-TV-Масяня  
+http://194.26.229.213/Prokop-TV-masyana/video.m3u8 
+#EXTINF:-1 ,Prokop TV Hip Hop  
+http://194.26.229.213/Prokop-TV-Hip-Hop/video.m3u8 
+#EXTINF:-1 ,Prokop-TV-Сказки СССР  
+http://194.26.229.213/Prokop-TV-skazki-ussr/video.m3u8 
+#EXTINF:-1 ,Prokop TV Show HD  
+http://194.26.229.213/Prokop-TV-Show-HD/video.m3u8 
+#EXTINF:-1 ,Prokop TV Serial HD  
+http://194.26.229.213/Prokop-TV-Serial-HD/video.m3u8 
+#EXTINF:-1 ,Prokop TV HD UA  
+http://194.26.229.213/Prokop-TV-HD-UA/video.m3u8 
+#EXTINF:-1 ,Prokop TV Criminal HD  
+http://194.26.229.213/Prokop-TV-Criminal-HD/video.m3u8 
+#EXTINF:-1 ,Prokop TV Cinema 4K  
+http://194.26.229.213/Prokop-TV-Cinema-4K/video.m3u8 
+#EXTINF:-1 ,Prokop TV Kung Fu  
+http://194.26.229.213/Prokop-TV-Kung-Fu/video.m3u8 
+#EXTINF:-1 ,Prokop TV Comedy HD  
+http://194.26.229.213/Prokop-TV-Comedy-HD/video.m3u8 
+#EXTINF:-1 ,Prokop TV Docu HD  
+http://194.26.229.213/Prokop-TV-Docu-HD/video.m3u8 
+#EXTINF:-1 ,Prokop TV Horror HD  
+http://194.26.229.213/Prokop-TV-Horror-HD/video.m3u8 
+#EXTINF:-1 ,Prokop TV Fantazy HD  
+http://194.26.229.213/Prokop-TV-Fantazy-HD/video.m3u8 
+#EXTINF:-1 ,Prokop TV The Simpsons HD UA  
+http://194.26.229.213/Prokop-TV-The-Simpsons-HD-UA/video.m3u8 
+#EXTINF:-1 ,Prokop TV Rock  
+http://194.26.229.213/Prokop-TV-Rock/video.m3u8 
+#EXTINF:-1 ,Prokop TV Netflix HD  
+http://194.26.229.213/Prokop-TV-Netflix-HD/video.m3u8 
+#EXTINF:-1 ,Prokop-TV-Вторая мировая  
+http://194.26.229.213/Prokop-TV-2-mirovaya/video.m3u8 
+#EXTINF:-1 ,Prokop TV 60 FPS  
+http://194.26.229.213/Prokop-TV-60-FPS/video.m3u8 
+#EXTINF:-1 ,Prokop TV History HD  
+http://194.26.229.213/Prokop-TV-History-HD/video.m3u8 
+#EXTINF:-1 ,Prokop TV New Films HD  
+http://194.26.229.213/Prokop-TV-New-Films-HD/video.m3u8 
+#EXTINF:-1 ,Prokop TV Music  
+http://194.26.229.213/Prokop-TV-Music/video.m3u8
+
 #EXTINF:-1 ,Дом кино
 https://bkm.beetv.kz/btv/live/hls/000000050.m3u8
 #EXTINF:-1 ,НСТ
@@ -171,7 +218,6 @@ https://strm.yandex.ru/kal/sovsec/sovsec0.m3u8
 
 #EXTINF:-1 ,2x2
 https://strm.yandex.ru/kal/2x2_belarus/2x2_belarus0.m3u8
-
 
 #EXTINF:-1 ,ОТР
 http://s18209.cdn.ngenix.net/hls/CH_R01_OTR/playlist.m3u8
