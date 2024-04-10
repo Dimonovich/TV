@@ -344,8 +344,14 @@ http://95.67.12.82:9067
 #EXTINF:-1 ,Матч HD
 http://31.148.6.9:10003/index.m3u8
 
+#EXTINF:-1 group-title="Lime (VPN)",Матч! Страна
+https://mhd116.iptv2022.com/p/yu3dnZ8lHEt-LQe8r2AJew,1712696409/streaming/nashsport/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:-1 group-title="Lime (VPN)",Матч! Игра
 https://mhd116.iptv2022.com/p/xEdrKaMVb9tATt2OKq20lA,1712696409/streaming/match_igra/324/1/tracks-v4a1/mono.m3u8
+#EXTINF:-1 group-title="Lime (VPN)",Матч! Арена
+https://mhd116.iptv2022.com/p/koH1pUJkLFEVhs9frqFmZQ,1712696409/streaming/match_arena/324/1/tracks-v4a1/mono.m3u8
+#EXTINF:-1 group-title="Lime (VPN)",Матч! Боец
+https://mhd116.iptv2022.com/p/N0W_WomE_-XcXF2VC3udDw,1712696409/streaming/boectv/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:-1 group-title="Lime (VPN)",Матч! Футбол 1 HD
 https://mhd116.iptv2022.com/p/Bg3YAuDwmWOwIY-U0_UvUA,1712696409/streaming/footbal1hd/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:-1 group-title="Lime (VPN)",Матч! Футбол 2 HD
@@ -366,7 +372,6 @@ https://mhd116.iptv2022.com/p/ZX0JBXrAejdpLMJsNicW0Q,1712696409/streaming/bokstv
 https://mhd116.iptv2022.com/p/b-cZeA92cZnL1K-5F0081A,1712696409/streaming/start/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:-1 group-title="Lime (VPN)",Старт Триумф
 https://mhd116.iptv2022.com/p/OmHW4QRRHt2A8DxiHNsUJw,1712696409/streaming/start-triumf/324/1/tracks-v2a1/mono.m3u8
-
 
 #EXTINF:-1 ,Удар HD
 https://bkm.beetv.kz/btv/live/hls/000007802.m3u8
