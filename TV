@@ -5065,6 +5065,65 @@ https://mhd116.iptv2022.com/p/bftyEd-KUYph1m_qyoNVhA,1713128426/streaming/rbk-pe
 
 
 
+
+
+#EXTINF:-1 group-title="Крэлком (VPN)",САПФИР 
+http://109.200.130.123:7536/play/a028 
+#EXTINF:-1 group-title="Крэлком (VPN)",Киномульт
+http://109.200.130.123:7536/play/a024 
+#EXTINF:-1 group-title="Крэлком (VPN)",FAN 
+http://109.200.130.123:7536/play/a02a 
+#EXTINF:-1 group-title="Крэлком (VPN)",Точка отрыва 
+http://109.200.130.123:7536/play/a022 
+#EXTINF:-1 group-title="Крэлком (VPN)",КИНОУЖАС 
+http://109.200.130.123:7536/play/a021 
+#EXTINF:-1 group-title="Крэлком (VPN)",ЖАРА 
+http://109.200.130.123:7536/play/a02v 
+#EXTINF:-1 group-title="Крэлком (VPN)",Дорама 
+http://109.200.130.123:7536/play/a02n 
+#EXTINF:-1 group-title="Крэлком (VPN)",История 
+http://109.200.130.123:7536/play/a025 
+#EXTINF:-1 group-title="Крэлком (VPN)",Hollywood 
+http://109.200.130.123:7536/play/a02g 
+#EXTINF:-1 group-title="Крэлком (VPN)",Extreme Sports 
+http://109.200.130.123:7536/play/a02p 
+#EXTINF:-1 group-title="Крэлком (VPN)",.black 
+http://109.200.130.123:7536/play/a02s 
+#EXTINF:-1 group-title="Крэлком (VPN)",THT MUSIC 
+http://109.200.130.123:7536/play/a02o 
+#EXTINF:-1 group-title="Крэлком (VPN)",Дом Кино 
+http://109.200.130.123:7536/play/a02d 
+#EXTINF:-1 group-title="Крэлком (VPN)",SHOT TV 
+http://109.200.130.123:7536/play/a02b 
+#EXTINF:-1 group-title="Крэлком (VPN)",В гостях у сказки 
+http://109.200.130.123:7536/play/a02m 
+#EXTINF:-1 group-title="Крэлком (VPN)",Танцуй! 
+http://109.200.130.123:7536/play/a02l 
+#EXTINF:-1 group-title="Крэлком (VPN)",ЕвроКино 
+http://109.200.130.123:7536/play/a020 
+#EXTINF:-1 group-title="Крэлком (VPN)",Big Planet 
+http://109.200.130.123:7536/play/a02j 
+#EXTINF:-1 group-title="Крэлком (VPN)",БОБЁР 
+http://109.200.130.123:7536/play/a02c 
+#EXTINF:-1 group-title="Крэлком (VPN)",KinoLiving 
+http://109.200.130.123:7536/play/a02k 
+#EXTINF:-1 group-title="Крэлком (VPN)",MCM Top 
+http://109.200.130.123:7536/play/a029 
+#EXTINF:-1 group-title="Крэлком (VPN)",КИНЕКО 
+http://109.200.130.123:7536/play/a027 
+#EXTINF:-1 group-title="Крэлком (VPN)",Моя стихия 
+http://109.200.130.123:7536/play/a02f 
+#EXTINF:-1 group-title="Крэлком (VPN)",TERRA 
+http://109.200.130.123:7536/play/a02i 
+#EXTINF:-1 group-title="Крэлком (VPN)",ПОБЕДА 
+http://109.200.130.123:7536/play/a02u 
+#EXTINF:-1 group-title="Крэлком (VPN)",Русский Иллюзион 
+http://109.200.130.123:7536/play/a023
+
+
+
+
+
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)" ,Первый канал HD +4
 http://api.peers.tv/timeshift/1kanal_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTMxNjU1NTMsImlhdCI6MTcxMzA3OTE1MywiY2lkIjo2LCJ1aWQiOjc2MjQzNDI4MiwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjI1NDEsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.Gln-0Lykg8DdAlkEbVUKduu0amHhOwXa5Xo4jmlUlWY&offset=10
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)" ,Первый канал +4
