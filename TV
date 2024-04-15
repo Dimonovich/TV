@@ -292,7 +292,7 @@ https://st1.uzdigital.tv/Nashe_novoe_kino/tracks-v1a1/mono.m3u8
 https://st1.uzdigital.tv/Bolajon/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="BRM-DATACENTER",MYDAY TV
 https://st1.uzdigital.tv/Myday/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="BRM-DATACENTER" ,Muz HD O'zbekiston
+#EXTINF:-1 group-title="BRM-DATACENTER",Muz HD O'zbekiston
 https://st1.uzdigital.tv/Muz_TV/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="BRM-DATACENTER",Dasturxon TV
 https://st1.uzdigital.tv/DasturxonTV/tracks-v2a1/mono.m3u8
@@ -300,6 +300,66 @@ https://st1.uzdigital.tv/DasturxonTV/tracks-v2a1/mono.m3u8
 https://st1.uzdigital.tv/Kinoteatr_HD/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="BRM-DATACENTER",Dunyo bo'ylab TV
 https://st1.uzdigital.tv/Dunyoboylab_HD/tracks-v2a1a2/mono.m3u8
+#EXTINF:-1 group-title="BRM-DATACENTER" ,O'zbekiston 24 TV
+https://st1.uzdigital.tv/Uzb24/tracks-v2a1a2/mono.m3u8
+#EXTINF:-1 group-title="BRM-DATACENTER" ,O'zbekiston TV
+https://st1.uzdigital.tv/Uzbekiston/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BRM-DATACENTER" ,Yoshlar TV
+https://st1.uzdigital.tv/YoshlarHD/tracks-v1a1a2/mono.m3u8
+#EXTINF:-1 group-title="BRM-DATACENTER" ,NAVO
+https://st1.uzdigital.tv/Navo/tracks-v1a1a2/mono.m3u8
+#EXTINF:-1 group-title="BRM-DATACENTER" ,Mahalla
+https://st1.uzdigital.tv/Mahalla/tracks-v1a1a2/mono.m3u8
+#EXTINF:-1 group-title="BRM-DATACENTER" ,Madaniyat va Ma'rifat TV
+https://st1.uzdigital.tv/Madaniyat_va_Marifat/tracks-v1a1a2/mono.m3u8
+#EXTINF:-1 group-title="BRM-DATACENTER" ,Foreign-Languages
+https://st1.uzdigital.tv/Foreign-Lang/tracks-v1a1a2/mono.m3u8
+#EXTINF:-1 group-title="BRM-DATACENTER" ,O'zbekiston Tarixi HD TV
+https://st1.uzdigital.tv/Uzbekiston-TarixiHD/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="BRM-DATACENTER" ,UzReport TV
+https://st1.uzdigital.tv/UzreportTV-HD/tracks-v2a1a2/mono.m3u8
+#EXTINF:-1 group-title="BRM-DATACENTER" ,Zo'r TV
+https://st1.uzdigital.tv/Zor_TVHD/tracks-v2a1a2/mono.m3u8
+#EXTINF:-1 group-title="BRM-DATACENTER" ,Milliy TV
+https://st1.uzdigital.tv/Milly_TVHD/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="BRM-DATACENTER" ,Sevimli TV
+https://st1.uzdigital.tv/SevimliTVHD/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="BRM-DATACENTER" ,MY5 TV
+https://st1.uzdigital.tv/Mening_YurtimHD/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="BRM-DATACENTER" ,Nurafshon TV
+https://st1.uzdigital.tv/Nurafshon_TV/tracks-v1a1a2/mono.m3u8
+#EXTINF:-1 group-title="BRM-DATACENTER" ,TOSHKENT
+https://st1.uzdigital.tv/Toshkent/tracks-v1a1a2/mono.m3u8
+#EXTINF:-1 group-title="BRM-DATACENTER" ,Fargona TV
+https://st1.uzdigital.tv/Fargona/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BRM-DATACENTER" ,Andijon TV
+https://st1.uzdigital.tv/Andijan/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BRM-DATACENTER" ,Namangan TV
+https://st1.uzdigital.tv/Namangan/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BRM-DATACENTER" ,Buxoro TV
+https://st1.uzdigital.tv/Bukhara/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BRM-DATACENTER" ,Jizzax TV
+https://st1.uzdigital.tv/Jizax/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BRM-DATACENTER" ,Nukus TV
+https://st1.uzdigital.tv/Nukus/tracks-v1a1/mono.m3
+#EXTINF:-1 group-title="BRM-DATACENTER" ,Samarqand TV
+https://st1.uzdigital.tv/Samarqand/tracks-v1a1/mono.m3
+#EXTINF:-1 group-title="BRM-DATACENTER" ,Navoiy TV
+https://st1.uzdigital.tv/Navoi/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BRM-DATACENTER" ,Qashqadaryo TV
+https://st1.uzdigital.tv/Qashqadaryo/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BRM-DATACENTER" ,Sirdaryo TV
+https://st1.uzdigital.tv/Sirdaryo/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BRM-DATACENTER" ,Surxondaryo TV
+https://st1.uzdigital.tv/Surxandaryo/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BRM-DATACENTER" ,Xorazm TV
+https://st1.uzdigital.tv/Xorazm/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BRM-DATACENTER" ,TTV Musiqa
+https://st1.uzdigital.tv/TTV_Musiqa/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BRM-DATACENTER" ,LUX TV 
+https://st1.uzdigital.tv/LuxTV/video.m3u8
+#EXTINF:-1 group-title="BRM-DATACENTER" ,HIDOYAT SARI TV 
+https://st1.uzdigital.tv/Hidoyat/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="BRM-DATACENTER",Ретро
 https://st1.uzdigital.tv/Retro/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="BRM-DATACENTER",Русский Детектив
@@ -354,7 +414,6 @@ https://st1.uzdigital.tv/Viasat_Sport/tracks-v1a1/mono.m3u8
 https://st1.uzdigital.tv/Eurosport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="BRM-DATACENTER",Sport TV
 https://st1.uzdigital.tv/Sport-UZ/tracks-v1a1/mono.m3u8
-
 
 
 
