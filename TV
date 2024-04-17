@@ -6039,6 +6039,66 @@ https://mobdrm.mediavitrina.ru:443/hls-livec1/streams/vitrina-hls/yu/tracks-v3a1
 
 
 
+
+
+
+#EXTINF:-1 group-title="АРЗ-6  (VPN 🇷🇺)", Первый канал
+http://45.15.43.12:80/perviy/video.m3u8?token=test
+#EXTINF:-1 group-title="АРЗ-6  (VPN 🇷🇺)", РТР Планета
+http://45.15.43.12:80/rtrplaneta/video.m3u8?token=test
+#EXTINF:-1 group-title="АРЗ-6  (VPN 🇷🇺)", ТНТ
+http://45.15.43.12:80/tnt/video.m3u8?token=test
+#EXTINF:-1 group-title="АРЗ-6  (VPN 🇷🇺)", Россия 1
+http://45.15.43.12:80/rossiya1/video.m3u8?token=test
+#EXTINF:-1 group-title="АРЗ-6  (VPN 🇷🇺)", РЕН ТВ
+http://45.15.43.12:80/rentv/video.m3u8?token=test
+#EXTINF:-1 group-title="АРЗ-6  (VPN 🇷🇺)", НТВ
+http://45.15.43.12:80/ntvplus/video.m3u8?token=test
+#EXTINF:-1 group-title="АРЗ-6  (VPN 🇷🇺)", ТНТ4
+http://45.15.43.12:80/tntcomedy/video.m3u8?token=test
+#EXTINF:-1 group-title="АРЗ-6  (VPN 🇷🇺)", НТВ Сериал
+http://45.15.43.12:80/paramountchannel/video.m3u8?token=test
+#EXTINF:-1 group-title="АРЗ-6  (VPN 🇷🇺)", Viasat explore
+http://45.15.43.12:80/viasatexplorer/video.m3u8?token=test
+#EXTINF:-1 group-title="АРЗ-6  (VPN 🇷🇺)", Viasat history
+http://45.15.43.12:80/viasathistory/video.m3u8?token=test
+#EXTINF:-1 group-title="АРЗ-6  (VPN 🇷🇺)", Viasat nature
+http://45.15.43.12:80/viasatnature/video.m3u8?token=test
+#EXTINF:-1 group-title="АРЗ-6  (VPN 🇷🇺)", История
+http://45.15.43.12:80/istoriya/video.m3u8?token=test
+#EXTINF:-1 group-title="АРЗ-6  (VPN 🇷🇺)", TERRA
+http://45.15.43.12:80/nationalgeographic/video.m3u8?token=test
+#EXTINF:-1 group-title="АРЗ-6  (VPN 🇷🇺)", RTG TV
+http://45.15.43.12:80/rtg/video.m3u8?token=test
+#EXTINF:-1 group-title="АРЗ-6  (VPN 🇷🇺)", Наука
+http://45.15.43.12:80/nauka/video.m3u8?token=testt
+#EXTINF:-1 group-title="АРЗ-6  (VPN 🇷🇺)", TV XXI
+http://45.15.43.12:80/tv21/video.m3u8?token=test
+#EXTINF:-1 group-title="АРЗ-6  (VPN 🇷🇺)", Любимое Кино
+http://45.15.43.12:80/lubimoekino/video.m3u8?token=test
+#EXTINF:-1 group-title="АРЗ-6  (VPN 🇷🇺)", Мужское Кино
+http://45.15.43.12:80/mkino/video.m3u8?token=test
+#EXTINF:-1 group-title="АРЗ-6  (VPN 🇷🇺)", Еврокино
+http://45.15.43.12:80/eurokino/video.m3u8?token=test
+#EXTINF:-1 group-title="АРЗ-6  (VPN 🇷🇺)", ДОМ КИНО
+http://45.15.43.12:80/domkino/video.m3u8?token=test
+#EXTINF:-1 group-title="АРЗ-6  (VPN 🇷🇺)", Amedia 1
+http://45.15.43.12:80/amedia1/video.m3u8?token=test
+#EXTINF:-1 group-title="АРЗ-6  (VPN 🇷🇺)", Amedia 2
+http://45.15.43.12:80/amedia2/video.m3u8?token=test
+#EXTINF:-1 group-title="АРЗ-6  (VPN 🇷🇺)", Amedia Hit
+http://45.15.43.12:80/amediahit/video.m3u8?token=test
+#EXTINF:-1 group-title="АРЗ-6  (VPN 🇷🇺)", TV1000
+http://45.15.43.12:80/tv1000/video.m3u8?token=test
+#EXTINF:-1 group-title="АРЗ-6  (VPN 🇷🇺)", TV1000 Action
+http://45.15.43.12:80/tv1000action/video.m3u8?token=test
+#EXTINF:-1 group-title="АРЗ-6  (VPN 🇷🇺)", TV1000 Русское кино
+http://45.15.43.12:80/tv1000ruskoekino/video.m3u8?token=test
+#EXTINF:-1 group-title="АРЗ-6  (VPN 🇷🇺)", Киносемья
+http://45.15.43.12:80/kinosemya/video.m3u8?token=test
+#EXTINF:-1 group-title="АРЗ-6  (VPN 🇷🇺)", Киносвидание
+http://45.15.43.12:80/kinosvidanie/video.m3u8?token=test
+#EXTINF:-1 group-title="АРЗ-6  (VPN 🇷🇺)", Киномикс
 http://45.15.43.12:80/kinomiks/video.m3u8?token=test
 #EXTINF:-1 group-title="АРЗ-6  (VPN 🇷🇺)" ,Кинеко
 http://45.15.43.12:80/kineko/video.m3u8?token=test
