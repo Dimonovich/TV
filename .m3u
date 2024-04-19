@@ -64,7 +64,7 @@ https://strm.yandex.ru/kal/dialogi/dialogi0.m3u8
 #EXTINF:-1 ,История
 http://109.239.208.82:80/history/index.m3u8
 #EXTINF:-1 ,Animal Planet
-http://78.26.128.59:9876/play/286/index.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000216.m3u8
 
 #EXTINF:-1 ,Discovery Channel
 https://bkm.beetv.kz/btv/live/hls/000001496.m3u8
@@ -172,9 +172,6 @@ https://strm.yandex.ru/kal/sovsec/sovsec0.m3u8
 #EXTINF:-1 ,2x2
 https://strm.yandex.ru/kal/2x2_belarus/2x2_belarus0.m3u8
 
-#EXTINF:-1 ,Яснае ТВ HD
-https://kinescope.io/sGVmRnv8E5exJgkVXtAGyh/master.m3u8
-
 #EXTINF:-1 ,ОТР
 http://s18209.cdn.ngenix.net/hls/CH_R01_OTR/playlist.m3u8
 #EXTINF:-1 ,Пятый канал
@@ -190,8 +187,6 @@ http://s18209.cdn.ngenix.net/hls/CH_R02_PERETZ/playlist.m3u8
 #EXTINF:-1 ,Карусель
 http://s18209.cdn.ngenix.net/hls/CH_R01_KARUSEL/playlist.m3u8
 
-#EXTINF:-1 ,Online TV
-http://83.69.248.17:8080/OnlineTV/index.m3u8
 #EXTINF:-1 ,Online TV Buba
 http://onlinetv-sochi.ru:8080/Buba/index.m3u8
 
@@ -287,7 +282,7 @@ https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8
 
 #EXTINF:-1 ,Eurosport 1 HD
-http://78.26.128.59:9876/play/89/index.m3u8
+https://bkm.beetv.kz/btv/live/hls/000002478.m3u8
 #EXTINF:-1 ,Eurosport 2 HD
 https://bkm.beetv.kz/btv/live/hls/000002479.m3u8
 
@@ -303,7 +298,6 @@ http://95.67.12.82:9067
 
 #EXTINF:-1 ,Матч HD
 http://31.148.6.9:10003/index.m3u8
-
 
 #EXTINF:-1 group-title="Lime (VPN)",Матч! Страна
 https://mhd116.iptv2022.com/p/gHdsTeBFG9vPpo8yNcUj0w,1713560414/streaming/nashsport/324/1/tracks-v4a1/mono.m3u8
