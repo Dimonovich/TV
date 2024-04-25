@@ -464,8 +464,6 @@ http://193.201.98.10:5000/c109
 http://193.201.98.10:5000/c146
 #EXTINF:-1 group-title="ДВ-Ком",Animal Planet HD
 http://193.201.98.10:5000/c147
-#EXTINF:-1 group-title="ДВ-Ком",Discovery Science HD
-http://193.201.98.10:5000/c148
 #EXTINF:-1 group-title="ДВ-Ком",Investigation Discovery HD
 http://193.201.98.10:5000/c150
 #EXTINF:-1 group-title="ДВ-Ком",HD Life
@@ -777,8 +775,6 @@ http://91.207.115.228:5000/c109
 http://91.207.115.228:5000/c146
 #EXTINF:-1 group-title="ДВ-Ком_2 (VPN)",Animal Planet HD
 http://91.207.115.228:5000/c147
-#EXTINF:-1 group-title="ДВ-Ком_2 (VPN)",Discovery Science HD
-http://91.207.115.228:5000/c148
 #EXTINF:-1 group-title="ДВ-Ком_2 (VPN)",Investigation Discovery HD
 http://91.207.115.228:5000/c150
 #EXTINF:-1 group-title="ДВ-Ком_2 (VPN)",HD Life
@@ -999,38 +995,40 @@ http://91.207.115.228:5000/c70
 http://91.207.115.228:5000/c71
 #EXTINF:-1 group-title="ДВ-Ком_2 (VPN)",Da Vinci
 http://91.207.115.228:5000/c72
-#EXTINF:-1 group-title="ДВ-Ком_2 (VPN)",МАТЧ! HD
+#EXTINF:-1 group-title="Спорткомплекс 🏆",МАТЧ! HD
 http://91.207.115.228:5000/c101
-#EXTINF:-1 group-title="ДВ-Ком_2 (VPN)",Футбол
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Футбол
 http://91.207.115.228:5000/c102
-#EXTINF:-1 group-title="ДВ-Ком_2 (VPN)",Матч! Планета
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Планета
 http://91.207.115.228:5000/c156
-#EXTINF:-1 group-title="ДВ-Ком_2 (VPN)",МАТЧ! АРЕНА HD
+#EXTINF:-1 group-title="Спорткомплекс 🏆",МАТЧ! АРЕНА HD
 http://91.207.115.228:5000/c103
-#EXTINF:-1 group-title="ДВ-Ком_2 (VPN)",МАТЧ! ИГРА HD
+#EXTINF:-1 group-title="Спорткомплекс 🏆",МАТЧ! ИГРА HD
 http://91.207.115.228:5000/c104
-#EXTINF:-1 group-title="ДВ-Ком_2 (VPN)",МАТЧ ПРЕМЬЕР
+#EXTINF:-1 group-title="Спорткомплекс 🏆",МАТЧ ПРЕМЬЕР
 http://91.207.115.228:5000/c105
-#EXTINF:-1 group-title="ДВ-Ком_2 (VPN)",МАТЧ! СТРАНА HD
+#EXTINF:-1 group-title="Спорткомплекс 🏆",МАТЧ! СТРАНА HD
 http://91.207.115.228:5000/c106
-#EXTINF:-1 group-title="ДВ-Ком_2 (VPN)",МАТЧ! БОЕЦ
+#EXTINF:-1 group-title="Спорткомплекс 🏆",МАТЧ! БОЕЦ
 http://91.207.115.228:5000/c107
-#EXTINF:-1 group-title="ДВ-Ком_2 (VPN)",KHL
+#EXTINF:-1 group-title="Спорткомплекс 🏆",KHL
 http://91.207.115.228:5000/c108
-#EXTINF:-1 group-title="ДВ-Ком_2 (VPN)",Моторспорт ТВ
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Моторспорт ТВ
 http://91.207.115.228:5000/c111
-#EXTINF:-1 group-title="ДВ-Ком_2 (VPN)",Extreme Sports
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Extreme Sports
 http://91.207.115.228:5000/c112
-#EXTINF:-1 group-title="ДВ-Ком_2 (VPN)",МАТЧ! ФУТБОЛ 1 HD
+#EXTINF:-1 group-title="Спорткомплекс 🏆",МАТЧ! ФУТБОЛ 1 HD
 http://91.207.115.228:5000/c114
-#EXTINF:-1 group-title="ДВ-Ком_2 (VPN)",МАТЧ! ФУТБОЛ 2 HD
+#EXTINF:-1 group-title="Спорткомплекс 🏆",МАТЧ! ФУТБОЛ 2 HD
 http://91.207.115.228:5000/c115
-#EXTINF:-1 group-title="ДВ-Ком_2 (VPN)",МАТЧ! ФУТБОЛ 3 HD
+#EXTINF:-1 group-title="Спорткомплекс 🏆",МАТЧ! ФУТБОЛ 3 HD
 http://91.207.115.228:5000/c116
-#EXTINF:-1 group-title="ДВ-Ком_2 (VPN)",Eurosport 1 HD
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Eurosport 1 HD
 http://91.207.115.228:5000/c153
-#EXTINF:-1 group-title="ДВ-Ком_2 (VPN)",Eurosport 2 HD
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Eurosport 2 HD
 http://91.207.115.228:5000/c154
+#EXTINF:-1 group-title="Спорткомплекс 🏆",viju+ Sport
+http://91.207.115.228:5000/c113
 
 
 
