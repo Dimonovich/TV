@@ -17,12 +17,6 @@ http://194.26.229.213/intro/index.m3u8
 http://194.26.229.213/chdtv_ru_rock/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/MHNdgRXj/photo-2024-01-14-15-42-03.jpg",CHD-TV Rock
 http://194.26.229.213/chdtv_rock/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵"  tvg-logo="https://i.postimg.cc/mrB527vG/1.png" ,Sunset Space
-https://Stream.sunset-media.ru:443/Free/Free/9.m3u8
-#EXTINF:-1 group-title="TEST ⓵"  tvg-logo="https://i.postimg.cc/G2BNZb0B/1.png" ,Sunset Movie
-https://Stream.sunset-media.ru:443/Free/Free/8.m3u8
-#EXTINF:-1 group-title="TEST ⓵"  tvg-logo="https://i.postimg.cc/d0ZjF31K/1.png" ,Sunset Music
-https://Stream.sunset-media.ru:443/Free/Free/7.m3u8
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/RCgvJhdQ/image.png",СоюзМультфильм
 http://194.26.229.213/souzmultfilm/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/BvqS8HVV/1.png",Чип и Дейл
@@ -128,6 +122,12 @@ http://s18209.cdn.ngenix.net/hls/CH_R01_KARUSEL/playlist.m3u8
 http://s18209.cdn.ngenix.net/hls/CH_R03_U/playlist.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",Чехов ТВ/Продвижение
 http://s18209.cdn.ngenix.net/hls/CH_R01_CHEKHOVTV/variant.m3u8
+#EXTINF:-1 group-title="TEST (VPN)"  tvg-logo="https://i.postimg.cc/mrB527vG/1.png" ,Sunset Space
+https://Stream.sunset-media.ru:443/Free/Free/9.m3u8
+#EXTINF:-1 group-title="TEST (VPN)"  tvg-logo="https://i.postimg.cc/G2BNZb0B/1.png" ,Sunset Movie
+https://Stream.sunset-media.ru:443/Free/Free/8.m3u8
+#EXTINF:-1 group-title="TEST (VPN)"  tvg-logo="https://i.postimg.cc/d0ZjF31K/1.png" ,Sunset Music
+https://Stream.sunset-media.ru:443/Free/Free/7.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",Конный мир
 http://cdn-01.bonus-tv.ru/konnyimir/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",Тайна
