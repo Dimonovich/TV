@@ -60,6 +60,8 @@ https://strm.yandex.ru/kal/ohotnik_rybolov_belarus/ohotnik_rybolov_belarus0.m3u8
 #EXTINF:-1 ,Диалоги о рыбалке
 https://strm.yandex.ru/kal/dialogi/dialogi0.m3u8
 
+#EXTINF:-1,Sunset Space
+https://Stream.sunset-media.ru:443/Free/Free/9.m3u8
 
 #EXTINF:-1 ,История
 http://109.239.208.82:80/history/index.m3u8
@@ -147,6 +149,13 @@ https://strm.yandex.ru/kal/kinosemya_belarus/kinosemya_belarus0.m3u8
 https://strm.yandex.ru/kal/kinokomedia_belarus/kinokomedia_belarus0.m3u8
 #EXTINF:-1 ,Арсенал HD
 https://strm.yandex.ru/kal/arsenal_belarus/arsenal_belarus0.m3u8
+
+#EXTINF:-1,Sunset Movie
+https://Stream.sunset-media.ru:443/Free/Free/8.m3u8
+#EXTINF:-1,BACKUSTV Dark
+http://stream.backustv.ru/live/btv2/index.m3u8
+#EXTINF:-1,BACKUSTV Music
+http://stream.backustv.ru/live/btv3/index.m3u8
 
 #EXTINF:-1 ,Fantastica HD
 http://195.9.195.3:8080/hls/187241.m3u8
@@ -238,6 +247,9 @@ http://tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/playlist_hdlow.m3u8
 http://194.26.229.213/chdtv_ru_rock/index.m3u8
 #EXTINF:-1 ,CHD-TV Rock
 http://194.26.229.213/chdtv_rock/index.m3u8
+
+#EXTINF:-1 ,Sunset Music
+https://Stream.sunset-media.ru:443/Free/Free/7.m3u8
 
 #EXTINF:-1 ,Bridge TV
 https://strm.yandex.ru/kal/bridgetv/bridgetv0.m3u8
