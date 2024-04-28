@@ -156,10 +156,6 @@ http://185.46.48.18:80/disney/tracks-v1a1/mono.m3u8
 http://185.46.48.18:80/match/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://i.postimg.cc/HsvGnLG9/1.jpg",Dancehits 80
 http://dancehits80.denvs.ru:8080/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://i.postimg.cc/s2qT2Rr8/logo.png",Movify История
-https://void.greenhosting.ru/MovifyVesture_Mpeg4/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://i.postimg.cc/s2qT2Rr8/logo.png",Movify Сериал
-https://void.greenhosting.ru/MovifySerial_Mpeg4/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",TV1000 Русское кино
 http://194.143.148.28:8080/TV1000RuKino/mpegts
 #EXTINF:-1 group-title="TEST (VPN)" ,НТС Иркутск
