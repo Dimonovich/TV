@@ -6480,9 +6480,9 @@ https://mobdrm.mediavitrina.ru/hls-livecn2/streams/hls/Anekdot_TV/index_0.m3u8?c
 https://mobdrm.mediavitrina.ru:443/hls-livec1/streams/vitrina-hls/yu/tracks-v3a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.fDpp-HPwRPkttMre9Dog3_1IKe7viaFu-y2DKLzyleg.2HJvD1kfrK2LJ8CEbY3ujv6H6HCp3MyufSmtFKhZh-E.1715237968.ee8161368e0884c7a091dd606f14c926
 
 
-
-
-
+#EXTINF:-1 group-title="Триколор (VPN 🇷🇺)",ТНТ4
+http://46.8.29.51:2020/channel/4b9faec8/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
+#EXTINF:-1 group-title="Триколор (VPN 🇷🇺)",HD Life
 http://46.8.29.51:2020/channel/n26e8c18b/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
 #EXTINF:-1 group-title="Триколор (VPN 🇷🇺)",CGTN Русский
 http://46.8.29.51:2020/channel/n362f3ef/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
