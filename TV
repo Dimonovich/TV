@@ -496,15 +496,11 @@ http://212.0.211.102:9999/play/a01f/index.m3u8
 http://212.0.211.102:9999/play/a01h/index.m3u8
 #EXTINF:-1 group-title="Moldtelecom",Viasat Nature
 http://212.0.211.102:9999/play/a00f/index.m3u8
-#EXTINF:-1 group-title="Moldtelecom",MTV
-http://212.0.211.102:9999/play/a01i/index.m3u8
-#EXTINF:-1 group-title="Moldtelecom",Bolt
-http://212.0.211.102:9999/play/a002/index.m3u8
-#EXTINF:-1 group-title="Moldtelecom",СТС Kids
-http://212.0.211.102:9999/play/7/index.m3u8
+#EXTINF:-1 group-title="Moldtelecom",Наука
+http://212.0.211.102:9999/play/a009/index.m3u8
 #EXTINF:-1 group-title="Moldtelecom",Квартал ТВ
 http://212.0.211.102:9999/play/a004/index.m3u8
-#EXTINF:-1 group-title="Moldtelecom",Nick Junior
+#EXTINF:-1 group-title="Moldtelecom",Nick Jr
 http://212.0.211.102:9999/play/a01k/index.m3u8
 #EXTINF:-1 group-title="Moldtelecom",Cinema
 http://212.0.211.102:9999/play/a00e/index.m3u8
@@ -512,20 +508,12 @@ http://212.0.211.102:9999/play/a00e/index.m3u8
 http://212.0.211.102:9999/play/a00c/index.m3u8
 #EXTINF:-1 group-title="Moldtelecom",Кухня ТВ
 http://212.0.211.102:9999/play/a008/index.m3u8
-#EXTINF:-1 group-title="Moldtelecom",Мульт HD
-http://212.0.211.102:9999/play/a001/index.m3u8
-#EXTINF:-1 group-title="Moldtelecom",Наука
-http://212.0.211.102:9999/play/a009/index.m3u8
-#EXTINF:-1 group-title="Moldtelecom",Boomerang
-http://212.0.211.102:9999/play/a01l/index.m3u8
 #EXTINF:-1 group-title="Moldtelecom",Star TV
 http://212.0.211.102:9999/play/5/index.m3u8
 #EXTINF:-1 group-title="Moldtelecom",Сапфир
 http://212.0.211.102:9999/play/a00a/index.m3u8
 #EXTINF:-1 group-title="Moldtelecom",Cinema1
 http://212.0.211.102:9999/play/3/index.m3u8
-#EXTINF:-1 group-title="Moldtelecom",Party Mix
-http://212.0.211.102:9999/play/a01n/index.m3u8
 #EXTINF:-1 group-title="Moldtelecom",Telestar 1
 http://212.0.211.102:9999/play/a00h/index.m3u8
 #EXTINF:-1 group-title="Moldtelecom",TV1000 ACTION
@@ -556,6 +544,18 @@ http://212.0.211.102:9999/play/a00y/index.m3u8
 http://212.0.211.102:9999/play/a015/index.m3u8
 #EXTINF:-1 group-title="Moldtelecom",TVC 21 MD
 http://212.0.211.102:9999/play/a017/index.m3u8
+#EXTINF:-1 group-title="Moldtelecom",Party Mix
+http://212.0.211.102:9999/play/a01n/index.m3u8
+#EXTINF:-1 group-title="Moldtelecom",MTV
+http://212.0.211.102:9999/play/a01i/index.m3u8
+#EXTINF:-1 group-title="Moldtelecom",Bolt
+http://212.0.211.102:9999/play/a002/index.m3u8
+#EXTINF:-1 group-title="Moldtelecom",СТС Kids
+http://212.0.211.102:9999/play/7/index.m3u8
+#EXTINF:-1 group-title="Moldtelecom",Мульт HD
+http://212.0.211.102:9999/play/a001/index.m3u8
+#EXTINF:-1 group-title="Moldtelecom",Boomerang
+http://212.0.211.102:9999/play/a01l/index.m3u8
 
 
 
