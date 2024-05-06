@@ -1647,6 +1647,8 @@ https://74937-castr.akamaized.net/5ea49827ff3b5d7b22708777/live_cd93fa8063f411ec
 http://123.146.162.24:8013/tslslive/PU2vzMI/hls/live_sd.m3u8
 #EXTINF:-1 group-title="Китай 🇨🇳",上虞1新闻综合
 http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
+#EXTINF:-1 group-title="Китай 🇨🇳",上虞3新商
+http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
 #EXTINF:-1 group-title="Китай 🇨🇳",上虞3新商都
 http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
 #EXTINF:-1 group-title="Китай 🇨🇳",北碚综合频道
@@ -1665,16 +1667,24 @@ http://stream1.jlntv.cn/dspd/sd/live.m3u8
 http://125.210.152.10:8060/live/SXWS.m3u8
 #EXTINF:-1 group-title="Китай 🇨🇳",嵊州综合
 http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
-#EXTINF:-1 group-title="Китай 🇨🇳",新泰乡村党建
-http://live.xtgdw.cn:1935/live/xtxc/playlist.m3u8
-#EXTINF:-1 group-title="Китай 🇨🇳",新泰生活频道
-http://live.xtgdw.cn:1935/live/xtsh/playlist.m3u8
+#EXTINF:-1 group-title="Китай 🇨🇳",州综合
+http://l.cztvcloud.com/channels/lantian/SXshengzhou2/720p.m3u8
 #EXTINF:-1 group-title="Китай 🇨🇳",江津文化旅游
+http://222.179.155.21:1935/ch1.m3u8
+#EXTINF:-1 group-title="Китай 🇨🇳",江津文化旅
 http://222.179.155.21:1935/ch2.m3u8
+#EXTINF:-1 group-title="Китай 🇨🇳",江津化游
+http://222.179.155.21:1935/ch3.m3u8
 #EXTINF:-1 group-title="Китай 🇨🇳",洪雅新闻综合
 http://117.172.215.250:8083/videos/live/35/39/GQVbrgob5CGJM/GQVbrgob5CGJM.M3U8
 #EXTINF:-1 group-title="Китай 🇨🇳",萧山新闻综合
 http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
+#EXTINF:-1 group-title="Китай 🇨🇳",萧山=新闻综
+http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
+#EXTINF:-1 group-title="Китай 🇨🇳",萧山=新闻综
+http://l.cztvcloud.com/channels/lantian/SXxiaoshan3/720p.m3u8
+#EXTINF:-1 group-title="Китай 🇨🇳",萧山=新闻综
+http://l.cztvcloud.com/channels/lantian/SXxiaoshan4/720p.m3u8
 #EXTINF:-1 group-title="Китай 🇨🇳",越南ANTVHD
 http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
 #EXTINF:-1 group-title="Китай 🇨🇳",CCTV-4 中文国际（美）
