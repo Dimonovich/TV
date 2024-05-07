@@ -285,6 +285,21 @@
     },
     "udpdns": false
   },
+  {
+    "server": "198.244.190.189",
+    "server_port": 8443,
+    "password": "8ed4b761-2585-4f75-a688-16b1f3951f1c",
+    "method": "aes-256-gcm",
+    "remarks": "🇬🇧 Великобритания (https://t.me/freeneo_net)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
   { 
     "server": "109.201.152.181",
     "server_port": 443,
