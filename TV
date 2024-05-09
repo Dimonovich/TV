@@ -207,9 +207,9 @@ http://78.58.166.118:8877/natgeo/video.m3u8
 http://78.58.166.118:8877/travel/video.m3u8
 #EXTINF:-1 group-title="TEO LT" ,HGTV
 http://78.58.166.118:8877/hgtv/video.m3u8
-#EXTINF:-1 group-title="TEO LT" ,3 HD
+#EXTINF:-1 group-title="TEO LT" ,TV3 HD LT
 http://78.58.166.118:8877/moyaplaneta/video.m3u8
-#EXTINF:-1 group-title="TEO LT" ,duo3
+#EXTINF:-1 group-title="TEO LT" ,DUO3 HD LV
 http://78.58.166.118:8877/duo3/video.m3u8
 #EXTINF:-1 group-title="TEO LT" ,AMC
 http://78.58.166.118:8877/amc/video.m3u8
@@ -247,7 +247,7 @@ http://78.58.166.118:8877/tlc/video.m3u8
 http://78.58.166.118:8877/tvxxi/video.m3u8
 #EXTINF:-1 group-title="TEO LT" ,TV1000
 http://78.58.166.118:8877/tv1000/video.m3u8
-#EXTINF:-1 group-title="TEO LT" ,TV1000 Русское
+#EXTINF:-1 group-title="TEO LT" ,TV1000 Русское кино
 http://78.58.166.118:8877/tv1000rus/video.m3u8
 #EXTINF:-1 group-title="TEO LT" ,Viasat Kino Action
 http://78.58.166.118:8877/tv1000act/video.m3u8
