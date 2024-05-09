@@ -225,7 +225,7 @@ http://78.58.166.118:8877/docubox/video.m3u8
 http://78.58.166.118:8877/fashiontv/video.m3u8
 #EXTINF:-1 group-title="TEO LT" ,Filmbox
 http://78.58.166.118:8877/filmbox/video.m3u8
-#EXTINF:-1 group-title="TEO LT" ,FilmUaDrama HD
+#EXTINF:-1 group-title="TEO LT" tvg-id="filmua-drama",FILM UA Drama
 http://78.58.166.118:8877/filmuadrama/video.m3u8
 #EXTINF:-1 group-title="TEO LT" ,FOX
 http://78.58.166.118:8877/fox/video.m3u8
