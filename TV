@@ -243,6 +243,10 @@ http://78.58.166.118:8877/rtvi/video.m3u8
 http://78.58.166.118:8877/starcinema/video.m3u8
 #EXTINF:-1 group-title="TEO LT" ,STAR FAMILY
 http://78.58.166.118:8877/starfamily/video.m3u8
+#EXTINF:-1 group-title="TEO LT" ,Amedia Premium HD
+http://78.62.135.122:8082/amediapremiumhd/index.m3u8
+#EXTINF:-1 group-title="TEO LT" ,.Black
+http://78.62.135.122:8082/sonyturbo/index.m3u8
 #EXTINF:-1 group-title="TEO LT" ,TLC
 http://78.58.166.118:8877/tlc/video.m3u8
 #EXTINF:-1 group-title="TEO LT" ,TV XXI
