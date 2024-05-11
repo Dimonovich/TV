@@ -205,8 +205,14 @@ http://78.58.166.118:8877/animalplanet/video.m3u8
 http://78.58.166.118:8877/history/video.m3u8
 #EXTINF:-1 group-title="TEO LT" ,National Geographic
 http://78.58.166.118:8877/natgeo/video.m3u8
+#EXTINF:-1 group-title="TEO LT" ,Discovery Channel HD
+http://78.58.166.118:8877/disc/video.m3u8
 #EXTINF:-1 group-title="TEO LT" ,Travel Channel HD
 http://78.58.166.118:8877/travel/video.m3u8
+#EXTINF:-1 group-title="TEO LT" ,Охота и рыбалка
+http://78.58.166.118:8877/ohotarybalka/video.m3u8
+#EXTINF:-1 group-title="TEO LT" ,Museum
+http://78.58.166.118:8877/museum/video.m3u8
 #EXTINF:-1 group-title="TEO LT" ,HGTV
 http://78.58.166.118:8877/hgtv/video.m3u8
 #EXTINF:-1 group-title="TEO LT" ,TV3 HD LT
@@ -225,9 +231,13 @@ http://78.58.166.118:8877/cnn/video.m3u8
 http://78.58.166.118:8877/docubox/video.m3u8
 #EXTINF:-1 group-title="TEO LT" ,Fashion TV
 http://78.58.166.118:8877/fashiontv/video.m3u8
+#EXTINF:-1,Timeles Dizi Channel
+http://78.58.166.118:8877/cbsreality/video.m3u8
+#EXTINF:-1 group-title="TEO LT" tvg-id="tv21m",ТВ21М
+http://78.58.166.118:8877/tvxxi/video.m3u8
 #EXTINF:-1 group-title="TEO LT" ,Filmbox
 http://78.58.166.118:8877/filmbox/video.m3u8
-#EXTINF:-1 group-title="TEO LT" ,FilmUaDrama HD
+#EXTINF:-1 group-title="TEO LT" tvg-id="filmua-drama",FILM UA Drama
 http://78.58.166.118:8877/filmuadrama/video.m3u8
 #EXTINF:-1 group-title="TEO LT" ,FOX
 http://78.58.166.118:8877/fox/video.m3u8
@@ -269,6 +279,10 @@ http://78.58.166.118:8877/kanal7/video.m3u8
 http://78.58.166.118:8877/bolt/video.m3u8
 #EXTINF:-1 group-title="TEO LT" ,BOOMERANG
 http://78.58.166.118:8877/boomerang/video.m3u8
+#EXTINF:-1 group-title="TEO LT" ,Nickelodion
+http://78.58.166.118:8877/nick/video.m3u8
+#EXTINF:-1 group-title="TEO LT" ,Nick jr
+http://78.58.166.118:8877/nickjr/video.m3u8
 #EXTINF:-1 group-title="TEO LT" ,MTV
 http://78.58.166.118:8877/mtv/video.m3u8
 #EXTINF:-1 group-title="TEO LT" ,vh1
