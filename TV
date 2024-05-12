@@ -2357,126 +2357,87 @@ http://158.101.194.132:8888/channel/1943057b/index.m3u8?q=bfadb5bfabc8198f518754
 
 
 
-#EXTINF:-1 tvg-name="TVPlay 6 Кадров" tvg-id="TVPlay6Kadrov" group-title="КИНОТЕАТР TVPlay", TVPlay 6 Кадров
-
+#EXTINF:-1 group-title="КИНОТЕАТР TVPlay",TVPlay 6 Кадров
 http://95.143.191.33:5050/TVPlay6Kadrov/video.m3u8?token=nsPcA0kfpVQJM3
-#EXTINF:-1 tvg-name="TVPlay DC Comics HD" tvg-id="TVPlayDCComics" group-title="КИНОТЕАТР TVPlay", TVPlay DC Comics HD
-
+#EXTINF:-1 group-title="КИНОТЕАТР TVPlay",TVPlay DC Comics HD
 http://95.143.191.33:5050/TVPlayDCComics/video.m3u8?token=nsPcA0kfpVQJM3
-#EXTINF:-1 tvg-name="TVPlay Indian Cinema" tvg-id="TVPlayIndianCinema.tv" group-title="КИНОТЕАТР TVPlay", TVPlay Indian Cinema
-
+#EXTINF:-1 group-title="КИНОТЕАТР TVPlay",TVPlay Indian Cinema
 http://95.143.191.33:5050/TVPlayIndianCinema.tv/video.m3u8?token=nsPcA0kfpVQJM3
-#EXTINF:-1 tvg-name="TVPlay Marvel HD" tvg-id="TVPlayMarvel" group-title="КИНОТЕАТР TVPlay", TVPlay Marvel HD
-
+#EXTINF:-1 group-title="КИНОТЕАТР TVPlay",TVPlay Marvel HD
 http://95.143.191.33:5050/TVPlayMarvel/video.m3u8?token=nsPcA0kfpVQJM3
-#EXTINF:-1 tvg-name="TVPlay Myths and Legends" tvg-id="TVPlayMythsandLegends.tv" group-title="КИНОТЕАТР TVPlay", TVPlay Myths and Legends
-
+#EXTINF:-1 group-title="КИНОТЕАТР TVPlay",TVPlay Myths and Legends
 http://95.143.191.33:5050/TVPlayMythsandLegends.tv/video.m3u8?token=nsPcA0kfpVQJM3
-#EXTINF:-1 tvg-name="TVPlay Parodies" tvg-id="TVPlayParodies.tv" group-title="КИНОТЕАТР TVPlay", TVPlay Parodies
-
+#EXTINF:-1 group-title="КИНОТЕАТР TVPlay",TVPlay Parodies
 http://95.143.191.33:5050/TVPlayParodies.tv/video.m3u8?token=nsPcA0kfpVQJM3
-#EXTINF:-1 tvg-name="TVPlay Авторский перевод HD" tvg-id="TVPlayAvtorskiyPerevod" group-title="КИНОТЕАТР TVPlay", TVPlay Авторский перевод HD
-
+#EXTINF:-1 group-title="КИНОТЕАТР TVPlay",TVPlay Авторский перевод HD
 http://95.143.191.33:5050/TVPlayAvtorskiyPerevod/video.m3u8?token=nsPcA0kfpVQJM3
-#EXTINF:-1 tvg-name="TVPlay АЛЬФ" tvg-id="TVPlayALF" group-title="КИНОТЕАТР TVPlay", TVPlay АЛЬФ
-
+#EXTINF:-1 group-title="КИНОТЕАТР TVPlay",TVPlay АЛЬФ
 http://95.143.191.33:5050/TVPlayALF/video.m3u8?token=nsPcA0kfpVQJM3
-#EXTINF:-1 tvg-name="TVPlay Аниме HD" tvg-id="TVPlayAnimeHD.tv" group-title="КИНОТЕАТР TVPlay", TVPlay Аниме HD
-
+#EXTINF:-1 group-title="КИНОТЕАТР TVPlay",TVPlay Аниме HD
 http://95.143.191.33:5050/TVPlayAnimeHD.tv/video.m3u8?token=nsPcA0kfpVQJM3
-#EXTINF:-1 tvg-name="TVPlay Баффи HD" tvg-id="TVPlayBuffyIstrebitelnicaVampirovHD.tv" group-title="КИНОТЕАТР TVPlay", TVPlay Баффи HD
-
+#EXTINF:-1 group-title="КИНОТЕАТР TVPlay",TVPlay Баффи HD
 http://95.143.191.33:5050/TVPlayBuffyIstrebitelnicaVampirovHD.tv/video.m3u8?token=nsPcA0kfpVQJM3
-#EXTINF:-1 tvg-name="TVPlay Биографии" tvg-id="TVPlayBiografii.tv" group-title="КИНОТЕАТР TVPlay", TVPlay Биографии
-
+#EXTINF:-1 group-title="КИНОТЕАТР TVPlay",TVPlay Биографии
 http://95.143.191.33:5050/TVPlayBiografii.tv/video.m3u8?token=nsPcA0kfpVQJM3
-#EXTINF:-1 tvg-name="TVPlay Большая Разница" tvg-id="TVPlayBolshayaRaznica" group-title="КИНОТЕАТР TVPlay", TVPlay Большая Разница
-
+#EXTINF:-1 group-title="КИНОТЕАТР TVPlay",TVPlay Большая Разница
 http://95.143.191.33:5050/TVPlayBolshayaRaznica/video.m3u8?token=nsPcA0kfpVQJM3
-#EXTINF:-1 tvg-name="TVPlay Вкусный канал HD" tvg-id="TVPlayVkusniyKanal" group-title="КИНОТЕАТР TVPlay", TVPlay Вкусный канал HD
-
+#EXTINF:-1 group-title="КИНОТЕАТР TVPlay",TVPlay Вкусный канал HD
 http://95.143.191.33:5050/TVPlayVkusniyKanal/video.m3u8?token=nsPcA0kfpVQJM3
-#EXTINF:-1 tvg-name="TVPlay Высоцкий HD" tvg-id="TVPlayVysotskiy" group-title="КИНОТЕАТР TVPlay", TVPlay Высоцкий HD
-
+#EXTINF:-1 group-title="КИНОТЕАТР TVPlay",TVPlay Высоцкий HD
 http://95.143.191.33:5050/TVPlayVysotskiy/video.m3u8?token=nsPcA0kfpVQJM3
-#EXTINF:-1 tvg-name="TVPlay Гарри Поттер HD" tvg-id="TVPlayGarryPotter" group-title="КИНОТЕАТР TVPlay", TVPlay Гарри Поттер HD
-
+#EXTINF:-1 group-title="КИНОТЕАТР TVPlay",TVPlay Гарри Поттер HD
 http://95.143.191.33:5050/TVPlayGarryPotter/video.m3u8?token=nsPcA0kfpVQJM3
-#EXTINF:-1 tvg-name="TVPlay Городок" tvg-id="TVPlayGorodok" group-title="КИНОТЕАТР TVPlay", TVPlay Городок
-
+#EXTINF:-1 group-title="КИНОТЕАТР TVPlay",TVPlay Городок
 http://95.143.191.33:5050/TVPlayGorodok/video.m3u8?token=nsPcA0kfpVQJM3
-#EXTINF:-1 tvg-name="TVPlay Друзья HD" tvg-id="TVPlayDruzyaHD.tv" group-title="КИНОТЕАТР TVPlay", TVPlay Друзья HD
-
+#EXTINF:-1 group-title="КИНОТЕАТР TVPlay",TVPlay Друзья HD
 http://95.143.191.33:5050/TVPlayDruzyaHD.tv/video.m3u8?token=nsPcA0kfpVQJM3
-#EXTINF:-1 tvg-name="TVPlay Ералаш" tvg-id="TVPlayEralash" group-title="КИНОТЕАТР TVPlay", TVPlay Ералаш
-
+#EXTINF:-1 group-title="КИНОТЕАТР TVPlay",TVPlay Ералаш
 http://95.143.191.33:5050/TVPlayEralash/video.m3u8?token=nsPcA0kfpVQJM3
-#EXTINF:-1 tvg-name="TVPlay Зачарованные HD" tvg-id="TVPlayZacharovanniyeHD.tv" group-title="КИНОТЕАТР TVPlay", TVPlay Зачарованные HD
-
+#EXTINF:-1 group-title="КИНОТЕАТР TVPlay",TVPlay Зачарованные HD
 http://95.143.191.33:5050/TVPlayZacharovanniyeHD.tv/video.m3u8?token=nsPcA0kfpVQJM3
-#EXTINF:-1 tvg-name="TVPlay Игра Престолов HD" tvg-id="TVPlayIgraPrestolov" group-title="КИНОТЕАТР TVPlay", TVPlay Игра Престолов HD
-
+#EXTINF:-1 group-title="КИНОТЕАТР TVPlay",TVPlay Игра Престолов HD
 http://95.143.191.33:5050/TVPlayIgraPrestolov/video.m3u8?token=nsPcA0kfpVQJM3
-#EXTINF:-1 tvg-name="TVPlay Истории Средиземья HD" tvg-id="TVPlayIstoriiSredizemya" group-title="КИНОТЕАТР TVPlay", TVPlay Истории Средиземья HD
-
+#EXTINF:-1 group-title="КИНОТЕАТР TVPlay",TVPlay Истории Средиземья HD
 http://95.143.191.33:5050/TVPlayIstoriiSredizemya/video.m3u8?token=nsPcA0kfpVQJM3
-#EXTINF:-1 tvg-name="TVPlay Космический" tvg-id="TVPlayVavilon5" group-title="КИНОТЕАТР TVPlay", TVPlay Космический
-
+#EXTINF:-1 group-title="КИНОТЕАТР TVPlay",TVPlay Космический
 http://95.143.191.33:5050/TVPlayVavilon5/video.m3u8?token=nsPcA0kfpVQJM3
-#EXTINF:-1 tvg-name="TVPLAY Латинские сериалы ретро" tvg-id="TVPlaySeriesLatinas" group-title="КИНОТЕАТР TVPlay", TVPLAY Латинские сериалы ретро
-
+#EXTINF:-1 group-title="КИНОТЕАТР TVPlay",TVPLAY Латинские сериалы ретро
 http://95.143.191.33:5050/TVPlaySeriesLatinas/video.m3u8?token=nsPcA0kfpVQJM3
-#EXTINF:-1 tvg-name="TVPlay Леди Баг и Супер Кот" tvg-id="TVPlayLadyBag.tv" group-title="КИНОТЕАТР TVPlay", TVPlay Леди Баг и Супер Кот
-
+#EXTINF:-1 group-title="КИНОТЕАТР TVPlay",TVPlay Леди Баг и Супер Кот
 http://95.143.191.33:5050/TVPlayLadyBag.tv/video.m3u8?token=nsPcA0kfpVQJM3
-#EXTINF:-1 tvg-name="TVPlay Лихие 90е Кино" tvg-id="TVPlayLihie90eKino" group-title="КИНОТЕАТР TVPlay", TVPlay Лихие 90е Кино
-
+#EXTINF:-1 group-title="КИНОТЕАТР TVPlay",TVPlay Лихие 90е Кино
 http://95.143.191.33:5050/TVPlayLihie90eKino/video.m3u8?token=nsPcA0kfpVQJM3
-#EXTINF:-1 tvg-name="TVPlay Лихие 90е Сериал" tvg-id="TVPlayLihie90eSerial" group-title="КИНОТЕАТР TVPlay", TVPlay Лихие 90е Сериал
-
+#EXTINF:-1 group-title="КИНОТЕАТР TVPlay",TVPlay Лихие 90е Сериал
 http://95.143.191.33:5050/TVPlayLihie90eSerial/video.m3u8?token=nsPcA0kfpVQJM3
-#EXTINF:-1 tvg-name="TVPLAY Маски Шоу" tvg-id="TVPLAYMaskiShow" group-title="КИНОТЕАТР TVPlay", TVPLAY Маски Шоу
-
+#EXTINF:-1 group-title="КИНОТЕАТР TVPlay",TVPLAY Маски Шоу
 http://95.143.191.33:5050/TVPLAYMaskiShow/video.m3u8?token=nsPcA0kfpVQJM3
-#EXTINF:-1 tvg-name="TVPlay Новьё RUS HD" tvg-id="TVPlayNovyoRUSHD" group-title="КИНОТЕАТР TVPlay", TVPlay Новьё RUS HD
-
+#EXTINF:-1 group-title="КИНОТЕАТР TVPlay",TVPlay Новьё RUS HD
 http://95.143.191.33:5050/TVPlayNovyoRUSHD/video.m3u8?token=nsPcA0kfpVQJM3
-#EXTINF:-1 tvg-name="TVPlay Новьё Мир HD" tvg-id="TVPlayNovyoWorldHD" group-title="КИНОТЕАТР TVPlay", TVPlay Новьё Мир HD
-
+#EXTINF:-1 group-title="КИНОТЕАТР TVPlay",TVPlay Новьё Мир HD
 http://95.143.191.33:5050/TVPlayNovyoWorldHD/video.m3u8?token=nsPcA0kfpVQJM3
-#EXTINF:-1 tvg-name="TVPlay Русский Рок HD" tvg-id="TVPlayRusskiyRok" group-title="КИНОТЕАТР TVPlay", TVPlay Русский Рок HD
-
+#EXTINF:-1 group-title="КИНОТЕАТР TVPlay",TVPlay Русский Рок HD
 http://95.143.191.33:5050/TVPlayRusskiyRok/video.m3u8?token=nsPcA0kfpVQJM3
-#EXTINF:-1 tvg-name="TVPlay Своя игра HD" tvg-id="TVPlaySvoyaIgra" group-title="КИНОТЕАТР TVPlay", TVPlay Своя игра HD
-
+#EXTINF:-1 group-title="КИНОТЕАТР TVPlay",TVPlay Своя игра HD
 http://95.143.191.33:5050/TVPlaySvoyaIgra/video.m3u8?token=nsPcA0kfpVQJM3
-#EXTINF:-1 tvg-name="TVPlay Следствие ведут HD" tvg-id="TVPlaySledstvievedutHD.tv" group-title="КИНОТЕАТР TVPlay", TVPlay Следствие ведут HD
-
+#EXTINF:-1 group-title="КИНОТЕАТР TVPlay",TVPlay Следствие ведут HD
 http://95.143.191.33:5050/TVPlaySledstvievedutHD.tv/video.m3u8?token=nsPcA0kfpVQJM3
-#EXTINF:-1 tvg-name="TVPlay Советские Мультфильмы HD" tvg-id="TVPlaySovMultHD.tv" group-title="КИНОТЕАТР TVPlay", TVPlay Советские Мультфильмы HD
-
+#EXTINF:-1 group-title="КИНОТЕАТР TVPlay",TVPlay Советские Мультфильмы HD
 http://95.143.191.33:5050/TVPlaySovMultHD.tv/video.m3u8?token=nsPcA0kfpVQJM3
-#EXTINF:-1 tvg-name="TVPlay Советское Кино HD" tvg-id="TVPlaySovKinoHD.tv" group-title="КИНОТЕАТР TVPlay", TVPlay Советское Кино HD
-
+#EXTINF:-1 group-title="КИНОТЕАТР TVPlay",TVPlay Советское Кино HD
 http://95.143.191.33:5050/TVPlaySovKinoHD.tv/video.m3u8?token=nsPcA0kfpVQJM3
-#EXTINF:-1 tvg-name="TVPlay Ужастик HD" tvg-id="TVPlayUzhastikHD.tv" group-title="КИНОТЕАТР TVPlay", TVPlay Ужастик HD
-
+#EXTINF:-1 group-title="КИНОТЕАТР TVPlay",TVPlay Ужастик HD
 http://95.143.191.33:5050/TVPlayUzhastikHD.tv/video.m3u8?token=nsPcA0kfpVQJM3
-#EXTINF:-1 tvg-name="TVPlay Фантастика HD" tvg-id="TVPlayFantastikaHD.tv" group-title="КИНОТЕАТР TVPlay", TVPlay Фантастика HD
-
+#EXTINF:-1 group-title="КИНОТЕАТР TVPlay",TVPlay Фантастика HD
 http://95.143.191.33:5050/TVPlayFantastikaHD.tv/video.m3u8?token=nsPcA0kfpVQJM3
-#EXTINF:-1 tvg-name="TVPlay Фантастика RUS HD" tvg-id="TVPlayFantasticRUSHD.tv" group-title="КИНОТЕАТР TVPlay", TVPlay Фантастика RUS HD
-
+#EXTINF:-1 group-title="КИНОТЕАТР TVPlay",TVPlay Фантастика RUS HD
 http://95.143.191.33:5050/TVPlayFantasticRUSHD.tv/video.m3u8?token=nsPcA0kfpVQJM3
-#EXTINF:-1 tvg-name="TVPlayGameZone" tvg-id="TVPlayGameZone.tv" group-title="КИНОТЕАТР TVPlay", TVPlayGameZone
-
+#EXTINF:-1 group-title="КИНОТЕАТР TVPlay",TVPlayGameZone
 http://95.143.191.33:5050/TVPlayGameZone.tv/video.m3u8?token=nsPcA0kfpVQJM3
-#EXTINF:-1 tvg-name="TVPlayThe90sCartoons" tvg-id="TVPlayThe90sCartoons.tv" group-title="КИНОТЕАТР TVPlay", TVPlayThe90sCartoons
-
+#EXTINF:-1 group-title="КИНОТЕАТР TVPlay",TVPlayThe90sCartoons
 http://95.143.191.33:5050/TVPlayThe90sCartoons.tv/video.m3u8?token=nsPcA0kfpVQJM3
-#EXTINF:-1 tvg-name="TVPlayСледствие вели" tvg-id="TVPlaySledstvieVeli.tv" group-title="КИНОТЕАТР TVPlay", TVPlayСледствие вели
-
+#EXTINF:-1 group-title="КИНОТЕАТР TVPlay",TVPlayСледствие вели
 http://95.143.191.33:5050/TVPlaySledstvieVeli.tv/video.m3u8?token=nsPcA0kfpVQJM3
+
 
 
 
