@@ -197,104 +197,165 @@ http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_LenTV/hls/1024x576@1272/playli
 
 
 
-#EXTINF:-1 group-title="TEO LT" ,ТНТ4
-http://78.58.166.118:8877/tnt4/video.m3u8
-#EXTINF:-1 group-title="TEO LT" ,ANIMAL PLANET
-http://78.58.166.118:8877/animalplanet/video.m3u8
-#EXTINF:-1 group-title="TEO LT" ,History HD
-http://78.58.166.118:8877/history/video.m3u8
-#EXTINF:-1 group-title="TEO LT" ,National Geographic
-http://78.58.166.118:8877/natgeo/video.m3u8
-#EXTINF:-1 group-title="TEO LT" ,Discovery Channel HD
-http://78.58.166.118:8877/disc/video.m3u8
-#EXTINF:-1 group-title="TEO LT" ,Travel Channel HD
-http://78.58.166.118:8877/travel/video.m3u8
-#EXTINF:-1 group-title="TEO LT" ,Охота и рыбалка
-http://78.58.166.118:8877/ohotarybalka/video.m3u8
-#EXTINF:-1 group-title="TEO LT" ,Museum
-http://78.58.166.118:8877/museum/video.m3u8
-#EXTINF:-1 group-title="TEO LT" ,HGTV
-http://78.58.166.118:8877/hgtv/video.m3u8
-#EXTINF:-1 group-title="TEO LT" ,TV3 HD LT
-http://78.58.166.118:8877/moyaplaneta/video.m3u8
-#EXTINF:-1 group-title="TEO LT" ,DUO3 HD LV
-http://78.58.166.118:8877/duo3/video.m3u8
-#EXTINF:-1 group-title="TEO LT" ,AMC
-http://78.58.166.118:8877/amc/video.m3u8
-#EXTINF:-1 group-title="TEO LT" ,Balticum Auksinis
-http://78.58.166.118:8877/baltauk/index.m3u8
-#EXTINF:-1 group-title="TEO LT" ,BTV
-http://78.58.166.118:8877/btv/index.m3u8
-#EXTINF:-1 group-title="TEO LT" ,CNN HD
-http://78.58.166.118:8877/cnn/video.m3u8
-#EXTINF:-1 group-title="TEO LT" ,Docubox HD
-http://78.58.166.118:8877/docubox/video.m3u8
-#EXTINF:-1 group-title="TEO LT" ,Fashion TV
-http://78.58.166.118:8877/fashiontv/video.m3u8
-#EXTINF:-1,Timeles Dizi Channel
-http://78.58.166.118:8877/cbsreality/video.m3u8
-#EXTINF:-1 group-title="TEO LT" tvg-id="tv21m",ТВ21М
-http://78.58.166.118:8877/tvxxi/video.m3u8
-#EXTINF:-1 group-title="TEO LT" ,Filmbox
-http://78.58.166.118:8877/filmbox/video.m3u8
-#EXTINF:-1 group-title="TEO LT" tvg-id="filmua-drama",FILM UA Drama
-http://78.58.166.118:8877/filmuadrama/video.m3u8
-#EXTINF:-1 group-title="TEO LT" ,FOX
-http://78.58.166.118:8877/fox/video.m3u8
-#EXTINF:-1 group-title="TEO LT" ,FOX LIFE
-http://78.58.166.118:8877/foxlife/video.m3u8
-#EXTINF:-1 group-title="TEO LT" ,France 24 HD
-http://78.58.166.118:8877/france24/video.m3u8
-#EXTINF:-1 group-title="TEO LT" ,LNK
-http://78.58.166.118:8877/lnk/index.m3u8
-#EXTINF:-1 group-title="TEO LT" ,RTVI
-http://78.58.166.118:8877/rtvi/video.m3u8
-#EXTINF:-1 group-title="TEO LT" ,STAR CINEMA
-http://78.58.166.118:8877/starcinema/video.m3u8
-#EXTINF:-1 group-title="TEO LT" ,STAR FAMILY
-http://78.58.166.118:8877/starfamily/video.m3u8
-#EXTINF:-1 group-title="TEO LT" ,Amedia Premium HD
-http://78.62.135.122:8082/amediapremiumhd/index.m3u8
-#EXTINF:-1 group-title="TEO LT" ,.Black
-http://78.62.135.122:8082/sonyturbo/index.m3u8
-#EXTINF:-1 group-title="TEO LT" ,TLC
-http://78.58.166.118:8877/tlc/video.m3u8
-#EXTINF:-1 group-title="TEO LT" ,TV XXI
-http://78.58.166.118:8877/tvxxi/video.m3u8
-#EXTINF:-1 group-title="TEO LT" ,TV1000
-http://78.58.166.118:8877/tv1000/video.m3u8
-#EXTINF:-1 group-title="TEO LT" ,TV1000 Русское кино
-http://78.58.166.118:8877/tv1000rus/video.m3u8
-#EXTINF:-1 group-title="TEO LT" ,Viasat Kino Action
-http://78.58.166.118:8877/tv1000act/video.m3u8
-#EXTINF:-1 group-title="TEO LT" ,Viasat Kino Comedy
-http://78.58.166.118:8877/vipcomedy/video.m3u8
-#EXTINF:-1 group-title="TEO LT" ,Дача HD
-http://78.58.166.118:8877/dacha/video.m3u8
-#EXTINF:-1 group-title="TEO LT" ,ДОМ КИНО Премиум HD
-http://78.58.166.118:8877/domkino/video.m3u8
-#EXTINF:-1 group-title="TEO LT" ,КАНАЛ 7
-http://78.58.166.118:8877/kanal7/video.m3u8
-#EXTINF:-1 group-title="TEO LT" ,Bolt HD
-http://78.58.166.118:8877/bolt/video.m3u8
-#EXTINF:-1 group-title="TEO LT" ,BOOMERANG
-http://78.58.166.118:8877/boomerang/video.m3u8
-#EXTINF:-1 group-title="TEO LT" ,Nickelodion
-http://78.58.166.118:8877/nick/video.m3u8
-#EXTINF:-1 group-title="TEO LT" ,Nick jr
-http://78.58.166.118:8877/nickjr/video.m3u8
-#EXTINF:-1 group-title="TEO LT" ,MTV
-http://78.58.166.118:8877/mtv/video.m3u8
-#EXTINF:-1 group-title="TEO LT" ,vh1
-http://78.58.166.118:8877/vh1/video.m3u8
-#EXTINF:-1 group-title="TEO LT" ,MTV Hits
-http://78.58.166.118:8877/mtvhits/video.m3u8
-#EXTINF:-1 group-title="TEO LT" ,Eurosport 1 HD
-http://78.58.166.118:8877/eusport1/video.m3u8
-#EXTINF:-1 group-title="TEO LT" ,Eurosport 2 HD
-http://78.58.166.118:8877/eusport2/video.m3u8
-#EXTINF:-1 group-title="TEO LT" ,Setanta Sports+ HD
-http://78.58.166.118:8877/setanta2/video.m3u8
+
+
+#EXTINF:-1 group-title="Persik",КОСМОС
+https://fs2.persik.by/Kosmo3/index.m3u8
+#EXTINF:-1 group-title="Persik",МЕРЗЛИКИН
+https://fs2.persik.by/Merzlikin3/index.m3u8
+#EXTINF:-1 group-title="Persik",РОМАНТИЧЕСКИЕ
+https://fs2.persik.by/Romanticheskie3/index.m3u8
+#EXTINF:-1 group-title="Persik",ИСТОРИЯ HD
+https://fs2.persik.by/Istoriya3/index.m3u8
+#EXTINF:-1 group-title="Persik",ОТЕЧЕСТВЕННОЕ
+https://fs2.persik.by/Otechestvennoe3/index.m3u8
+#EXTINF:-1 group-title="Persik",НОВИНКИ
+https://fs2.persik.by/Novinki3/index.m3u8
+#EXTINF:-1 group-title="Persik",ЭКРАНИЗАЦИИ
+https://fs2.persik.by/Ekranizacii3/index.m3u8
+#EXTINF:-1 group-title="Persik",МУЛЬТИКИ
+https://fs2.persik.by/Multiki2/index.m3u8
+#EXTINF:-1 group-title="Persik",ANIME
+https://fs2.persik.by/Anime2/index.m3u8
+#EXTINF:-1 group-title="Persik",ДЕТСКИЙ HD
+https://fs2.persik.by/Detskiy2/index.m3u8
+#EXTINF:-1 group-title="Persik",ДЕТСКИЕ ПЕСНИ
+https://fs2.persik.by/DetskiePesni2/index.m3u8
+#EXTINF:-1 group-title="Persik",СКАЗКИ
+https://fs2.persik.by/Skazki2/index.m3u8
+#EXTINF:-1 group-title="Persik",ДЕТСКИЕ МУЛЬТИКИ
+https://fs2.persik.by/DetskieMultiki2/index.m3u8
+#EXTINF:-1 group-title="Persik",ДЕТСКИЕ ФИЛЬМЫ
+https://fs2.persik.by/DetskieFilmy2/index.m3u8
+#EXTINF:-1 group-title="Persik",CУНДУЧЕК ИСТОРИЙ
+https://fs2.persik.by/Sunduchok2/index.m3u8
+#EXTINF:-1 group-title="Persik",ДЕТСКИЕ МУЛЬТФИЛЬМЫ
+https://fs2.persik.by/DetskieMultfilmy2/index.m3u8
+#EXTINF:-1 group-title="Persik",ДОКУМЕНТАЛЬНОЕ КИНО
+https://fs2.persik.by/DokumentalnoeKino2/index.m3u8
+#EXTINF:-1 group-title="Persik",ДОКУМЕНТАЛЬНОЕ
+https://fs2.persik.by/Dokumentalnoe2/index.m3u8
+#EXTINF:-1 group-title="Persik",Atesta
+https://fs2.persik.by/Atesta2/index.m3u8
+#EXTINF:-1 group-title="Persik",Xtip
+https://fs2.persik.by/Xtip2/index.m3u8
+#EXTINF:-1 group-title="Persik",Aillion
+https://fs2.persik.by/Aillion2/index.m3u8
+#EXTINF:-1 group-title="Persik",Lenadi
+https://fs2.persik.by/Lenadi2/index.m3u8
+#EXTINF:-1 group-title="Persik",Concerts
+https://fs2.persik.by/Concerts2/index.m3u8
+#EXTINF:-1 group-title="Persik",DJ
+https://fs2.persik.by/DJ2/index.m3u8
+#EXTINF:-1 group-title="Persik",Relax
+https://fs2.persik.by/Relax2/index.m3u8
+#EXTINF:-1 group-title="Persik",Hits
+https://fs2.persik.by/Hits2/index.m3u8
+#EXTINF:-1 group-title="Persik",Dance
+https://fs2.persik.by/Dance2/index.m3u8
+#EXTINF:-1 group-title="Persik",ТЕХНО
+https://fs2.persik.by/Techno2/index.m3u8
+#EXTINF:-1 group-title="Persik",ПОП
+https://fs2.persik.by/Pop2/index.m3u8
+#EXTINF:-1 group-title="Persik",ПОП РОК
+https://fs2.persik.by/Pop_Rock2/index.m3u8
+#EXTINF:-1 group-title="Persik",РУССКИЙ РОК
+https://fs2.persik.by/Russkij_Rock2/index.m3u8
+#EXTINF:-1 group-title="Persik",МАШКОВ
+https://fs2.persik.by/Mashkov2/index.m3u8
+#EXTINF:-1 group-title="Persik",БЕЗРУКОВ
+https://fs2.persik.by/Bezrukov2/index.m3u8
+#EXTINF:-1 group-title="Persik",ПУСКЕПАЛИС
+https://fs2.persik.by/Puskepalis2/index.m3u8
+#EXTINF:-1 group-title="Persik",ХАБЕНСКИЙ
+https://fs2.persik.by/Habenskij2/index.m3u8
+#EXTINF:-1 group-title="Persik",МИРОНОВ
+https://fs2.persik.by/Mironov2/index.m3u8
+#EXTINF:-1 group-title="Persik",ДЕРЕВЯНКО
+https://fs2.persik.by/Derevyanko2/index.m3u8
+#EXTINF:-1 group-title="Persik",ПОРЕЧЕНКОВ
+https://fs2.persik.by/Porechenkov2/index.m3u8
+#EXTINF:-1 group-title="Persik",ВДОВИЧЕНКОВ
+https://fs2.persik.by/Vdovichenkov2/index.m3u8
+#EXTINF:-1 group-title="Persik",ПАНИН
+https://fs2.persik.by/Panin2/index.m3u8
+#EXTINF:-1 group-title="Persik",МАТВЕЕВ
+https://fs2.persik.by/Matveev2/index.m3u8
+#EXTINF:-1 group-title="Persik",БОРТИЧ
+https://fs2.persik.by/Bortich2/index.m3u8
+#EXTINF:-1 group-title="Persik",РУССКОЕ КИНО
+https://fs2.persik.by/RusKino2/index.m3u8
+#EXTINF:-1 group-title="Persik",ДРАМА
+https://fs2.persik.by/Drama2/index.m3u8
+#EXTINF:-1 group-title="Persik",МЕЛОДРАМА
+https://fs2.persik.by/Melodrama2/index.m3u8
+#EXTINF:-1 group-title="Persik",Triller
+https://fs2.persik.by/Triller2/index.m3u8
+#EXTINF:-1 group-title="Persik",РЕТРО HD
+https://fs2.persik.by/Retro2/index.m3u8
+#EXTINF:-1 group-title="Persik",Fantasy HD
+https://fs2.persik.by/Fantasy2/index.m3u8
+#EXTINF:-1 group-title="Persik",СЕМЕЙНОЕ
+https://fs2.persik.by/Semejnoe2/index.m3u8
+#EXTINF:-1 group-title="Persik",МОЛОДОСТЬ
+https://fs2.persik.by/Molodost2/index.m3u8
+#EXTINF:-1 group-title="Persik",ДРУЖБА
+https://fs2.persik.by/Druzhba2/index.m3u8
+#EXTINF:-1 group-title="Persik",НОВОЕ КИНО
+https://fs2.persik.by/NovoeKino2/index.m3u8
+#EXTINF:-1 group-title="Persik",ЕВРОПЕЙСКОЕ КИНО
+https://fs2.persik.by/EvropejskoeKino2/index.m3u8
+#EXTINF:-1 group-title="Persik",ФЕСТИВАЛЬНОЕ КИНО
+https://fs2.persik.by/FestivalnoeKino2/index.m3u8
+#EXTINF:-1 group-title="Persik",КИНОМИКС
+https://fs2.persik.by/Kino_Miks2/index.m3u8
+#EXTINF:-1 group-title="Persik",ЛЕГКОЕ КИНО
+https://fs2.persik.by/Legkoe_Kino2/index.m3u8
+#EXTINF:-1 group-title="Persik",АНТИСТРЕСС
+https://fs2.persik.by/Kino_Antistress2/index.m3u8
+#EXTINF:-1 group-title="Persik",ДАВАЙ ПОЖЕНИМСЯ
+https://fs2.persik.by/Davaj_Pozhenimsya2/index.m3u8
+#EXTINF:-1 group-title="Persik",ВДОХНОВЕНИЕ
+https://fs2.persik.by/Vdohnovenie_2/index.m3u8
+#EXTINF:-1 group-title="Persik",КРИМИНАЛ
+https://fs2.persik.by/Kriminal_2/index.m3u8
+#EXTINF:-1 group-title="Persik",ДЕТЕКТИВНОЕ КИНО
+https://fs2.persik.by/Detektivnoe_Kino_2/index.m3u8
+#EXTINF:-1 group-title="Persik",ТВОЕ КИНО
+https://fs2.persik.by/Tvoe_Kino_2/index.m3u8
+#EXTINF:-1 group-title="Persik",ТРИЛЛЕРЫ США
+https://fs2.persik.by/Trillery_USA_2/index.m3u8
+#EXTINF:-1 group-title="Persik",АМЕРИКАНСКИЕ КОМЕДИИ
+https://fs2.persik.by/Amerikanskie_Komedii_2/index.m3u8
+#EXTINF:-1 group-title="Persik" ,Про родителей
+https://fs2.persik.by/Pro_roditeley/index.m3u8
+#EXTINF:-1 group-title="Persik",КОЗЛОВСКИЙ
+https://fs2.persik.by/Kozlovskij_2/index.m3u8
+#EXTINF:-1 group-title="Persik",ВИЦИН
+https://fs2.persik.by/Vicin_2/index.m3u8
+#EXTINF:-1 group-title="Persik",ЛЕОНОВ
+https://fs2.persik.by/Leonov_2/index.m3u8
+#EXTINF:-1 group-title="Persik",ВАН ДАММ
+https://fs2.persik.by/VanDam_2/index.m3u8
+#EXTINF:-1 group-title="Persik",ПЕТРЕНКО
+https://fs2.persik.by/Petrenko_2/index.m3u8
+#EXTINF:-1 group-title="Persik" ,Куценко
+https://fs2.persik.by/Kucenko_2/index.m3u8
+#EXTINF:-1 group-title="Persik",Кино про дружбу
+https://fs2.persik.by/Pro_druzhbu/index.m3u8
+#EXTINF:-1 group-title="Persik",РЕКОМЕНДУЕМ
+https://fs2.persik.by/Rekomenduem/index.m3u8
+#EXTINF:-1 group-title="Persik",БОЕВИКИ
+https://fs2.persik.by/Boeviki_3/index.m3u8
+#EXTINF:-1 group-title="Persik",СЕМЬЯ
+https://fs2.persik.by/Semya_3/index.m3u8
+#EXTINF:-1 group-title="Persik",ПОПУЛЯРНОЕ КИНО
+https://fs2.persik.by/Populyarnoe_Kino_3/index.m3u8
+#EXTINF:-1 group-title="Persik" ,Кино + Subtitles
+https://fs2.persik.by/Kino_Subtitry_3/index.m3u8
+#EXTINF:-1 group-title="Persik",РЭП
+https://fs2.persik.by/Rap/index.m3u8
+
 
 
 
