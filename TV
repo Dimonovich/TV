@@ -7543,7 +7543,7 @@ http://flussonic.beeonline.az:80/extremesport/index.
 #EXTINF:-1  group-title="АРЗ-6 (VPN 🇷🇺)" ,КХЛ ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://flussonic.beeonline.az:80/kxltv/index.m3u8?token=test
-#EXTINF:-1  group-title="АРЗ-6 (VPN 🇷🇺)" ,КХЛ ТВ HD
+#EXTINF:-1  group-title="АРЗ-6 (VPN 🇷🇺)" ,КХЛ Prime
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://erlyvideo.beeonline.az/KLXHD/index.m3u8?token=test
 #EXTINF:-1  group-title="АРЗ-6 (VPN 🇷🇺)" ,Бокс ТВ
