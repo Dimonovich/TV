@@ -2620,6 +2620,12 @@ https://livetv.mylifeisgood.net.ru/channels/bridgehitstv.m3u8
 https://livetv.mylifeisgood.net.ru/channels/bridgerushittv.m3u8
 #EXTINF:-1 group-title="Музыкальные 🎶",Bridge TV Шлягер
 https://livetv.mylifeisgood.net.ru/channels/bridgetvshlyager.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://www.tv-direct.fr/assets/logo/chaines/bblack-africa.jpg",Bblack! Africa
+http://livevideo.vedge.infomaniak.com/livecast/ik:bblackafrica/manifest.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://www.tv-direct.fr/assets/logo/chaines/bblack-caribbean.jpg",Bblack! Caribbean
+http://livevideo.vedge.infomaniak.com/livecast/ik:bblackcaribbean/manifest.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://www.tv-direct.fr/assets/logo/chaines/bblack-classik.jpg",Bblack! Classik
+http://livevideo.vedge.infomaniak.com/livecast/ik:bblackclassik/manifest.m3u8
 #EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB320000647_20231024T231630SQUARE.png_20231024231631.png",XITE 80s Flashback
 https://i.mjh.nz/SamsungTVPlus/USBB320000647.m3u8
 #EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200007AK_20231024T231632SQUARE.png_20231024231633.png",XITE 90s Throwback
