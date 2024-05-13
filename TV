@@ -3158,6 +3158,8 @@ https://pkvc-hls3.cdnvideo.ru/Pobeda/smil:Pobeda.smil/chunklist_b2628000_slru.m3
 https://live.kinescopecdn.net/on-air/182276a1-1f52-4754-9fa6-f05292ccc160/093a575b-34ee-4c17-b665-5eb63d74c4be/1080p/media.m3u8
 #EXTINF:-1 group-title="С сайтов" tvg-logo="https://www.osnmedia.ru/wp-content/uploads/2022/10/logoWhite.png",ОСН
 https://osnmedia.servicecdn.ru/streams/17603_88089/1080n/index.m3u8
+#EXTINF:-1 group-title="С сайтов", Silk Way
+https://ikomg-kazakh.akamaized.net/kazakh/kazakh.m3u8
 #EXTINF:-1 group-title="С сайтов" tvg-logo="http://epg.it999.ru/img/2142.png",Настоящее время
 https://rfe-ingest.akamaized.net/dash/live/2033030/tvmc05/manifest.mpd
 #EXTINF:-1 group-title="С сайтов" tvg-logo="https://i.postimg.cc/nLwPZgX2/image.jpg",ТСВ
