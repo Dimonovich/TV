@@ -128,6 +128,10 @@ https://Stream.sunset-media.ru:443/Free/Free/8.m3u8
 https://Stream.sunset-media.ru:443/Free/Free/7.m3u8
 #EXTINF:-1 group-title="TEST (VPN)"  tvg-logo="https://sunset-media.ru/assets/img/screenshots/kids.png" ,Sunset Kids
 https://stream.sunset-media.ru/Free/Free/22.m3u8
+#EXTINF:-1 group-title="TEST (VPN)", Малдер Всё тв 
+https://media-gateway-cache.nuum.ru/live/85729/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)", Best Film 
+https://media-gateway-cache.nuum.ru/live/94916/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",Конный мир
 http://cdn-01.bonus-tv.ru/konnyimir/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",Тайна
