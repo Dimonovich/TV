@@ -31,6 +31,36 @@
     "udpdns": false
   },
   {
+    "server": "45.144.48.63",
+    "server_port": 57456,
+    "password": "085bd9d2b3fdd508",
+    "method": "CHACHA20-IETF-POLY1305",
+    "remarks": "🇵🇱 Польша (https://mssg.me/neo_tv)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "185.246.153.20",
+    "server_port": 57456,
+    "password": "085bd9d2b3fdd508",
+    "method": "CHACHA20-IETF-POLY1305",
+    "remarks": "🇳🇱 Нидерланды 2 (https://mssg.me/neo_tv)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
     "server": "103.172.116.79",
     "server_port": 9097,
     "password": "Sn5B7jTqr76aCJT8",
