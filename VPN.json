@@ -31,6 +31,21 @@
     "udpdns": false
   },
   {
+    "server": "141.94.237.82",
+    "server_port": 2443,
+    "password": "6Ra6uhhdbRj8iwG+rMRMiOz4q/Q6ukD18rF4R+e+Y/Q=",
+    "method": "AES-256-GCM",
+    "remarks": "🇷🇺 Франция (https://mssg.me/neo_tv)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
     "server": "51.75.77.237",
     "server_port": 8443,
     "password": "dd43a384-490b-451a-af3e-8f1410039fb0",
