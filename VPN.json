@@ -32,9 +32,9 @@
   },
   {
     "server": "141.94.237.82",
-    "server_port": 2443,
-    "password": "6Ra6uhhdbRj8iwG+rMRMiOz4q/Q6ukD18rF4R+e+Y/Q=",
-    "method": "AES-256-GCM",
+    "server_port": 2087,
+    "password": "fhUQrBpkLCMm9/SqUdz27dA8DY8yRhZfN8XqdqSbqfA=",
+    "method": "CHACHA20-IETF-POLY1305",
     "remarks": "🇫🇷 Франция (https://mssg.me/neo_tv)",
     "route": "all",
     "remote_dns": "one.one.one.one",
