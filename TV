@@ -136,8 +136,6 @@ https://stream.sunset-media.ru/Free/Free/22.m3u8
 https://media-gateway-cache.nuum.ru/live/85729/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)", Best Film 
 https://media-gateway-cache.nuum.ru/live/94916/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",Конный мир
-http://cdn-01.bonus-tv.ru/konnyimir/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",Тайна
 https://tochkatv-live.cdnvideo.ru/tochkatv_pub/tainatv.stream_aac.smil/tracks-v1a1/mono.m3u8?hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 group-title="TEST (VPN)",TVMChannel
@@ -180,8 +178,6 @@ http://195.26.83.96:7029/play/9
 http://tv.streams.baikal-telecom.net/Aist/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",НТС Иркутск
 http://tv.streams.baikal-telecom.net/NTS/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",TV1000 Русское кино
-http://tv.streams.baikal-telecom.net/TV1000RuKino/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)" tvg-logo="http://epg.it999.ru/img2/5441.png",ТВОЕ ТВ HD
 http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://i.postimg.cc/m2FWVxW3/Background-Eraser-20230805-095630572.png",ТВОЕ ТВ HD - ЮМОР
@@ -198,8 +194,7 @@ http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist
 http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_EKB1/hls/1024x576@2024/playlist.m3u8
 #EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://assets.iptv2022.com/static/channel/10459/logo_128_1652790001.png",Прима
 http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1920x1080@4504/playlist.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",Лен ТВ 24
-http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_LenTV/hls/1024x576@1272/playlist.m3u8
+
 
 
 
