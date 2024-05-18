@@ -3164,6 +3164,94 @@ http://video.platformcraft.ru/hls/etv/egorievsk-tv/720p.m3u8
 
 
 
+
+#EXTINF:-1 group-title="Hetzner Online AG (VPN)",Первый канал
+http://135.181.115.81:8000/play/a003/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online AG (VPN)",НТВ
+http://135.181.115.81:8000/play/a004/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online AG (VPN)",Рен ТВ
+http://135.181.115.81:8000/play/a005/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online AG (VPN)",Россия 1
+http://135.181.115.81:8000/play/a00p/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online AG (VPN)",Россия 24
+http://135.181.115.81:8000/play/a00d/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online AG (VPN)",Viasat History
+http://135.181.115.81:8000/play/a00g/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online AG (VPN)",Viasat Nature
+http://135.181.115.81:8000/play/a01j/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online AG (VPN)",Приключения HD
+http://135.181.115.81:8000/play/a00k/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online AG (VPN)",Animal Planet
+http://135.181.115.81:8000/play/a008/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online AG (VPN)",Nat Geo Wild HD
+http://135.181.115.81:8000/play/a00c/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online AG (VPN)",National Geographic
+http://135.181.115.81:8000/play/a00a/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online AG (VPN)",TV1000
+http://135.181.115.81:8000/play/a00i/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online AG (VPN)",TV1000 Русское Кино
+http://135.181.115.81:8000/play/a00h/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online AG (VPN)",VIP Comedy HD
+http://135.181.115.81:8000/play/a019/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online AG (VPN)",VIP Premiere HD
+http://135.181.115.81:8000/play/a01a/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online AG (VPN)",Звезда
+http://135.181.115.81:8000/play/a024/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online AG (VPN)",Звезда плюс
+http://135.181.115.81:8000/play/a025/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online AG (VPN)",Комедийное HD
+http://135.181.115.81:8000/play/a00j/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online AG (VPN)",Кто есть кто
+http://135.181.115.81:8000/play/a017/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online AG (VPN)",Kinojam 1
+http://135.181.115.81:8000/play/a027/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online AG (VPN)",Мосфильм. Золотая коллекция
+http://135.181.115.81:8000/play/a011/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online AG (VPN)",Наше новое кино
+http://135.181.115.81:8000/play/a01b/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online AG (VPN)",Пятница
+http://135.181.115.81:8000/play/a018/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online AG (VPN)",РБК
+http://135.181.115.81:8000/play/a00b/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online AG (VPN)",Gulli Girl
+http://135.181.115.81:8000/play/a01g/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online AG (VPN)",Cartoonito
+http://135.181.115.81:8000/play/a01f/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online AG (VPN)",Мульт
+http://135.181.115.81:8000/play/a00q/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online AG (VPN)",TiJi
+http://135.181.115.81:8000/play/a01i/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online AG (VPN)",Nickelodeon
+http://135.181.115.81:8000/play/a009/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online AG (VPN)",Радость моя
+http://135.181.115.81:8000/play/a01h/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online AG (VPN)",Шансон ТВ
+http://135.181.115.81:8000/play/a00e/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online AG (VPN)",Power HD
+http://135.181.115.81:8000/play/a00x/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online AG (VPN)",Power Turk
+http://135.181.115.81:8000/play/a00y/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online AG (VPN)",Europa Plus TV
+http://135.181.115.81:8000/play/a01d/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online AG (VPN)",9 Волна
+http://135.181.115.81:8000/play/a001/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online AG (VPN)",MTV AZ
+http://135.181.115.81:8000/play/a01u/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online AG (VPN)",A spor
+http://135.181.115.81:8000/play/a00s/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online AG (VPN)",Футбол
+http://135.181.115.81:8000/play/a00o/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online AG (VPN)",Viasat Sport
+http://135.181.115.81:8000/play/a00f/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online AG (VPN)",Матч! Планета
+http://135.181.115.81:8000/play/a006/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online AG (VPN)",Eurosport 1
+http://135.181.115.81:8000/play/a01e/index.m3u8?token=livetv
+
+
+
+
+
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",Первый канал HD
 http://5.153.180.133:8005/play/o0033
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",Первый канал
