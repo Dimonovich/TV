@@ -2992,6 +2992,8 @@ http://trk555.tv:8888/live
 https://catchup.videoline.ru/iriston/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://ramtv.ru/wp-content/uploads/2021/12/cropped-Logo2020-white2-e1640011054620.png",Раменское ТВ
 https://e10-ll.facecast.net/rtv/0.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://1tourtv.ru/wp-content/uploads/2023/11/%D0%BB%D0%BE%D0%B3%D0%BE-%D1%86.png",Первый туристический
+https://stream.ms-rostov.ru/tourist1srt/srt/chunks.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" ,43 канал HD (Туапсе) (Web)
 http://sochinskayatrk.ru/hdtv/hls/43Channel_hd/playlist.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://s3.spbtv.com/rosing-production/b292391b35e16613df3e.png",Белгород 24
