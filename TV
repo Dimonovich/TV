@@ -3251,14 +3251,10 @@ http://135.181.115.81:8000/play/a01e/index.m3u8?token=livetv
 
 
 
-#EXTINF:-1 group-title="СКС-Лугань (VPN)",Первый канал HD
-http://5.153.180.133:8005/play/o0033
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",Первый канал
 http://5.153.180.133:8000/play/a04f
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",Первый канал +2
 http://5.153.180.133:8000/play/a0b2
-#EXTINF:-1 group-title="СКС-Лугань (VPN)",Первый канал +4
-http://5.153.180.133:8005/play/o0031
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",Первый канал HD +4
 http://5.153.180.133:8000/play/a0b4
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",Россия 1
@@ -3303,8 +3299,6 @@ http://5.153.180.133:8000/play/a043
 http://5.153.180.133:8000/play/a044
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",НТВ Хит
 http://5.153.180.133:8000/play/a045
-#EXTINF:-1 group-title="СКС-Лугань (VPN)",НТВ-Сериал
-http://5.153.180.133:8005/play/o0039
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",Galaxy TV
 http://5.153.180.133:8004/play/a0bn
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",Galaxy TV HD
@@ -3331,18 +3325,12 @@ http://5.153.180.133:8000/play/a06l
 http://5.153.180.133:8002/play/a015
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",RTG TV
 http://5.153.180.133:8002/play/a06n
-#EXTINF:-1 group-title="СКС-Лугань (VPN)",Ocean TV
-http://5.153.180.133:8005/play/o00228
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",TERRA
 http://5.153.180.133:8002/play/a011
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",TERRA HD
 http://5.153.180.133:8004/play/a012
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",Travel Channel HD
 http://5.153.180.133:8002/play/a0c1
-#EXTINF:-1 group-title="СКС-Лугань (VPN)",Travel+Adventure
-http://5.153.180.133:8005/play/o00101
-#EXTINF:-1 group-title="СКС-Лугань (VPN)",В мире животных HD
-http://5.153.180.133:8005/play/o0070
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",viju TV1000 Action
 http://5.153.180.133:8001/play/a01f
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",viju Viasat Explore
@@ -3351,22 +3339,12 @@ http://5.153.180.133:8002/play/a01h
 http://5.153.180.133:8002/play/a01i
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",viju Viasat Nature/History HD
 http://5.153.180.133:8000/play/a01j
-#EXTINF:-1 group-title="СКС-Лугань (VPN)",Большая Азия
-http://5.153.180.133:8005/play/o0053
-#EXTINF:-1 group-title="СКС-Лугань (VPN)",Глазами туриста HD
-http://5.153.180.133:8005/play/o0093
-#EXTINF:-1 group-title="СКС-Лугань (VPN)",Диалоги о рыбалке
-http://5.153.180.133:8005/play/o0082
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",Дикая охота HD
 http://5.153.180.133:8003/play/a020
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",Дикая рыбалка HD
 http://5.153.180.133:8000/play/a021
-#EXTINF:-1 group-title="СКС-Лугань (VPN)",Живая планета
-http://5.153.180.133:8005/play/o00145
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",Живая природа HD
 http://5.153.180.133:8000/play/a0a5
-#EXTINF:-1 group-title="СКС-Лугань (VPN)",Живи активно HD
-http://5.153.180.133:8005/play/o00214
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",Живи!
 http://5.153.180.133:8000/play/a02b
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",Загородная жизнь
@@ -3395,8 +3373,6 @@ http://5.153.180.133:8000/play/a07w
 http://5.153.180.133:8004/play/a06i
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",Big Planet
 http://5.153.180.133:8002/play/a08g
-#EXTINF:-1 group-title="СКС-Лугань (VPN)",История
-http://5.153.180.133:8005/play/o0072
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",Первый космический HD
 http://5.153.180.133:8000/play/a06v
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",Телепутешествия
@@ -3421,10 +3397,6 @@ http://5.153.180.133:8004/play/a019
 http://5.153.180.133:8002/play/a0c7
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",12 Канал Омск
 http://5.153.180.133:8000/play/a08a
-#EXTINF:-1 group-title="СКС-Лугань (VPN)",2x2
-http://5.153.180.133:8005/play/o0052
-#EXTINF:-1 group-title="СКС-Лугань (VPN)",360°
-http://5.153.180.133:8005/play/o0027
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",360° HD
 http://5.153.180.133:8000/play/a082
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",360° Новости
@@ -3433,16 +3405,10 @@ http://5.153.180.133:8004/play/a07z
 http://5.153.180.133:8000/play/a005
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",49 канал Новосибирск
 http://5.153.180.133:8000/play/a08b
-#EXTINF:-1 group-title="СКС-Лугань (VPN)",8 канал
-http://5.153.180.133:8005/play/o0054
-#EXTINF:-1 group-title="СКС-Лугань (VPN)",9 Волна
-http://5.153.180.133:8005/play/o0057
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",Amedia 1
 http://5.153.180.133:8004/play/a008
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",Amedia 2
 http://5.153.180.133:8004/play/a009
-#EXTINF:-1 group-title="СКС-Лугань (VPN)",Amedia Hit
-http://5.153.180.133:8005/play/o00130
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",Amedia Hit HD
 http://5.153.180.133:8004/play/a08e
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",Amedia Premium
@@ -3479,8 +3445,6 @@ http://5.153.180.133:8000/play/a08s
 http://5.153.180.133:8001/play/a00l
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",Filmbox Arthouse
 http://5.153.180.133:8001/play/a00m
-#EXTINF:-1 group-title="СКС-Лугань (VPN)",Flix Snip
-http://5.153.180.133:8005/play/o00173
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",FoodTime HD
 http://5.153.180.133:8004/play/a07o
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",Gagsnetwork
@@ -3493,46 +3457,26 @@ http://5.153.180.133:8000/play/a00u
 http://5.153.180.133:8000/play/a00v
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",HSR24
 http://5.153.180.133:8000/play/a08w
-#EXTINF:-1 group-title="СКС-Лугань (VPN)",KinoJam 1
-http://5.153.180.133:8005/play/o00175
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",KinoJam 2
 http://5.153.180.133:8001/play/a05t
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",KinoLiving
 http://5.153.180.133:8004/play/a08y
-#EXTINF:-1 group-title="СКС-Лугань (VPN)",Leomax 24
-http://5.153.180.133:8005/play/o00108
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",Paramount Comedy
 http://5.153.180.133:8001/play/a09c
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",Plan B HD
 http://5.153.180.133:8001/play/a09d
-#EXTINF:-1 group-title="СКС-Лугань (VPN)",.RED
-http://5.153.180.133:8005/play/o00140
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",RTД HD
 http://5.153.180.133:8000/play/a06o
-#EXTINF:-1 group-title="СКС-Лугань (VPN)",SAN PORTO
-http://5.153.180.133:8005/play/o00156
-#EXTINF:-1 group-title="СКС-Лугань (VPN)",sci-fi
-http://5.153.180.133:8005/play/o00141
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",Shop&Show
 http://5.153.180.133:8004/play/a09g
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",SHOT TV
 http://5.153.180.133:8001/play/a018
-#EXTINF:-1 group-title="СКС-Лугань (VPN)",Star cinema
-http://5.153.180.133:8005/play/o00176
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",Star Family
 http://5.153.180.133:8004/play/a09i
-#EXTINF:-1 group-title="СКС-Лугань (VPN)",START Air
-http://5.153.180.133:8005/play/o00178
-#EXTINF:-1 group-title="СКС-Лугань (VPN)",START World
-http://5.153.180.133:8005/play/o00179
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",Timeless Dizi Channel
 http://5.153.180.133:8000/play/a09l
-#EXTINF:-1 group-title="СКС-Лугань (VPN)",TLC
-http://5.153.180.133:8005/play/o0094
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",TLC HD
 http://5.153.180.133:8002/play/a0c0
-#EXTINF:-1 group-title="СКС-Лугань (VPN)",TRASH
-http://5.153.180.133:8005/play/o00234
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",TV XXI
 http://5.153.180.133:8001/play/a09n
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",Ultra HD Cinema
@@ -3549,18 +3493,12 @@ http://5.153.180.133:8001/play/a01l
 http://5.153.180.133:8001/play/a01m
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",viju+ Premiere HD
 http://5.153.180.133:8001/play/a01n
-#EXTINF:-1 group-title="СКС-Лугань (VPN)",viju+ Serial HD
-http://5.153.180.133:8001/play/a09q
-#EXTINF:-1 group-title="СКС-Лугань (VPN)",ViP Premiere HD
-http://5.153.180.133:8005/play/o00196-
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",VIVA Russia HD
 http://5.153.180.133:8001/play/a09r
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",Women's Magazine
 http://5.153.180.133:8002/play/a0c5
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",World Fashion
 http://5.153.180.133:8000/play/a01o
-#EXTINF:-1 group-title="СКС-Лугань (VPN)",Зоопарк
-http://5.153.180.133:8005/play/o0086
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",Авто 24
 http://5.153.180.133:8004/play/a01q
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",Авто Плюс
@@ -3573,12 +3511,8 @@ http://5.153.180.133:8003/play/a05y
 http://5.153.180.133:8000/play/a080
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",БелРос
 http://5.153.180.133:8000/play/a01s
-#EXTINF:-1 group-title="СКС-Лугань (VPN)",Блокбастер
-http://5.153.180.133:8005/play/o00122
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",Вопросы и ответы
 http://5.153.180.133:8000/play/a06r
-#EXTINF:-1 group-title="СКС-Лугань (VPN)",Восток ТВ
-http://5.153.180.133:8005/play/o0063
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",Время
 http://5.153.180.133:8002/play/a01x
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",ДКТ HD
@@ -3587,18 +3521,12 @@ http://5.153.180.133:8004/play/a060
 http://5.153.180.133:8002/play/a023
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",Дом кино
 http://5.153.180.133:8001/play/a024
-#EXTINF:-1 group-title="СКС-Лугань (VPN)",Дом кино Премиум HD
-http://5.153.180.133:8005/play/o00181
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",Домашние животные
 http://5.153.180.133:8002/play/a026
-#EXTINF:-1 group-title="СКС-Лугань (VPN)",Домашний
-http://5.153.180.133:8005/play/o0014
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",Домашний +2
 http://5.153.180.133:8000/play/a0a1
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",Домашний +4
 http://5.153.180.133:8001/play/a0a2
-#EXTINF:-1 group-title="СКС-Лугань (VPN)",ДОН 24
-http://5.153.180.133:8005/play/o0058
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",Дорама
 http://5.153.180.133:8004/play/a00i
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",Драйв
@@ -3607,14 +3535,8 @@ http://5.153.180.133:8000/play/a07q
 http://5.153.180.133:8000/play/a061
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",Еврокино
 http://5.153.180.133:8001/play/a028
-#EXTINF:-1 group-title="СКС-Лугань (VPN)",ЕГЭ ТВ
-http://5.153.180.133:8005/play/o0067
-#EXTINF:-1 group-title="СКС-Лугань (VPN)",Енисей
-http://5.153.180.133:8005/play/o00168
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",Енисей HD
 http://5.153.180.133:8004/play/a0bu
-#EXTINF:-1 group-title="СКС-Лугань (VPN)",Жара
-http://5.153.180.133:8005/play/o0068
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",Зал суда
 http://5.153.180.133:8004/play/a0a9
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",Звезда
@@ -3625,22 +3547,12 @@ http://5.153.180.133:8001/play/a0aa
 http://5.153.180.133:8001/play/a0ab
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",Звезда Плюс
 http://5.153.180.133:8004/play/a0a7
-#EXTINF:-1 group-title="СКС-Лугань (VPN)",Здоровое ТВ
-http://5.153.180.133:8005/play/o0062
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",Зоо ТВ
 http://5.153.180.133:8002/play/a06s
-#EXTINF:-1 group-title="СКС-Лугань (VPN)",Известия
-http://5.153.180.133:8005/play/o0066
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",Иллюзион+
 http://5.153.180.133:8001/play/a02f
-#EXTINF:-1 group-title="СКС-Лугань (VPN)",Индия
-http://5.153.180.133:8005/play/o00167
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",Калейдоскоп ТВ
 http://5.153.180.133:8002/play/a084
-#EXTINF:-1 group-title="СКС-Лугань (VPN)",Камеди
-http://5.153.180.133:8005/play/o0064
-#EXTINF:-1 group-title="СКС-Лугань (VPN)",Капитан Фантастика HD
-http://5.153.180.133:8005/play/o00183
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",Катунь 24
 http://5.153.180.133:8004/play/a0ae
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",КВН ТВ
@@ -3709,8 +3621,6 @@ http://5.153.180.133:8000/play/a03k
 http://5.153.180.133:8000/play/a081
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",МИР HD
 http://5.153.180.133:8000/play/a05u
-#EXTINF:-1 group-title="СКС-Лугань (VPN)",Мир Белогорья
-http://5.153.180.133:8005/play/o00144
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",Мир сериала
 http://5.153.180.133:8000/play/a03n
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",Мир сериала HD
@@ -3753,8 +3663,6 @@ http://5.153.180.133:8000/play/a099
 http://5.153.180.133:8000/play/a04c
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",Оплот 2
 http://5.153.180.133:8000/play/a04b
-#EXTINF:-1 group-title="СКС-Лугань (VPN)",Оплот HD
-http://5.153.180.133:8005/play/o0026
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",Оружие
 http://5.153.180.133:8000/play/a06u
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",Остросюжетное HD
@@ -3781,8 +3689,6 @@ http://5.153.180.133:8000/play/a04i
 http://5.153.180.133:8000/play/a05o
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",Про любовь
 http://5.153.180.133:8000/play/a06b
-#EXTINF:-1 group-title="СКС-Лугань (VPN)",Продвижение
-http://5.153.180.133:8000/play/a04j
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",Продвижение +4
 http://5.153.180.133:8000/play/a0b6
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",Пятница!
@@ -3793,8 +3699,6 @@ http://5.153.180.133:8000/play/a006
 http://5.153.180.133:8000/play/a0b5
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",РБК
 http://5.153.180.133:8000/play/a04l
-#EXTINF:-1 group-title="СКС-Лугань (VPN)",Ретро
-http://5.153.180.133:8005/play/o00165
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",Родное кино
 http://5.153.180.133:8000/play/a04p
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",Романтичное HD
@@ -3901,32 +3805,16 @@ http://5.153.180.133:8000/play/a016
 http://5.153.180.133:8000/play/a00x
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",Mezzo
 http://5.153.180.133:8000/play/a091
-#EXTINF:-1 group-title="СКС-Лугань (VPN)",Mezzo Live HD
-http://5.153.180.133:8005/play/o00213
-#EXTINF:-1 group-title="СКС-Лугань (VPN)",Europa Plus TV
-http://5.153.180.133:8005/play/o00208
-#EXTINF:-1 group-title="СКС-Лугань (VPN)",Bridge TV
-http://5.153.180.133:8005/play/o00201
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",Bridge TV Classic
 http://5.153.180.133:8000/play/a08i
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",Bridge TV Deluxe HD
 http://5.153.180.133:8004/play/a00e
-#EXTINF:-1 group-title="СКС-Лугань (VPN)",Bridge TV Hits
-http://5.153.180.133:8005/play/o00203
-#EXTINF:-1 group-title="СКС-Лугань (VPN)",Bridge TV Rock
-http://5.153.180.133:8005/play/o00204
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",Bridge TV Русский Хит
 http://5.153.180.133:8004/play/a00g
-#EXTINF:-1 group-title="СКС-Лугань (VPN)",Bridge TV Шлягер
-http://5.153.180.133:8005/play/o00205
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",C Music TV HD
 http://5.153.180.133:8004/play/a08k
-#EXTINF:-1 group-title="СКС-Лугань (VPN)",MTV 80s
-http://5.153.180.133:8005/play/o00123
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",MTV 90s
 http://5.153.180.133:8004/play/a094
-#EXTINF:-1 group-title="СКС-Лугань (VPN)",MTV Hits
-http://5.153.180.133:8005/play/o00209
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",Music Box Russia
 http://5.153.180.133:8004/play/a07g
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",МузСоюз
@@ -3949,8 +3837,6 @@ http://5.153.180.133:8000/play/a090
 http://5.153.180.133:8000/play/a05r
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",Детский мир HD
 http://5.153.180.133:8002/play/a0bw
-#EXTINF:-1 group-title="СКС-Лугань (VPN)",Бобер
-http://5.153.180.133:8005/play/o0085
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",Уникум
 http://5.153.180.133:8000/play/a05f
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",Карусель
@@ -3963,8 +3849,6 @@ http://5.153.180.133:8000/play/a01w
 http://5.153.180.133:8000/play/a08p
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",TiJi
 http://5.153.180.133:8002/play/a01b
-#EXTINF:-1 group-title="СКС-Лугань (VPN)",Bolt
-http://5.153.180.133:8005/play/o00171
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",Nick Jr
 http://5.153.180.133:8004/play/a096
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",KIDS TV
@@ -4001,16 +3885,10 @@ http://5.153.180.133:8000/play/a07a
 http://5.153.180.133:8000/play/a06z
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",Eurosport 1 HD
 http://5.153.180.133:8004/play/a070
-#EXTINF:-1 group-title="СКС-Лугань (VPN)",Eurosport 2
-http://5.153.180.133:8005/play/o00231
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",Eurosport 2 HD
 http://5.153.180.133:8000/play/a072
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",Extreme Sports
 http://5.153.180.133:8003/play/a00j
-#EXTINF:-1 group-title="СКС-Лугань (VPN)",Fightbox
-http://5.153.180.133:8005/play/o00210
-#EXTINF:-1 group-title="СКС-Лугань (VPN)",KHL
-http://5.153.180.133:8005/play/o00233
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",KHL Prime HD
 http://5.153.180.133:8000/play/a025
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",MMA-TV.com
@@ -4073,7 +3951,6 @@ http://5.153.180.133:8003/play/a0bu
 http://5.153.180.133:8000/play/a02w
 #EXTINF:-1 group-title="СКС-Лугань (VPN)",Мир баскетбола
 http://5.153.180.133:8000/play/a03m
-
 
 
 
