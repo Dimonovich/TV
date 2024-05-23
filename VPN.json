@@ -46,6 +46,21 @@
     "udpdns": false
   },
   {
+    "server": "31.210.50.190",
+    "server_port": 30817,
+    "password": "bLqlUs14iXWqKYvmVQC5ba",
+    "method": "CHACHA20-IETF-POLY1305",
+    "remarks": "🇹🇷 Турция (https://mssg.me/neo_tv)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
     "server": "109.201.152.181",
     "server_port": 443,
     "password": "shadowsocks",
