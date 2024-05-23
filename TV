@@ -237,8 +237,6 @@ http://persik.by/stream/5156/165744/847.m3u8
 http://persik.by/stream/5156/165744/48.m3u8
 #EXTINF:-1 group-title="Persik" ,ТВ3
 http://persik.by/stream/5156/165744/63.m3u8
-#EXTINF:-1 group-title="Persik" ,СТБ
-http://persik.by/stream/5156/165744/115.m3u8
 #EXTINF:-1 group-title="Persik" ,ДОМАШНИЙ
 http://persik.by/stream/5156/165744/124.m3u8
 #EXTINF:-1 group-title="Persik" ,МИР
@@ -255,7 +253,7 @@ http://persik.by/stream/5156/165744/302.m3u8
 http://persik.by/stream/5156/165744/308.m3u8
 #EXTINF:-1 group-title="Persik" ,АВТО ПЛЮС
 http://persik.by/stream/5156/165744/311.m3u8
-#EXTINF:-1 group-title="Persik" ,КУХНЯ
+#EXTINF:-1 group-title="Persik" ,КУХНЯ ТВ
 http://persik.by/stream/5156/165744/383.m3u8
 #EXTINF:-1 group-title="Persik" ,Amedia Premium
 http://persik.by/stream/5156/165744/643.m3u8
@@ -267,14 +265,14 @@ http://persik.by/stream/5156/165744/727.m3u8
 http://persik.by/stream/5156/165744/895.m3u8
 #EXTINF:-1 group-title="Persik" ,Рэп
 http://persik.by/stream/5156/165744/1128.m3u8
-#EXTINF:-1 group-title="Persik" ,Семейное HD
-http://persik.by/stream/5156/165744/10025.m3u8
 #EXTINF:-1 group-title="Persik" ,ЗВЕЗДА
 http://persik.by/stream/5156/165744/10220.m3u8
 #EXTINF:-1 group-title="Persik" ,TV1000
 http://persik.by/stream/5156/165744/10237.m3u8
 #EXTINF:-1 group-title="Persik" ,TV1000 ACTION
 http://persik.by/stream/5156/165744/10238.m3u8
+#EXTINF:-1 group-title="Persik" ,Мужское кино HD
+http://persik.by/stream/5156/165744/10025.m3u8
 #EXTINF:-1 group-title="Persik" ,КИНОПРЕМЬЕРА HD
 http://persik.by/stream/5156/165744/10240.m3u8
 #EXTINF:-1 group-title="Persik" ,КИНОХИТ
@@ -293,10 +291,6 @@ http://persik.by/stream/5156/165744/312.m3u8
 http://persik.by/stream/5156/165744/278.m3u8
 #EXTINF:-1 group-title="Persik" ,КИНОКОМЕДИЯ
 http://persik.by/stream/5156/165744/292.m3u8
-#EXTINF:-1 group-title="Persik" ,МУЖСКОЕ КИНО HD
-http://persik.by/stream/5156/165744/10368.m3u8
-#EXTINF:-1 group-title="Persik" ,СТБ
-http://persik.by/stream/5156/165744/10257.m3u8
 #EXTINF:-1 group-title="Persik" ,ПЕРЕЦ
 http://persik.by/stream/5156/165744/10273.m3u8
 #EXTINF:-1 group-title="Persik" ,МИР HD
@@ -331,7 +325,7 @@ http://persik.by/stream/5156/165744/10691.m3u8
 http://persik.by/stream/5156/165744/10696.m3u8
 #EXTINF:-1 group-title="Persik" ,Мелодрама HD
 http://persik.by/stream/5156/165744/10699.m3u8
-#EXTINF:-1 group-title="Persik" ,Приключения HD
+#EXTINF:-1 group-title="Persik" ,Приключения
 http://persik.by/stream/5156/165744/10707.m3u8
 #EXTINF:-1 group-title="Persik" ,Ретро HD
 http://persik.by/stream/5156/165744/10709.m3u8
@@ -491,8 +485,6 @@ http://persik.by/stream/5156/165744/11146.m3u8
 http://persik.by/stream/5156/165744/11147.m3u8
 #EXTINF:-1 group-title="Persik" ,Новогодние фильмы HD
 http://persik.by/stream/5156/165744/11158.m3u8
-#EXTINF:-1 group-title="Persik" ,Horror Movies HD
-http://65744/11167.m3u8
 #EXTINF:-1 group-title="Persik" ,Комедийные фильмы HD
 http://persik.by/stream/5156/165744/11168.m3u8
 #EXTINF:-1 group-title="Persik" ,Фильмы Боевики HD
@@ -503,8 +495,6 @@ http://persik.by/stream/5156/165744/11177.m3u8
 http://persik.by/stream/5156/165744/11178.m3u8
 #EXTINF:-1 group-title="Persik" ,Детективные сериалы HD
 http://persik.by/stream/5156/165744/11179.m3u8
-#EXTINF:-1 group-title="Persik" ,МУВИ ТВ
-http://persik.by/stream/5156/165744/11208.m3u8
 #EXTINF:-1 group-title="Persik" ,Победа
 http://persik.by/stream/5156/165744/11209.m3u8
 #EXTINF:-1 group-title="Persik" ,Кино-антистресс
