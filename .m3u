@@ -1,356 +1,79 @@
-#EXTM3U
-#EXTINF:-1 ,https://mssg.me/neo_tv
-https://d2dw21aq0j0l5c.cloudfront.net/playlist_1920x1080.m3u8
+[
+   
+  {
+    "server": "156.146.62.160",
+    "server_port": 443,
+    "password": "shadowsocks",
+    "method": "aes-128-cfb",
+    "remarks": "🇨🇭 Швейцария (https://mssg.me/neo_tv)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "194.26.229.18",
+    "server_port": 50744,
+    "password": "sIZ80DZsAC9ZSshS69gYql",
+    "method": "CHACHA20-IETF-POLY1305",
+    "remarks": "🇷🇺 Россия (https://mssg.me/neo_tv)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "141.94.237.82",
+    "server_port": 2087,
+    "password": "fhUQrBpkLCMm9/SqUdz27dA8DY8yRhZfN8XqdqSbqfA=",
+    "method": "CHACHA20-IETF-POLY1305",
+    "remarks": "🇫🇷 Франция (https://mssg.me/neo_tv)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "31.210.50.190",
+    "server_port": 30817,
+    "password": "bLqlUs14iXWqKYvmVQC5ba",
+    "method": "CHACHA20-IETF-POLY1305",
+    "remarks": "🇹🇷 Турция (https://mssg.me/neo_tv)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "109.201.152.181",
+    "server_port": 443,
+    "password": "shadowsocks",
+    "method": "aes-128-cfb",
+    "remarks": "🇳🇱 Нидерланды (https://mssg.me/neo_tv)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  }
 
-#EXTINF:-1 ,Первый HD
-https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-
-#EXTINF:-1 ,ПЕРВЫЙ КАНАЛ
-http://91.142.158.107:8092/play/1/index.m3u8
-
-#EXTINF:-1 ,Россия 1
-http://hlstest.eltex-media.ru:8085/Rossia1/index.m3u8
-
-#EXTINF:-1 ,РОССИЯ К
-http://s18209.cdn.ngenix.net/hls/CH_R02_ROSSIAK/playlist.m3u8
-
-#EXTINF:-1 ,Россия 24
-http://s18209.cdn.ngenix.net/hls/CH_R01_ROSSIA24/playlist.m3u8
-
-#EXTINF:-1 ,Неизвестная Россия
-https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 ,НТВ HD
-https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 ,НТВ Хит
-https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 ,НТВ-Право
-https://cdn.ntv.ru/th_pravo/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 ,НТВ Сериал
-https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 ,НТВ Стиль
-https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
-
-#EXTINF:-1 ,ТНТ HD
-http://s18209.cdn.ngenix.net/hls/CH_R01_TNT/playlist.m3u8
-
-#EXTINF:-1 ,ТНТ4
-https://bkm.beetv.kz/btv/live/hls/000002926.m3u8
-
-#EXTINF:-1 ,РЕН-ТВ
-http://s18209.cdn.ngenix.net/hls/CH_R02_RENTV/playlist.m3u8
-
-#EXTINF:-1 ,HDL
-https://strm.yandex.ru/kal/hd_life_belarus/hd_life_belarus0.m3u8
-#EXTINF:-1 ,RTG HD
-https://strm.yandex.ru/kal/rtg/rtg0.m3u8
-#EXTINF:-1 ,Investigation Discovery
-https://stream01.vnet.am/InvestigationDiscovery/tracks-v1a2/mono.m3u8
-#EXTINF:-1 ,Большая Азия
-http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,МОЯ ПЛАНЕТА
-https://strm.yandex.ru/kal/moya_planeta_hd_belarus/moya_planeta_hd_belarus0.m3u8
-#EXTINF:-1 ,Приключения HD
-https://strm.yandex.ru/kal/prikluchenia_belarus/prikluchenia_belarus0.m3u8
-#EXTINF:-1 ,В мире животных HD
-https://strm.yandex.ru/kal/v_mire_zhivotnykh_belarus/v_mire_zhivotnykh_belarus0.m3u8
-#EXTINF:-1 ,Наша Сибирь
-https://strm.yandex.ru/kal/sibir/sibir0.m3u8
-#EXTINF:-1 ,Охотник и рыболов Int
-https://strm.yandex.ru/kal/ohotnik_rybolov_belarus/ohotnik_rybolov_belarus0.m3u8
-#EXTINF:-1 ,Диалоги о рыбалке
-https://strm.yandex.ru/kal/dialogi/dialogi0.m3u8
-
-
-#EXTINF:-1 ,История
-http://109.239.208.82:80/history/index.m3u8
-#EXTINF:-1 ,Animal Planet
-https://bkm.beetv.kz/btv/live/hls/000000216.m3u8
-
-#EXTINF:-1 ,Discovery Channel
-https://bkm.beetv.kz/btv/live/hls/000001496.m3u8
-#EXTINF:-1 ,Nat geo wild HD
-https://bkm.beetv.kz/btv/live/hls/000004474.m3u8
-#EXTINF:-1 ,National geographic
-https://bkm.beetv.kz/btv/live/hls/000000034.m3u8
-#EXTINF:-1 ,H 2
-https://bkm.beetv.kz/btv/live/hls/000002722.m3u8
-#EXTINF:-1 ,History HD
-https://bkm.beetv.kz/btv/live/hls/000001000.m3u8
-
-
-#EXTINF:-1 ,viju Explore
-https://bkm.beetv.kz/btv/live/hls/000004157.m3u8
-#EXTINF:-1 ,viju History
-https://bkm.beetv.kz/btv/live/hls/000005528.m3u8
-#EXTINF:-1 ,Viasat Nature HD
-https://bkm.beetv.kz/btv/live/hls/000006482.m3u8
-#EXTINF:-1 ,TV 1000
-https://bkm.beetv.kz/btv/live/hls/000003747.m3u8
-#EXTINF:-1 ,viju TV1000 Action
-https://bkm.beetv.kz/btv/live/hls/000003910.m3u8
-#EXTINF:-1 ,TV1000 Русское кино
-https://bkm.beetv.kz/btv/live/hls/000003748.m3u8
-#EXTINF:-1 ,viju+ Comedy
-https://bkm.beetv.kz/btv/live/hls/000000870.m3u8
-#EXTINF:-1 ,viju+ Megahit
-https://bkm.beetv.kz/btv/live/hls/000000869.m3u8
-#EXTINF:-1 ,viju+ Serial
-https://bkm.beetv.kz/btv/live/hls/000004375.m3u8
-
-#EXTINF:-1 ,a1
-https://bkm.beetv.kz/btv/live/hls/000000710.m3u8
-#EXTINF:-1 ,a2
-https://bkm.beetv.kz/btv/live/hls/000000351.m3u8
-#EXTINF:-1 ,Amedia HIT
-https://bkm.beetv.kz/btv/live/hls/000001662.m3u8
-#EXTINF:-1 ,Amedia Premium HD
-https://bkm.beetv.kz/btv/live/hls/000000709.m3u8
-
-#EXTINF:-1 ,Gags Network HD
-http://95.67.12.82:9069
-
-#EXTINF:-1 ,Ералаш
-https://ipv4.bozztv.com/dvrfl07/ushba8/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 ,Мосфильм. Золотая коллекция
-https://bkm.beetv.kz/btv/live/hls/000006365.m3u8
-
-#EXTINF:-1 ,РУССКИЙ РОМАН
-http://91.142.158.107:8092/play/25/index.m3u8
-#EXTINF:-1 ,РУССКИЙ ДЕТЕКТИВ
-http://91.142.158.107:8092/play/27/index.m3u8
-#EXTINF:-1 ,РУССКИЙ БЕСТСЕЛЛЕР
-http://91.142.158.107:8092/play/26/index.m3u8
-#EXTINF:-1 ,Кино ТВ HD
-http://91.142.158.107:8092/play/28/index.m3u8
-
-#EXTINF:-1 ,КИНОСЕРИЯ
-http://188.113.190.15/312/video.m3u8
-#EXTINF:-1 ,НАШЕ НОВОЕ КИНО
-http://188.113.190.15/327/video.m3u8
-#EXTINF:-1 ,РОДНОЕ КИНО
-http://188.113.190.15/317/video.m3u8
-
-#EXTINF:-1 ,Кинопремьера HD
-https://strm.yandex.ru/kal/kinopremiera_hd_belarus/kinopremiera_hd_belarus0.m3u8
-#EXTINF:-1 ,Кинохит
-https://strm.yandex.ru/kal/kinohit_belarus/kinohit_belarus0.m3u8
-#EXTINF:-1 ,КИНОМИКС
-https://strm.yandex.ru/kal/kinomiks_belarus/kinomiks_belarus0.m3u8
-#EXTINF:-1 ,Киносвидание
-https://strm.yandex.ru/kal/kinosvidanie_sd_belarus/kinosvidanie_sd_belarus0.m3u8
-#EXTINF:-1 ,Мужское кино
-https://strm.yandex.ru/kal/muzhskoe_kino_belarus/muzhskoe_kino_belarus0.m3u8
-#EXTINF:-1 ,Киносемья
-https://strm.yandex.ru/kal/kinosemya_belarus/kinosemya_belarus0.m3u8
-#EXTINF:-1 ,Кинокомедия
-https://strm.yandex.ru/kal/kinokomedia_belarus/kinokomedia_belarus0.m3u8
-#EXTINF:-1 ,Арсенал HD
-https://strm.yandex.ru/kal/arsenal_belarus/arsenal_belarus0.m3u8
-
-#EXTINF:-1,BACKUSTV Dark
-http://stream.backustv.ru/live/btv2/index.m3u8
-#EXTINF:-1,BACKUSTV Music
-http://stream.backustv.ru/live/btv3/index.m3u8
-
-#EXTINF:-1 ,Fantastica HD
-http://195.9.195.3:8080/hls/187241.m3u8
-#EXTINF:-1 ,Страх
-http://195.9.195.3:8080/hls/202127.m3u8
-#EXTINF:-1 ,Кошмар HD
-http://195.9.195.3:8080/hls/204709.m3u8
-
-#EXTINF:-1 ,Дом кино
-https://bkm.beetv.kz/btv/live/hls/000000050.m3u8
-#EXTINF:-1 ,НСТ
-https://strm.yandex.ru/kal/nst_belarus/nst_belarus0.m3u8
-
-#EXTINF:-1 ,black
-https://bkm.beetv.kz/btv/live/hls/000000520.m3u8
-
-#EXTINF:-1 ,Trash
-https://bkm.beetv.kz/btv/live/hls/000005621.m3u8
-
-#EXTINF:-1 ,Совершенно секретно
-https://strm.yandex.ru/kal/sovsec/sovsec0.m3u8
-
-#EXTINF:-1 ,2x2
-https://strm.yandex.ru/kal/2x2_belarus/2x2_belarus0.m3u8
-
-#EXTINF:-1 ,ОТР
-http://s18209.cdn.ngenix.net/hls/CH_R01_OTR/playlist.m3u8
-#EXTINF:-1 ,Пятый канал
-http://s18209.cdn.ngenix.net/hls/CH_R02_5TV/playlist.m3u8
-#EXTINF:-1 ,Домашний
-http://s18209.cdn.ngenix.net/hls/CH_R04_DOMASHNY/playlist.m3u8
-#EXTINF:-1 ,ТВ3
-http://s18209.cdn.ngenix.net/hls/CH_R01_TV3/playlist.m3u8
-#EXTINF:-1 ,Пятница!
-http://s18209.cdn.ngenix.net/hls/CH_R01_FRIDAY/playlist.m3u8
-#EXTINF:-1 ,Че
-http://s18209.cdn.ngenix.net/hls/CH_R02_PERETZ/playlist.m3u8
-#EXTINF:-1 ,Карусель
-http://s18209.cdn.ngenix.net/hls/CH_R01_KARUSEL/playlist.m3u8
-
-#EXTINF:-1 ,Мама
-http://stv.mediacdn.ru/live/cdn/mama/playlist_sdhigh.m3u8
-#EXTINF:-1 ,Ani
-http://stv.mediacdn.ru/live/cdn/ani/playlist_sdhigh.m3u8
-#EXTINF:-1 ,Мульт
-https://stv.mediacdn.ru/live/cdn/mult/playlist_hdhigh.m3u8
-
-#EXTINF:-1 ,Tiji
-https://bkm.beetv.kz/btv/live/hls/000000174.m3u8
-
-#EXTINF:-1 ,Солнце
-https://tv.mediacdn.ru/live/disney/playlist_3000k.m3u8
-
-#EXTINF:-1 ,Кнопка ТВ
-https://api.alpaca.t62a.com/hls/9116/stream0.m3u8
-
-#EXTINF:-1 ,Sochi Live HD
-http://serv30.vintera.tv:8081/sochi/sochi_stream/chunks.m3u8
-
-#EXTINF:-1 ,Беларусь 24
-https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/chunklist_w1008231497_b5160000_sleng.m3u8
-
-#EXTINF:-1 ,КВН ТВ
-http://109.239.208.82:80/kvn/index.m3u8
-
-#EXTINF:-1 ,СТС
-https://bkm.beetv.kz/btv/live/hls/000000428.m3u8
-
-#EXTINF:-1 ,Ю
-https://strm.yandex.ru/kal/utv/utv0.m3u8
-
-#EXTINF:-1 ,МИР PREMIUM
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 ,МИР 24 HD
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-
-#EXTINF:-1 ,ТВЦ
-https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
-
-#EXTINF:-1 ,Звезда
-https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:-1,Звезда Плюс
-http://tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/playlist_hdlow.m3u8
-
-#EXTINF:-1 ,CHD TV RU Rock
-http://194.26.229.213/chdtv_ru_rock/index.m3u8
-#EXTINF:-1 ,CHD-TV Rock
-http://194.26.229.213/chdtv_rock/index.m3u8
-
-#EXTINF:-1 ,Bridge TV
-https://strm.yandex.ru/kal/bridgetv/bridgetv0.m3u8
-#EXTINF:-1 ,Bridge TV Classic
-https://strm.yandex.ru/kal/bridgetvclassic/bridgetvclassic0.m3u8
-#EXTINF:-1 ,Bridge TV Deluxe
-https://strm.yandex.ru/kal/bridgetvdeluxe/bridgetvdeluxe0.m3u8
-#EXTINF:-1 ,Bridge TV Hits
-https://strm.yandex.ru/kal/bridgetvhits/bridgetvhits0.m3u8
-#EXTINF:-1 ,Bridge TV Русский хит
-https://strm.yandex.ru/kal/bridgetv_russkiyhit/bridgetv_russkiyhit0.m3u8
-#EXTINF:-1 ,Bridge TV Шлягер
-https://strm.yandex.ru/kal/bridgetv_shlyager/bridgetv_shlyager0.m3u8
-#EXTINF:-1 ,BRIDGE TV ROCK HD
-http://strm.yandex.ru/kal/bridge_tv_fresh/bridge_tv_fresh0.m3u8
-
-#EXTINF:-1 ,VIVA Russia
-https://ipv4.bozztv.com/ssh101/ssh101/vivarussia/playlist.m3u8
-
-#EXTINF:-1 ,RU.TV
-https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
-
-#EXTINF:-1 ,Шансон ТВ
-https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
-
-#EXTINF:-1 ,MTV 00s
-https://bkm.beetv.kz/btv/live/hls/000000264.m3u8
-
-#EXTINF:-1 ,CVR
-https://live.prd.dlive.tv/hls/live/cybervybezradio.m3u8
-
-#EXTINF:-1 ,Loupe 4K
-https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
-#EXTINF:-1 ,Fashion TV UHD
-https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1 ,NASA UHD
-https://endpnt.com/hls/nasa4k60/playlist.m3u8
-#EXTINF:-1 ,Love Nature 4k
-https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
-
-#EXTINF:-1 ,Беларусь 5
-https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8
-
-#EXTINF:-1 ,Eurosport 1 HD
-https://bkm.beetv.kz/btv/live/hls/000002478.m3u8
-#EXTINF:-1 ,Eurosport 2 HD
-https://bkm.beetv.kz/btv/live/hls/000002479.m3u8
-
-#EXTINF:-1 ,Setanta Sports 1 HD
-https://bkm.beetv.kz/btv/live/hls/000004498.m3u8
-#EXTINF:-1 ,Setanta Sports 2 HD
-https://bkm.beetv.kz/btv/live/hls/000004499.m3u8
-#EXTINF:-1 ,Setanta Qazaqstan
-https://bkm.beetv.kz/btv/live/hls/000004619.m3u8
-
-#EXTINF:-1 ,Trace Sport Stars
-http://95.67.12.82:9067
-
-#EXTINF:-1 ,Матч HD
-http://31.148.6.9:10003/index.m3u8
-
-#EXTINF:-1 group-title="Lime (VPN)",Матч! Страна
-https://mhd116.iptv2022.com/p/3k8SKfJKRhiqrlTZcNAuaQ,1716498013/streaming/nashsport/324/1/tracks-v4a1/mono.m3u8
-#EXTINF:-1 group-title="Lime (VPN)",Матч! Игра
-https://mhd116.iptv2022.com/p/nasIYkZbItQLQ7P2PgjdNA,1716498014/streaming/match_igra/324/1/tracks-v4a1/mono.m3u8
-#EXTINF:-1 group-title="Lime (VPN)",Матч! Арена
-https://mhd116.iptv2022.com/p/hb5Lmoxe4zRHOZnGhpYo6g,1716498014/streaming/match_arena/324/1/tracks-v4a1/mono.m3u8
-#EXTINF:-1 group-title="Lime (VPN)",Матч! Боец
-https://mhd116.iptv2022.com/p/lpedMWMypMK4PbVm_1k1-w,1716498014/streaming/boectv/324/1/tracks-v4a1/mono.m3u8
-#EXTINF:-1 group-title="Lime (VPN)",Матч! Футбол 1 HD
-https://mhd116.iptv2022.com/p/pZo_rE0qjIpdcWaA0Np9fQ,1716498014/streaming/footbal1hd/324/1/tracks-v4a1/mono.m3u8
-#EXTINF:-1 group-title="Lime (VPN)",Матч! Футбол 2 HD
-https://mhd116.iptv2022.com/p/U7LrZ-ufJQ8XnXnI2DFX9A,1716498014/streaming/footbal2hd/324/1/tracks-v4a1/mono.m3u8
-#EXTINF:-1 group-title="Lime (VPN)",Матч! Футбол 3 HD
-https://mhd116.iptv2022.com/p/UFaOfacOH_0fOpNL-UZiGA,1716498014/streaming/footbal3hd/324/1/tracks-v4a1/mono.m3u8
-#EXTINF:-1 group-title="Lime (VPN)",Матч! Премьер HD
-https://mhd116.iptv2022.com/p/M-2QalT_v1RGAWZOew1C_Q,1716498014/streaming/nashfootbalhd/324/1/tracks-v4a1/mono.m3u8
-#EXTINF:-1 group-title="Lime (VPN)",Хоккейный HD
-https://mhd116.iptv2022.com/p/TIvgdOhYOocqQkrW1YRmpg,1716498014/streaming/hokkeyniy/324/1/tracks-v4a1/mono.m3u8
-#EXTINF:-1 group-title="Lime (VPN)",Спортивный HD
-https://mhd116.iptv2022.com/p/k_aMInFFIzaRNQSrTa4PRQ,1716498014/streaming/sportivniyhd/324/1/tracks-v4a1/mono.m3u8
-#EXTINF:-1 group-title="Lime (VPN)",Футбольный HD
-https://mhd116.iptv2022.com/p/-rzFJb4cCe_KrsDcN-DNcg,1716498014/streaming/footbolniyhd/324/1/tracks-v4a1/mono.m3u8
-#EXTINF:-1 group-title="Lime (VPN)",Бокс ТВ
-https://mhd116.iptv2022.com/p/InvKDDIW3VZ_BAwIJnK35Q,1716498014/streaming/bokstv/324/1/tracks-v4a1/mono.m3u8
-#EXTINF:-1 group-title="Lime (VPN)",Старт
-https://mhd116.iptv2022.com/p/RwOV2g_z6bqnUodKDS8NNg,1716498014/streaming/start/324/1/tracks-v4a1/mono.m3u8
-#EXTINF:-1 group-title="Lime (VPN)",MMA-TV.com
-https://mhd116.iptv2022.com/p/jnip1WLzR81G7wMATkG59w,1716498014/streaming/m1global/324/1/tracks-v4a1/mono.m3u8
-#EXTINF:-1 group-title="Lime (VPN)",Старт Триумф
-https://mhd116.iptv2022.com/p/JJ5XDLr2JyAg8gxtd9SeBg,1716498014/streaming/start-triumf/324/1/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="Lime (VPN)",FightBox
-https://mhd116.iptv2022.com/p/0o-JI3NGOlsL5palKBqPlA,1716498014/streaming/fightbox/324/1/tracks-v4a1/mono.m3u8
-
-
-#EXTINF:-1 ,Удар HD
-https://bkm.beetv.kz/btv/live/hls/000007802.m3u8
-
-#EXTINF:-1 ,Матч! Планета
-https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
-#EXTINF:-1 ,KHL
-https://strm.yandex.ru/kal/khl_belarus/khl_belarus0.m3u8
-
-#EXTINF:-1 ,KHL HD
-http://185.37.150.46:8092/KHL_HD/index.m3u8
-
-#EXTINF:-1 ,Viasat Sport
-https://bkm.beetv.kz/btv/live/hls/000000135.m3u8
-
-#EXTINF:-1 ,Конный мир HD
-http://176.113.48.221:8986/145
-
-#EXTINF:-1 ,IMPACT! Wrestling
-https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+]
