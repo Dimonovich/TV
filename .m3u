@@ -97,6 +97,15 @@ https://bkm.beetv.kz/btv/live/hls/000000869.m3u8
 #EXTINF:-1 ,viju+ Serial
 https://bkm.beetv.kz/btv/live/hls/000004375.m3u8
 
+#EXTINF:-1,Amedia 1
+http://91.207.115.228:5000/c55
+#EXTINF:-1 ,Amedia 2
+http://91.207.115.228:5000/c56
+#EXTINF:-1 ,AMEDIA HIT
+http://91.207.115.228:5000/c57
+#EXTINF:-1 ,Amedia Premium HD
+http://91.207.115.228:5000/c58
+
 #EXTINF:-1 ,Gags Network HD
 http://95.67.12.82:9069
 
@@ -266,7 +275,8 @@ https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 ,Беларусь 5
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8
 
-
+#EXTINF:-1 ,Eurosport 1 HD
+http://91.207.115.228:5000/c153
 #EXTINF:-1 ,Eurosport 2 HD
 https://bkm.beetv.kz/btv/live/hls/000002479.m3u8
 
