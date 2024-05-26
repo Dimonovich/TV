@@ -84,10 +84,10 @@ https://bkm.beetv.kz/btv/live/hls/000004157.m3u8
 https://bkm.beetv.kz/btv/live/hls/000005528.m3u8
 #EXTINF:-1 ,Viasat Nature HD
 https://bkm.beetv.kz/btv/live/hls/000006482.m3u8
-#EXTINF:-1 ,TV 1000
-https://bkm.beetv.kz/btv/live/hls/000003747.m3u8
-#EXTINF:-1 ,viju TV1000 Action
-https://bkm.beetv.kz/btv/live/hls/000003910.m3u8
+#EXTINF:-1,TV1000 HD
+http://45.143.108.104:80/TV1000_HD/index.m3u8
+#EXTINF:-1,TV 1000 ACTION
+http://45.143.108.104:80/TV1000ACTION_SD/index.m3u8
 #EXTINF:-1 ,TV1000 Русское кино
 https://bkm.beetv.kz/btv/live/hls/000003748.m3u8
 #EXTINF:-1 ,viju+ Comedy
