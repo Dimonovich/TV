@@ -127,13 +127,13 @@ http://s18209.cdn.ngenix.net/hls/CH_R03_U/playlist.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",Чехов ТВ/Продвижение
 http://s18209.cdn.ngenix.net/hls/CH_R01_CHEKHOVTV/variant.m3u8
 #EXTINF:-1 group-title="TEST (VPN)"  tvg-logo="https://i.postimg.cc/mrB527vG/1.png" ,Sunset Space
-https://Stream.sunset-media.ru:443/Free/Free/9.m3u8
+https://stream.sunset-media.ru:443/Free/Free/3.m3u8
 #EXTINF:-1 group-title="TEST (VPN)"  tvg-logo="https://i.postimg.cc/G2BNZb0B/1.png" ,Sunset Movie
-https://Stream.sunset-media.ru:443/Free/Free/8.m3u8
+https://stream.sunset-media.ru:443/Free/Free/1.m3u8
 #EXTINF:-1 group-title="TEST (VPN)"  tvg-logo="https://i.postimg.cc/d0ZjF31K/1.png" ,Sunset Music
-https://Stream.sunset-media.ru:443/Free/Free/7.m3u8
-#EXTINF:-1 group-title="TEST (VPN)"  tvg-logo="https://sunset-media.ru/assets/img/screenshots/kids.png" ,Sunset Kids
-https://stream.sunset-media.ru/Free/Free/22.m3u8
+https://stream.sunset-media.ru:443/Free/Free/2.m3u8
+#EXTINF:-1 group-title="TEST (VPN)"  tvg-logo="https://stream.sunset-media.ru:443/images/AfE0MpsGM8EECV5bHCwLz405Nh5VXnPV-VdC2Z_4Pl-o8vmziUihdFw9YtuIlvK9.png" ,Sunset Kids
+https://stream.sunset-media.ru:443/Free/Free/4.m3u8
 #EXTINF:-1 group-title="TEST (VPN)", Малдер Всё тв 
 https://media-gateway-cache.nuum.ru/live/85729/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)", Best Film 
@@ -3834,7 +3834,6 @@ https://streaming.thestream.cyou/live/232-req_offset_28000000-req_window_0-1k_v5
 #EXTINF:-1 group-title="Телевизор 24 (VPN 🇷🇺)",МузТВ
 https://streaming.thestream.cyou/live/618-req_offset_28000000-req_window_0-3k_v5.m3u8
 #EXTINF:-1 group-title="Телевизор 24 (VPN 🇷🇺)",МАТЧ ТВ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://streaming.televizor-24-tochka.ru/live/6-req_offset_28000000-req_window_0-1k_v5.m3u8
 
 
