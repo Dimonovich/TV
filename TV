@@ -3785,11 +3785,11 @@ http://146.158.0.56:80/ZvezdaPlus/index.m3u8
 
 #EXTINF:-1 group-title="Телевизор 24 (VPN 🇷🇺)",Первый канал
 https://streaming.goodstream.cyou/live/210-req_offset_28000000-req_window_0-1k_v5.m3u8
-#EXTINF:-1 group-title="Телевизор 24 (VPN 🇷🇺)",НТВ
+#EXTINF:-1 group-title="Телевизор 24 (VPN 🇷🇺)",НТВ-Мир
 https://streaming.thestream.cyou/live/213-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Телевизор 24 (VPN 🇷🇺)",ТНТ
 https://streaming.thestream.cyou/live/38-req_offset_28000000-req_window_0-1k_v5.m3u8
-#EXTINF:-1 group-title="Телевизор 24 (VPN 🇷🇺)",Россия 1
+#EXTINF:-1 group-title="Телевизор 24 (VPN 🇷🇺)",Россия РТР
 https://streaming.thestream.cyou/live/211-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Телевизор 24 (VPN 🇷🇺)",Россия 24
 https://streaming.thestream.cyou/live/30-req_offset_28000000-req_window_1-3k_v5.m3u8
@@ -3834,6 +3834,7 @@ https://streaming.thestream.cyou/live/232-req_offset_28000000-req_window_0-1k_v5
 #EXTINF:-1 group-title="Телевизор 24 (VPN 🇷🇺)",МузТВ
 https://streaming.thestream.cyou/live/618-req_offset_28000000-req_window_0-3k_v5.m3u8
 #EXTINF:-1 group-title="Телевизор 24 (VPN 🇷🇺)",МАТЧ ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://streaming.televizor-24-tochka.ru/live/6-req_offset_28000000-req_window_0-1k_v5.m3u8
 
 
