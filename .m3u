@@ -85,9 +85,9 @@ https://bkm.beetv.kz/btv/live/hls/000005528.m3u8
 #EXTINF:-1 ,Viasat Nature HD
 https://bkm.beetv.kz/btv/live/hls/000006482.m3u8
 #EXTINF:-1 ,TV 1000
-https://bkm.beetv.kz/btv/live/hls/000003747.m3u8
+http://45.143.108.104:80/TV1000_HD/index.m3u8
 #EXTINF:-1 ,viju TV1000 Action
-https://bkm.beetv.kz/btv/live/hls/000003910.m3u8
+http://45.143.108.104:80/TV1000ACTION_SD/index.m3u8
 #EXTINF:-1 ,TV1000 Русское кино
 https://bkm.beetv.kz/btv/live/hls/000003748.m3u8
 #EXTINF:-1 ,viju+ Comedy
@@ -98,9 +98,9 @@ https://bkm.beetv.kz/btv/live/hls/000000869.m3u8
 https://bkm.beetv.kz/btv/live/hls/000004375.m3u8
 
 #EXTINF:-1 ,a1
-https://bkm.beetv.kz/btv/live/hls/000000710.m3u8
+http://45.143.108.104:80/AMEDIA1_SD/index.m3u8
 #EXTINF:-1 ,a2
-https://bkm.beetv.kz/btv/live/hls/000000351.m3u8
+http://45.143.108.104:80/AMEDIA2_SD/index.m3u8
 #EXTINF:-1 ,Amedia HIT
 https://bkm.beetv.kz/btv/live/hls/000001662.m3u8
 #EXTINF:-1 ,Amedia Premium HD
