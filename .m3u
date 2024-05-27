@@ -12,7 +12,7 @@ http://91.142.158.107:8092/play/1/index.m3u8
 http://hlstest.eltex-media.ru:8085/Rossia1/index.m3u8
 
 #EXTINF:-1 ,РОССИЯ К
-https://bkm.beetv.kz/btv/live/hls/000000066.m3u8
+http://s18209.cdn.ngenix.net/hls/CH_R02_ROSSIAK/playlist.m3u8
 
 #EXTINF:-1 ,Россия 24
 http://s18209.cdn.ngenix.net/hls/CH_R01_ROSSIA24/playlist.m3u8
@@ -84,10 +84,10 @@ https://bkm.beetv.kz/btv/live/hls/000004157.m3u8
 https://bkm.beetv.kz/btv/live/hls/000005528.m3u8
 #EXTINF:-1 ,Viasat Nature HD
 https://bkm.beetv.kz/btv/live/hls/000006482.m3u8
-#EXTINF:-1,TV1000 HD
-http://45.143.108.104:80/TV1000_HD/index.m3u8
-#EXTINF:-1,TV 1000 ACTION
-http://45.143.108.104:80/TV1000ACTION_SD/index.m3u8
+#EXTINF:-1 ,TV 1000
+https://bkm.beetv.kz/btv/live/hls/000003747.m3u8
+#EXTINF:-1 ,viju TV1000 Action
+https://bkm.beetv.kz/btv/live/hls/000003910.m3u8
 #EXTINF:-1 ,TV1000 Русское кино
 https://bkm.beetv.kz/btv/live/hls/000003748.m3u8
 #EXTINF:-1 ,viju+ Comedy
@@ -97,20 +97,23 @@ https://bkm.beetv.kz/btv/live/hls/000000869.m3u8
 #EXTINF:-1 ,viju+ Serial
 https://bkm.beetv.kz/btv/live/hls/000004375.m3u8
 
-#EXTINF:-1,Amedia 1
-http://91.207.115.228:5000/c55
-#EXTINF:-1 ,Amedia 2
-http://91.207.115.228:5000/c56
-#EXTINF:-1 ,AMEDIA HIT
-http://91.207.115.228:5000/c57
+#EXTINF:-1 ,a1
+https://bkm.beetv.kz/btv/live/hls/000000710.m3u8
+#EXTINF:-1 ,a2
+https://bkm.beetv.kz/btv/live/hls/000000351.m3u8
+#EXTINF:-1 ,Amedia HIT
+https://bkm.beetv.kz/btv/live/hls/000001662.m3u8
 #EXTINF:-1 ,Amedia Premium HD
-http://91.207.115.228:5000/c58
+https://bkm.beetv.kz/btv/live/hls/000000709.m3u8
 
 #EXTINF:-1 ,Gags Network HD
 http://95.67.12.82:9069
 
 #EXTINF:-1 ,Ералаш
 https://ipv4.bozztv.com/dvrfl07/ushba8/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 ,Мосфильм. Золотая коллекция
+https://bkm.beetv.kz/btv/live/hls/000006365.m3u8
 
 #EXTINF:-1 ,РУССКИЙ РОМАН
 http://91.142.158.107:8092/play/25/index.m3u8
@@ -157,8 +160,13 @@ http://195.9.195.3:8080/hls/202127.m3u8
 #EXTINF:-1 ,Кошмар HD
 http://195.9.195.3:8080/hls/204709.m3u8
 
+#EXTINF:-1 ,Дом кино
+https://bkm.beetv.kz/btv/live/hls/000000050.m3u8
 #EXTINF:-1 ,НСТ
 https://strm.yandex.ru/kal/nst_belarus/nst_belarus0.m3u8
+
+#EXTINF:-1 ,black
+https://bkm.beetv.kz/btv/live/hls/000000520.m3u8
 
 #EXTINF:-1 ,Trash
 https://bkm.beetv.kz/btv/live/hls/000005621.m3u8
@@ -276,7 +284,7 @@ https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8
 
 #EXTINF:-1 ,Eurosport 1 HD
-http://91.207.115.228:5000/c153
+https://bkm.beetv.kz/btv/live/hls/000002478.m3u8
 #EXTINF:-1 ,Eurosport 2 HD
 https://bkm.beetv.kz/btv/live/hls/000002479.m3u8
 
@@ -295,37 +303,37 @@ http://31.148.6.9:10003/index.m3u8
 
 
 #EXTINF:-1 group-title="Lime (VPN)",Матч! Страна
-https://mhd116.iptv2022.com/p/53tUbGjDIR1KoQ32n2f5Ow,1716757212/streaming/nashsport/324/1/tracks-v4a1/mono.m3u8
+https://mhd116.iptv2022.com/p/x4iW_kZdqQ51PNaHbVNQtg,1716843613/streaming/nashsport/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:-1 group-title="Lime (VPN)",Матч! Игра
-https://mhd116.iptv2022.com/p/ivNrbBgvqWloldlzifF_zg,1716757212/streaming/match_igra/324/1/tracks-v4a1/mono.m3u8
+https://mhd116.iptv2022.com/p/ECe-2yhHYxb1S3Wzoi5G4Q,1716843613/streaming/match_igra/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:-1 group-title="Lime (VPN)",Матч! Арена
-https://mhd116.iptv2022.com/p/5iTS5M2gljiQZKsSM1gW4w,1716757212/streaming/match_arena/324/1/tracks-v4a1/mono.m3u8
+https://mhd116.iptv2022.com/p/EkWjEliOVJpcWH77ae3_5A,1716843613/streaming/match_arena/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:-1 group-title="Lime (VPN)",Матч! Боец
-https://mhd116.iptv2022.com/p/MyqGpfrcYbV2xwDRhAwPGg,1716757212/streaming/boectv/324/1/tracks-v4a1/mono.m3u8
+https://mhd116.iptv2022.com/p/E6562Fdf1q6bXVvAToS9Pg,1716843613/streaming/boectv/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:-1 group-title="Lime (VPN)",Матч! Футбол 1 HD
-https://mhd116.iptv2022.com/p/F4NNMyObnjjrk07gbalFLA,1716757212/streaming/footbal1hd/324/1/tracks-v4a1/mono.m3u8
+https://mhd116.iptv2022.com/p/gmOYt54KHqiRfSRNj_F7Iw,1716843613/streaming/footbal1hd/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:-1 group-title="Lime (VPN)",Матч! Футбол 2 HD
-https://mhd116.iptv2022.com/p/uh_SNxvbkLMVQbBjZvguVw,1716757212/streaming/footbal2hd/324/1/tracks-v4a1/mono.m3u8
+https://mhd116.iptv2022.com/p/WaW3yaqDe4qtGgvdWeSmdQ,1716843613/streaming/footbal2hd/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:-1 group-title="Lime (VPN)",Матч! Футбол 3 HD
-https://mhd116.iptv2022.com/p/xBAuoXFT9lWcfc8d-fgIfQ,1716757212/streaming/footbal3hd/324/1/tracks-v4a1/mono.m3u8
+https://mhd116.iptv2022.com/p/sXdpkznfi7NiT88m3jX5FA,1716843613/streaming/footbal3hd/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:-1 group-title="Lime (VPN)",Матч! Премьер HD
-https://mhd116.iptv2022.com/p/QykwXu2pfLlWNofWKrn0Eg,1716757212/streaming/nashfootbalhd/324/1/tracks-v4a1/mono.m3u8
+https://mhd116.iptv2022.com/p/1GqfKTUsTZCaV3hurrdWRQ,1716843613/streaming/nashfootbalhd/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:-1 group-title="Lime (VPN)",Хоккейный HD
-https://mhd116.iptv2022.com/p/okjLgyywIAxmi4hk7Vqt7w,1716757212/streaming/hokkeyniy/324/1/tracks-v4a1/mono.m3u8
+https://mhd116.iptv2022.com/p/_etb3pKWXs6sHdISZe-7Gg,1716843613/streaming/hokkeyniy/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:-1 group-title="Lime (VPN)",Спортивный HD
-https://mhd116.iptv2022.com/p/kZyRH-cMo9aXYLew84FDqw,1716757212/streaming/sportivniyhd/324/1/tracks-v4a1/mono.m3u8
+https://mhd116.iptv2022.com/p/aSwqXKwwOOLZzjHkZ5Dw5A,1716843613/streaming/sportivniyhd/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:-1 group-title="Lime (VPN)",Футбольный HD
-https://mhd116.iptv2022.com/p/vBCrMVlSQJdSRm35zI0_eA,1716757212/streaming/footbolniyhd/324/1/tracks-v4a1/mono.m3u8
+https://mhd116.iptv2022.com/p/bj6yGH2n2oXR9Wh_tStlyg,1716843613/streaming/footbolniyhd/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:-1 group-title="Lime (VPN)",Бокс ТВ
-https://mhd116.iptv2022.com/p/f8OSiA5LSpGYpG2_QxrVhg,1716757212/streaming/bokstv/324/1/tracks-v4a1/mono.m3u8
+https://mhd116.iptv2022.com/p/g2aMIZLXVUpiMazWgEndIw,1716843613/streaming/bokstv/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:-1 group-title="Lime (VPN)",Старт
-https://mhd116.iptv2022.com/p/h5QoMpVS_ufZEWBoq5IuVw,1716757213/streaming/start/324/1/tracks-v4a1/mono.m3u8
+https://mhd116.iptv2022.com/p/3DLYmhPj_GawjmvfHnwHnA,1716843613/streaming/start/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:-1 group-title="Lime (VPN)",MMA-TV.com
-https://mhd116.iptv2022.com/p/62GjYXzbTCSS7ux1t5El4w,1716757213/streaming/m1global/324/1/tracks-v4a1/mono.m3u8
+https://mhd116.iptv2022.com/p/ABIOQ2HRzdO-93doYipnfA,1716843613/streaming/m1global/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:-1 group-title="Lime (VPN)",Старт Триумф
-https://mhd116.iptv2022.com/p/noBr6coPNJeJsFDmdqhOjA,1716757213/streaming/start-triumf/324/1/tracks-v2a1/mono.m3u8
+https://mhd116.iptv2022.com/p/44fpCsIAdEi3m1pwROysrA,1716843613/streaming/start-triumf/324/1/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Lime (VPN)",FightBox
-https://mhd116.iptv2022.com/p/JCZZ-OamsPU_FK9zTILesQ,1716757213/streaming/fightbox/324/1/tracks-v4a1/mono.m3u8
+https://mhd116.iptv2022.com/p/0fq-CGT4_JeVtiLKtOPLEw,1716843613/streaming/fightbox/324/1/tracks-v4a1/mono.m3u8
 
 
 #EXTINF:-1 ,Удар HD
