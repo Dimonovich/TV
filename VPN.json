@@ -16,21 +16,6 @@
     "udpdns": false
   },
   {
-    "server": "194.26.229.18",
-    "server_port": 50744,
-    "password": "sIZ80DZsAC9ZSshS69gYql",
-    "method": "CHACHA20-IETF-POLY1305",
-    "remarks": "🇷🇺 Россия (https://mssg.me/neo_tv)",
-    "route": "all",
-    "remote_dns": "one.one.one.one",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
     "server": "51.103.174.155",
     "server_port": 7660,
     "password": "YNewlpyKqjdNyOIoyhPw8k",
