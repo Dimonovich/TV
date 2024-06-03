@@ -2605,54 +2605,6 @@ http://video.platformcraft.ru/hls/etv/egorievsk-tv/720p.m3u8
 
 
 
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",Первый канал HD
-https://s73411.cdn.ngenix.net/hls-livef2/1tv/tracks-v4a1/mono.m3u8?token=v2.dfzZ5yI0pTGeFP0h5JQqfiYnzJGG0U1xQ7J85QPFNy4.BilK2Llzr7DeMX2Gyar9PBHrhpbxnXkx4ymcGj_Ygw4.1717384636.069ae4f0733eb6ac174d5e2716330110
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",Россия HD
-https://s73411.cdn.ngenix.net/hls-livef2/russia1/tracks-v4a1/mono.m3u8?token=v2.dfzZ5yI0pTGeFP0h5JQqfiYnzJGG0U1xQ7J85QPFNy4.BilK2Llzr7DeMX2Gyar9PBHrhpbxnXkx4ymcGj_Ygw4.1717384636.069ae4f0733eb6ac174d5e2716330110
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",РЕН ТВ HD
-https://s73411.cdn.ngenix.net/hls-livef1/ren-tv/tracks-v4a1/mono.m3u8?token=v2.dfzZ5yI0pTGeFP0h5JQqfiYnzJGG0U1xQ7J85QPFNy4.BilK2Llzr7DeMX2Gyar9PBHrhpbxnXkx4ymcGj_Ygw4.1717384636.069ae4f0733eb6ac174d5e2716330110
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",НТВ HD
-https://s73411.cdn.ngenix.net/hls-livec2/streams/vitrina-hls/ntv0h/tracks-v4a1/mono.m3u8?token=v2.dfzZ5yI0pTGeFP0h5JQqfiYnzJGG0U1xQ7J85QPFNy4.BilK2Llzr7DeMX2Gyar9PBHrhpbxnXkx4ymcGj_Ygw4.1717384636.069ae4f0733eb6ac174d5e2716330110
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",ТНТ HD
-https://s73411.cdn.ngenix.net/hls-livec1/streams/vitrina-hls/tnt/tracks-v4a1/mono.m3u8?token=v2.dfzZ5yI0pTGeFP0h5JQqfiYnzJGG0U1xQ7J85QPFNy4.BilK2Llzr7DeMX2Gyar9PBHrhpbxnXkx4ymcGj_Ygw4.1717384636.069ae4f0733eb6ac174d5e2716330110
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)"tvg-id="tnt-pl7" ,ТНТ HD +7 
-https://s73411.cdn.ngenix.net/hls-livec1/streams/vitrina-hls/tnt7h/tracks-v4a1/mono.m3u8?token=v2.dfzZ5yI0pTGeFP0h5JQqfiYnzJGG0U1xQ7J85QPFNy4.BilK2Llzr7DeMX2Gyar9PBHrhpbxnXkx4ymcGj_Ygw4.1717384636.069ae4f0733eb6ac174d5e2716330110
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",Пятый канал
-https://s73411.cdn.ngenix.net/hls-livef1/tv-5/tracks-v3a1/mono.m3u8?token=v2.dfzZ5yI0pTGeFP0h5JQqfiYnzJGG0U1xQ7J85QPFNy4.BilK2Llzr7DeMX2Gyar9PBHrhpbxnXkx4ymcGj_Ygw4.1717384636.069ae4f0733eb6ac174d5e2716330110
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",Россия К
-https://s73411.cdn.ngenix.net/hls-livec2/streams/vitrina-hls/russiak/tracks-v3a1/mono.m3u8?token=v2.dfzZ5yI0pTGeFP0h5JQqfiYnzJGG0U1xQ7J85QPFNy4.BilK2Llzr7DeMX2Gyar9PBHrhpbxnXkx4ymcGj_Ygw4.1717384636.069ae4f0733eb6ac174d5e2716330110
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",Россия 24
-https://s73411.cdn.ngenix.net/hls-livef1/russia24/tracks-v3a1/mono.m3u8?token=v2.dfzZ5yI0pTGeFP0h5JQqfiYnzJGG0U1xQ7J85QPFNy4.BilK2Llzr7DeMX2Gyar9PBHrhpbxnXkx4ymcGj_Ygw4.1717384636.069ae4f0733eb6ac174d5e2716330110
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",ОТР HD
-https://s73411.cdn.ngenix.net/hls-livec1/streams/vitrina-hls/otr_6/tracks-v4a1/mono.m3u8?token=v2.dfzZ5yI0pTGeFP0h5JQqfiYnzJGG0U1xQ7J85QPFNy4.BilK2Llzr7DeMX2Gyar9PBHrhpbxnXkx4ymcGj_Ygw4.1717384636.069ae4f0733eb6ac174d5e2716330110
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",ТВЦ HD
-https://s73411.cdn.ngenix.net/hls-livec1/streams/vitrina-hls/tvc/tracks-v4a1/mono.m3u8?token=v2.dfzZ5yI0pTGeFP0h5JQqfiYnzJGG0U1xQ7J85QPFNy4.BilK2Llzr7DeMX2Gyar9PBHrhpbxnXkx4ymcGj_Ygw4.1717384636.069ae4f0733eb6ac174d5e2716330110
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",Спас
-https://s73411.cdn.ngenix.net/hls-livef2/spas/tracks-v3a1/mono.m3u8?token=v2.dfzZ5yI0pTGeFP0h5JQqfiYnzJGG0U1xQ7J85QPFNy4.BilK2Llzr7DeMX2Gyar9PBHrhpbxnXkx4ymcGj_Ygw4.1717384636.069ae4f0733eb6ac174d5e2716330110
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",СТС HD
-https://s73411.cdn.ngenix.net/hls-livef2/ctc/tracks-v4a1/mono.m3u8?token=v2.dfzZ5yI0pTGeFP0h5JQqfiYnzJGG0U1xQ7J85QPFNy4.BilK2Llzr7DeMX2Gyar9PBHrhpbxnXkx4ymcGj_Ygw4.1717384636.069ae4f0733eb6ac174d5e2716330110
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",Домашний HD
-https://s73411.cdn.ngenix.net/hls-livef2/ctc-dom/tracks-v4a1/mono.m3u8?token=v2.dfzZ5yI0pTGeFP0h5JQqfiYnzJGG0U1xQ7J85QPFNy4.BilK2Llzr7DeMX2Gyar9PBHrhpbxnXkx4ymcGj_Ygw4.1717384636.069ae4f0733eb6ac174d5e2716330110
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",ТВ3 HD
-https://s73411.cdn.ngenix.net/hls-livec2/streams/vitrina-hls/tv3/tracks-v4a1/mono.m3u8?token=v2.dfzZ5yI0pTGeFP0h5JQqfiYnzJGG0U1xQ7J85QPFNy4.BilK2Llzr7DeMX2Gyar9PBHrhpbxnXkx4ymcGj_Ygw4.1717384636.069ae4f0733eb6ac174d5e2716330110
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)"tvg-id="tv3-ru-pl7" ,ТВ3 HD +7
-https://s73411.cdn.ngenix.net/hls-livec1/streams/vitrina-hls/tv3h7/tracks-v4a1/mono.m3u8?token=v2.dfzZ5yI0pTGeFP0h5JQqfiYnzJGG0U1xQ7J85QPFNy4.BilK2Llzr7DeMX2Gyar9PBHrhpbxnXkx4ymcGj_Ygw4.1717384636.069ae4f0733eb6ac174d5e2716330110
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",Пятница! HD
-https://s73411.cdn.ngenix.net/hls-livec2/streams/vitrina-hls/friday/tracks-v4a1/mono.m3u8?token=v2.dfzZ5yI0pTGeFP0h5JQqfiYnzJGG0U1xQ7J85QPFNy4.BilK2Llzr7DeMX2Gyar9PBHrhpbxnXkx4ymcGj_Ygw4.1717384636.069ae4f0733eb6ac174d5e2716330110
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)"tvg-id="piatnica-pl7" ,Пятница! HD +7
-https://s73411.cdn.ngenix.net/hls-livec2/streams/vitrina-hls/friday7h/tracks-v4a1/mono.m3u8?token=v2.dfzZ5yI0pTGeFP0h5JQqfiYnzJGG0U1xQ7J85QPFNy4.BilK2Llzr7DeMX2Gyar9PBHrhpbxnXkx4ymcGj_Ygw4.1717384636.069ae4f0733eb6ac174d5e2716330110
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",Звезда HD
-https://s73411.cdn.ngenix.net/hls-livef2/zvezda/tracks-v4a1/mono.m3u8?token=v2.dfzZ5yI0pTGeFP0h5JQqfiYnzJGG0U1xQ7J85QPFNy4.BilK2Llzr7DeMX2Gyar9PBHrhpbxnXkx4ymcGj_Ygw4.1717384636.069ae4f0733eb6ac174d5e2716330110
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",Мир HD
-https://s73411.cdn.ngenix.net/hls-livec2/streams/vitrina-hls/mir/tracks-v4a1/mono.m3u8?token=v2.dfzZ5yI0pTGeFP0h5JQqfiYnzJGG0U1xQ7J85QPFNy4.BilK2Llzr7DeMX2Gyar9PBHrhpbxnXkx4ymcGj_Ygw4.1717384636.069ae4f0733eb6ac174d5e2716330110
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",Муз ТВ HD
-https://s73411.cdn.ngenix.net/hls-livef2/muztv/tracks-v4a1/mono.m3u8?token=v2.dfzZ5yI0pTGeFP0h5JQqfiYnzJGG0U1xQ7J85QPFNy4.BilK2Llzr7DeMX2Gyar9PBHrhpbxnXkx4ymcGj_Ygw4.1717384636.069ae4f0733eb6ac174d5e2716330110
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",Карусель
-https://s73411.cdn.ngenix.net/hls-livec1/streams/vitrina-hls/karusel/tracks-v3a1/mono.m3u8?token=v2.dfzZ5yI0pTGeFP0h5JQqfiYnzJGG0U1xQ7J85QPFNy4.BilK2Llzr7DeMX2Gyar9PBHrhpbxnXkx4ymcGj_Ygw4.1717384636.069ae4f0733eb6ac174d5e2716330110
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",Матч ТВ HD
-https://s73411.cdn.ngenix.net/hls-livef1/matchtv/tracks-v4a1/mono.m3u8?token=v2.dfzZ5yI0pTGeFP0h5JQqfiYnzJGG0U1xQ7J85QPFNy4.BilK2Llzr7DeMX2Gyar9PBHrhpbxnXkx4ymcGj_Ygw4.1717384636.069ae4f0733eb6ac174d5e2716330110
-
-
 
 
 
