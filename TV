@@ -2675,7 +2675,10 @@ http://81.177.197.13:8000/play/a002/index.m3u8
 
 
 
-
+#EXTINF:-1 group-title="К Телеком (VPN)" ,HD Life
+http://94.230.128.105:8080/HDLife/index.m3u8
+#EXTINF:-1 group-title="К Телеком (VPN)" ,Кухня ТВ
+http://94.230.128.105:8080/KuhnyaTV/index.m3u8
 #EXTINF:-1 group-title="К Телеком (VPN)" ,ТОЧКА ТВ
 http://94.230.128.105:8080/TochkaTV/mono.m3u8
 #EXTINF:-1 group-title="К Телеком (VPN)" ,БСТ
@@ -2686,12 +2689,8 @@ http://94.230.128.105:8080/Zagorodnyi/index.m3u8
 http://94.230.128.105:8080/Arirang/index.m3u8
 #EXTINF:-1 group-title="К Телеком (VPN)" ,БСТ
 http://94.230.128.105:8080/BST/index.m3u8
-#EXTINF:-1 group-title="К Телеком (VPN)" ,Здоровое ТВ
-http://94.230.128.105:8080/ZdorovoeTV/index.m3u8
 #EXTINF:-1 group-title="К Телеком (VPN)" ,Вместе-РФ
 http://94.230.128.105:8080/Vmeste/index.m3u8
-#EXTINF:-1 group-title="К Телеком (VPN)" ,HTC
-http://94.230.128.105:8080/HTC/index.m3u8
 #EXTINF:-1 group-title="К Телеком (VPN)" ,ТОЧКА ТВ
 http://94.230.128.105:8080/TochkaTV/index.m3u8
 #EXTINF:-1 group-title="К Телеком (VPN)" ,Мульт
