@@ -606,6 +606,8 @@ http://sc.id-tv.kz/Eurosport_1HD_34_35.m3u8
 https://bkm.beetv.kz/btv/live/hls/000000669.m3u8
 #EXTINF:-1 group-title="Орбита Плюс",Первый канал
 https://bkm.beetv.kz/btv/live/hls/000001227.m3u8
+#EXTINF:-1 group-title="Орбита Плюс",ТНТ
+https://bkm.beetv.kz/btv/live/hls/000007833.m3u8
 #EXTINF:-1 group-title="Орбита Плюс",ТНТ4
 https://bkm.beetv.kz/btv/live/hls/000002926.m3u8
 #EXTINF:-1 group-title="Орбита Плюс",НТВ ПРАВО
@@ -886,6 +888,18 @@ https://bkm.beetv.kz/btv/live/hls/100006592.m3u8
 https://bkm.beetv.kz/btv/live/hls/000008575.m3u8
 #EXTINF:-1 group-title="Орбита Плюс",ULYTAU
 https://bkm.beetv.kz/btv/live/hls/000003604.m3u8
+#EXTINF:-1 group-title="Орбита Плюс",Euronews English
+https://bkm.beetv.kz/btv/live/hls/000002455.m3u8
+#EXTINF:-1 group-title="Орбита Плюс",Ключ
+https://bkm.beetv.kz/btv/live/hls/000004585.m3u8
+#EXTINF:-1 group-title="Орбита Плюс",Зал суда
+https://bkm.beetv.kz/btv/live/hls/000006638.m3u8
+#EXTINF:-1 group-title="Орбита Плюс",Gags Network
+https://bkm.beetv.kz/btv/live/hls/000006639.m3u8
+#EXTINF:-1 group-title="Орбита Плюс",Новый игровой канал
+https://bkm.beetv.kz/btv/live/hls/000008615.m3u8
+#EXTINF:-1 group-title="Орбита Плюс",Народ Всё Видит
+https://bkm.beetv.kz/btv/live/hls/000008614.m3u8
 #EXTINF:-1 group-title="Орбита Плюс",Тараз 24
 https://bkm.beetv.kz/btv/live/hls/000007838.m3u8
 #EXTINF:-1 group-title="Орбита Плюс",ABAI TV
@@ -990,8 +1004,8 @@ https://bkm.beetv.kz/btv/live/hls/000006899.m3u8
 https://bkm.beetv.kz/btv/live/hls/000002649.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Q League
 https://bkm.beetv.kz/btv/live/hls/000006969.m3u8
-
-
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Q Football
+https://bkm.beetv.kz/btv/live/hls/000008848.m3u8
 
 
 
