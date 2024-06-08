@@ -9,7 +9,7 @@ https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 http://91.142.158.107:8092/play/1/index.m3u8
 
 #EXTINF:-1 ,Россия 1
-http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
+http://hlstest.eltex-media.ru:8085/Rossia1/index.m3u8
 
 #EXTINF:-1 ,РОССИЯ К
 https://bkm.beetv.kz/btv/live/hls/000000066.m3u8
@@ -285,44 +285,42 @@ http://95.67.12.82:9067
 #EXTINF:-1 ,Матч HD
 http://31.148.6.9:10003/index.m3u8
 
-
 #EXTINF:-1 group-title="Lime (VPN)",Матч! Страна
-https://mhd116.iptv2022.com/p/hqtUxJUj7cQlNKg1Nj0FMA,1717794012/streaming/nashsport/324/1/tracks-v4a1/mono.m3u8
+https://mhd116.iptv2022.com/p/UIYvfTNMta-A-3OO_nYfCg,1717880412/streaming/nashsport/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:-1 group-title="Lime (VPN)",Матч! Игра
-https://mhd116.iptv2022.com/p/4xIo89zunPXyxtC_teO9Vw,1717794012/streaming/match_igra/324/1/tracks-v4a1/mono.m3u8
+https://mhd116.iptv2022.com/p/bejQuyY9lo7a7w7Fnh0O_w,1717880412/streaming/match_igra/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:-1 group-title="Lime (VPN)",Матч! Арена
-https://mhd116.iptv2022.com/p/z0hOWm2EAtLsOKGAjCac-Q,1717794012/streaming/match_arena/324/1/tracks-v4a1/mono.m3u8
+https://mhd116.iptv2022.com/p/GQLfSLguFBWlkQIeDzVLKQ,1717880412/streaming/match_arena/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:-1 group-title="Lime (VPN)",Матч! Боец
-https://mhd116.iptv2022.com/p/RVkzNFVlmTmFEI_C_FisEw,1717794012/streaming/boectv/324/1/tracks-v4a1/mono.m3u8
+https://mhd116.iptv2022.com/p/Y_lhtjKI1ERgdvrNDKULtA,1717880412/streaming/boectv/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:-1 group-title="Lime (VPN)",Матч! Футбол 1 HD
-https://mhd116.iptv2022.com/p/wpxCgKEe5STyQgQkPLRd_g,1717794012/streaming/footbal1hd/324/1/tracks-v4a1/mono.m3u8
+https://mhd116.iptv2022.com/p/kxNRl5MdBAeJCzlUd-Mmxg,1717880412/streaming/footbal1hd/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:-1 group-title="Lime (VPN)",Матч! Футбол 2 HD
-https://mhd116.iptv2022.com/p/wfUVonlOzjgOofdh3vVTvA,1717794012/streaming/footbal2hd/324/1/tracks-v4a1/mono.m3u8
+https://mhd116.iptv2022.com/p/yIBSkESsZhNRJRWDifhS-Q,1717880412/streaming/footbal2hd/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:-1 group-title="Lime (VPN)",Матч! Футбол 3 HD
-https://mhd116.iptv2022.com/p/4lC5QQbHiNHlugnN5RFYpQ,1717794012/streaming/footbal3hd/324/1/tracks-v4a1/mono.m3u8
+https://mhd116.iptv2022.com/p/ZKTfW7dmMKDAb0YVCJy7Xw,1717880412/streaming/footbal3hd/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:-1 group-title="Lime (VPN)",Матч! Премьер HD
-https://mhd116.iptv2022.com/p/IqRMqfrwauBkSpqtmO35pA,1717794012/streaming/nashfootbalhd/324/1/tracks-v4a1/mono.m3u8
+https://mhd116.iptv2022.com/p/rfNCQkyLYr6DTrk1qB7V5A,1717880412/streaming/nashfootbalhd/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:-1 group-title="Lime (VPN)",Хоккейный HD
-https://mhd116.iptv2022.com/p/2ndIldiQCzVT7mo91zzZZg,1717794012/streaming/hokkeyniy/324/1/tracks-v4a1/mono.m3u8
+https://mhd116.iptv2022.com/p/t_qUZ3rAd60UKv1YOWPdLQ,1717880412/streaming/hokkeyniy/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:-1 group-title="Lime (VPN)",Спортивный HD
-https://mhd116.iptv2022.com/p/-Cf02DisIBpWSlz-dknbCQ,1717794012/streaming/sportivniyhd/324/1/tracks-v4a1/mono.m3u8
+https://mhd116.iptv2022.com/p/ZAA02F-qd9pyEGNBk8dOuQ,1717880413/streaming/sportivniyhd/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:-1 group-title="Lime (VPN)",Футбольный HD
-https://mhd116.iptv2022.com/p/6dZciLLrxuRaJiPiXiBO7g,1717794012/streaming/footbolniyhd/324/1/tracks-v4a1/mono.m3u8
+https://mhd116.iptv2022.com/p/_hmVRRLONSKxnUIlsvIUig,1717880413/streaming/footbolniyhd/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:-1 group-title="Lime (VPN)",KHL Prime
-https://mhd116.iptv2022.com/p/W7yltqsXzkMO9iaKEcYQkQ,1717794012/streaming/khlhd/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/l_UrRv5ddSG_4DePUoURUw,1717880413/streaming/khlhd/324/1/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN)",KHL
-https://mhd116.iptv2022.com/p/xDnwyec563FgdfNvHm4e7A,1717794012/streaming/khltv/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/Kxa2gjzpFYRgoq0tSOsYfg,1717880413/streaming/khltv/324/1/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN)",Бокс ТВ
-https://mhd116.iptv2022.com/p/xh9zmMo8KaRYoDJnR6B1vw,1717794012/streaming/bokstv/324/1/tracks-v4a1/mono.m3u8
+https://mhd116.iptv2022.com/p/D1jCCyAy77TeM-BrvdDLaQ,1717880413/streaming/bokstv/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:-1 group-title="Lime (VPN)",Старт
-https://mhd116.iptv2022.com/p/Lzx9rugFZaUldimuZWfhfA,1717794013/streaming/start/324/1/tracks-v4a1/mono.m3u8
+https://mhd116.iptv2022.com/p/v4_IWxFTxNGb4f7zR-tDfQ,1717880413/streaming/start/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:-1 group-title="Lime (VPN)",MMA-TV.com
-https://mhd116.iptv2022.com/p/9Ld7Rs58CPzWor6HW6eokg,1717794013/streaming/m1global/324/1/tracks-v4a1/mono.m3u8
+https://mhd116.iptv2022.com/p/I5lB7XQUHWHaTHsBsLNV6w,1717880413/streaming/m1global/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:-1 group-title="Lime (VPN)",Старт Триумф
-https://mhd116.iptv2022.com/p/CRc8dmz4Lhva5XtJfna_qQ,1717794013/streaming/start-triumf/324/1/tracks-v2a1/mono.m3u8
+https://mhd116.iptv2022.com/p/NF7qJRK5CGPCLxAdeY59EQ,1717880413/streaming/start-triumf/324/1/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Lime (VPN)",FightBox
-https://mhd116.iptv2022.com/p/HDIaInNF27ve88Nam7p9TQ,1717794013/streaming/fightbox/324/1/tracks-v4a1/mono.m3u8
-
+https://mhd116.iptv2022.com/p/t-eBDVqc8Rbqmlupi9ZzBQ,1717880413/streaming/fightbox/324/1/tracks-v4a1/mono.m3u8
 
 
 #EXTINF:-1 ,Удар HD
