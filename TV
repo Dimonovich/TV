@@ -2371,7 +2371,7 @@ http://89.22.16.21:8787/udp/239.1.1.9:1230
 http://89.22.16.21:8787/udp/239.1.1.43:1230
 #EXTINF:-1 group-title="ФОРТЭКС (VPN)",Моя Планета HD
 http://89.22.16.21:8787/udp/239.1.1.75:1230
-#EXTINF:-1 group-title="ФОРТЭКС (VPN)",Travel HD
+#EXTINF:-1 group-title="ФОРТЭКС (VPN)",Travel Channel HD
 http://89.22.16.21:8787/udp/239.1.1.64:1230
 #EXTINF:-1 group-title="ФОРТЭКС (VPN)",Дикий
 http://89.22.16.21:8787/udp/239.1.1.34:1230
@@ -2399,13 +2399,15 @@ http://89.22.16.21:8787/udp/239.1.1.213:1230
 http://89.22.16.21:8787/udp/239.1.1.218:1230
 #EXTINF:-1 group-title="ФОРТЭКС (VPN)",Моя Планета HD
 http://89.22.16.21:8787/udp/239.1.1.235:1230
-#EXTINF:-1 group-title="ФОРТЭКС (VPN)",Охота рыбалка
+#EXTINF:-1 group-title="ФОРТЭКС (VPN)",Охота и рыбалка
 http://89.22.16.21:8787/udp/239.1.1.240:1230
 #EXTINF:-1 group-title="ФОРТЭКС (VPN)",Оружие
 http://89.22.16.21:8787/udp/239.1.1.232:1230
 #EXTINF:-1 group-title="ФОРТЭКС (VPN)",Наука HD
 http://89.22.16.21:8787/udp/239.1.1.99:1230
-#EXTINF:-1 group-title="ФОРТЭКС (VPN)",Animal Planet CE HD
+#EXTINF:-1 group-title="ФОРТЭКС (VPN)",Нано ТВ
+http://89.22.16.21:8787/udp/239.1.1.101:1230
+#EXTINF:-1 group-title="ФОРТЭКС (VPN)",Animal Planet HD
 http://89.22.16.21:8787/udp/239.1.1.221:1230
 #EXTINF:-1 group-title="ФОРТЭКС (VPN)",viju Nature HD
 http://89.22.16.21:8787/udp/239.1.1.90:1230
@@ -2447,27 +2449,25 @@ http://89.22.16.21:8787/udp/239.1.1.15:1230
 http://89.22.16.21:8787/udp/239.1.1.16:1230
 #EXTINF:-1 group-title="ФОРТЭКС (VPN)",Мужское Кино
 http://89.22.16.21:8787/udp/239.1.1.17:1230
-#EXTINF:-1 group-title="ФОРТЭКС (VPN)",16 Пятница
+#EXTINF:-1 group-title="ФОРТЭКС (VPN)",Пятница
 http://89.22.16.21:8787/udp/239.1.1.19:1230
 #EXTINF:-1 group-title="ФОРТЭКС (VPN)",Ю
 http://89.22.16.21:8787/udp/239.1.1.20:1230
 #EXTINF:-1 group-title="ФОРТЭКС (VPN)",Конный мир HD
 http://89.22.16.21:8787/udp/239.1.1.18:1230
-#EXTINF:-1 group-title="ФОРТЭКС (VPN)",Вегетарианский
+#EXTINF:-1 group-title="ФОРТЭКС (VPN)",Первый Вегетарианский
 http://89.22.16.21:8787/udp/239.1.1.22:1230
 #EXTINF:-1 group-title="ФОРТЭКС (VPN)",Авто 24
 http://89.22.16.21:8787/udp/239.1.1.23:1230
 #EXTINF:-1 group-title="ФОРТЭКС (VPN)",Москва Доверие
 http://89.22.16.21:8787/udp/239.1.1.29:1230
-#EXTINF:-1 group-title="ФОРТЭКС (VPN)",Телеканал 360
-http://89.22.16.21:8787/udp/239.1.1.30:1230
 #EXTINF:-1 group-title="ФОРТЭКС (VPN)",Одинцово ТВ HD
 http://89.22.16.21:8787/udp/239.1.1.32:1230
 #EXTINF:-1 group-title="ФОРТЭКС (VPN)",360 HD
 http://89.22.16.21:8787/udp/239.1.1.31:1230
 #EXTINF:-1 group-title="ФОРТЭКС (VPN)",ЕГЭ
 http://89.22.16.21:8787/udp/239.1.1.35:1230
-#EXTINF:-1 group-title="ФОРТЭКС (VPN)",Санкт-Петербург HD
+#EXTINF:-1 group-title="ФОРТЭКС (VPN)",Санкт-Петербург
 http://89.22.16.21:8787/udp/239.1.1.39:1230
 #EXTINF:-1 group-title="ФОРТЭКС (VPN)",Арсенал HD
 http://89.22.16.21:8787/udp/239.1.1.41:1230
@@ -2517,16 +2517,10 @@ http://89.22.16.21:8787/udp/239.1.1.95:1230
 http://89.22.16.21:8787/udp/239.1.1.96:1230
 #EXTINF:-1 group-title="ФОРТЭКС (VPN)",Paramount Comedy
 http://89.22.16.21:8787/udp/239.1.1.97:1230
-#EXTINF:-1 group-title="ФОРТЭКС (VPN)",Киномикс
-http://89.22.16.21:8787/udp/239.1.1.98:1230
 #EXTINF:-1 group-title="ФОРТЭКС (VPN)",Точка ТВ
 http://89.22.16.21:8787/udp/239.1.1.100:1230
-#EXTINF:-1 group-title="ФОРТЭКС (VPN)",Нано ТВ
-http://89.22.16.21:8787/udp/239.1.1.101:1230
 #EXTINF:-1 group-title="ФОРТЭКС (VPN)",Продвижение
 http://89.22.16.21:8787/udp/239.1.1.102:1230
-#EXTINF:-1 group-title="ФОРТЭКС (VPN)",Bridge TV
-http://89.22.16.21:8787/udp/239.1.1.104:1230
 #EXTINF:-1 group-title="ФОРТЭКС (VPN)",.Sci-fi
 http://89.22.16.21:8787/udp/239.1.1.106:1230
 #EXTINF:-1 group-title="ФОРТЭКС (VPN)",Еврокино
@@ -2545,7 +2539,7 @@ http://89.22.16.21:8787/udp/239.1.1.113:1230
 http://89.22.16.21:8787/udp/239.1.1.116:1230
 #EXTINF:-1 group-title="ФОРТЭКС (VPN)",Точка отрыва
 http://89.22.16.21:8787/udp/239.1.1.117:1230
-#EXTINF:-1 group-title="ФОРТЭКС (VPN)",RETRO
+#EXTINF:-1 group-title="ФОРТЭКС (VPN)",Ретро
 http://89.22.16.21:8787/udp/239.1.1.118:1230
 #EXTINF:-1 group-title="ФОРТЭКС (VPN)",Русский иллюзион
 http://89.22.16.21:8787/udp/239.1.1.120:1230
@@ -2557,10 +2551,8 @@ http://89.22.16.21:8787/udp/239.1.1.122:1230
 http://89.22.16.21:8787/udp/239.1.1.123:1230
 #EXTINF:-1 group-title="ФОРТЭКС (VPN)",Star Family
 http://89.22.16.21:8787/udp/239.1.1.124:1230
-#EXTINF:-1 group-title="ФОРТЭКС (VPN)",Zoo
+#EXTINF:-1 group-title="ФОРТЭКС (VPN)",Зоо ТВ
 http://89.22.16.21:8787/udp/239.1.1.125:1230
-#EXTINF:-1 group-title="ФОРТЭКС (VPN)",Индийское кино
-http://89.22.16.21:8787/udp/239.1.1.127:1230
 #EXTINF:-1 group-title="ФОРТЭКС (VPN)",Plan B HD
 http://89.22.16.21:8787/udp/239.1.1.128:1230
 #EXTINF:-1 group-title="ФОРТЭКС (VPN)",Совершенно секретно
@@ -2579,6 +2571,12 @@ http://89.22.16.21:8787/udp/239.1.1.149:1230
 http://89.22.16.21:8787/udp/239.1.1.150:1230
 #EXTINF:-1 group-title="ФОРТЭКС (VPN)",Театр HD
 http://89.22.16.21:8787/udp/239.1.1.153:1230
+#EXTINF:-1 group-title="ФОРТЭКС (VPN)",Индийское кино
+http://89.22.16.21:8787/udp/239.1.1.127:1230
+#EXTINF:-1 group-title="ФОРТЭКС (VPN)",Наше новое кино
+http://89.22.16.21:8787/udp/239.1.1.182:1230
+#EXTINF:-1 group-title="ФОРТЭКС (VPN)",Киномикс
+http://89.22.16.21:8787/udp/239.1.1.98:1230
 #EXTINF:-1 group-title="ФОРТЭКС (VPN)",Мужское Кино
 http://89.22.16.21:8787/udp/239.1.1.152:1230
 #EXTINF:-1 group-title="ФОРТЭКС (VPN)",Квн ТВ
@@ -2591,7 +2589,7 @@ http://89.22.16.21:8787/udp/239.1.1.158:1230
 http://89.22.16.21:8787/udp/239.1.1.164:1230
 #EXTINF:-1 group-title="ФОРТЭКС (VPN)",Феникс+Кино
 http://89.22.16.21:8787/udp/239.1.1.167:1230
-#EXTINF:-1 group-title="ФОРТЭКС (VPN)",Кино без границ HD
+#EXTINF:-1 group-title="ФОРТЭКС (VPN)",Любимое кино
 http://89.22.16.21:8787/udp/239.1.1.166:1230
 #EXTINF:-1 group-title="ФОРТЭКС (VPN)",Amedia 2 HD
 http://89.22.16.21:8787/udp/239.1.1.168:1230
@@ -2603,8 +2601,6 @@ http://89.22.16.21:8787/udp/239.1.1.173:1230
 http://89.22.16.21:8787/udp/239.1.1.179:1230
 #EXTINF:-1 group-title="ФОРТЭКС (VPN)",Славянский Мир
 http://89.22.16.21:8787/udp/239.1.1.180:1230
-#EXTINF:-1 group-title="ФОРТЭКС (VPN)",Наше новое кино
-http://89.22.16.21:8787/udp/239.1.1.182:1230
 #EXTINF:-1 group-title="ФОРТЭКС (VPN)",Первый Крымский
 http://89.22.16.21:8787/udp/239.1.1.184:1230
 #EXTINF:-1 group-title="ФОРТЭКС (VPN)",Armenia TV
@@ -2623,17 +2619,17 @@ http://89.22.16.21:8787/udp/239.1.1.204:1230
 http://89.22.16.21:8787/udp/239.1.1.205:1230
 #EXTINF:-1 group-title="ФОРТЭКС (VPN)",Загородная Жизнь
 http://89.22.16.21:8787/udp/239.1.1.206:1230
-#EXTINF:-1 group-title="ФОРТЭКС (VPN)",КиноПремиум HD
+#EXTINF:-1 group-title="ФОРТЭКС (VPN)",Кино Премиум HD
 http://89.22.16.21:8787/udp/239.1.1.208:1230
 #EXTINF:-1 group-title="ФОРТЭКС (VPN)",Поехали!
 http://89.22.16.21:8787/udp/239.1.1.212:1230
-#EXTINF:-1 group-title="ФОРТЭКС (VPN)",Fashion HD
+#EXTINF:-1 group-title="ФОРТЭКС (VPN)",Fashion TV HD
 http://89.22.16.21:8787/udp/239.1.1.214:1230
 #EXTINF:-1 group-title="ФОРТЭКС (VPN)",HGTV HD
 http://89.22.16.21:8787/udp/239.1.1.215:1230
 #EXTINF:-1 group-title="ФОРТЭКС (VPN)",Cinema
 http://89.22.16.21:8787/udp/239.1.1.219:1230
-#EXTINF:-1 group-title="ФОРТЭКС (VPN)",Калейдоскоп
+#EXTINF:-1 group-title="ФОРТЭКС (VPN)",Калейдоскоп ТВ
 http://89.22.16.21:8787/udp/239.1.1.220:1230
 #EXTINF:-1 group-title="ФОРТЭКС (VPN)",Домашние животные
 http://89.22.16.21:8787/udp/239.1.1.228:1230
@@ -2667,17 +2663,19 @@ http://89.22.16.21:8787/udp/239.1.1.91:1230
 http://89.22.16.21:8787/udp/239.1.1.67:1230
 #EXTINF:-1 group-title="ФОРТЭКС (VPN)",Шансон ТВ
 http://89.22.16.21:8787/udp/239.1.1.68:1230
-#EXTINF:-1 group-title="ФОРТЭКС (VPN)",BridgeTV Rock HD
-http://89.22.16.21:8787/udp/239.1.1.69:1230
 #EXTINF:-1 group-title="ФОРТЭКС (VPN)",RU.TV
 http://89.22.16.21:8787/udp/239.1.1.70:1230
 #EXTINF:-1 group-title="ФОРТЭКС (VPN)",МузТВ
 http://89.22.16.21:8787/udp/239.1.1.71:1230
 #EXTINF:-1 group-title="ФОРТЭКС (VPN)",ТНТ Music
 http://89.22.16.21:8787/udp/239.1.1.80:1230
+#EXTINF:-1 group-title="ФОРТЭКС (VPN)",Bridge TV
+http://89.22.16.21:8787/udp/239.1.1.104:1230
+#EXTINF:-1 group-title="ФОРТЭКС (VPN)",Bridge TV Rock HD
+http://89.22.16.21:8787/udp/239.1.1.69:1230
 #EXTINF:-1 group-title="ФОРТЭКС (VPN)",Bridge Deluxe
 http://89.22.16.21:8787/udp/239.1.1.115:1230
-#EXTINF:-1 group-title="ФОРТЭКС (VPN)",BridgeTV hits
+#EXTINF:-1 group-title="ФОРТЭКС (VPN)",Bridge TV hits
 http://89.22.16.21:8787/udp/239.1.1.114:1230
 #EXTINF:-1 group-title="ФОРТЭКС (VPN)",BRIDGE CLASSIC
 http://89.22.16.21:8787/udp/239.1.1.129:1230
@@ -2715,13 +2713,13 @@ http://89.22.16.21:8787/udp/239.1.1.119:1230
 http://89.22.16.21:8787/udp/239.1.1.46:1230
 #EXTINF:-1 group-title="ФОРТЭКС (VPN)",Eurosport 2 HD
 http://89.22.16.21:8787/udp/239.1.1.48:1230
-#EXTINF:-1 group-title="ФОРТЭКС (VPN)",Extreme Sport
+#EXTINF:-1 group-title="ФОРТЭКС (VPN)",Extreme Sports
 http://89.22.16.21:8787/udp/239.1.1.52:1230
 #EXTINF:-1 group-title="ФОРТЭКС (VPN)",Матч! Игра
 http://89.22.16.21:8787/udp/239.1.1.53:1230
 #EXTINF:-1 group-title="ФОРТЭКС (VPN)",Матч! Арена
 http://89.22.16.21:8787/udp/239.1.1.54:1230
-#EXTINF:-1 group-title="ФОРТЭКС (VPN)",Старт ТВ
+#EXTINF:-1 group-title="ФОРТЭКС (VPN)",Старт
 http://89.22.16.21:8787/udp/239.1.1.55:1230
 #EXTINF:-1 group-title="ФОРТЭКС (VPN)",Матч! Боец
 http://89.22.16.21:8787/udp/239.1.1.57:1230
