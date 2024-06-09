@@ -6768,6 +6768,18 @@ https://strm.yandex.ru/kal/belarus_5/belarus_50.m3u8
 https://strm.yandex.ru/kal/khl_belarus/khl_belarus0.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",KHL Prime
 https://strm.yandex.ru/kal/khl_prime_belarus/khl_prime_belarus0.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",NOVASports1 HD
+http://5.9.148.210:8888/re-nvsp1/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",NOVASports2 HD
+http://5.9.148.210:8888/re-nvsp2/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",NOVASports3 HD
+http://5.9.148.210:8888/re-nvsp3/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆"1,NOVASports4 HD
+http://5.9.148.210:8888/re-nvsp4/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",NOVASports5 HD
+http://5.9.148.210:8888/re-nvsp5/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",NOVASports6 HD
+http://5.9.148.210:8888/re-nvsp6/index.m3u8
 
 
 
