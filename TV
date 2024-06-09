@@ -2455,8 +2455,6 @@ http://video.platformcraft.ru/hls/etv/egorievsk-tv/720p.m3u8
 
 #EXTINF:-1 group-title="ФОРТЭКС (VPN)",ПЕРВЫЙ КАНАЛ
 http://89.22.16.21:8787/udp/239.1.1.188:1230
-#EXTINF:-1 group-title="ФОРТЭКС (VPN)",Россия 1 HD
-http://89.22.16.21:8787/udp/239.1.1.136:1230
 #EXTINF:-1 group-title="ФОРТЭКС (VPN)",РОССИЯ 1
 http://89.22.16.21:8787/udp/239.1.1.200:1230
 #EXTINF:-1 group-title="ФОРТЭКС (VPN)",НТВ
