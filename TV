@@ -2461,6 +2461,12 @@ http://89.22.16.21:8787/udp/239.1.1.200:1230
 http://89.22.16.21:8787/udp/239.1.1.201:1230
 #EXTINF:-1 group-title="ФОРТЭКС (VPN)",НТВ Хит
 http://89.22.16.21:8787/udp/239.1.1.177:1230
+#EXTINF:-1 group-title="ФОРТЭКС (VPN)",НТВ Право
+http://89.22.16.21:8787/udp/239.1.2.133:1230
+#EXTINF:-1 group-title="ФОРТЭКС (VPN)",НТВ Сериал
+http://89.22.16.21:8787/udp/239.1.2.134:1230
+#EXTINF:-1 group-title="ФОРТЭКС (VPN)",НТВ Стиль
+http://89.22.16.21:8787/udp/239.1.2.135:1230
 #EXTINF:-1 group-title="ФОРТЭКС (VPN)",РОССИЯ К
 http://89.22.16.21:8787/udp/239.1.1.5:1230
 #EXTINF:-1 group-title="ФОРТЭКС (VPN)",ТНТ4 HD
@@ -2481,8 +2487,12 @@ http://89.22.16.21:8787/udp/239.1.1.43:1230
 http://89.22.16.21:8787/udp/239.1.1.75:1230
 #EXTINF:-1 group-title="ФОРТЭКС (VPN)",Travel Channel HD
 http://89.22.16.21:8787/udp/239.1.1.64:1230
+#EXTINF:-1 group-title="ФОРТЭКС (VPN)",Открытый мир
+http://89.22.16.21:8787/udp/239.1.2.48:1230
 #EXTINF:-1 group-title="ФОРТЭКС (VPN)",Дикий
 http://89.22.16.21:8787/udp/239.1.1.34:1230
+#EXTINF:-1 group-title="ФОРТЭКС (VPN)",viju+ Planet HD
+http://89.22.16.21:8787/udp/239.1.2.146:1230
 #EXTINF:-1 group-title="ФОРТЭКС (VPN)",viju Explore HD
 http://89.22.16.21:8787/udp/239.1.1.82:1230
 #EXTINF:-1 group-title="ФОРТЭКС (VPN)",viju History HD
@@ -2505,10 +2515,20 @@ http://89.22.16.21:8787/udp/239.1.1.196:1230
 http://89.22.16.21:8787/udp/239.1.1.213:1230
 #EXTINF:-1 group-title="ФОРТЭКС (VPN)",National Geographic HD
 http://89.22.16.21:8787/udp/239.1.1.218:1230
+#EXTINF:-1 group-title="ФОРТЭКС (VPN)",Russian Extreme 4k
+http://89.22.16.21:8787/udp/239.1.2.103:1230
+#EXTINF:-1 group-title="ФОРТЭКС (VPN)",Insight 4k
+http://89.22.16.21:8787/udp/239.1.2.104:1230
+#EXTINF:-1 group-title="ФОРТЭКС (VPN)",Nasa TV UHD
+http://89.22.16.21:8787/udp/239.1.2.2:1230
 #EXTINF:-1 group-title="ФОРТЭКС (VPN)",Моя Планета HD
 http://89.22.16.21:8787/udp/239.1.1.235:1230
+#EXTINF:-1 group-title="ФОРТЭКС (VPN)",Большая азия
+http://89.22.16.21:8787/udp/239.1.2.68:1230
 #EXTINF:-1 group-title="ФОРТЭКС (VPN)",Охота и рыбалка
 http://89.22.16.21:8787/udp/239.1.1.240:1230
+#EXTINF:-1 group-title="ФОРТЭКС (VPN)",Живая Природа HD
+http://89.22.16.21:8787/udp/239.1.1.111:1230
 #EXTINF:-1 group-title="ФОРТЭКС (VPN)",Оружие
 http://89.22.16.21:8787/udp/239.1.1.232:1230
 #EXTINF:-1 group-title="ФОРТЭКС (VPN)",Наука HD
@@ -2637,8 +2657,6 @@ http://89.22.16.21:8787/udp/239.1.1.107:1230
 http://89.22.16.21:8787/udp/239.1.1.108:1230
 #EXTINF:-1 group-title="ФОРТЭКС (VPN)",Русский Детектив
 http://89.22.16.21:8787/udp/239.1.1.109:1230
-#EXTINF:-1 group-title="ФОРТЭКС (VPN)",Живая Природа HD
-http://89.22.16.21:8787/udp/239.1.1.111:1230
 #EXTINF:-1 group-title="ФОРТЭКС (VPN)",Кино ТВ HD
 http://89.22.16.21:8787/udp/239.1.1.112:1230
 #EXTINF:-1 group-title="ФОРТЭКС (VPN)",English Club HD
@@ -2685,6 +2703,16 @@ http://89.22.16.21:8787/udp/239.1.1.127:1230
 http://89.22.16.21:8787/udp/239.1.1.182:1230
 #EXTINF:-1 group-title="ФОРТЭКС (VPN)",Киномикс
 http://89.22.16.21:8787/udp/239.1.1.98:1230
+#EXTINF:-1 group-title="ФОРТЭКС (VPN)",Кинопремьера HD
+http://89.22.16.21:8787/udp/239.1.2.213:1230
+#EXTINF:-1 group-title="ФОРТЭКС (VPN)",Киносвидание HD
+http://89.22.16.21:8787/udp/239.1.2.214:1230
+#EXTINF:-1 group-title="ФОРТЭКС (VPN)",Киносемья HD
+http://89.22.16.21:8787/udp/239.1.2.215:1230
+#EXTINF:-1 group-title="ФОРТЭКС (VPN)",Киноужас HD
+http://89.22.16.21:8787/udp/239.1.2.216:1230
+#EXTINF:-1 group-title="ФОРТЭКС (VPN)",Кинохит HD
+http://89.22.16.21:8787/udp/239.1.2.217:1230
 #EXTINF:-1 group-title="ФОРТЭКС (VPN)",Мужское Кино
 http://89.22.16.21:8787/udp/239.1.1.152:1230
 #EXTINF:-1 group-title="ФОРТЭКС (VPN)",Квн ТВ
@@ -2813,6 +2841,10 @@ http://89.22.16.21:8787/udp/239.1.1.49:1230
 http://89.22.16.21:8787/udp/239.1.1.38:1230
 #EXTINF:-1 group-title="ФОРТЭКС (VPN)",КАРУСЕЛЬ
 http://89.22.16.21:8787/udp/239.1.1.40:1230
+#EXTINF:-1 group-title="ФОРТЭКС (VPN)",Setanta Sports 1 HD
+http://89.22.16.21:8787/udp/239.1.2.46:1230
+#EXTINF:-1 group-title="ФОРТЭКС (VPN)",Setanta Sports 2 HD
+http://89.22.16.21:8787/udp/239.1.2.45:1230
 #EXTINF:-1 group-title="ФОРТЭКС (VPN)",Матч HD
 http://89.22.16.21:8787/udp/239.1.1.160:1230
 #EXTINF:-1 group-title="ФОРТЭКС (VPN)",Матч ТВ
@@ -2821,24 +2853,20 @@ http://89.22.16.21:8787/udp/239.1.1.119:1230
 http://89.22.16.21:8787/udp/239.1.1.46:1230
 #EXTINF:-1 group-title="ФОРТЭКС (VPN)",Eurosport 2 HD
 http://89.22.16.21:8787/udp/239.1.1.48:1230
+#EXTINF:-1 group-title="ФОРТЭКС (VPN)",Старт
+http://89.22.16.21:8787/udp/239.1.1.55:1230
 #EXTINF:-1 group-title="ФОРТЭКС (VPN)",Extreme Sports
 http://89.22.16.21:8787/udp/239.1.1.52:1230
 #EXTINF:-1 group-title="ФОРТЭКС (VPN)",Матч! Игра
 http://89.22.16.21:8787/udp/239.1.1.53:1230
 #EXTINF:-1 group-title="ФОРТЭКС (VPN)",Матч! Арена
 http://89.22.16.21:8787/udp/239.1.1.54:1230
-#EXTINF:-1 group-title="ФОРТЭКС (VPN)",Старт
-http://89.22.16.21:8787/udp/239.1.1.55:1230
 #EXTINF:-1 group-title="ФОРТЭКС (VPN)",Матч! Боец
 http://89.22.16.21:8787/udp/239.1.1.57:1230
 #EXTINF:-1 group-title="ФОРТЭКС (VPN)",Матч! Страна
 http://89.22.16.21:8787/udp/239.1.1.103:1230
 #EXTINF:-1 group-title="ФОРТЭКС (VPN)",Матч Премьер HD
 http://89.22.16.21:8787/udp/239.1.1.178:1230
-#EXTINF:-1 group-title="ФОРТЭКС (VPN)",Diemasport 3 HD
-http://89.22.16.21:8787/udp/239.1.1.151:1230
-#EXTINF:-1 group-title="ФОРТЭКС (VPN)",Футбол HD
-http://89.22.16.21:8787/udp/239.1.1.165:1230
 #EXTINF:-1 group-title="ФОРТЭКС (VPN)",KHL Prime HD
 http://89.22.16.21:8787/udp/239.1.1.174:1230
 #EXTINF:-1 group-title="ФОРТЭКС (VPN)",Матч Футбол 1
@@ -2847,6 +2875,10 @@ http://89.22.16.21:8787/udp/239.1.1.209:1230
 http://89.22.16.21:8787/udp/239.1.1.210:1230
 #EXTINF:-1 group-title="ФОРТЭКС (VPN)",Матч Футбол 3
 http://89.22.16.21:8787/udp/239.1.1.241:1230
+#EXTINF:-1 group-title="ФОРТЭКС (VPN)",Diemasport 3 HD
+http://89.22.16.21:8787/udp/239.1.1.151:1230
+#EXTINF:-1 group-title="ФОРТЭКС (VPN)",Футбол HD
+http://89.22.16.21:8787/udp/239.1.1.165:1230
 #EXTINF:-1 group-title="ФОРТЭКС (VPN)",FightBox HD
 http://89.22.16.21:8787/udp/239.1.1.244:1230
 #EXTINF:-1 group-title="ФОРТЭКС (VPN)",viju+ Sport HD
