@@ -16,10 +16,10 @@
     "udpdns": false
   },
   {
-    "server": "51.75.77.237",
-    "server_port": 8443,
-    "password": "81793caf-c81d-4eaf-8e36-0e02240f44f0",
-    "method": "aes-256-gcm",
+    "server": "146.19.233.101",
+    "server_port": 29682,
+    "password": "o0iBYrpD2Ok8KHk7tmmClD",
+    "method": "CHACHA20-IETF-POLY1305",
     "remarks": "🇩🇪 Германия (https://mssg.me/neo_tv)",
     "route": "all",
     "remote_dns": "one.one.one.one",
@@ -31,11 +31,11 @@
     "udpdns": false
   },
   {
-    "server": "172.232.159.84",
+    "server": "141.94.115.231",
     "server_port": 8443,
-    "password": "ad71b676-c09a-45c8-b820-b93fb777fe05",
+    "password": "7fda683a-dc12-401b-bd8b-5d87e5210482",
     "method": "aes-256-gcm",
-    "remarks": "🇸🇪 Швеция (https://mssg.me/neo_tv)",
+    "remarks": "🇫🇷 Франция 2 (https://mssg.me/neo_tv)",
     "route": "all",
     "remote_dns": "one.one.one.one",
     "ipv6": false,
