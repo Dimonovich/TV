@@ -6152,8 +6152,6 @@ https://strm.yandex.ru/kal/rtr_belarus/rtr_belarus0.m3u8
 https://strm.yandex.ru/kal/tnt_interneshnl_belarus/tnt_interneshnl_belarus0.m3u8
 #EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)",Fashion TV
 https://strm.yandex.ru/kal/fashion_tv/fashion_tv0.m3u8
-#EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)",Совершенно секретно
-https://strm.yandex.ru/kal/sovsec/sovsec0.m3u8
 #EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)",Кинопремьера
 https://strm.yandex.ru/kal/kinopremiera_hd_belarus/kinopremiera_hd_belarus0.m3u8
 #EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)",Кинохит
@@ -6308,18 +6306,7 @@ https://strm.yandex.ru/kal/belarus_5/belarus_50.m3u8
 https://strm.yandex.ru/kal/khl_belarus/khl_belarus0.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",KHL Prime
 https://strm.yandex.ru/kal/khl_prime_belarus/khl_prime_belarus0.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",NOVASports1 HD
-http://5.9.148.210:8888/re-nvsp1/index.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",NOVASports2 HD
-http://5.9.148.210:8888/re-nvsp2/index.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",NOVASports3 HD
-http://5.9.148.210:8888/re-nvsp3/index.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆"1,NOVASports4 HD
-http://5.9.148.210:8888/re-nvsp4/index.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",NOVASports5 HD
-http://5.9.148.210:8888/re-nvsp5/index.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",NOVASports6 HD
-http://5.9.148.210:8888/re-nvsp6/index.m3u8
+
 
 
 
@@ -7734,6 +7721,18 @@ http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:08:E9:52&stream=564977&ext
 http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:08:E9:52&stream=564978&extension=ts
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Orange Sport 4
 http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:08:E9:52&stream=564979&extension=ts
+#EXTINF:-1 group-title="Спорткомплекс 🏆",NOVASports1 HD
+http://5.9.148.210:8888/re-nvsp1/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",NOVASports2 HD
+http://5.9.148.210:8888/re-nvsp2/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",NOVASports3 HD
+http://5.9.148.210:8888/re-nvsp3/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆"1,NOVASports4 HD
+http://5.9.148.210:8888/re-nvsp4/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",NOVASports5 HD
+http://5.9.148.210:8888/re-nvsp5/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",NOVASports6 HD
+http://5.9.148.210:8888/re-nvsp6/index.m3u8
 
 
 
