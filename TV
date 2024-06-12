@@ -2841,24 +2841,6 @@ http://video.platformcraft.ru/hls/etv/egorievsk-tv/720p.m3u8
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 group-title="СКТ ТВ (VPN)",Первый канал HD
 http://188.113.190.15/98/video.m3u8
 #EXTINF:-1 group-title="СКТ ТВ (VPN)",Первый канал
@@ -2929,7 +2911,7 @@ http://188.113.190.15/134/video.m3u8
 http://188.113.190.15/140/video.m3u8
 #EXTINF:-1 group-title="СКТ ТВ (VPN)",Cinema
 http://188.113.190.15/212/video.m3u8
-#EXTINF:-1 group-title="СКТ ТВ (VPN)",Docu box
+#EXTINF:-1 group-title="СКТ ТВ (VPN)",DOCUBOX HD
 http://188.113.190.15/146/video.m3u8
 #EXTINF:-1 group-title="СКТ ТВ (VPN)",E
 http://188.113.190.15/60/video.m3u8
@@ -2997,7 +2979,7 @@ http://188.113.190.15/185/video.m3u8
 http://188.113.190.15/123/video.m3u8
 #EXTINF:-1 group-title="СКТ ТВ (VPN)",Звезда
 http://188.113.190.15/55/video.m3u8
-#EXTINF:-1 group-title="СКТ ТВ (VPN)",Здоровое кино
+#EXTINF:-1 group-title="СКТ ТВ (VPN)",Здоровое ТВ
 http://188.113.190.15/70/video.m3u8
 #EXTINF:-1 group-title="СКТ ТВ (VPN)",Зоопарк
 http://188.113.190.15/46/video.m3u8
@@ -3021,6 +3003,8 @@ http://188.113.190.15/334/video.m3u8
 http://188.113.190.15/308/video.m3u8
 #EXTINF:-1 group-title="СКТ ТВ (VPN)",Киномикс HD
 http://188.113.190.15/335/video.m3u8
+#EXTINF:-1 group-title="СКТ ТВ (VPN)",Родное кино
+http://188.113.190.15/317/video.m3u8
 #EXTINF:-1 group-title="СКТ ТВ (VPN)",Кинопремьера HD
 http://188.113.190.15/309/video.m3u8
 #EXTINF:-1 group-title="СКТ ТВ (VPN)",Киносвидание
@@ -3047,7 +3031,7 @@ http://188.113.190.15/214/video.m3u8
 http://188.113.190.15/76/video.m3u8
 #EXTINF:-1 group-title="СКТ ТВ (VPN)",Красная линия
 http://188.113.190.15/61/video.m3u8
-#EXTINF:-1 group-title="СКТ ТВ (VPN)",Ксто есть кто
+#EXTINF:-1 group-title="СКТ ТВ (VPN)",Кто есть кто
 http://188.113.190.15/82/video.m3u8
 #EXTINF:-1 group-title="СКТ ТВ (VPN)",Кухня ТВ
 http://188.113.190.15/38/video.m3u8
@@ -3085,8 +3069,6 @@ http://188.113.190.15/5/video.m3u8
 http://188.113.190.15/190/video.m3u8
 #EXTINF:-1 group-title="СКТ ТВ (VPN)",Ретро
 http://188.113.190.15/67/video.m3u8
-#EXTINF:-1 group-title="СКТ ТВ (VPN)",Родное кино
-http://188.113.190.15/317/video.m3u8
 #EXTINF:-1 group-title="СКТ ТВ (VPN)",Русский бестселлер
 http://188.113.190.15/100/video.m3u8
 #EXTINF:-1 group-title="СКТ ТВ (VPN)",Русский детектив
@@ -3163,7 +3145,7 @@ http://188.113.190.15/145/video.m3u8
 http://188.113.190.15/18/video.m3u8
 #EXTINF:-1 group-title="СКТ ТВ (VPN)",Супергерои
 http://188.113.190.15/162/video.m3u8
-#EXTINF:-1 group-title="СКТ ТВ (VPN)",Болт
+#EXTINF:-1 group-title="СКТ ТВ (VPN)",Bolt
 http://188.113.190.15/84/video.m3u8
 #EXTINF:-1 group-title="СКТ ТВ (VPN)",ТНТ Music
 http://188.113.190.15/187/video.m3u8
@@ -3229,7 +3211,7 @@ http://188.113.190.15/176/video.m3u8
 http://188.113.190.15/177/video.m3u8
 #EXTINF:-1 group-title="СКТ ТВ (VPN)",Футбол
 http://188.113.190.15/105/video.m3u8
-#EXTINF:-1 group-title="СКТ ТВ (VPN)",Fight Box
+#EXTINF:-1 group-title="СКТ ТВ (VPN)",FightBox
 http://188.113.190.15/147/video.m3u8
 
 
