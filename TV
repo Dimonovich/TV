@@ -2549,7 +2549,10 @@ http://edge02.odtv.az/o4/extremesport/playlist.m3u8
 
 #EXTINF:-1 group-title="С сайтов" tvg-logo="https://pobeda.tv/images/logo_header.png",Победа
 #EXTVLCOPT:http-referrer=https://pobeda.tv/
-https://pkvc-hls3.cdnvideo.ru/Pobeda/smil:Pobeda.smil/chunklist_b2628000_slru.m3u8
+https://pkvc-hls3.cdnvideo.ru/Pobeda/smil:Pobeda.smil/chunklist_b5128000_slru.m3u8
+#EXTINF:-1 group-title="С сайтов" ,Бобер
+#EXTVLCOPT:http-referrer=https://bober.ru
+https://pkvc-hls3.cdnvideo.ru/Bober/smil:Bober.smil/chunklist_b5128000_slru.m3u8
 #EXTINF:-1 group-title="С сайтов" tvg-logo="https://tsargrad.tv/img/logo-tsargrad_134x134.png",Царьград
 https://live.kinescopecdn.net/on-air/182276a1-1f52-4754-9fa6-f05292ccc160/093a575b-34ee-4c17-b665-5eb63d74c4be/1080p/media.m3u8
 #EXTINF:-1 group-title="С сайтов" tvg-logo="https://www.osnmedia.ru/wp-content/uploads/2022/10/logoWhite.png",ОСН
