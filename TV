@@ -2631,6 +2631,10 @@ http://95.52.171.87:81/play/a02c
 http://95.52.171.87:82/play/a067
 #EXTINF:-1 group-title="Ростелеком (VPN)",КИНОКОМЕДИЯ
 http://95.52.171.87:81/play/a02y
+#EXTINF:-1 group-title="Ростелеком (VPN)",Наше новое кино
+http://95.52.171.87:81/play/a01f
+#EXTINF:-1 group-title="Ростелеком (VPN)",Родное кино
+http://95.52.171.87:81/play/a00d
 #EXTINF:-1 group-title="Ростелеком (VPN)",КИНОМИКС HD
 http://95.52.171.87:82/play/a05a
 #EXTINF:-1 group-title="Ростелеком (VPN)",ИНДИЙСКОЕ КИНО
@@ -2647,7 +2651,7 @@ http://95.52.171.87:82/play/a05b
 http://95.52.171.87:81/play/a014
 #EXTINF:-1 group-title="Ростелеком (VPN)",Комедия
 http://95.52.171.87:82/play/a04e
-#EXTINF:-1 group-title="Ростелеком (VPN)",Кухня
+#EXTINF:-1 group-title="Ростелеком (VPN)",Кухня ТВ
 http://95.52.171.87:81/play/a02l
 #EXTINF:-1 group-title="Ростелеком (VPN)",Кухня ТВ
 http://95.52.171.87:81/play/a00y
@@ -2659,8 +2663,6 @@ http://95.52.171.87:81/play/a02m
 http://95.52.171.87:82/play/a053
 #EXTINF:-1 group-title="Ростелеком (VPN)",Мужской
 http://95.52.171.87:81/play/a015
-#EXTINF:-1 group-title="Ростелеком (VPN)",Наше новое кино
-http://95.52.171.87:81/play/a01f
 #EXTINF:-1 group-title="Ростелеком (VPN)",Ностальгия
 http://95.52.171.87:82/play/a04o
 #EXTINF:-1 group-title="Ростелеком (VPN)",НСТ
@@ -2673,8 +2675,6 @@ http://95.52.171.87:81/play/a008
 http://95.52.171.87:81/play/a00l
 #EXTINF:-1 group-title="Ростелеком (VPN)",РЖД
 http://95.52.171.87:81/play/a023
-#EXTINF:-1 group-title="Ростелеком (VPN)",Родное кино
-http://95.52.171.87:81/play/a00d
 #EXTINF:-1 group-title="Ростелеком (VPN)",Русский Бестселлер
 http://95.52.171.87:81/play/a006
 #EXTINF:-1 group-title="Ростелеком (VPN)",Русский Детектив
@@ -2701,7 +2701,7 @@ http://95.52.171.87:82/play/a046
 http://95.52.171.87:81/play/a01x
 #EXTINF:-1 group-title="Ростелеком (VPN)",Точка отрыва
 http://95.52.171.87:81/play/a01c
-#EXTINF:-1 group-title="Ростелеком (VPN)",Усадьба-ТВ
+#EXTINF:-1 group-title="Ростелеком (VPN)",Усадьба
 http://95.52.171.87:81/play/a02b
 #EXTINF:-1 group-title="Ростелеком (VPN)",Чаваш Ен
 http://95.52.171.87:81/play/a01v
