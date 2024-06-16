@@ -333,7 +333,38 @@ https://nl2.live-stream.plus.taurer.org/RuCsPSXGYe/DgFExKzqEw/25.m3u8
 
 
 
-
+#EXTINF:-1 group-title="Telenet",Россия 1 HD
+http://91.90.255.235:8000/play/a00g/index.m3u8
+#EXTINF:-1 group-title="Telenet",ТНТ HD
+http://91.90.255.235:8000/play/a00d/index.m3u8
+#EXTINF:-1 group-title="Telenet",ТНТ
+http://91.90.255.235:8000/play/a004/index.m3u8
+#EXTINF:-1 group-title="Telenet",Россия 24
+http://91.90.255.235:8000/play/a009/index.m3u8
+#EXTINF:-1 group-title="Telenet",Время
+http://91.90.255.235:8000/play/a00b/index.m3u8
+#EXTINF:-1 group-title="Telenet",8 канал
+http://91.90.255.235:8000/play/a00c/index.m3u8
+#EXTINF:-1 group-title="Telenet",Авто плюс
+http://91.90.255.235:8000/play/a003/index.m3u8
+#EXTINF:-1 group-title="Telenet",Пятница
+http://91.90.255.235:8000/play/a005/index.m3u8
+#EXTINF:-1 group-title="Telenet",Победа
+http://91.90.255.235:8000/play/1/index.m3u8
+#EXTINF:-1 group-title="Telenet",Москва Доверие
+http://91.90.255.235:8000/play/a00e/index.m3u8
+#EXTINF:-1 group-title="Telenet",СТС
+http://91.90.255.235:8000/play/a00h/index.m3u8
+#EXTINF:-1 group-title="Telenet",Звеезда
+http://91.90.255.235:8000/play/a006/index.m3u8
+#EXTINF:-1 group-title="Telenet",Шансон ТВ
+http://91.90.255.235:8000/play/a007/index.m3u8
+#EXTINF:-1 group-title="Telenet",Матч! Игра
+http://91.90.255.235:8000/play/a00a/index.m3u8
+#EXTINF:-1 group-title="Telenet",Матч! Боец
+http://91.90.255.235:8000/play/a00f/index.m3u8
+#EXTINF:-1 group-title="Telenet",Extreme Sports
+http://91.90.255.235:8000/play/a008/index.m3u8
 
 
 
