@@ -261,15 +261,6 @@ https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 ,Беларусь 5
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8
 
-#EXTINF:-1 ,Eurosport 1
-http://81.7.108.21:9000/play/Eurosport1-DVBC290-sti4400018450230
-#EXTINF:-1 ,Eurosport 2 HD
-http://81.7.108.21:9000/play/Eurosport2HD-DVBC386-sti4400018360108
-
-#EXTINF:-1 ,Setanta Sports 1 HD
-https://bkm.beetv.kz/btv/live/hls/000004498.m3u8
-#EXTINF:-1 ,Setanta Sports 2 HD
-https://bkm.beetv.kz/btv/live/hls/000004499.m3u8
 #EXTINF:-1 ,Setanta Qazaqstan
 https://bkm.beetv.kz/btv/live/hls/000004619.m3u8
 
@@ -315,7 +306,6 @@ https://mhd116.iptv2022.com/p/bMMOpQtugjBK-jgVwoQCFQ,1718830813/streaming/m1glob
 https://mhd116.iptv2022.com/p/g1gIL08eFE9xiYqo6HDHfw,1718830813/streaming/start-triumf/324/1/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Lime (VPN)",FightBox
 https://mhd116.iptv2022.com/p/dfUJqsool3GOKq8HLfzNSg,1718830813/streaming/fightbox/324/1/tracks-v4a1/mono.m3u8
-
 
 #EXTINF:-1 ,Удар HD
 https://bkm.beetv.kz/btv/live/hls/000007802.m3u8
