@@ -85,19 +85,19 @@ https://bkm.beetv.kz/btv/live/hls/000005528.m3u8
 #EXTINF:-1 ,Viasat Nature HD
 https://bkm.beetv.kz/btv/live/hls/000006482.m3u8
 #EXTINF:-1 ,TV 1000
-https://bkm.beetv.kz/btv/live/hls/000003747.m3u8
+http://188.113.190.15/31/video.m3u8
 #EXTINF:-1 ,viju TV1000 Action
-https://bkm.beetv.kz/btv/live/hls/000003910.m3u8
+http://188.113.190.15/30/video.m3u8
 #EXTINF:-1 ,TV1000 Русское кино
 https://bkm.beetv.kz/btv/live/hls/000003748.m3u8
 #EXTINF:-1 ,viju+ Comedy
-https://bkm.beetv.kz/btv/live/hls/000000870.m3u8
+http://188.113.190.15/203/video.m3u8
 #EXTINF:-1 ,viju+ Megahit
-https://bkm.beetv.kz/btv/live/hls/000000869.m3u8
+http://188.113.190.15/202/video.m3u8
+#EXTINF:-1 ,viju+ Premiere
+http://188.113.190.15/201/video.m3u8
 #EXTINF:-1 ,viju+ Serial
 https://bkm.beetv.kz/btv/live/hls/000004375.m3u8
-#EXTINF:-1 ,Мосфильм. Золотая коллекция
-https://bkm.beetv.kz/btv/live/hls/000006365.m3u8
 
 #EXTINF:-1 ,Gags Network HD
 http://95.67.12.82:9069
@@ -261,9 +261,10 @@ https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 ,Беларусь 5
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8
 
-
+#EXTINF:-1 ,Eurosport 1
+http://81.7.108.21:9000/play/Eurosport1-DVBC290-sti4400018450230
 #EXTINF:-1 ,Eurosport 2 HD
-https://bkm.beetv.kz/btv/live/hls/000002479.m3u8
+http://81.7.108.21:9000/play/Eurosport2HD-DVBC386-sti4400018360108
 
 #EXTINF:-1 ,Setanta Sports 1 HD
 https://bkm.beetv.kz/btv/live/hls/000004498.m3u8
@@ -315,8 +316,10 @@ https://mhd116.iptv2022.com/p/g1gIL08eFE9xiYqo6HDHfw,1718830813/streaming/start-
 #EXTINF:-1 group-title="Lime (VPN)",FightBox
 https://mhd116.iptv2022.com/p/dfUJqsool3GOKq8HLfzNSg,1718830813/streaming/fightbox/324/1/tracks-v4a1/mono.m3u8
 
+
 #EXTINF:-1 ,Удар HD
-https://strm.yandex.ru/kal/udar/udar0.m3u8
+https://bkm.beetv.kz/btv/live/hls/000007802.m3u8
+
 #EXTINF:-1 ,Матч! Планета
 https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
 
