@@ -40,7 +40,7 @@ http://bx01.junkes.it/flac
 #EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",Progressieve Rock
 http://progressieverock.nl/flac
 #EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",The Cheese
-http://thecheese.ddns.net:8004/stream
+https://station.thecheese.co.nz/listen/the_cheese/flac
 #EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",Sveriges Radio
 https://live1.sr.se/p2-flac
 #EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",Radio evening in the Galaxy
@@ -51,8 +51,6 @@ https://c2.radioboss.fm:8478/live
 https://stream10.xdevel.com/audio17s976748-2218/stream/icecast.audio
 #EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",Radio Sing Sing Flac
 http://stream.sing-sing.org:8000/singsingFlac
-#EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",Flow Radio
-http://109.169.23.84:36527/flowplataformas
 #EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",Agape’s JPop/Anisong Radio
 http://nas.agapec.fun:38000/flac
 #EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",Frequence 3
@@ -63,8 +61,8 @@ https://frequence3.net-radio.fr/frequence3dance.flac
 https://frequence3.net-radio.fr/frequence3gold.flac
 #EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",Frequence 3 - World
 https://frequence3.net-radio.fr/frequence3world.flac
-#EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",JB Radio-2 Commercial-Free Web Radio
-http://199.189.87.9:10999/flac
+#EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",JB Radio-2
+http://161.97.135.80:8889/flac
 #EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",Mybobba FM
 https://radio.edith.gg/listen/mybobbafm/radio_flac.flac
 #EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",Intense Radio
