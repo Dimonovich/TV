@@ -57,9 +57,6 @@ https://strm.yandex.ru/kal/v_mire_zhivotnykh_belarus/v_mire_zhivotnykh_belarus0.
 https://strm.yandex.ru/kal/sibir/sibir0.m3u8
 #EXTINF:-1 ,Охотник и рыболов Int
 https://strm.yandex.ru/kal/ohotnik_rybolov_belarus/ohotnik_rybolov_belarus0.m3u8
-#EXTINF:-1 ,Диалоги о рыбалке
-https://strm.yandex.ru/kal/dialogi/dialogi0.m3u8
-
 
 #EXTINF:-1 ,История
 http://109.239.208.82:80/history/index.m3u8
@@ -89,13 +86,13 @@ http://188.113.190.15/31/video.m3u8
 #EXTINF:-1 ,viju TV1000 Action
 http://188.113.190.15/30/video.m3u8
 #EXTINF:-1 ,TV1000 Русское кино
-http://188.113.190.15/35/video.m3u8
+https://bkm.beetv.kz/btv/live/hls/000003748.m3u8
 #EXTINF:-1 ,viju+ Comedy
 http://188.113.190.15/203/video.m3u8
 #EXTINF:-1 ,viju+ Megahit
 http://188.113.190.15/202/video.m3u8
-#EXTINF:-1 ,viju+ Serial
-https://bkm.beetv.kz/btv/live/hls/000004375.m3u8
+#EXTINF:-1 ,viju+ Premiere
+http://188.113.190.15/201/video.m3u8
 
 #EXTINF:-1 ,Gags Network HD
 http://95.67.12.82:9069
@@ -306,7 +303,8 @@ https://mhd116.iptv2022.com/p/GBOt4nftXClykDsgJw6F5A,1719003613/streaming/start-
 https://mhd116.iptv2022.com/p/_omOECOcayNbVsfQE9X93g,1719003614/streaming/fightbox/324/1/tracks-v4a1/mono.m3u8
 
 #EXTINF:-1 ,Удар HD
-https://strm.yandex.ru/kal/udar/udar0.m3u8
+https://bkm.beetv.kz/btv/live/hls/000007802.m3u8
+
 #EXTINF:-1 ,Матч! Планета
 https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
 
