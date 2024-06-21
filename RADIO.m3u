@@ -892,6 +892,8 @@ https://myradio24.org/6870
 https://listen7.myradio24.com/radiohayk
 #EXTINF:-1 group-title="My Radio 24" tvg-logo="https://i.postimg.cc/QxCwpCcC/1.png",Radio HAYK
 https://listen7.myradio24.com/radiohayk
+#EXTINF:-1 group-title="My Radio 24" tvg-logo="https://i.postimg.cc/QxCwpCcC/1.png",Ретро ФМ
+https://listen1.myradio24.com/5967
 
 
 
@@ -3914,8 +3916,7 @@ https://stream06.pcradio.ru/yacht_radio-med
 
 
 
-#EXTINF:-1 group-title="Украина" tvg-logo="https://i.postimg.cc/WzLh40Th/image.png",Ретро FM
-http://cast.radiogroup.com.ua:8000/retro
+
 #EXTINF:-1 group-title="Украина" tvg-logo="https://i.postimg.cc/WzLh40Th/image.png",Jazz Радио Україна
 https://online.radiojazz.ua/RadioJazz_HD
 #EXTINF:-1 group-title="Украина" tvg-logo="https://i.postimg.cc/WzLh40Th/image.png",Kiss FM_Live
@@ -3933,7 +3934,7 @@ https://online.radioroks.ua/RadioROKS_HD
 #EXTINF:-1 group-title="Украина" tvg-logo="https://i.postimg.cc/WzLh40Th/image.png",Flash Radio
 https://online.radioplayer.ua/FlashRadio_HD
 #EXTINF:-1 group-title="Украина" tvg-logo="https://i.postimg.cc/WzLh40Th/image.png",Classic Radio
-https://online.radioplayer.ua/RadioClassic_HD
+https://online.classicradio.com.ua/ClassicRadio_HD
 #EXTINF:-1 group-title="Украина" tvg-logo="https://i.postimg.cc/WzLh40Th/image.png",Наше Радио
 https://online.nasheradio.ua/NasheRadio_HD
 #EXTINF:-1 group-title="Украина" tvg-logo="https://i.postimg.cc/WzLh40Th/image.png",Мелодия FM
@@ -3944,5 +3945,5 @@ https://online.melodiafm.ua/MelodiaFM_Disco_HD
 https://online.melodiafm.ua/MelodiaFM_Romantic_HD
 #EXTINF:-1 group-title="Украина" tvg-logo="https://i.postimg.cc/WzLh40Th/image.png",Просто Радио Перец FM
 http://62.80.190.246:8000/PRK128
-#EXTINF:-1 group-title="Украина" tvg-logo="https://i.postimg.cc/WzLh40Th/image.png",NRJ (Европа Плюс)
-http://cast.nrj.in.ua/nrj
+#EXTINF:-1 group-title="Украина" tvg-logo="https://i.postimg.cc/WzLh40Th/image.png",NRJ Ukraine
+https://cast.mediaonline.net.ua/nrj320
