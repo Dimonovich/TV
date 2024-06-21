@@ -187,11 +187,11 @@ http://stv.mediacdn.ru/live/cdn/ani/playlist_sdhigh.m3u8
 #EXTINF:-1 ,Мульт
 https://stv.mediacdn.ru/live/cdn/mult/playlist_hdhigh.m3u8
 
-#EXTINF:-1 ,Tiji
-https://bkm.beetv.kz/btv/live/hls/000000174.m3u8
-
 #EXTINF:-1 ,Солнце
 https://tv.mediacdn.ru/live/disney/playlist_3000k.m3u8
+
+#EXTINF:-1 ,Tiji
+https://bkm.beetv.kz/btv/live/hls/000000174.m3u8
 
 #EXTINF:-1 ,Кнопка ТВ
 https://api.alpaca.t62a.com/hls/9116/stream0.m3u8
