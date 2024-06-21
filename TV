@@ -5822,6 +5822,7 @@ http://31.210.208.171:8080/start/index.m3u8?token=+W2MSER
 
 
 
+
 #EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)",Неизвестная россия HD
 http://strm.yandex.ru/kal/neizvestnaia_rossia/neizvestnaia_rossia0.m3u8
 #EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)",Москва 24
@@ -5832,8 +5833,6 @@ https://strm.yandex.ru/kal/ntv_hit/ntv_hit0.m3u8
 https://strm.yandex.ru/kal/ntv_stil/ntv_stil0.m3u8
 #EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)",НТВ Сериал
 https://strm.yandex.ru/kal/ntv_serial_new/ntv_serial_new0.m3u8
-#EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)",НТВ Право
-https://strm.yandex.ru/kal/ntv_pravo_new/ntv_pravo_new0.m3u8
 #EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)",В мире животных
 https://strm.yandex.ru/kal/v_mire_zhivotnykh_belarus/v_mire_zhivotnykh_belarus0.m3u8
 #EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)",HD Life
@@ -5856,21 +5855,15 @@ https://strm.yandex.ru/kal/muzhskoi_belarus/muzhskoi_belarus0.m3u8
 https://strm.yandex.ru/kal/365_dnei_tv_belarus/365_dnei_tv_belarus0.m3u8
 #EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)",Кто есть кто
 https://strm.yandex.ru/kal/kto_est_kto_belarus/kto_est_kto_belarus0.m3u8
-#EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)",Совершенно секретно
-https://strm.yandex.ru/kal/sovsec/sovsec0.m3u8
 #EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)",Ocean TV
 https://strm.yandex.ru/kal/ocean_tv_belarus/ocean_tv_belarus0.m3u8
 #EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)",RTG HD
 https://strm.yandex.ru/kal/rtg/rtg0.m3u8
 #EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)",Наша сибирь HD
 https://strm.yandex.ru/kal/sibir/sibir0.m3u8
-#EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)",Диалоги о рыбалке
-https://strm.yandex.ru/kal/dialogi/dialogi0.m3u8
-#EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)",EPIC HD 
-http://strm.yandex.ru/kal/epic/epic0.m3u8
-#EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)",ПроДвижение 
+#EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)",ПроДвижение
 http://strm.yandex.ru/kal/prodvizhenie/prodvizhenie0.m3u8
-#EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)",English Class HD 
+#EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)",English Class HD
 http://strm.yandex.ru/kal/english_class_belarus/english_class_belarus0.m3u8
 #EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)",Беларусь 1
 https://strm.yandex.ru/kal/belarus_1/belarus_10.m3u8
@@ -5890,8 +5883,6 @@ https://strm.yandex.ru/kal/ntv_belarus/ntv_belarus0.m3u8
 https://strm.yandex.ru/kal/rtr_belarus/rtr_belarus0.m3u8
 #EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)",ТНТ International
 https://strm.yandex.ru/kal/tnt_interneshnl_belarus/tnt_interneshnl_belarus0.m3u8
-#EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)",Fashion TV
-https://strm.yandex.ru/kal/fashion_tv/fashion_tv0.m3u8
 #EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)",Кинопремьера
 https://strm.yandex.ru/kal/kinopremiera_hd_belarus/kinopremiera_hd_belarus0.m3u8
 #EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)",Кинохит
@@ -5906,8 +5897,6 @@ https://strm.yandex.ru/kal/kinosemya_belarus/kinosemya_belarus0.m3u8
 https://strm.yandex.ru/kal/kinokomedia_belarus/kinokomedia_belarus0.m3u8
 #EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)",Киносвидание
 https://strm.yandex.ru/kal/kinosvidanie_sd_belarus/kinosvidanie_sd_belarus0.m3u8
-#EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)",Наше новое кино
-https://strm.yandex.ru/kal/nashe_novoe_kino_belarus/nashe_novoe_kino_belarus0.m3u8
 #EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)",Родное кино
 https://strm.yandex.ru/kal/rodnoe_kino_belarus/rodnoe_kino_belarus0.m3u8
 #EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)",Киносерия
@@ -5926,8 +5915,6 @@ https://strm.yandex.ru/kal/tv_21_belarus/tv_21_belarus0.m3u8
 https://strm.yandex.ru/kal/cinema_tv_belarus/cinema_tv_belarus0.m3u8
 #EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)",Hollywood HD
 https://strm.yandex.ru/kal/hollywood_belarus/hollywood_belarus0.m3u8
-#EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)" tvg-id="vhs-ka",VHS-ka
-https://strm.yandex.ru/kal/vhs_ka_belarus/vhs_ka0.m3u8
 #EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)",НСТ
 https://strm.yandex.ru/kal/nst_belarus/nst_belarus0.m3u8
 #EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)",Т24
@@ -5942,10 +5929,6 @@ https://strm.yandex.ru/kal/360tv/360tv0.m3u8
 https://strm.yandex.ru/kal/mir_belarus/mir_belarus0.m3u8
 #EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)",МИР 24
 https://strm.yandex.ru/kal/mir24/mir240.m3u8
-#EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)",Москва-24
-https://strm.yandex.ru/kal/msk24_supres/msk24_supres0.m3u8
-#EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)",RT Doc
-https://strm.yandex.ru/kal/rtd_hd/rtd_hd0.m3u8
 #EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)",2x2
 https://strm.yandex.ru/kal/2x2_belarus/2x2_belarus0.m3u8
 #EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)",5 канал international
@@ -5978,44 +5961,32 @@ https://strm.yandex.ru/kal/ducktv_belarus/ducktv_belarus0.m3u8
 https://strm.yandex.ru/kal/mult_belarus/mult_belarus0.m3u8
 #EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)",Tiji
 https://strm.yandex.ru/kal/tiji_belarus/tiji_belarus0.m3u8
-#EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)",Чижик HD
-http://strm.yandex.ru/kal/chizhik/chizhik0.m3u8
 #EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)",Gulli Girl
 https://strm.yandex.ru/kal/gulli_girl_belarus/gulli_girl_belarus0.m3u8
 #EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)",Рыжий
 https://strm.yandex.ru/kal/ryzhii_sd_belarus/ryzhii_sd_belarus0.m3u8
-#EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)",Лёва
-http://strm.yandex.ru/kal/leva/leva0.m3u8
-#EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)",Мультиландия
-https://strm.yandex.ru/kal/multilandia/multilandia0.m3u8
-#EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)",В гостях у сказки
-https://strm.yandex.ru/kal/v_gostyah_u_skazki/v_gostyah_u_skazki0.m3u8
-#EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)" ,Baby Time
+#EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)",Baby Time
 http://strm.yandex.ru/kal/baby_time/baby_time0.m3u8
 #EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)",БелМузТВ
 https://strm.yandex.ru/kal/belmuztv/belmuztv0.m3u8
 #EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)",Europa Plus TV
 https://strm.yandex.ru/kal/europa_plus_tv/europa_plus_tv0.m3u8
-#EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)" ,Bridge TV Deluxe
+#EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)",Bridge TV Deluxe
 https://strm.yandex.ru/kal/bridgetvdeluxe/bridgetvdeluxe0.m3u8
-#EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)" ,Bridge TV
+#EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)",Bridge TV
 https://strm.yandex.ru/kal/bridgetv/bridgetv0.m3u8
-#EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)" ,Bridge TV Classic
+#EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)",Bridge TV Classic
 https://strm.yandex.ru/kal/bridgetvclassic/bridgetvclassic0.m3u8
-#EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)" ,Bridge TV Rock
+#EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)",Bridge TV Rock
 https://strm.yandex.ru/kal/bridge_tv_fresh/bridge_tv_fresh0.m3u8
-#EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)" ,BRIDGE TV HITS
+#EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)",BRIDGE TV HITS
 https://strm.yandex.ru/kal/bridgetvhits/bridgetvhits0.m3u8
-#EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)" ,BRIDGE TV Русский Хит
+#EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)",BRIDGE TV Русский Хит
 https://strm.yandex.ru/kal/bridgetv_russkiyhit/bridgetv_russkiyhit0.m3u8
-#EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)" ,Bridge TV Шлягер
+#EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)",Bridge TV Шлягер
 https://strm.yandex.ru/kal/bridgetv_shlyager/bridgetv_shlyager0.m3u8
-#EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)" ,HITV
-https://strm.yandex.ru/kal/hittv/hittv0.m3u8
 #EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)",RU.TV
 https://strm.yandex.ru/kal/rutv_cv/rutv_cv0.m3u8
-#EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)",Жара
-https://strm.yandex.ru/kal/ot_rassveta_do_zakata_zhara/ot_rassveta_do_zakata_zhara0.m3u8
 #EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)",Ля-минор
 https://strm.yandex.ru/kal/la_minor_belarus/la_minor_belarus0.m3u8
 #EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)",Russian MusicBox
@@ -6028,9 +5999,9 @@ https://strm.yandex.ru/kal/tntmusic/tntmusic0.m3u8
 https://strm.yandex.ru/kal/russkoe_ekstremalnoe_tv_belarus/russkoe_ekstremalnoe_tv_belarus0.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-logo="https://i.postimg.cc/0QNSJg8M/1.jpg",Старт Триумф
 https://strm.yandex.ru/kal/start_triumf/start_triumf0.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆" ,Старт HD
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Старт HD
 https://strm.yandex.ru/kal/start/start0.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆" ,Удар
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Удар
 https://strm.yandex.ru/kal/udar/udar0.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",MMA-TV.COM
 https://strm.yandex.ru/kal/mma_tv_belarus/mma_tv_belarus0.m3u8
