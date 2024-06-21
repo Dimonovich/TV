@@ -1988,6 +1988,8 @@ http://nadiya.home-net.com.ua/mob/mystream.m3u8
 http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/31chod/31chod/playlist.m3u8
 #EXTINF:-1 group-title="С сайтов" tvg-logo="http://orbita.dn.ua/wp-content/uploads/2020/09/logo_Orbita_fin14.png",Орбiта
 http://ftp.orbita.dn.ua/hls/orbita.m3u8
+#EXTINF:-1 group-title="С сайтов" tvg-id="sampo-tv",Сампо ТВ 360°
+http://iptv-hls.karelia.pro/streams/Sampo360/stream.m3u8
 #EXTINF:-1 group-title="С сайтов" tvg-logo="https://i.postimg.cc/Qd1GFD3R/image.png",Абаза ТВ
 https://watcher-node4.apsny.camera/tv_abaza_tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="С сайтов" tvg-logo="https://pbs.twimg.com/profile_images/1161883563492564992/OPawdkI-_400x400.jpg",12 КАНАЛ (ОМСК)
