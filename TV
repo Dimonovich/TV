@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.one/epg2.xml.gz,https://iptvx.one/EPG.gz,http://backustv.ru/epg.xml.gz"
+#EXTM3U url-tvg="http://epg.one/epg2.xml.gz,https://iptvx.one/EPG.gz"
 
 
 #EXTINF:-1 group-title="🔺 INFO 🔺" tvg-logo="https://i.postimg.cc/1t5RRm05/Pixaloop-09-11-2021-21-03-10-1660000.gif",Обновление:21.06.2024
@@ -174,11 +174,11 @@ http://tv.streams.baikal-telecom.net/NTS/index.m3u8
 http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://i.postimg.cc/m2FWVxW3/Background-Eraser-20230805-095630572.png",ТВОЕ ТВ HD - ЮМОР
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)" ,BACKUSTV Original
+#EXTINF:-1 group-title="TEST (VPN)" tvg-id="backustv",BACKUSTV Original
 http://stream.backustv.ru/live/btv/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)" ,BACKUSTV Dark
+#EXTINF:-1 group-title="TEST (VPN)" tvg-id="backustv-horror",BACKUSTV Dark
 http://stream.backustv.ru/live/btv2/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)" ,BACKUSTV Music
+#EXTINF:-1 group-title="TEST (VPN)" tvg-id="backustv-music",BACKUSTV Music
 http://stream.backustv.ru/live/btv3/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://assets.iptv2022.com/static/channel/10150/logo_256_1655387037.png",Волга
 http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8
