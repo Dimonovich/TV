@@ -174,10 +174,6 @@ http://tv.streams.baikal-telecom.net/NTS/index.m3u8
 http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://i.postimg.cc/m2FWVxW3/Background-Eraser-20230805-095630572.png",ТВОЕ ТВ HD - ЮМОР
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)" ,BACKUSTV Original
-http://stream.backustv.ru/live/btv/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)" ,BACKUSTV Dark
-http://stream.backustv.ru/live/btv2/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)" ,BACKUSTV Music
 http://stream.backustv.ru/live/btv3/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://assets.iptv2022.com/static/channel/10150/logo_256_1655387037.png",Волга
