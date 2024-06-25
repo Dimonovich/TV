@@ -200,7 +200,7 @@ http://193.111.244.35:8001/tnt/index.m3u8
 http://193.111.244.35:8001/ntv/index.m3u8
 #EXTINF:-1 group-title="Telenet",Моя Планета
 http://193.111.244.35:8001/mojaplaneta/index.m3u8
-#EXTINF:-1 group-title="Telenet",Перпетум мобиле HD
+#EXTINF:-1 group-title="Telenet" tvg-id="perpetmobile",Перпетум мобиле HD
 http://193.111.244.35:8001/perpetuum/index.m3u8
 #EXTINF:-1 group-title="Telenet",Наука
 http://193.111.244.35:8001/nauka/index.m3u8
@@ -208,7 +208,7 @@ http://193.111.244.35:8001/nauka/index.m3u8
 http://193.111.244.35:8001/outdoor/index.m3u8
 #EXTINF:-1 group-title="Telenet",Ocean TV
 http://193.111.244.35:8001/ocean/index.m3u8
-#EXTINF:-1 group-title="Telenet",Nat Geo HD
+#EXTINF:-1 group-title="Telenet",National Geographic HD
 http://193.111.244.35:8001/natgeohd/index.m3u8
 #EXTINF:-1 group-title="Telenet",Investigation Discovery
 http://193.111.244.35:8001/idxtra/index.m3u8
@@ -236,7 +236,9 @@ http://193.111.244.35:8001/mirseriala/index.m3u8
 http://193.111.244.35:8001/klassika_kino/index.m3u8
 #EXTINF:-1 group-title="Telenet",Кинохит
 http://193.111.244.35:8001/kinohit/index.m3u8
-#EXTINF:-1 group-title="Telenet",Киносезон HD
+#EXTINF:-1 group-title="Telenet",Киносемья
+http://193.111.244.35:8001/kinosemja/index.m3u8
+#EXTINF:-1 group-title="Telenet" tvg-id="kinosezon",Киносезон HD
 http://193.111.244.35:8001/kinosezon/index.m3u8
 #EXTINF:-1 group-title="Telenet",Киносвидание
 http://193.111.244.35:8001/kinosvidanie/index.m3u8
@@ -258,8 +260,6 @@ http://193.111.244.35:8001/avto24/index.m3u8
 http://193.111.244.35:8001/worldfashion/index.m3u8
 #EXTINF:-1 group-title="Telenet",VIP Serial HD
 http://193.111.244.35:8001/vipserial/index.m3u8
-#EXTINF:-1 group-title="Telenet",Киносемья
-http://193.111.244.35:8001/kinosemja/index.m3u8
 #EXTINF:-1 group-title="Telenet",TV XXI
 http://193.111.244.35:8001/xxi/index.m3u8
 #EXTINF:-1 group-title="Telenet",TLC HD
@@ -268,9 +268,9 @@ http://193.111.244.35:8001/tlcHD/index.m3u8
 http://193.111.244.35:8001/tlc/index.m3u8
 #EXTINF:-1 group-title="Telenet",RTR Planeta
 http://193.111.244.35:8001/rtrplaneta/index.m3u8
-#EXTINF:-1 group-title="Telenet",RT Doc HD
+#EXTINF:-1 group-title="Telenet",RT DOC
 http://193.111.244.35:8001/rtdoc/index.m3u8
-#EXTINF:-1 group-title="Telenet",Ost West
+#EXTINF:-1 group-title="Telenet" tvg-id="ostwest",Ost West
 http://193.111.244.35:8001/ostwest/index.m3u8
 #EXTINF:-1 group-title="Telenet",Mezzo
 http://193.111.244.35:8001/mezzolive/index.m3u8
@@ -306,15 +306,15 @@ http://193.111.244.35:8001/davinci/index.m3u8
 http://193.111.244.35:8001/gulli/index.m3u8
 #EXTINF:-1 group-title="Telenet",Tiji
 http://193.111.244.35:8001/tiji/index.m3u8
-#EXTINF:-1 group-title="Telenet",Детское
+#EXTINF:-1 group-title="Telenet" tvg-id="detskoe-kino",Детское
 http://193.111.244.35:8001/detskoe/index.m3u8
 #EXTINF:-1 group-title="Telenet",Бобер
 http://193.111.244.35:8001/bober/index.m3u8
-#EXTINF:-1 group-title="Telenet",ПЕС И КОТ
+#EXTINF:-1 group-title="Telenet",Пёс и Ко
 http://193.111.244.35:8001/pesiko/index.m3u8
 #EXTINF:-1 group-title="Telenet",О!
 http://193.111.244.35:8001/o/index.m3u8
-#EXTINF:-1 group-title="Telenet",Мультсезон HD
+#EXTINF:-1 group-title="Telenet" tvg-id="multsezon",Мультсезон HD
 http://193.111.244.35:8001/multsezon/index.m3u8
 #EXTINF:-1 group-title="Telenet",Мультиландия
 http://193.111.244.35:8001/multilandija/index.m3u8
@@ -332,9 +332,9 @@ http://193.111.244.35:8001/bridgedeluxe/index.m3u8
 http://193.111.244.35:8001/shanson/index.m3u8
 #EXTINF:-1 group-title="Telenet",Europa Plus TV
 http://193.111.244.35:8001/europaplus/index.m3u8
-#EXTINF:-1 group-title="Telenet",M2
+#EXTINF:-1 group-title="Telenet",М2 HD UA
 http://193.111.244.35:8001/M2/index.m3u8
-#EXTINF:-1 group-title="Telenet",M1
+#EXTINF:-1 group-title="Telenet",М1 HD UA
 http://193.111.244.35:8001/M1/index.m3u8
 #EXTINF:-1 group-title="Telenet",Матч! Футбол 1
 http://193.111.244.35:8001/matchfut1/index.m3u8
