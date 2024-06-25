@@ -238,10 +238,10 @@ http://193.111.244.35:8001/klassika_kino/index.m3u8
 http://193.111.244.35:8001/kinohit/index.m3u8
 #EXTINF:-1 group-title="Telenet",Киносемья
 http://193.111.244.35:8001/kinosemja/index.m3u8
-#EXTINF:-1 group-title="Telenet" tvg-id="kinosezon",Киносезон HD
-http://193.111.244.35:8001/kinosezon/index.m3u8
 #EXTINF:-1 group-title="Telenet",Киносвидание
 http://193.111.244.35:8001/kinosvidanie/index.m3u8
+#EXTINF:-1 group-title="Telenet" tvg-id="kinosezon",Киносезон HD
+http://193.111.244.35:8001/kinosezon/index.m3u8
 #EXTINF:-1 group-title="Telenet",Иллюзион+
 http://193.111.244.35:8001/illuzionplus/index.m3u8
 #EXTINF:-1 group-title="Telenet",Известия HD
@@ -256,7 +256,7 @@ http://193.111.244.35:8001/domashnij/index.m3u8
 http://193.111.244.35:8001/domkino/index.m3u8
 #EXTINF:-1 group-title="Telenet",Авто 24
 http://193.111.244.35:8001/avto24/index.m3u8
-#EXTINF:-1 group-title="Telenet",World fashion
+#EXTINF:-1 group-title="Telenet",World Fashion Channel
 http://193.111.244.35:8001/worldfashion/index.m3u8
 #EXTINF:-1 group-title="Telenet",VIP Serial HD
 http://193.111.244.35:8001/vipserial/index.m3u8
@@ -284,7 +284,7 @@ http://193.111.244.35:8001/stb/index.m3u8
 http://193.111.244.35:8001/foxlife/index.m3u8
 #EXTINF:-1 group-title="Telenet",Fox
 http://193.111.244.35:8001/fox/index.m3u8
-#EXTINF:-1 group-title="Telenet",Food HD
+#EXTINF:-1 group-title="Telenet",FoodTime
 http://193.111.244.35:8001/food/index.m3u8
 #EXTINF:-1 group-title="Telenet",Filmbox
 http://193.111.244.35:8001/filmbox/index.m3u8
@@ -294,7 +294,7 @@ http://193.111.244.35:8001/FilmUADrama/index.m3u8
 http://193.111.244.35:8001/euronews/index.m3u8
 #EXTINF:-1 group-title="Telenet",BTV
 http://193.111.244.35:8001/btv/index.m3u8
-#EXTINF:-1 group-title="Telenet",Az TV HD
+#EXTINF:-1 group-title="Telenet",AzTV
 http://193.111.244.35:8001/aztv/index.m3u8
 #EXTINF:-1 group-title="Telenet",360 HD
 http://193.111.244.35:8001/360HD/index.m3u8
@@ -320,7 +320,7 @@ http://193.111.244.35:8001/multsezon/index.m3u8
 http://193.111.244.35:8001/multilandija/index.m3u8
 #EXTINF:-1 group-title="Telenet",СТС Kids HD
 http://193.111.244.35:8001/stskids/index.m3u8
-#EXTINF:-1 group-title="Telenet",Сartoon Network
+#EXTINF:-1 group-title="Telenet",Cartoon Network
 http://193.111.244.35:8001/cartoon/index.m3u8
 #EXTINF:-1 group-title="Telenet",Мульт
 http://193.111.244.35:8001/mult/index.m3u8
