@@ -2420,6 +2420,54 @@ http://video.platformcraft.ru/hls/etv/egorievsk-tv/720p.m3u8
 
 
 
+#EXTINF:-1 group-title="Skaz TV",Первый канал HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 OPR/111.0.0.0
+http://tv1.skaz.tv:34002/cdn/1/video.m3u8?token=eyJpc3MiOiJza2F6dHYiLCJhdWQiOiIxMDQuMjguMjQ0LjE0MSJ9.eyJpc3MiOiJza2F6dHYiLCJhdWQiOiIxMDQuMjguMjQ0LjE0MSIsImV4cCI6MTcxOTM3MzI1MX0.9V1TJKObunGv-mIT-8gKVxU1ZI8UHAklCaPBhwk-jck
+#EXTINF:-1 group-title="Skaz TV",Россия 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 OPR/111.0.0.0
+http://tv1.skaz.tv:34002/cdn/2/video.m3u8?token=eyJpc3MiOiJza2F6dHYiLCJhdWQiOiIxMDQuMjguMjQ0LjE0MSJ9.eyJpc3MiOiJza2F6dHYiLCJhdWQiOiIxMDQuMjguMjQ0LjE0MSIsImV4cCI6MTcxOTM3MzI1MX0.9V1TJKObunGv-mIT-8gKVxU1ZI8UHAklCaPBhwk-jck
+#EXTINF:-1 group-title="Skaz TV",Россия 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 OPR/111.0.0.0
+http://tv1.skaz.tv:34002/cdn/6/video.m3u8?token=eyJpc3MiOiJza2F6dHYiLCJhdWQiOiIxMDQuMjguMjQ0LjE0MSJ9.eyJpc3MiOiJza2F6dHYiLCJhdWQiOiIxMDQuMjguMjQ0LjE0MSIsImV4cCI6MTcxOTM3MzI1MX0.9V1TJKObunGv-mIT-8gKVxU1ZI8UHAklCaPBhwk-jck
+#EXTINF:-1 group-title="Skaz TV",ТНТ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 OPR/111.0.0.0
+http://tv1.skaz.tv:34002/cdn/3/video.m3u8?token=eyJpc3MiOiJza2F6dHYiLCJhdWQiOiIxMDQuMjguMjQ0LjE0MSJ9.eyJpc3MiOiJza2F6dHYiLCJhdWQiOiIxMDQuMjguMjQ0LjE0MSIsImV4cCI6MTcxOTM3MzI1MX0.9V1TJKObunGv-mIT-8gKVxU1ZI8UHAklCaPBhwk-jck
+#EXTINF:-1 group-title="Skaz TV",НТВ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 OPR/111.0.0.0
+http://tv1.skaz.tv:34002/cdn/5/video.m3u8?token=eyJpc3MiOiJza2F6dHYiLCJhdWQiOiIxMDQuMjguMjQ0LjE0MSJ9.eyJpc3MiOiJza2F6dHYiLCJhdWQiOiIxMDQuMjguMjQ0LjE0MSIsImV4cCI6MTcxOTM3MzI1MX0.9V1TJKObunGv-mIT-8gKVxU1ZI8UHAklCaPBhwk-jck
+#EXTINF:-1 group-title="Skaz TV",СТС HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 OPR/111.0.0.0
+http://tv1.skaz.tv:34002/cdn/4/video.m3u8?token=eyJpc3MiOiJza2F6dHYiLCJhdWQiOiIxMDQuMjguMjQ0LjE0MSJ9.eyJpc3MiOiJza2F6dHYiLCJhdWQiOiIxMDQuMjguMjQ0LjE0MSIsImV4cCI6MTcxOTM3MzI1MX0.9V1TJKObunGv-mIT-8gKVxU1ZI8UHAklCaPBhwk-jck
+#EXTINF:-1 group-title="Skaz TV",Мульт HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 OPR/111.0.0.0
+http://tv1.skaz.tv:34002/cdn/13/video.m3u8?token=eyJpc3MiOiJza2F6dHYiLCJhdWQiOiIxMDQuMjguMjQ0LjE0MSJ9.eyJpc3MiOiJza2F6dHYiLCJhdWQiOiIxMDQuMjguMjQ0LjE0MSIsImV4cCI6MTcxOTM3MzI1MX0.9V1TJKObunGv-mIT-8gKVxU1ZI8UHAklCaPBhwk-jck
+#EXTINF:-1 group-title="Skaz TV",RU.TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 OPR/111.0.0.0
+http://tv1.skaz.tv:34002/cdn/15/video.m3u8?token=eyJpc3MiOiJza2F6dHYiLCJhdWQiOiIxMDQuMjguMjQ0LjE0MSJ9.eyJpc3MiOiJza2F6dHYiLCJhdWQiOiIxMDQuMjguMjQ0LjE0MSIsImV4cCI6MTcxOTM3MzI1MX0.9V1TJKObunGv-mIT-8gKVxU1ZI8UHAklCaPBhwk-jck
+#EXTINF:-1 group-title="Skaz TV",Discovery Channel HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 OPR/111.0.0.0
+http://tv1.skaz.tv:34002/cdn/16/video.m3u8?token=eyJpc3MiOiJza2F6dHYiLCJhdWQiOiIxMDQuMjguMjQ0LjE0MSJ9.eyJpc3MiOiJza2F6dHYiLCJhdWQiOiIxMDQuMjguMjQ0LjE0MSIsImV4cCI6MTcxOTM3MzI1MX0.9V1TJKObunGv-mIT-8gKVxU1ZI8UHAklCaPBhwk-jck
+#EXTINF:-1 group-title="Skaz TV",Пятница HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 OPR/111.0.0.0
+http://tv1.skaz.tv:34002/cdn/17/video.m3u8?token=eyJpc3MiOiJza2F6dHYiLCJhdWQiOiIxMDQuMjguMjQ0LjE0MSJ9.eyJpc3MiOiJza2F6dHYiLCJhdWQiOiIxMDQuMjguMjQ0LjE0MSIsImV4cCI6MTcxOTM3MzI1MX0.9V1TJKObunGv-mIT-8gKVxU1ZI8UHAklCaPBhwk-jck
+#EXTINF:-1 group-title="Skaz TV",Кухня ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 OPR/111.0.0.0
+http://tv1.skaz.tv:34002/cdn/19/video.m3u8?token=eyJpc3MiOiJza2F6dHYiLCJhdWQiOiIxMDQuMjguMjQ0LjE0MSJ9.eyJpc3MiOiJza2F6dHYiLCJhdWQiOiIxMDQuMjguMjQ0LjE0MSIsImV4cCI6MTcxOTM3MzI1MX0.9V1TJKObunGv-mIT-8gKVxU1ZI8UHAklCaPBhwk-jck
+#EXTINF:-1 group-title="Skaz TV",ViP Comedy HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 OPR/111.0.0.0
+http://tv1.skaz.tv:34002/cdn/20/video.m3u8?token=eyJpc3MiOiJza2F6dHYiLCJhdWQiOiIxMDQuMjguMjQ0LjE0MSJ9.eyJpc3MiOiJza2F6dHYiLCJhdWQiOiIxMDQuMjguMjQ0LjE0MSIsImV4cCI6MTcxOTM3MzI1MX0.9V1TJKObunGv-mIT-8gKVxU1ZI8UHAklCaPBhwk-jck
+#EXTINF:-1 group-title="Skaz TV",Мосфильм. Золотая коллекция
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 OPR/111.0.0.0
+http://tv1.skaz.tv:34002/cdn/21/video.m3u8?token=eyJpc3MiOiJza2F6dHYiLCJhdWQiOiIxMDQuMjguMjQ0LjE0MSJ9.eyJpc3MiOiJza2F6dHYiLCJhdWQiOiIxMDQuMjguMjQ0LjE0MSIsImV4cCI6MTcxOTM3MzI1MX0.9V1TJKObunGv-mIT-8gKVxU1ZI8UHAklCaPBhwk-jck
+#EXTINF:-1 group-title="Skaz TV",Победа
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 OPR/111.0.0.0
+http://tv1.skaz.tv:34002/cdn/22/video.m3u8?token=eyJpc3MiOiJza2F6dHYiLCJhdWQiOiIxMDQuMjguMjQ0LjE0MSJ9.eyJpc3MiOiJza2F6dHYiLCJhdWQiOiIxMDQuMjguMjQ0LjE0MSIsImV4cCI6MTcxOTM3MzI1MX0.9V1TJKObunGv-mIT-8gKVxU1ZI8UHAklCaPBhwk-jck
+#EXTINF:-1 group-title="Skaz TV",Карусель
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 OPR/111.0.0.0
+http://tv1.skaz.tv:34002/cdn/32/video.m3u8?token=eyJpc3MiOiJza2F6dHYiLCJhdWQiOiIxMDQuMjguMjQ0LjE0MSJ9.eyJpc3MiOiJza2F6dHYiLCJhdWQiOiIxMDQuMjguMjQ0LjE0MSIsImV4cCI6MTcxOTM3MzI1MX0.9V1TJKObunGv-mIT-8gKVxU1ZI8UHAklCaPBhwk-jck
+#EXTINF:-1 group-title="Skaz TV",ТВОЕ ТВ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 OPR/111.0.0.0
+http://tv1.skaz.tv:34002/cdn/43/video.m3u8?token=eyJpc3MiOiJza2F6dHYiLCJhdWQiOiIxMDQuMjguMjQ0LjE0MSJ9.eyJpc3MiOiJza2F6dHYiLCJhdWQiOiIxMDQuMjguMjQ0LjE0MSIsImV4cCI6MTcxOTM3MzI1MX0.9V1TJKObunGv-mIT-8gKVxU1ZI8UHAklCaPBhwk-jck
 
 
 
