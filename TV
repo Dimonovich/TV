@@ -2431,33 +2431,33 @@ http://cdn.voka.tv/live/6-req_5k_v5.m3u8
 http://cdn.voka.tv/live/693-req_5k_v5.m3u8
 #EXTINF:-1 group-title="VOKA (VPN)",БЕЛАРУСЬ 3 HD
 http://cdn.voka.tv/live/8-req_5k_v5.m3u8
-#EXTINF:-1 group-title="VOKA (VPN)",Беларусь 4 Могилев HD
+#EXTINF:-1 group-title="VOKA (VPN)" tvg-id="belarus4-mogilev",Беларусь 4 Могилев HD
 http://cdn.voka.tv/live/2097-req_5k_v5.m3u8
-#EXTINF:-1 group-title="VOKA (VPN)",Беларусь 4 Гомель HD
+#EXTINF:-1 group-title="VOKA (VPN)" tvg-id="belarus4-gomel",Беларусь 4 Гомель HD
 http://cdn.voka.tv/live/2011-req_5k_v5.m3u8
-#EXTINF:-1 group-title="VOKA (VPN)",Беларусь 4 Витебск HD
+#EXTINF:-1 group-title="VOKA (VPN)" tvg-id="belarus4-vitebsk",Беларусь 4 Витебск HD
 http://cdn.voka.tv/live/2012-req_5k_v5.m3u8
-#EXTINF:-1 group-title="VOKA (VPN)",Беларусь 4 Брест HD
+#EXTINF:-1 group-title="VOKA (VPN)" tvg-id="belarus4-brest",Беларусь 4 Брест HD
 http://cdn.voka.tv/live/2013-req_5k_v5.m3u8
-#EXTINF:-1 group-title="VOKA (VPN)",CTB HD
+#EXTINF:-1 group-title="VOKA (VPN)",СТВ HD
 http://cdn.voka.tv/live/753-req_5k_v5.m3u8
 #EXTINF:-1 group-title="VOKA (VPN)",ОНТ HD
 http://cdn.voka.tv/live/849-req_5k_v5.m3u8
-#EXTINF:-1 group-title="VOKA (VPN)",ТНТ INT HD
+#EXTINF:-1 group-title="VOKA (VPN)" tvg-id="tnt-int-by",ТНТ INT HD
 http://cdn.voka.tv/live/5120-req_5k_v5.m3u8
-#EXTINF:-1 group-title="VOKA (VPN)",ТВ 3 Беларусь
+#EXTINF:-1 group-title="VOKA (VPN)" tvg-id="tv3-by",ТВ 3 Беларусь
 http://cdn.voka.tv/live/5127-req_5k_v5.m3u8
 #EXTINF:-1 group-title="VOKA (VPN)",Новелла ТВ HD
 http://cdn.voka.tv/live/6002-req_5k_v5.m3u8
-#EXTINF:-1 group-title="VOKA (VPN)" ,ЗВЕЗДА БЕЛАРУСЬ HD
+#EXTINF:-1 group-title="VOKA (VPN)" tvg-id="zvyazda-by",Звязда БЕЛАРУСЬ HD
 http://cdn.voka.tv/live/6238-req_5k_v5.m3u8
 #EXTINF:-1 group-title="VOKA (VPN)",БОБРУЙСК HD
 http://cdn.voka.tv/live/6239-req_5k_v5.m3u8
-#EXTINF:-1 group-title="VOKA (VPN)",Буг ТВ HD
+#EXTINF:-1 group-title="VOKA (VPN)" tvg-id="bug-tv",Буг ТВ HD
 http://cdn.voka.tv/live/7001-req_5k_v5.m3u8
 #EXTINF:-1 group-title="VOKA (VPN)",Лагуна ТВ HD
 http://cdn.voka.tv/live/7002-req_5k_v5.m3u8
-#EXTINF:-1 group-title="VOKA (VPN)",Варяг HD
+#EXTINF:-1 group-title="VOKA (VPN)" tvg-id="variag",Варяг HD
 http://cdn.voka.tv/live/7003-req_5k_v5.m3u8
 #EXTINF:-1 group-title="VOKA (VPN)",Витебск
 http://cdn.voka.tv/live/2023-req_5k_v5.m3u8
@@ -2485,6 +2485,8 @@ http://cdn.voka.tv/live/542-req_5k_v5.m3u8
 http://cdn.voka.tv/live/964-req_5k_v5.m3u8
 #EXTINF:-1 group-title="VOKA (VPN)",Терра Инкогнита HD
 http://cdn.voka.tv/live/3017-req_5k_v5.m3u8
+#EXTINF:-1 group-title="VOKA (VPN)",HD Life
+http://cdn.voka.tv/live/878-req_5k_v5.m3u8
 #EXTINF:-1 group-title="VOKA (VPN)",Discovery Channel
 http://cdn.voka.tv/live/5115-req_5k_v5.m3u8
 #EXTINF:-1 group-title="VOKA (VPN)",Terra HD
@@ -2509,7 +2511,7 @@ http://cdn.voka.tv/live/75-req_5k_v5.m3u8
 http://cdn.voka.tv/live/77-req_5k_v5.m3u8
 #EXTINF:-1 group-title="VOKA (VPN)",КИНОСЕРИЯ HD
 http://cdn.voka.tv/live/79-req_5k_v5.m3u8
-#EXTINF:-1 group-title="VOKA (VPN)",Индейское Кино
+#EXTINF:-1 group-title="VOKA (VPN)",Индийское Кино
 http://cdn.voka.tv/live/1447-req_5k_v5.m3u8
 #EXTINF:-1 group-title="VOKA (VPN)",Кинокомедия HD
 http://cdn.voka.tv/live/2116-req_5k_v5.m3u8
@@ -2537,8 +2539,6 @@ http://cdn.voka.tv/live/588-req_5k_v5.m3u8
 http://cdn.voka.tv/live/603-req_5k_v5.m3u8
 #EXTINF:-1 group-title="VOKA (VPN)",МИР HD
 http://cdn.voka.tv/live/754-req_5k_v5.m3u8
-#EXTINF:-1 group-title="VOKA (VPN)",HD Life
-http://cdn.voka.tv/live/878-req_5k_v5.m3u8
 #EXTINF:-1 group-title="VOKA (VPN)",ЕВРОКИНО
 http://cdn.voka.tv/live/903-req_5k_v5.m3u8
 #EXTINF:-1 group-title="VOKA (VPN)",ДОМАШНИЙ
@@ -2567,7 +2567,7 @@ http://cdn.voka.tv/live/1400-req_5k_v5.m3u8
 http://cdn.voka.tv/live/3001-req_5k_v5.m3u8
 #EXTINF:-1 group-title="VOKA (VPN)",Start Air HD
 http://cdn.voka.tv/live/1804-req_5k_v5.m3u8
-#EXTINF:-1 group-title="VOKA (VPN)",ТВ 21М
+#EXTINF:-1 group-title="VOKA (VPN)" tvg-id="tv21m",ТВ 21М
 http://cdn.voka.tv/live/2018-req_5k_v5.m3u8
 #EXTINF:-1 group-title="VOKA (VPN)",Кто Есть Кто
 http://cdn.voka.tv/live/2079-req_5k_v5.m3u8
@@ -2581,9 +2581,9 @@ http://cdn.voka.tv/live/2164-req_5k_v5.m3u8
 http://cdn.voka.tv/live/3006-req_5k_v5.m3u8
 #EXTINF:-1 group-title="VOKA (VPN)",Советское Кино
 http://cdn.voka.tv/live/3018-req_5k_v5.m3u8
-#EXTINF:-1 group-title="VOKA (VPN)",Скиф HD
+#EXTINF:-1 group-title="VOKA (VPN)" tvg-id="skif-vitebsk",Скиф HD
 http://cdn.voka.tv/live/3101-req_5k_v5.m3u8
-#EXTINF:-1 group-title="VOKA (VPN)",Белрос
+#EXTINF:-1 group-title="VOKA (VPN)",БелРос
 http://cdn.voka.tv/live/3106-req_5k_v5.m3u8
 #EXTINF:-1 group-title="VOKA (VPN)",Орбита ТВ HD
 http://cdn.voka.tv/live/3870-req_5k_v5.m3u8
@@ -2603,7 +2603,7 @@ http://cdn.voka.tv/live/5121-req_5k_v5.m3u8
 http://cdn.voka.tv/live/6008-req_5k_v5.m3u8
 #EXTINF:-1 group-title="VOKA (VPN)",ТВ HD
 http://cdn.voka.tv/live/6036-req_5k_v5.m3u8
-#EXTINF:-1 group-title="VOKA (VPN)",Лева HD
+#EXTINF:-1 group-title="VOKA (VPN)",Лёва
 http://cdn.voka.tv/live/2424-req_5k_v5.m3u8
 #EXTINF:-1 group-title="VOKA (VPN)",Советские Мультфильмы
 http://cdn.voka.tv/live/3007-req_5k_v5.m3u8
@@ -2641,7 +2641,7 @@ http://cdn.voka.tv/live/240-req_5k_v5.m3u8
 http://cdn.voka.tv/live/110-req_5k_v5.m3u8
 #EXTINF:-1 group-title="VOKA (VPN)",Музыка Первого
 http://cdn.voka.tv/live/186-req_5k_v5.m3u8
-#EXTINF:-1 group-title="VOKA (VPN)",MEZZO LIFE HD
+#EXTINF:-1 group-title="VOKA (VPN)",MEZZO LIVE HD
 http://cdn.voka.tv/live/871-req_5k_v5.m3u8
 #EXTINF:-1 group-title="VOKA (VPN)",Муз ТВ HD
 http://cdn.voka.tv/live/6028-req_5k_v5.m3u8
@@ -2659,9 +2659,9 @@ http://cdn.voka.tv/live/100-req_5k_v5.m3u8
 http://cdn.voka.tv/live/9-req_5k_v5.m3u8
 #EXTINF:-1 group-title="VOKA (VPN)",KHL Prime HD
 http://cdn.voka.tv/live/2191-req_5k_v5.m3u8
-#EXTINF:-1 group-title="VOKA (VPN)",Евроспорт 1 HD
+#EXTINF:-1 group-title="VOKA (VPN)",Eurosport 1 HD
 http://cdn.voka.tv/live/5102-req_5k_v5.m3u8
-#EXTINF:-1 group-title="VOKA (VPN)",Exstreme Sports
+#EXTINF:-1 group-title="VOKA (VPN)",Extreme Sports
 http://cdn.voka.tv/live/3009-req_5k_v5.m3u8
 
 
