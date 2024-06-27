@@ -192,173 +192,6 @@ http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1920x1080@4504/playl
 
 
 
-
-
-#EXTINF:-1 group-title="Telenet",Рен ТВ
-http://193.111.244.35:8001/rentv/index.m3u8
-#EXTINF:-1 group-title="Telenet",ТНТ
-http://193.111.244.35:8001/tnt/index.m3u8
-#EXTINF:-1 group-title="Telenet",НТВ
-http://193.111.244.35:8001/ntv/index.m3u8
-#EXTINF:-1 group-title="Telenet",Моя Планета
-http://193.111.244.35:8001/mojaplaneta/index.m3u8
-#EXTINF:-1 group-title="Telenet",Перпетум мобиле HD
-http://193.111.244.35:8001/perpetuum/index.m3u8
-#EXTINF:-1 group-title="Telenet",Наука
-http://193.111.244.35:8001/nauka/index.m3u8
-#EXTINF:-1 group-title="Telenet",Глазами Туриста HD
-http://193.111.244.35:8001/outdoor/index.m3u8
-#EXTINF:-1 group-title="Telenet",Ocean TV
-http://193.111.244.35:8001/ocean/index.m3u8
-#EXTINF:-1 group-title="Telenet",Nat Geo HD
-http://193.111.244.35:8001/natgeohd/index.m3u8
-#EXTINF:-1 group-title="Telenet",Investigation Discovery
-http://193.111.244.35:8001/idxtra/index.m3u8
-#EXTINF:-1 group-title="Telenet",DTX HD
-http://193.111.244.35:8001/dtxhd/index.m3u8
-#EXTINF:-1 group-title="Telenet",Discovery Channel
-http://193.111.244.35:8001/discoveryback/index.m3u8
-#EXTINF:-1 group-title="Telenet",Animal Planet HD
-http://193.111.244.35:8001/animalplanet/index.m3u8
-#EXTINF:-1 group-title="Telenet",Усадьба
-http://193.111.244.35:8001/usadba/index.m3u8
-#EXTINF:-1 group-title="Telenet",Театр
-http://193.111.244.35:8001/teatr/index.m3u8
-#EXTINF:-1 group-title="Telenet",ТВ3
-http://193.111.244.35:8001/tv3ru/index.m3u8
-#EXTINF:-1 group-title="Telenet",СТС Love
-http://193.111.244.35:8001/stslove/index.m3u8
-#EXTINF:-1 group-title="Telenet",Русский иллюзион
-http://193.111.244.35:8001/rusilluzion/index.m3u8
-#EXTINF:-1 group-title="Telenet",Победа
-http://193.111.244.35:8001/pobeda/index.m3u8
-#EXTINF:-1 group-title="Telenet",Мир Сериала
-http://193.111.244.35:8001/mirseriala/index.m3u8
-#EXTINF:-1 group-title="Telenet",Классика Кино
-http://193.111.244.35:8001/klassika_kino/index.m3u8
-#EXTINF:-1 group-title="Telenet",Кинохит
-http://193.111.244.35:8001/kinohit/index.m3u8
-#EXTINF:-1 group-title="Telenet",Киносезон HD
-http://193.111.244.35:8001/kinosezon/index.m3u8
-#EXTINF:-1 group-title="Telenet",Киносвидание
-http://193.111.244.35:8001/kinosvidanie/index.m3u8
-#EXTINF:-1 group-title="Telenet",Иллюзион+
-http://193.111.244.35:8001/illuzionplus/index.m3u8
-#EXTINF:-1 group-title="Telenet",Известия HD
-http://193.111.244.35:8001/izruHD/index.m3u8
-#EXTINF:-1 group-title="Telenet",Еврокино
-http://193.111.244.35:8001/evrokino/index.m3u8
-#EXTINF:-1 group-title="Telenet",Домашний HD
-http://193.111.244.35:8001/domashnijHD/index.m3u8
-#EXTINF:-1 group-title="Telenet",Домашний
-http://193.111.244.35:8001/domashnij/index.m3u8
-#EXTINF:-1 group-title="Telenet",Дом кино
-http://193.111.244.35:8001/domkino/index.m3u8
-#EXTINF:-1 group-title="Telenet",Авто 24
-http://193.111.244.35:8001/avto24/index.m3u8
-#EXTINF:-1 group-title="Telenet",World fashion
-http://193.111.244.35:8001/worldfashion/index.m3u8
-#EXTINF:-1 group-title="Telenet",VIP Serial HD
-http://193.111.244.35:8001/vipserial/index.m3u8
-#EXTINF:-1 group-title="Telenet",Киносемья
-http://193.111.244.35:8001/kinosemja/index.m3u8
-#EXTINF:-1 group-title="Telenet",TV XXI
-http://193.111.244.35:8001/xxi/index.m3u8
-#EXTINF:-1 group-title="Telenet",TLC HD
-http://193.111.244.35:8001/tlcHD/index.m3u8
-#EXTINF:-1 group-title="Telenet",TLC
-http://193.111.244.35:8001/tlc/index.m3u8
-#EXTINF:-1 group-title="Telenet",RTR Planeta
-http://193.111.244.35:8001/rtrplaneta/index.m3u8
-#EXTINF:-1 group-title="Telenet",RT Doc HD
-http://193.111.244.35:8001/rtdoc/index.m3u8
-#EXTINF:-1 group-title="Telenet",Ost West
-http://193.111.244.35:8001/ostwest/index.m3u8
-#EXTINF:-1 group-title="Telenet",Mezzo
-http://193.111.244.35:8001/mezzolive/index.m3u8
-#EXTINF:-1 group-title="Telenet",Jim Jam
-http://193.111.244.35:8001/jimjam/index.m3u8
-#EXTINF:-1 group-title="Telenet",ICTV
-http://193.111.244.35:8001/ictv/index.m3u8
-#EXTINF:-1 group-title="Telenet",СТБ
-http://193.111.244.35:8001/stb/index.m3u8
-#EXTINF:-1 group-title="Telenet",Fox Life
-http://193.111.244.35:8001/foxlife/index.m3u8
-#EXTINF:-1 group-title="Telenet",Fox
-http://193.111.244.35:8001/fox/index.m3u8
-#EXTINF:-1 group-title="Telenet",Food HD
-http://193.111.244.35:8001/food/index.m3u8
-#EXTINF:-1 group-title="Telenet",Filmbox
-http://193.111.244.35:8001/filmbox/index.m3u8
-#EXTINF:-1 group-title="Telenet",Film.Ua Drama HD
-http://193.111.244.35:8001/FilmUADrama/index.m3u8
-#EXTINF:-1 group-title="Telenet",Euronews
-http://193.111.244.35:8001/euronews/index.m3u8
-#EXTINF:-1 group-title="Telenet",BTV
-http://193.111.244.35:8001/btv/index.m3u8
-#EXTINF:-1 group-title="Telenet",Az TV HD
-http://193.111.244.35:8001/aztv/index.m3u8
-#EXTINF:-1 group-title="Telenet",360 HD
-http://193.111.244.35:8001/360HD/index.m3u8
-#EXTINF:-1 group-title="Telenet",360
-http://193.111.244.35:8001/cinema/index.m3u8
-#EXTINF:-1 group-title="Telenet",Da Vinci
-http://193.111.244.35:8001/davinci/index.m3u8
-#EXTINF:-1 group-title="Telenet",Gulli Girl
-http://193.111.244.35:8001/gulli/index.m3u8
-#EXTINF:-1 group-title="Telenet",Tiji
-http://193.111.244.35:8001/tiji/index.m3u8
-#EXTINF:-1 group-title="Telenet",Детское
-http://193.111.244.35:8001/detskoe/index.m3u8
-#EXTINF:-1 group-title="Telenet",Бобер
-http://193.111.244.35:8001/bober/index.m3u8
-#EXTINF:-1 group-title="Telenet",ПЕС И КОТ
-http://193.111.244.35:8001/pesiko/index.m3u8
-#EXTINF:-1 group-title="Telenet",О!
-http://193.111.244.35:8001/o/index.m3u8
-#EXTINF:-1 group-title="Telenet",Мультсезон HD
-http://193.111.244.35:8001/multsezon/index.m3u8
-#EXTINF:-1 group-title="Telenet",Мультиландия
-http://193.111.244.35:8001/multilandija/index.m3u8
-#EXTINF:-1 group-title="Telenet",СТС Kids HD
-http://193.111.244.35:8001/stskids/index.m3u8
-#EXTINF:-1 group-title="Telenet",Сartoon Network
-http://193.111.244.35:8001/cartoon/index.m3u8
-#EXTINF:-1 group-title="Telenet",Мульт
-http://193.111.244.35:8001/mult/index.m3u8
-#EXTINF:-1 group-title="Telenet",Aiva HD
-http://193.111.244.35:8001/aiva/index.m3u8
-#EXTINF:-1 group-title="Telenet",Bridge HD
-http://193.111.244.35:8001/bridgedeluxe/index.m3u8
-#EXTINF:-1 group-title="Telenet",Шансон ТВ
-http://193.111.244.35:8001/shanson/index.m3u8
-#EXTINF:-1 group-title="Telenet",Europa Plus TV
-http://193.111.244.35:8001/europaplus/index.m3u8
-#EXTINF:-1 group-title="Telenet",M2
-http://193.111.244.35:8001/M2/index.m3u8
-#EXTINF:-1 group-title="Telenet",M1
-http://193.111.244.35:8001/M1/index.m3u8
-#EXTINF:-1 group-title="Telenet",Матч! Футбол 1
-http://193.111.244.35:8001/matchfut1/index.m3u8
-#EXTINF:-1 group-title="Telenet",Матч! Футбол 2 HD
-http://193.111.244.35:8001/matchfutbol2hd/index.m3u8
-#EXTINF:-1 group-title="Telenet",Матч! ТВ
-http://193.111.244.35:8001/matchtv/index.m3u8
-#EXTINF:-1 group-title="Telenet",Матч! Игра
-http://193.111.244.35:8001/matchigra/index.m3u8
-#EXTINF:-1 group-title="Telenet",Матч Премьер
-http://193.111.244.35:8001/matchprem/index.m3u8
-#EXTINF:-1 group-title="Telenet",Sport 1
-http://193.111.244.35:8001/sport1/index.m3u8
-#EXTINF:-1 group-title="Telenet",KHL HD
-http://193.111.244.35:8001/KHLHD/index.m3u8
-#EXTINF:-1 group-title="Telenet",Eurosport 1
-http://193.111.244.35:8001/eurosport/index.m3u8
-
-
-
-
-
 #EXTINF:-1 group-title="Telenet_2",Россия 1 HD
 http://91.90.255.235:8000/play/a00g/index.m3u8
 #EXTINF:-1 group-title="Telenet_2",ТНТ HD
@@ -395,75 +228,74 @@ http://91.90.255.235:8000/play/a008/index.m3u8
 
 
 
-
 #EXTINF:-1 group-title="Кинозалы",Cobra Comedy HD
-http://158.101.194.132:8888/channel/61817e7f/index.m3u8?q=0e05d2aef77d29c960cc856c26e0fc73
+http://158.101.194.132:8888/channel/61817e7f/index.m3u8?q=97e8917950bf00a3735d174bdecb0a93
 #EXTINF:-1 group-title="Кинозалы",Cobra Detektiv HD
-http://158.101.194.132:8888/channel/n73225250/index.m3u8?q=0e05d2aef77d29c960cc856c26e0fc73
+http://158.101.194.132:8888/channel/n73225250/index.m3u8?q=97e8917950bf00a3735d174bdecb0a93
 #EXTINF:-1 group-title="Кинозалы",Cobra Drama HD
-http://158.101.194.132:8888/channel/n7defe4c7/index.m3u8?q=0e05d2aef77d29c960cc856c26e0fc73
+http://158.101.194.132:8888/channel/n7defe4c7/index.m3u8?q=97e8917950bf00a3735d174bdecb0a93
 #EXTINF:-1 group-title="Кинозалы",Cobra Melodrama HD
-http://158.101.194.132:8888/channel/2d7a5354/index.m3u8?q=0e05d2aef77d29c960cc856c26e0fc73
+http://158.101.194.132:8888/channel/2d7a5354/index.m3u8?q=97e8917950bf00a3735d174bdecb0a93
 #EXTINF:-1 group-title="Кинозалы",Cobra Thriller HD
-http://158.101.194.132:8888/channel/56064960/index.m3u8?q=0e05d2aef77d29c960cc856c26e0fc73
+http://158.101.194.132:8888/channel/56064960/index.m3u8?q=97e8917950bf00a3735d174bdecb0a93
 #EXTINF:-1 group-title="Кинозалы",Prokop Mylt UA
-http://158.101.194.132:8888/channel/n4efa3560/index.m3u8?q=0e05d2aef77d29c960cc856c26e0fc73
+http://158.101.194.132:8888/channel/n4efa3560/index.m3u8?q=97e8917950bf00a3735d174bdecb0a93
 #EXTINF:-1 group-title="Кинозалы",Prokop TV Cinema 4K
-http://158.101.194.132:8888/channel/n10f341e0/index.m3u8?q=0e05d2aef77d29c960cc856c26e0fc73
+http://158.101.194.132:8888/channel/n10f341e0/index.m3u8?q=97e8917950bf00a3735d174bdecb0a93
 #EXTINF:-1 group-title="Кинозалы",Prokop TV Cinema 60 FPS
-http://158.101.194.132:8888/channel/23d816c/index.m3u8?q=0e05d2aef77d29c960cc856c26e0fc73
+http://158.101.194.132:8888/channel/23d816c/index.m3u8?q=97e8917950bf00a3735d174bdecb0a93
 #EXTINF:-1 group-title="Кинозалы",Prokop TV Cinema Best HD
-http://158.101.194.132:8888/channel/1f541eaf/index.m3u8?q=0e05d2aef77d29c960cc856c26e0fc73
+http://158.101.194.132:8888/channel/1f541eaf/index.m3u8?q=97e8917950bf00a3735d174bdecb0a93
 #EXTINF:-1 group-title="Кинозалы",Prokop TV Comedy HD
-http://158.101.194.132:8888/channel/28f9a7dd/index.m3u8?q=0e05d2aef77d29c960cc856c26e0fc73
+http://158.101.194.132:8888/channel/28f9a7dd/index.m3u8?q=97e8917950bf00a3735d174bdecb0a93
 #EXTINF:-1 group-title="Кинозалы",Prokop TV Criminal HD
-http://158.101.194.132:8888/channel/n6a9f2cad/index.m3u8?q=0e05d2aef77d29c960cc856c26e0fc73
+http://158.101.194.132:8888/channel/n6a9f2cad/index.m3u8?q=97e8917950bf00a3735d174bdecb0a93
 #EXTINF:-1 group-title="Кинозалы",Prokop TV Detektiv HD
-http://158.101.194.132:8888/channel/56f0f78e/index.m3u8?q=0e05d2aef77d29c960cc856c26e0fc73
+http://158.101.194.132:8888/channel/56f0f78e/index.m3u8?q=97e8917950bf00a3735d174bdecb0a93
 #EXTINF:-1 group-title="Кинозалы",Prokop TV Deutsche
-http://158.101.194.132:8888/channel/773a0af3/index.m3u8?q=0e05d2aef77d29c960cc856c26e0fc73
+http://158.101.194.132:8888/channel/773a0af3/index.m3u8?q=97e8917950bf00a3735d174bdecb0a93
 #EXTINF:-1 group-title="Кинозалы",Prokop TV Docu HD
-http://158.101.194.132:8888/channel/7f457439/index.m3u8?q=0e05d2aef77d29c960cc856c26e0fc73
+http://158.101.194.132:8888/channel/7f457439/index.m3u8?q=97e8917950bf00a3735d174bdecb0a93
 #EXTINF:-1 group-title="Кинозалы",Prokop TV Fantazy HD
-http://158.101.194.132:8888/channel/33cfa803/index.m3u8?q=0e05d2aef77d29c960cc856c26e0fc73
+http://158.101.194.132:8888/channel/33cfa803/index.m3u8?q=97e8917950bf00a3735d174bdecb0a93
 #EXTINF:-1 group-title="Кинозалы",Prokop TV HD UA
-http://158.101.194.132:8888/channel/n78ab16b6/index.m3u8?q=0e05d2aef77d29c960cc856c26e0fc73
+http://158.101.194.132:8888/channel/n78ab16b6/index.m3u8?q=97e8917950bf00a3735d174bdecb0a93
 #EXTINF:-1 group-title="Кинозалы",Prokop TV Hard&Heavy Concerts HD
-http://158.101.194.132:8888/channel/ae10061/index.m3u8?q=0e05d2aef77d29c960cc856c26e0fc73
+http://158.101.194.132:8888/channel/ae10061/index.m3u8?q=97e8917950bf00a3735d174bdecb0a93
 #EXTINF:-1 group-title="Кинозалы",Prokop TV Hip Hop
-http://158.101.194.132:8888/channel/49327692/index.m3u8?q=0e05d2aef77d29c960cc856c26e0fc73
+http://158.101.194.132:8888/channel/49327692/index.m3u8?q=97e8917950bf00a3735d174bdecb0a93
 #EXTINF:-1 group-title="Кинозалы",Prokop TV History HD
-http://158.101.194.132:8888/channel/n22a100b2/index.m3u8?q=0e05d2aef77d29c960cc856c26e0fc73
+http://158.101.194.132:8888/channel/n22a100b2/index.m3u8?q=97e8917950bf00a3735d174bdecb0a93
 #EXTINF:-1 group-title="Кинозалы",Prokop TV Horror HD
-http://158.101.194.132:8888/channel/2d95cf2c/index.m3u8?q=0e05d2aef77d29c960cc856c26e0fc73
+http://158.101.194.132:8888/channel/2d95cf2c/index.m3u8?q=97e8917950bf00a3735d174bdecb0a93
 #EXTINF:-1 group-title="Кинозалы",Prokop TV Kids HD
-http://158.101.194.132:8888/channel/n189ed1f7/index.m3u8?q=0e05d2aef77d29c960cc856c26e0fc73
+http://158.101.194.132:8888/channel/n189ed1f7/index.m3u8?q=97e8917950bf00a3735d174bdecb0a93
 #EXTINF:-1 group-title="Кинозалы",Prokop TV Kung Fu
-http://158.101.194.132:8888/channel/n39d33fa/index.m3u8?q=0e05d2aef77d29c960cc856c26e0fc73
+http://158.101.194.132:8888/channel/n39d33fa/index.m3u8?q=97e8917950bf00a3735d174bdecb0a93
 #EXTINF:-1 group-title="Кинозалы",Prokop TV Music
-http://158.101.194.132:8888/channel/n784d20e1/index.m3u8?q=0e05d2aef77d29c960cc856c26e0fc73
+http://158.101.194.132:8888/channel/n784d20e1/index.m3u8?q=97e8917950bf00a3735d174bdecb0a93
 #EXTINF:-1 group-title="Кинозалы",Prokop TV Netflix HD
-http://158.101.194.132:8888/channel/n3c4df870/index.m3u8?q=0e05d2aef77d29c960cc856c26e0fc73
+http://158.101.194.132:8888/channel/n3c4df870/index.m3u8?q=97e8917950bf00a3735d174bdecb0a93
 #EXTINF:-1 group-title="Кинозалы",Prokop TV New Films HD
-http://158.101.194.132:8888/channel/75ddabb3/index.m3u8?q=0e05d2aef77d29c960cc856c26e0fc73
+http://158.101.194.132:8888/channel/75ddabb3/index.m3u8?q=97e8917950bf00a3735d174bdecb0a93
 #EXTINF:-1 group-title="Кинозалы",Prokop TV Peters Pop Show
-http://158.101.194.132:8888/channel/3638c03f/index.m3u8?q=0e05d2aef77d29c960cc856c26e0fc73
+http://158.101.194.132:8888/channel/3638c03f/index.m3u8?q=97e8917950bf00a3735d174bdecb0a93
 #EXTINF:-1 group-title="Кинозалы",Prokop TV Serial HD
-http://158.101.194.132:8888/channel/6d9732a2/index.m3u8?q=0e05d2aef77d29c960cc856c26e0fc73
+http://158.101.194.132:8888/channel/6d9732a2/index.m3u8?q=97e8917950bf00a3735d174bdecb0a93
 #EXTINF:-1 group-title="Кинозалы",Prokop TV Show HD
-http://158.101.194.132:8888/channel/n7284fc87/index.m3u8?q=0e05d2aef77d29c960cc856c26e0fc73
+http://158.101.194.132:8888/channel/n7284fc87/index.m3u8?q=97e8917950bf00a3735d174bdecb0a93
 #EXTINF:-1 group-title="Кинозалы",Prokop TV Simpsons HD UA
-http://158.101.194.132:8888/channel/n40bba810/index.m3u8?q=0e05d2aef77d29c960cc856c26e0fc73
+http://158.101.194.132:8888/channel/n40bba810/index.m3u8?q=97e8917950bf00a3735d174bdecb0a93
 #EXTINF:-1 group-title="Кинозалы",Prokop TV Вторая мировая
-http://158.101.194.132:8888/channel/22d781ee/index.m3u8?q=0e05d2aef77d29c960cc856c26e0fc73
+http://158.101.194.132:8888/channel/22d781ee/index.m3u8?q=97e8917950bf00a3735d174bdecb0a93
 #EXTINF:-1 group-title="Кинозалы",Prokop TV Кулинар
-http://158.101.194.132:8888/channel/2aaa0761/index.m3u8?q=0e05d2aef77d29c960cc856c26e0fc73
+http://158.101.194.132:8888/channel/2aaa0761/index.m3u8?q=97e8917950bf00a3735d174bdecb0a93
 #EXTINF:-1 group-title="Кинозалы",Prokop TV Масяня
-http://158.101.194.132:8888/channel/24c9981a/index.m3u8?q=0e05d2aef77d29c960cc856c26e0fc73
+http://158.101.194.132:8888/channel/24c9981a/index.m3u8?q=97e8917950bf00a3735d174bdecb0a93
 #EXTINF:-1 group-title="Кинозалы",Prokop TV Мульт HD UA
-http://158.101.194.132:8888/channel/57079c14/index.m3u8?q=0e05d2aef77d29c960cc856c26e0fc73
+http://158.101.194.132:8888/channel/57079c14/index.m3u8?q=97e8917950bf00a3735d174bdecb0a93
 #EXTINF:-1 group-title="Кинозалы",Prokop TV Сказки СССР
-http://158.101.194.132:8888/channel/1943057b/index.m3u8?q=0e05d2aef77d29c960cc856c26e0fc73
+http://158.101.194.132:8888/channel/1943057b/index.m3u8?q=97e8917950bf00a3735d174bdecb0a93
 
 
 
