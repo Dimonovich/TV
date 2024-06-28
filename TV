@@ -126,10 +126,6 @@ https://stream.sunset-media.ru:443/Free/Free/1.m3u8
 https://stream.sunset-media.ru:443/Free/Free/2.m3u8
 #EXTINF:-1 group-title="TEST (VPN)"  tvg-logo="https://stream.sunset-media.ru:443/images/AfE0MpsGM8EECV5bHCwLz405Nh5VXnPV-VdC2Z_4Pl-o8vmziUihdFw9YtuIlvK9.png" ,Sunset Kids
 https://stream.sunset-media.ru:443/Free/Free/4.m3u8
-#EXTINF:-1 group-title="TEST (VPN)", Малдер Всё тв 
-https://media-gateway-cache.nuum.ru/live/85729/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)", Best Film 
-https://media-gateway-cache.nuum.ru/live/94916/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",Тайна
 https://tochkatv-live.cdnvideo.ru/tochkatv_pub/tainatv.stream_aac.smil/tracks-v1a1/mono.m3u8?hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 group-title="TEST (VPN)",TVMChannel
@@ -176,8 +172,6 @@ http://tv.streams.baikal-telecom.net/NTS/index.m3u8
 http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://i.postimg.cc/m2FWVxW3/Background-Eraser-20230805-095630572.png",ТВОЕ ТВ HD - ЮМОР
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)" ,BACKUSTV Music
-http://stream.backustv.ru/live/btv3/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://assets.iptv2022.com/static/channel/10150/logo_256_1655387037.png",Волга
 http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8
 #EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://assets.iptv2022.com/static/channel/10539/logo_256_1655389509.png",4 канал
