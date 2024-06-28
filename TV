@@ -2550,9 +2550,9 @@ http://video.platformcraft.ru/hls/etv/egorievsk-tv/720p.m3u8
 
 #EXTINF:-1 group-title="Мультинет-Лугань (VPN)",Первый канал
 http://92.118.134.245:8000/play/a03a/index.m3u8
-#EXTINF:-1 group-title="Мультинет-Лугань (VPN)",THT4
+#EXTINF:-1 group-title="Мультинет-Лугань (VPN)",ТНТ4
 http://92.118.134.245:8000/play/1635/index.m3u8
-#EXTINF:-1 group-title="Мультинет-Лугань (VPN)",THT HD
+#EXTINF:-1 group-title="Мультинет-Лугань (VPN)",ТНТ HD
 http://92.118.134.245:8000/play/a01e/index.m3u8
 #EXTINF:-1 group-title="Мультинет-Лугань (VPN)",Россия К
 http://92.118.134.245:8000/play/a03r1/index.m3u8
@@ -2650,6 +2650,10 @@ http://92.118.134.245:8000/play/a02h12/index.m3u8
 http://92.118.134.245:8000/play/a029/index.m3u8
 #EXTINF:-1 group-title="Мультинет-Лугань (VPN)",Animal Planet
 http://92.118.134.245:8000/play/a04b14/index.m3u8
+#EXTINF:-1 group-title="Мультинет-Лугань (VPN)",Загородная Жизнь
+http://92.118.134.245:8000/play/1691/index.m3u8
+#EXTINF:-1 group-title="Мультинет-Лугань (VPN)",Большая Азия
+http://92.118.134.245:8000/play/big_azia/index.m3u8
 #EXTINF:-1 group-title="Мультинет-Лугань (VPN)",Телеканал 360
 http://92.118.134.245:8000/play/a00j/index.m3u8
 #EXTINF:-1 group-title="Мультинет-Лугань (VPN)",ТВЦ
@@ -2682,7 +2686,7 @@ http://92.118.134.245:8000/play/a03g11/index.m3u8
 http://92.118.134.245:8000/play/a039/index.m3u8
 #EXTINF:-1 group-title="Мультинет-Лугань (VPN)",ДОН 24 ТВ
 http://92.118.134.245:8000/play/a006/index.m3u8
-#EXTINF:-1 group-title="Мультинет-Лугань (VPN)",Ваш Успех
+#EXTINF:-1 group-title="Мультинет-Лугань (VPN)",Успех
 http://92.118.134.245:8000/play/a01y/index.m3u8
 #EXTINF:-1 group-title="Мультинет-Лугань (VPN)",БСТ
 http://92.118.134.245:8000/play/a009/index.m3u8
@@ -2708,14 +2712,20 @@ http://92.118.134.245:8000/play/a00r/index.m3u8
 http://92.118.134.245:8000/play/a00u/index.m3u8
 #EXTINF:-1 group-title="Мультинет-Лугань (VPN)",Русская Комедия
 http://92.118.134.245:8000/play/a0441/index.m3u8
-#EXTINF:-1 group-title="Мультинет-Лугань (VPN)",Родное Кино
-http://92.118.134.245:8000/play/1716/index.m3u8
 #EXTINF:-1 group-title="Мультинет-Лугань (VPN)",Премиальное HD
 http://92.118.134.245:8000/play/a00n16/index.m3u8
 #EXTINF:-1 group-title="Мультинет-Лугань (VPN)",Победа
 http://92.118.134.245:8000/play/a03s/index.m3u8
+#EXTINF:-1 group-title="Мультинет-Лугань (VPN)",Мосфильм. Золотая коллекция
+http://92.118.134.245:8000/play/1645/index.m3u8
+#EXTINF:-1 group-title="Мультинет-Лугань (VPN)",Мир Сериала
+http://92.118.134.245:8000/play/a00e/index.m3u8
+#EXTINF:-1 group-title="Мультинет-Лугань (VPN)",Любимое кино
+http://92.118.134.245:8000/play/1651/index.m3u8
 #EXTINF:-1 group-title="Мультинет-Лугань (VPN)",Остросюжетное HD
 http://92.118.134.245:8000/play/ostrosugetnoe/index.m3u8
+#EXTINF:-1 group-title="Мультинет-Лугань (VPN)",Родное Кино
+http://92.118.134.245:8000/play/1716/index.m3u8
 #EXTINF:-1 group-title="Мультинет-Лугань (VPN)",Наше Новое Кино
 http://92.118.134.245:8000/play/1717/index.m3u8
 #EXTINF:-1 group-title="Мультинет-Лугань (VPN)",Настоящее Страшное ТВ
@@ -2724,12 +2734,6 @@ http://92.118.134.245:8000/play/1679/index.m3u8
 http://92.118.134.245:8000/play/1623/index.m3u8
 #EXTINF:-1 group-title="Мультинет-Лугань (VPN)",Мужское кино
 http://92.118.134.245:8000/play/1715/index.m3u8
-#EXTINF:-1 group-title="Мультинет-Лугань (VPN)",Мосфильм. Золотая коллекция
-http://92.118.134.245:8000/play/1645/index.m3u8
-#EXTINF:-1 group-title="Мультинет-Лугань (VPN)",Мир Сериала
-http://92.118.134.245:8000/play/a00e/index.m3u8
-#EXTINF:-1 group-title="Мультинет-Лугань (VPN)",Любимое кино
-http://92.118.134.245:8000/play/1651/index.m3u8
 #EXTINF:-1 group-title="Мультинет-Лугань (VPN)",Кинохит
 http://92.118.134.245:8000/play/a03r13/index.m3u8
 #EXTINF:-1 group-title="Мультинет-Лугань (VPN)",Киноужас
@@ -2746,14 +2750,14 @@ http://92.118.134.245:8000/play/a01p/index.m3u8
 http://92.118.134.245:8000/play/kinomiks_hd/index.m3u8
 #EXTINF:-1 group-title="Мультинет-Лугань (VPN)",Киномикс
 http://92.118.134.245:8000/play/1709/index.m3u8
+#EXTINF:-1 group-title="Мультинет-Лугань (VPN)",Индийское кино
+http://92.118.134.245:8000/play/1708/index.m3u8
 #EXTINF:-1 group-title="Мультинет-Лугань (VPN)",Кинокомедия
 http://92.118.134.245:8000/play/1711/index.m3u8
 #EXTINF:-1 group-title="Мультинет-Лугань (VPN)",Кино ТВ HD
 http://92.118.134.245:8000/play/1638/index.m3u8
 #EXTINF:-1 group-title="Мультинет-Лугань (VPN)",Кинеко
 http://92.118.134.245:8000/play/1693/index.m3u8
-#EXTINF:-1 group-title="Мультинет-Лугань (VPN)",Индийское кино
-http://92.118.134.245:8000/play/1708/index.m3u8
 #EXTINF:-1 group-title="Мультинет-Лугань (VPN)",Иллюзион+
 http://92.118.134.245:8000/play/a034/index.m3u8
 #EXTINF:-1 group-title="Мультинет-Лугань (VPN)",Еврокино
@@ -2854,17 +2858,13 @@ http://92.118.134.245:8000/play/1722/index.m3u8
 http://92.118.134.245:8000/play/a04b/index.m3u8
 #EXTINF:-1 group-title="Мультинет-Лугань (VPN)",Звезда
 http://92.118.134.245:8000/play/a03n/index.m3u8
-#EXTINF:-1 group-title="Мультинет-Лугань (VPN)",Загородная Жизнь
-http://92.118.134.245:8000/play/1691/index.m3u8
 #EXTINF:-1 group-title="Мультинет-Лугань (VPN)",Домашний
 http://92.118.134.245:8000/play/a03k11/index.m3u8
-#EXTINF:-1 group-title="Мультинет-Лугань (VPN)",Большая Азия
-http://92.118.134.245:8000/play/big_azia/index.m3u8
 #EXTINF:-1 group-title="Мультинет-Лугань (VPN)",Авто 24
 http://92.118.134.245:8000/play/Auto_24/index.m3u8
-#EXTINF:-1 group-title="Мультинет-Лугань (VPN)",Авто
+#EXTINF:-1 group-title="Мультинет-Лугань (VPN)",Мужской
 http://92.118.134.245:8000/play/1689/index.m3u8
-#EXTINF:-1 group-title="Мультинет-Лугань (VPN)",Shop
+#EXTINF:-1 group-title="Мультинет-Лугань (VPN)",Shop&Show
 http://92.118.134.245:8000/play/1662/index.m3u8
 #EXTINF:-1 group-title="Мультинет-Лугань (VPN)",E TV
 http://92.118.134.245:8000/play/a021/index.m3u8
@@ -2880,11 +2880,11 @@ http://92.118.134.245:8000/play/a018/index.m3u8
 http://92.118.134.245:8000/play/1704/index.m3u8
 #EXTINF:-1 group-title="Мультинет-Лугань (VPN)",МузТВ
 http://92.118.134.245:8000/play/a03i/index.m3u8
-#EXTINF:-1 group-title="Мультинет-Лугань (VPN)",Ля минор
+#EXTINF:-1 group-title="Мультинет-Лугань (VPN)",Ля-минор
 http://92.118.134.245:8000/play/a04a/index.m3u8
 #EXTINF:-1 group-title="Мультинет-Лугань (VPN)",ЖАРА
 http://92.118.134.245:8000/play/1720/index.m3u8
-#EXTINF:-1 group-title="Мультинет-Лугань (VPN)",Европа Плюс
+#EXTINF:-1 group-title="Мультинет-Лугань (VPN)",Европа Плюс ТВ
 http://92.118.134.245:8000/play/1685/index.m3u8
 #EXTINF:-1 group-title="Мультинет-Лугань (VPN)",Восток ТВ
 http://92.118.134.245:8000/play/a02v/index.m3u8
@@ -2934,9 +2934,9 @@ http://92.118.134.245:8000/play/1700/index.m3u8
 http://92.118.134.245:8000/play/a030/index.m3u8
 #EXTINF:-1 group-title="Мультинет-Лугань (VPN)",В гостях у сказки
 http://92.118.134.245:8000/play/a02p/index.m3u8
-#EXTINF:-1 group-title="Мультинет-Лугань (VPN)",O!
+#EXTINF:-1 group-title="Мультинет-Лугань (VPN)",О!
 http://92.118.134.245:8000/play/1695/index.m3u8
-#EXTINF:-1 group-title="Мультинет-Лугань (VPN)",NickToon
+#EXTINF:-1 group-title="Мультинет-Лугань (VPN)",Nick Toons
 http://92.118.134.245:8000/play/nicktoon/index.m3u8
 #EXTINF:-1 group-title="Мультинет-Лугань (VPN)",Nick Jr
 http://92.118.134.245:8000/play/nick_jr/index.m3u8
@@ -2962,7 +2962,7 @@ http://92.118.134.245:8000/play/match_futbol2/index.m3u8
 http://92.118.134.245:8000/play/a01g/index.m3u8
 #EXTINF:-1 group-title="Мультинет-Лугань (VPN)",Матч! Футбол 1
 http://92.118.134.245:8000/play/match_futbol1/index.m3u8
-#EXTINF:-1 group-title="Мультинет-Лугань (VPN)",Матч! ТВ HD
+#EXTINF:-1 group-title="Мультинет-Лугань (VPN)",Матч HD
 http://92.118.134.245:8000/play/a01c/index.m3u8
 #EXTINF:-1 group-title="Мультинет-Лугань (VPN)",Матч! ТВ
 http://92.118.134.245:8000/play/a03d/index.m3u8
