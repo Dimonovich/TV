@@ -3672,6 +3672,8 @@ http://list.onlinetv-sochi.ru:8080/live/24_tv.php?id=3929&token=RGltb25vdmljaDox
 http://list.onlinetv-sochi.ru:8080/live/24_tv.php?id=5515&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=dEQzQ0VkR1BnVjN1WnUvOEFOTCtpQm1iSGd6aVFTZTErUnMrMk40aFFyZz06OmOnt%2FuudUypCJD508WfSQY%3D
 #EXTINF:-1 group-title="Час ТВ (VPN)",РЕН ТВ
 http://list.onlinetv-sochi.ru:8080/live/24_tv.php?id=10007&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=REVhcmV4SWRZYTdiaGZTbkZ0dXVNREhaajRGTFpzQkJWeVBjT1VGYkg2OD06OqN0NzO4NRqVrxsp4iYHdR0%3D
+#EXTINF:-1 group-title="Час ТВ (VPN)",НТВ
+http://list.onlinetv-sochi.ru:8080/live/24_tv.php?id=10004&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=eGlRbmpuOFlJRVQxRmJzUHZJbUtrTUs3SDRqSVhQOG01bmo1ZmxZZ0gzUT06Op3UTnq06I163WP7Evtlo84%3D
 #EXTINF:-1 group-title="Час ТВ (VPN)",Россия К
 http://list.onlinetv-sochi.ru:8080/live/24_tv.php?id=10059&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=a2drMEpGUnhaOXdNU0wxM0VBdTVRaFo3QjBlMjVVVjhUYjhNSm5GazZsZz06Og4Fw2RM%2FbOmSSuXorw%2FA9Y%3D
 #EXTINF:-1 group-title="Час ТВ (VPN)",Москва 24
@@ -3752,8 +3754,6 @@ http://list.onlinetv-sochi.ru:8080/live/24_tv.php?id=5724&token=RGltb25vdmljaDox
 http://list.onlinetv-sochi.ru:8080/live/24_tv.php?id=3570&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=eUtXam0wZzdFNG50cEIyOE54UHF5OWdTZ3lXdnJHZ3BSYS9yYnV0cmtuUT06Ot4YRthtINe4SBday%2FJQ0WI%3D
 #EXTINF:-1 group-title="Час ТВ (VPN)",Че
 http://list.onlinetv-sochi.ru:8080/live/24_tv.php?id=4846&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=TnUxSUJ6RWRyTmJyRXI1OUNjRlhyaUhxM1YvSFU2bkdoVDgxUE0xclBuTT06OqVSY%2FsBOJBpIgUIhcu0XIw%3D
-#EXTINF:-1 group-title="Час ТВ (VPN)",Телекомпания НТВ
-http://list.onlinetv-sochi.ru:8080/live/24_tv.php?id=10004&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=eGlRbmpuOFlJRVQxRmJzUHZJbUtrTUs3SDRqSVhQOG01bmo1ZmxZZ0gzUT06Op3UTnq06I163WP7Evtlo84%3D
 #EXTINF:-1 group-title="Час ТВ (VPN)",Домашний
 http://list.onlinetv-sochi.ru:8080/live/24_tv.php?id=10115&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=N29ubzQwTUNIRVV2UTR3a3p5VjAwT1VqOG16aFhaL1RYSjhQSGtaMWt4ST06OqvJ0uonpUUvh9YCpvgkyDg%3D
 #EXTINF:-1 group-title="Час ТВ (VPN)",Тольятти 24
@@ -3962,7 +3962,7 @@ http://list.onlinetv-sochi.ru:8080/live/24_tv.php?id=7426&token=RGltb25vdmljaDox
 http://list.onlinetv-sochi.ru:8080/live/24_tv.php?id=5014&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=UU1pYUhHd0dzemkvTC83Q1Y3cVYzNUhvWWVONCt0Rzg4bzViZmpmbkdjWT06Ood32ITnXzflWq%2Bq2%2BoU50k%3D
 #EXTINF:-1 group-title="Час ТВ (VPN)",Матч ТВ
 http://list.onlinetv-sochi.ru:8080/live/24_tv.php?id=3948&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=c2hkV0dyL0pTM1JPOEhjR3hNeVVraFVBMzRkRnpwSjNQb1NWM0hoR1U2TT06Oh3E5F8MQh8Vwa0kKsMtic8%3D
-#EXTINF:-1 group-title="Час ТВ (VPN)",СТАРТ Live HD
+#EXTINF:-1 group-title="Час ТВ (VPN)",СТАРТ Live
 http://list.onlinetv-sochi.ru:8080/live/24_tv.php?id=4304&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=RkVJZGFSajJWUDRhcXZGaHNmTUZMMnE5cjBQdi9JdHNnUlVmUjNMdlUwUT06OrhoQAHhYo47%2FsuZlMYMUtc%3D
 #EXTINF:-1 group-title="Час ТВ (VPN)",СТАРТ Триумф HD
 http://list.onlinetv-sochi.ru:8080/live/24_tv.php?id=7375&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=dVhQNUh1UmIxcmc3SWo3djkzQTRyL3RDK0tSRC81dEd3Y3VRbUIyMmpOTT06Oq5WQd56TaCLRsulxPdeJP4%3D
@@ -3987,19 +3987,19 @@ http://list.onlinetv-sochi.ru:8080/live/newbridgep.php?id=361f3efc&token=RGltb25
 http://list.onlinetv-sochi.ru:8080/live/newbridgep.php?id=n37ca500&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=ZlZsai9KQjZuQ0dnQWtzN2J1a1o5SGowR1A4QVhDQ0ZYWVdNaFFqclI5ST06On0CTCS7n2nvoJWFajnZnHQ%3D
 #EXTINF:-1 group-title="Смотрёшка (VPN)",ТНТ4
 http://list.onlinetv-sochi.ru:8080/live/newbridgep.php?id=n6c17facc&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=SWpMNnNaM3BpaVVaM3NYajBHaWN1MGlwRkU0clpzcEVRcHB6RUc0RWNEND06OvOedbGDq5l0y3tiHWiAruA%3D
-#EXTINF:-1 group-title="Смотрёшка (VPN)",НТВ Сериал HD
+#EXTINF:-1 group-title="Смотрёшка (VPN)",НТВ Сериал
 http://list.onlinetv-sochi.ru:8080/live/newbridgep.php?id=nfa94b55&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=dVBvQTgwY1B6NHdhSi92WmZKZjNJU3ZuYXFQcSszN2NQSGk3em94ZXdnST06Oh3sTGe7ENPAfP3znN0ImX4%3D
 #EXTINF:-1 group-title="Смотрёшка (VPN)",НТВ Право
 http://list.onlinetv-sochi.ru:8080/live/newbridgep.php?id=6babdf01&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=emppZjBKYXJZUmxzM2VXalFFdXVJdjlIWWNwa3ZmbGlMUWhPUmNYWmVZST06Os%2BJdquK9r8OVACHaD%2BaHLI%3D
 #EXTINF:-1 group-title="Смотрёшка (VPN)",НТВ Стиль
 http://list.onlinetv-sochi.ru:8080/live/newbridgep.php?id=6bc915ee&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=dGVUTGxrdVVBVFh6Q1lHamFqSnkrVVNCYmFGZHFoWDhJc0lma2xHUDJ0OD06OjmjbayLBERV2ysSEPrWXDU%3D
-#EXTINF:-1 group-title="Смотрёшка (VPN)",CuriosityStream HD
+#EXTINF:-1 group-title="Смотрёшка (VPN)",Curiosity Stream HD
 http://list.onlinetv-sochi.ru:8080/live/newbridgep.php?id=n56da91de&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=SkRyQS9LWkNqdnVlcmkxbHZOdlljbWRYbm9OLzFhYzZWMHIyWERPdmN4bz06OgxEw1BoS01YR8SKzcwBlRc%3D
 #EXTINF:-1 group-title="Смотрёшка (VPN)",BIG PLANET HD
 http://list.onlinetv-sochi.ru:8080/live/newbridgep.php?id=n50499e43&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=dWZ6eDBRODdqY05HZm9lVkYrQ3RnNzlqd2dLM0F6ZWxmWVNlSTZBd0Vzdz06On%2Fe6BHwPfc51TZCB%2BjOmp8%3D
 #EXTINF:-1 group-title="Смотрёшка (VPN)",История
 http://list.onlinetv-sochi.ru:8080/live/newbridgep.php?id=358f174b&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=dzY0RWRRQ1RTZkVXVTc0VlpkRkE3dGNDbmRoMlhVekZQaGhDZlY2aHgzRT06OhATVIvJKRs9RLcFgJBKDzU%3D
-#EXTINF:-1 group-title="Смотрёшка (VPN)",365 дней ТВ HD
+#EXTINF:-1 group-title="Смотрёшка (VPN)",365 дней ТВ
 http://list.onlinetv-sochi.ru:8080/live/newbridgep.php?id=7cc9b94e&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=LzdDekl6dE12Z3IzTTI1dmhnT0JCNDRrYzR2OGZRSHZPbGxpVllyM21pWT06OrguTDS%2FEM9FSn6jpBCOk4Q%3D
 #EXTINF:-1 group-title="Смотрёшка (VPN)",Живая природа HD
 http://list.onlinetv-sochi.ru:8080/live/newbridgep.php?id=54dc983&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=ZkJiaHo1WitlNXBQY3ZXMUlDU0NCYW0wM1d4a3ZydkNPQmh4NWJJMlF6TT06Oh86XshzLBd58ZZoN227g1g%3D
@@ -4039,7 +4039,7 @@ http://list.onlinetv-sochi.ru:8080/live/newbridgep.php?id=n6303ef7d&token=RGltb2
 http://list.onlinetv-sochi.ru:8080/live/newbridgep.php?id=n57f38c6&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=TThqNU1ObU1hdzdyVGYyUy92SnVMK0FybjlXejdmY3NiM1ZPSTBxS28zMD06OgblDXxJZM82QmSM0hB9pAM%3D
 #EXTINF:-1 group-title="Смотрёшка (VPN)",В мире животных HD
 http://list.onlinetv-sochi.ru:8080/live/newbridgep.php?id=344a161f&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=WWJoM05IR2lVS0JjZm50YkFLcEU0RW5KQ1BobEtCbW1wQmQvemZ5azRQRT06OtaC0Ml6RnI%2B7ne7iiXBgtw%3D
-#EXTINF:-1 group-title="Смотрёшка (VPN)",Зоо
+#EXTINF:-1 group-title="Смотрёшка (VPN)",Зоо ТВ
 http://list.onlinetv-sochi.ru:8080/live/newbridgep.php?id=n37cca30&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=YjBKcW1HdEFtTkxzL00xMGQreGRYclFZWEVUd2kvSVhKWm8rYmFzUEZQdz06OjZgK8p4baGP3yHYxWs6ldQ%3D
 #EXTINF:-1 group-title="Смотрёшка (VPN)",Домашние животные
 http://list.onlinetv-sochi.ru:8080/live/newbridgep.php?id=18c0a31c&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=MUdvcHZWdlV0UjJDdnAwSG15M0FIQ05UUFVOSDBKbW5CMjZJNU1rWWEvWT06OoLva4oAR4YLsH3IwPXcpNg%3D
@@ -4065,6 +4065,12 @@ http://list.onlinetv-sochi.ru:8080/live/newbridgep.php?id=427ec8f3&token=RGltb25
 http://list.onlinetv-sochi.ru:8080/live/newbridgep.php?id=2de03df7&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=M2IwdFZFRjNOYzMxZ2xSR3NVRjRubUNCQkFTT1NIbTZYZk9hMzA0R2tlaz06Os4td%2BOPKVbwe9vZWp7hjPk%3D
 #EXTINF:-1 group-title="Смотрёшка (VPN)",Загородная жизнь
 http://list.onlinetv-sochi.ru:8080/live/newbridgep.php?id=2f5674f5&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=dm04QWwrVUtQT3V3QjBzd01ycDV0b0hWM3c5dUsrekFHTTArVHI5NFRzdz06OoAO2CtadAZI1MlzqoVuaz8%3D
+#EXTINF:-1 group-title="Смотрёшка (VPN)",Оружие
+http://list.onlinetv-sochi.ru:8080/live/newbridgep.php?id=3533ef19&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=YXp0Q2s0QlNvZnJsMTA3K1NuTnFXMXNvY05URkRSeGo3QnlwZWtLdXNOUT06OrWq%2BwB5xYDvVKUwZF5ZUGc%3D
+#EXTINF:-1 group-title="Смотрёшка (VPN)",Нано ТВ HD
+http://list.onlinetv-sochi.ru:8080/live/newbridgep.php?id=20b56d41&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=cFBmS3M5bkJ6VTdpeVpBcStFTXlLazlscDBVbXM4c3lOVFVMRGxGTE1WST06OodeBrbMaeYk%2FXOmWxS9zCU%3D
+#EXTINF:-1 group-title="Смотрёшка (VPN)",Ocean TV
+http://list.onlinetv-sochi.ru:8080/live/newbridgep.php?id=2879e319&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=WEp4ZjlNMDVsaXRYZlhnMEdJSTdkWUFHbDhPQlhxZFlJeXRVK2pmU0Z5WT06OmM8lsDS%2FcXLQ1QmEF%2FUQgs%3D
 #EXTINF:-1 group-title="Смотрёшка (VPN)",Охотник и Рыболов HD
 http://list.onlinetv-sochi.ru:8080/live/newbridgep.php?id=n5ac90c20&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=OWFZYkFzSUxaQ3ZYTXE0VG9LdW00emZqWUNIV0F4SHhudkYzM0k5Nlp2bz06Opx1b3GGOvRgZlvBiLUlAoM%3D
 #EXTINF:-1 group-title="Смотрёшка (VPN)",Рыболов
@@ -4093,7 +4099,7 @@ http://list.onlinetv-sochi.ru:8080/live/newbridgep.php?id=n40420210&token=RGltb2
 http://list.onlinetv-sochi.ru:8080/live/newbridgep.php?id=28765fc0&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=MmFJSmZncElsMitCRTQ3M1p0N1ZsUkkwekNJZG5sREVRSGk0dGNIVVhwWT06On0n5waSi9KEW%2F0bfg2CTXs%3D
 #EXTINF:-1 group-title="Смотрёшка (VPN)",Москва Доверие
 http://list.onlinetv-sochi.ru:8080/live/newbridgep.php?id=n19c64e10&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=MG4zMDZ4VEVIWmU1TkN6VGptdEVianRmZVFINU9ZeDlhS2MzYzUwektYdz06OsaT5lAcXZumOJlgtwP4Jvw%3D
-#EXTINF:-1 group-title="Смотрёшка (VPN)",Суббота!
+#EXTINF:-1 group-title="Смотрёшка (VPN)",Суббота
 http://list.onlinetv-sochi.ru:8080/live/newbridgep.php?id=6f50817e&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=NGZiM09zTzRwaVdJa1p1VUZqZXhobEx6UXNQc1ZYQWN1NDBuRW90M0x1MD06OoJlprZ9xg9RWLwSPAyIZVo%3D
 #EXTINF:-1 group-title="Смотрёшка (VPN)",Че
 http://list.onlinetv-sochi.ru:8080/live/newbridgep.php?id=10675615&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=MGMveVdDZGNUSE96cThiWmg5NllhdnJ5NnVoUXFwdkxvVjVndGl6Q01Rcz06Osup4DVCjsaiCFrkNMU8fcE%3D
@@ -4105,12 +4111,10 @@ http://list.onlinetv-sochi.ru:8080/live/newbridgep.php?id=472dd379&token=RGltb25
 http://list.onlinetv-sochi.ru:8080/live/newbridgep.php?id=n111afa05&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=S0h0ZTJsM0QxWXAvVzl4N3hFMzVJbnYrTXZiVlJtQSs1ZzZUOThlWjNxST06OsP8lrKMuvUs7RWM6ehMIJs%3D
 #EXTINF:-1 group-title="Смотрёшка (VPN)",РБК
 http://list.onlinetv-sochi.ru:8080/live/newbridgep.php?id=35e4d7da&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=RGYyM3gyZUtEMEI2YUNFS1cveEZCNDhIdEVmd1IrTVljYUN1MnY1Mllvaz06OhQ%2FJpSa0ntNj5RirxH9j2w%3D
-#EXTINF:-1 group-title="Смотрёшка (VPN)",Суббота! HD
+#EXTINF:-1 group-title="Смотрёшка (VPN)",Суббота
 http://list.onlinetv-sochi.ru:8080/live/newbridgep.php?id=n36725922&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=NWxEMmtzcEVKbkExc1pRTHNhNkJsaU94YW9RR2RreHlROURuWjZWMEJTTT06OnrT2262KeIsLxwNnrBP5TU%3D
 #EXTINF:-1 group-title="Смотрёшка (VPN)",ЗВЕЗДА плюс HD
 http://list.onlinetv-sochi.ru:8080/live/newbridgep.php?id=n7988e453&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=TWNZTVNSRUhtSnhHb0ZkdGUwazB5TVZQV3p6WHE0SGNNcmFDVEtZZVlPOD06Oq6cUE4OQmvCUvg7NAq1Inc%3D
-#EXTINF:-1 group-title="Смотрёшка (VPN)",Торре Рикка
-http://list.onlinetv-sochi.ru:8080/live/newbridgep.php?id=76c24c0a&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=YngvVW1ES0xFaEwvZHZIYzBOU1M3WXZyUTU0Y2lMd1pSVTFROHFzQWxKQT06OnGiQlZKLWoW%2BmFaT5Nfmww%3D
 #EXTINF:-1 group-title="Смотрёшка (VPN)",Киноман
 http://list.onlinetv-sochi.ru:8080/live/newbridgep.php?id=n7046955d&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=SDdISDI2Y05RY2lGWlVDdWJGNnVJdHVLU3dnNURBaVk3Rjl6N0lBc3NqRT06Ou8nPTOfsw3KYFSTzTr3Meo%3D
 #EXTINF:-1 group-title="Смотрёшка (VPN)",Romance HD
@@ -4151,7 +4155,7 @@ http://list.onlinetv-sochi.ru:8080/live/newbridgep.php?id=12a5b1d8&token=RGltb25
 http://list.onlinetv-sochi.ru:8080/live/newbridgep.php?id=n37cb749&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=NnBYVHo2Z2VCTXhqZ05IeThDclBNREtuM2hjQzRkVytKTjlUeDlPRDRlND06OtimYHVgWY%2BkVnANgT0BciM%3D
 #EXTINF:-1 group-title="Смотрёшка (VPN)",TV21
 http://list.onlinetv-sochi.ru:8080/live/newbridgep.php?id=n6de16458&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=T096Yk9SUDRHYkFmQ2tCdkk3ejRPWkE1d3lHY0RZejRnK2p5WkdPUFcrST06OjBb6VOmWOr%2B7tKOjpK4odg%3D
-#EXTINF:-1 group-title="Смотрёшка (VPN)",Кино24
+#EXTINF:-1 group-title="Смотрёшка (VPN)",Кино 24
 http://list.onlinetv-sochi.ru:8080/live/newbridgep.php?id=2decb3a8&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=K3ZPeFRKdGZveFRFaEVyTHNsZVEyOTVYNEtlS0k3UitId1JoQjJTeitQRT06OpzlfAL%2BcnWCVWb7uL0EtA4%3D
 #EXTINF:-1 group-title="Смотрёшка (VPN)",Timeless Dizi Channel
 http://list.onlinetv-sochi.ru:8080/live/newbridgep.php?id=n6b8dc956&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=RENZQmtzSnBRZmw3Q1c5Z2JiQUVsQmpwUURrSEhRbDlDSzF2L1p1NFhkMD06Oq%2FLX2Qs2Gw%2FYBvaaJNafNw%3D
@@ -4179,8 +4183,6 @@ http://list.onlinetv-sochi.ru:8080/live/newbridgep.php?id=3a0d296d&token=RGltb25
 http://list.onlinetv-sochi.ru:8080/live/newbridgep.php?id=n636b00c&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=VUUvL1czUG0zWFZSWjlYR1dsbzJ3VGtZSmhueDNTUGNSNjdwRGkzNmliVT06OrPryTcgl3%2BOwZSSDSnxyA4%3D
 #EXTINF:-1 group-title="Смотрёшка (VPN)",Filmbox Arthouse
 http://list.onlinetv-sochi.ru:8080/live/newbridgep.php?id=n20f93e03&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=VWpnaXVzaTU3WDFVVmFmeHdUblZMV2RTaHFCUUQ3VjQvQ2tXVzEwODd0MD06Orp5%2FSQPZj9UZOkePI4Nrmk%3D
-#EXTINF:-1 group-title="Смотрёшка (VPN)",Витрина ТВ
-http://list.onlinetv-sochi.ru:8080/live/newbridgep.php?id=22e61ef0&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=R09PUjczbzZTVml1aFZBcUFCR1BveVd0UHczeTBLRWRLN0prS0VvOU1RND06OvSxw6K79bMJzGM%2BMg5QfPg%3D
 #EXTINF:-1 group-title="Смотрёшка (VPN)",МАГНАТ HD
 http://list.onlinetv-sochi.ru:8080/live/newbridgep.php?id=n74344b5b&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=SFF4V3AvZE02bk1xZlJMdlQ3SzVWY0Evc2xOV294RkNmQWhscHBoaE0vND06Onf%2BPg2C49BPjZ%2BLfmiesw8%3D
 #EXTINF:-1 group-title="Смотрёшка (VPN)",Киносерия HD
@@ -4269,10 +4271,6 @@ http://list.onlinetv-sochi.ru:8080/live/newbridgep.php?id=606e7602&token=RGltb25
 http://list.onlinetv-sochi.ru:8080/live/newbridgep.php?id=73f9f997&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=NUZheml6Vnc0eGk2enpDM0VwT2RmTkZWOWdMY0g3alNZV3BaalZBV0Rvdz06OtRTxgS83qLUS4dqHjEDlW8%3D
 #EXTINF:-1 group-title="Смотрёшка (VPN)",МИР 24
 http://list.onlinetv-sochi.ru:8080/live/newbridgep.php?id=2f76d165&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=UUNEbjFkSFRLVm1Pdkd2QUJZS1dXN3Iya2s2YmhEQnR4OWlNV2o4RkQ1QT06OkUP%2FxyBBev5alzP385Wbhs%3D
-#EXTINF:-1 group-title="Смотрёшка (VPN)",RTD HD
-http://list.onlinetv-sochi.ru:8080/live/newbridgep.php?id=n7e9796bf&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=bUhIWmJLdHpOM3pPM1N6T2JyOFI3b2o2VkJCYnFNSnFwYlFOYmltb0JFTT06OheifzC0ayl3CPZQeJPQegw%3D
-#EXTINF:-1 group-title="Смотрёшка (VPN)",RT HD
-http://list.onlinetv-sochi.ru:8080/live/newbridgep.php?id=n4e687eed&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=Y1V5aEgzSGEzOElZdkJOdjZka3NhMVoxTlkxdDNKV3dxWlRpZGhKK3pKWT06Oneomsmri%2BCqeXg8nHdLDYY%3D
 #EXTINF:-1 group-title="Смотрёшка (VPN)",360° HD
 http://list.onlinetv-sochi.ru:8080/live/newbridgep.php?id=fb93952&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=c1lnVjBFUHJLdUZWaDllM2cwYWNLYUJ6N3d4ejlqNFBRRlNhVEU4WkM0dz06OogDQkXu%2FAGJ%2B9QdmaYj1ZM%3D
 #EXTINF:-1 group-title="Смотрёшка (VPN)",360 Новости HD
@@ -4293,7 +4291,7 @@ http://list.onlinetv-sochi.ru:8080/live/newbridgep.php?id=nfa0a7cc&token=RGltb25
 http://list.onlinetv-sochi.ru:8080/live/newbridgep.php?id=1e65f7b3&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=SCt5R1hTMEFXTVNwWGxpSzVhQWdFZ3ZQaGNyK1hiR1gyVVBVOFNjT3h4QT06OvxXI7J0wpRaPwBEzIAFwfM%3D
 #EXTINF:-1 group-title="Смотрёшка (VPN)",Большая Азия HD
 http://list.onlinetv-sochi.ru:8080/live/newbridgep.php?id=n10ec54e0&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=WXF5dU1oM3VZR0JOaUxFTmhlNVB1OVFUUi80bTRXMmhhNVlaMGh5aXpSVT06OhPG7m%2FquI%2FczjPf55C76WU%3D
-#EXTINF:-1 group-title="Смотрёшка (VPN)",Ратник HD
+#EXTINF:-1 group-title="Смотрёшка (VPN)",Ратник
 http://list.onlinetv-sochi.ru:8080/live/newbridgep.php?id=n37de6998&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=ekh2ME5jcHQ0R0hTQ3UzUUlxWnhpTkZpYzQrVG5TWGlFQTBXbWEvc2FFRT06Oq9fj1j8JqqKClYjFYXNJDY%3D
 #EXTINF:-1 group-title="Смотрёшка (VPN)",Дума ТВ
 http://list.onlinetv-sochi.ru:8080/live/newbridgep.php?id=64f57246&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=eWY0K2NLRXN0Y0VUWitSdHR4WVdWaTNzbzV0TkhyY1RTNDNpaWxuOTA1bz06Om5W2Ze6X6EnvP0oWvT5%2BAQ%3D
@@ -4309,11 +4307,9 @@ http://list.onlinetv-sochi.ru:8080/live/newbridgep.php?id=497a1e84&token=RGltb25
 http://list.onlinetv-sochi.ru:8080/live/newbridgep.php?id=68802d6c&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=bXdLTXhOUG9tc3ZQeFhrM1dZUFIrMXoyUGVZOWRPQitxTWo2M211cHBydz06OmHhmY%2F8lNgcxpUBjZzQYAg%3D
 #EXTINF:-1 group-title="Смотрёшка (VPN)",ПРНК
 http://list.onlinetv-sochi.ru:8080/live/newbridgep.php?id=n61605601&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=RXROVndXZklvL0FRQW4va0VieGdiOUZYT2N1ZndqQmx2c1F6UXk0TmdlND06OkIjX4wqpD7baP1y%2BTqQcVI%3D
-#EXTINF:-1 group-title="Смотрёшка (VPN)",RT DE HD
-http://list.onlinetv-sochi.ru:8080/live/newbridgep.php?id=n7281e67c&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=bnJnWGFISFI4QkZOTi9tb25UNFZkb21PMnlFUytZaFVtWmwvb0dHaVJ3cz06OpaXq6rDWYUHSaM5HT9JKho%3D
 #EXTINF:-1 group-title="Смотрёшка (VPN)",Санкт-Петербург
 http://list.onlinetv-sochi.ru:8080/live/newbridgep.php?id=n6b72f042&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=ZHJGZFhTSldpZDAzS0JNN2VJSDVwSjNDSkFCNnQ3a1lDN1VQbUg0bk44MD06OuxuRGCHutW9F28pt%2BBPOCA%3D
-#EXTINF:-1 group-title="Смотрёшка (VPN)",ЛЕНТВ24
+#EXTINF:-1 group-title="Смотрёшка (VPN)",ЛЕН ТВ 24
 http://list.onlinetv-sochi.ru:8080/live/newbridgep.php?id=n78eabfd2&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=L3pGbEFDUlpmeSt0ZGh4QTg0VjlCK2dEcHVIMjZQK2JxT3FNd0lwSzMzcz06OvLDjjqR6DRISf4c5%2BjQd4A%3D
 #EXTINF:-1 group-title="Смотрёшка (VPN)",Дон 24
 http://list.onlinetv-sochi.ru:8080/live/newbridgep.php?id=23f4b856&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=Y1gvYUZITnl2VmdCVmR2RDhkb2pZVG9UdWN6b2FZejNIK2lkWVo0VmdOVT06OnSPgPsRAdEJNASZvq9%2BX6w%3D
@@ -4355,12 +4351,7 @@ http://list.onlinetv-sochi.ru:8080/live/newbridgep.php?id=n6af313a1&token=RGltb2
 http://list.onlinetv-sochi.ru:8080/live/newbridgep.php?id=2344d648&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=NkZhWEx3OWVGbTRvWVcvK1IwZ0NCMTFjWWNJMWNzU3l3TGtMWjM1OEh5WT06OpyBvcm4LhUNKDd4SCncTSE%3D
 #EXTINF:-1 group-title="Смотрёшка (VPN)",Пёс и Ко
 http://list.onlinetv-sochi.ru:8080/live/newbridgep.php?id=66131f44&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=L1F0dUU4b2NFZmw0QVNJdi84dmt4aXhYMXVjMkdZTVlZNm5tR0Fpc1Bsdz06Om1XlbBLB1m0xTITF8MhTxw%3D
-#EXTINF:-1 group-title="Смотрёшка (VPN)",Оружие
-http://list.onlinetv-sochi.ru:8080/live/newbridgep.php?id=3533ef19&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=YXp0Q2s0QlNvZnJsMTA3K1NuTnFXMXNvY05URkRSeGo3QnlwZWtLdXNOUT06OrWq%2BwB5xYDvVKUwZF5ZUGc%3D
-#EXTINF:-1 group-title="Смотрёшка (VPN)",Нано HD
-http://list.onlinetv-sochi.ru:8080/live/newbridgep.php?id=20b56d41&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=cFBmS3M5bkJ6VTdpeVpBcStFTXlLazlscDBVbXM4c3lOVFVMRGxGTE1WST06OodeBrbMaeYk%2FXOmWxS9zCU%3D
-#EXTINF:-1 group-title="Смотрёшка (VPN)",Ocean TV
-http://list.onlinetv-sochi.ru:8080/live/newbridgep.php?id=2879e319&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=WEp4ZjlNMDVsaXRYZlhnMEdJSTdkWUFHbDhPQlhxZFlJeXRVK2pmU0Z5WT06OmM8lsDS%2FcXLQ1QmEF%2FUQgs%3D
+
 #EXTINF:-1 group-title="Смотрёшка (VPN)",Телеканал АРТ
 http://list.onlinetv-sochi.ru:8080/live/newbridgep.php?id=n6c37cd0&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=YlJiZ0NpNk9rTitiLzBmK3NrYTB5M3ZSTEN6eldLL1JPRnlYVmVNMWFMbz06OkDEXI5KQGgeS%2BiSsv8i9yU%3D
 #EXTINF:-1 group-title="Смотрёшка (VPN)",День Победы HD
@@ -4437,11 +4428,11 @@ http://list.onlinetv-sochi.ru:8080/live/newbridgep.php?id=14227127&token=RGltb25
 http://list.onlinetv-sochi.ru:8080/live/newbridgep.php?id=5dbb4199&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=d2ExakRtbGRNOWxsWHZiVStuMWhqN3RrcWNyRkZTZnpZQVFLM0tNTGN6dz06Orj0t20mpd%2FibLnB9CgOf40%3D
 #EXTINF:-1 group-title="Смотрёшка (VPN)",8 Канал
 http://list.onlinetv-sochi.ru:8080/live/newbridgep.php?id=2b7cfd43&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=c2twaFMvY3dMbmlQYnJ6M0o1NmdNUzQxNTMxWUNySkZzUkpoK0R5VjhQTT06OgAzbbpTuT%2FmniGLiIjF%2FqM%3D
-#EXTINF:-1 group-title="Смотрёшка (VPN)",Калейдоскоп
+#EXTINF:-1 group-title="Смотрёшка (VPN)",Калейдоскоп ТВ
 http://list.onlinetv-sochi.ru:8080/live/newbridgep.php?id=n1da363da&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=TmRSeU0wOWFZcGxlR25VdGxlNUMrNWJDOGcrZjA0RGZkM0txZ1BaL0pMUT06OiGJjkKDUEZvXZh4x3GHlec%3D
 #EXTINF:-1 group-title="Смотрёшка (VPN)",Точка
 http://list.onlinetv-sochi.ru:8080/live/newbridgep.php?id=n16d752a6&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=dG8rV1VHWmpZbjZ4NXRFdU94eXdvVEt2aXR2aG9NSUtmRmZ6eElvcjdXZz06OisYlWlVQbZhCVJ20u4Wncs%3D
-#EXTINF:-1 group-title="Смотрёшка (VPN)",Fashion-Box
+#EXTINF:-1 group-title="Смотрёшка (VPN)",FashionBox
 http://list.onlinetv-sochi.ru:8080/live/newbridgep.php?id=n468ad151&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=cDN5RldManlUdTNkY0lqVUJFWjV4b2dYc1FFcElRb2xMSVRtWkRtbGhqND06Ojk0qFTXAVw3JLuHb8WMRMY%3D
 #EXTINF:-1 group-title="Смотрёшка (VPN)",Тайна
 http://list.onlinetv-sochi.ru:8080/live/newbridgep.php?id=n16dde409&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=aFo1RDc4UmJsRWNKWnp5OForWHUydWhDcjRpOFp5WUZWL0xNWGV2c3pUQT06Osl9Q3PpbYsJJ9tNm81Lsc4%3D
@@ -4581,7 +4572,7 @@ http://list.onlinetv-sochi.ru:8080/live/newbridgep.php?id=n4c3311d2&token=RGltb2
 http://list.onlinetv-sochi.ru:8080/live/newbridgep.php?id=50bfb8d0&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=QkE2M2dHcVVaNGtUbWVaY1NzaC90Znk3MkthbGY3OCtIUjBDMGZidnlydz06Ora21JpmsuLSI7Fj8naw0qQ%3D
 #EXTINF:-1 group-title="Смотрёшка (VPN)",Mezzo Live HD
 http://list.onlinetv-sochi.ru:8080/live/newbridgep.php?id=n1d9185a0&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=Wi9uQ0owTXNnNDNiZ016ME5sbGk4THZ4NVg1ckZvc0lrUUp2VnlGdVp5dz06OkRSmtqHzjqhl8GlWmbkf2M%3D
-#EXTINF:-1 group-title="Смотрёшка (VPN)",Европа Плюс ТВ HD
+#EXTINF:-1 group-title="Смотрёшка (VPN)",Европа Плюс ТВ
 http://list.onlinetv-sochi.ru:8080/live/newbridgep.php?id=n5aab5db8&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=Z1lqaE55WkN4dmc2RnhsNmtCcmhBbFloenFkbzJyd3RxSUUrMDdWVjVkRT06Oq9BnU0w49gc8bsb4ipy6VI%3D
 #EXTINF:-1 group-title="Смотрёшка (VPN)",ТНТ Music
 http://list.onlinetv-sochi.ru:8080/live/newbridgep.php?id=60622ce5&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=UkpTclNkV3djc1FjTDlrdnVjWGVFYzJaOE82NU1LYTlEQkY0elZIdWxkRT06OmJjw3YDHxGxwbLlfuR%2BOik%3D
@@ -4603,13 +4594,13 @@ http://list.onlinetv-sochi.ru:8080/live/newbridgep.php?id=65dbad82&token=RGltb25
 http://list.onlinetv-sochi.ru:8080/live/newbridgep.php?id=n2bcdf7d0&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=UnF1eEdub1M3U0JXelFEMUU2TjVZU0dpc2F2YnlEaVcvWkpSMTVrV29hOD06OkTeS9TSP%2FFML8gp0NriIoc%3D
 #EXTINF:-1 group-title="Смотрёшка (VPN)",BRIDGE TV РУСCКИЙ ХИТ
 http://list.onlinetv-sochi.ru:8080/live/newbridgep.php?id=5da402d5&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=V2lPMkZUMGx3WlkzMDl5Q2pOMk85ZEhEdUhBbTloUFdyaWRLaVFrZU5DWT06OlEzjNwbgwSjlOhV1FM0Fgw%3D
-#EXTINF:-1 group-title="Смотрёшка (VPN)",BRIDGE TV ФРЭШ HD
+#EXTINF:-1 group-title="Смотрёшка (VPN)",BRIDGE TV ФРЭШ
 http://list.onlinetv-sochi.ru:8080/live/newbridgep.php?id=583623b5&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=MkRrVmwxaTVRZlVmbE1INUdkYkQvK3g3ZEpxUHYrYWp4RDdWQVhlTnh4RT06Or1797WGxQSKGAm%2BjrFLcyo%3D
 #EXTINF:-1 group-title="Смотрёшка (VPN)",BRIDGE TV ШЛЯГЕР
 http://list.onlinetv-sochi.ru:8080/live/newbridgep.php?id=643d2fd2&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=RitDMFN2Q3ZJOCt1dHR4T1F2YXJOZDBMNHBCR3RjOHVMRldSV2tiekdxND06OmNy1N4oAoi7rW%2B52Ef6JoY%3D
 #EXTINF:-1 group-title="Смотрёшка (VPN)",Bridge HD
 http://list.onlinetv-sochi.ru:8080/live/newbridgep.php?id=2b400727&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=ekg1bmMyWDIydU9GTStJUXZLbDkrOVVBR1FUT1ZadTlzeXZHUXlaWW83MD06OgUadBhBwXbFipWWB4REH7A%3D
-#EXTINF:-1 group-title="Смотрёшка (VPN)",BRIDGE TV ROCK HD
+#EXTINF:-1 group-title="Смотрёшка (VPN)",BRIDGE TV ROCK
 http://list.onlinetv-sochi.ru:8080/live/newbridgep.php?id=n7b708359&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=VnZEYkViSlpNa29LVEZyc1QybDhqbzdmSWdNZFVCT0FuckhBTXB1cnVwWT06Ojd9vz%2BzXKtXoe7OITTGZow%3D
 #EXTINF:-1 group-title="Смотрёшка (VPN)",1HD
 http://list.onlinetv-sochi.ru:8080/live/newbridgep.php?id=n6df2154e&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=cHQvWkFXQzRFbWEvb25MNzZIcTRyUnQrWlpjVVdYek9QSUUxTWxkZ3E2dz06OppHLY3gEF7L2ayLuNUbgtM%3D
