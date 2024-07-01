@@ -843,28 +843,7 @@ http://91.90.255.235:8000/play/a008/index.m3u8
 
 
 
-#EXTINF:-1 group-title="Prokop TV",Cobra Comedy HD
-http://fs2.persik.by/Cobra_comedy_hd4/index.m3u8
-#EXTINF:-1 group-title="Prokop TV",Prokop TV Cinema 60 FPS
-http://fs2.persik.by/Prokop_TV_Cinema_60fps3/index.m3u8
-#EXTINF:-1 group-title="Prokop TV",Prokop TV Cinema Best
-http://fs2.persik.by/Cinema_Best3/index.m3u8
-#EXTINF:-1 group-title="Prokop TV",Prokop TV Comedy
-http://fs2.persik.by/Prokop_TV_Comedy_HD2/index.m3u8
-#EXTINF:-1 group-title="Prokop TV",Prokop TV Criminal
-http://fs2.persik.by/Prokop_TV_Criminal_HD3/index.m3u8
-#EXTINF:-1 group-title="Prokop TV",Prokop TV Detektiv HD
-http://fs2.persik.by/Prokop_TV_Detektiv_HD2/index.m3u8
-#EXTINF:-1 group-title="Prokop TV",Prokop TV Fantazy
-http://fs2.persik.by/Prokop_TV_Fantazy4/index.m3u8
-#EXTINF:-1 group-title="Prokop TV",Prokop TV History
-http://fs2.persik.by/Prokop_TV_History2/index.m3u8
-#EXTINF:-1 group-title="Prokop TV",Prokop TV Horror
-http://fs2.persik.by/Prokop_tv_horror_hd2/index.m3u8
-#EXTINF:-1 group-title="Prokop TV",Prokop TV NETFLIX
-http://fs2.persik.by/Prokop_TV_Netflix_HD2/index.m3u8
-#EXTINF:-1 group-title="Prokop TV",Prokop TV Сказки СССР
-http://fs2.persik.by/Prokop_TV_skazki_sssr4/index.m3u8
+
 
 
 
@@ -6350,7 +6329,7 @@ http://31.148.6.9:10006/index.m3u8
 http://31.148.6.9:10007/index.m3u8
 #EXTINF:-1 group-title="Промышленная автоматика (VPN)",ДИКАЯ РЫБАЛКА HD
 http://31.148.6.4:10243/index.m3u8
-#EXTINF:-1 group-title="Промышленная автоматика (VPN)",ПЯТЫЙ
+#EXTINF:-1 group-title="Промышленная автоматика (VPN)",ПЯТЫЙ КАНАЛ
 http://31.148.6.9:10005/index.m3u8
 #EXTINF:-1 group-title="Промышленная автоматика (VPN)",ОТР
 http://31.148.6.9:10009/index.m3u8
