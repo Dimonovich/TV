@@ -3252,8 +3252,6 @@ http://178.212.236.6:14618/play/18_75
 http://178.212.236.6:14622/play/22_6490
 #EXTINF:-1 group-title="Тенор (VPN)",Viasat Explore
 http://178.212.236.6:14622/play/22_6410
-#EXTINF:-1 group-title="Тенор (VPN)",Viasat Megahit
-http://178.212.236.6:14621/play/21_205
 #EXTINF:-1 group-title="Тенор (VPN)",Viasat Nature
 http://178.212.236.6:14614/play/14_6575
 #EXTINF:-1 group-title="Тенор (VPN)",Viju+ Planet
@@ -3276,7 +3274,7 @@ http://178.212.236.6:14623/play/23_300
 http://178.212.236.6:14624/play/24_2030
 #EXTINF:-1 group-title="Тенор (VPN)",.Sci-Fi
 http://178.212.236.6:14623/play/23_1910
-#EXTINF:-1 group-title="Тенор (VPN)",2х2
+#EXTINF:-1 group-title="Тенор (VPN)",2x2
 http://178.212.236.6:14618/play/18_94
 #EXTINF:-1 group-title="Тенор (VPN)",360 tune box
 http://178.212.236.6:14624/play/24_1906
@@ -3288,9 +3286,9 @@ http://178.212.236.6:14621/play/21_206
 http://178.212.236.6:14620/play/20_61
 #EXTINF:-1 group-title="Тенор (VPN)",FAN
 http://178.212.236.6:14617/play/17_4
-#EXTINF:-1 group-title="Тенор (VPN)",Fashion Box
+#EXTINF:-1 group-title="Тенор (VPN)",FashionBox
 http://178.212.236.6:14616/play/16_99
-#EXTINF:-1 group-title="Тенор (VPN)",FAST BOX
+#EXTINF:-1 group-title="Тенор (VPN)",FAST&FUN BOX
 http://178.212.236.6:14613/play/13_500
 #EXTINF:-1 group-title="Тенор (VPN)",Filmbox Arthouse
 http://178.212.236.6:14613/play/13_2011
@@ -3320,7 +3318,7 @@ http://178.212.236.6:14622/play/22_6400
 http://178.212.236.6:14617/play/17_6
 #EXTINF:-1 group-title="Тенор (VPN)",TV RUS
 http://178.212.236.6:14614/play/14_6580
-#EXTINF:-1 group-title="Тенор (VPN)",TVRUS+
+#EXTINF:-1 group-title="Тенор (VPN)",TV RUS+
 http://178.212.236.6:14614/play/14_19107
 #EXTINF:-1 group-title="Тенор (VPN)",VIP Megahit
 http://178.212.236.6:14616/play/16_6120
@@ -3348,7 +3346,11 @@ http://178.212.236.6:14619/play/19_19
 http://178.212.236.6:14624/play/24_1900
 #EXTINF:-1 group-title="Тенор (VPN)",Киномикс HD
 http://178.212.236.6:14621/play/21_202
-#EXTINF:-1 group-title="Тенор (VPN)",Кинопремера HD
+#EXTINF:-1 group-title="Тенор (VPN)",Мужское кино
+http://178.212.236.6:14616/play/16_6160
+#EXTINF:-1 group-title="Тенор (VPN)",Родное кино
+http://178.212.236.6:14623/play/23_302
+#EXTINF:-1 group-title="Тенор (VPN)",Кинопремьера HD
 http://178.212.236.6:14624/play/24_2020
 #EXTINF:-1 group-title="Тенор (VPN)",Комедийное
 http://178.212.236.6:14620/play/20_62
@@ -3364,8 +3366,6 @@ http://178.212.236.6:14620/play/20_63
 http://178.212.236.6:14617/play/17_3
 #EXTINF:-1 group-title="Тенор (VPN)",Мосфильм. Золотая коллекция
 http://178.212.236.6:14615/play/15_6514
-#EXTINF:-1 group-title="Тенор (VPN)",Мужское кино
-http://178.212.236.6:14616/play/16_6160
 #EXTINF:-1 group-title="Тенор (VPN)",ОТР
 http://178.212.236.6:14621/play/21_204
 #EXTINF:-1 group-title="Тенор (VPN)",Продвижение
@@ -3376,8 +3376,6 @@ http://178.212.236.6:14617/play/17_12
 http://178.212.236.6:14616/play/16_6192
 #EXTINF:-1 group-title="Тенор (VPN)",РБК
 http://178.212.236.6:14620/play/20_65
-#EXTINF:-1 group-title="Тенор (VPN)",Родное кино
-http://178.212.236.6:14623/play/23_302
 #EXTINF:-1 group-title="Тенор (VPN)",Русский Бестселлер
 http://178.212.236.6:14619/play/19_27
 #EXTINF:-1 group-title="Тенор (VPN)",Русский Роман
@@ -3398,7 +3396,7 @@ http://178.212.236.6:14623/play/23_315
 http://178.212.236.6:14618/play/18_78
 #EXTINF:-1 group-title="Тенор (VPN)",ТВЦ
 http://178.212.236.6:14622/play/22_12103
-#EXTINF:-1 group-title="Тенор (VPN)",ТВЦ +1
+#EXTINF:-1 group-title="Тенор (VPN)",ТВЦ (+1)
 http://178.212.236.6:14624/play/24_1902
 #EXTINF:-1 group-title="Тенор (VPN)",Че
 http://178.212.236.6:14622/play/22_101
@@ -3446,7 +3444,7 @@ http://178.212.236.6:14618/play/18_90
 http://178.212.236.6:14624/play/24_2110
 #EXTINF:-1 group-title="Тенор (VPN)",MMA-TV.COM
 http://178.212.236.6:14619/play/19_26
-#EXTINF:-1 group-title="Тенор (VPN)",Trace Sport
+#EXTINF:-1 group-title="Тенор (VPN)",Trace Sport Stars HD
 http://178.212.236.6:14619/play/19_17
 #EXTINF:-1 group-title="Тенор (VPN)",Матч! Боец
 http://178.212.236.6:14613/play/2016
