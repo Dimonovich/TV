@@ -3253,8 +3253,6 @@ http://185.112.140.28:80/VIPComedy/index.m3u8
 http://185.112.140.28:80/VIPMegahit/index.m3u8
 #EXTINF:-1 group-title="Трител-Крым (VPN)",VIP Premiere HD
 http://185.112.140.28:80/VIPPremiere/index.m3u8
-#EXTINF:-1 group-title="Трител-Крым (VPN)",Кинопремьера HD
-http://185.112.140.28:80/Kinopremera/index.m3u8
 #EXTINF:-1 group-title="Трител-Крым (VPN)",.Sci-Fi
 http://185.112.140.28:80/SonySciFi/index.m3u8
 #EXTINF:-1 group-title="Трител-Крым (VPN)",Кино ТВ
@@ -3267,22 +3265,24 @@ http://185.112.140.28:80/Cinema/index.m3u8
 http://185.112.140.28:80/DomKino/index.m3u8
 #EXTINF:-1 group-title="Трител-Крым (VPN)",ДОМ КИНО ПРЕМИУМ HD
 http://185.112.140.28:80/DomKinoPremium/index.m3u8
-#EXTINF:-1 group-title="Трител-Крым (VPN)",Kиноужас
+#EXTINF:-1 group-title="Трител-Крым (VPN)",Кинопремьера HD
+http://185.112.140.28:80/Kinopremera/index.m3u8
+#EXTINF:-1 group-title="Трител-Крым (VPN)",Киноужас HD
 http://185.112.140.28:80/Kinouzhas/index.m3u8
 #EXTINF:-1 group-title="Трител-Крым (VPN)",Kиносвидание
 http://185.112.140.28:80/Kinosvidanie/index.m3u8
-#EXTINF:-1 group-title="Трител-Крым (VPN)",Kиномикс
+#EXTINF:-1 group-title="Трител-Крым (VPN)",киномикс HD
 http://185.112.140.28:80/Kinomiks/index.m3u8
-#EXTINF:-1 group-title="Трител-Крым (VPN)",Kинохит
+#EXTINF:-1 group-title="Трител-Крым (VPN)",Кинохит HD
 http://185.112.140.28:80/Kinohit/index.m3u8
-#EXTINF:-1 group-title="Трител-Крым (VPN)",Mосфильм. Золотая коллекция
+#EXTINF:-1 group-title="Трител-Крым (VPN)",Мосфильм. Золотая коллекция
 http://185.112.140.28:80/Mosfilm/index.m3u8
-#EXTINF:-1 group-title="Трител-Крым (VPN)",НСТ
-http://185.112.140.28:80/NSTV/index.m3u8
 #EXTINF:-1 group-title="Трител-Крым (VPN)",Наше Новое Кино
 http://185.112.140.28:80/Nashe_Novoe_Kino/index.m3u8
 #EXTINF:-1 group-title="Трител-Крым (VPN)",Родное Кино
 http://185.112.140.28:80/Rodnoe_Kino/index.m3u8
+#EXTINF:-1 group-title="Трител-Крым (VPN)",НСТ
+http://185.112.140.28:80/NSTV/index.m3u8
 #EXTINF:-1 group-title="Трител-Крым (VPN)",TV1000 Русское Кино
 http://185.112.140.28:80/TV1000Russkoekino/index.m3u8
 #EXTINF:-1 group-title="Трител-Крым (VPN)",TV1000 Action
@@ -3307,15 +3307,15 @@ http://185.112.140.28:80/STS/index.m3u8
 http://185.112.140.28:80/STS_HD/index.m3u8
 #EXTINF:-1 group-title="Трител-Крым (VPN)",ОТР
 http://185.112.140.28:80/OTR/index.m3u8
-#EXTINF:-1 group-title="Трител-Крым (VPN)",MИР
+#EXTINF:-1 group-title="Трител-Крым (VPN)",Мир
 http://185.112.140.28:80/MIR/index.m3u8
 #EXTINF:-1 group-title="Трител-Крым (VPN)",Домашний
 http://185.112.140.28:80/Domashnij/index.m3u8
 #EXTINF:-1 group-title="Трител-Крым (VPN)",ЧЕ
 http://185.112.140.28:80/Che/index.m3u8
-#EXTINF:-1 group-title="Трител-Крым (VPN)",Kaрусель
+#EXTINF:-1 group-title="Трител-Крым (VPN)",Карусель
 http://185.112.140.28:80/Karusel/index.m3u8
-#EXTINF:-1 group-title="Трител-Крым (VPN)",Mульт
+#EXTINF:-1 group-title="Трител-Крым (VPN)",Мульт
 http://185.112.140.28:80/Mult/index.m3u8
 #EXTINF:-1 group-title="Трител-Крым (VPN)",СТС Кids HD
 http://185.112.140.28:80/STS_Kids/index.m3u8
