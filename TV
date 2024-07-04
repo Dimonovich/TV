@@ -219,7 +219,8 @@ https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/31.m3u8
 
 
 
-
+#EXTINF:-1 group-title="Moldtelecom",ТНТ Exclusiv TV
+http://212.0.213.132:8084/TNT_Exclusive/index.m3u8
 #EXTINF:-1 group-title="Moldtelecom",Animal Planet HD
 http://212.0.213.132:8084/Animal_Planet_HD/index.m3u8
 #EXTINF:-1 group-title="Moldtelecom",Discovery Channel
@@ -238,7 +239,7 @@ http://212.0.213.132:8084/National_Geographic/index.m3u8
 http://212.0.213.132:8084/Zhivaya_Planeta/index.m3u8
 #EXTINF:-1 group-title="Moldtelecom",Наука
 http://212.0.213.132:8084/Nauka/index.m3u8
-#EXTINF:-1 group-title="Moldtelecom",Kино ТВ
+#EXTINF:-1 group-title="Moldtelecom",Кино ТВ HD
 http://212.0.213.132:8084/Kino_TV/index.m3u8
 #EXTINF:-1 group-title="Moldtelecom",Bolt HD
 http://212.0.213.132:8084/Bolt/index.m3u8
@@ -276,8 +277,6 @@ http://212.0.213.132:8084/TVC21/index.m3u8
 http://212.0.213.132:8084/TV-3/index.m3u8
 #EXTINF:-1 group-title="Moldtelecom",Global 24
 http://212.0.213.132:8084/Ren_TV/index.m3u8
-#EXTINF:-1 group-title="Moldtelecom",TНТ Exclusive HD
-http://212.0.213.132:8084/TNT_Exclusive/index.m3u8
 #EXTINF:-1 group-title="Moldtelecom",СТС Мега
 http://212.0.213.132:8084/CTC/index.m3u8
 #EXTINF:-1 group-title="Moldtelecom",Atomic
