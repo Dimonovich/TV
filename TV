@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://epg.one/epg2.xml.gz,https://iptvx.one/EPG.gz"
 
 
-#EXTINF:-1 group-title="🔺 INFO 🔺" tvg-logo="https://i.postimg.cc/1t5RRm05/Pixaloop-09-11-2021-21-03-10-1660000.gif",Обновление:🎉03.07.2024
+#EXTINF:-1 group-title="🔺 INFO 🔺" tvg-logo="https://i.postimg.cc/1t5RRm05/Pixaloop-09-11-2021-21-03-10-1660000.gif",Обновление:03.07.2024
 http://194.26.229.213/zastavka/index.m3u8
 #EXTINF:-1 group-title="🔺 INFO 🔺" tvg-logo="https://i.postimg.cc/jjkkG8Pc/Imagem-Telegram-Logo-PNG-Preto.png",https://mssg.me/neo_tv
 http://194.26.229.213/intro/index.m3u8
@@ -7877,6 +7877,12 @@ https://mobdrm.mediavitrina.ru:443/hls-livec1/streams/vitrina-hls/yu/tracks-v3a1
 
 
 
+#EXTINF:-1 group-title="Триколор (VPN 🇷🇺)",Первый канал HD
+http://46.8.29.51:2020/channel/n22e17adf/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
+#EXTINF:-1 group-title="Триколор (VPN 🇷🇺)",НТВ
+http://46.8.29.51:2020/channel/79d02325/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
+#EXTINF:-1 group-title="Триколор (VPN 🇷🇺)",ТНТ
+http://46.8.29.51:2020/channel/7a98d7a8/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
 #EXTINF:-1 group-title="Триколор (VPN 🇷🇺)",ТНТ4
 http://46.8.29.51:2020/channel/4b9faec8/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
 #EXTINF:-1 group-title="Триколор (VPN 🇷🇺)",HD Life
@@ -8053,8 +8059,8 @@ http://46.8.29.51:2020/channel/n1a873ff2/index.m3u8?q=a38daa3bb08ae3e108c4b30fae
 http://46.8.29.51:2020/channel/n3bb01902/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
 #EXTINF:-1 group-title="Триколор (VPN 🇷🇺)",Индия
 http://46.8.29.51:2020/channel/27d88f6b/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
-#EXTINF:-1 group-title="Триколор (VPN 🇷🇺)", Bollywood
-http://46.8.29.51:2020/channel/68519c3a/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
+#EXTINF:-1 group-title="Триколор (VPN 🇷🇺)",Bollywood
+http://46.8.29.51:2020/channel/n4f6a9002/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
 #EXTINF:-1 group-title="Триколор (VPN 🇷🇺)", Советская кинокласика
 http://46.8.29.51:2020/channel/cf663e6/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
 #EXTINF:-1 group-title="Триколор (VPN 🇷🇺)",МУЖСКОЕ КИНО
@@ -8062,7 +8068,7 @@ http://46.8.29.51:2020/channel/5a53915b/index.m3u8?q=a38daa3bb08ae3e108c4b30fae7
 #EXTINF:-1 group-title="Триколор (VPN 🇷🇺)",КИНОМИКС
 http://46.8.29.51:2020/channel/n13dfa8e3/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
 #EXTINF:-1 group-title="Триколор (VPN 🇷🇺)", Комедийное
-http://46.8.29.51:2020/channel/n17ef5e4c/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
+http://46.8.29.51:2020/channel/258e9a85/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
 #EXTINF:-1 group-title="Триколор (VPN 🇷🇺)",КИНОСЕРИЯ
 http://46.8.29.51:2020/channel/n67d04177/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
 #EXTINF:-1 group-title="Триколор (VPN 🇷🇺)",НАШЕ НОВОЕ КИНО
@@ -8078,7 +8084,7 @@ http://46.8.29.51:2020/channel/6741f92c/index.m3u8?q=a38daa3bb08ae3e108c4b30fae7
 #EXTINF:-1 group-title="Триколор (VPN 🇷🇺)",Зал суда
 http://46.8.29.51:2020/channel/n5aec9d69/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
 #EXTINF:-1 group-title="Триколор (VPN 🇷🇺)",Тонус
-http://46.8.29.51:2020/channel/27ba0ede/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
+http://46.8.29.51:2020/channel/286611e4/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
 #EXTINF:-1 group-title="Триколор (VPN 🇷🇺)",Живи активно
 http://46.8.29.51:2020/channel/n76b315ea/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
 #EXTINF:-1 group-title="Триколор (VPN 🇷🇺)",ЖАРА
@@ -8087,8 +8093,6 @@ http://46.8.29.51:2020/channel/4b9a0d25/index.m3u8?q=a38daa3bb08ae3e108c4b30fae7
 http://46.8.29.51:2020/channel/n31bcab17/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
 #EXTINF:-1 group-title="Триколор (VPN 🇷🇺)",Енисей
 http://46.8.29.51:2020/channel/6646c568/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
-#EXTINF:-1 group-title="Триколор (VPN 🇷🇺)",Еда. Рецепты Лазерсона
-http://46.8.29.51:2020/channel/n47c25b07/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
 #EXTINF:-1 group-title="Триколор (VPN 🇷🇺)",Еда
 http://46.8.29.51:2020/channel/n26d9ff0a/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
 #EXTINF:-1 group-title="Триколор (VPN 🇷🇺)",Душевное HD
@@ -8190,7 +8194,7 @@ http://46.8.29.51:2020/channel/n1d04a763/index.m3u8?q=a38daa3bb08ae3e108c4b30fae
 #EXTINF:-1 group-title="Триколор (VPN 🇷🇺)",МузТВ
 http://46.8.29.51:2020/channel/70abfce0/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
 #EXTINF:-1 group-title="Триколор (VPN 🇷🇺)",Шансон ТВ
-http://46.8.29.51:2020/channel/n3e902d95/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
+http://46.8.29.51:2020/channel/4b26e0ea/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
 #EXTINF:-1 group-title="Триколор (VPN 🇷🇺)",Music Box Gold
 http://46.8.29.51:2020/channel/n3d726735/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
 #EXTINF:-1 group-title="Триколор (VPN 🇷🇺)",Mezzo
