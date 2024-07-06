@@ -3649,7 +3649,7 @@ http://94.232.104.237:8011/8kanal/index.m3u8
 http://94.232.104.237:8011/amediahithd/index.m3u8
 #EXTINF:-1 group-title="Рэй-связь (VPN)",FAN
 http://94.232.104.237:8011/fan/index.m3u8
-#EXTINF:-1 group-title="Рэй-связь (VPN)",Fashion
+#EXTINF:-1 group-title="Рэй-связь (VPN)",World Fashion TV
 http://94.232.104.237:8011/fashion/index.m3u8
 #EXTINF:-1 group-title="Рэй-связь (VPN)",Food HD
 http://94.232.104.237:8011/edahd/index.m3u8
@@ -3677,16 +3677,16 @@ http://94.232.104.237:8011/evrokino/index.m3u8
 http://94.232.104.237:8011/zvezda/index.m3u8
 #EXTINF:-1 group-title="Рэй-связь (VPN)",Зоопарк
 http://94.232.104.237:8011/zoopark/index.m3u8
-#EXTINF:-1 group-title="Рэй-связь (VPN)",Иллюзион Плюс
+#EXTINF:-1 group-title="Рэй-связь (VPN)",Иллюзион+
 http://94.232.104.237:8011/illuzionplus/index.m3u8
 #EXTINF:-1 group-title="Рэй-связь (VPN)",Индия
 http://94.232.104.237:8011/stslove/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",Кинопоказ
+http://94.232.104.237:8011/kinopokaz/index.m3u8
 #EXTINF:-1 group-title="Рэй-связь (VPN)",Кино ТВ
 http://94.232.104.237:8011/kinotv/index.m3u8
 #EXTINF:-1 group-title="Рэй-связь (VPN)",Кинокомедия
 http://94.232.104.237:8011/komediyatv/index.m3u8
-#EXTINF:-1 group-title="Рэй-связь (VPN)",Кинопоказ
-http://94.232.104.237:8011/kinopokaz/index.m3u8
 #EXTINF:-1 group-title="Рэй-связь (VPN)",Кинопремьера HD
 http://94.232.104.237:8011/hustlerhd/index.m3u8
 #EXTINF:-1 group-title="Рэй-связь (VPN)",Киносерия
@@ -3751,7 +3751,7 @@ http://94.232.104.237:8011/mama/index.m3u8
 http://94.232.104.237:8011/karusel/index.m3u8
 #EXTINF:-1 group-title="Рэй-связь (VPN)",Бобер
 http://94.232.104.237:8011/foxlife/index.m3u8
-#EXTINF:-1 group-title="Рэй-связь (VPN)",Аni
+#EXTINF:-1 group-title="Рэй-связь (VPN)",Ani
 http://94.232.104.237:8011/ani/index.m3u8
 #EXTINF:-1 group-title="Рэй-связь (VPN)",Cartoon Network
 http://94.232.104.237:8011/cartoonnetwork/index.m3u8
@@ -3767,7 +3767,7 @@ http://94.232.104.237:8011/europaplustv/index.m3u8
 http://94.232.104.237:8011/rutv/index.m3u8
 #EXTINF:-1 group-title="Рэй-связь (VPN)",Bridge TV
 http://94.232.104.237:8011/bridgetv/index.m3u8
-#EXTINF:-1 group-title="Рэй-связь (VPN)",Еurosport 2
+#EXTINF:-1 group-title="Рэй-связь (VPN)",Еurosport 2 HD
 http://94.232.104.237:8011/eurosport2/index.m3u8
 #EXTINF:-1 group-title="Рэй-связь (VPN)",Матч
 http://94.232.104.237:8011/match/index.m3u8
