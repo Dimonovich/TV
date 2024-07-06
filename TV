@@ -230,7 +230,7 @@ http://91.218.160.212:8015/play/a02a/index.m3u8
 http://91.218.160.212:8015/play/a00r/index.m3u8
 #EXTINF:-1 group-title="Точиктелеком",Первый канал (+4)
 http://91.218.160.212:8015/play/a013/index.m3u8
-#EXTINF:-1 group-title="Точиктелеком",РЕН
+#EXTINF:-1 group-title="Точиктелеком",РЕН ТВ
 http://91.218.160.212:8015/play/a037/index.m3u8
 #EXTINF:-1 group-title="Точиктелеком",РЕН ТВ +2
 http://91.218.160.212:8015/play/a02m/index.m3u8
@@ -360,7 +360,7 @@ http://91.218.160.212:8015/play/a02j/index.m3u8
 http://91.218.160.212:8015/play/a03d/index.m3u8
 #EXTINF:-1 group-title="Точиктелеком",TV1000 Action
 http://91.218.160.212:8015/play/a03c/index.m3u8
-#EXTINF:-1 group-title="Точиктелеком",TV1000 Новелла
+#EXTINF:-1 group-title="Точиктелеком",Viju TV1000 Новелла
 http://91.218.160.212:8015/play/a03e/index.m3u8
 #EXTINF:-1 group-title="Точиктелеком",TV1000 Русское Кино
 http://91.218.160.212:8015/play/a03b/index.m3u8
@@ -390,8 +390,6 @@ http://91.218.160.212:8015/play/a038/index.m3u8
 http://91.218.160.212:8015/play/a05l/index.m3u8
 #EXTINF:-1 group-title="Точиктелеком",Зоопарк
 http://91.218.160.212:8015/play/a02p/index.m3u8
-#EXTINF:-1 group-title="Точиктелеком",ИНДИЙСКОЕ КИНО
-http://91.218.160.212:8015/play/a02x/index.m3u8
 #EXTINF:-1 group-title="Точиктелеком",Известия
 http://91.218.160.212:8015/play/a045/index.m3u8
 #EXTINF:-1 group-title="Точиктелеком",Иллюзион+
@@ -400,8 +398,16 @@ http://91.218.160.212:8015/play/a02q/index.m3u8
 http://91.218.160.212:8015/play/a00l/index.m3u8
 #EXTINF:-1 group-title="Точиктелеком",КИНОМИКС HD
 http://91.218.160.212:8015/play/a04d/index.m3u8
+#EXTINF:-1 group-title="Точиктелеком",ИНДИЙСКОЕ КИНО
+http://91.218.160.212:8015/play/a02x/index.m3u8
+#EXTINF:-1 group-title="Точиктелеком",Наше новое кино
+http://91.218.160.212:8015/play/a04h/index.m3u8
 #EXTINF:-1 group-title="Точиктелеком",КИНОПРЕМЬЕРА HD
 http://91.218.160.212:8015/play/a02b/index.m3u8
+#EXTINF:-1 group-title="Точиктелеком",Киносемья HD
+http://91.218.160.212:8015/play/a042/index.m3u8
+#EXTINF:-1 group-title="Точиктелеком",МУЖСКОЕ КИНО
+http://91.218.160.212:8015/play/a026/index.m3u8
 #EXTINF:-1 group-title="Точиктелеком",Кинеко
 http://91.218.160.212:8015/play/a02v/index.m3u8
 #EXTINF:-1 group-title="Точиктелеком",Кино 24
@@ -410,8 +416,6 @@ http://91.218.160.212:8015/play/a01w/index.m3u8
 http://91.218.160.212:8015/play/a041/index.m3u8
 #EXTINF:-1 group-title="Точиктелеком",Кино ТВ HD
 http://91.218.160.212:8015/play/a04e/index.m3u8
-#EXTINF:-1 group-title="Точиктелеком",Киносемья HD
-http://91.218.160.212:8015/play/a042/index.m3u8
 #EXTINF:-1 group-title="Точиктелеком",Ключ
 http://91.218.160.212:8015/play/a05w/index.m3u8
 #EXTINF:-1 group-title="Точиктелеком",Комедия
@@ -422,8 +426,6 @@ http://91.218.160.212:8015/play/a03q/index.m3u8
 http://91.218.160.212:8015/play/a025/index.m3u8
 #EXTINF:-1 group-title="Точиктелеком",Kinojam 2
 http://91.218.160.212:8015/play/a02s/index.m3u8
-#EXTINF:-1 group-title="Точиктелеком",МУЖСКОЕ КИНО
-http://91.218.160.212:8015/play/a026/index.m3u8
 #EXTINF:-1 group-title="Точиктелеком",Мир Белогорья
 http://91.218.160.212:8015/play/a01f/index.m3u8
 #EXTINF:-1 group-title="Точиктелеком",Мир сериала
@@ -440,8 +442,6 @@ http://91.218.160.212:8015/play/a00j/index.m3u8
 http://91.218.160.212:8015/play/a00i/index.m3u8
 #EXTINF:-1 group-title="Точиктелеком",НСТВ
 http://91.218.160.212:8015/play/a01y/index.m3u8
-#EXTINF:-1 group-title="Точиктелеком",Наше новое кино
-http://91.218.160.212:8015/play/a04h/index.m3u8
 #EXTINF:-1 group-title="Точиктелеком",ОТР
 http://91.218.160.212:8015/play/a00h/index.m3u8
 #EXTINF:-1 group-title="Точиктелеком",Первый Вегетарианский
