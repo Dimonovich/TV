@@ -2344,20 +2344,6 @@ http://iptv.prosto.tv:7000/ch350/video.m3u8
 
 #EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://www.piterpan.it/wp-content/uploads/2023/02/logo-radio-piterpan.png",Piterpan TV
 https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/chunklist.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶",MUSIC CLASSICS
-http://168.205.87.198:8555/live/1210/123456/231.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶",MUSIC BLACK
-http://168.205.87.198:8555/live/1210/123456/232.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶",MUSIC HITS
-http://168.205.87.198:8555/live/1210/123456/233.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶",MUSIC LATINO
-http://168.205.87.198:8555/live/1210/123456/234.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶",MUSIC PARTY
-http://168.205.87.198:8555/live/1210/123456/235.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶",MUSIC POP
-http://168.205.87.198:8555/live/1210/123456/236.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶",MUSIC ROCK
-http://168.205.87.198:8555/live/1210/123456/237.m3u8
 #EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://i.postimg.cc/JzrfFnQw/2024-02-24-182647787.png",OF-TV
 https://5864df9ceac85.streamlock.net/germanpictures-live/_definst_/mp4:streamschedule/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные 🎶" ,AFN Music
