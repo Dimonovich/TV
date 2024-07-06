@@ -3532,6 +3532,66 @@ http://video.platformcraft.ru/hls/etv/egorievsk-tv/720p.m3u8
 
 
 
+#EXTINF:-1 group-title="ТВ (VPN)",Первый HD
+http://188.190.222.48:8765/1_kanal_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ТВ (VPN)",Первый
+http://188.190.222.48:8765/1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ТВ (VPN)",Россия 1
+http://188.190.222.48:8765/Russia_1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ТВ (VPN)",НТВ
+http://188.190.222.48:8765/HTB/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ТВ (VPN)",Ocean TV
+http://188.190.222.48:8765/Ocean_TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ТВ (VPN)",Наука
+http://188.190.222.48:8765/Nauka/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ТВ (VPN)",Киносат
+http://188.190.222.48:8765/Kinosat/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ТВ (VPN)",Кинохит HD
+http://188.190.222.48:8765/Kinohit_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ТВ (VPN)",Cinema
+http://188.190.222.48:8765/Cinema_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ТВ (VPN)",Kиносвидание
+http://188.190.222.48:8765/Kinosvidanie/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ТВ (VPN)",Amedia 2 HD
+http://188.190.222.48:8765/Amedia2_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ТВ (VPN)",БелРос
+http://188.190.222.48:8765/TPO/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ТВ (VPN)",КУХНЯ ТВ
+http://188.190.222.48:8765/Kuhnya_TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ТВ (VPN)" ,Москва Доверие
+http://188.190.222.48:8765/Moskva_doverie/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ТВ (VPN)",Fashion HD
+http://188.190.222.48:8765/Fashion_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ТВ (VPN)",Fashionbox
+http://188.190.222.48:8765/Fashionbox/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ТВ (VPN)",RT DOC
+http://188.190.222.48:8765/RTD_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ТВ (VPN)",Tеатр
+http://188.190.222.48:8765/Teatr/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ТВ (VPN)",Bridge TV classic
+http://188.190.222.48:8765/Bridge_classic/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ТВ (VPN)",9 Волна
+http://188.190.222.48:8765/9volna/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ТВ (VPN)" ,Мультимузыка
+http://188.190.222.48:8765/Multimuzika/index.m3u8
+#EXTINF:-1 group-title="ТВ (VPN)",Bolt
+http://188.190.222.48:8765/Bolt/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ТВ (VPN)",Ani
+http://188.190.222.48:8765/Ani/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ТВ (VPN)",Солнце
+http://188.190.222.48:8765/Solnce/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ТВ (VPN)",Mультландия
+http://188.190.222.48:8765/Multilandia/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ТВ (VPN)",Старт
+http://188.190.222.48:8765/Start_TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ТВ (VPN)",KHL
+http://188.190.222.48:8765/KHL/tracks-v1a1/mono.m3u8
+
+
+
+
+
+
 
 #EXTINF:-1 group-title="Рэй-связь (VPN)",Первый канал
 http://94.232.104.237:8011/perviy/index.m3u8
