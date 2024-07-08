@@ -3716,10 +3716,22 @@ http://188.190.222.48:8765/Ocean_TV/tracks-v1a1/mono.m3u8
 http://188.190.222.48:8765/Nauka/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ТВ (VPN)",Киносат
 http://188.190.222.48:8765/Kinosat/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="ТВ (VPN)",Кинохит HD
-http://188.190.222.48:8765/Kinohit_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ТВ (VPN)",Cinema
 http://188.190.222.48:8765/Cinema_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ТВ (VPN)",ЗВЕЗДА+
+http://188.190.222.48:8765/Zvezda_plus/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ТВ (VPN)",Star Cinema
+http://188.190.222.48:8765/Star_Cinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ТВ (VPN)",Star Family
+http://188.190.222.48:8765/Star_Family/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ТВ (VPN)",Cапфир
+http://188.190.222.48:8765/Sapfir_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ТВ (VPN)",Кинеко
+http://188.190.222.48:8765/Kineko/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ТВ (VPN)",Кинохит HD
+http://188.190.222.48:8765/Kinohit_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ТВ (VPN)",Наше крутое HD
+http://188.190.222.48:8765/Nashe_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ТВ (VPN)",Киносвидание HD
 http://188.190.222.48:8765/Kinosvidanie/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ТВ (VPN)",Amedia 2 HD
@@ -3756,7 +3768,6 @@ http://188.190.222.48:8765/Multilandia/tracks-v1a1/mono.m3u8
 http://188.190.222.48:8765/Start_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ТВ (VPN)",KHL
 http://188.190.222.48:8765/KHL/tracks-v1a1/mono.m3u8
-
 
 
 
