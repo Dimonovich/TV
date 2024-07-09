@@ -3726,6 +3726,12 @@ http://188.190.222.48:8765/Star_Cinema/tracks-v1a1/mono.m3u8
 http://188.190.222.48:8765/Star_Family/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ТВ (VPN)",Cапфир
 http://188.190.222.48:8765/Sapfir_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ТВ (VPN)",Start World HD
+http://188.190.222.48:8765/Start_World/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ТВ (VPN)",Start Air HD
+http://188.190.222.48:8765/Start_Air/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ТВ (VPN)",Душевное
+http://188.190.222.48:8765/Dushevnoe_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ТВ (VPN)",Кинеко
 http://188.190.222.48:8765/Kineko/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ТВ (VPN)",Кинохит HD
