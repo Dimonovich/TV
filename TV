@@ -2918,8 +2918,6 @@ https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/chunklist_w1
 https://hls.cdn.ua/tva.ua_live/livestream/chunklist.m3u8
 #EXTINF:-1 group-title="С сайтов" tvg-logo="https://pravdatutnews.com/apple-touch-icon.png",ПравдаТУТ
 http://pravdatytkievshina-hls2.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8
-#EXTINF:-1 group-title="С сайтов",Звезда
-https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="С сайтов" tvg-logo="https://www.cableman.ru/sites/default/files/sochi_live.png",Sochi Live HD
 http://serv30.vintera.tv:8081/sochi/sochi_stream/chunks.m3u8
 #EXTINF:-1 group-title="С сайтов" tvg-logo="https://i.postimg.cc/Xq1Fmvnv/image.png",Сварожичи
@@ -2993,6 +2991,10 @@ http://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
 https://bst.bratsk.ru/hls/bst2/sd/stream.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" tvg-id="strk",СТРК HD (Сочи) (Web)
 http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)",Звезда
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)",Звезда Плюс
+http://tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/playlist_hdlow.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://i.postimg.cc/L8X5NW5Z/unnamed.jpg",Тивиком
 http://tvcom.stream.intelema.ru/tvcom/studio/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://online-red.com/images/tv/lugansk-24.png",Луганск 24
