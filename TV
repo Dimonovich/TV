@@ -556,9 +556,9 @@ http://185.163.194.185:6987/67/mpegts
 http://185.163.194.185:6987/14/mpegts
 #EXTINF:-1 group-title="StarNet",Animal Planet HD
 http://185.163.194.185:6987/43/mpegts
-#EXTINF:-1 group-title="StarNet",Discovery Science HD
-http://185.163.194.185:6987/44/mpegts
 #EXTINF:-1 group-title="StarNet",HGTV
+http://185.163.194.185:6987/44/mpegts
+#EXTINF:-1 group-title="StarNet",Investigation Discovery
 http://185.163.194.185:6987/46/mpegts
 #EXTINF:-1 group-title="StarNet",Discovery Channel HD
 http://185.163.194.185:6987/47/mpegts
