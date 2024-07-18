@@ -1046,7 +1046,7 @@ http://185.163.194.185:6872/67/mpegts
 http://185.163.194.185:6872/14/mpegts
 #EXTINF:-1 group-title="StarNet",Animal Planet HD
 http://185.163.194.185:6872/43/mpegts
-#EXTINF:-1 group-title="StarNet",Discovery Science HD
+#EXTINF:-1 group-title="StarNet",HGTV
 http://185.163.194.185:6872/44/mpegts
 #EXTINF:-1 group-title="StarNet",Investigation Discovery
 http://185.163.194.185:6872/46/mpegts
@@ -1315,9 +1315,9 @@ http://185.163.194.185:6872/147/mpegts
 #EXTINF:-1 group-title="StarNet",Матч! Футбол 3
 http://185.163.194.185:6872/148/mpegts
 #EXTINF:-1 group-title="StarNet",Setanta Sports 1 HD
-http://185.163.194.185:6872/151/mpegts
-#EXTINF:-1 group-title="StarNet",Setanta Sports 2 HD
 http://185.163.194.185:6872/150/mpegts
+#EXTINF:-1 group-title="StarNet",Setanta Sports 2 HD
+http://185.163.194.185:6872/151/mpegts
 #EXTINF:-1 group-title="StarNet",Setanta Ukraine HD
 http://185.163.194.185:6872/149/mpegts
 #EXTINF:-1 group-title="StarNet",Fightbox HD
@@ -1326,7 +1326,7 @@ http://185.163.194.185:6872/157/mpegts
 http://185.163.194.185:6872/202/mpegts
 #EXTINF:-1 group-title="StarNet",Sport 1
 http://185.163.194.185:6872/204/mpegts
-#EXTINF:-1 group-title="StarNet",SETANTA SPORTS 1 HD
+#EXTINF:-1 group-title="StarNet",Digi Sport 3 HD
 http://185.163.194.185:6872/230/mpegts
 
 
