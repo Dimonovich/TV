@@ -39,7 +39,7 @@ https://tv.movielab.pro/943/tracks-v1a1/mono.m3u8?token=d778472325424015d3f72279
 https://tv.movielab.pro/5094/tracks-v1a1/mono.m3u8?token=13b774cbbb7e89bb72637c4841add25e0116d188-09a5e545d2fd91ebc40e8b10dd6e221d-1721328980-1721242580
 #EXTINF:-1 group-title="TEST ⓵",Eurosport 1 HD
 https://tv.movielab.pro/145/tracks-v1a1/mono.m3u8?token=1558e6ce24a833b7d385fe56d9942dec65a5f88e-2cb227e1962b3ee62bfc5fea35d59804-1721328980-1721242580
-#EXTINF:-1 group-title="TEST ⓵",NBA TV HD US
+#EXTINF:-1 group-title="TEST ⓵",NBA TV HD
 https://tv.movielab.pro/9984/tracks-v1a1/mono.m3u8?token=b4c1dd6451895fe7188579168e47a416c012fe09-5cb9239d26000b54bdf825911e1d9f4d-1721328980-1721242580
 #EXTINF:-1 group-title="TEST ⓵", TV1000 Action
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD_ad.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=73dWSeeSnpoZzzSc2kjIbg&e=1721798966&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
@@ -394,61 +394,18 @@ http://80.245.93.242:9030/play/a03v/index.m3u8
 http://80.245.93.242:9030/play/a04a/index.m3u8
 #EXTINF:-1 group-title="Qual.IT S.A.S",Мульт 
 http://80.245.93.242:9030/play/a011/index.m3u8
-#EXTINF:-1 group-title="Qual.IT S.A.S",SPORT 1
+#EXTINF:-1 group-title="Спорткомплекс 🏆",SPORT 1
 http://80.245.93.242:9030/play/a00i/index.m3u8
-#EXTINF:-1 group-title="Qual.IT S.A.S",Sport 2
+#EXTINF:-1 group-title="Спорткомплекс 🏆",SPORT 2
 http://80.245.93.242:9030/play/a00v/index.m3u8
-#EXTINF:-1 group-title="Qual.IT S.A.S",Eurosport 1 HD
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Eurosport 1 HD
 http://80.245.93.242:9030/play/a01q/index.m3u8
-#EXTINF:-1 group-title="Qual.IT S.A.S",Viasat Sport
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Viasat Sport
 http://80.245.93.242:9030/play/a021/index.m3u8
-#EXTINF:-1 group-title="Qual.IT S.A.S",WE SPORT TV HD
+#EXTINF:-1 group-title="Спорткомплекс 🏆",WE SPORT TV HD
 http://80.245.93.242:9030/play/a043/index.m3u8
-#EXTINF:-1 group-title="Qual.IT S.A.S",МАТЧ! ПЛАНЕТА 
+#EXTINF:-1 group-title="Спорткомплекс 🏆",МАТЧ! ПЛАНЕТА 
 http://80.245.93.242:9030/play/a01u/index.m3u8
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="Telenet_2",Россия 1 HD
-http://91.90.255.235:8000/play/a00g/index.m3u8
-#EXTINF:-1 group-title="Telenet_2",ТНТ HD
-http://91.90.255.235:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="Telenet_2",ТНТ
-http://91.90.255.235:8000/play/a004/index.m3u8
-#EXTINF:-1 group-title="Telenet_2",Россия 24
-http://91.90.255.235:8000/play/a009/index.m3u8
-#EXTINF:-1 group-title="Telenet_2",Время
-http://91.90.255.235:8000/play/a00b/index.m3u8
-#EXTINF:-1 group-title="Telenet_2",8 канал
-http://91.90.255.235:8000/play/a00c/index.m3u8
-#EXTINF:-1 group-title="Telenet_2",Авто плюс
-http://91.90.255.235:8000/play/a003/index.m3u8
-#EXTINF:-1 group-title="Telenet_2",Пятница
-http://91.90.255.235:8000/play/a005/index.m3u8
-#EXTINF:-1 group-title="Telenet_2",Победа
-http://91.90.255.235:8000/play/1/index.m3u8
-#EXTINF:-1 group-title="Telenet_2",Москва Доверие
-http://91.90.255.235:8000/play/a00e/index.m3u8
-#EXTINF:-1 group-title="Telenet_2",СТС
-http://91.90.255.235:8000/play/a00h/index.m3u8
-#EXTINF:-1 group-title="Telenet_2",Звезда
-http://91.90.255.235:8000/play/a006/index.m3u8
-#EXTINF:-1 group-title="Telenet_2",Шансон ТВ
-http://91.90.255.235:8000/play/a007/index.m3u8
-#EXTINF:-1 group-title="Telenet_2",Матч! Игра
-http://91.90.255.235:8000/play/a00a/index.m3u8
-#EXTINF:-1 group-title="Telenet_2",Матч! Боец
-http://91.90.255.235:8000/play/a00f/index.m3u8
-#EXTINF:-1 group-title="Telenet_2",Extreme Sports
-http://91.90.255.235:8000/play/a008/index.m3u8
-
-
-
-
 
 
 
@@ -651,7 +608,6 @@ http://45.93.46.27:8887/8044/video.m3u8
 http://45.93.46.27:8887/8046/video.m3u8
 #EXTINF:-1 group-title="ActiveCloud",НСТ
 http://45.93.46.27:8887/8165/video.m3u8
-
 #EXTINF:-1 group-title="ActiveCloud",ТВЦ
 http://45.93.46.27:8887/8006/video.m3u8
 #EXTINF:-1 group-title="ActiveCloud",5 Канал
@@ -876,44 +832,78 @@ http://45.93.46.27:8887/8368/video.m3u8
 http://45.93.46.27:8887/8367/video.m3u8
 #EXTINF:-1 group-title="ActiveCloud",Удар HD
 http://45.93.46.27:8887/8319/video.m3u8
-#EXTINF:-1 group-title="ActiveCloud",NBA TV HD
+#EXTINF:-1 group-title="Спорткомплекс 🏆",NBA TV HD
 http://45.93.46.27:8887/8061/video.m3u8
-#EXTINF:-1 group-title="ActiveCloud",Eurosport 1 HD
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Eurosport 1 HD
 http://45.93.46.27:8887/8013/video.m3u8
-#EXTINF:-1 group-title="ActiveCloud",Eurosport 2 HD
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Eurosport 2 HD
 http://45.93.46.27:8887/8163/video.m3u8
-#EXTINF:-1 group-title="ActiveCloud",Конный мир
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Конный мир
 http://45.93.46.27:8887/8326/video.m3u8
-#EXTINF:-1 group-title="ActiveCloud",Viasat Sport HD
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Viasat Sport HD
 http://45.93.46.27:8887/8015/video.m3u8
-#EXTINF:-1 group-title="ActiveCloud",KHL
+#EXTINF:-1 group-title="Спорткомплекс 🏆",KHL
 http://45.93.46.27:8887/8025/video.m3u8
-#EXTINF:-1 group-title="ActiveCloud",KHL Prime
+#EXTINF:-1 group-title="Спорткомплекс 🏆",KHL Prime
 http://45.93.46.27:8887/8297/video.m3u8
-#EXTINF:-1 group-title="ActiveCloud",Sky Sport HD
-http://45.93.46.27:8887/8362/video.m3u8
-#EXTINF:-1 group-title="ActiveCloud",Sport 1
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Sport 1
 http://45.93.46.27:8887/8234/video.m3u8
-#EXTINF:-1 group-title="ActiveCloud",Sport 2
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Sport 2
 http://45.93.46.27:8887/8235/video.m3u8
-#EXTINF:-1 group-title="ActiveCloud",Бокс ТВ
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Бокс ТВ
 http://45.93.46.27:8887/8201/video.m3u8
-#EXTINF:-1 group-title="ActiveCloud",Матч! Футбол 1
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Футбол 1
 http://45.93.46.27:8887/8021/video.m3u8
-#EXTINF:-1 group-title="ActiveCloud",Матч! Футбол 2
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Футбол 2
 http://45.93.46.27:8887/8022/video.m3u8
-#EXTINF:-1 group-title="ActiveCloud",Матч! Футбол 1 HD
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Футбол 1 HD
 http://45.93.46.27:8887/8236/video.m3u8
-#EXTINF:-1 group-title="ActiveCloud",Матч! Футбол 3 HD
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Футбол 3 HD
 http://45.93.46.27:8887/8238/video.m3u8
-#EXTINF:-1 group-title="ActiveCloud",5 Plus
+#EXTINF:-1 group-title="Спорткомплекс 🏆",5 Plus
 http://45.93.46.27:8887/8239/video.m3u8
-#EXTINF:-1 group-title="ActiveCloud",Футбол
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Футбол
 http://45.93.46.27:8887/8147/video.m3u8
 
 
 
 
+
+
+
+
+#EXTINF:-1 group-title="Telenet_2",Россия 1 HD
+http://91.90.255.235:8000/play/a00g/index.m3u8
+#EXTINF:-1 group-title="Telenet_2",ТНТ HD
+http://91.90.255.235:8000/play/a00d/index.m3u8
+#EXTINF:-1 group-title="Telenet_2",ТНТ
+http://91.90.255.235:8000/play/a004/index.m3u8
+#EXTINF:-1 group-title="Telenet_2",Россия 24
+http://91.90.255.235:8000/play/a009/index.m3u8
+#EXTINF:-1 group-title="Telenet_2",Время
+http://91.90.255.235:8000/play/a00b/index.m3u8
+#EXTINF:-1 group-title="Telenet_2",8 канал
+http://91.90.255.235:8000/play/a00c/index.m3u8
+#EXTINF:-1 group-title="Telenet_2",Авто плюс
+http://91.90.255.235:8000/play/a003/index.m3u8
+#EXTINF:-1 group-title="Telenet_2",Пятница
+http://91.90.255.235:8000/play/a005/index.m3u8
+#EXTINF:-1 group-title="Telenet_2",Победа
+http://91.90.255.235:8000/play/1/index.m3u8
+#EXTINF:-1 group-title="Telenet_2",Москва Доверие
+http://91.90.255.235:8000/play/a00e/index.m3u8
+#EXTINF:-1 group-title="Telenet_2",СТС
+http://91.90.255.235:8000/play/a00h/index.m3u8
+#EXTINF:-1 group-title="Telenet_2",Звезда
+http://91.90.255.235:8000/play/a006/index.m3u8
+#EXTINF:-1 group-title="Telenet_2",Шансон ТВ
+http://91.90.255.235:8000/play/a007/index.m3u8
+#EXTINF:-1 group-title="Telenet_2",Матч! Игра
+http://91.90.255.235:8000/play/a00a/index.m3u8
+#EXTINF:-1 group-title="Telenet_2",Матч! Боец
+http://91.90.255.235:8000/play/a00f/index.m3u8
+#EXTINF:-1 group-title="Telenet_2",Extreme Sports
+http://91.90.255.235:8000/play/a008/index.m3u8
 
 
 
