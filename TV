@@ -7675,7 +7675,7 @@ http://strm.yandex.ru/kal/neizvestnaia_rossia/neizvestnaia_rossia0.m3u8
 http://strm.yandex.ru/kal/msk24_n/msk24_n0.m3u8
 #EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)" catchup="append" catchup-days="7" catchup-source="?start=${start}&end=${end}",START Air
 https://strm.yandex.ru/kal/start_air/start_air0.m3u8
-#EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)" catchup="append" catchup-days="7" catchup-source="?start=${start}&end=${end}",RTG
+#EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)" catchup="append" catchup-days="7" catchup-source="?start=${start}&end=${end}",RTG HD
 https://strm.yandex.ru/kal/rtg/rtg0.m3u8
 #EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)" catchup="append" catchup-days="7" catchup-source="?start=${start}&end=${end}",Наша Сибирь
 https://strm.yandex.ru/kal/sibir/sibir0.m3u8
