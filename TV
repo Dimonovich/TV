@@ -3069,6 +3069,8 @@ http://185.112.140.28:80/Match_TV_HD/index.m3u8
 
 #EXTINF:-1 group-title="Орбита Плюс (VPN)",Первый канал Евразия
 https://bkm.beetv.kz/btv/live/hls/000000669.m3u8
+#EXTINF:-1 group-title="Орбита Плюс (VPN)",ТНТ
+https://bkm.beetv.kz/btv/live/hls/000007833.m3u8
 #EXTINF:-1 group-title="Орбита Плюс (VPN)",ТНТ4
 https://bkm.beetv.kz/btv/live/hls/000002926.m3u8
 #EXTINF:-1 group-title="Орбита Плюс (VPN)",НТВ ПРАВО
@@ -3119,8 +3121,6 @@ https://bkm.beetv.kz/btv/live/hls/000001414.m3u8
 https://bkm.beetv.kz/btv/live/hls/000000146.m3u8
 #EXTINF:-1 group-title="Орбита Плюс (VPN)",ЖИВАЯ ПРИРОДА
 https://bkm.beetv.kz/btv/live/hls/000001187.m3u8
-#EXTINF:-1 group-title="Орбита Плюс (VPN)",ЗАГОРОДНЫЙ
-https://bkm.beetv.kz/btv/live/hls/000000235.m3u8
 #EXTINF:-1 group-title="Орбита Плюс (VPN)",ТЕХНО 24
 https://bkm.beetv.kz/btv/live/hls/000000008.m3u8
 #EXTINF:-1 group-title="Орбита Плюс (VPN)",ТНВ-Планета
@@ -3143,8 +3143,6 @@ https://bkm.beetv.kz/btv/live/hls/000002510.m3u8
 https://bkm.beetv.kz/btv/live/hls/000000308.m3u8
 #EXTINF:-1 group-title="Орбита Плюс (VPN)",GALAXY
 https://bkm.beetv.kz/btv/live/hls/000000332.m3u8
-#EXTINF:-1 group-title="Орбита Плюс (VPN)",ОХОТНИК И РЫБОЛОВ
-https://bkm.beetv.kz/btv/live/hls/000000608.m3u8
 #EXTINF:-1 group-title="Орбита Плюс (VPN)",ПЕРВЫЙ ВЕГЕТАРИАНСКИЙ
 https://bkm.beetv.kz/btv/live/hls/000002927.m3u8
 #EXTINF:-1 group-title="Орбита Плюс (VPN)",8 КАНАЛ
@@ -3225,8 +3223,10 @@ https://bkm.beetv.kz/btv/live/hls/000000707.m3u8
 https://bkm.beetv.kz/btv/live/hls/000000869.m3u8
 #EXTINF:-1 group-title="Орбита Плюс (VPN)",viju TV1000 action HD
 https://bkm.beetv.kz/btv/live/hls/000003910.m3u8
-#EXTINF:-1 group-title="Орбита Плюс (VPN)",viju TV1000 русское HD
+#EXTINF:-1 group-title="Орбита Плюс (VPN)",viju TV1000 русское кино HD
 https://bkm.beetv.kz/btv/live/hls/000003748.m3u8
+#EXTINF:-1 group-title="Орбита Плюс (VPN)",VIP MEGAHIT
+https://bkm.beetv.kz/btv/live/hls/000000869.m3u8
 #EXTINF:-1 group-title="Орбита Плюс (VPN)",ТНТ
 https://bkm.beetv.kz/btv/live/hls/000007833.m3u8
 #EXTINF:-1 group-title="Орбита Плюс (VPN)",Astana TV
