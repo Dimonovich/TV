@@ -3587,15 +3587,6 @@ http://flu.ttk.mx:90/Boets/mono.m3u8?token=hs06e
 
 
 
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 group-title="СКТ ТВ (VPN)",Первый канал HD
 http://188.113.190.15/98/video.m3u8
 #EXTINF:-1 group-title="СКТ ТВ (VPN)",Первый канал
@@ -3752,26 +3743,18 @@ http://188.113.190.15/3/video.m3u8
 http://188.113.190.15/329/video.m3u8
 #EXTINF:-1 group-title="СКТ ТВ (VPN)",Кинокомедия
 http://188.113.190.15/129/video.m3u8
-#EXTINF:-1 group-title="СКТ ТВ (VPN)",Кинокомедия HD
-http://188.113.190.15/334/video.m3u8
 #EXTINF:-1 group-title="СКТ ТВ (VPN)",Киномикс
 http://188.113.190.15/308/video.m3u8
-#EXTINF:-1 group-title="СКТ ТВ (VPN)",Киномикс HD
-http://188.113.190.15/335/video.m3u8
 #EXTINF:-1 group-title="СКТ ТВ (VPN)",Родное кино
 http://188.113.190.15/317/video.m3u8
 #EXTINF:-1 group-title="СКТ ТВ (VPN)",Кинопремьера HD
 http://188.113.190.15/309/video.m3u8
 #EXTINF:-1 group-title="СКТ ТВ (VPN)",Киносвидание
 http://188.113.190.15/310/video.m3u8
-#EXTINF:-1 group-title="СКТ ТВ (VPN)",Киносвидание HD
-http://188.113.190.15/336/video.m3u8
 #EXTINF:-1 group-title="СКТ ТВ (VPN)",Мужское кино
 http://188.113.190.15/316/video.m3u8
 #EXTINF:-1 group-title="СКТ ТВ (VPN)",Наше новое кино
 http://188.113.190.15/327/video.m3u8
-#EXTINF:-1 group-title="СКТ ТВ (VPN)",Наше новое кино HD
-http://188.113.190.15/337/video.m3u8
 #EXTINF:-1 group-title="СКТ ТВ (VPN)",Киносемья
 http://188.113.190.15/311/video.m3u8
 #EXTINF:-1 group-title="СКТ ТВ (VPN)",Киносерия
@@ -3796,8 +3779,6 @@ http://188.113.190.15/211/video.m3u8
 http://188.113.190.15/53/video.m3u8
 #EXTINF:-1 group-title="СКТ ТВ (VPN)",Мир 24
 http://188.113.190.15/120/video.m3u8
-#EXTINF:-1 group-title="СКТ ТВ (VPN)",Мир сериала
-http://188.113.190.15/188/video.m3u8
 #EXTINF:-1 group-title="СКТ ТВ (VPN)",Москва 24
 http://188.113.190.15/66/video.m3u8
 #EXTINF:-1 group-title="СКТ ТВ (VPN)",Мужской
@@ -3878,8 +3859,6 @@ http://188.113.190.15/178/video.m3u8
 http://188.113.190.15/161/video.m3u8
 #EXTINF:-1 group-title="СКТ ТВ (VPN)",Бобёр
 http://188.113.190.15/131/video.m3u8
-#EXTINF:-1 group-title="СКТ ТВ (VPN)",Детский мир
-http://188.113.190.15/153/video.m3u8
 #EXTINF:-1 group-title="СКТ ТВ (VPN)",Карусель
 http://188.113.190.15/42/video.m3u8
 #EXTINF:-1 group-title="СКТ ТВ (VPN)",Мама
@@ -3968,6 +3947,7 @@ http://188.113.190.15/177/video.m3u8
 http://188.113.190.15/105/video.m3u8
 #EXTINF:-1 group-title="СКТ ТВ (VPN)",FightBox
 http://188.113.190.15/147/video.m3u8
+
 
 
 
