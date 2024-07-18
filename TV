@@ -2139,6 +2139,15 @@ http://edge02.odtv.az/o5/viasathistory/playlist.m3u8
 #EXTINF:-1 group-title="Smart Systems Technology",Viasat Explore
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://edge02.odtv.az/o5/viasatexporer/playlist.m3u8
+#EXTINF:-1 group-title="Smart Systems Technology",История
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://edge02.odtv.az/o3/istoriya/playlist.m3u8
+#EXTINF:-1 group-title="Smart Systems Technology",Nat Geo Wild HD
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://edge02.odtv.az/o3/natgeowild/playlist.m3u8
+#EXTINF:-1 group-title="Smart Systems Technology",National Geographic HD
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://edge02.odtv.az/o3/natgeo/playlist.m3u8
 #EXTINF:-1 group-title="Smart Systems Technology",РОДНОЕ КИНО
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://edge02.odtv.az/o2/rodnoekino/playlist.m3u8
@@ -2229,6 +2238,8 @@ http://edge02.odtv.az/o7/viasatsport/playlist.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Extreme Sports
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://edge02.odtv.az/o4/extremesport/playlist.m3u8
+
+
 
 
 
