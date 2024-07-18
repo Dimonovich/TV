@@ -290,7 +290,7 @@ http://80.245.93.242:9030/play/a00y/index.m3u8
 http://80.245.93.242:9030/play/a02k/index.m3u8
 #EXTINF:-1 group-title="Qual.IT S.A.S",Охота и рыбалка
 http://80.245.93.242:9030/play/a02f/index.m3u8
-#EXTINF:-1 group-title="Qual.IT S.A.S",Тайны Галактики
+#EXTINF:-1 group-title="Qual.IT S.A.S",Galaxy
 http://80.245.93.242:9030/play/a02h/index.m3u8
 #EXTINF:-1 group-title="Qual.IT S.A.S",.Black
 http://80.245.93.242:9030/play/a01h/index.m3u8
@@ -445,6 +445,472 @@ http://91.90.255.235:8000/play/a00a/index.m3u8
 http://91.90.255.235:8000/play/a00f/index.m3u8
 #EXTINF:-1 group-title="Telenet_2",Extreme Sports
 http://91.90.255.235:8000/play/a008/index.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="ActiveCloud",Первый HD
+http://45.93.46.27:8887/8150/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Первый канал
+http://45.93.46.27:8887/8120/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",НТВ
+http://45.93.46.27:8887/8225/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",НТВ HD
+http://45.93.46.27:8887/8156/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",НТВ-МИР
+http://45.93.46.27:8887/8011/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",ТНТ
+http://45.93.46.27:8887/8194/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",ТНТ HD
+http://45.93.46.27:8887/8311/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",ТНТ4
+http://45.93.46.27:8887/8058/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Россия 24
+http://45.93.46.27:8887/8125/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Россия 1 HD
+http://45.93.46.27:8887/8152/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",РОССИЯ 1
+http://45.93.46.27:8887/8002/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Россия К
+http://45.93.46.27:8887/8072/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Россия РТР
+http://45.93.46.27:8887/8121/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",РЕН ТВ
+http://45.93.46.27:8887/8004/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Terra
+http://45.93.46.27:8887/8078/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",NAT GEO WILD
+http://45.93.46.27:8887/8079/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",National Geographic
+http://45.93.46.27:8887/8080/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Домашние Животные
+http://45.93.46.27:8887/8081/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",История
+http://45.93.46.27:8887/8082/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Travel Channel
+http://45.93.46.27:8887/8083/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",VIASAT EXPLORE
+http://45.93.46.27:8887/8085/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",VIASAT NATURE
+http://45.93.46.27:8887/8087/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Galaxy
+http://45.93.46.27:8887/8337/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",HD Life
+http://45.93.46.27:8887/8175/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",HGTV
+http://45.93.46.27:8887/8355/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",History
+http://45.93.46.27:8887/8356/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Investigation Discovery
+http://45.93.46.27:8887/8074/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Animal Planet
+http://45.93.46.27:8887/8075/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Discovery Channel
+http://45.93.46.27:8887/8076/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Nat geo wild HD
+http://45.93.46.27:8887/8188/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",National Geographic HD
+http://45.93.46.27:8887/8176/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Ocean TV
+http://45.93.46.27:8887/8069/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",RTG HD
+http://45.93.46.27:8887/8173/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Travel+Adventure HD
+http://45.93.46.27:8887/8170/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Дикая рыбалка HD
+http://45.93.46.27:8887/8316/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Моя Планета
+http://45.93.46.27:8887/8154/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Animal Planet
+http://45.93.46.27:8887/8167/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Нано ТВ HD
+http://45.93.46.27:8887/8181/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Рыболов
+http://45.93.46.27:8887/8183/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Ключ
+http://45.93.46.27:8887/8304/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Оружие
+http://45.93.46.27:8887/8206/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Телепутешествия
+http://45.93.46.27:8887/8182/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Техно 24
+http://45.93.46.27:8887/8196/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",В мире животных HD
+http://45.93.46.27:8887/8456/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Охота и рыбалка
+http://45.93.46.27:8887/8065/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Первый космический HD
+http://45.93.46.27:8887/8369/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Доктор
+http://45.93.46.27:8887/8214/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",MM Love HD
+http://45.93.46.27:8887/8328/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",MM Семейный 1 HD
+http://45.93.46.27:8887/8449/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",MM Семейный 2 HD
+http://45.93.46.27:8887/8442/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",2x2
+http://45.93.46.27:8887/8045/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",365 дней
+http://45.93.46.27:8887/8068/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Amedia 1
+http://45.93.46.27:8887/8035/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Amedia 1 HD
+http://45.93.46.27:8887/8204/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Amedia Hit HD
+http://45.93.46.27:8887/8159/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Amedia Premium
+http://45.93.46.27:8887/8215/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Bollywood HD
+http://45.93.46.27:8887/8240/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Fox
+http://45.93.46.27:8887/8051/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Fox Life
+http://45.93.46.27:8887/8052/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",MCM TOP
+http://45.93.46.27:8887/8351/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Mezzo
+http://45.93.46.27:8887/8031/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Navo
+http://45.93.46.27:8887/8218/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",SD/REX
+http://45.93.46.27:8887/8026/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Shot TV
+http://45.93.46.27:8887/8358/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",TLC
+http://45.93.46.27:8887/8060/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",TV1000
+http://45.93.46.27:8887/8048/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",TV1000 Action
+http://45.93.46.27:8887/8049/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",TV1000 Русское кино
+http://45.93.46.27:8887/8050/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Yoshlar
+http://45.93.46.27:8887/8219/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Беларусь 2 HD
+http://45.93.46.27:8887/8302/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Вопросы и ответы
+http://45.93.46.27:8887/8053/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Время
+http://45.93.46.27:8887/8012/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Дом кино Премиум
+http://45.93.46.27:8887/8313/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Домашний
+http://45.93.46.27:8887/8062/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Еврокино
+http://45.93.46.27:8887/8034/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",VIP Comedy
+http://45.93.46.27:8887/8108/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",VIP Megahit
+http://45.93.46.27:8887/8109/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",VIP Premiere
+http://45.93.46.27:8887/8119/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",.Sci-Fi
+http://45.93.46.27:8887/8115/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Живи
+http://45.93.46.27:8887/8187/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Звезда
+http://45.93.46.27:8887/8037/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Капитан фантастика
+http://45.93.46.27:8887/8321/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Квартал ТВ
+http://45.93.46.27:8887/8345/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Кино ТВ
+http://45.93.46.27:8887/8207/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Кинокомедия
+http://45.93.46.27:8887/8042/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Киномикс
+http://45.93.46.27:8887/8040/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Родное Кино
+http://45.93.46.27:8887/8096/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Кинопремьера HD
+http://45.93.46.27:8887/8199/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Индийское кино
+http://45.93.46.27:8887/8038/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Киносвидание
+http://45.93.46.27:8887/8041/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Киносемья
+http://45.93.46.27:8887/8047/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Киносерия
+http://45.93.46.27:8887/8043/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Киноужас HD
+http://45.93.46.27:8887/8357/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Кинохит
+http://45.93.46.27:8887/8039/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Мужское кино
+http://45.93.46.27:8887/8070/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Наше HD
+http://45.93.46.27:8887/8059/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Наше новое кино
+http://45.93.46.27:8887/8044/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Ностальгия
+http://45.93.46.27:8887/8046/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",НСТ
+http://45.93.46.27:8887/8165/video.m3u8
+
+#EXTINF:-1 group-title="ActiveCloud",ТВЦ
+http://45.93.46.27:8887/8006/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",5 Канал
+http://45.93.46.27:8887/8009/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Мир 24
+http://45.93.46.27:8887/8071/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",TOP SECRET
+http://45.93.46.27:8887/8073/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",NDR
+http://45.93.46.27:8887/8091/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Телекафе
+http://45.93.46.27:8887/8094/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Авто плюс
+http://45.93.46.27:8887/8095/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Русский Экстрим
+http://45.93.46.27:8887/8098/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Ю
+http://45.93.46.27:8887/8099/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Мега
+http://45.93.46.27:8887/8100/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",World Fashion TV
+http://45.93.46.27:8887/8103/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Наука
+http://45.93.46.27:8887/8104/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Кто Есть Кто
+http://45.93.46.27:8887/8105/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Qazaqstan
+http://45.93.46.27:8887/8106/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",9 Канал
+http://45.93.46.27:8887/8107/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Дождь
+http://45.93.46.27:8887/8113/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",ТВ3
+http://45.93.46.27:8887/8114/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",RTVI
+http://45.93.46.27:8887/8118/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Домашний
+http://45.93.46.27:8887/8124/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Здоровое ТВ
+http://45.93.46.27:8887/8127/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Русский Иллюзион
+http://45.93.46.27:8887/8132/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Иллюзион+
+http://45.93.46.27:8887/8134/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Дом Кино
+http://45.93.46.27:8887/8136/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Кинопоказ
+http://45.93.46.27:8887/8139/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Еда
+http://45.93.46.27:8887/8140/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",5 Plus
+http://45.93.46.27:8887/8141/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",13 Канал
+http://45.93.46.27:8887/8143/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Беларусь 24
+http://45.93.46.27:8887/8144/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",ОТР
+http://45.93.46.27:8887/8146/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Kinoliving
+http://45.93.46.27:8887/8148/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Индия
+http://45.93.46.27:8887/8155/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",УСПЕХ
+http://45.93.46.27:8887/8164/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Comedy Central
+http://45.93.46.27:8887/8171/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Остросюжетное
+http://45.93.46.27:8887/8184/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",СТС
+http://45.93.46.27:8887/8195/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",РБК
+http://45.93.46.27:8887/8197/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Страшное HD
+http://45.93.46.27:8887/8198/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",ТБН Украина
+http://45.93.46.27:8887/8200/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",ТВБ HD
+http://45.93.46.27:8887/8210/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",ТВ 21
+http://45.93.46.27:8887/8213/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Ozbekiston
+http://45.93.46.27:8887/8220/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Kinoteatr
+http://45.93.46.27:8887/8222/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",AZ TV
+http://45.93.46.27:8887/8227/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Премиальное HD
+http://45.93.46.27:8887/8028/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Психология 21
+http://45.93.46.27:8887/8192/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Пятница HD
+http://45.93.46.27:8887/8066/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Ретро
+http://45.93.46.27:8887/8331/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Романтичное HD
+http://45.93.46.27:8887/8296/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Русский детектив
+http://45.93.46.27:8887/8161/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Русский бестселлер
+http://45.93.46.27:8887/8162/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Русский Роман
+http://45.93.46.27:8887/8010/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Кухня ТВ
+http://45.93.46.27:8887/8063/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Любимое HD
+http://45.93.46.27:8887/8310/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Сапфир HD
+http://45.93.46.27:8887/8169/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",1+1 Україна HD
+http://45.93.46.27:8887/8116/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",ТЕТ
+http://45.93.46.27:8887/8138/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",2+2 HD UA
+http://45.93.46.27:8887/8117/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",ICTV 2
+http://45.93.46.27:8887/8077/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",СТБ
+http://45.93.46.27:8887/8090/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Новий канал UA
+http://45.93.46.27:8887/8130/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Интер UA
+http://45.93.46.27:8887/8089/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",ICTV
+http://45.93.46.27:8887/8092/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Пятый канал
+http://45.93.46.27:8887/8093/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Сарафан
+http://45.93.46.27:8887/8020/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Среда
+http://45.93.46.27:8887/8295/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",СТС
+http://45.93.46.27:8887/8005/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",СТС Love
+http://45.93.46.27:8887/8174/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Суббота
+http://45.93.46.27:8887/8360/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Чахоннамо
+http://45.93.46.27:8887/8212/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",ЧЕ
+http://45.93.46.27:8887/8008/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Усадьба
+http://45.93.46.27:8887/8017/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Мама
+http://45.93.46.27:8887/8158/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Карусель
+http://45.93.46.27:8887/8057/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Cartoon Network
+http://45.93.46.27:8887/8064/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Cartoonito
+http://45.93.46.27:8887/8332/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Nickelodeon
+http://45.93.46.27:8887/8055/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Бобёр
+http://45.93.46.27:8887/8172/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Nick Jr
+http://45.93.46.27:8887/8153/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",TiJi
+http://45.93.46.27:8887/8110/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Мульт
+http://45.93.46.27:8887/8157/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",В Гостях у Сказки
+http://45.93.46.27:8887/8133/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Gulli Girl
+http://45.93.46.27:8887/8097/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Мульт HD
+http://45.93.46.27:8887/8223/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Мультиландия
+http://45.93.46.27:8887/8056/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Мультимузыка
+http://45.93.46.27:8887/8318/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Солнце
+http://45.93.46.27:8887/8054/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Уникум
+http://45.93.46.27:8887/8067/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",ТНТ Music
+http://45.93.46.27:8887/8350/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Шансон ТВ
+http://45.93.46.27:8887/8126/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Музыка Первого
+http://45.93.46.27:8887/8135/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",MTV
+http://45.93.46.27:8887/8137/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",BRIDGE TV Classic
+http://45.93.46.27:8887/8450/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Европа плюс тв
+http://45.93.46.27:8887/8033/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",RU.TV
+http://45.93.46.27:8887/8185/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",МузТВ
+http://45.93.46.27:8887/8190/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Ля-Минор
+http://45.93.46.27:8887/8101/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",MTV
+http://45.93.46.27:8887/8032/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",MTV Live HD
+http://45.93.46.27:8887/8177/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Russian Music box
+http://45.93.46.27:8887/8189/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Жара
+http://45.93.46.27:8887/8361/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",МАТЧ ТВ HD
+http://45.93.46.27:8887/8179/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Матч! Боец HD
+http://45.93.46.27:8887/8027/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Матч ТВ
+http://45.93.46.27:8887/8016/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Матч! Арена
+http://45.93.46.27:8887/8018/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Матч Премьер
+http://45.93.46.27:8887/8023/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Матч! Страна
+http://45.93.46.27:8887/8019/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Матч! Игра
+http://45.93.46.27:8887/8024/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Матч! Футбол 2
+http://45.93.46.27:8887/8237/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Матч! Футбол 3
+http://45.93.46.27:8887/8029/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Футбольный
+http://45.93.46.27:8887/8368/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Хоккейный
+http://45.93.46.27:8887/8367/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Удар HD
+http://45.93.46.27:8887/8319/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",NBA TV HD
+http://45.93.46.27:8887/8061/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Eurosport 1 HD
+http://45.93.46.27:8887/8013/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Eurosport 2 HD
+http://45.93.46.27:8887/8163/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Конный мир
+http://45.93.46.27:8887/8326/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Viasat Sport HD
+http://45.93.46.27:8887/8015/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",KHL
+http://45.93.46.27:8887/8025/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",KHL Prime
+http://45.93.46.27:8887/8297/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Sky Sport HD
+http://45.93.46.27:8887/8362/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Sport 1
+http://45.93.46.27:8887/8234/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Sport 2
+http://45.93.46.27:8887/8235/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Бокс ТВ
+http://45.93.46.27:8887/8201/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Матч! Футбол 1
+http://45.93.46.27:8887/8021/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Матч! Футбол 2
+http://45.93.46.27:8887/8022/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Матч! Футбол 1 HD
+http://45.93.46.27:8887/8236/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Матч! Футбол 3 HD
+http://45.93.46.27:8887/8238/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",5 Plus
+http://45.93.46.27:8887/8239/video.m3u8
+#EXTINF:-1 group-title="ActiveCloud",Футбол
+http://45.93.46.27:8887/8147/video.m3u8
+
 
 
 
