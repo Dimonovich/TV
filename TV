@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.one/epg2.xml.gz,https://iptvx.one/EPG.gz"
+>#EXTM3U url-tvg="http://epg.one/epg2.xml.gz,https://iptvx.one/EPG.gz"
 
 
 #EXTINF:-1 group-title="🔺 INFO 🔺" tvg-logo="https://i.postimg.cc/1t5RRm05/Pixaloop-09-11-2021-21-03-10-1660000.gif",Обновление:20.07.2024
@@ -207,6 +207,8 @@ https://stream.sunset-media.ru:443/Free/Free/1.m3u8
 https://stream.sunset-media.ru:443/Free/Free/2.m3u8
 #EXTINF:-1 group-title="Медиахолдинг Taurer.Org" tvg-logo="https://stream.sunset-media.ru:443/images/AfE0MpsGM8EECV5bHCwLz8lkQEGkvXUn-kGUYgVn1NAR-PZKfLBsZ0m-Q-ueM3Ij.png" ,Sunset Kids
 https://stream.sunset-media.ru:443/Free/Free/4.m3u8
+#EXTINF:-1 group-title="Медиахолдинг Taurer.Org" tvg-logo="https://stream.sunset-media.ru:443/images/AfE0MpsGM8EECV5bHCwLz8lkQEGkvXUn-kGUYgVn1NAR-PZKfLBsZ0m-Q-ueM3Ij.png" ,Sunset Anime
+https://stream.sunset-media.ru/Free/Free/5.m3u8
 #EXTINF:-1 group-title="Медиахолдинг Taurer.Org" tvg-id="RRTVEU" tvg-logo="https://tv.taurer.org/iptv_content/logos/RRTV_TEMP.png",RRTV Europe
 https://nl1.live-stream.plus.taurer.org:443/pbuPAuthGp/MDTTv32fbk/6.m3u8
 #EXTINF:-1 group-title="Медиахолдинг Taurer.Org" tvg-id="CRIMINALPOLICE" tvg-logo="https://tv.taurer.org/iptv_content/logos/CRIMINALPOLICE_TEMP.png",Криминал и Полиция
