@@ -2733,8 +2733,6 @@ https://pkvc-hls3.cdnvideo.ru/Pobeda/smil:Pobeda.smil/chunklist_b5128000_slru.m3
 #EXTINF:-1 group-title="С сайтов" ,Бобер
 #EXTVLCOPT:http-referrer=https://bober.ru
 https://pkvc-hls3.cdnvideo.ru/Bober/smil:Bober.smil/chunklist_b5128000_slru.m3u8
-#EXTINF:-1 group-title="С сайтов" tvg-logo="https://tsargrad.tv/img/logo-tsargrad_134x134.png",Царьград
-https://live.kinescopecdn.net/on-air/182276a1-1f52-4754-9fa6-f05292ccc160/093a575b-34ee-4c17-b665-5eb63d74c4be/1080p/media.m3u8
 #EXTINF:-1 group-title="С сайтов" tvg-logo="https://www.osnmedia.ru/wp-content/uploads/2022/10/logoWhite.png",ОСН
 https://osnmedia.servicecdn.ru/streams/17603_88089/1080n/index.m3u8
 #EXTINF:-1 group-title="С сайтов", Silk Way
@@ -2751,30 +2749,22 @@ https://stream.uagit.tv/gittv.m3u8
 https://stream.ntktv.ua/s/ntk/ntk.m3u8
 #EXTINF:-1 group-title="С сайтов" tvg-logo="https://tvmtm.online/wp-content/themes/tv-z/img/mtm-logo.png",МТМ
 https://stream.ztv.zp.ua/hls/live.m3u8
-#EXTINF:-1 group-title="С сайтов" tvg-logo="https://logotype.download/tv/3853.png",ТРК Круг
-http://cdn1.live-tv.od.ua:8081/krugod/krugod-abr/krugod/krugod/playlist.m3u8
 #EXTINF:-1 group-title="С сайтов" tvg-logo="https://s8.vcdn.biz/static/f/3228966161/image.jpg",Днепр ТВ
 https://vcdn1.produck.company/out/ngrp:dtv_all/playlist.m3u8
-#EXTINF:-1 group-title="С сайтов" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/b/b4/Vikka_logo.jpg",Викка
-https://tv.cherkasy.app/hls/vikka.m3u8
 #EXTINF:-1 group-title="С сайтов" tvg-logo="https://nadiya.tv/static/img/logo.png",Надия
 http://nadiya.home-net.com.ua/mob/mystream.m3u8
-#EXTINF:-1 group-title="С сайтов" tvg-logo="https://reporter.com.ua/Themes/Default/reporter_release/img/site_logo.png",Репортер
-http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/31chod/31chod/playlist.m3u8
 #EXTINF:-1 group-title="С сайтов" tvg-logo="http://orbita.dn.ua/wp-content/uploads/2020/09/logo_Orbita_fin14.png",Орбiта
 http://ftp.orbita.dn.ua/hls/orbita.m3u8
 #EXTINF:-1 group-title="С сайтов" tvg-id="sampo-tv",Сампо ТВ 360°
 http://iptv-hls.karelia.pro/streams/Sampo360/stream.m3u8
 #EXTINF:-1 group-title="С сайтов" tvg-logo="https://i.postimg.cc/Qd1GFD3R/image.png",Абаза ТВ
-https://watcher-node4.apsny.camera/tv_abaza_tv/tracks-v1a1/mono.m3u8
+https://public.apsny.camera/tv_abaza_tv_to_site/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="С сайтов" tvg-logo="https://pbs.twimg.com/profile_images/1161883563492564992/OPawdkI-_400x400.jpg",12 КАНАЛ (ОМСК)
 https://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="С сайтов",Беларусь 24
 https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/chunklist_w1008231497_b5160000_sleng.m3u8
 #EXTINF:-1 group-title="С сайтов" tvg-logo="https://tva.ua/wp-content/uploads/2020/01/tva-new-logo.png",ТВА
 https://hls.cdn.ua/tva.ua_live/livestream/chunklist.m3u8
-#EXTINF:-1 group-title="С сайтов" tvg-logo="https://pravdatutnews.com/apple-touch-icon.png",ПравдаТУТ
-http://pravdatytkievshina-hls2.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8
 #EXTINF:-1 group-title="С сайтов" tvg-logo="https://www.cableman.ru/sites/default/files/sochi_live.png",Sochi Live HD
 http://serv30.vintera.tv:8081/sochi/sochi_stream/chunks.m3u8
 #EXTINF:-1 group-title="С сайтов" tvg-logo="https://i.postimg.cc/Xq1Fmvnv/image.png",Сварожичи
