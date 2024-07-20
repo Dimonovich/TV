@@ -199,13 +199,13 @@ http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1920x1080@4504/playl
 
 
 
-#EXTINF:-1 group-title="Медиахолдинг Taurer.Org" tvg-logo="https://stream.sunset-media.ru:443/images/AfE0MpsGM8EECV5bHCwLz12ZvH5jnVmQFUKS5h4YOgfXGOI0xbzfNYAhy3zZ1hwk.png" ,Sunset Space
+#EXTINF:-1 group-title="Медиахолдинг Taurer.Org" tvg-logo="https://sunset-media.ru/assets/logos/space.png" ,Sunset Space
 https://stream.sunset-media.ru:443/Free/Free/3.m3u8
-#EXTINF:-1 group-title="Медиахолдинг Taurer.Org" tvg-logo="https://stream.sunset-media.ru:443/images/AfE0MpsGM8EECV5bHCwLz2VkMnbt4BOHJ7wsbVO-RrguhMzVgnlOjBAn_M8FHNxP.png" ,Sunset Movie
+#EXTINF:-1 group-title="Медиахолдинг Taurer.Org" tvg-logo="https://sunset-media.ru/assets/logos/movie.png" ,Sunset Movie
 https://stream.sunset-media.ru:443/Free/Free/1.m3u8
-#EXTINF:-1 group-title="Медиахолдинг Taurer.Org" tvg-logo="https://stream.sunset-media.ru:443/images/AfE0MpsGM8EECV5bHCwLz5kHi4vzPnuHWjUHFuKGvsklHdqd1PeRgH3mpeoj4RHR.png" ,Sunset Music
+#EXTINF:-1 group-title="Медиахолдинг Taurer.Org" tvg-logo="https://sunset-media.ru/assets/logos/music.png" ,Sunset Music
 https://stream.sunset-media.ru:443/Free/Free/2.m3u8
-#EXTINF:-1 group-title="Медиахолдинг Taurer.Org" tvg-logo="https://stream.sunset-media.ru:443/images/AfE0MpsGM8EECV5bHCwLz8lkQEGkvXUn-kGUYgVn1NAR-PZKfLBsZ0m-Q-ueM3Ij.png" ,Sunset Kids
+#EXTINF:-1 group-title="Медиахолдинг Taurer.Org" tvg-logo="https://sunset-media.ru/assets/logos/kids.png" ,Sunset Kids
 https://stream.sunset-media.ru:443/Free/Free/4.m3u8
 #EXTINF:-1 group-title="Медиахолдинг Taurer.Org" tvg-logo="https://sunset-media.ru/assets/logos/anime.png" ,Sunset Anime
 https://stream.sunset-media.ru/Free/Free/5.m3u8
@@ -229,15 +229,15 @@ https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/6.m3u8
 https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/14.m3u8
 #EXTINF:-1 group-title="Медиахолдинг Taurer.Org" tvg-logo="https://tv.taurer.org/iptv_content/logos/LVPOLICE_TEMP.png",LIVE:Полицейский с Рублевки
 https://nl2.live-stream.plus.taurer.org/RuCsPSXGYe/DgFExKzqEw/15.m3u8
-#EXTINF:-1 group-title="Медиахолдинг Taurer.Org" tvg-logo="https://tv.taurer.org/iptv_content/logos/LVMOVIE_TEMP.png",LIVE:Сваты
+#EXTINF:-1 group-title="Медиахолдинг Taurer.Org" tvg-logo="https://tv.taurer.org/iptv_content/logos/LVSVATY_TEMP.png",LIVE:Сваты
 https://nl2.live-stream.plus.taurer.org/RuCsPSXGYe/DgFExKzqEw/17.m3u8
 #EXTINF:-1 group-title="Медиахолдинг Taurer.Org" tvg-logo="https://tv.taurer.org/iptv_content/logos/LVDRAMA_TEMP.png",LIVE:DRAMAHOUSE
 https://nl2.live-stream.plus.taurer.org/RuCsPSXGYe/DgFExKzqEw/21.m3u8
 #EXTINF:-1 group-title="Медиахолдинг Taurer.Org" tvg-logo="https://tv.taurer.org/iptv_content/logos/LVMYLO_TEMP.png",LIVE:Мылодрама
 https://nl2.live-stream.plus.taurer.org/RuCsPSXGYe/DgFExKzqEw/25.m3u8
-#EXTINF:-1 group-title="Медиахолдинг Taurer.Org" ,SCORELIVE 1 HD
+#EXTINF:-1 group-title="Медиахолдинг Taurer.Org" tvg-logo="https://tv.taurer.org/iptv_content/logos/SCORELIVEONE_TEMP.png",SCORELIVE 1 HD
 https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/30.m3u8
-#EXTINF:-1 group-title="Медиахолдинг Taurer.Org" ,LIVE:ХБ-ШОУ
+#EXTINF:-1 group-title="Медиахолдинг Taurer.Org" tvg-logo="https://tv.taurer.org/iptv_content/logos/LVSCARY_TEMP.png",LIVE:ХБ-ШОУ
 https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/31.m3u8
 #EXTINF:-1 group-title="Медиахолдинг Taurer.Org" tvg-logo="https://tv.taurer.org/iptv_content/logos/TRRGENATIONAL_TEMP.png",TRR Georgia National Film
 https://nl2.live-stream.plus.taurer.org/RuCsPSXGYe/DgFExKzqEw/29.m3u8
