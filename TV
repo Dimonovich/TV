@@ -269,7 +269,7 @@ http://stream.rutvportal.com:8085/DiscoveryChannelHD/video.m3u8
 http://stream.rutvportal.com:8085/History2HD/video.m3u8
 #EXTINF:-1 group-title="Interhost Communication",History HD
 http://stream.rutvportal.com:8085/HistoryHD/video.m3u8
-#EXTINF:-1 group-title="Interhost Communication",Home4K
+#EXTINF:-1 group-title="Interhost Communication",Home 4K
 http://stream.rutvportal.com:8085/Home4K/video.m3u8
 #EXTINF:-1 group-title="Interhost Communication",Nat Geo Wild HD
 http://stream.rutvportal.com:8085/NatGeoWildHD/video.m3u8
@@ -277,7 +277,7 @@ http://stream.rutvportal.com:8085/NatGeoWildHD/video.m3u8
 http://stream.rutvportal.com:8085/NationalGeographicHD/video.m3u8
 #EXTINF:-1 group-title="Interhost Communication",RTG HD
 http://stream.rutvportal.com:8085/RTGHD/video.m3u8
-#EXTINF:-1 group-title="Interhost Communication",T24
+#EXTINF:-1 group-title="Interhost Communication",Техно 24
 http://stream.rutvportal.com:8085/T24/video.m3u8
 #EXTINF:-1 group-title="Interhost Communication",Точка отрыва
 http://stream.rutvportal.com:8085/TochkaOtriva/video.m3u8
@@ -335,20 +335,22 @@ http://stream.rutvportal.com:8085/KinopremieraHD/video.m3u8
 http://stream.rutvportal.com:8085/KinosemyaHD/video.m3u8
 #EXTINF:-1 group-title="Interhost Communication",Киносерия HD
 http://stream.rutvportal.com:8085/KinoseriaHD/video.m3u8
-#EXTINF:-1 group-title="Interhost Communication",Кино ТВ HD
-http://stream.rutvportal.com:8085/KinoTVHD/video.m3u8
 #EXTINF:-1 group-title="Interhost Communication",Киноужас HD
 http://stream.rutvportal.com:8085/KinouzhasHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Кино ТВ HD
+http://stream.rutvportal.com:8085/KinoTVHD/video.m3u8
 #EXTINF:-1 group-title="Interhost Communication",Комедийное HD
 http://stream.rutvportal.com:8085/KomediynoeHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Мужское кино
+http://stream.rutvportal.com:8085/MuzhskoeKinoHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Родное кино
+http://stream.rutvportal.com:8085/RodnoeKino/video.m3u8
 #EXTINF:-1 group-title="Interhost Communication",Кто есть кто
 http://stream.rutvportal.com:8085/KtoEstKto/video.m3u8
 #EXTINF:-1 group-title="Interhost Communication",КВН ТВ
 http://stream.rutvportal.com:8085/KVNTV/video.m3u8
 #EXTINF:-1 group-title="Interhost Communication",Мосфильм. Золотая коллекция HD
 http://stream.rutvportal.com:8085/MosfilmHD/video.m3u8
-#EXTINF:-1 group-title="Interhost Communication",Мужское кино
-http://stream.rutvportal.com:8085/MuzhskoeKinoHD/video.m3u8
 #EXTINF:-1 group-title="Interhost Communication",Мужской
 http://stream.rutvportal.com:8085/Muzhskoy/video.m3u8
 #EXTINF:-1 group-title="Interhost Communication",Ностальгия
@@ -365,8 +367,6 @@ http://stream.rutvportal.com:8085/PobedaHD/video.m3u8
 http://stream.rutvportal.com:8085/PremialnoeHD/video.m3u8
 #EXTINF:-1 group-title="Interhost Communication",Ретро
 http://stream.rutvportal.com:8085/Retro/video.m3u8
-#EXTINF:-1 group-title="Interhost Communication",Родное кино
-http://stream.rutvportal.com:8085/RodnoeKino/video.m3u8
 #EXTINF:-1 group-title="Interhost Communication",Russia Today
 http://stream.rutvportal.com:8085/RussiaToday/video.m3u8
 #EXTINF:-1 group-title="Interhost Communication",Сарафан
@@ -383,7 +383,7 @@ http://stream.rutvportal.com:8085/9kanalHD/video.m3u8
 http://stream.rutvportal.com:8085/TeleKafe/video.m3u8
 #EXTINF:-1 group-title="Interhost Communication",TLC HD
 http://stream.rutvportal.com:8085/TLCHD/video.m3u8
-#EXTINF:-1 group-title="Interhost Communication",ТВ21
+#EXTINF:-1 group-title="Interhost Communication",TV21
 http://stream.rutvportal.com:8085/TV21/video.m3u8
 #EXTINF:-1 group-title="Interhost Communication",Зоопарк
 http://stream.rutvportal.com:8085/ZooPark/video.m3u8
