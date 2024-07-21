@@ -1,8 +1,8 @@
-﻿﻿#EXTM3U
+﻿﻿﻿#EXTM3U
 
 
 
-#EXTINF:-1 group-title="🔺 INFO 🔺"  tvg-logo="https://i.postimg.cc/mg921GS6/online-radio-triangle-signs-38400058.png",Обновление:26.03.2024
+#EXTINF:-1 group-title="🔺 INFO 🔺"  tvg-logo="https://i.postimg.cc/mg921GS6/online-radio-triangle-signs-38400058.png",Обновление:21.07.2024
 http://194.26.229.213/zastavka/index.m3u8
 #EXTINF:-1 group-title="🔺 INFO 🔺" tvg-logo="https://i.postimg.cc/jjkkG8Pc/Imagem-Telegram-Logo-PNG-Preto.png",https://mssg.me/neo_tv
 http://194.26.229.213/intro/index.m3u8
@@ -4886,6 +4886,23 @@ https://strm.yandex.ru/kal/fm_humorfm_spb/fm_humorfm_spb0.m3u8
 https://strm.yandex.ru/kal/fm_humorfm_saratov/fm_humorfm_saratov0.m3u8
 #EXTINF:-1 group-title="Яндекс (VPN)" tvg-logo="https://i.postimg.cc/vm9rgKYZ/image.jpg",Ялта FM
 https://strm.yandex.ru/kal/fm_yalta_fm/fm_yalta_fm0.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="Волгоград (VPN)" tvg-logo="https://i.postimg.cc/zGZRjJz3/1.jpg",Радио Спутник (Волгоград)
+http://online.sputnikfm.ru:8000/sputnik_mp3
+#EXTINF:-1 group-title="Волгоград (VPN)" tvg-logo="https://i.postimg.cc/zGZRjJz3/1.jpg",Новая волна Волгоград
+http://volgograd.sv-veter.ru:8008/nv_online
+#EXTINF:-1 group-title="Волгоград (VPN)" tvg-logo="https://i.postimg.cc/zGZRjJz3/1.jpg",Дом Дружбы
+http://62.109.3.230/dom_druzhby.mp3
+#EXTINF:-1 group-title="Волгоград (VPN)" tvg-logo="https://i.postimg.cc/zGZRjJz3/1.jpg",Радио россии Волгоград
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/radio_russia/index.m3u8
+#EXTINF:-1 group-title="Волгоград (VPN)" tvg-logo="https://i.postimg.cc/zGZRjJz3/1.jpg",Радио 7 ветров
+http://radiowinds.ru:1077/volgograd
+#EXTINF:-1 group-title="Волгоград (VPN)" tvg-logo="https://i.postimg.cc/zGZRjJz3/1.jpg",Долина рока (Волгоград)
+http://dr.ht2.ru:8000/Dolinaroka
 
 
 
