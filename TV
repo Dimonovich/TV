@@ -377,7 +377,7 @@ http://stream.rutvportal.com:8085/SovershennoSekretno/video.m3u8
 http://stream.rutvportal.com:8085/STSHD/video.m3u8
 #EXTINF:-1 group-title="Interhost Communication",Суббота
 http://stream.rutvportal.com:8085/SubbotaHD/video.m3u8
-#EXTINF:-1 group-title="Interhost Communication",9 канал
+#EXTINF:-1 group-title="Interhost Communication",Channel 9 IL
 http://stream.rutvportal.com:8085/9kanalHD/video.m3u8
 #EXTINF:-1 group-title="Interhost Communication",Телекафе
 http://stream.rutvportal.com:8085/TeleKafe/video.m3u8
