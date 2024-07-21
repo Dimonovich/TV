@@ -1055,9 +1055,9 @@ http://45.93.46.27:8887/8147/video.m3u8
 
 
 
-#EXTINF:-1 group-title="Moldtelecom",Inter+ HD
+#EXTINF:-1 group-title="Moldtelecom",Inter + HD
 http://212.0.213.132:9053/Inter+/index.m3u8
-#EXTINF:-1 group-title="Moldtelecom",Рен ТВ MD
+#EXTINF:-1 group-title="Moldtelecom",Global 24 MD
 http://212.0.213.132:9053/Ren_TV/index.m3u8
 #EXTINF:-1 group-title="Moldtelecom",ТНТ Exclusiv TV
 http://212.0.213.132:9053/TNT_Exclusive/index.m3u8
@@ -1067,7 +1067,7 @@ http://212.0.213.132:9053/Ohota_i_ribalka/index.m3u8
 http://212.0.213.132:9053/MoyaPlaneta/index.m3u8
 #EXTINF:-1 group-title="Moldtelecom",Travel+Adventure
 http://212.0.213.132:9053/Travel+Adventure/index.m3u8
-#EXTINF:-1 group-title="Moldtelecom",National Geographic
+#EXTINF:-1 group-title="Moldtelecom",Nat Geo Wild
 http://212.0.213.132:9053/National_Geographic/index.m3u8
 #EXTINF:-1 group-title="Moldtelecom",Animal Planet HD
 http://212.0.213.132:9053/Animal_Planet_HD/index.m3u8
@@ -1083,9 +1083,9 @@ http://212.0.213.132:9053/Viasat_Nature/index.m3u8
 http://212.0.213.132:9053/Zhivaya_Planeta/index.m3u8
 #EXTINF:-1 group-title="Moldtelecom",НАУКА 2.0
 http://212.0.213.132:9053/Nauka/index.m3u8
-#EXTINF:-1 group-title="Moldtelecom",.black
+#EXTINF:-1 group-title="Moldtelecom",Мир сериала
 http://212.0.213.132:9053/Mir_Seriala/index.m3u8
-#EXTINF:-1 group-title="Moldtelecom",Кинеко
+#EXTINF:-1 group-title="Moldtelecom", Феникс+кино
 http://212.0.213.132:9053/Fenix_Kino/index.m3u8
 #EXTINF:-1 group-title="Moldtelecom",КИНО ТВ
 http://212.0.213.132:9053/Kino_TV/index.m3u8
@@ -1103,15 +1103,13 @@ http://212.0.213.132:9053/Kinoseria/index.m3u8
 http://212.0.213.132:9053/Kinosvidanie/index.m3u8
 #EXTINF:-1 group-title="Moldtelecom",ИЛЛЮЗИОН+
 http://212.0.213.132:9053/Illuzion+/index.m3u8
-#EXTINF:-1 group-title="Moldtelecom",ДОМ КИНО
-http://212.0.213.132:9053/Bolt/index.m3u8
 #EXTINF:-1 group-title="Moldtelecom",TV1000
 http://212.0.213.132:9053/TV1000/index.m3u8
 #EXTINF:-1 group-title="Moldtelecom",TV1000 Action
 http://212.0.213.132:9053/TV1000_Action/index.m3u8
 #EXTINF:-1 group-title="Moldtelecom",Filmbox
 http://212.0.213.132:9053/Filmbox/index.m3u8
-#EXTINF:-1 group-title="Moldtelecom",НОСТАЛЬГИЯ
+#EXTINF:-1 group-title="Moldtelecom",Мосфильм. Золотая коллекция 
 http://212.0.213.132:9053/Nostalgia/index.m3u8
 #EXTINF:-1 group-title="Moldtelecom",TLC
 http://212.0.213.132:9053/TLC/index.m3u8
@@ -1145,7 +1143,7 @@ http://212.0.213.132:9053/TVR/index.m3u8
 http://212.0.213.132:9053/TV8/index.m3u8
 #EXTINF:-1 group-title="Moldtelecom",Joy Cook
 http://212.0.213.132:9053/Joy_Cook/index.m3u8
-#EXTINF:-1 group-title="Moldtelecom",TV 3 MD
+#EXTINF:-1 group-title="Moldtelecom",ТВ3
 http://212.0.213.132:9053/TV-3/index.m3u8
 #EXTINF:-1 group-title="Moldtelecom",СТС Mega MD
 http://212.0.213.132:9053/CTC/index.m3u8
@@ -1165,8 +1163,12 @@ http://212.0.213.132:9053/Mir_HD/index.m3u8
 http://212.0.213.132:9053/Soyuz/index.m3u8
 #EXTINF:-1 group-title="Moldtelecom",Жара
 http://212.0.213.132:9053/Jara/index.m3u8
-#EXTINF:-1 group-title="Moldtelecom",БОБЁР
+#EXTINF:-1 group-title="Moldtelecom",Перец
 http://212.0.213.132:9053/Teledom/index.m3u8
+#EXTINF:-1 group-title="Moldtelecom",Atomic
+http://212.0.213.132:9053/Atomic/index.m3u8
+#EXTINF:-1 group-title="Moldtelecom",Bolt
+http://212.0.213.132:9053/Bolt/index.m3u8
 #EXTINF:-1 group-title="Moldtelecom",СОЛНЦЕ
 http://212.0.213.132:9053/Disney/index.m3u8
 #EXTINF:-1 group-title="Moldtelecom",Nickelodeon
@@ -1175,7 +1177,7 @@ http://212.0.213.132:9053/Nickelodeon/index.m3u8
 http://212.0.213.132:9053/CTC_kids/index.m3u8
 #EXTINF:-1 group-title="Moldtelecom",МУЛЬТ
 http://212.0.213.132:9053/Mult/index.m3u8
-#EXTINF:-1 group-title="Moldtelecom",МУЛЬТИМАНИЯ
+#EXTINF:-1 group-title="Moldtelecom",Мультиландия
 http://212.0.213.132:9053/Multimania/index.m3u8
 #EXTINF:-1 group-title="Moldtelecom",Da Vinci
 http://212.0.213.132:9053/DaVinci/index.m3u8
@@ -1185,8 +1187,6 @@ http://212.0.213.132:9053/Busuioc/index.m3u8
 http://212.0.213.132:9053/Zona_M/index.m3u8
 #EXTINF:-1 group-title="Moldtelecom" tvg-logo="http://epg.it999.ru/img/2266.png",Euronews Россия
 http://212.0.213.132:9053/EuroNews/index.m3u8
-#EXTINF:-1 group-title="Moldtelecom",МузТВ
-http://212.0.213.132:9053/Atomic/index.m3u8
 #EXTINF:-1 group-title="Moldtelecom",Bridge TV
 http://212.0.213.132:9053/Bridge_TV/index.m3u8
 #EXTINF:-1 group-title="Moldtelecom",RU.TV
