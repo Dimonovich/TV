@@ -4891,18 +4891,24 @@ https://strm.yandex.ru/kal/fm_yalta_fm/fm_yalta_fm0.m3u8
 
 
 
-#EXTINF:-1 group-title="Волгоград (VPN)" tvg-logo="https://i.postimg.cc/zGZRjJz3/1.jpg",Радио Спутник (Волгоград)
+#EXTINF:-1 group-title="Волгоград (VPN)" tvg-logo="https://i.postimg.cc/zGZRjJz3/1.jpg",Радио Спутник
 http://online.sputnikfm.ru:8000/sputnik_mp3
-#EXTINF:-1 group-title="Волгоград (VPN)" tvg-logo="https://i.postimg.cc/zGZRjJz3/1.jpg",Новая волна Волгоград
+#EXTINF:-1 group-title="Волгоград (VPN)" tvg-logo="https://i.postimg.cc/zGZRjJz3/1.jpg",Новая волна
 http://volgograd.sv-veter.ru:8008/nv_online
 #EXTINF:-1 group-title="Волгоград (VPN)" tvg-logo="https://i.postimg.cc/zGZRjJz3/1.jpg",Дом Дружбы
 http://62.109.3.230/dom_druzhby.mp3
-#EXTINF:-1 group-title="Волгоград (VPN)" tvg-logo="https://i.postimg.cc/zGZRjJz3/1.jpg",Радио россии Волгоград
+#EXTINF:-1 group-title="Волгоград (VPN)" tvg-logo="https://i.postimg.cc/zGZRjJz3/1.jpg",Радио россии
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/radio_russia/index.m3u8
 #EXTINF:-1 group-title="Волгоград (VPN)" tvg-logo="https://i.postimg.cc/zGZRjJz3/1.jpg",Радио 7 ветров
 http://radiowinds.ru:1077/volgograd
-#EXTINF:-1 group-title="Волгоград (VPN)" tvg-logo="https://i.postimg.cc/zGZRjJz3/1.jpg",Долина рока (Волгоград)
+#EXTINF:-1 group-title="Волгоград (VPN)" tvg-logo="https://i.postimg.cc/zGZRjJz3/1.jpg",Долина рока
 http://dr.ht2.ru:8000/Dolinaroka
+#EXTINF:-1 group-title="Волгоград (VPN)" tvg-logo="https://i.postimg.cc/zGZRjJz3/1.jpg",Волгоград 24
+http://s0.radioheart.ru:8000/RH59163
+#EXTINF:-1 group-title="Волгоград (VPN)" tvg-logo="https://i.postimg.cc/zGZRjJz3/1.jpg",Белый лебедь
+http://195.239.213.149:8002/;file
+#EXTINF:-1 group-title="Волгоград (VPN)" tvg-logo="https://i.postimg.cc/zGZRjJz3/1.jpg",Morfey
+http://chat-uspeh.ru:8000/morfey
 
 
 
