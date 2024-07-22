@@ -180,6 +180,11 @@ https://strm.yandex.ru/kal/tiji_belarus/tiji_belarus0.m3u8
 #EXTINF:-1 ,Кнопка ТВ
 https://api.alpaca.t62a.com/hls/9116/stream0.m3u8
 
+#EXTINF:-1,СоюзМультфильм
+http://194.26.229.213/souzmultfilm/index.m3u8
+#EXTINF:-1,Чип и Дейл
+http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
+
 #EXTINF:-1 ,Sochi Live HD
 http://serv30.vintera.tv:8081/sochi/sochi_stream/chunks.m3u8
 
