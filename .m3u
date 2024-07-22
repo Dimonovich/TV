@@ -143,6 +143,10 @@ http://188.113.190.15/214/video.m3u8
 #EXTINF:-1 group-title="СКТ ТВ (VPN)",НСТ
 http://188.113.190.15/48/video.m3u8
 
+
+#EXTINF:-1 ,black
+https://streamer3.connectto.com/525/mono.m3u8
+
 #EXTINF:-1 ,Fantastica HD
 http://195.9.195.3:8080/hls/187241.m3u8
 #EXTINF:-1 ,Страх
