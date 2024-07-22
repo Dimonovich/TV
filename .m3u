@@ -143,9 +143,10 @@ http://188.113.190.15/214/video.m3u8
 #EXTINF:-1 group-title="СКТ ТВ (VPN)",НСТ
 http://188.113.190.15/48/video.m3u8
 
-
 #EXTINF:-1 ,black
 https://streamer3.connectto.com/525/mono.m3u8
+#EXTINF:-1 ,Иллюзион+ HD
+https://streamer3.connectto.com/397/mono.m3u8
 
 #EXTINF:-1 ,Fantastica HD
 http://195.9.195.3:8080/hls/187241.m3u8
@@ -153,6 +154,13 @@ http://195.9.195.3:8080/hls/187241.m3u8
 http://195.9.195.3:8080/hls/202127.m3u8
 #EXTINF:-1 ,Кошмар HD
 http://195.9.195.3:8080/hls/204709.m3u8
+
+#EXTINF:-1 ,Сарафан
+https://streamer3.connectto.com/490/mono.m3u8
+#EXTINF:-1 ,Вопросы и ответы
+https://streamer3.connectto.com/396/mono.m3u8
+#EXTINF:-1 ,TVMChannel
+https://streamer3.connectto.com/378/mono.m3u8
 
 #EXTINF:-1 ,ОТР
 http://s18209.cdn.ngenix.net/hls/CH_R01_OTR/playlist.m3u8
@@ -169,6 +177,9 @@ http://s18209.cdn.ngenix.net/hls/CH_R02_PERETZ/playlist.m3u8
 #EXTINF:-1 ,Карусель
 http://s18209.cdn.ngenix.net/hls/CH_R01_KARUSEL/playlist.m3u8
 
+#EXTINF:-1 ,БОБЁР
+https://streamer3.connectto.com/497/mono.m3u8
+
 #EXTINF:-1 ,Мама
 http://stv.mediacdn.ru/live/cdn/mama/playlist_sdhigh.m3u8
 #EXTINF:-1 ,Ani
@@ -180,6 +191,9 @@ https://tv.mediacdn.ru/live/disney/playlist_3000k.m3u8
 
 #EXTINF:-1 ,Tiji
 https://strm.yandex.ru/kal/tiji_belarus/tiji_belarus0.m3u8
+
+#EXTINF:-1 ,Капитан Фантастика
+https://streamer3.connectto.com/376/mono.m3u8
 
 #EXTINF:-1 ,Кнопка ТВ
 https://api.alpaca.t62a.com/hls/9116/stream0.m3u8
