@@ -7182,9 +7182,9 @@ https://mobdrm.mediavitrina.ru:443/hls-livec1/streams/vitrina-hls/mir/tracks-v3a
 https://mobdrm.mediavitrina.ru/hls-livecn2/streams/hls/Anekdot_TV/index_0.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.kxrfcgJJthHnQBqtuOc0T5H8ejwySHHG4Ozm9l5U8pk.65Z3HMTulqNrxD3WNfiHnVAOOFbdr9CJ_ARVKgDT3v8.1722366143.f9836c1ad135c81c9611c191eebab55d
 #EXTINF:-1 group-title="Mediavitrina (VPN 🇷🇺)", Ю
 https://mobdrm.mediavitrina.ru:443/hls-livec1/streams/vitrina-hls/yu/tracks-v3a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.kxrfcgJJthHnQBqtuOc0T5H8ejwySHHG4Ozm9l5U8pk.65Z3HMTulqNrxD3WNfiHnVAOOFbdr9CJ_ARVKgDT3v8.1722366143.f9836c1ad135c81c9611c191eebab55d
-#EXTINF:-1 group-title="Bem TV",TVRUS
+#EXTINF:-1 group-title="Bem TV" tvg-id="tv-rus",TVRUS
 https://hls.bemtv.t62a.com/hls2/Y1Vcibty/1721847743/4eN9ozzbIWSlMZs-0IYh5Q/stream716/stream0.m3u8
-#EXTINF:-1 group-title="Bem TV",TVRUS +
+#EXTINF:-1 group-title="Bem TV" tvg-id="tv-rus-plus",TVRUS +
 https://hls.bemtv.t62a.com/hls2/Y1Vcibty/1721847743/vDyvi31RrjSZ9D7YenSeVA/stream273/stream0.m3u8
 #EXTINF:-1 group-title="Bem TV",ТНТ
 https://hls.bemtv.t62a.com/hls2/Y1Vcibty/1721847743/G03x4atqKlg0MYeqFNhTqg/stream414/stream0.m3u8
