@@ -63,7 +63,7 @@ https://tv.movielab.pro/145/index.m3u8?token=ec3b6f7a063ca67f825111d9bdd0559dd07
 https://tv.movielab.pro/9984/index.m3u8?token=4628b42d7ef3b95c52499a041050871d2c592cd8-fa8ea2961bf5e1d57119c96f7f2e7a30-1721846806-1721760406
 #EXTINF:-1 group-title="TEST ⓵", TV1000 Action
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD_ad.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=73dWSeeSnpoZzzSc2kjIbg&e=1721798966&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
-#EXTINF:-1 group-title="TEST ⓵", TV1000
+#EXTINF:-1 group-title="TEST ⓵" tvg-id="tv1000-action-cee",TV1000
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000East_HD_ad.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=I4wMSyar1hEGi2-tF99vBQ&e=1721799208&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 group-title="TEST ⓵",viju TV1000 новелла
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Novella_HD.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=89nZWiGDRkmpEGhlTM4AZw&e=1721799161&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
