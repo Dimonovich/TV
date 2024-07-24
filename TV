@@ -434,16 +434,16 @@ http://stream.rutvportal.com:8085/KinosemyaHD/video.m3u8
 http://stream.rutvportal.com:8085/KinoseriaHD/video.m3u8
 #EXTINF:-1 group-title="Interhost Communication",Киноужас HD
 http://stream.rutvportal.com:8085/KinouzhasHD/video.m3u8
-#EXTINF:-1 group-title="Interhost Communication",Кино ТВ HD
-http://stream.rutvportal.com:8085/KinoTVHD/video.m3u8
 #EXTINF:-1 group-title="Interhost Communication",Комедийное HD
 http://stream.rutvportal.com:8085/KomediynoeHD/video.m3u8
-#EXTINF:-1 group-title="Interhost Communication",Камеди HD
-http://stream.rutvportal.com:8085/CamedyHD/video.m3u8
 #EXTINF:-1 group-title="Interhost Communication",Мужское кино
 http://stream.rutvportal.com:8085/MuzhskoeKinoHD/video.m3u8
 #EXTINF:-1 group-title="Interhost Communication",Родное кино
 http://stream.rutvportal.com:8085/RodnoeKino/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Кино ТВ HD
+http://stream.rutvportal.com:8085/KinoTVHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Камеди HD
+http://stream.rutvportal.com:8085/CamedyHD/video.m3u8
 #EXTINF:-1 group-title="Interhost Communication",Кто есть кто
 http://stream.rutvportal.com:8085/KtoEstKto/video.m3u8
 #EXTINF:-1 group-title="Interhost Communication",КВН ТВ
