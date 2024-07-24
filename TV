@@ -287,6 +287,8 @@ http://stream.rutvportal.com:8085/NatGeoWildHD/video.m3u8
 http://stream.rutvportal.com:8085/NationalGeographicHD/video.m3u8
 #EXTINF:-1 group-title="Interhost Communication",RTG HD
 http://stream.rutvportal.com:8085/RTGHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",RTG TV
+http://stream.rutvportal.com:8085/RTGTV/video.m3u8
 #EXTINF:-1 group-title="Interhost Communication",Дикая рыбалка HD
 http://stream.rutvportal.com:8085/DikayaRybalkaHD/video.m3u8
 #EXTINF:-1 group-title="Interhost Communication",Дикая охота HD
@@ -473,6 +475,8 @@ http://stream.rutvportal.com:8085/JimJam/video.m3u8
 http://stream.rutvportal.com:8085/TiJi/video.m3u8
 #EXTINF:-1 group-title="Interhost Communication",Nick Jr
 http://stream.rutvportal.com:8085/NickJr/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Уникум HD
+http://stream.rutvportal.com:8085/UnikumHD/video.m3u8
 #EXTINF:-1 group-title="Interhost Communication",Nickelodeon HD
 http://stream.rutvportal.com:8085/NickelodeonHD/video.m3u8
 #EXTINF:-1 group-title="Interhost Communication",Мульт HD
@@ -507,6 +511,8 @@ http://stream.rutvportal.com:8085/KHLHD/video.m3u8
 http://stream.rutvportal.com:8085/MatchTVHD/video.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Игра
 http://stream.rutvportal.com:8085/MatchIgraHD/video.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Планета
+http://stream.rutvportal.com:8085/MatchPlaneta/video.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Sport 1 UA
 http://stream.rutvportal.com:8085/Sport1Ukraina/video.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Sport 2 UA
