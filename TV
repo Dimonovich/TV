@@ -384,6 +384,36 @@ http://stream.rutvportal.com:8085/FOXHD/video.m3u8
 http://stream.rutvportal.com:8085/FOXLifeHD/video.m3u8
 #EXTINF:-1 group-title="Interhost Communication",Хит HD
 http://stream.rutvportal.com:8085/HitHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",BCU СССР HD
+http://stream.rutvportal.com:8085/BCUSSSRHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",BCU Marvel HD
+http://stream.rutvportal.com:8085/BCUMarvelHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",BCU Comedy HD
+http://stream.rutvportal.com:8085/BCUComedyHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",BCU Fantastic HD
+http://stream.rutvportal.com:8085/BCUFantasticHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",BCU Action HD
+http://stream.rutvportal.com:8085/BCUActionHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",BCU Catastrophe HD
+http://stream.rutvportal.com:8085/BCUCatastropheHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",BCU Comedy HD
+http://stream.rutvportal.com:8085/BCUComedyHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",BCU History HD
+http://stream.rutvportal.com:8085/BCUHistoryHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",BCU Kinorating HD
+http://stream.rutvportal.com:8085/BCUKinoratingHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",BCU Premiere HD
+http://stream.rutvportal.com:8085/BCUPremiereHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",BCU Romantic HD
+http://stream.rutvportal.com:8085/BCURomanticHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",BCU Russian HD
+http://stream.rutvportal.com:8085/BCURussianHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",BCU VHS HD
+http://stream.rutvportal.com:8085/BCUVHSHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",BCU Stars HD
+http://stream.rutvportal.com:8085/BCUStarsHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Box Ghost HD
+http://stream.rutvportal.com:8085/BCUMediaHD/video.m3u8
 #EXTINF:-1 group-title="Interhost Communication",Hollywood HD
 http://stream.rutvportal.com:8085/HollywoodHD/video.m3u8
 #EXTINF:-1 group-title="Interhost Communication",Усадьба
@@ -470,6 +500,8 @@ http://stream.rutvportal.com:8085/Moldova1HD/video.m3u8
 http://stream.rutvportal.com:8085/2plus2HD/video.m3u8
 #EXTINF:-1 group-title="Interhost Communication",ICTV HD
 http://stream.rutvportal.com:8085/ICTVHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Новий канал HD
+http://stream.rutvportal.com:8085/NoviyKanalHD/video.m3u8
 #EXTINF:-1 group-title="Interhost Communication",Мега HD
 http://stream.rutvportal.com:8085/MegaHD/video.m3u8
 #EXTINF:-1 group-title="Interhost Communication",Телекафе
