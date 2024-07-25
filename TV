@@ -190,6 +190,18 @@ http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1920x1080@4504/playl
 
 
 
+#EXTINF:-1 group-title="4K VIDEO",4K 60 FPS
+https://river-3-318.rutube.ru/hls-vod/GjJBNAuvBYKXPYJQfHwqDg/1722543108/1802/0x5000c500db111d72/fc85c4ba867d442f8c3161a0ff3045fe.mp4.m3u8?i=3840x2160_20911
+#EXTINF:-1 group-title="4K VIDEO",Relaxing Music
+https://river-5-515.rutube.ru/hls-vod/KHrMqYnRBQ45pAiGsKn7rg/1722542845/1792/0x5000c500db16fb02/8acffc9df6bd4279bbfc79e484dbdf5f.mp4.m3u8?i=3840x2160_23231
+#EXTINF:-1 group-title="4K VIDEO",THE MOST BEAUTIFUL 4K HDR 60FPS DOLBY VISION
+https://river-5-516.rutube.ru/hls-vod/n3X6TuNUxnmkYwI2qLaqaA/1722543175/2169/0x5000c500e751a26d/e7c39d45322d4f3c9e8ad0fdc9a9b1ff.mp4.m3u8?i=3840x2160_19712
+#EXTINF:-1 group-title="4K VIDEO",The Colors of the Ocean 4K ULTRA HD
+https://river-3-301.rutube.ru/hls-vod/SK_9WB1K-HEEBeqhRnT72Q/1722543312/2169/0x5000c500e717210e/715ea814aaae4673b5e5719c8b4082f0.mp4.m3u8?i=3840x2160_19110
+
+
+
+
 
 #EXTINF:-1 group-title="Медиахолдинг Taurer.Org" tvg-logo="https://sunset-media.ru/assets/logos/space.png" ,Sunset Space
 https://stream.sunset-media.ru:443/Free/Free/3.m3u8
