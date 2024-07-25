@@ -46,21 +46,21 @@ https://iptv.itv.uz/hls/live/t/MNnb4XbkRII8wOJsfiL5VQ/e/1780568010/4000/index.m3
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/MTbNhVZc/i-TV-Music-Logo.png",ITV Music
 https://iptv.itv.uz/hls/live/t/HNkqYEnnr5I4pOs9Utt2Iw/e/1780568011/4001/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵",National Geographic
-https://tv.movielab.pro/143/index.m3u8?token=c6526709672b3d54626374b530fa58906c38fe37-a02d60b1465221174c7c055117a46eae-1721934647-1721848247
+https://tv.movielab.pro/143/tracks-v1a1/mono.m3u8?token=beeadec0b4b5222993b498785bbc9f5af6704deb-0d004df0763b165c26a42495dc5f935e-1721970746-1721884346
 #EXTINF:-1 group-title="TEST ⓵",Nat Geo Wild
-https://tv.movielab.pro/162/index.m3u8?token=ae451425a41f83bd48e45fc21b888c52056b4a91-a2db9d550ecd6bdaa03fd15f199a8257-1721934647-1721848247
+https://tv.movielab.pro/162/tracks-v1a1/mono.m3u8?token=60c4e08745b701c5628e47774eb5545b549c45ca-03a30707e5dd33e6e3ef10bc204487ef-1721970746-1721884346
 #EXTINF:-1 group-title="TEST ⓵",Discovery Channel HD
-https://tv.movielab.pro/147/index.m3u8?token=834a158a7b0d9510f0684c97c41b82901f5b015d-c8281c3646ce186ace830e96f1ff36ac-1721934647-1721848247
+https://tv.movielab.pro/147/tracks-v1a1/mono.m3u8?token=3584c4c8b64fb53d360bd490bb58ea4011ebd9b2-7261fa8a3e16a9892085d3911008210a-1721970746-1721884346
 #EXTINF:-1 group-title="TEST ⓵",Setanta Sports 1
-https://tv.movielab.pro/942/index.m3u8?token=d1964579b7cf73c1b5e4cae96c857b76107d39ca-50e81f54e4d2191ae04d23f6102411b2-1721934647-1721848247
+https://tv.movielab.pro/942/tracks-v1a1/mono.m3u8?token=a975dbf24b8bc35f4f6ab2833c56927f72d208b2-de70711bd707fd6fea6cd5a3008ea135-1721970746-1721884346
 #EXTINF:-1 group-title="TEST ⓵",Setanta Sports 2
-https://tv.movielab.pro/943/index.m3u8?token=ca461e45cb13d1d4c3e1c7e89e8728f69f8d9eb1-779da6bb8b255693abd43c32222bce96-1721934647-1721848247
+https://tv.movielab.pro/943/tracks-v1a1/mono.m3u8?token=bc7f2956f6a761ca88b64e5acb1e7686a603c3e1-7546978c1a79fdfc4fdf5864dcca4922-1721970746-1721884346
 #EXTINF:-1 group-title="TEST ⓵",Setanta Sports+ HD
-https://tv.movielab.pro/5094/index.m3u8?token=64a3faa9a7d9bdb93ab5b640cb0f781a09db320f-0869201620d85a4fc91dfccc5cdd920a-1721934647-1721848247
+https://tv.movielab.pro/5094/tracks-v1a1/mono.m3u8?token=fb0189f5067f55cd3cf6bafb3b26e07f9047972f-0656e8406ccce1a7ddd2543af5360dd5-1721970746-1721884346
 #EXTINF:-1 group-title="TEST ⓵",Eurosport 1 HD
-https://tv.movielab.pro/145/index.m3u8?token=315c897751223f3a3d54066975b88850f9ed1201-ad961e9894eae21e8fbae6bc570f7e94-1721934647-1721848247
+https://tv.movielab.pro/145/tracks-v1a1/mono.m3u8?token=a2b7dc1b00e663000f0edd3e0e4dc5eee3a29ca4-55d1d45c99f6e6eaa4f874a9d65e2bf0-1721970746-1721884346
 #EXTINF:-1 group-title="TEST ⓵",NBA TV HD
-https://tv.movielab.pro/9984/index.m3u8?token=89fc6cc95fbb28105c654a420a9a3718892d9815-6b4a9f5662862f0aebf0bd6ef41c9ee2-1721934647-1721848247
+https://tv.movielab.pro/9984/tracks-v1a1/mono.m3u8?token=4cdc076ee8c1da02821597fcb3942bae835e9bd9-207fe5e4d7ed69095363e1d2dc694300-1721970746-1721884346
 #EXTINF:-1 group-title="TEST ⓵", TV1000 Action
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD_ad.smil/tracks-v2a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=Th1WYqd98YOXRdc9QVhd9A&e=1722844800&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 group-title="TEST ⓵" ,TV1000
@@ -9650,6 +9650,3 @@ http://127.0.0.1:6878/ace/getstream?infohash=ce9dfe7efa2fd304947f8b57554a524479b
 http://127.0.0.1:6878/ace/getstream?infohash=ab4f0c0791a41b00cf45e26e3a783314750481ac
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",[magenta] Sport 11 - myTeamTV
 http://127.0.0.1:6878/ace/getstream?infohash=348ef293fa3338b18559c37f96b7ce1861fa4f11
-
-
-[]
