@@ -737,6 +737,8 @@ http://stream.rutvportal.com:8085/MTV90s/video.m3u8
 http://stream.rutvportal.com:8085/MTV00s/video.m3u8
 #EXTINF:-1 group-title="Interhost Communication",MTV Hits
 http://stream.rutvportal.com:8085/MTVHits/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",MTV Live HD
+http://stream.rutvportal.com:8085/MTVLiveHD/video.m3u8
 #EXTINF:-1 group-title="Interhost Communication",Европа плюс ТВ
 http://stream.rutvportal.com:8085/EuropaPlusHD/video.m3u8
 #EXTINF:-1 group-title="Interhost Communication",JimJam
