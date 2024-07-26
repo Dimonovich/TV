@@ -585,6 +585,22 @@ http://stream.rutvportal.com:8085/BCURussianHD/video.m3u8
 http://stream.rutvportal.com:8085/BCUVHSHD/video.m3u8
 #EXTINF:-1 group-title="Interhost Communication",BCU Stars HD
 http://stream.rutvportal.com:8085/BCUStarsHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",BCU Ultra 4K
+http://stream.rutvportal.com:8085/BCUUltra4K/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",BCU Cinema HD
+http://stream.rutvportal.com:8085/BCUCinemaHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",BCU Criminal HD
+http://stream.rutvportal.com:8085/BCUCriminalHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",BCU Fantastic HD
+http://stream.rutvportal.com:8085/BCUFantasticHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",BCU TruMotion HD
+http://stream.rutvportal.com:8085/BCUTruMotionHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",BCU Reality HD
+http://stream.rutvportal.com:8085/BCURealityHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",BCU Survival HD
+http://stream.rutvportal.com:8085/BCUSurvivalHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",BCU Cosmo HD
+http://stream.rutvportal.com:8085/BCUCosmoHD/video.m3u8
 #EXTINF:-1 group-title="Interhost Communication",Box Ghost HD
 http://stream.rutvportal.com:8085/BCUMediaHD/video.m3u8
 #EXTINF:-1 group-title="Interhost Communication",Hollywood HD
