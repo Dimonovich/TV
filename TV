@@ -2805,10 +2805,6 @@ https://hls-tva.cdnvideo.ru/tva/tvahd.sdp/tracks-v1a1/mono.m3u8
 https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)",TV ГУБЕРНИЯ
 https://s68149.cdn.ngenix.net/s68149-media-origin/lvs/tvgub/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://tv.nalench.com/uploads/screenshots/slavyanskiy_mir.jpg",Славянский Мир
-https://n1.slavmir.tv/live/ngrp:Cinegy.stream_all/chunklist_w54382310_b5256000.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://i.postimg.cc/wxCPtsXF/e8ace08078369d693b20dee7833c96c0.jpg",Саратов 24
-https://saratov24.tv/online/playlist.php
 #EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://img15.lostpic.net/2019/09/01/34a9f96db47c15b9a3f002884498f0c5.png",Смайлик ТВ
 https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://tv-11.ru/wp-content/uploads/2021/12/logo_shapka.jpg",Наш Дом
@@ -2820,15 +2816,16 @@ https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/tracks-v1a1/mo
 #EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://epg.it999.ru/img/2578.png",Хабар 24
 https://24kz-srt.cdnvideo.ru/24kzsrt/24kzsrt/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://epg.it999.ru/img/2474.png",КРЫМ 24
-https://live24.trkcrimea.ru/stream.m3u8
+https://cdn.1tvcrimea.ru/24tvcrimea.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" tvg-id="legendarny24",Легендарный 24    
+https://sevas.1tvcrimea.ru/legendarniy24.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" ,Симферополь 24
 https://simf.1tvcrimea.ru/simferopol24.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://www.archive.inform.kz/fotoarticles/20120221175352.jpg",QAZAQSTAN
 https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/qazaqstantv/qazaqstantv_720/chunks.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://www.samru.ru/content/Image/News/logo/gis_logo1.jpg",Телеканал ГИС Самара
 https://tvsamaragis.tk/new/new/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://i.postimg.cc/BvcRvFMp/image.png",Егорьевск ТВ
-http://video.platformcraft.ru/hls/etv/egorievsk-tv/720p.m3u8
+
 
 
 
