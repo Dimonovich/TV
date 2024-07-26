@@ -2642,7 +2642,7 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-07.smil/tracks-v
 #EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://i.postimg.cc/ydG9W9Pz/1.jpg",Тел+ Астрахань
 https://streaming.astrakhan.ru/telplushd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://epg.it999.ru/img/6755.png",Волжский Плюс FHD
-https://flu.vtv.by/bt4-non-by/index.m3u8
+http://flussonic.powernet.com.ru:8080/volplus/index.fmp4.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://epg.it999.ru/img/2440.png",Тамыр
 https://bsttv.bonus-tv.ru/cdn/tamyr/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://epg.it999.ru/img/2464.png",БСТ
@@ -2692,13 +2692,11 @@ http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)",РБК
 http://online.video.rbc.ru/online2/rbctv_1080p/index.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://vektor-tv.ru/local/templates/front/assets/img/logos/logo.jpg",Вектор 24
-https://stream.vektor-tv.ru/live/stream.m3u8
+https://136723.edgevideo.ru/streams/136723_657205/playlist.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://sitv.ru/img/stv-news/111111/S1_logo.jpg" tvg-id="s1-surgut",С1 Сургут HD
 https://sitv.ru/vgtrk/stv.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://assets.limehd.tv/uploads/channel/10272/thumb_915e2961accb5f2736151caccb4c1ecc.png",Эхо ТВ 24
 http://stream.novouralsk-news.ru/echotv24/echotv24-576p.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/13581/logo_256_1660807795.png",Новороссийск
-https://live-tvnovorossiysk.cdnvideo.ru/cdn/operators/playlist.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://i.postimg.cc/W3b715VR/2023-05-29-233224593.png",Байкал Универ ТВ
 https://stream01.bgu.ru/1/1/playlist.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://tvr.susu.ru/pictures/Kadr67.jpg",ЮУрГУ-ТВ
