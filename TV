@@ -2763,8 +2763,6 @@ http://stream.fastlnk.ru:88/Tverskojj_prospekt/index.m3u8
 http://stream0.tv41.ru/live.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://lime-tv.ru/wp-content/uploads/2020/10/1522952433_teledom-1.jpg",Теледом ТВ HD
 https://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://pbs.twimg.com/profile_images/835102755572301825/eI4_ElJX_400x400.jpg",Селенга ТВ
-http://90.188.37.86/live/playlist.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)",Красная Линия
 https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://pbs.twimg.com/profile_images/941295036817444864/6IoGlBl6_400x400.jpg",МТВ(Волгоград)
@@ -2779,8 +2777,6 @@ https://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
 https://streaming.astrakhan.ru/astrakhan24/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://tochkatv.tv/wp-content/uploads/2017/09/logo.png",Точка ТВ
 https://tochkatv-live.cdnvideo.ru/tochkatv2/tochkatv-sd.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://epg.it999.ru/img/2479.png",Эхо ТВ
-https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://s3.spbtv.com/rosing-production/bcf527a2cba8750f978d.png",Тюменское Время
 https://hls-sibinformburo.cdnvideo.ru/sibinformburo/sibinformburo.sdp/playlist.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://pic.rutubelist.ru/video/b3/0d/b30d0e06503723e4c61adc98848bd0a9.jpg",Мордовия 24
