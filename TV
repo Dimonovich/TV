@@ -201,7 +201,7 @@ https://stream.sunset-media.ru:443/Free/Free/2.m3u8
 https://stream.sunset-media.ru:443/Free/Free/4.m3u8
 #EXTINF:-1 group-title="Медиахолдинг Taurer.Org" tvg-logo="https://sunset-media.ru/assets/logos/anime.png" ,Sunset Anime
 https://stream.sunset-media.ru/Free/Free/5.m3u8
-EXTINF:-1 group-title="Медиахолдинг Taurer.Org" tvg-logo="https://sunset-media.ru/assets/logos/sport.png" ,Sunset Sport
+#EXTINF:-1 group-title="Медиахолдинг Taurer.Org" tvg-logo="https://sunset-media.ru/assets/logos/sport.png" ,Sunset Sport
 https://stream.sunset-media.ru/Free/Free/6.m3u8
 #EXTINF:-1 group-title="Медиахолдинг Taurer.Org" tvg-id="RRTVEU" tvg-logo="https://tv.taurer.org/iptv_content/logos/RRTV_TEMP.png",RRTV Europe
 https://nl1.live-stream.plus.taurer.org:443/pbuPAuthGp/MDTTv32fbk/6.m3u8
