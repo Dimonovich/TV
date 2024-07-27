@@ -304,6 +304,11 @@ rtmp://5.182.229.90//7203
 
 
 
+
+#EXTINF:-1 group-title="Interhost Communication",Первый канал HD
+http://stream.rutvportal.com:8085/PervyHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Россия 1 HD
+http://stream.rutvportal.com:8085/Rossia1HD/video.m3u8
 #EXTINF:-1 group-title="Interhost Communication",Россия 24
 http://stream.rutvportal.com:8085/Rossia24/video.m3u8
 #EXTINF:-1 group-title="Interhost Communication",ТНТ4 HD
@@ -540,6 +545,10 @@ http://stream.rutvportal.com:8085/DushevnoeHD/video.m3u8
 http://stream.rutvportal.com:8085/RusskayaKomedia/video.m3u8
 #EXTINF:-1 group-title="Interhost Communication",Остросюжетное HD
 http://stream.rutvportal.com:8085/OstrosuzhetnoeHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Индия
+http://stream.rutvportal.com:8085/ZEETV/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Ю
+http://stream.rutvportal.com:8085/YuTV/video.m3u8
 #EXTINF:-1 group-title="Interhost Communication",Планета РТР
 http://stream.rutvportal.com:8085/PlanetaRTR/video.m3u8
 #EXTINF:-1 group-title="Interhost Communication",Победа HD
@@ -652,6 +661,10 @@ http://stream.rutvportal.com:8085/CartoonNetworkHD/video.m3u8
 http://stream.rutvportal.com:8085/STSKidsHD/video.m3u8
 #EXTINF:-1 group-title="Interhost Communication",Ani
 http://stream.rutvportal.com:8085/Ani/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Детский мир
+http://stream.rutvportal.com:8085/DetskyMirHD/video.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Конный мир
+http://stream.rutvportal.com:8085/KonnyMirHD/video.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",KHL Prime
 http://stream.rutvportal.com:8085/KHLPrimeHD/video.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",KHL
