@@ -661,6 +661,8 @@ http://stream.rutvportal.com:8085/CartoonNetworkHD/video.m3u8
 http://stream.rutvportal.com:8085/STSKidsHD/video.m3u8
 #EXTINF:-1 group-title="Interhost Communication",Ani
 http://stream.rutvportal.com:8085/Ani/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",В гостях у сказки HD
+http://stream.rutvportal.com:8085/VGostiahUSkazkiHD/video.m3u8
 #EXTINF:-1 group-title="Interhost Communication",Детский мир
 http://stream.rutvportal.com:8085/DetskyMirHD/video.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Конный мир
