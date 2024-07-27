@@ -295,9 +295,9 @@ https://bkm.beetv.kz/btv/live/hls/000004619.m3u8
 http://95.67.12.82:9067
 
 #EXTINF:-1 ,Eurosport 1 HD
-http://edge02.odtv.az/o7/eurosport/q_1/playlist.m3u8
+http://stream.rutvportal.com:8085/Eurosport1HD/video.m3u8
 #EXTINF:-1 ,Eurosport 2 HD
-http://45.93.46.27:8887/8163/video.m3u8
+http://stream.rutvportal.com:8085/Eurosport2HD/video.m3u8
 
 #EXTINF:-1 ,Матч HD
 http://31.148.6.9:10003/index.m3u8
@@ -337,9 +337,6 @@ https://mhd116.iptv2022.com/p/fX9eXHm2NozoUQ6SM8C1Lw,1722114014/streaming/start/
 https://mhd116.iptv2022.com/p/LD8AFtoQYpb_W6fxt4yPkg,1722114014/streaming/m1global/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:-1,FightBox
 https://mhd116.iptv2022.com/p/0z-1gVxxSRfVLVXY-Is1Jg,1722114014/streaming/fightbox/324/1/tracks-v4a1/mono.m3u8
-
-
-
 
 #EXTINF:-1 ,Удар HD
 https://bkm.beetv.kz/btv/live/hls/000007802.m3u8
