@@ -361,6 +361,12 @@ http://stream.rutvportal.com:8085/AnimalPlanetHD/video.m3u8
 http://stream.rutvportal.com:8085/DiscoveryChannelHD/video.m3u8
 #EXTINF:-1 group-title="Interhost Communication",H2 HD
 http://stream.rutvportal.com:8085/History2HD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",HD Life
+http://stream.rutvportal.com:8085/HDLHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Travel+Adventure HD
+http://stream.rutvportal.com:8085/TravelAdventureHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Galaxy HD
+http://stream.rutvportal.com:8085/GalaxyHD/video.m3u8
 #EXTINF:-1 group-title="Interhost Communication",History HD
 http://stream.rutvportal.com:8085/HistoryHD/video.m3u8
 #EXTINF:-1 group-title="Interhost Communication",Нано ТВ HD
@@ -437,6 +443,10 @@ http://stream.rutvportal.com:8085/DomashniyHD/video.m3u8
 http://stream.rutvportal.com:8085/DozhdHD/video.m3u8
 #EXTINF:-1 group-title="Interhost Communication",Дом Кино
 http://stream.rutvportal.com:8085/DomKino/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Красная линия
+http://stream.rutvportal.com:8085/KrasnayaLiniya/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Food Time
+http://stream.rutvportal.com:8085/FoodTimeHD/video.m3u8
 #EXTINF:-1 group-title="Interhost Communication",Cinema HD
 http://stream.rutvportal.com:8085/CinemaHD/video.m3u8
 #EXTINF:-1 group-title="Interhost Communication",Epic Drama HD
@@ -445,6 +455,10 @@ http://stream.rutvportal.com:8085/EpicDramaHD/video.m3u8
 http://stream.rutvportal.com:8085/PeretsInt/video.m3u8
 #EXTINF:-1 group-title="Interhost Communication",FilmBox
 http://stream.rutvportal.com:8085/FilmBox/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",FilmBox Arthouse
+http://stream.rutvportal.com:8085/FilmBoxArthouse/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",DOCUBOX HD
+http://stream.rutvportal.com:8085/DocuBoxHD/video.m3u8
 #EXTINF:-1 group-title="Interhost Communication",FOX HD
 http://stream.rutvportal.com:8085/FOXHD/video.m3u8
 #EXTINF:-1 group-title="Interhost Communication",FOX Life
@@ -637,6 +651,8 @@ http://stream.rutvportal.com:8085/MTV00s/video.m3u8
 http://stream.rutvportal.com:8085/MTVHits/video.m3u8
 #EXTINF:-1 group-title="Interhost Communication",MTV Live HD
 http://stream.rutvportal.com:8085/MTVLiveHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",МузТВ
+http://stream.rutvportal.com:8085/MuzTVHD/video.m3u8
 #EXTINF:-1 group-title="Interhost Communication",Европа плюс ТВ
 http://stream.rutvportal.com:8085/EuropaPlusHD/video.m3u8
 #EXTINF:-1 group-title="Interhost Communication",JimJam
