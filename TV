@@ -483,7 +483,7 @@ http://stream.rutvportal.com:8085/BCUUltra4K/video.m3u8
 http://stream.rutvportal.com:8085/BCUCinemaHD/video.m3u8
 #EXTINF:-1 group-title="Interhost Communication",BCU Kids HD
 http://stream.rutvportal.com:8085/BCUKidsHD/video.m3u8
-#EXTINF:-1 group-title="Interhost Communication",BCU Kids Plus HD
+#EXTINF:-1 group-title="Interhost Communication",BCU Kids+ HD
 http://stream.rutvportal.com:8085/BCUKidsPlusHD/video.m3u8
 #EXTINF:-1 group-title="Interhost Communication",BCU Criminal HD
 http://stream.rutvportal.com:8085/BCUCriminalHD/video.m3u8
