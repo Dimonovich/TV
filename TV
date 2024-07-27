@@ -695,11 +695,13 @@ http://stream.rutvportal.com:8085/MatchFutbol2HD/video.m3u8
 http://stream.rutvportal.com:8085/MatchFutbol3HD/video.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Матч ТВ HD
 http://stream.rutvportal.com:8085/MatchTVHD/video.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч Премьер HD
+http://stream.rutvportal.com:8085/MatchPremierHD/video.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Игра HD
 http://stream.rutvportal.com:8085/MatchIgraHD/video.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Арена HD
 http://stream.rutvportal.com:8085/MatchArenaHD/video.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Старана HD
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Страна HD
 http://stream.rutvportal.com:8085/MatchStranaHD/video.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Планета
 http://stream.rutvportal.com:8085/MatchPlaneta/video.m3u8
