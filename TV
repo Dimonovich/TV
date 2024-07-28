@@ -979,6 +979,8 @@ http://stream.rutvportal.com:8085/KVNTV/video.m3u8
 http://tinyurl.com/TvZaTako/EuronewsHD/video.m3u8
 #EXTINF:-1 group-title="Interhost Communication",Мосфильм. Золотая коллекция HD
 http://stream.rutvportal.com:8085/MosfilmHD/video.m3u8
+#EXTINF:-1 group-title="Interhost Communication",Русский Экстрим
+http://stream.rutvportal.com:8085/HDREX/video.m3u8
 #EXTINF:-1 group-title="Interhost Communication",Мужской
 http://stream.rutvportal.com:8085/Muzhskoy/video.m3u8
 #EXTINF:-1 group-title="Interhost Communication",Ностальгия
