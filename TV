@@ -912,26 +912,54 @@ http://185.163.194.185:6971/230/mpegts
 
 
 
-#EXTINF:-1 group-title="4K VIDEO" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg" ,HDR 4K ULTRA HD
-https://river-3-320.rutube.ru/hls-vod/Dhv5k9R7Oc8R8O0oWOITNw/1722800214/1816/0x5000c500c897aa45/8baceb688d3548c0a29a40f3980bceea.mp4.m3u8?i=3840x2160
-#EXTINF:-1 group-title="4K VIDEO" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg" ,COLORFUL WORLD ANIMALS - ANIMALS SOUNDS
-https://river-3-312.rutube.ru/hls-vod/3Xs-Bt0EmQn9OkpBL61kxg/1722800471/2193/0x5000c500e74f9e90/44fa52380d5648fe8b8c49571feba70e.mp4.m3u8?i=3840x2160
-#EXTINF:-1 group-title="4K VIDEO" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg" ,4K 60fps
-https://river-3-318.rutube.ru/hls-vod/_5K1Qb0wLpwX9GNJkRv5uQ/1722800622/1802/0x5000c500db111d72/fc85c4ba867d442f8c3161a0ff3045fe.mp4.m3u8?i=3840x2160
-#EXTINF:-1 group-title="4K VIDEO" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg" ,4K 60fps COLORFUL WORLD - TRUE CINEMATIC 
-https://river-3-302.rutube.ru/hls-vod/uI4DfNyCyJb6nmqLSDlMcw/1722800679/2199/0x5000c500e7189664/5b568af64882481c850fa2e1fe591cdd.mp4.m3u8?i=3840x2160
-#EXTINF:-1 group-title="4K VIDEO" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg" ,4K 60fps Удивительные животные
-https://river-3-317.rutube.ru/hls-vod/XijfJKuZEPqr2fVDonnypA/1722800755/1772/0x5000c500db80bc6a/80e76c2d86c74a98a6d49b3d3f5abf97.mp4.m3u8?i=3840x2160
-#EXTINF:-1 group-title="4K VIDEO" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg" ,Перу 4K 60fp
-https://river-3-316.rutube.ru/hls-vod/wvGE5hxP2BqkCAoZUR9REw/1722801028/1875/0x5000c500e53957cd/30b0c3590b9e4880a6a00ac6fea26165.mp4.m3u8?i=3840x2160
-#EXTINF:-1 group-title="4K VIDEO" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg" ,Demo 4K HDR 60fps
-https://river-3-312.rutube.ru/hls-vod/hfzizAfoHFD5Sgfr_Sm2tA/1722801124/1764/0x5000c500e34b76b7/e2871e209eb74d2ca924c256233583d7.mp4.m3u8?i=3840x2160
-#EXTINF:-1 group-title="4K VIDEO" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg" ,Аляска 4K 60fps
-https://river-3-301.rutube.ru/hls-vod/5hZc0SFb5xBmv8YN5nasMw/1722801271/1879/0x5000c500e5356ed6/4b2f01657cbb48109f10291e30b69f10.mp4.m3u8?i=3840x2160
-#EXTINF:-1 group-title="4K VIDEO" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg" ,THE MOST BEAUTIFUL 4K 60fps
-https://river-3-302.rutube.ru/hls-vod/fBotwxta0sg8vmGlQlvFdQ/1722801487/2229/0x5000c500e658a29c/e7c39d45322d4f3c9e8ad0fdc9a9b1ff.mp4.m3u8?i=3840x2160
-#EXTINF:-1 group-title="4K VIDEO" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg" ,PARADISE ON EARTH Best Travel
-https://river-5-515.rutube.ru/hls-vod/1JMICkkI34D_0m19OYVRTg/1722801632/2201/0x5000c5007446b38a/476aba05d6d94a1f8d799a4879737540.mp4.m3u8?i=3840x2160
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg" ,4K ULTRA HD
+https://river-3-320.rutube.ru/hls-vod/cQbGGcQscT4t_vfQKZ3jQg/1722881380/1796/0x5000c5007443177b/8baceb688d3548c0a29a40f3980bceea.mp4/.m3u8?i=3840x2160
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg" ,COLORFUL WORLD ANIMALS - ANIMALS SOUNDS
+https://river-3-312.rutube.ru/hls-vod/-lrWSBITMQaZlM0t8Aq47A/1722881417/2211/0x5000c500e72ad81b/44fa52380d5648fe8b8c49571feba70e.mp4.m3u8?i=3840x2160
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg" ,4K 60fps
+https://river-3-318.rutube.ru/hls-vod/dx9yCybDoVE6hLQCS-jbhQ/1722881447/1786/0x5000c500c8a5aa7f/fc85c4ba867d442f8c3161a0ff3045fe.mp4.m3u8?i=3840x2160
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg" ,4K 60fps COLORFUL WORLD - TRUE CINEMATIC
+https://river-3-302.rutube.ru/hls-vod/X5hYd2SMBGuA7tB6NKn_SQ/1722881483/2199/0x5000c500e7189664/5b568af64882481c850fa2e1fe591cdd.mp4.m3u8?i=3840x2160
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg" ,4K 60fps Удивительные животные
+https://river-3-317.rutube.ru/hls-vod/jpmV3VxyCKjNc7W0HZhYDA/1722881506/1824/0x5000c500c87a1b98/80e76c2d86c74a98a6d49b3d3f5abf97.mp4.m3u8?i=3840x2160
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg" ,Перу 4K 60fps
+https://river-3-316.rutube.ru/hls-vod/xkHe17RSQnV8pJKVXKoqcQ/1722881530/1893/0x5000c500e539c5d1/30b0c3590b9e4880a6a00ac6fea26165.mp4.m3u8?i=3840x2160
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg" ,Demo 4K 60fps
+https://river-3-312.rutube.ru/hls-vod/jLFkFAJOFY6FHvyILvCG1g/1722881552/1764/0x5000c500e34b76b7/e2871e209eb74d2ca924c256233583d7.mp4.m3u8?i=3840x2160
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg" ,Аляска 4K 60fps
+https://river-3-301.rutube.ru/hls-vod/wB2B_6QOXHsYwb9TpqlqJA/1722881576/1889/0x5000c500e538249f/4b2f01657cbb48109f10291e30b69f10.mp4.m3u8?i=3840x2160
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg" ,THE MOST BEAUTIFUL 4K 60fps
+https://river-3-311.rutube.ru/hls-vod/-qL2IRcVGW8kBlc7cf-UYg/1722881603/2169/0x5000c500e751a26d/e7c39d45322d4f3c9e8ad0fdc9a9b1ff.mp4.m3u8?i=3840x2160
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg" ,PARADISE ON EARTH Best Travel
+https://river-5-515.rutube.ru/hls-vod/wBBf01qWokC2xzGQ18EN5A/1722881633/2201/0x5000c5007446b38a/476aba05d6d94a1f8d799a4879737540.mp4.m3u8?i=3840x2160
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg" ,ТУРЦИЯ в 4K
+https://river-3-318.rutube.ru/hls-vod/Nl6sdDo-RlRunHML20P2yw/1722880597/1848/0x5000cca2842313e4/1295d7750d224feba3eede8e73f16f7a.mp4.m3u8?i=3840x2160
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg" ,Манила в 4K
+https://river-3-316.rutube.ru/hls-vod/EOyLFgo3WYEaVAKMq1fVFg/1722880691/1776/0x5000c500d6d906ed/c541fdacbbda415fb50a782ad5d1fcf9.mp4.m3u8?i=3840x2160
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg" ,Невероятная Красота 4K
+https://river-3-304.rutube.ru/hls-vod/rFeJpxZFaQYlHTBK119zTg/1722880758/1770/0x5000c500c58d6607/556a1a55f7d541ac9aecbe8f1378f025.mp4.m3u8?i=3840x2160
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg" ,Mind Blowing 4K
+https://river-5-513.rutube.ru/hls-vod/VaIUNf1LHicpUq9zvouGHg/1722880853/1766/0x5000c500e34c00f5/f677cdd74de344c7ad26a748f42e912f.mp4.m3u8?i=3840x2160
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg" ,Каттегат в 4К С Музыкой Викингов
+https://river-3-304.rutube.ru/hls-vod/IzIyUBo9ChGmZxCXQ0F9zA/1722880907/1842/0x5000cca2841edef0/2b992c6cdb9d4df1ab6935813e352b05.mp4.m3u8?i=3840x2160
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg" ,Пакистан в 4К
+https://river-5-512.rutube.ru/hls-vod/c7HqUIVJSfrsqC2-hzS6hg/1722880963/1796/0x5000c500c884be1b/d2deee2b1e68476daa2645ef36da01db.mp4.m3u8?i=3840x2160
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg" ,Бора-Бора в 4К
+https://river-5-515.rutube.ru/hls-vod/3S-YP048Qp_2Vo7M7XsONA/1722881002/1887/0x5000c500e53a12cf/2421863b9a0e4c9ea67de9fe0855f530.mp4.m3u8?i=3840x2160
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg" ,Намибия в 4К
+https://river-3-320.rutube.ru/hls-vod/mzu7Ta74C4igjs5j2B_dBg/1722881051/1820/0x5000c500c45b3ee6/881a26935b1f4adb927b518c0b77d489.mp4.m3u8?i=3840x2160
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg" ,Серенгети в 4К
+https://river-3-320.rutube.ru/hls-vod/12aYgW4KoL6_8bO3LeFcOg/1722881097/1796/0x5000c500c99753ea/174e9ce15c7d4baebec7149609e7ea17.mp4.m3u8?i=3840x2160
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg" ,Морокко в 4К
+https://river-3-319.rutube.ru/hls-vod/vZO6vgbxRBfdMHnXRuXsBA/1722881135/1768/0x5000c500e34c9a66/2a52b66f92314c188a9781d462cf8b3e.mp4.m3u8?i=3840x2160
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg" ,Мальдивам в 4К
+https://river-3-312.rutube.ru/hls-vod/5kjMz4s5lYcpxyOsN8cNCg/1722881181/1846/0x5000c500c7262c36/344cdc5a75cd406a9c81daa62c025492.mp4.m3u8?i=3840x2160
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg" ,Дубай в 4K
+https://river-5-512.rutube.ru/hls-vod/SoeWIXx4oFulZNdCuWQdiw/1722881244/1798/0x5000c500dbb6334e/63d24580fb304a30a0daa941446ffe7d.mp4.m3u8?i=3840x2160
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg" ,Германия в 4K
+https://river-5-511.rutube.ru/hls-vod/BPo6oh-E0OtD3TYigAQaRw/1722881285/1776/0x5000c500c92079c7/b46cf235dbb14ddcbabe81d4f63a9fd4.mp4.m3u8?i=3840x2160
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg" ,Карибы в 4К
+https://river-3-318.rutube.ru/hls-vod/_azbdAhv07rmN0nV7S-FCg/1722881325/1782/0x5000c500c3291750/c002696df2d3474e95bf422d74a10427.mp4.m3u8?i=3840x2160
 
 
 
