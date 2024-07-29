@@ -293,6 +293,8 @@ https://stream2.cinerama.uz/1415/tracks-v1a1/mono.m3u8
 https://stream2.cinerama.uz/1413/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Turon Media",Охота и Рыбалка
 https://stream2.cinerama.uz/1038/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Turon Media",Загородный
+https://stream2.cinerama.uz/1044/tracks-v1a1/mono.m3u88
 #EXTINF:-1 group-title="Turon Media",Наша Сибирь
 https://stream2.cinerama.uz/1424/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Turon Media",Animal Planet
@@ -315,9 +317,9 @@ https://stream2.cinerama.uz/1228/tracks-v1a1/mono.m3u8
 https://stream2.cinerama.uz/1046/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Turon Media",Viasat Explore
 https://stream2.cinerama.uz/1045/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media",NAT GEO WILD HD
+#EXTINF:-1 group-title="Turon Media",NAT GEO WILD
 https://stream2.cinerama.uz/1042/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media",NAT GEO HD
+#EXTINF:-1 group-title="Turon Media",National Geographic
 https://stream2.cinerama.uz/1041/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Turon Media",Insight TV HD
 https://stream2.cinerama.uz/1416/tracks-v1a1/mono.m3u8
@@ -327,7 +329,7 @@ https://stream2.cinerama.uz/1222/tracks-v1a1/mono.m3u8
 https://stream2.cinerama.uz/1266/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Turon Media",Discovery Science
 https://stream2.cinerama.uz/1040/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media",Discovery Channel HD
+#EXTINF:-1 group-title="Turon Media",Discovery Channel
 https://stream2.cinerama.uz/1039/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Turon Media",Живая Планета
 https://stream2.cinerama.uz/1250/tracks-v1a1/mono.m3u8
@@ -341,26 +343,22 @@ https://stream2.cinerama.uz/1025/tracks-v1a1/mono.m3u8
 https://stream2.cinerama.uz/1435/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Turon Media",Сарафан
 https://stream2.cinerama.uz/1249/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media",Рыжий
-https://stream2.cinerama.uz/1407/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media",Родное Кино
-https://stream2.cinerama.uz/1052/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Turon Media",Ретро
 https://stream2.cinerama.uz/1047/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Turon Media",РБК
 https://stream2.cinerama.uz/1438/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media",Наше Новое Кино
-https://stream2.cinerama.uz/1051/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media",Мультиландия
-https://stream2.cinerama.uz/1440/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media",Мульт
-https://stream2.cinerama.uz/1246/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Turon Media",Мир 24
 https://stream2.cinerama.uz/1219/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Turon Media",Мир
 https://stream2.cinerama.uz/1218/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Turon Media",Кухня ТВ
 https://stream2.cinerama.uz/1236/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Turon Media",Кинопоказ
+https://stream2.cinerama.uz/1057/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Turon Media",Наше Новое Кино
+https://stream2.cinerama.uz/1051/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Turon Media",Родное Кино
+https://stream2.cinerama.uz/1052/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Turon Media",Кинохит
 https://stream2.cinerama.uz/1055/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Turon Media",Киносерия
@@ -371,28 +369,22 @@ https://stream2.cinerama.uz/1234/tracks-v1a1/mono.m3u8
 https://stream2.cinerama.uz/1203/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Turon Media",Кинопремьера
 https://stream2.cinerama.uz/1207/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media",Кинопоказ
-https://stream2.cinerama.uz/1057/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Turon Media",Киномикс
 https://stream2.cinerama.uz/1233/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Turon Media",Кинокомедия
 https://stream2.cinerama.uz/1232/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media",Карусель
-https://stream2.cinerama.uz/1034/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Turon Media",Индийское Кино
+https://stream2.cinerama.uz/1060/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Turon Media",Капитан Фантастика HD
 https://stream2.cinerama.uz/1406/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Turon Media",Казахстан 24
 https://stream2.cinerama.uz/1408/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media",Индийское Кино
-https://stream2.cinerama.uz/1060/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Turon Media",Зоопарк
 https://stream2.cinerama.uz/1417/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Turon Media",Здоровое ТВ
 https://stream2.cinerama.uz/1428/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Turon Media",Звезда
 https://stream2.cinerama.uz/1050/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media",Загородный
-https://stream2.cinerama.uz/1044/tracks-v1a1/mono.m3u88
 #EXTINF:-1 group-title="Turon Media",Живи Активно HD
 https://stream2.cinerama.uz/1405/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Turon Media",Живи
@@ -437,21 +429,21 @@ https://stream2.cinerama.uz/1257/tracks-v1a1/mono.m3u8
 https://stream2.cinerama.uz/1258/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Turon Media",Toshkent
 https://stream2.cinerama.uz/1003/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media",Taraqqiyot
+#EXTINF:-1 group-title="Turon Media",Taraqqiyot TV UZ
 https://stream2.cinerama.uz/1204/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media",Sevimili
+#EXTINF:-1 group-title="Turon Media",Sevimili UZ
 https://stream2.cinerama.uz/1017/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media",Ruxsor TV
+#EXTINF:-1 group-title="Turon Media",Ruxsor TV UZ
 https://stream2.cinerama.uz/1260/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media",Renessans TV
+#EXTINF:-1 group-title="Turon Media",Renessans TV UZ
 https://stream2.cinerama.uz/1221/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Turon Media",Qasaqstan
 https://stream2.cinerama.uz/1431/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media",Ozbekiston Tarixi
+#EXTINF:-1 group-title="Turon Media",Ozbekiston Tarixi HD UZ
 https://stream2.cinerama.uz/1209/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media",Ozbekiston 24
+#EXTINF:-1 group-title="Turon Media",Uzbekistan 24
 https://stream2.cinerama.uz/1011/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media",Nurafshon
+#EXTINF:-1 group-title="Turon Media",Nurafshon TV UZ
 https://stream2.cinerama.uz/1220/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Turon Media",Ntv UZ
 https://stream2.cinerama.uz/1284/tracks-v1a1/mono.m3u8
@@ -465,17 +457,15 @@ https://stream2.cinerama.uz/1449/tracks-v1a1/mono.m3u8
 https://stream2.cinerama.uz/1452/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Turon Media",Myday TV
 https://stream2.cinerama.uz/1265/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media",My 5
+#EXTINF:-1 group-title="Turon Media",My5 UZ
 https://stream2.cinerama.uz/1217/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Turon Media",Museum HD
 https://stream2.cinerama.uz/1451/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media",Milly TV
+#EXTINF:-1 group-title="Turon Media",Milliy TV UZ
 https://stream2.cinerama.uz/1014/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media",Milly
-https://stream2.cinerama.uz/1216/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Turon Media",Mezzo Life HD
 https://stream2.cinerama.uz/1450/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media",Mening Yurtm
+#EXTINF:-1 group-title="Turon Media",Mening Yurtim FHD UZ
 https://stream2.cinerama.uz/1012/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Turon Media",Mahalla
 https://stream2.cinerama.uz/1013/tracks-v1a1/mono.m3u8
@@ -493,9 +483,9 @@ https://stream2.cinerama.uz/1283/tracks-v1a1/mono.m3u8
 https://stream2.cinerama.uz/1443/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Turon Media",France 24
 https://stream2.cinerama.uz/1241/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media",Fox-News
+#EXTINF:-1 group-title="Turon Media",Fox News
 https://stream2.cinerama.uz/1252/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media",Forelgn languages
+#EXTINF:-1 group-title="Turon Media",Foreign Languages UZ
 https://stream2.cinerama.uz/1010/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Turon Media",Fashion TV
 https://stream2.cinerama.uz/1053/tracks-v1a1/mono.m3u8
@@ -503,9 +493,7 @@ https://stream2.cinerama.uz/1053/tracks-v1a1/mono.m3u8
 https://stream2.cinerama.uz/1024/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Turon Media",English Club
 https://stream2.cinerama.uz/1442/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media",DW
-https://stream2.cinerama.uz/1418/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media",Dunyo boylab
+#EXTINF:-1 group-title="Turon Media",Dunyo bo`ylab UZ
 https://stream2.cinerama.uz/1006/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Turon Media",CNN
 https://stream2.cinerama.uz/1259/tracks-v1a1/mono.m3u8
@@ -519,16 +507,14 @@ https://stream2.cinerama.uz/1444/tracks-v1a1/mono.m3u8
 https://stream2.cinerama.uz/1007/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Turon Media",Bloomberg
 https://stream2.cinerama.uz/1255/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media",Biz Сиеста
+#EXTINF:-1 group-title="Turon Media",Biz Cinema UZ
 https://stream2.cinerama.uz/1213/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media",Biz TV
+#EXTINF:-1 group-title="Turon Media",BizTV HD UZ
 https://stream2.cinerama.uz/1211/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Turon Media",BBC WORLD
 https://stream2.cinerama.uz/1251/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media",Aqlvoy
+#EXTINF:-1 group-title="Turon Media",Aqlvoy TV UZ
 https://stream2.cinerama.uz/1205/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media",Aiva
-https://stream2.cinerama.uz/1268/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Turon Media",8 Канал
 https://stream2.cinerama.uz/1262/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Turon Media",365 Дней HD
@@ -537,16 +523,24 @@ https://stream2.cinerama.uz/1242/tracks-v1a1/mono.m3u8
 https://stream2.cinerama.uz/1271/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Turon Media",Детский Мир
 https://stream2.cinerama.uz/1032/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Turon Media",Рыжий
+https://stream2.cinerama.uz/1407/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Turon Media",Мама
 https://stream2.cinerama.uz/1244/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Turon Media",Уникум
 https://stream2.cinerama.uz/1033/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Turon Media",СТС Kids
 https://stream2.cinerama.uz/1437/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Turon Media",Карусель
+https://stream2.cinerama.uz/1034/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Turon Media",Da Vinci
 https://stream2.cinerama.uz/1231/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media",Смайл ТВ
+#EXTINF:-1 group-title="Turon Media",Смайлик ТВ
 https://stream2.cinerama.uz/1425/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Turon Media",Мультиландия
+https://stream2.cinerama.uz/1440/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Turon Media",Мульт
+https://stream2.cinerama.uz/1246/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Turon Media",В Гостях У Сказки
 https://stream2.cinerama.uz/1270/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Turon Media",Tiji
@@ -561,6 +555,8 @@ https://stream2.cinerama.uz/1238/tracks-v1a1/mono.m3u8
 https://stream2.cinerama.uz/1018/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Turon Media",ТНТ Music
 https://stream2.cinerama.uz/1272/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Turon Media",Aiva
+https://stream2.cinerama.uz/1268/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Turon Media",МузТВ
 https://stream2.cinerama.uz/1200/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Turon Media",Муз ТВ UZ
@@ -571,7 +567,7 @@ https://stream2.cinerama.uz/1202/tracks-v1a1/mono.m3u8
 https://stream2.cinerama.uz/1245/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Turon Media",Bridge TV Classic
 https://stream2.cinerama.uz/1269/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media",Biz Music
+#EXTINF:-1 group-title="Turon Media",Biz Music HD UZ
 https://stream2.cinerama.uz/1212/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Turon Media",1HD
 https://stream2.cinerama.uz/1267/tracks-v1a1/mono.m3u8
@@ -579,7 +575,7 @@ https://stream2.cinerama.uz/1267/tracks-v1a1/mono.m3u8
 https://stream2.cinerama.uz/1274/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Turon Media",Uzreport HD
 https://stream2.cinerama.uz/1015/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media",Uz Sport HD
+#EXTINF:-1 group-title="Turon Media",UzSport
 https://stream2.cinerama.uz/1004/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Turon Media", Setanta Sports 1 HD
 https://stream2.cinerama.uz/1263/tracks-v1a1/mono.m3u8
