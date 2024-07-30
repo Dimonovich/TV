@@ -278,6 +278,10 @@ http://89.104.114.2:8080/tnt-4/index.m3u8
 http://89.104.114.2:8080/ntv/index.m3u8
 #EXTINF:-1 group-title="MEDIAOPERATOR-AS",НТВ HD
 http://89.104.114.2:8080/ntv_hd/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",РОССИЯ 1
+http://89.104.114.2:8080/rossiya_1/mono.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",РОССИЯ 1 HD
+http://89.104.114.2:8080/rossia_hd/mono.m3u8
 #EXTINF:-1 group-title="MEDIAOPERATOR-AS",Москва 24
 http://89.104.114.2:8080/moskva_24/index.m3u8
 #EXTINF:-1 group-title="MEDIAOPERATOR-AS",НТВ Хит
@@ -314,13 +318,15 @@ http://89.104.114.2:8080/ohot_i_rybolov_hd/index.m3u8
 http://89.104.114.2:8080/natgeo/index.m3u8
 #EXTINF:-1 group-title="MEDIAOPERATOR-AS",TERRA HD
 http://89.104.114.2:8080/natgeo_hd/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",БОЛЬШАЯ АЗИЯ HD
+http://89.104.114.18:8080/world-fashion/mono.m3u8
 #EXTINF:-1 group-title="MEDIAOPERATOR-AS",Техно 24
 http://89.104.114.2:8080/t24/index.m3u8
 #EXTINF:-1 group-title="MEDIAOPERATOR-AS",Планета HD
 http://89.104.114.2:8080/planeta_hd/index.m3u8
 #EXTINF:-1 group-title="MEDIAOPERATOR-AS",Телепутешествия
 http://89.104.114.2:8080/teleputeshestviya/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Телепутешествия HD
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Приключения HD
 http://89.104.114.2:8080/teletravel_hd/index.m3u8
 #EXTINF:-1 group-title="MEDIAOPERATOR-AS",Живая планета
 http://89.104.114.2:8080/zhivaya-planeta/index.m3u8
@@ -416,9 +422,9 @@ http://89.104.114.2:8080/kamedi_hd/index.m3u8
 http://89.104.114.2:8080/komediya/index.m3u8
 #EXTINF:-1 group-title="MEDIAOPERATOR-AS",Кино ТВ HD
 http://89.104.114.2:8080/kino_tv_hd/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Kinojam1 HD
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Kinojam 1 HD
 http://89.104.114.2:8080/kinojam1/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Kinojam2 HD
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Kinojam 2 HD
 http://89.104.114.2:8080/kinojam2/index.m3u8
 #EXTINF:-1 group-title="MEDIAOPERATOR-AS",Кинопоказ
 http://89.104.114.2:8080/kinopokaz/index.m3u8
