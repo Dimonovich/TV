@@ -2975,6 +2975,8 @@ http://188.190.222.48:8765/9volna/tracks-v1a1/mono.m3u8
 http://188.190.222.48:8765/Cinema_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="MIK LLC (VPN)",Душевное HD
 http://188.190.222.48:8765/Dushevnoe_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="MIK LLC (VPN)",Amedia 2 HD
+http://188.190.222.48:8765/Amedia2_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="MIK LLC (VPN)",Fashionbox
 http://188.190.222.48:8765/Fashionbox/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="MIK LLC (VPN)",Gags Network
