@@ -3015,7 +3015,7 @@ http://130.193.124.214:8000/play/a0bn/index.m3u8
 http://130.193.124.214:8010/play/ae21/index.m3u8
 #EXTINF:-1 group-title="ДЖИЭНСИ-АЛЬФА (VPN)",Euronews
 http://130.193.124.214:8000/play/jm14/index.m3u8
-#EXTINF:-1 group-title="ДЖИЭНСИ-АЛЬФА (VPN)",H2
+#EXTINF:-1 group-title="ДЖИЭНСИ-АЛЬФА (VPN)",H2 AM
 http://130.193.124.214:8000/play/jm12/index.m3u8
 #EXTINF:-1 group-title="ДЖИЭНСИ-АЛЬФА (VPN)",ATV
 http://130.193.124.214:8002/play/ar15/index.m3u8
@@ -3041,8 +3041,6 @@ http://130.193.124.214:8002/play/ar14/index.m3u8
 http://130.193.124.214:8002/play/ar11/index.m3u8
 #EXTINF:-1 group-title="ДЖИЭНСИ-АЛЬФА (VPN)",Docubox
 http://130.193.124.214:8004/play/ab14/index.m3u8
-#EXTINF:-1 group-title="ДЖИЭНСИ-АЛЬФА (VPN)",КИНОПРЕМЬЕРА HD
-http://130.193.124.214:8004/play/ab20/index.m3u8
 #EXTINF:-1 group-title="ДЖИЭНСИ-АЛЬФА (VPN)",Победа
 http://130.193.124.214:8004/play/ab11/index.m3u8
 #EXTINF:-1 group-title="ДЖИЭНСИ-АЛЬФА (VPN)",Пятница
@@ -3055,8 +3053,6 @@ http://130.193.124.214:8006/play/ac19/index.m3u8
 http://130.193.124.214:8006/play/ac12/index.m3u8
 #EXTINF:-1 group-title="ДЖИЭНСИ-АЛЬФА (VPN)",Русский Иллюзион
 http://130.193.124.214:8006/play/ac15/index.m3u8
-#EXTINF:-1 group-title="ДЖИЭНСИ-АЛЬФА (VPN)",Amedia Hit HD
-http://130.193.124.214:8008/play/ad12/index.m3u8
 #EXTINF:-1 group-title="ДЖИЭНСИ-АЛЬФА (VPN)",VIP Comedy
 http://130.193.124.214:8008/play/ad15/index.m3u8
 #EXTINF:-1 group-title="ДЖИЭНСИ-АЛЬФА (VPN)",VIP Megahit
@@ -3069,6 +3065,8 @@ http://130.193.124.214:8008/play/ad18/index.m3u8
 http://130.193.124.214:8008/play/ad10/index.m3u8
 #EXTINF:-1 group-title="ДЖИЭНСИ-АЛЬФА (VPN)",2x2
 http://130.193.124.214:8010/play/ae12/index.m3u8
+#EXTINF:-1 group-title="ДЖИЭНСИ-АЛЬФА (VPN)",Amedia Hit HD
+http://130.193.124.214:8008/play/ad12/index.m3u8
 #EXTINF:-1 group-title="ДЖИЭНСИ-АЛЬФА (VPN)",Amedia 1
 http://130.193.124.214:8010/play/ae16/index.m3u8
 #EXTINF:-1 group-title="ДЖИЭНСИ-АЛЬФА (VPN)",Amedia 2 HD
@@ -3081,6 +3079,8 @@ http://130.193.124.214:8006/play/ac13/index.m3u8
 http://130.193.124.214:8008/play/ad20/index.m3u8
 #EXTINF:-1 group-title="ДЖИЭНСИ-АЛЬФА (VPN)",Киносемья HD
 http://130.193.124.214:8010/play/ae10/index.m3u8
+#EXTINF:-1 group-title="ДЖИЭНСИ-АЛЬФА (VPN)",КИНОПРЕМЬЕРА HD
+http://130.193.124.214:8004/play/ab20/index.m3u8
 #EXTINF:-1 group-title="ДЖИЭНСИ-АЛЬФА (VPN)",МУЖСКОЕ КИНО
 http://130.193.124.214:8014/play/ag11/index.m3u8
 #EXTINF:-1 group-title="ДЖИЭНСИ-АЛЬФА (VPN)",ИНДИЙСКОЕ КИНО
@@ -3217,7 +3217,7 @@ http://130.193.124.214:8004/play/ab16/index.m3u8
 http://130.193.124.214:8010/play/ae19/index.m3u8
 #EXTINF:-1 group-title="ДЖИЭНСИ-АЛЬФА (VPN)",СТАРТ HD
 http://130.193.124.214:8034/play/a014/index.m3u8
-#EXTINF:-1 group-title="ДЖИЭНСИ-АЛЬФА (VPN)",Extreme Sport
+#EXTINF:-1 group-title="ДЖИЭНСИ-АЛЬФА (VPN)",Extreme Sports
 http://130.193.124.214:8006/play/ac18/index.m3u8
 #EXTINF:-1 group-title="ДЖИЭНСИ-АЛЬФА (VPN)",Fastsports
 http://130.193.124.214:8002/play/as10/index.m3u8
