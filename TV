@@ -188,26 +188,18 @@ http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_EKB1/hls/1024x576@2024/playlis
 http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1920x1080@4504/playlist.m3u8
 
 
-
-
-
-#EXTINF:-1 group-title="Медиахолдинг Taurer.Org" tvg-logo="https://sunset-media.ru/assets/logos/space.png" ,Sunset Space
+#EXTINF:-1 group-title="Sunset" tvg-logo="https://sunset-media.ru/assets/logos/space.png" ,Sunset Space
 https://stream.sunset-media.ru:443/Free/Free/3.m3u8
-#EXTINF:-1 group-title="Медиахолдинг Taurer.Org" tvg-logo="https://sunset-media.ru/assets/logos/movie.png" ,Sunset Movie
+#EXTINF:-1 group-title="Sunset" tvg-logo="https://sunset-media.ru/assets/logos/movie.png" ,Sunset Movie
 https://stream.sunset-media.ru:443/Free/Free/1.m3u8
-#EXTINF:-1 group-title="Медиахолдинг Taurer.Org" tvg-logo="https://sunset-media.ru/assets/logos/music.png" ,Sunset Music
+#EXTINF:-1 group-title="Sunset" tvg-logo="https://sunset-media.ru/assets/logos/music.png" ,Sunset Music
 https://stream.sunset-media.ru:443/Free/Free/2.m3u8
-#EXTINF:-1 group-title="Медиахолдинг Taurer.Org" tvg-logo="https://sunset-media.ru/assets/logos/kids.png" ,Sunset Kids
+#EXTINF:-1 group-title="Sunset" tvg-logo="https://sunset-media.ru/assets/logos/kids.png" ,Sunset Kids
 https://stream.sunset-media.ru:443/Free/Free/4.m3u8
-#EXTINF:-1 group-title="Медиахолдинг Taurer.Org" tvg-logo="https://sunset-media.ru/assets/logos/anime.png" ,Sunset Anime
+#EXTINF:-1 group-title="Sunset" tvg-logo="https://sunset-media.ru/assets/logos/anime.png" ,Sunset Anime
 https://stream.sunset-media.ru/Free/Free/5.m3u8
-#EXTINF:-1 group-title="Медиахолдинг Taurer.Org" tvg-logo="https://sunset-media.ru/assets/logos/sport.png" ,Sunset Sport
+#EXTINF:-1 group-title="Sunset" tvg-logo="https://sunset-media.ru/assets/logos/sport.png" ,Sunset Sport
 https://stream.sunset-media.ru/Free/Free/6.m3u8
-
-
-
-
-
 
 
 
