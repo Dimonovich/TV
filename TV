@@ -21,6 +21,18 @@ http://194.26.229.213/chdtv_rock/index.m3u8
 http://194.26.229.213/souzmultfilm/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/BvqS8HVV/1.png",Чип и Дейл
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://sunset-media.ru/assets/logos/space.png" ,Sunset Space
+https://stream.sunset-media.ru:443/Free/Free/3.m3u8
+#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://sunset-media.ru/assets/logos/movie.png" ,Sunset Movie
+https://stream.sunset-media.ru:443/Free/Free/1.m3u8
+#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://sunset-media.ru/assets/logos/music.png" ,Sunset Music
+https://stream.sunset-media.ru:443/Free/Free/2.m3u8
+#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://sunset-media.ru/assets/logos/kids.png" ,Sunset Kids
+https://stream.sunset-media.ru:443/Free/Free/4.m3u8
+#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://sunset-media.ru/assets/logos/anime.png" ,Sunset Anime
+https://stream.sunset-media.ru/Free/Free/5.m3u8
+#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://sunset-media.ru/assets/logos/sport.png" ,Sunset Sport
+https://stream.sunset-media.ru/Free/Free/6.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Первый Канал HD
 https://st1.uzdigital.tv/Perviy_KanalHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Точка отрыва
@@ -188,32 +200,6 @@ http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_EKB1/hls/1024x576@2024/playlis
 http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1920x1080@4504/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Sunset" tvg-logo="https://sunset-media.ru/assets/logos/space.png" ,Sunset Space
-https://stream.sunset-media.ru:443/Free/Free/3.m3u8
-#EXTINF:-1 group-title="Sunset" tvg-logo="https://sunset-media.ru/assets/logos/movie.png" ,Sunset Movie
-https://stream.sunset-media.ru:443/Free/Free/1.m3u8
-#EXTINF:-1 group-title="Sunset" tvg-logo="https://sunset-media.ru/assets/logos/music.png" ,Sunset Music
-https://stream.sunset-media.ru:443/Free/Free/2.m3u8
-#EXTINF:-1 group-title="Sunset" tvg-logo="https://sunset-media.ru/assets/logos/kids.png" ,Sunset Kids
-https://stream.sunset-media.ru:443/Free/Free/4.m3u8
-#EXTINF:-1 group-title="Sunset" tvg-logo="https://sunset-media.ru/assets/logos/anime.png" ,Sunset Anime
-https://stream.sunset-media.ru/Free/Free/5.m3u8
-#EXTINF:-1 group-title="Sunset" tvg-logo="https://sunset-media.ru/assets/logos/sport.png" ,Sunset Sport
-https://stream.sunset-media.ru/Free/Free/6.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -278,16 +264,12 @@ http://tv.light-net.ru:8002/play/a0bz
 http://tv.light-net.ru:8002/play/a08n
 #EXTINF:-1 group-title="СКС-Лугань",Docubox
 http://tv.light-net.ru:8005/play/a08o
-#EXTINF:-1 group-title="СКС-Лугань",DTX HD
-http://tv.light-net.ru:8002/play/a0c3
 #EXTINF:-1 group-title="СКС-Лугань",HD Life
 http://tv.light-net.ru:8004/play/a00t
 #EXTINF:-1 group-title="СКС-Лугань",Galaxy TV HD
 http://tv.light-net.ru:8005/play/a06x
 #EXTINF:-1 group-title="СКС-Лугань",HGTV HD
 http://tv.light-net.ru:8002/play/a0c2
-#EXTINF:-1 group-title="СКС-Лугань",H2 HD
-http://tv.light-net.ru:8004/play/a06k
 #EXTINF:-1 group-title="СКС-Лугань",RTG HD
 http://tv.light-net.ru:8004/play/a015
 #EXTINF:-1 group-title="СКС-Лугань",RTG TV
@@ -302,7 +284,7 @@ http://tv.light-net.ru:8002/play/a01h
 http://tv.light-net.ru:8002/play/a09o
 #EXTINF:-1 group-title="СКС-Лугань",Viasat Nature
 http://tv.light-net.ru:8002/play/a01i
-#EXTINF:-1 group-title="СКС-Лугань",Viasat Nature/History HD
+#EXTINF:-1 group-title="СКС-Лугань",Viju+ Planet
 http://tv.light-net.ru:8002/play/a01j
 #EXTINF:-1 group-title="СКС-Лугань",viju Explore
 http://tv.light-net.ru:8005/play/a01h
@@ -490,8 +472,6 @@ http://tv.light-net.ru:8005/play/a05w
 http://tv.light-net.ru:8005/play/a09n
 #EXTINF:-1 group-title="СКС-Лугань",Ultra HD Cinema
 http://tv.light-net.ru:8005/play/a05x
-#EXTINF:-1 group-title="СКС-Лугань",viju Sport
-http://tv.light-net.ru:8004/play/a01k
 #EXTINF:-1 group-title="СКС-Лугань",TV1000
 http://tv.light-net.ru:8004/play/a01e
 #EXTINF:-1 group-title="СКС-Лугань",TV1000 Action
@@ -940,6 +920,8 @@ http://tv.light-net.ru:8003/play/a072
 http://tv.light-net.ru:8005/play/a00j
 #EXTINF:-1 group-title="СКС-Лугань",Футбол
 http://tv.light-net.ru:8005/play/a07a
+#EXTINF:-1 group-title="СКС-Лугань",Viasat Sport
+http://tv.light-net.ru:8004/play/a01k
 #EXTINF:-1 group-title="СКС-Лугань",KHL
 http://tv.light-net.ru:8003/play/a02j
 #EXTINF:-1 group-title="СКС-Лугань",KHL Prime HD
