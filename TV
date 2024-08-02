@@ -1472,6 +1472,19 @@ http://178.124.179.122:8088/KHL_HD/index.m3u8
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="MEDIAOPERATOR-AS",Первый канал HD
 http://89.104.114.32:8080/ort_hd/index.m3u8
 #EXTINF:-1 group-title="MEDIAOPERATOR-AS",Первый канал
@@ -1492,6 +1505,10 @@ http://89.104.114.2:8080/ntv_hd/index.m3u8
 http://89.104.114.2:8080/rossiya_1/mono.m3u8
 #EXTINF:-1 group-title="MEDIAOPERATOR-AS",РОССИЯ 1 HD
 http://89.104.114.2:8080/rossia_hd/mono.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Россия 24
+http://89.104.114.2:8080/rossia_24/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Россия К
+http://89.104.114.2:8080/rossia_k/index.m3u8
 #EXTINF:-1 group-title="MEDIAOPERATOR-AS",Москва 24
 http://89.104.114.2:8080/moskva_24/index.m3u8
 #EXTINF:-1 group-title="MEDIAOPERATOR-AS",НТВ Хит
@@ -1514,6 +1531,12 @@ http://89.104.114.2:8080/home4k/index.m3u8
 http://89.104.114.2:8080/glazami_turista_hd/index.m3u8
 #EXTINF:-1 group-title="MEDIAOPERATOR-AS",HD Life
 http://89.104.114.2:8080/hd-life/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Рыболов
+http://89.104.114.2:8080/ohotnik/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Открытый мир
+http://89.104.114.2:8080/otkr_mir/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Big Planet HD
+http://89.104.114.2:8080/big_planet_hd/index.m3u8
 #EXTINF:-1 group-title="MEDIAOPERATOR-AS",Моя планета
 http://89.104.114.2:8080/moya_planeta/index.m3u8
 #EXTINF:-1 group-title="MEDIAOPERATOR-AS",Живая природа HD
@@ -1550,8 +1573,6 @@ http://89.104.114.2:8080/oruzhie/index.m3u8
 http://89.104.114.2:8080/2x2/index.m3u8
 #EXTINF:-1 group-title="MEDIAOPERATOR-AS",8 канал
 http://89.104.114.2:8080/8kanal/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Amedia 1
-http://89.104.114.2:8080/amedia/index.m3u8
 #EXTINF:-1 group-title="MEDIAOPERATOR-AS",Arirang
 http://89.104.114.2:8080/arirang/index.m3u8
 #EXTINF:-1 group-title="MEDIAOPERATOR-AS",Че
@@ -1594,6 +1615,10 @@ http://89.104.114.2:8080/pobeda/index.m3u8
 http://89.104.114.2:8080/prosveshenie/index.m3u8
 #EXTINF:-1 group-title="MEDIAOPERATOR-AS",365 дней
 http://89.104.114.2:8080/365_dnej/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Amedia 1
+http://89.104.114.2:8080/amedia/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Amedia 2
+http://89.104.114.2:8080/amedia-2/index.m3u8
 #EXTINF:-1 group-title="MEDIAOPERATOR-AS",Amedia hit HD
 http://89.104.114.2:8080/amedia_hit_hd/index.m3u8
 #EXTINF:-1 group-title="MEDIAOPERATOR-AS",Amedia premium HD
@@ -1604,6 +1629,18 @@ http://89.104.114.2:8080/arsenal_hd/index.m3u8
 http://89.104.114.2:8080/avto_plus/index.m3u8
 #EXTINF:-1 group-title="MEDIAOPERATOR-AS",Блокбастер HD
 http://89.104.114.2:8080/blokbaster_hd/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Cinema HD
+http://89.104.114.2:8080/cinema_hd/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Сапфир HD
+http://89.104.114.2:8080/fox_life_hd/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Про любовь HD
+http://89.104.114.2:8080/pro_lubov_hd/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Русский бестселлер
+http://89.104.114.2:8080/rus-bestseller/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Русский экстрим HD
+http://89.104.114.2:8080/rus-extrim-hd/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Русский роман
+http://89.104.114.2:8080/russki_roman_hd/index.m3u8
 #EXTINF:-1 group-title="MEDIAOPERATOR-AS",Bloomberg
 http://89.104.114.2:8080/bloomberg/index.m3u8
 #EXTINF:-1 group-title="MEDIAOPERATOR-AS",Комедия
@@ -1690,6 +1727,81 @@ http://89.104.114.2:8080/tv1000rus/index.m3u8
 http://89.104.114.2:8080/tv3/index.m3u8
 #EXTINF:-1 group-title="MEDIAOPERATOR-AS",ТВ3 HD
 http://89.104.114.2:8080/tv3_hd/index.m3u8
+
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Пятый канал
+http://89.104.114.2:8080/5_kanal/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",7tv
+http://89.104.114.2:8080/7tv/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",ART
+http://89.104.114.2:8080/art/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",ATV HD
+http://89.104.114.2:8080/atv/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Авто 24
+http://89.104.114.2:8080/avto24/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Центральное телевидение
+http://89.104.114.2:8080/ctv/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Доктор HD
+http://89.104.114.2:8080/doctor/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Дорама HD
+http://89.104.114.2:8080/dorama_hd/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",E TV
+http://89.104.114.2:8080/etv/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Fashion TV
+http://89.104.114.2:8080/fashion_tv/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Известия HD
+http://89.104.114.2:8080/izvestiya/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Жара
+http://89.104.114.2:8080/jara/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Kinoliving HD
+http://89.104.114.2:8080/kinoliving_hd/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Кто куда
+http://89.104.114.2:8080/kto_kuda/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Мир 24
+http://89.104.114.2:8080/mir-24/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Мир
+http://89.104.114.2:8080/mir/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Москва доверие
+http://89.104.114.2:8080/moskva_doverie/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",О!Кино
+http://89.104.114.2:8080/nashe/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",o2 tv HD
+http://89.104.114.2:8080/o2_tv/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Plan B HD
+http://89.104.114.2:8080/planb/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Радость моя
+http://89.104.114.2:8080/radost-moya/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Ратник HD
+http://89.104.114.2:8080/ratnik_hd/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",RT Doc
+http://89.104.114.2:8080/rt-doc/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",RT HD
+http://89.104.114.2:8080/rt_hd/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",360
+http://89.104.114.2:8080/rubl/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Shot tv
+http://89.104.114.2:8080/shot_tv/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Союз
+http://89.104.114.2:8080/soyuz/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Спас
+http://89.104.114.2:8080/spas/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Start Air
+http://89.104.114.2:8080/start_air/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",START WORLD
+http://89.104.114.2:8080/start_world/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Театр
+http://89.104.114.2:8080/strk_hd/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Тонус ТВ
+http://89.104.114.2:8080/tonus/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Top Shop
+http://89.104.114.2:8080/topshop/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",luxury
+http://89.104.114.2:8080/luxury/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",ТВЦ
+http://89.104.114.2:8080/tv-centr/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Усадьба
+http://89.104.114.2:8080/usadba/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Успех
+http://89.104.114.2:8080/uspeh/index.m3u8
 #EXTINF:-1 group-title="MEDIAOPERATOR-AS",Ю
 http://89.104.114.2:8080/utv/index.m3u8
 #EXTINF:-1 group-title="MEDIAOPERATOR-AS",Зоо ТВ
@@ -1734,8 +1846,14 @@ http://89.104.114.2:8080/sts_kids/index.m3u8
 http://89.104.114.2:8080/ru-tv/index.m3u8
 #EXTINF:-1 group-title="MEDIAOPERATOR-AS",1HD
 http://89.104.114.2:8080/1hd/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Mezzo Live HD
+http://89.104.114.2:8080/mezzo_hd/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",ТНТ Music
+http://89.104.114.2:8080/tnt_music/index.m3u8
 #EXTINF:-1 group-title="MEDIAOPERATOR-AS",Music Box Russia
 http://89.104.114.2:8080/music-box-ru/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Bridge TV Classic
+http://89.104.114.2:8080/topsong/index.m3u8
 #EXTINF:-1 group-title="MEDIAOPERATOR-AS",Bridge TV
 http://89.104.114.2:8080/bridge-tv/index.m3u8
 #EXTINF:-1 group-title="MEDIAOPERATOR-AS",Bridge TV Hits
@@ -1748,8 +1866,6 @@ http://89.104.114.2:8080/bridge_hd/index.m3u8
 http://89.104.114.2:8080/europa-plus-tv/index.m3u8
 #EXTINF:-1 group-title="MEDIAOPERATOR-AS",Ля-минор
 http://89.104.114.2:8080/la-minor/index.m3u8
-#EXTINF:-1 group-title="MEDIAOPERATOR-AS",ТНТ Music
-http://89.104.114.2:8080/a-one/index.m3u8
 #EXTINF:-1 group-title="MEDIAOPERATOR-AS",AIVA HD
 http://89.104.114.2:8080/aiva_hd/index.m3u8
 #EXTINF:-1 group-title="MEDIAOPERATOR-AS",Матч! Арена
@@ -1772,6 +1888,8 @@ http://89.104.114.2:8080/khl_hd/index.m3u8
 http://89.104.114.2:8080/match/index.m3u8
 #EXTINF:-1 group-title="MEDIAOPERATOR-AS",Матч ТВ HD
 http://89.104.114.2:8080/match_hd/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Матч! Страна
+http://89.104.114.2:8080/sport_plus/index.m3u8
 #EXTINF:-1 group-title="MEDIAOPERATOR-AS",Матч! Игра HD
 http://89.104.114.2:8080/match_igra_hd/index.m3u8
 #EXTINF:-1 group-title="MEDIAOPERATOR-AS",Матч! Игра
@@ -1782,6 +1900,10 @@ http://89.104.114.2:8080/nash_football_hd/index.m3u8
 http://89.104.114.2:8080/nash-football/index.m3u8
 #EXTINF:-1 group-title="MEDIAOPERATOR-AS",Старт
 http://89.104.114.2:8080/start_hd/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Бокс ТВ HD
+http://89.104.114.2:8080/boks-tv/index.m3u8
+
+
 
 
 
