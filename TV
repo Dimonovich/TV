@@ -21,18 +21,6 @@ http://194.26.229.213/chdtv_rock/index.m3u8
 http://194.26.229.213/souzmultfilm/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/BvqS8HVV/1.png",Чип и Дейл
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://sunset-media.ru/assets/logos/space.png" ,Sunset Space
-https://stream.sunset-media.ru:443/Free/Free/3.m3u8
-#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://sunset-media.ru/assets/logos/movie.png" ,Sunset Movie
-https://stream.sunset-media.ru:443/Free/Free/1.m3u8
-#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://sunset-media.ru/assets/logos/music.png" ,Sunset Music
-https://stream.sunset-media.ru:443/Free/Free/2.m3u8
-#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://sunset-media.ru/assets/logos/kids.png" ,Sunset Kids
-https://stream.sunset-media.ru:443/Free/Free/4.m3u8
-#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://sunset-media.ru/assets/logos/anime.png" ,Sunset Anime
-https://stream.sunset-media.ru/Free/Free/5.m3u8
-#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://sunset-media.ru/assets/logos/sport.png" ,Sunset Sport
-https://stream.sunset-media.ru/Free/Free/6.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Первый Канал HD
 https://st1.uzdigital.tv/Perviy_KanalHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Точка отрыва
@@ -162,6 +150,18 @@ http://s18209.cdn.ngenix.net/hls/CH_R01_KARUSEL/playlist.m3u8
 http://s18209.cdn.ngenix.net/hls/CH_R03_U/playlist.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",Чехов ТВ/Продвижение
 http://s18209.cdn.ngenix.net/hls/CH_R01_CHEKHOVTV/variant.m3u8
+#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://sunset-media.ru/assets/logos/space.png" ,Sunset Space
+https://stream.sunset-media.ru:443/Free/Free/3.m3u8
+#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://sunset-media.ru/assets/logos/movie.png" ,Sunset Movie
+https://stream.sunset-media.ru:443/Free/Free/1.m3u8
+#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://sunset-media.ru/assets/logos/music.png" ,Sunset Music
+https://stream.sunset-media.ru:443/Free/Free/2.m3u8
+#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://sunset-media.ru/assets/logos/kids.png" ,Sunset Kids
+https://stream.sunset-media.ru:443/Free/Free/4.m3u8
+#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://sunset-media.ru/assets/logos/anime.png" ,Sunset Anime
+https://stream.sunset-media.ru/Free/Free/5.m3u8
+#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://sunset-media.ru/assets/logos/sport.png" ,Sunset Sport
+https://stream.sunset-media.ru/Free/Free/6.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",Тайна
 https://tochkatv-live.cdnvideo.ru/tochkatv_pub/tainatv.stream_aac.smil/tracks-v1a1/mono.m3u8?hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 group-title="TEST (VPN)",TVMChannel
