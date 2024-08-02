@@ -131,6 +131,37 @@ http://45.143.108.104/AMEDIA2_HD/index.m3u8
 #EXTINF:-1,Amedia Premium HD
 http://78.62.135.122:8082/amediapremiumhd/index.m3u8
 
+#EXTINF:-1,Amedia Hit HD
+http://bnajv.hdme.top/p/3121da06ebcdce752aef750d5d1c8070/404м
+#EXTINF:-1,Fox HD
+http://bnajv.hdme.top/p/3121da06ebcdce752aef750d5d1c8070/406
+#EXTINF:-1,Fox Life HD
+http://bnajv.hdme.top/p/3121da06ebcdce752aef750d5d1c8070/408
+#EXTINF:-1,Bollywood HD
+http://bnajv.hdme.top/p/3121da06ebcdce752aef750d5d1c8070/418
+#EXTINF:-1,Кинопоказ
+http://bnajv.hdme.top/p/3121da06ebcdce752aef750d5d1c8070/440
+#EXTINF:-1,Премиальное HD
+http://bnajv.hdme.top/p/3121da06ebcdce752aef750d5d1c8070/441
+#EXTINF:-1,Комедийное HD
+http://bnajv.hdme.top/p/3121da06ebcdce752aef750d5d1c8070/442
+#EXTINF:-1,Остросюжетное HD
+http://bnajv.hdme.top/p/3121da06ebcdce752aef750d5d1c8070/443
+#EXTINF:-1,Шокирующее HD
+http://bnajv.hdme.top/p/3121da06ebcdce752aef750d5d1c8070/444
+#EXTINF:-1,Наше HD
+http://bnajv.hdme.top/p/3121da06ebcdce752aef750d5d1c8070/445
+#EXTINF:-1,Кинопоказ HD
+http://bnajv.hdme.top/p/3121da06ebcdce752aef750d5d1c8070/446
+#EXTINF:-1,Душевное HD
+http://bnajv.hdme.top/p/3121da06ebcdce752aef750d5d1c8070/447
+#EXTINF:-1,Любимое HD
+http://bnajv.hdme.top/p/3121da06ebcdce752aef750d5d1c8070/448
+#EXTINF:-1,Мужское HD
+http://bnajv.hdme.top/p/3121da06ebcdce752aef750d5d1c8070/449
+#EXTINF:-1,Сапфир HD
+http://bnajv.hdme.top/p/3121da06ebcdce752aef750d5d1c8070/478
+
 #EXTINF:-1 ,Gags Network HD
 https://bkm.beetv.kz/btv/live/hls/000006639.m3u8
 
@@ -148,8 +179,6 @@ http://91.142.158.107:8092/play/28/index.m3u8
 
 #EXTINF:-1 group-title="СКТ ТВ (VPN)",Кинеко
 http://188.113.190.15/57/video.m3u8
-#EXTINF:-1 group-title="СКТ ТВ (VPN)",Кино ТВ HD
-http://188.113.190.15/3/video.m3u8
 #EXTINF:-1 group-title="СКТ ТВ (VPN)",Индийское кино
 http://188.113.190.15/329/video.m3u8
 #EXTINF:-1 group-title="СКТ ТВ (VPN)",Кинокомедия HD
