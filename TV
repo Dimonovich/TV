@@ -979,7 +979,7 @@ http://u.vipl.one/high/ua5i7xlwmd/613.m3u8
 http://u.vipl.one/high/ua5i7xlwmd/614.m3u8
 #EXTINF:-1 group-title="OVH Telecom",Рен ТВ (+2)
 http://u.vipl.one/high/ua5i7xlwmd/628.m3u8
-#EXTINF:-1 group-title="OVH Telecom",Рен ТВ (+4)
+#EXTINF:-1 group-title="OVH Telecom",Рен ТВ +4
 http://u.vipl.one/high/ua5i7xlwmd/31.m3u8
 #EXTINF:-1 group-title="OVH Telecom",Рен ТВ +7
 http://u.vipl.one/high/ua5i7xlwmd/629.m3u8
@@ -1037,20 +1037,20 @@ http://u.vipl.one/high/ua5i7xlwmd/683.m3u8
 http://u.vipl.one/high/ua5i7xlwmd/182.m3u8
 #EXTINF:-1 group-title="OVH Telecom",Пятница +2
 http://u.vipl.one/high/ua5i7xlwmd/26.m3u8
-#EXTINF:-1 group-title="OVH Telecom",Пятница! (+4)
+#EXTINF:-1 group-title="OVH Telecom",Пятница +4
 http://u.vipl.one/high/ua5i7xlwmd/173.m3u8
-#EXTINF:-1 group-title="OVH Telecom",Пятый канал (+4)
+#EXTINF:-1 group-title="OVH Telecom",Пятница +7
+http://u.vipl.one/high/ua5i7xlwmd/624.m3u8
+#EXTINF:-1 group-title="OVH Telecom",5 канал +4
 http://u.vipl.one/high/ua5i7xlwmd/30.m3u8
-#EXTINF:-1 group-title="OVH Telecom",Пятый канал (+2)
+#EXTINF:-1 group-title="OVH Telecom",Пятый Канал (+2)
 http://u.vipl.one/high/ua5i7xlwmd/625.m3u8
-#EXTINF:-1 group-title="OVH Telecom",Пятый канал (+7)
+#EXTINF:-1 group-title="OVH Telecom",5 канал +7
 http://u.vipl.one/high/ua5i7xlwmd/626.m3u8
 #EXTINF:-1 group-title="OVH Telecom",Суббота! (+4)
 http://u.vipl.one/high/ua5i7xlwmd/140.m3u8
 #EXTINF:-1 group-title="OVH Telecom",СТС (+4)
 http://u.vipl.one/high/ua5i7xlwmd/176.m3u8
-#EXTINF:-1 group-title="OVH Telecom",ТВ3 (+4)
-http://u.vipl.one/high/ua5i7xlwmd/180.m3u8
 #EXTINF:-1 group-title="OVH Telecom",Звезда (+4)
 http://u.vipl.one/high/ua5i7xlwmd/23.m3u8
 #EXTINF:-1 group-title="OVH Telecom",Мир (+4)
@@ -1061,14 +1061,14 @@ http://u.vipl.one/high/ua5i7xlwmd/522.m3u8
 http://u.vipl.one/high/ua5i7xlwmd/166.m3u8
 #EXTINF:-1 group-title="OVH Telecom",2x2 (+7)
 http://u.vipl.one/high/ua5i7xlwmd/523.m3u8
-#EXTINF:-1 group-title="OVH Telecom",Домашний (+2)
+#EXTINF:-1 group-title="OVH Telecom",Домашний +1
+http://u.vipl.one/high/ua5i7xlwmd/561.m3u8
+#EXTINF:-1 group-title="OVH Telecom",Домашний +2
 http://u.vipl.one/high/ua5i7xlwmd/558.m3u8
 #EXTINF:-1 group-title="OVH Telecom",Домашний +4
 http://u.vipl.one/high/ua5i7xlwmd/22.m3u8
-#EXTINF:-1 group-title="OVH Telecom",Домашний (+7)
+#EXTINF:-1 group-title="OVH Telecom",Домашний +7
 http://u.vipl.one/high/ua5i7xlwmd/559.m3u8
-#EXTINF:-1 group-title="OVH Telecom",Домашний (+1)
-http://u.vipl.one/high/ua5i7xlwmd/561.m3u8
 #EXTINF:-1 group-title="OVH Telecom",Звезда (+2)
 http://u.vipl.one/high/ua5i7xlwmd/564.m3u8
 #EXTINF:-1 group-title="OVH Telecom",Звезда (+7)
@@ -1079,8 +1079,6 @@ http://u.vipl.one/high/ua5i7xlwmd/578.m3u8
 http://u.vipl.one/high/ua5i7xlwmd/579.m3u8
 #EXTINF:-1 group-title="OVH Telecom",ОТВ (+7)
 http://u.vipl.one/high/ua5i7xlwmd/598.m3u8
-#EXTINF:-1 group-title="OVH Telecom",Пятница! (+7)
-http://u.vipl.one/high/ua5i7xlwmd/624.m3u8
 #EXTINF:-1 group-title="OVH Telecom",СТС (+2)
 http://u.vipl.one/high/ua5i7xlwmd/657.m3u8
 #EXTINF:-1 group-title="OVH Telecom",СТС (+7)
@@ -1091,6 +1089,8 @@ http://u.vipl.one/high/ua5i7xlwmd/663.m3u8
 http://u.vipl.one/high/ua5i7xlwmd/664.m3u8
 #EXTINF:-1 group-title="OVH Telecom",ТВ3 (+2)
 http://u.vipl.one/high/ua5i7xlwmd/667.m3u8
+#EXTINF:-1 group-title="OVH Telecom",ТВ3 (+4)
+http://u.vipl.one/high/ua5i7xlwmd/180.m3u8
 #EXTINF:-1 group-title="OVH Telecom",ТВ3 (+7)
 http://u.vipl.one/high/ua5i7xlwmd/668.m3u8
 #EXTINF:-1 group-title="OVH Telecom",ТВЦ (+2)
@@ -1115,14 +1115,8 @@ http://u.vipl.one/high/ua5i7xlwmd/693.m3u8
 http://u.vipl.one/high/ua5i7xlwmd/694.m3u8
 #EXTINF:-1 group-title="OVH Telecom",365 Дней
 http://u.vipl.one/high/ua5i7xlwmd/294.m3u8
-#EXTINF:-1 group-title="OVH Telecom",Animal Planet
-http://u.vipl.one/high/ua5i7xlwmd/295.m3u8
 #EXTINF:-1 group-title="OVH Telecom",Animal Planet HD
 http://u.vipl.one/high/ua5i7xlwmd/296.m3u8
-#EXTINF:-1 group-title="OVH Telecom",Da Vinci learning
-http://u.vipl.one/high/ua5i7xlwmd/298.m3u8
-#EXTINF:-1 group-title="OVH Telecom",Discovery
-http://u.vipl.one/high/ua5i7xlwmd/299.m3u8
 #EXTINF:-1 group-title="OVH Telecom",Discovery HD
 http://u.vipl.one/high/ua5i7xlwmd/300.m3u8
 #EXTINF:-1 group-title="OVH Telecom",HD Life
@@ -1259,8 +1253,6 @@ http://u.vipl.one/high/ua5i7xlwmd/998.m3u8
 http://u.vipl.one/high/ua5i7xlwmd/999.m3u8
 #EXTINF:-1 group-title="OVH Telecom",Беларусь 3 HD
 http://u.vipl.one/high/ua5i7xlwmd/1000.m3u8
-#EXTINF:-1 group-title="OVH Telecom",Беларусь 5 HD
-http://u.vipl.one/high/ua5i7xlwmd/1001.m3u8
 #EXTINF:-1 group-title="OVH Telecom",Белсат
 http://u.vipl.one/high/ua5i7xlwmd/1059.m3u8
 #EXTINF:-1 group-title="OVH Telecom",AMEDIA HIT HD
@@ -2103,8 +2095,6 @@ http://u.vipl.one/high/ua5i7xlwmd/44.m3u8
 http://u.vipl.one/high/ua5i7xlwmd/45.m3u8
 #EXTINF:-1 group-title="OVH Telecom",КХЛ Prime
 http://u.vipl.one/high/ua5i7xlwmd/46.m3u8
-#EXTINF:-1 group-title="OVH Telecom",МАТЧ! Арена HD
-http://u.vipl.one/high/ua5i7xlwmd/47.m3u8
 #EXTINF:-1 group-title="OVH Telecom",Матч! HD
 http://u.vipl.one/high/ua5i7xlwmd/48.m3u8
 #EXTINF:-1 group-title="OVH Telecom",Матч! Арена
@@ -2123,6 +2113,10 @@ http://u.vipl.one/high/ua5i7xlwmd/55.m3u8
 http://u.vipl.one/high/ua5i7xlwmd/56.m3u8
 #EXTINF:-1 group-title="OVH Telecom",Матч! Футбол 3 HD
 http://u.vipl.one/high/ua5i7xlwmd/57.m3u8
+#EXTINF:-1 group-title="OVH Telecom",Матч! Планета
+http://u.vipl.one/high/ua5i7xlwmd/1680.m3u8
+#EXTINF:-1 group-title="OVH Telecom",Матч! Игра HD
+http://u.vipl.one/high/ua5i7xlwmd/383.m3u8
 #EXTINF:-1 group-title="OVH Telecom",Старт
 http://u.vipl.one/high/ua5i7xlwmd/58.m3u8
 #EXTINF:-1 group-title="OVH Telecom",Футбол
@@ -2131,22 +2125,14 @@ http://u.vipl.one/high/ua5i7xlwmd/59.m3u8
 http://u.vipl.one/high/ua5i7xlwmd/175.m3u8
 #EXTINF:-1 group-title="OVH Telecom",Удар HD
 http://u.vipl.one/high/ua5i7xlwmd/381.m3u8
-#EXTINF:-1 group-title="OVH Telecom",Матч! Игра HD
-http://u.vipl.one/high/ua5i7xlwmd/383.m3u8
-#EXTINF:-1 group-title="OVH Telecom",Viju+ Sport
-http://u.vipl.one/high/ua5i7xlwmd/460.m3u8
 #EXTINF:-1 group-title="OVH Telecom",Мир Баскетбола
 http://u.vipl.one/high/ua5i7xlwmd/462.m3u8
+#EXTINF:-1 group-title="OVH Telecom",Беларусь 5 HD
+http://u.vipl.one/high/ua5i7xlwmd/1001.m3u8
 #EXTINF:-1 group-title="OVH Telecom",Старт HD
 http://u.vipl.one/high/ua5i7xlwmd/464.m3u8
 #EXTINF:-1 group-title="OVH Telecom",Точка отрыва
 http://u.vipl.one/high/ua5i7xlwmd/465.m3u8
-#EXTINF:-1 group-title="OVH Telecom",Матч! Футбол 1
-http://u.vipl.one/high/ua5i7xlwmd/981.m3u8
-#EXTINF:-1 group-title="OVH Telecom",Матч! Футбол 2
-http://u.vipl.one/high/ua5i7xlwmd/982.m3u8
-#EXTINF:-1 group-title="OVH Telecom",Матч! Футбол 3
-http://u.vipl.one/high/ua5i7xlwmd/983.m3u8
 #EXTINF:-1 group-title="OVH Telecom",Сетанта Спорт HD
 http://u.vipl.one/high/ua5i7xlwmd/1021.m3u8
 #EXTINF:-1 group-title="OVH Telecom",Сетанта Спорт+ HD
@@ -2159,8 +2145,7 @@ http://u.vipl.one/high/ua5i7xlwmd/1496.m3u8
 http://u.vipl.one/high/ua5i7xlwmd/1497.m3u8
 #EXTINF:-1 group-title="OVH Telecom",Спортивный
 http://u.vipl.one/high/ua5i7xlwmd/1498.m3u8
-#EXTINF:-1 group-title="OVH Telecom",Матч! Планета
-http://u.vipl.one/high/ua5i7xlwmd/1680.m3u8
+
 
 
 
@@ -2675,15 +2660,6 @@ http://178.124.179.122:8088/KHL_HD/index.m3u8
 
 
 
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 group-title="MEDIAOPERATOR-AS",Первый канал HD
 http://89.104.114.32:8080/ort_hd/index.m3u8
 #EXTINF:-1 group-title="MEDIAOPERATOR-AS",Первый канал
@@ -2926,7 +2902,6 @@ http://89.104.114.2:8080/tv1000rus/index.m3u8
 http://89.104.114.2:8080/tv3/index.m3u8
 #EXTINF:-1 group-title="MEDIAOPERATOR-AS",ТВ3 HD
 http://89.104.114.2:8080/tv3_hd/index.m3u8
-
 #EXTINF:-1 group-title="MEDIAOPERATOR-AS",Пятый канал
 http://89.104.114.2:8080/5_kanal/index.m3u8
 #EXTINF:-1 group-title="MEDIAOPERATOR-AS",7tv
