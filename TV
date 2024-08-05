@@ -211,9 +211,9 @@ http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1920x1080@4504/playl
 
 
 
-#EXTINF:-1 group-title="ЗР-Телеком плюс",THT HD
+#EXTINF:-1 group-title="ЗР-Телеком плюс",ТНТ HD
 http://195.158.222.115:8001/play/a06x/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",THT4
+#EXTINF:-1 group-title="ЗР-Телеком плюс",ТНТ4
 http://195.158.222.115:8001/play/a08e/index.m3u8
 #EXTINF:-1 group-title="ЗР-Телеком плюс",Москва 24
 http://195.158.222.115:8001/play/a02s/index.m3u8
@@ -261,7 +261,7 @@ http://195.158.222.115:8001/play/a08h/index.m3u8
 http://195.158.222.115:8001/play/a0ay/index.m3u8
 #EXTINF:-1 group-title="ЗР-Телеком плюс",8 канал
 http://195.158.222.115:8001/play/a02p/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",ABTO 24
+#EXTINF:-1 group-title="ЗР-Телеком плюс",Авто 24
 http://195.158.222.115:8001/play/a00l/index.m3u8
 #EXTINF:-1 group-title="ЗР-Телеком плюс",Amedia Premium HD
 http://195.158.222.115:8001/play/a0ai/index.m3u8
@@ -275,7 +275,7 @@ http://195.158.222.115:8001/play/a01n/index.m3u8
 http://195.158.222.115:8001/play/a01u/index.m3u8
 #EXTINF:-1 group-title="ЗР-Телеком плюс",MAGNAT
 http://195.158.222.115:8001/play/a08a/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",OTP HD
+#EXTINF:-1 group-title="ЗР-Телеком плюс",ОТР
 http://195.158.222.115:8001/play/a0ar/index.m3u8
 #EXTINF:-1 group-title="ЗР-Телеком плюс",Romance
 http://195.158.222.115:8001/play/a08i/index.m3u8
@@ -337,6 +337,8 @@ http://195.158.222.115:8001/play/a0ba/index.m3u8
 http://195.158.222.115:8001/play/a0bf/index.m3u8
 #EXTINF:-1 group-title="ЗР-Телеком плюс",КИНОХИТ
 http://195.158.222.115:8001/play/a0b4/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс",МУЖСКОЕ КИНО
+http://195.158.222.115:8001/play/a0bb/index.m3u8
 #EXTINF:-1 group-title="ЗР-Телеком плюс",Кино без границ
 http://195.158.222.115:8001/play/a087/index.m3u8
 #EXTINF:-1 group-title="ЗР-Телеком плюс",Кино без границ HD
@@ -349,8 +351,6 @@ http://195.158.222.115:8001/play/a0b7/index.m3u8
 http://195.158.222.115:8001/play/a0ap/index.m3u8
 #EXTINF:-1 group-title="ЗР-Телеком плюс",МИР 24
 http://195.158.222.115:8001/play/a02o/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",МУЖСКОЕ КИНО
-http://195.158.222.115:8001/play/a0bb/index.m3u8
 #EXTINF:-1 group-title="ЗР-Телеком плюс",Мир сериала HD
 http://195.158.222.115:8001/play/a0aq/index.m3u8
 #EXTINF:-1 group-title="ЗР-Телеком плюс",Ностальгия
@@ -395,7 +395,7 @@ http://195.158.222.115:8001/play/a0as/index.m3u8
 http://195.158.222.115:8001/play/a081/index.m3u8
 #EXTINF:-1 group-title="ЗР-Телеком плюс",Киномульт
 http://195.158.222.115:8001/play/a08f/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",CTC Kids HD
+#EXTINF:-1 group-title="ЗР-Телеком плюс",СТС Kids
 http://195.158.222.115:8001/play/a0aj/index.m3u8
 #EXTINF:-1 group-title="ЗР-Телеком плюс",Cartoon Classics
 http://195.158.222.115:8001/play/a08g/index.m3u8
@@ -413,7 +413,7 @@ http://195.158.222.115:8001/play/a01d/index.m3u8
 http://195.158.222.115:8001/play/a0b8/index.m3u8
 #EXTINF:-1 group-title="ЗР-Телеком плюс",Европа Плюс ТВ
 http://195.158.222.115:8001/play/a0b0/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",THT MUSIC
+#EXTINF:-1 group-title="ЗР-Телеком плюс",ТНТ Music
 http://195.158.222.115:8001/play/a00i/index.m3u8
 #EXTINF:-1 group-title="ЗР-Телеком плюс",MCM Top
 http://195.158.222.115:8001/play/a02b/index.m3u8
