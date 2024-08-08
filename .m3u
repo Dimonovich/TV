@@ -362,6 +362,12 @@ https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1,Home 4K
 http://hls3.ttv2.space:80/home_hd/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 ,Беларусь 1
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
+#EXTINF:-1 ,Беларусь 2
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
+#EXTINF:-1 ,Беларусь 3
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
 #EXTINF:-1 ,Беларусь 5
 https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 
