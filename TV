@@ -2678,6 +2678,16 @@ https://pkvc-hls3.cdnvideo.ru/Pobeda/smil:Pobeda.smil/chunklist_b5128000_slru.m3
 #EXTINF:-1 group-title="С сайтов" ,Бобер
 #EXTVLCOPT:http-referrer=https://bober.ru
 https://pkvc-hls3.cdnvideo.ru/Bober/smil:Bober.smil/chunklist_b5128000_slru.m3u8
+#EXTINF:-1 group-title="С сайтов",Беларусь 1
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
+#EXTINF:-1 group-title="С сайтов",Беларусь 2
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
+#EXTINF:-1 group-title="С сайтов",Беларусь 3
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
+#EXTINF:-1 group-title="С сайтов",Беларусь 24
+https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/chunklist_w1008231497_b5160000_sleng.m3u8
+#EXTINF:-1 group-title="С сайтов" tvg-id="stv-by", СТВ
+https://ngtrk.dc.beltelecom.by/ctv/ctv.stream/chunklist.m3u8
 #EXTINF:-1 group-title="С сайтов" tvg-logo="https://novoetv.kz/wp-content/uploads/2023/03/logo_novoetv_white.png",Новое Телевидение
 https://live.zhanafm.kz:8181/memfs/fd715789-382f-4ec6-b4ba-d8e2fde59c7b.m3u8
 #EXTINF:-1 group-title="С сайтов" tvg-logo="https://www.osnmedia.ru/wp-content/uploads/2022/10/logoWhite.png",ОСН
@@ -2708,8 +2718,6 @@ http://iptv-hls.karelia.pro/streams/Sampo360/stream.m3u8
 https://public.apsny.camera/tv_abaza_tv_to_site/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="С сайтов" tvg-logo="https://pbs.twimg.com/profile_images/1161883563492564992/OPawdkI-_400x400.jpg",12 КАНАЛ (ОМСК)
 https://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
-#EXTINF:-1 group-title="С сайтов",Беларусь 24
-https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/chunklist_w1008231497_b5160000_sleng.m3u8
 #EXTINF:-1 group-title="С сайтов" tvg-logo="https://tva.ua/wp-content/uploads/2020/01/tva-new-logo.png",ТВА
 https://hls.cdn.ua/tva.ua_live/livestream/chunklist.m3u8
 #EXTINF:-1 group-title="С сайтов" tvg-logo="https://www.cableman.ru/sites/default/files/sochi_live.png",Sochi Live HD
