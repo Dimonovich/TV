@@ -277,9 +277,6 @@ http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:-1 ,Sochi Live HD
 http://serv30.vintera.tv:8081/sochi/sochi_stream/chunks.m3u8
 
-#EXTINF:-1 ,Беларусь 24
-https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/chunklist_w1008231497_b5160000_sleng.m3u8
-
 #EXTINF:-1 ,Кавказ 24
 https://streamer1.connectto.com/532/mono.m3u8
 
@@ -362,6 +359,8 @@ https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1,Home 4K
 http://hls3.ttv2.space:80/home_hd/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 ,Беларусь 24
+https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/playlist.m3u8
 #EXTINF:-1 ,Беларусь 1
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
 #EXTINF:-1 ,Беларусь 2
