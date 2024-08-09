@@ -209,6 +209,151 @@ http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1920x1080@4504/playl
 
 
 
+#EXTINF:-1 group-title="Cloudflare",НТВ
+http://hls127.homeiptv.org:8880/NTV/video.m3u8
+#EXTINF:-1 group-title="Cloudflare",Россия К
+http://hls127.homeiptv.org:8880/Rossiya_K/video.m3u8
+#EXTINF:-1 group-title="Cloudflare",МОСКВА 24
+http://hls127.homeiptv.org:8880/Moskva_24/video.m3u8
+#EXTINF:-1 group-title="Cloudflare",National Geographic
+http://hls127.homeiptv.org:8880/National_Geographic_Channel/video.m3u8
+#EXTINF:-1 group-title="Cloudflare",RTG HD
+http://hls127.homeiptv.org:8880/RTG_HD/video.m3u8
+#EXTINF:-1 group-title="Cloudflare",RTG TV
+http://hls127.homeiptv.org:8880/RTG_TV/video.m3u8
+#EXTINF:-1 group-title="Cloudflare",Дикий
+http://hls127.homeiptv.org:8880/Dikiy/video.m3u8
+#EXTINF:-1 group-title="Cloudflare",Наука
+http://hls127.homeiptv.org:8880/NAUKA/video.m3u8
+#EXTINF:-1 group-title="Cloudflare",.Red
+http://hls127.homeiptv.org:8880/Red/video.m3u8
+#EXTINF:-1 group-title="Cloudflare",2X2
+http://hls127.homeiptv.org:8880/2X2/video.m3u8
+#EXTINF:-1 group-title="Cloudflare",Amedia 1
+http://hls127.homeiptv.org:8880/Amedia_1/video.m3u8
+#EXTINF:-1 group-title="Cloudflare",Amedia 2
+http://hls127.homeiptv.org:8880/Amedia_2_HD/video.m3u8
+#EXTINF:-1 group-title="Cloudflare",Clarity4K Anime
+http://hls127.homeiptv.org:8880/Clarity4K_Anime/video.m3u8
+#EXTINF:-1 group-title="Cloudflare",Clarity4K Asia
+http://hls127.homeiptv.org:8880/Clarity4K_Asia/video.m3u8
+#EXTINF:-1 group-title="Cloudflare",Clarity4K Boevik
+http://hls127.homeiptv.org:8880/Clarity4K_Boevik/video.m3u8
+#EXTINF:-1 group-title="Cloudflare",Clarity4K Concert
+http://hls127.homeiptv.org:8880/Clarity4K_Concert/video.m3u8
+#EXTINF:-1 group-title="Cloudflare",Clarity4K Netflix
+http://hls127.homeiptv.org:8880/Clarity4K_Netflix/video.m3u8
+#EXTINF:-1 group-title="Cloudflare",Clarity4K Uzhasi
+http://hls127.homeiptv.org:8880/Clarity4K_Uzhasi/video.m3u8
+#EXTINF:-1 group-title="Cloudflare",Clarity4K Western
+http://hls127.homeiptv.org:8880/Clarity4K_Western/video.m3u8
+#EXTINF:-1 group-title="Cloudflare",Fashion HD
+http://hls127.homeiptv.org:8880/Fashion_HD/video.m3u8
+#EXTINF:-1 group-title="Cloudflare" tvg-id="filmua-drama",FilmUA Drama HD     
+http://hls127.homeiptv.org:8880/FilmUADramaHD/video.m3u8
+#EXTINF:-1 group-title="Cloudflare",Gags Network
+http://hls127.homeiptv.org:8880/Gagsnetwork/video.m3u8
+#EXTINF:-1 group-title="Cloudflare",Kлюч
+http://hls127.homeiptv.org:8880/Kluch/video.m3u8
+#EXTINF:-1 group-title="Cloudflare",Maydan
+http://hls127.homeiptv.org:8880/Maydan/video.m3u8
+#EXTINF:-1 group-title="Cloudflare",MM Скорость HD
+http://hls127.homeiptv.org:8880/minimax-skorost-m4f/video.m3u8
+#EXTINF:-1 group-title="Cloudflare",Mосфильм.Золотая коллекция
+http://hls127.homeiptv.org:8880/Mosfilm/video.m3u8
+#EXTINF:-1 group-title="Cloudflare",Teатр
+http://hls127.homeiptv.org:8880/Teatr/video.m3u8
+#EXTINF:-1 group-title="Cloudflare",TrAsh HD
+http://hls127.homeiptv.org:8880/Trash_HD/video.m3u8
+#EXTINF:-1 group-title="Cloudflare",VIP Megahit
+http://hls127.homeiptv.org:8880/ViP_Megahit/video.m3u8
+#EXTINF:-1 group-title="Cloudflare",Белрос
+http://hls127.homeiptv.org:8880/BelRos/video.m3u8
+#EXTINF:-1 group-title="Cloudflare",Блокбастер HD
+http://hls127.homeiptv.org:8880/Blockbaster_HD/video.m3u8
+#EXTINF:-1 group-title="Cloudflare",Дон 24
+http://hls127.homeiptv.org:8880/Don_24/video.m3u8
+#EXTINF:-1 group-title="Cloudflare",Дума ТВ
+http://hls127.homeiptv.org:8880/Enisey/video.m3u8
+#EXTINF:-1 group-title="Cloudflare",Жара
+http://hls127.homeiptv.org:8880/Zhara/video.m3u8
+#EXTINF:-1 group-title="Cloudflare",Индия
+http://hls127.homeiptv.org:8880/Zee_Russia/video.m3u8
+#EXTINF:-1 group-title="Cloudflare",История
+http://hls127.homeiptv.org:8880/Istoriya/video.m3u8
+#EXTINF:-1 group-title="Cloudflare",Киномикс
+http://hls127.homeiptv.org:8880/iConcerts_HD/video.m3u8
+#EXTINF:-1 group-title="Cloudflare",Киномикс HD
+http://hls127.homeiptv.org:8880/Kinomix_HD/video.m3u8
+#EXTINF:-1 group-title="Cloudflare",КИНОПОКАЗ
+http://hls127.homeiptv.org:8880/Kinopokaz_HD/video.m3u8
+#EXTINF:-1 group-title="Cloudflare",КИНОПРЕМЬЕРА HD
+http://hls127.homeiptv.org:8880/Kinopremera/video.m3u8
+#EXTINF:-1 group-title="Cloudflare",Киносемья
+http://hls127.homeiptv.org:8880/Kinosemya/video.m3u8
+#EXTINF:-1 group-title="Cloudflare",КИНОСЕРИЯ
+http://hls127.homeiptv.org:8880/Kinoseriya_HD/video.m3u8
+#EXTINF:-1 group-title="Cloudflare",Киноужас
+http://hls127.homeiptv.org:8880/Kinouzhas/video.m3u8
+#EXTINF:-1 group-title="Cloudflare",Кинохит
+http://hls127.homeiptv.org:8880/Kinoxit/video.m3u8
+#EXTINF:-1 group-title="Cloudflare",НАШЕ НОВОЕ КИНО
+http://hls127.homeiptv.org:8880/Nashe_Novoe_Kino/video.m3u8
+#EXTINF:-1 group-title="Cloudflare",Кухня ТВ
+http://hls127.homeiptv.org:8880/Kuhnya_TV/video.m3u8
+#EXTINF:-1 group-title="Cloudflare",МИР
+http://hls127.homeiptv.org:8880/MIR/video.m3u8
+#EXTINF:-1 group-title="Cloudflare",Мир Белогорья
+http://hls127.homeiptv.org:8880/Mir_Belogorya/video.m3u8
+#EXTINF:-1 group-title="Cloudflare",Хит HD
+http://hls127.homeiptv.org:8880/XitHD/video.m3u8
+#EXTINF:-1 group-title="Cloudflare",Наш Киномир
+http://hls127.homeiptv.org:8880/Nash_kinomir/video.m3u8
+#EXTINF:-1 group-title="Cloudflare",Ностальгия
+http://hls127.homeiptv.org:8880/Nostalgiya/video.m3u8
+#EXTINF:-1 group-title="Cloudflare",НСТ
+http://hls127.homeiptv.org:8880/HCTV/video.m3u8
+#EXTINF:-1 group-title="Cloudflare",Про Любоиь HD
+http://hls127.homeiptv.org:8880/ProLubovHD/video.m3u8
+#EXTINF:-1 group-title="Cloudflare",РБК
+http://hls127.homeiptv.org:8880/RBK/video.m3u8
+#EXTINF:-1 group-title="Cloudflare",Сапфир
+http://hls127.homeiptv.org:8880/Europa_Plus/video.m3u8
+#EXTINF:-1 group-title="Cloudflare",Совершенно Секретно
+http://hls127.homeiptv.org:8880/Sovershenno_Sekretno/video.m3u8
+#EXTINF:-1 group-title="Cloudflare",Союз
+http://hls127.homeiptv.org:8880/Souz/video.m3u8
+#EXTINF:-1 group-title="Cloudflare",Спас
+http://hls127.homeiptv.org:8880/Spas/video.m3u8
+#EXTINF:-1 group-title="Cloudflare",Bridge TV Classic
+http://hls127.homeiptv.org:8880/Bridge_Classic/video.m3u8
+#EXTINF:-1 group-title="Cloudflare",Ru.TV
+http://hls127.homeiptv.org:8880/Ru_TV/video.m3u8
+#EXTINF:-1 group-title="Cloudflare",Bolt
+http://hls127.homeiptv.org:8880/Bolt/video.m3u8
+#EXTINF:-1 group-title="Cloudflare",Бобер
+http://hls127.homeiptv.org:8880/Bober/video.m3u8
+#EXTINF:-1 group-title="Cloudflare",Da Vinci
+http://hls127.homeiptv.org:8880/Da_Vinci_Learning/video.m3u8
+#EXTINF:-1 group-title="Cloudflare",TiJi
+http://hls127.homeiptv.org:8880/TiJi/video.m3u8
+#EXTINF:-1 group-title="Cloudflare",Мульт
+http://hls127.homeiptv.org:8880/Mult/video.m3u8
+#EXTINF:-1 group-title="Cloudflare",СТС Kids
+http://hls127.homeiptv.org:8880/STS_Kids/video.m3u8
+#EXTINF:-1 group-title="Cloudflare",Уникум
+http://hls127.homeiptv.org:8880/Unikum/video.m3u8
+#EXTINF:-1 group-title="Cloudflare",Старт HD
+http://hls127.homeiptv.org:8880/Start_HD/video.m3u8
+#EXTINF:-1 group-title="Cloudflare",Футбол
+http://hls127.homeiptv.org:8880/Football/video.m3u8
+#EXTINF:-1 group-title="Cloudflare",Матч ТВ
+http://hls127.homeiptv.org:8880/MATCH_TV/video.m3u8
+
+
+
+
+
 #EXTINF:-1 group-title="ЗР-Телеком плюс",ТНТ HD
 http://195.158.222.115:8001/play/a06x/index.m3u8
 #EXTINF:-1 group-title="ЗР-Телеком плюс",ТНТ4
