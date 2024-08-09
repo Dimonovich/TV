@@ -247,7 +247,7 @@ http://hls127.homeiptv.org:8880/Clarity4K_Netflix/video.m3u8
 http://hls127.homeiptv.org:8880/Clarity4K_Uzhasi/video.m3u8
 #EXTINF:-1 group-title="Cloudflare",Clarity4K Western
 http://hls127.homeiptv.org:8880/Clarity4K_Western/video.m3u8
-#EXTINF:-1 group-title="Cloudflare",Fashion HD
+#EXTINF:-1 group-title="Cloudflare",Fashion TV HD
 http://hls127.homeiptv.org:8880/Fashion_HD/video.m3u8
 #EXTINF:-1 group-title="Cloudflare" tvg-id="filmua-drama",FilmUA Drama HD     
 http://hls127.homeiptv.org:8880/FilmUADramaHD/video.m3u8
@@ -285,8 +285,6 @@ http://hls127.homeiptv.org:8880/Istoriya/video.m3u8
 http://hls127.homeiptv.org:8880/iConcerts_HD/video.m3u8
 #EXTINF:-1 group-title="Cloudflare",Киномикс HD
 http://hls127.homeiptv.org:8880/Kinomix_HD/video.m3u8
-#EXTINF:-1 group-title="Cloudflare",КИНОПОКАЗ
-http://hls127.homeiptv.org:8880/Kinopokaz_HD/video.m3u8
 #EXTINF:-1 group-title="Cloudflare",КИНОПРЕМЬЕРА HD
 http://hls127.homeiptv.org:8880/Kinopremera/video.m3u8
 #EXTINF:-1 group-title="Cloudflare",Киносемья
@@ -299,6 +297,8 @@ http://hls127.homeiptv.org:8880/Kinouzhas/video.m3u8
 http://hls127.homeiptv.org:8880/Kinoxit/video.m3u8
 #EXTINF:-1 group-title="Cloudflare",НАШЕ НОВОЕ КИНО
 http://hls127.homeiptv.org:8880/Nashe_Novoe_Kino/video.m3u8
+#EXTINF:-1 group-title="Cloudflare",КИНОПОКАЗ
+http://hls127.homeiptv.org:8880/Kinopokaz_HD/video.m3u8
 #EXTINF:-1 group-title="Cloudflare",Кухня ТВ
 http://hls127.homeiptv.org:8880/Kuhnya_TV/video.m3u8
 #EXTINF:-1 group-title="Cloudflare",МИР
@@ -313,7 +313,7 @@ http://hls127.homeiptv.org:8880/Nash_kinomir/video.m3u8
 http://hls127.homeiptv.org:8880/Nostalgiya/video.m3u8
 #EXTINF:-1 group-title="Cloudflare",НСТ
 http://hls127.homeiptv.org:8880/HCTV/video.m3u8
-#EXTINF:-1 group-title="Cloudflare",Про Любоиь HD
+#EXTINF:-1 group-title="Cloudflare",Про Любовь HD
 http://hls127.homeiptv.org:8880/ProLubovHD/video.m3u8
 #EXTINF:-1 group-title="Cloudflare",РБК
 http://hls127.homeiptv.org:8880/RBK/video.m3u8
