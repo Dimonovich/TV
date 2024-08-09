@@ -76,8 +76,6 @@ http://bnajv.hdme.top/p/3121da06ebcdce752aef750d5d1c8070/133
 http://bnajv.hdme.top/p/3121da06ebcdce752aef750d5d1c8070/134
 #EXTINF:-1 ,Travel Channel
 http://bnajv.hdme.top/p/3121da06ebcdce752aef750d5d1c8070/136
-#EXTINF:-1 ,History HD
-http://bnajv.hdme.top/p/3121da06ebcdce752aef750d5d1c8070/124
 #EXTINF:-1 ,RTG INT
 http://bnajv.hdme.top/p/3121da06ebcdce752aef750d5d1c8070/130
 
@@ -143,10 +141,6 @@ http://bnajv.hdme.top/p/3121da06ebcdce752aef750d5d1c8070/418
 http://bnajv.hdme.top/p/3121da06ebcdce752aef750d5d1c8070/441
 #EXTINF:-1,Комедийное
 http://bnajv.hdme.top/p/3121da06ebcdce752aef750d5d1c8070/442
-#EXTINF:-1,Остросюжетное HD
-http://bnajv.hdme.top/p/3121da06ebcdce752aef750d5d1c8070/443
-#EXTINF:-1,Шокирующее
-http://bnajv.hdme.top/p/3121da06ebcdce752aef750d5d1c8070/444
 #EXTINF:-1,Наше
 http://bnajv.hdme.top/p/3121da06ebcdce752aef750d5d1c8070/445
 #EXTINF:-1,Кинопоказ
@@ -205,6 +199,14 @@ http://188.113.190.15/313/video.m3u8
 http://188.113.190.15/214/video.m3u8
 #EXTINF:-1 group-title="СКТ ТВ (VPN)",НСТ
 http://188.113.190.15/48/video.m3u8
+#EXTINF:-1,Остросюжетное HD
+http://bnajv.hdme.top/p/3121da06ebcdce752aef750d5d1c8070/443
+#EXTINF:-1,Шокирующее
+http://bnajv.hdme.top/p/3121da06ebcdce752aef750d5d1c8070/444
+#EXTINF:-1 tvg-id="trashtv" tvg-logo="https://epgx.site/p/trashtv.png" group-title="Кинозал",Trash (HD)
+https://livetv.mylifeisgood.net.ru/channels/trash.m3u8
+#EXTINF:-1,Страшное HD
+http://188.244.139.29:4444/udp/239.4.1.67:2020
 
 #EXTINF:-1 ,Cinema
 http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
