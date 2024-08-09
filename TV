@@ -2690,6 +2690,8 @@ https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/chunklist_w1
 https://ngtrk.dc.beltelecom.by/ctv/ctv.stream/chunklist.m3u8
 #EXTINF:-1 group-title="С сайтов" tvg-logo="https://novoetv.kz/wp-content/uploads/2023/03/logo_novoetv_white.png",Новое Телевидение
 https://live.zhanafm.kz:8181/memfs/fd715789-382f-4ec6-b4ba-d8e2fde59c7b.m3u8
+#EXTINF:-1 group-title="С сайтов" ,Сфера ТВ
+https://cdn10.live-tv.cloud/sferarv/sferarv-abr/sferarv/720p/chunks.m3u8
 #EXTINF:-1 group-title="С сайтов" tvg-logo="https://www.osnmedia.ru/wp-content/uploads/2022/10/logoWhite.png",ОСН
 https://osnmedia.servicecdn.ru/streams/17603_88089/1080n/index.m3u8
 #EXTINF:-1 group-title="С сайтов", Silk Way
@@ -9167,7 +9169,7 @@ http://94.230.240.17:8080/machtv/index.m3u8
 http://tv.streams.baikal-telecom.net/MatchHD/index.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆" ,Матч! Арена
 http://194.143.148.28:8080/MatchArena/mpegts
-#EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-id="belarus5-inet",Беларусь 5
+#EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-id="belarus5-inet" ,Беларусь 5
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆" ,Беларусь 5
 https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
