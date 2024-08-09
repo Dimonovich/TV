@@ -253,15 +253,15 @@ http://hls127.homeiptv.org:8880/Fashion_HD/video.m3u8
 http://hls127.homeiptv.org:8880/FilmUADramaHD/video.m3u8
 #EXTINF:-1 group-title="Cloudflare",Gags Network
 http://hls127.homeiptv.org:8880/Gagsnetwork/video.m3u8
-#EXTINF:-1 group-title="Cloudflare",Kлюч
+#EXTINF:-1 group-title="Cloudflare",Ключ
 http://hls127.homeiptv.org:8880/Kluch/video.m3u8
-#EXTINF:-1 group-title="Cloudflare",Maydan
+#EXTINF:-1 group-title="Cloudflare",Meidan
 http://hls127.homeiptv.org:8880/Maydan/video.m3u8
 #EXTINF:-1 group-title="Cloudflare",MM Скорость HD
 http://hls127.homeiptv.org:8880/minimax-skorost-m4f/video.m3u8
-#EXTINF:-1 group-title="Cloudflare",Mосфильм.Золотая коллекция
+#EXTINF:-1 group-title="Cloudflare",Mосфильм. Золотая коллекция
 http://hls127.homeiptv.org:8880/Mosfilm/video.m3u8
-#EXTINF:-1 group-title="Cloudflare",Teатр
+#EXTINF:-1 group-title="Cloudflare",Театр
 http://hls127.homeiptv.org:8880/Teatr/video.m3u8
 #EXTINF:-1 group-title="Cloudflare",TrAsh HD
 http://hls127.homeiptv.org:8880/Trash_HD/video.m3u8
@@ -350,276 +350,6 @@ http://hls127.homeiptv.org:8880/Football/video.m3u8
 #EXTINF:-1 group-title="Cloudflare",Матч ТВ
 http://hls127.homeiptv.org:8880/MATCH_TV/video.m3u8
 
-
-
-
-
-#EXTINF:-1 group-title="ЗР-Телеком плюс",ТНТ HD
-http://195.158.222.115:8001/play/a06x/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",ТНТ4
-http://195.158.222.115:8001/play/a08e/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",Москва 24
-http://195.158.222.115:8001/play/a02s/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",Big Planet
-http://195.158.222.115:8001/play/a01t/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",Big Planet HD
-http://195.158.222.115:8001/play/a0av/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",HD Life
-http://195.158.222.115:8001/play/a06w/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",RTG HD
-http://195.158.222.115:8001/play/a0aw/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",TERRA HD
-http://195.158.222.115:8001/play/a0ah/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",The Explorers
-http://195.158.222.115:8001/play/a08j/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",Travel+Adventure
-http://195.158.222.115:8001/play/a02g/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",Viasat Explore
-http://195.158.222.115:8001/play/a01h/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",Viasat History
-http://195.158.222.115:8001/play/a01i/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",Viasat Nature
-http://195.158.222.115:8001/play/a01j/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",Дикий
-http://195.158.222.115:8001/play/a0bm/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",История
-http://195.158.222.115:8001/play/a02h/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",Моя Планета
-http://195.158.222.115:8001/play/a02u/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",Моя стихия HD
-http://195.158.222.115:8001/play/a0at/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",Наука
-http://195.158.222.115:8001/play/a02j/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",Охота и рыбалка
-http://195.158.222.115:8001/play/a02a/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",Тайны Галактики
-http://195.158.222.115:8001/play/a02d/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",.black
-http://195.158.222.115:8001/play/a01y/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",.sci-fi
-http://195.158.222.115:8001/play/a01x/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",2X2
-http://195.158.222.115:8001/play/a08h/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",365 дней
-http://195.158.222.115:8001/play/a0ay/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",8 канал
-http://195.158.222.115:8001/play/a02p/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",Авто 24
-http://195.158.222.115:8001/play/a00l/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",Amedia Premium HD
-http://195.158.222.115:8001/play/a0ai/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",Bollywood HD
-http://195.158.222.115:8001/play/a0am/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",EPIC
-http://195.158.222.115:8001/play/a086/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",FlixSnip
-http://195.158.222.115:8001/play/a01n/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",KinoLiving
-http://195.158.222.115:8001/play/a01u/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",MAGNAT
-http://195.158.222.115:8001/play/a08a/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",ОТР
-http://195.158.222.115:8001/play/a0ar/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",Romance
-http://195.158.222.115:8001/play/a08i/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",SHOT TV
-http://195.158.222.115:8001/play/a0bi/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",Star Cinema
-http://195.158.222.115:8001/play/a08b/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",Star Family
-http://195.158.222.115:8001/play/a08c/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",TV1000 Русское кино
-http://195.158.222.115:8001/play/a01g/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",TV1000
-http://195.158.222.115:8001/play/a01e/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",TV1000 Action
-http://195.158.222.115:8001/play/a01f/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",Women's Magazine
-http://195.158.222.115:8001/play/a01w/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",World Fashion
-http://195.158.222.115:8001/play/a00g/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",Авто Плюс
-http://195.158.222.115:8001/play/a0az/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",БелРос
-http://195.158.222.115:8001/play/a029/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",ДОМАШНИЕ ЖИВОТНЫЕ
-http://195.158.222.115:8001/play/a01o/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",Доктор
-http://195.158.222.115:8001/play/a008/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",Дом Кино Премиум HD
-http://195.158.222.115:8001/play/a0ag/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",Еврокино
-http://195.158.222.115:8001/play/a02f/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",ЖАРА
-http://195.158.222.115:8001/play/a0bk/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",Индия
-http://195.158.222.115:8001/play/a0bo/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",КВН ТВ
-http://195.158.222.115:8001/play/a0bl/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",КИНЕКО
-http://195.158.222.115:8001/play/a01r/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",КИНОКОМЕДИЯ
-http://195.158.222.115:8001/play/a0b5/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",КИНОМИКС
-http://195.158.222.115:8001/play/a0b2/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",ИНДИЙСКОЕ КИНО
-http://195.158.222.115:8001/play/a0b1/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",КИНОПРЕМЬЕРА HD
-http://195.158.222.115:8001/play/a076/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",КИНОСВИДАНИЕ
-http://195.158.222.115:8001/play/a0b3/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",НАШЕ НОВОЕ КИНО
-http://195.158.222.115:8001/play/a0bd/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",РОДНОЕ КИНО
-http://195.158.222.115:8001/play/a0bc/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",КИНОСЕМЬЯ
-http://195.158.222.115:8001/play/a0bg/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",КИНОСЕРИЯ
-http://195.158.222.115:8001/play/a0ba/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",КИНОУЖАС
-http://195.158.222.115:8001/play/a0bf/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",КИНОХИТ
-http://195.158.222.115:8001/play/a0b4/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",МУЖСКОЕ КИНО
-http://195.158.222.115:8001/play/a0bb/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",Кино без границ
-http://195.158.222.115:8001/play/a087/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",Кино без границ HD
-http://195.158.222.115:8001/play/a0au/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",Кто есть кто
-http://195.158.222.115:8001/play/a0b6/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",Кухня ТВ
-http://195.158.222.115:8001/play/a0b7/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",Любимое Кино HD
-http://195.158.222.115:8001/play/a0ap/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",МИР 24
-http://195.158.222.115:8001/play/a02o/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",Мир сериала HD
-http://195.158.222.115:8001/play/a0aq/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",Ностальгия
-http://195.158.222.115:8001/play/a0be/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",Продвижение
-http://195.158.222.115:8001/play/a02v/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",РБК
-http://195.158.222.115:8001/play/a00c/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",САПФИР HD
-http://195.158.222.115:8001/play/a0an/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",Санкт-Петербург
-http://195.158.222.115:8001/play/a02q/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",Суббота!
-http://195.158.222.115:8001/play/a00f/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",Танцуй!
-http://195.158.222.115:8001/play/a028/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",Телеканал 360
-http://195.158.222.115:8001/play/a00b/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",Точка отрыва
-http://195.158.222.115:8001/play/a01m/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",Усадьба
-http://195.158.222.115:8001/play/a01p/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",Центральное телевидение
-http://195.158.222.115:8001/play/a083/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",Ю
-http://195.158.222.115:8001/play/a00e/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",BABY TIME
-http://195.158.222.115:8001/play/a084/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",BOLT
-http://195.158.222.115:8001/play/a088/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",Gulli Girl
-http://195.158.222.115:8001/play/a02k/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",Kids TV
-http://195.158.222.115:8001/play/a08d/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",Duck TV
-http://195.158.222.115:8001/play/a02x/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",TiJi
-http://195.158.222.115:8001/play/a02w/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",В гостях у сказки HD
-http://195.158.222.115:8001/play/a0as/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",Детский Мир HD
-http://195.158.222.115:8001/play/a081/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",Киномульт
-http://195.158.222.115:8001/play/a08f/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",СТС Kids
-http://195.158.222.115:8001/play/a0aj/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",Cartoon Classics
-http://195.158.222.115:8001/play/a08g/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",Мама
-http://195.158.222.115:8001/play/a01v/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",СОЛНЦЕ
-http://195.158.222.115:8001/play/a009/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",Радость моя
-http://195.158.222.115:8001/play/a00m/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",Супергерои
-http://195.158.222.115:8001/play/a0bj/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",Da Vinci
-http://195.158.222.115:8001/play/a01d/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",Ля-минор
-http://195.158.222.115:8001/play/a0b8/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",Европа Плюс ТВ
-http://195.158.222.115:8001/play/a0b0/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",ТНТ Music
-http://195.158.222.115:8001/play/a00i/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",MCM Top
-http://195.158.222.115:8001/play/a02b/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",RU.TV
-http://195.158.222.115:8001/play/a02e/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",BRIDGE TV
-http://195.158.222.115:8001/play/a02m/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",BRIDGE HD
-http://195.158.222.115:8001/play/a0al/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",BRIDGE TV РУССКИЙ ХИТ
-http://195.158.222.115:8001/play/a02n/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",МАТЧ ПРЕМЬЕР
-http://195.158.222.115:8001/play/a00a/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",МАТЧ ПРЕМЬЕР HD
-http://195.158.222.115:8001/play/a00q/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",МАТЧ! HD
-http://195.158.222.115:8001/play/a06u/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",МАТЧ! АРЕНА
-http://195.158.222.115:8001/play/a001/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",МАТЧ! АРЕНА HD
-http://195.158.222.115:8001/play/a06z/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",МАТЧ! БОЕЦ
-http://195.158.222.115:8001/play/a002/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",МАТЧ! БОЕЦ HD
-http://195.158.222.115:8001/play/a00r/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",МАТЧ! ИГРА
-http://195.158.222.115:8001/play/a003/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",МАТЧ! ИГРА HD
-http://195.158.222.115:8001/play/a070/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",МАТЧ! СТРАНА
-http://195.158.222.115:8001/play/a004/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",МАТЧ! СТРАНА HD
-http://195.158.222.115:8001/play/a06t/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",МАТЧ! ФУТБОЛ 1
-http://195.158.222.115:8001/play/a005/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",МАТЧ! ФУТБОЛ 1 HD
-http://195.158.222.115:8001/play/a00t/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",МАТЧ! ФУТБОЛ 2
-http://195.158.222.115:8001/play/a006/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",МАТЧ! ФУТБОЛ 2 HD
-http://195.158.222.115:8001/play/a00o/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",МАТЧ! ФУТБОЛ 3
-http://195.158.222.115:8001/play/a007/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",МАТЧ! ФУТБОЛ 3 HD
-http://195.158.222.115:8001/play/a00p/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",KHL
-http://195.158.222.115:8001/play/a00d/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",KHL Prime
-http://195.158.222.115:8001/play/a06v/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",Мир Баскетбола
-http://195.158.222.115:8001/play/a00k/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",СТАРТ
-http://195.158.222.115:8001/play/a00n/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",СТАРТ ТРИУМФ
-http://195.158.222.115:8001/play/a0ak/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",Trace Sport Stars
-http://195.158.222.115:8001/play/a082/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",Viasat Sport
-http://195.158.222.115:8001/play/a01k/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",MMA-TV.com
-http://195.158.222.115:8001/play/a00j/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс",Extreme Sports
-http://195.158.222.115:8001/play/a01l/index.m3u8
 
 
 
@@ -3060,6 +2790,279 @@ https://simf.1tvcrimea.ru/simferopol24.m3u8
 https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/qazaqstantv/qazaqstantv_720/chunks.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://www.samru.ru/content/Image/News/logo/gis_logo1.jpg",Телеканал ГИС Самара
 https://tvsamaragis.tk/new/new/tracks-v1a1/mono.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",ТНТ HD
+http://195.158.222.115:8001/play/a06x/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",ТНТ4
+http://195.158.222.115:8001/play/a08e/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",Москва 24
+http://195.158.222.115:8001/play/a02s/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",Big Planet
+http://195.158.222.115:8001/play/a01t/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",Big Planet HD
+http://195.158.222.115:8001/play/a0av/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",HD Life
+http://195.158.222.115:8001/play/a06w/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",RTG HD
+http://195.158.222.115:8001/play/a0aw/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",TERRA HD
+http://195.158.222.115:8001/play/a0ah/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",The Explorers
+http://195.158.222.115:8001/play/a08j/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",Travel+Adventure
+http://195.158.222.115:8001/play/a02g/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",Viasat Explore
+http://195.158.222.115:8001/play/a01h/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",Viasat History
+http://195.158.222.115:8001/play/a01i/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",Viasat Nature
+http://195.158.222.115:8001/play/a01j/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",Дикий
+http://195.158.222.115:8001/play/a0bm/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",История
+http://195.158.222.115:8001/play/a02h/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",Моя Планета
+http://195.158.222.115:8001/play/a02u/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",Моя стихия HD
+http://195.158.222.115:8001/play/a0at/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",Наука
+http://195.158.222.115:8001/play/a02j/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",Охота и рыбалка
+http://195.158.222.115:8001/play/a02a/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",Тайны Галактики
+http://195.158.222.115:8001/play/a02d/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",.black
+http://195.158.222.115:8001/play/a01y/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",.sci-fi
+http://195.158.222.115:8001/play/a01x/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",2X2
+http://195.158.222.115:8001/play/a08h/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",365 дней
+http://195.158.222.115:8001/play/a0ay/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",8 канал
+http://195.158.222.115:8001/play/a02p/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",Авто 24
+http://195.158.222.115:8001/play/a00l/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",Amedia Premium HD
+http://195.158.222.115:8001/play/a0ai/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",Bollywood HD
+http://195.158.222.115:8001/play/a0am/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",EPIC
+http://195.158.222.115:8001/play/a086/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",FlixSnip
+http://195.158.222.115:8001/play/a01n/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",KinoLiving
+http://195.158.222.115:8001/play/a01u/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",MAGNAT
+http://195.158.222.115:8001/play/a08a/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",ОТР
+http://195.158.222.115:8001/play/a0ar/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",Romance
+http://195.158.222.115:8001/play/a08i/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",SHOT TV
+http://195.158.222.115:8001/play/a0bi/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",Star Cinema
+http://195.158.222.115:8001/play/a08b/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",Star Family
+http://195.158.222.115:8001/play/a08c/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",TV1000 Русское кино
+http://195.158.222.115:8001/play/a01g/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",TV1000
+http://195.158.222.115:8001/play/a01e/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",TV1000 Action
+http://195.158.222.115:8001/play/a01f/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",Women's Magazine
+http://195.158.222.115:8001/play/a01w/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",World Fashion
+http://195.158.222.115:8001/play/a00g/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",Авто Плюс
+http://195.158.222.115:8001/play/a0az/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",БелРос
+http://195.158.222.115:8001/play/a029/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",ДОМАШНИЕ ЖИВОТНЫЕ
+http://195.158.222.115:8001/play/a01o/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",Доктор
+http://195.158.222.115:8001/play/a008/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",Дом Кино Премиум HD
+http://195.158.222.115:8001/play/a0ag/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",Еврокино
+http://195.158.222.115:8001/play/a02f/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",ЖАРА
+http://195.158.222.115:8001/play/a0bk/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",Индия
+http://195.158.222.115:8001/play/a0bo/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",КВН ТВ
+http://195.158.222.115:8001/play/a0bl/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",КИНЕКО
+http://195.158.222.115:8001/play/a01r/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",КИНОКОМЕДИЯ
+http://195.158.222.115:8001/play/a0b5/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",КИНОМИКС
+http://195.158.222.115:8001/play/a0b2/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",ИНДИЙСКОЕ КИНО
+http://195.158.222.115:8001/play/a0b1/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",КИНОПРЕМЬЕРА HD
+http://195.158.222.115:8001/play/a076/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",КИНОСВИДАНИЕ
+http://195.158.222.115:8001/play/a0b3/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",НАШЕ НОВОЕ КИНО
+http://195.158.222.115:8001/play/a0bd/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",РОДНОЕ КИНО
+http://195.158.222.115:8001/play/a0bc/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",КИНОСЕМЬЯ
+http://195.158.222.115:8001/play/a0bg/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",КИНОСЕРИЯ
+http://195.158.222.115:8001/play/a0ba/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",КИНОУЖАС
+http://195.158.222.115:8001/play/a0bf/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",КИНОХИТ
+http://195.158.222.115:8001/play/a0b4/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",МУЖСКОЕ КИНО
+http://195.158.222.115:8001/play/a0bb/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",Кино без границ
+http://195.158.222.115:8001/play/a087/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",Кино без границ HD
+http://195.158.222.115:8001/play/a0au/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",Кто есть кто
+http://195.158.222.115:8001/play/a0b6/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",Кухня ТВ
+http://195.158.222.115:8001/play/a0b7/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",Любимое Кино HD
+http://195.158.222.115:8001/play/a0ap/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",МИР 24
+http://195.158.222.115:8001/play/a02o/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",Мир сериала HD
+http://195.158.222.115:8001/play/a0aq/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",Ностальгия
+http://195.158.222.115:8001/play/a0be/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",Продвижение
+http://195.158.222.115:8001/play/a02v/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",РБК
+http://195.158.222.115:8001/play/a00c/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",САПФИР HD
+http://195.158.222.115:8001/play/a0an/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",Санкт-Петербург
+http://195.158.222.115:8001/play/a02q/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",Суббота!
+http://195.158.222.115:8001/play/a00f/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",Танцуй!
+http://195.158.222.115:8001/play/a028/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",Телеканал 360
+http://195.158.222.115:8001/play/a00b/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",Точка отрыва
+http://195.158.222.115:8001/play/a01m/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",Усадьба
+http://195.158.222.115:8001/play/a01p/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",Центральное телевидение
+http://195.158.222.115:8001/play/a083/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",Ю
+http://195.158.222.115:8001/play/a00e/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",BABY TIME
+http://195.158.222.115:8001/play/a084/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",BOLT
+http://195.158.222.115:8001/play/a088/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",Gulli Girl
+http://195.158.222.115:8001/play/a02k/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",Kids TV
+http://195.158.222.115:8001/play/a08d/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",Duck TV
+http://195.158.222.115:8001/play/a02x/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",TiJi
+http://195.158.222.115:8001/play/a02w/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",В гостях у сказки HD
+http://195.158.222.115:8001/play/a0as/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",Детский Мир HD
+http://195.158.222.115:8001/play/a081/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",Киномульт
+http://195.158.222.115:8001/play/a08f/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",СТС Kids
+http://195.158.222.115:8001/play/a0aj/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",Cartoon Classics
+http://195.158.222.115:8001/play/a08g/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",Мама
+http://195.158.222.115:8001/play/a01v/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",СОЛНЦЕ
+http://195.158.222.115:8001/play/a009/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",Радость моя
+http://195.158.222.115:8001/play/a00m/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",Супергерои
+http://195.158.222.115:8001/play/a0bj/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",Da Vinci
+http://195.158.222.115:8001/play/a01d/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",Ля-минор
+http://195.158.222.115:8001/play/a0b8/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",Европа Плюс ТВ
+http://195.158.222.115:8001/play/a0b0/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",ТНТ Music
+http://195.158.222.115:8001/play/a00i/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",MCM Top
+http://195.158.222.115:8001/play/a02b/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",RU.TV
+http://195.158.222.115:8001/play/a02e/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",BRIDGE TV
+http://195.158.222.115:8001/play/a02m/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",BRIDGE HD
+http://195.158.222.115:8001/play/a0al/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",BRIDGE TV РУССКИЙ ХИТ
+http://195.158.222.115:8001/play/a02n/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",МАТЧ ПРЕМЬЕР
+http://195.158.222.115:8001/play/a00a/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",МАТЧ ПРЕМЬЕР HD
+http://195.158.222.115:8001/play/a00q/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",МАТЧ! HD
+http://195.158.222.115:8001/play/a06u/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",МАТЧ! АРЕНА
+http://195.158.222.115:8001/play/a001/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",МАТЧ! АРЕНА HD
+http://195.158.222.115:8001/play/a06z/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",МАТЧ! БОЕЦ
+http://195.158.222.115:8001/play/a002/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",МАТЧ! БОЕЦ HD
+http://195.158.222.115:8001/play/a00r/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",МАТЧ! ИГРА
+http://195.158.222.115:8001/play/a003/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",МАТЧ! ИГРА HD
+http://195.158.222.115:8001/play/a070/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",МАТЧ! СТРАНА
+http://195.158.222.115:8001/play/a004/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",МАТЧ! СТРАНА HD
+http://195.158.222.115:8001/play/a06t/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",МАТЧ! ФУТБОЛ 1
+http://195.158.222.115:8001/play/a005/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",МАТЧ! ФУТБОЛ 1 HD
+http://195.158.222.115:8001/play/a00t/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",МАТЧ! ФУТБОЛ 2
+http://195.158.222.115:8001/play/a006/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",МАТЧ! ФУТБОЛ 2 HD
+http://195.158.222.115:8001/play/a00o/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",МАТЧ! ФУТБОЛ 3
+http://195.158.222.115:8001/play/a007/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",МАТЧ! ФУТБОЛ 3 HD
+http://195.158.222.115:8001/play/a00p/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",KHL
+http://195.158.222.115:8001/play/a00d/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",KHL Prime
+http://195.158.222.115:8001/play/a06v/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",Мир Баскетбола
+http://195.158.222.115:8001/play/a00k/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",СТАРТ
+http://195.158.222.115:8001/play/a00n/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",СТАРТ ТРИУМФ
+http://195.158.222.115:8001/play/a0ak/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",Trace Sport Stars
+http://195.158.222.115:8001/play/a082/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",Viasat Sport
+http://195.158.222.115:8001/play/a01k/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",MMA-TV.com
+http://195.158.222.115:8001/play/a00j/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",Extreme Sports
+http://195.158.222.115:8001/play/a01l/index.m3u8
+
+
 
 
 
