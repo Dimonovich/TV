@@ -73,6 +73,12 @@ https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Novella_HD.smil/tracks-v1
 http://158.101.214.187:8080/channel/n60cfbb4/index.m3u8?q=443d5edac354972a97f67425879f54e1
 #EXTINF:-1 group-title="TEST ⓵",VIP Premiere HD
 rtmp://185.26.157.3/live//vip_premiere_hd
+#EXTINF:-1 group-title="TEST ⓵",Мир сериала
+rtmp://185.26.157.3/live//mir_seriala
+#EXTINF:-1 group-title="TEST ⓵",Россия 1
+rtmp://185.26.157.3/live//rossia1
+#EXTINF:-1 group-title="TEST ⓵",TLC
+rtmp://185.26.157.3/live//tlc
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/HWNnL7LN/knopka-tv.jpg",Кнопка ТВ
 http://api.alpaca.t62a.com/hls/9116/stream0.m3u8
 #EXTINF:-1 group-title="TEST ⓵",МУЛЬТИМАНИЯ
