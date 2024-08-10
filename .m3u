@@ -378,7 +378,7 @@ http://95.67.12.82:9067
 #EXTINF:-1 ,Eurosport 1 HD
 http://81.7.108.21:9000/play/EurosportHD-DVBC394-sti4400018360108
 #EXTINF:-1 ,Eurosport 2 HD
-http://81.7.108.21:9000/play/Eurosport2HD-DVBC386-sti4400018360108
+rtmp://5.182.229.90//7203
 
 #EXTINF:-1 ,Матч HD
 http://31.148.6.9:10003/index.m3u8
