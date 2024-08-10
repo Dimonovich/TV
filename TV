@@ -1960,7 +1960,7 @@ https://osnmedia.servicecdn.ru/streams/17603_88089/1080n/index.m3u8
 #EXTINF:-1 group-title="С сайтов", Silk Way
 https://ikomg-kazakh.akamaized.net/kazakh/kazakh.m3u8
 #EXTINF:-1 group-title="С сайтов" tvg-logo="http://epg.it999.ru/img/2142.png",Настоящее время
-https://rfe-ingest.akamaized.net/dash/live/2033030/tvmc05/manifest.mpd
+https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
 #EXTINF:-1 group-title="С сайтов" tvg-logo="https://i.postimg.cc/nLwPZgX2/image.jpg",ТСВ
 https://iptv-hls.idc.md/hls/2/live1.m3u8
 #EXTINF:-1 group-title="С сайтов" tvg-logo="https://tv7plus.com/wp-content/uploads/2022/03/cropped-tv7_500h500-180x180.jpg",ТВ7+
@@ -1977,12 +1977,8 @@ https://vcdn1.produck.company/out/ngrp:dtv_all/playlist.m3u8
 http://nadiya.home-net.com.ua/mob/mystream.m3u8
 #EXTINF:-1 group-title="С сайтов" tvg-logo="http://orbita.dn.ua/wp-content/uploads/2020/09/logo_Orbita_fin14.png",Орбiта
 http://ftp.orbita.dn.ua/hls/orbita.m3u8
-#EXTINF:-1 group-title="С сайтов" tvg-id="sampo-tv",Сампо ТВ 360°
-http://iptv-hls.karelia.pro/streams/Sampo360/stream.m3u8
 #EXTINF:-1 group-title="С сайтов" tvg-logo="https://i.postimg.cc/Qd1GFD3R/image.png",Абаза ТВ
 https://public.apsny.camera/tv_abaza_tv_to_site/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="С сайтов" tvg-logo="https://pbs.twimg.com/profile_images/1161883563492564992/OPawdkI-_400x400.jpg",12 КАНАЛ (ОМСК)
-https://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="С сайтов" tvg-logo="https://tva.ua/wp-content/uploads/2020/01/tva-new-logo.png",ТВА
 https://hls.cdn.ua/tva.ua_live/livestream/chunklist.m3u8
 #EXTINF:-1 group-title="С сайтов" tvg-logo="https://www.cableman.ru/sites/default/files/sochi_live.png",Sochi Live HD
@@ -2064,6 +2060,8 @@ https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 http://tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/playlist_hdlow.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://i.postimg.cc/L8X5NW5Z/unnamed.jpg",Тивиком
 http://tvcom.stream.intelema.ru/tvcom/studio/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://pbs.twimg.com/profile_images/1161883563492564992/OPawdkI-_400x400.jpg",12 КАНАЛ (ОМСК)
+https://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://online-red.com/images/tv/lugansk-24.png",Луганск 24
 https://tv.gtrklnr.ru/hls/Lugansk24.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://logotype.download/tv/12186.png",ТРК 555 HD
