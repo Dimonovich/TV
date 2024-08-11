@@ -3198,7 +3198,7 @@ http://195.158.222.115:8000/play/a038/index.m3u8
 http://195.158.222.115:8000/play/a035/index.m3u8
 #EXTINF:-1 group-title="ЗР-Телеком плюс_2 (VPN)",Women's Magazine
 http://195.158.222.115:8000/play/a02w/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс_2 (VPN)",World Fashion
+#EXTINF:-1 group-title="ЗР-Телеком плюс_2 (VPN)",World Fashion TV
 http://195.158.222.115:8000/play/a013/index.m3u8
 #EXTINF:-1 group-title="ЗР-Телеком плюс_2 (VPN)",Время
 http://195.158.222.115:8000/play/188/index.m3u8
@@ -3350,14 +3350,14 @@ http://195.158.222.115:8000/play/65/index.m3u8
 http://195.158.222.115:8000/play/a049/index.m3u8
 #EXTINF:-1 group-title="ЗР-Телеком плюс_2 (VPN)",ЕвроКино
 http://195.158.222.115:8000/play/63/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс_2 (VPN)",ИНДИЙСКОЕ КИНО
-http://195.158.222.115:8000/play/49/index.m3u8
 #EXTINF:-1 group-title="ЗР-Телеком плюс_2 (VPN)",Иллюзион+
 http://195.158.222.115:8000/play/71/index.m3u8
 #EXTINF:-1 group-title="ЗР-Телеком плюс_2 (VPN)",Индия
 http://195.158.222.115:8000/play/a00p/index.m3u8
 #EXTINF:-1 group-title="ЗР-Телеком плюс_2 (VPN)",КИНО ТВ
 http://195.158.222.115:8000/play/41/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс_2 (VPN)",ИНДИЙСКОЕ КИНО
+http://195.158.222.115:8000/play/49/index.m3u8
 #EXTINF:-1 group-title="ЗР-Телеком плюс_2 (VPN)",КИНОКОМЕДИЯ
 http://195.158.222.115:8000/play/46/index.m3u8
 #EXTINF:-1 group-title="ЗР-Телеком плюс_2 (VPN)",КИНОМИКС
@@ -3372,6 +3372,10 @@ http://195.158.222.115:8000/play/45/index.m3u8
 http://195.158.222.115:8000/play/43/index.m3u8
 #EXTINF:-1 group-title="ЗР-Телеком плюс_2 (VPN)",КИНОУЖАС
 http://195.158.222.115:8000/play/52/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс_2 (VPN)",НАШЕ НОВОЕ КИНО
+http://195.158.222.115:8000/play/66/index.m3u8
+#EXTINF:-1 group-title="ЗР-Телеком плюс_2 (VPN)",МУЖСКОЕ КИНО
+http://195.158.222.115:8000/play/42/index.m3u8
 #EXTINF:-1 group-title="ЗР-Телеком плюс_2 (VPN)",КИНОХИТ
 http://195.158.222.115:8000/play/a00q/index.m3u8
 #EXTINF:-1 group-title="ЗР-Телеком плюс_2 (VPN)",Кинеко
@@ -3388,15 +3392,11 @@ http://195.158.222.115:8000/play/a016/index.m3u8
 http://195.158.222.115:8000/play/a017/index.m3u8
 #EXTINF:-1 group-title="ЗР-Телеком плюс_2 (VPN)",Любимое Кино HD
 http://195.158.222.115:8000/play/a04i/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс_2 (VPN)",МУЖСКОЕ КИНО
-http://195.158.222.115:8000/play/42/index.m3u8
 #EXTINF:-1 group-title="ЗР-Телеком плюс_2 (VPN)",Мир сериала HD
 http://195.158.222.115:8000/play/75/index.m3u8
 #EXTINF:-1 group-title="ЗР-Телеком плюс_2 (VPN)",Мосфильм. Золотая Коллекция
 http://195.158.222.115:8000/play/a022/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс_2 (VPN)",НАШЕ НОВОЕ КИНО
-http://195.158.222.115:8000/play/66/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс_2 (VPN)",Настоящее Страшное Телевидение
+#EXTINF:-1 group-title="ЗР-Телеком плюс_2 (VPN)",НСТ
 http://195.158.222.115:8000/play/51/index.m3u8
 #EXTINF:-1 group-title="ЗР-Телеком плюс_2 (VPN)",ПОБЕДА
 http://195.158.222.115:8000/play/32/index.m3u8
@@ -3450,7 +3450,7 @@ http://195.158.222.115:8000/play/a006/index.m3u8
 http://195.158.222.115:8000/play/127/index.m3u8
 #EXTINF:-1 group-title="ЗР-Телеком плюс_2 (VPN)",СТС Kids HD
 http://195.158.222.115:8000/play/a04b/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс_2 (VPN)",Cartoons Classic
+#EXTINF:-1 group-title="ЗР-Телеком плюс_2 (VPN)",Cartoons Classics
 http://195.158.222.115:8000/play/a05h/index.m3u8
 #EXTINF:-1 group-title="ЗР-Телеком плюс_2 (VPN)",Duck TV
 http://195.158.222.115:8000/play/a02z/index.m3u8
@@ -3534,7 +3534,7 @@ http://195.158.222.115:8000/play/156/index.m3u8
 http://195.158.222.115:8000/play/83/index.m3u8
 #EXTINF:-1 group-title="ЗР-Телеком плюс_2 (VPN)",МАТЧ! АРЕНА HD
 http://195.158.222.115:8000/play/182/index.m3u8
-#EXTINF:-1 group-title="ЗР-Телеком плюс_2 (VPN)",МАТЧ! БОЕЦ
+#EXTINF:-1 group-title="ЗР-Телеком плюс_2 (VPN)",Матч! Боец HD
 http://195.158.222.115:8000/play/84/index.m3u8
 #EXTINF:-1 group-title="ЗР-Телеком плюс_2 (VPN)",МАТЧ! БОЕЦ  HD
 http://195.158.222.115:8000/play/a03d/index.m3u8
