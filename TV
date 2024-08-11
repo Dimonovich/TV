@@ -9745,8 +9745,10 @@ http://217.174.225.146/hls/ch004_720/index.m3u8
 http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-logo="https://assets-imgx.fubo.tv/marketing/lp/images/fsn/fsn-logo-white.png",Fubo Sports Network
 https://playout.fubo.tv/plex/3.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆" Eurosport Live HD
+#EXTINF:-1 group-title="Спорткомплекс 🏆" ,Eurosport Live HD
 http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆" ,Sky Mondiale 1 HD
+http://iptv-hls.idc.md:8200/hls/77/live1.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Edge Sport
 https://edgesport-samsunguk.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Tennis Channel
