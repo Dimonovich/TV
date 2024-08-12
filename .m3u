@@ -8,7 +8,7 @@ https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 ,ПЕРВЫЙ КАНАЛ
 http://91.142.158.107:8092/play/1/index.m3u8
 
-#EXTINF:-1 group-title="СКТ ТВ (VPN)",Россия 1 HD
+#EXTINF:-1 group-title="Вокзал-Инфоком (VPN)",Россия 1 HD
 http://188.113.190.15/172/video.m3u8
 
 #EXTINF:-1 ,РОССИЯ К
@@ -91,7 +91,7 @@ https://tochkatv-live.cdnvideo.ru/tochkatv_pub/tainatv.stream_aac2.smil/playlist
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 ,История
-http://109.239.208.82:80/history/index.m3u8
+http://iptv.mega.net.ru:8888/Istoria/mono.m3u8
 #EXTINF:-1 ,Animal Planet
 https://bkm.beetv.kz/btv/live/hls/000000216.m3u8
 
@@ -177,36 +177,34 @@ http://91.142.158.107:8092/play/26/index.m3u8
 #EXTINF:-1 ,Кино ТВ HD
 http://91.142.158.107:8092/play/28/index.m3u8
 
-#EXTINF:-1 group-title="СКТ ТВ (VPN)",Кинеко
-http://188.113.190.15/57/video.m3u8
-#EXTINF:-1 group-title="СКТ ТВ (VPN)",Индийское кино
-http://188.113.190.15/329/video.m3u8
-#EXTINF:-1 group-title="СКТ ТВ (VPN)",Кинокомедия HD
-http://188.113.190.15/129/video.m3u8
-#EXTINF:-1 group-title="СКТ ТВ (VPN)",Киномикс
-http://188.113.190.15/308/video.m3u8
-#EXTINF:-1 group-title="СКТ ТВ (VPN)",Родное кино
-http://188.113.190.15/317/video.m3u8
-#EXTINF:-1 group-title="СКТ ТВ (VPN)",Кинопремьера HD
-http://188.113.190.15/309/video.m3u8
-#EXTINF:-1 group-title="СКТ ТВ (VPN)",Киносвидание
-http://188.113.190.15/310/video.m3u8
-#EXTINF:-1 group-title="СКТ ТВ (VPN)",Мужское кино
-http://188.113.190.15/316/video.m3u8
-#EXTINF:-1 group-title="СКТ ТВ (VPN)",Наше новое кино
-http://188.113.190.15/327/video.m3u8
-#EXTINF:-1 group-title="СКТ ТВ (VPN)",Киносемья
-http://188.113.190.15/311/video.m3u8
-#EXTINF:-1 group-title="СКТ ТВ (VPN)",Киносерия
-http://188.113.190.15/312/video.m3u8
-#EXTINF:-1 group-title="СКТ ТВ (VPN)",Киноужас HD
-http://188.113.190.15/323/video.m3u8
-#EXTINF:-1 group-title="СКТ ТВ (VPN)",Кинохит
-http://188.113.190.15/313/video.m3u8
-#EXTINF:-1 group-title="СКТ ТВ (VPN)",Комедия
-http://188.113.190.15/214/video.m3u8
-#EXTINF:-1 group-title="СКТ ТВ (VPN)",НСТ
-http://188.113.190.15/48/video.m3u8
+#EXTINF:-1 ,Кинеко
+http://iptv.mega.net.ru:8888/FOX/mono.m3u8
+#EXTINF:-1 ,Индийское Кино
+https://stream2.cinerama.uz/1060/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Кинокомедия HD
+http://94.232.104.237:8011/komediyatv/index.m3u8
+#EXTINF:-1 ,Киномикс
+https://stream2.cinerama.uz/1233/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Родное кино
+https://stream2.cinerama.uz/1052/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Кинопремьера HD
+https://stream2.cinerama.uz/1207/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Киносвидание
+https://stream2.cinerama.uz/1203/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Наше новое кино
+http://178.212.71.253:8002/play/a00i/index.m3u8
+#EXTINF:-1 ,Киносемья
+https://stream2.cinerama.uz/1234/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Киносерия
+https://stream2.cinerama.uz/1235/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Киноужас HD
+http://hls127.homeiptv.org:8880/Kinouzhas/video.m3u8
+#EXTINF:-1 ,Кинохит
+https://stream2.cinerama.uz/1055/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Комедия
+http://91.142.158.107:8092/play/30/index.m3u8
+#EXTINF:-1 ,НСТ
+http://91.142.158.107:8092/play/29/index.m3u8
 
 #EXTINF:-1 ,Cinema
 http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
@@ -315,7 +313,7 @@ http://serv30.vintera.tv:8081/sochi/sochi_stream/chunks.m3u8
 https://streamer1.connectto.com/532/mono.m3u8
 
 #EXTINF:-1 ,КВН ТВ
-http://109.239.208.82:80/kvn/index.m3u8
+http://195.158.222.115:8001/play/a0bl/index.m3u8
 
 #EXTINF:-1 ,СТС
 http://s18209.cdn.ngenix.net/hls/CH_R02_STS/playlist.m3u8
@@ -403,9 +401,9 @@ https://bkm.beetv.kz/btv/live/hls/000004619.m3u8
 http://95.67.12.82:9067
 
 #EXTINF:-1 ,Eurosport 1 HD
-http://81.7.108.21:9000/play/EurosportHD-DVBC394-sti4400018360108
+http://188.138.218.88:4001/play/a01x
 #EXTINF:-1 ,Eurosport 2 HD
-http://81.7.108.21:9000/play/Eurosport2HD-DVBC386-sti4400018360108
+http://188.138.218.88:4001/play/a01y
 
 #EXTINF:-1 ,Матч HD
 http://31.148.6.9:10003/index.m3u8
