@@ -4197,60 +4197,6 @@ http://185.177.112.234:8000/play/a011
 
 
 
-#EXTINF:-1 group-title="Экран (VPN)",info HD
-http://109.239.208.82:80/info/index.m3u8
-#EXTINF:-1 group-title="Экран (VPN)",Живая природа HD
-http://109.239.208.82:80/livenaturehd/index.m3u8
-#EXTINF:-1 group-title="Экран (VPN)",Арсенал HD
-http://109.239.208.82:80/arsenal/index.m3u8
-#EXTINF:-1 group-title="Экран (VPN)",НАУКА
-http://109.239.208.82:80/nauka20/index.m3u8
-#EXTINF:-1 group-title="Экран (VPN)",ДОМАШНИЕ ЖИВОТНЫЕ
-http://109.239.208.82:80/animals/index.m3u8
-#EXTINF:-1 group-title="Экран (VPN)",МОЯ ПЛАНЕТА
-http://109.239.208.82:80/myplanet/index.m3u8
-#EXTINF:-1 group-title="Экран (VPN)",ДРАЙВ
-http://109.239.208.82:80/drive/index.m3u8
-#EXTINF:-1 group-title="Экран (VPN)",ЖИВАЯ ПЛАНЕТА
-http://109.239.208.82:80/liveplanet/index.m3u8
-#EXTINF:-1 group-title="Экран (VPN)",Живая Природа
-http://109.239.208.82:80/livenaturehd/index.m3u8
-#EXTINF:-1 group-title="Экран (VPN)",Toнус
-http://109.239.208.82:80/tonus/index.m3u8
-#EXTINF:-1 group-title="Экран (VPN)",Lovestory
-http://109.239.208.82:80/lovestory/index.m3u8
-#EXTINF:-1 group-title="Экран (VPN)",ТОЧКА ОТРЫВА
-http://109.239.208.82:80/tochka/index.m3u8
-#EXTINF:-1 group-title="Экран (VPN)",ИСТОРИЯ
-http://109.239.208.82:80/history/index.m3u8
-#EXTINF:-1 group-title="Экран (VPN)",ЗООПАРК
-http://109.239.208.82:80/zoo/index.m3u8
-#EXTINF:-1 group-title="Экран (VPN)",360 Новости
-http://109.239.208.82:80/360-news/index.m3u8
-#EXTINF:-1 group-title="Экран (VPN)",РЕТРО
-http://109.239.208.82:80/retro/index.m3u8
-#EXTINF:-1 group-title="Экран (VPN)",ЕВРОКИНО
-http://109.239.208.82:80/eurokino/index.m3u8
-#EXTINF:-1 group-title="Экран (VPN)",КВН ТВ
-http://109.239.208.82:80/kvn/index.m3u8
-#EXTINF:-1 group-title="Экран (VPN)",АВТО 24
-http://109.239.208.82:80/auto24/index.m3u8
-#EXTINF:-1 group-title="Экран (VPN)",Тонус
-http://109.239.208.82:80/tonus/index.m3u8
-#EXTINF:-1 group-title="Экран (VPN)",МУЛЬТ
-http://109.239.208.82:80/mult/index.m3u8
-#EXTINF:-1 group-title="Экран (VPN)",Мультимузыка
-http://109.239.208.82:80/multmusic/index.m3u8
-#EXTINF:-1 group-title="Экран (VPN)",МУЗЫКА ПЕРВОГО
-http://109.239.208.82:80/muz1/index.m3u8
-#EXTINF:-1 group-title="Экран (VPN)",Запад 24
-http://109.239.208.82/zapad24/index.m3u8
-
-
-
-
-
-
 #EXTINF:-1 group-title="MIK LLC (VPN)",Первый канал
 http://188.190.222.48:8765/1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="MIK LLC (VPN)",НТВ
