@@ -295,16 +295,70 @@ http://81.198.190.9:7878/detski_mir/video.m3u8
 http://81.198.190.9:7878/NICKELODEON/video.m3u8
 #EXTINF:-1 group-title="Lattelecom" ,BOLT HD
 http://81.198.190.9:7878/BOLT/video.m3u8
-#EXTINF:-1 group-title="Lattelecom",Sport 1 LT
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Sport 1 LT
 http://81.198.190.9:7878/Sport_1/video.m3u8
-#EXTINF:-1 group-title="Lattelecom",Sport 2
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Sport 2
 http://81.198.190.9:7878/Sport_2/video.m3u8
-#EXTINF:-1 group-title="Lattelecom",Eurosport 1 HD
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Eurosport 1 HD
 http://81.198.190.9:7878/esp1/video.m3u8
-#EXTINF:-1 group-title="Lattelecom",Eurosport 2 HD
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Eurosport 2 HD
 http://81.198.190.9:7878/esp2/video.m3u8
 
 
+
+
+#EXTINF:-1 group-title="Lietuvos Interneto",Animal Planet HD
+http://185.160.141.247:8080/animalplanethd/mpegts
+#EXTINF:-1 group-title="Lietuvos Interneto",Discovery HD
+http://185.160.141.247:8080/discoveryhd/mpegts
+#EXTINF:-1 group-title="Lietuvos Interneto",History
+http://185.160.141.247:8080/history/mpegts
+#EXTINF:-1 group-title="Lietuvos Interneto",National Geographic HD
+http://185.160.141.247:8080/natgeohd/mpegts
+#EXTINF:-1 group-title="Lietuvos Interneto",Nat Geo Wild
+http://185.160.141.247:8080/natgeowild/mpegts
+#EXTINF:-1 group-title="Lietuvos Interneto",Travel Channel HD
+http://185.160.141.247:8080/travelhd/mpegts
+#EXTINF:-1 group-title="Lietuvos Interneto",Viasat History HD
+http://185.160.141.247:8080/viasathistoryhd/mpegts
+#EXTINF:-1 group-title="Lietuvos Interneto",Viasat Nature HD
+http://185.160.141.247:8080/viasatnaturehd/mpegts
+#EXTINF:-1 group-title="Lietuvos Interneto",Investigation Discovery
+http://185.160.141.247:8080/idxtrahd/mpegts
+#EXTINF:-1 group-title="Lietuvos Interneto",DocuBox HD
+http://185.160.141.247:8080/docuboxhd/mpegts
+#EXTINF:-1 group-title="Lietuvos Interneto",Bloomberg
+http://185.160.141.247:8080/bloomberg/mpegts
+#EXTINF:-1 group-title="Lietuvos Interneto",TV3 LT
+http://185.160.141.247:8080/tv3hd/mpegts
+#EXTINF:-1 group-title="Lietuvos Interneto",Epic Drama HD
+http://185.160.141.247:8080/epicdramahd/mpegts
+#EXTINF:-1 group-title="Lietuvos Interneto",Fast&FunBox HD
+http://185.160.141.247:8080/fastfunboxhd/mpegts
+#EXTINF:-1 group-title="Lietuvos Interneto",FilmBox
+http://185.160.141.247:8080/filmbox/mpegts
+#EXTINF:-1 group-title="Lietuvos Interneto",FilmBox ArtHouse
+http://185.160.141.247:8080/filmboxarthouse/mpegts
+#EXTINF:-1 group-title="Lietuvos Interneto",FOX
+http://185.160.141.247:8080/fox/mpegts
+#EXTINF:-1 group-title="Lietuvos Interneto",FOX Life
+http://185.160.141.247:8080/foxlife/mpegts
+#EXTINF:-1 group-title="Lietuvos Interneto",Kino 1 HD
+http://185.160.141.247:8080/kino1/mpegts
+#EXTINF:-1 group-title="Lietuvos Interneto",Кинокомедия
+http://185.160.141.247:8080/kinokomedija/mpegts
+#EXTINF:-1 group-title="Lietuvos Interneto",MTV Europe
+http://185.160.141.247:8080/mtv/mpegts
+#EXTINF:-1 group-title="Lietuvos Interneto",MTV Hits
+http://185.160.141.247:8080/mtvhits/mpegts
+#EXTINF:-1 group-title="Lietuvos Interneto",Nickelodeon
+http://185.160.141.247:8080/nickelodeon/mpegts
+#EXTINF:-1 group-title="Lietuvos Interneto",Nick Jr
+http://185.160.141.247:8080/nickjr/mpegts
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Eurosport 1 HD
+http://185.160.141.247:8080/eurosport1hd/mpegts
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Eurosport 2 HD
+http://185.160.141.247:8080/eurosport2hd/mpegts
 
 
 
