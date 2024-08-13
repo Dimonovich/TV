@@ -206,6 +206,32 @@ http://91.142.158.107:8092/play/30/index.m3u8
 #EXTINF:-1 ,НСТ
 http://91.142.158.107:8092/play/29/index.m3u8
 
+#EXTINF:-1,YOSSO TV Oblivion
+http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-OBLIVION/video.m3u8
+#EXTINF:-1,Yosso TV Забавное
+http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-ZABAVNOE/video.m3u8
+#EXTINF:-1,Yosso TV VHS
+http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-VHS/video.m3u8
+#EXTINF:-1,YOSSO TV Adventure
+http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-ADVENTURE/video.m3u8
+#EXTINF:-1,Yosso TV Русские фильмы
+http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-RUS/video.m3u8
+#EXTINF:-1,Yosso TV Ковбойское
+http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-KOWBOY/video.m3u8
+#EXTINF:-1,Yosso TV Наше Детское
+http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-DETSKOE/video.m3u8
+#EXTINF:-1,Yosso TV Союзмульт
+http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-MULT/video.m3u8
+#EXTINF:-1,Yosso TV Music Hits
+http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-MUSIC-HITS/video.m3u8
+#EXTINF:-1,C-Marvel HD
+http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-C-MARVEL/video.m3u8
+#EXTINF:-1,C-History HD
+http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-C-HISTORY/video.m3u8
+#EXTINF:-1,Yosso TV Netflix
+http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-NETFLIX/video.m3u8
+#EXTINF:-1,Yosso TV Disney
+http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-DISNEY/video.m3u8
 
 #EXTINF:-1 ,Cinema
 http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
