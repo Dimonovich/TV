@@ -231,21 +231,17 @@ http://81.198.190.9:7878/nase_lubimoe_kino/video.m3u8
 http://81.198.190.9:7878/kino1/video.m3u8
 #EXTINF:-1 group-title="Lattelecom" ,Kino 7
 http://81.198.190.9:7878/kino7/video.m3u8
-#EXTINF:-1 group-title="Lattelecom" ,Наше любимое кино
-http://81.198.190.9:7878/nase_lubimoe_kino/video.m3u8
 #EXTINF:-1 group-title="Lattelecom" ,Viasat Kino Comedy
 http://81.198.190.9:7878/VIPComedyHD/video.m3u8
 #EXTINF:-1 group-title="Lattelecom" ,Star Cinema
 http://81.198.190.9:7878/STARCINEMAHD/video.m3u8
 #EXTINF:-1 group-title="Lattelecom" ,STAR FAMILY
 http://81.198.190.9:7878/STARFAMILY/video.m3u8
-#EXTINF:-1 group-title="Lattelecom" ,BOLT HD
-http://81.198.190.9:7878/BOLT/video.m3u8
 #EXTINF:-1 group-title="Lattelecom" ,Film.Ua Drama HD
 http://81.198.190.9:7878/FILMUADRAMA/video.m3u8
 #EXTINF:-1 group-title="Lattelecom" ,FilmZone
 http://81.198.190.9:7878/FilmZone/video.m3u8
-#EXTINF:-1 group-title="Lattelecom" ,Super Plus
+#EXTINF:-1 group-title="Lattelecom" ,Super+
 http://81.198.190.9:7878/superplus/video.m3u8
 #EXTINF:-1 group-title="Lattelecom",Ost West
 http://81.198.190.9:7878/RTVD/video.m3u8
@@ -275,9 +271,13 @@ http://81.198.190.9:7878/inter/video.m3u8
 http://81.198.190.9:7878/360TV/video.m3u8
 #EXTINF:-1 group-title="Lattelecom",UATV HD
 http://81.198.190.9:7878/UATV/video.m3u8
+#EXTINF:-1 group-title="Lattelecom",TV3 LT
+http://81.198.190.9:7878/TV3/video.m3u8
+#EXTINF:-1 group-title="Lattelecom",TV6 LT
+http://81.198.190.9:7878/tv6/video.m3u8
 #EXTINF:-1 group-title="Lattelecom",STV HD LV
 http://81.198.190.9:7878/STV/video.m3u8
-#EXTINF:-1 group-title="Lattelecom",Riga24
+#EXTINF:-1 group-title="Lattelecom" tvg-id="riga-tv24",Riga 24
 http://81.198.190.9:7878/Riga24/video.m3u8
 #EXTINF:-1 group-title="Lattelecom",Gametoon HD
 http://81.198.190.9:7878/Gametoon/video.m3u8
@@ -293,10 +293,8 @@ http://81.198.190.9:7878/DOCUBOX/video.m3u8
 http://81.198.190.9:7878/detski_mir/video.m3u8
 #EXTINF:-1 group-title="Lattelecom" ,NICKELODEON
 http://81.198.190.9:7878/NICKELODEON/video.m3u8
-#EXTINF:-1 group-title="Lattelecom",TV3 LT
-http://81.198.190.9:7878/TV3/video.m3u8
-#EXTINF:-1 group-title="Lattelecom",TV6 LT
-http://81.198.190.9:7878/tv6/video.m3u8
+#EXTINF:-1 group-title="Lattelecom" ,BOLT HD
+http://81.198.190.9:7878/BOLT/video.m3u8
 #EXTINF:-1 group-title="Lattelecom",Sport 1 LT
 http://81.198.190.9:7878/Sport_1/video.m3u8
 #EXTINF:-1 group-title="Lattelecom",Sport 2
