@@ -239,6 +239,10 @@ http://91.205.199.3/ntvstil/index.m3u8
 http://91.205.199.3/rtgtv/index.m3u8
 #EXTINF:-1 group-title="Меганет",RTG HD
 http://91.205.199.3/rtghd/index.m3u8
+#EXTINF:-1 group-title="Меганет",Viasat explore
+http://91.205.199.3/viasatexplorer/index.m3u8
+#EXTINF:-1 group-title="Меганет",Viasat Nature HD
+http://91.205.199.3/viasatnature/index.m3u8
 #EXTINF:-1 group-title="Меганет",Глазами туриста HD
 http://91.205.199.3/glazamituristahd/index.m3u8
 #EXTINF:-1 group-title="Меганет",Живая природа HD
@@ -247,8 +251,6 @@ http://91.205.199.3/jivayaprirodahd/index.m3u8
 http://91.205.199.3/dikayaoxotahd/index.m3u8
 #EXTINF:-1 group-title="Меганет",Дикая рыбалка HD
 http://91.205.199.3/dikayaribalkahd/index.m3u8
-#EXTINF:-1 group-title="Меганет",2x2
-http://91.205.199.3/2x2tv/index.m3u8
 #EXTINF:-1 group-title="Меганет",8 канал
 http://91.205.199.3/8kanal/index.m3u8
 #EXTINF:-1 group-title="Меганет",Amedia 1
@@ -295,23 +297,21 @@ http://91.205.199.3/kinosvidanie/index.m3u8
 http://91.205.199.3/rodnoekino/index.m3u8
 #EXTINF:-1 group-title="Меганет",Ностальгия
 http://91.205.199.3/nostalgia/index.m3u8
-#EXTINF:-1 group-title="Меганет",o2tv
+#EXTINF:-1 group-title="Меганет",О!2
 http://91.205.199.3/o2tv/index.m3u8
-#EXTINF:-1 group-title="Меганет",Plan B HD
-http://91.205.199.3/planb/index.m3u8
 #EXTINF:-1 group-title="Меганет",Победа
 http://91.205.199.3/pobeda/index.m3u8
 #EXTINF:-1 group-title="Меганет",.Red
 http://91.205.199.3/red/index.m3u8
 #EXTINF:-1 group-title="Меганет",.Red HD
 http://91.205.199.3/redhd/index.m3u8
-#EXTINF:-1 group-title="Меганет",Shayan tv
+#EXTINF:-1 group-title="Меганет",Шаян
 http://91.205.199.3/shayantv/index.m3u8
 #EXTINF:-1 group-title="Меганет",Cinema
 http://91.205.199.3/sinema/index.m3u8
 #EXTINF:-1 group-title="Меганет",Совершенно секретно
 http://91.205.199.3/sovershennosekretno/index.m3u8
-#EXTINF:-1 group-title="Меганет",Точка отрыва
+#EXTINF:-1 group-title="Меганет",Кинеко
 http://91.205.199.3/tochkaotriva/index.m3u8
 #EXTINF:-1 group-title="Меганет",TV XXI
 http://91.205.199.3/tvxxi/index.m3u8
@@ -321,10 +321,6 @@ http://91.205.199.3/tv1000/index.m3u8
 http://91.205.199.3/tv1000action/index.m3u8
 #EXTINF:-1 group-title="Меганет",TV1000 русское кино
 http://91.205.199.3/tv1000ruskoekino/index.m3u8
-#EXTINF:-1 group-title="Меганет",Viasat explore
-http://91.205.199.3/viasatexplorer/index.m3u8
-#EXTINF:-1 group-title="Меганет",Viasat Nature HD
-http://91.205.199.3/viasatnature/index.m3u8
 #EXTINF:-1 group-title="Меганет",VIP Megahit HD
 http://91.205.199.3/vipmegahit/index.m3u8
 #EXTINF:-1 group-title="Меганет",VIP Serial HD
@@ -343,6 +339,8 @@ http://91.205.199.3/9volna/index.m3u8
 http://91.205.199.3/shansontv/index.m3u8
 #EXTINF:-1 group-title="Меганет",СТС Kids
 http://91.205.199.3/stskids/index.m3u8
+#EXTINF:-1 group-title="Меганет",Лёва
+http://91.205.199.3/planb/index.m3u8
 #EXTINF:-1 group-title="Меганет",Детский мир
 http://91.205.199.3/detskimir/index.m3u8
 #EXTINF:-1 group-title="Меганет",Солнце
@@ -353,6 +351,8 @@ http://91.205.199.3/multhd/index.m3u8
 http://91.205.199.3/multilandia/index.m3u8
 #EXTINF:-1 group-title="Меганет",Tiji
 http://91.205.199.3/tijitv/index.m3u8
+#EXTINF:-1 group-title="Меганет",Матч! Арена
+http://91.205.199.3/2x2tv/index.m3u8
 #EXTINF:-1 group-title="Меганет",Viasat sport
 http://91.205.199.3/viasatsport/index.m3u8
 #EXTINF:-1 group-title="Меганет",Матч ТВ HD
