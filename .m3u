@@ -8,7 +8,7 @@ https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 ,ПЕРВЫЙ КАНАЛ
 http://91.142.158.107:8092/play/1/index.m3u8
 
-#EXTINF:-1 group-title="Вокзал-Инфоком (VPN)",Россия 1 HD
+#EXTINF:-1 group-title="СКТ ТВ (VPN)",Россия 1 HD
 http://188.113.190.15/172/video.m3u8
 
 #EXTINF:-1 ,РОССИЯ К
@@ -91,7 +91,7 @@ https://tochkatv-live.cdnvideo.ru/tochkatv_pub/tainatv.stream_aac2.smil/playlist
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 ,История
-http://iptv.mega.net.ru:8888/Istoria/mono.m3u8
+http://109.239.208.82:80/history/index.m3u8
 #EXTINF:-1 ,Animal Planet
 https://bkm.beetv.kz/btv/live/hls/000000216.m3u8
 
@@ -177,32 +177,36 @@ http://91.142.158.107:8092/play/26/index.m3u8
 #EXTINF:-1 ,Кино ТВ HD
 http://91.142.158.107:8092/play/28/index.m3u8
 
-#EXTINF:-1 ,Кинеко
-http://iptv.mega.net.ru:8888/FOX/mono.m3u8
-#EXTINF:-1 ,Индийское Кино
-https://stream2.cinerama.uz/1060/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Кинокомедия HD
-http://94.232.104.237:8011/komediyatv/index.m3u8
-#EXTINF:-1 ,Киномикс
-https://stream2.cinerama.uz/1233/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Родное кино
-https://stream2.cinerama.uz/1052/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Кинопремьера HD
-https://stream2.cinerama.uz/1207/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Киносвидание
-https://stream2.cinerama.uz/1203/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Наше новое кино
-http://178.212.71.253:8002/play/a00i/index.m3u8
-#EXTINF:-1 ,Киносемья
-https://stream2.cinerama.uz/1234/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Киносерия
-https://stream2.cinerama.uz/1235/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Кинохит
-https://stream2.cinerama.uz/1055/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Комедия
-http://91.142.158.107:8092/play/30/index.m3u8
-#EXTINF:-1 ,НСТ
-http://91.142.158.107:8092/play/29/index.m3u8
+#EXTINF:-1 group-title="СКТ ТВ (VPN)",Кинеко
+http://188.113.190.15/57/video.m3u8
+#EXTINF:-1 group-title="СКТ ТВ (VPN)",Индийское кино
+http://188.113.190.15/329/video.m3u8
+#EXTINF:-1 group-title="СКТ ТВ (VPN)",Кинокомедия HD
+http://188.113.190.15/129/video.m3u8
+#EXTINF:-1 group-title="СКТ ТВ (VPN)",Киномикс
+http://188.113.190.15/308/video.m3u8
+#EXTINF:-1 group-title="СКТ ТВ (VPN)",Родное кино
+http://188.113.190.15/317/video.m3u8
+#EXTINF:-1 group-title="СКТ ТВ (VPN)",Кинопремьера HD
+http://188.113.190.15/309/video.m3u8
+#EXTINF:-1 group-title="СКТ ТВ (VPN)",Киносвидание
+http://188.113.190.15/310/video.m3u8
+#EXTINF:-1 group-title="СКТ ТВ (VPN)",Мужское кино
+http://188.113.190.15/316/video.m3u8
+#EXTINF:-1 group-title="СКТ ТВ (VPN)",Наше новое кино
+http://188.113.190.15/327/video.m3u8
+#EXTINF:-1 group-title="СКТ ТВ (VPN)",Киносемья
+http://188.113.190.15/311/video.m3u8
+#EXTINF:-1 group-title="СКТ ТВ (VPN)",Киносерия
+http://188.113.190.15/312/video.m3u8
+#EXTINF:-1 group-title="СКТ ТВ (VPN)",Киноужас HD
+http://188.113.190.15/323/video.m3u8
+#EXTINF:-1 group-title="СКТ ТВ (VPN)",Кинохит
+http://188.113.190.15/313/video.m3u8
+#EXTINF:-1 group-title="СКТ ТВ (VPN)",Комедия
+http://188.113.190.15/214/video.m3u8
+#EXTINF:-1 group-title="СКТ ТВ (VPN)",НСТ
+http://188.113.190.15/48/video.m3u8
 
 #EXTINF:-1 ,Cinema
 http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
@@ -218,33 +222,6 @@ http://195.9.195.3:8080/hls/187241.m3u8
 http://195.9.195.3:8080/hls/202127.m3u8
 #EXTINF:-1 ,Кошмар HD
 http://195.9.195.3:8080/hls/204709.m3u8
-
-#EXTINF:-1,YOSSO TV Oblivion
-http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-OBLIVION/video.m3u8
-#EXTINF:-1,Yosso TV Забавное
-http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-ZABAVNOE/video.m3u8
-#EXTINF:-1,Yosso TV VHS
-http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-VHS/video.m3u8
-#EXTINF:-1,YOSSO TV Adventure
-http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-ADVENTURE/video.m3u8
-#EXTINF:-1,Yosso TV Русские фильмы
-http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-RUS/video.m3u8
-#EXTINF:-1,Yosso TV Ковбойское
-http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-KOWBOY/video.m3u8
-#EXTINF:-1,Yosso TV Наше Детское
-http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-DETSKOE/video.m3u8
-#EXTINF:-1,Yosso TV Союзмульт
-http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-MULT/video.m3u8
-#EXTINF:-1,Yosso TV Music Hits
-http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-MUSIC-HITS/video.m3u8
-#EXTINF:-1,C-Marvel HD
-http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-C-MARVEL/video.m3u8
-#EXTINF:-1,C-History HD
-http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-C-HISTORY/video.m3u8
-#EXTINF:-1,Yosso TV Netflix
-http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-NETFLIX/video.m3u8
-#EXTINF:-1,Yosso TV Disney
-http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-DISNEY/video.m3u8
 
 #EXTINF:-1 ,Сарафан
 https://streamer3.connectto.com/490/mono.m3u8
@@ -311,7 +288,7 @@ http://serv30.vintera.tv:8081/sochi/sochi_stream/chunks.m3u8
 https://streamer1.connectto.com/532/mono.m3u8
 
 #EXTINF:-1 ,КВН ТВ
-http://195.158.222.115:8001/play/a0bl/index.m3u8
+http://109.239.208.82:80/kvn/index.m3u8
 
 #EXTINF:-1 ,СТС
 http://s18209.cdn.ngenix.net/hls/CH_R02_STS/playlist.m3u8
@@ -399,47 +376,48 @@ https://bkm.beetv.kz/btv/live/hls/000004619.m3u8
 http://95.67.12.82:9067
 
 #EXTINF:-1 ,Eurosport 1 HD
-http://188.138.218.88:4001/play/a01x
+http://81.7.108.21:9000/play/EurosportHD-DVBC394-sti4400018360108
 #EXTINF:-1 ,Eurosport 2 HD
-http://188.138.218.88:4001/play/a01y
+http://81.7.108.21:9000/play/Eurosport2HD-DVBC386-sti4400018360108
 
 #EXTINF:-1 ,Матч HD
 http://31.148.6.9:10003/index.m3u8
 
+
 #EXTINF:-1,Матч! Страна
-https://mhd116.iptv2022.com/p/FwU7F2-mkecg-0vO59DICQ,1723496414/streaming/nashsport/324/1/tracks-v4a1/mono.m3u8
+https://mhd116.iptv2022.com/p/MvA8emjZWsyJ0EJj_3DGJw,1723582819/streaming/nashsport/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:-1,Матч! Игра
-https://mhd116.iptv2022.com/p/ouhxRw1epZ0-v-epjZXzMA,1723496414/streaming/match_igra/324/1/tracks-v4a1/mono.m3u8
+https://mhd116.iptv2022.com/p/UbHMfz2pEn8pkOz35S6OHg,1723582819/streaming/match_igra/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:-1,Матч! Арена
-https://mhd116.iptv2022.com/p/oVQ-uBdv8uY2Rqwd2r8HrQ,1723496414/streaming/match_arena/324/1/tracks-v4a1/mono.m3u8
+https://mhd116.iptv2022.com/p/Bt9n-CsXXS1_NC1K-l5dUw,1723582820/streaming/match_arena/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:-1,Матч! Боец
-https://mhd116.iptv2022.com/p/8z7eHzFVw7KfywIAubvIVQ,1723496414/streaming/boectv/324/1/tracks-v4a1/mono.m3u8
+https://mhd116.iptv2022.com/p/CmzwQiZN_UAYxUOGzF_txA,1723582820/streaming/boectv/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:-1,Матч! Футбол 1 HD
-https://mhd116.iptv2022.com/p/_Njzym3sRzev1cBXUxvgJw,1723496414/streaming/footbal1hd/324/1/tracks-v4a1/mono.m3u8
+https://mhd116.iptv2022.com/p/BmLmKtokvwSRLAO8r8s8IA,1723582820/streaming/footbal1hd/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:-1,Матч! Футбол 2 HD
-https://mhd116.iptv2022.com/p/b9Fzt0jU5ITgdWqAMaUqeQ,1723496414/streaming/footbal2hd/324/1/tracks-v4a1/mono.m3u8
+https://mhd116.iptv2022.com/p/TS5b0xlPVH81Jt9ZOrgPYQ,1723582820/streaming/footbal2hd/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:-1,Матч! Футбол 3 HD
-https://mhd116.iptv2022.com/p/QZTWQKLmbaogb6kSo5LD6w,1723496414/streaming/footbal3hd/324/1/tracks-v4a1/mono.m3u8
+https://mhd116.iptv2022.com/p/OlUK6DB2ONYxLz73Gb2z5w,1723582820/streaming/footbal3hd/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:-1,Матч! Премьер HD
-https://mhd116.iptv2022.com/p/oVW_3sh5-A8H7DCoqC2baQ,1723496414/streaming/nashfootbalhd/324/1/tracks-v4a1/mono.m3u8
+https://mhd116.iptv2022.com/p/eNwPo8gyGY05jjDX1ehofA,1723582820/streaming/nashfootbalhd/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:-1,Хоккейный
-https://mhd116.iptv2022.com/p/WLvZzxJgdW9YKz2XAibXCg,1723496414/streaming/hokkeyniy/324/1/tracks-v4a1/mono.m3u8
+https://mhd116.iptv2022.com/p/YxJGlEaQmOZHmiphJah6kQ,1723582820/streaming/hokkeyniy/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:-1,Спортивный
-https://mhd116.iptv2022.com/p/LlO32QINJeWxa8baruM3vQ,1723496414/streaming/sportivniyhd/324/1/tracks-v4a1/mono.m3u8
+https://mhd116.iptv2022.com/p/ZnfEDV4uL1MV86LcE32j4g,1723582820/streaming/sportivniyhd/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:-1,Футбольный
-https://mhd116.iptv2022.com/p/D74pbsicxlLF3usDms9RFg,1723496414/streaming/footbolniyhd/324/1/tracks-v4a1/mono.m3u8
+https://mhd116.iptv2022.com/p/mqRR5pngudtdE1B5VxSkjg,1723582820/streaming/footbolniyhd/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:-1,KHL Prime
-https://mhd116.iptv2022.com/p/4VjJQbDxoFdeeLz_oxohkw,1723496414/streaming/khlhd/324/1/tracks-v4a1/mono.m3u8
+https://mhd116.iptv2022.com/p/XtkPWPS06E2BrtOIGFIiZw,1723582820/streaming/khlhd/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:-1,KHL
-https://mhd116.iptv2022.com/p/C1wkPzhdYTgf8C6QxJXbxw,1723496414/streaming/khltv/324/1/tracks-v4a1/mono.m3u8
+https://mhd116.iptv2022.com/p/BVHi76PZBwGpaTDucdlcow,1723582820/streaming/khltv/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:-1,Бокс ТВ
-https://mhd116.iptv2022.com/p/CcwiSjonCDW4Ha4mmeLedg,1723496414/streaming/bokstv/324/1/tracks-v4a1/mono.m3u8
+https://mhd116.iptv2022.com/p/PeOauwcf6Vf9QARN8rIWBQ,1723582820/streaming/bokstv/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:-1,Старт
-https://mhd116.iptv2022.com/p/roNwDhKcVu2ytsoFsacB4w,1723496414/streaming/start/324/1/tracks-v4a1/mono.m3u8
+https://mhd116.iptv2022.com/p/z28WV22dZ_K3g21zHQmTIQ,1723582820/streaming/start/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:-1,MMA-TV.com
-https://mhd116.iptv2022.com/p/hYU_lScKm6RkWLy2MiYJjQ,1723496414/streaming/m1global/324/1/tracks-v4a1/mono.m3u8
+https://mhd116.iptv2022.com/p/AMpdxrwIcti_IvWxhq0LgA,1723582820/streaming/m1global/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:-1,FightBox
-https://mhd116.iptv2022.com/p/yJJKQOHjVUJTeQshdQ3ojg,1723496414/streaming/fightbox/324/1/tracks-v4a1/mono.m3u8
+https://mhd116.iptv2022.com/p/f835VhSYZPSm7E3CpKh5EA,1723582820/streaming/fightbox/324/1/tracks-v4a1/mono.m3u8
 
 
 #EXTINF:-1 ,Удар HD
