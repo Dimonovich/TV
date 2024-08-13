@@ -408,10 +408,9 @@ http://81.198.190.9:7878/esp1/video.m3u8
 #EXTINF:-1 ,Eurosport 2 HD
 http://81.198.190.9:7878/esp2/video.m3u8
 
-#EXTINF:-1 ,Матч HD
-http://31.148.6.9:10003/index.m3u8
 
-
+#EXTINF:-1,Матч ТВ HD
+https://mhd116.iptv2022.com/p/JneheIDu2gHu1WuAs0xNnQ,1723669214/streaming/matchott/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:-1,Матч! Страна
 https://mhd116.iptv2022.com/p/iLT2ip5QAZEnVmrGQ2YrwQ,1723669214/streaming/nashsport/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:-1,Матч! Игра
@@ -428,6 +427,8 @@ https://mhd116.iptv2022.com/p/jet5xv2Z9vTXglyAf1MGAQ,1723669214/streaming/footba
 https://mhd116.iptv2022.com/p/ipilz5PgrRr0LZLjPxt5SQ,1723669214/streaming/footbal3hd/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:-1,Матч! Премьер HD
 https://mhd116.iptv2022.com/p/Szt_HedDYiLzq_KqIWdHOA,1723669214/streaming/nashfootbalhd/324/1/tracks-v4a1/mono.m3u8
+#EXTINF:-1,Матч! Премьер
+https://mhd116.iptv2022.com/p/2UuuU_QZgQXL3VrJyL4TRw,1723669214/streaming/nashfootbal/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:-1,Хоккейный
 https://mhd116.iptv2022.com/p/bwJKBc_8bucrzHe0qHyI0A,1723669214/streaming/hokkeyniy/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:-1,Спортивный
