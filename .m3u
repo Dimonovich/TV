@@ -8,7 +8,7 @@ https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 ,ПЕРВЫЙ КАНАЛ
 http://91.142.158.107:8092/play/1/index.m3u8
 
-#EXTINF:-1 group-title="СКТ ТВ (VPN)",Россия 1 HD
+#EXTINF:-1 group-title="Вокзал-Инфоком (VPN)",Россия 1 HD
 http://188.113.190.15/172/video.m3u8
 
 #EXTINF:-1 ,РОССИЯ К
@@ -197,14 +197,27 @@ http://178.212.71.253:8002/play/a00i/index.m3u8
 https://stream2.cinerama.uz/1234/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Киносерия
 https://stream2.cinerama.uz/1235/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Киноужас HD
-http://hls127.homeiptv.org:8880/Kinouzhas/video.m3u8
 #EXTINF:-1 ,Кинохит
 https://stream2.cinerama.uz/1055/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Комедия
 http://91.142.158.107:8092/play/30/index.m3u8
 #EXTINF:-1 ,НСТ
 http://91.142.158.107:8092/play/29/index.m3u8
+
+#EXTINF:-1 ,Cinema
+http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 ,black
+https://streamer3.connectto.com/525/mono.m3u8
+#EXTINF:-1 ,Иллюзион+ HD
+https://streamer3.connectto.com/397/mono.m3u8
+
+#EXTINF:-1 ,Fantastica HD
+http://195.9.195.3:8080/hls/187241.m3u8
+#EXTINF:-1 ,Страх
+http://195.9.195.3:8080/hls/202127.m3u8
+#EXTINF:-1 ,Кошмар HD
+http://195.9.195.3:8080/hls/204709.m3u8
 
 #EXTINF:-1,YOSSO TV Oblivion
 http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-OBLIVION/video.m3u8
@@ -232,21 +245,6 @@ http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-C-HISTORY/video.m3u8
 http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-NETFLIX/video.m3u8
 #EXTINF:-1,Yosso TV Disney
 http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-DISNEY/video.m3u8
-
-#EXTINF:-1 ,Cinema
-http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 ,black
-https://streamer3.connectto.com/525/mono.m3u8
-#EXTINF:-1 ,Иллюзион+ HD
-https://streamer3.connectto.com/397/mono.m3u8
-
-#EXTINF:-1 ,Fantastica HD
-http://195.9.195.3:8080/hls/187241.m3u8
-#EXTINF:-1 ,Страх
-http://195.9.195.3:8080/hls/202127.m3u8
-#EXTINF:-1 ,Кошмар HD
-http://195.9.195.3:8080/hls/204709.m3u8
 
 #EXTINF:-1 ,Сарафан
 https://streamer3.connectto.com/490/mono.m3u8
@@ -397,6 +395,11 @@ https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8
 #EXTINF:-1 ,Setanta Qazaqstan
 https://bkm.beetv.kz/btv/live/hls/000004619.m3u8
 
+#EXTINF:-1 ,Setanta Sports 1 HD
+http://95.216.40.210:80/setanta1/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,Setanta Sports 2 HD
+http://95.216.40.210:80/setanta2/tracks-v1a1/index.m3u8
+
 #EXTINF:-1 ,Trace Sport Stars
 http://95.67.12.82:9067
 
@@ -407,7 +410,6 @@ http://edge02.odtv.az/o3/eurosport2/playlist.m3u8
 
 #EXTINF:-1 ,Матч HD
 http://31.148.6.9:10003/index.m3u8
-
 
 #EXTINF:-1,Матч! Страна
 https://mhd116.iptv2022.com/p/MvA8emjZWsyJ0EJj_3DGJw,1723582819/streaming/nashsport/324/1/tracks-v4a1/mono.m3u8
@@ -443,7 +445,6 @@ https://mhd116.iptv2022.com/p/z28WV22dZ_K3g21zHQmTIQ,1723582820/streaming/start/
 https://mhd116.iptv2022.com/p/AMpdxrwIcti_IvWxhq0LgA,1723582820/streaming/m1global/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:-1,FightBox
 https://mhd116.iptv2022.com/p/f835VhSYZPSm7E3CpKh5EA,1723582820/streaming/fightbox/324/1/tracks-v4a1/mono.m3u8
-
 
 #EXTINF:-1 ,Удар HD
 https://bkm.beetv.kz/btv/live/hls/000007802.m3u8
