@@ -1,8 +1,8 @@
-﻿﻿﻿#EXTM3U
+﻿﻿#EXTM3U
 
 
 
-#EXTINF:-1 group-title="🔺 INFO 🔺"  tvg-logo="https://i.postimg.cc/mg921GS6/online-radio-triangle-signs-38400058.png",Обновление:10.08.2024
+#EXTINF:-1 group-title="🔺 INFO 🔺"  tvg-logo="https://i.postimg.cc/mg921GS6/online-radio-triangle-signs-38400058.png",Обновление:15.08.2024
 http://194.26.229.213/zastavka/index.m3u8
 #EXTINF:-1 group-title="🔺 INFO 🔺" tvg-logo="https://i.postimg.cc/jjkkG8Pc/Imagem-Telegram-Logo-PNG-Preto.png",https://mssg.me/neo_tv
 http://194.26.229.213/intro/index.m3u8
@@ -196,7 +196,20 @@ http://icecast.centaury.cl:7560/SuperStereoNoData7
 
 
 
-
+#EXTINF:-1 group-title="Smooth Jazz" tvg-logo="https://i.postimg.cc/qMYWQckN/500x500.jpg" , Smooth Jazz Wave Sarasota
+http://144.217.158.59:5012/;
+#EXTINF:-1 group-title="Smooth Jazz" tvg-logo="https://i.postimg.cc/qMYWQckN/500x500.jpg" ,101 smooth jazz
+http://edge4.peta.live365.net/b22139_128mp3
+#EXTINF:-1 group-title="Smooth Jazz" tvg-logo="https://i.postimg.cc/qMYWQckN/500x500.jpg" ,Klassik radio smooth 
+http://klassikr.streamabc.net/klr-smooth-mp3-128-7968529
+#EXTINF:-1 group-title="Smooth Jazz" tvg-logo="https://i.postimg.cc/qMYWQckN/500x500.jpg" ,Smooth Jazz CD101.9 New York
+http://hestia2.cdnstream.com/1277_192
+EXTINF:-1 group-title="Smooth Jazz" tvg-logo="https://i.postimg.cc/qMYWQckN/500x500.jpg" ,Amazing Smooth and Jazz
+http://mainstream.amazingradios.com:8000/jazz128
+#EXTINF:-1 group-title="Smooth Jazz" tvg-logo="https://i.postimg.cc/qMYWQckN/500x500.jpg" ,Smooth Jazz FM
+http://26453.live.streamtheworld.com/SAM02AAC18.mp3
+#EXTINF:-1 group-title="Smooth Jazz" tvg-logo="https://i.postimg.cc/qMYWQckN/500x500.jpg" ,Jazz 89.1 Smooth Jazz
+http://jfm1.hostingradio.ru:14536/sjstream.mp3
 #EXTINF:-1 group-title="Smooth Jazz" tvg-logo="https://i.postimg.cc/qMYWQckN/500x500.jpg" ,Smooth Jazz
 https://jfm1.hostingradio.ru:14536/sjstream.mp3
 #EXTINF:-1 group-title="Smooth Jazz" tvg-logo="https://i.postimg.cc/qMYWQckN/500x500.jpg",Relaxing Jazz Radio
