@@ -5968,6 +5968,7 @@ https://streaming.thestream.cyou/live/618-req_offset_28000000-req_window_0-3k_v5
 
 
 #EXTINF:-1 group-title="Lime (VPN)",Первый канал HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://mhd116.iptv2022.com/p/M5dMkeaHN0J0hnQiqt1kWQ,1723755615/streaming/1kanalott/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:-1 group-title="Lime (VPN)",Россия HD
 https://mhd116.iptv2022.com/p/YY0yK8dp-x1oCXYfVu22SQ,1723755615/streaming/rossia1ott/324/1/tracks-v4a1/mono.m3u8
