@@ -79,20 +79,12 @@ rtmp://185.26.157.3/live//mir_seriala
 rtmp://185.26.157.3/live//rossia1
 #EXTINF:-1 group-title="TEST ⓵",TLC
 rtmp://185.26.157.3/live//tlc
-#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/HWNnL7LN/knopka-tv.jpg",Кнопка ТВ
-http://api.alpaca.t62a.com/hls/9116/stream0.m3u8
 #EXTINF:-1 group-title="TEST ⓵",МУЛЬТИМАНИЯ
 https://void.greenhosting.ru/Multimania_Mpeg4/video.m3u8
 #EXTINF:-1 group-title="TEST ⓵" ,CGTN русский
 https://english-livetx.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802_hd.m3u8
-#EXTINF:-1 group-title="TEST ⓵" ,Астролог ТВ
-http://api.alpaca.t62a.com/hls/9113/stream0.m3u8
-#EXTINF:-1 group-title="TEST ⓵" ,Большой чемодан
-http://api.alpaca.t62a.com/hls/9115/stream0.m3u8
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://bem-media.de/wp-content/uploads/Kulinar.png",Кулинар ТВ
 http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Cinema Classic TV
-http://api.alpaca.t62a.com/hls/9114/stream0.m3u8
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.ytimg.com/an/23MIFU9IMsNtE2K6FfBBCQ/featured_channel.jpg",Russischer Jahrmarkt
 https://api.alpaca.t62a.com/hls/9104/stream0.m3u8
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://meineinkauf.ch/fileadmin/_processed_/0/9/csm_44035_KaufBei_2018_b95f89bcc7.png",Kaufbei TV
