@@ -223,6 +223,11 @@ http://195.9.195.3:8080/hls/202127.m3u8
 #EXTINF:-1 ,Кошмар HD
 http://195.9.195.3:8080/hls/204709.m3u8
 
+#EXTINF:-1 ,ТВОЕ ТВ HD
+http://tvoetv.space:8080/tvoetv/index.m3u8
+#EXTINF:-1 ,ТВОЕ ТВ HD - ЮМОР
+http://tvoetv.space:8080/tvoetv_humor/index.m3u8
+
 #EXTINF:-1,YOSSO TV Oblivion
 http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-OBLIVION/video.m3u8
 #EXTINF:-1,Yosso TV Забавное
