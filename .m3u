@@ -212,9 +212,9 @@ http://91.142.158.107:8092/play/29/index.m3u8
 http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 ,black
-https://streamer3.connectto.com/525/mono.m3u8
+http://78.140.39.3/play/a00i/index.m3u8
 #EXTINF:-1 ,Иллюзион+ HD
-https://streamer3.connectto.com/397/mono.m3u8
+http://94.232.104.237:8011/illuzionplus/index.m3u8
 
 #EXTINF:-1 ,Fantastica HD
 http://195.9.195.3:8080/hls/187241.m3u8
@@ -258,9 +258,7 @@ http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-DISNEY/video.m3u8
 #EXTINF:-1 ,Сарафан
 https://streamer3.connectto.com/490/mono.m3u8
 #EXTINF:-1 ,Вопросы и ответы
-https://streamer3.connectto.com/396/mono.m3u8
-#EXTINF:-1 ,TVMChannel
-https://streamer3.connectto.com/378/mono.m3u8
+https://stream2.cinerama.uz/1429/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 , БелРос
 https://live.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
@@ -285,10 +283,8 @@ http://s18209.cdn.ngenix.net/hls/CH_R01_KARUSEL/playlist.m3u8
 #EXTINF:-1,СТС Kids
 http://78.62.135.122:8082/STSKidsHD/index.m3u8
 
-#EXTINF:-1 ,БОБЁР
-https://streamer3.connectto.com/497/mono.m3u8
 #EXTINF:-1 ,Мультимузыка
-https://streamer3.connectto.com/372/mono.m3u8
+http://91.142.158.107:8092/play/24/index.m3u8
 
 #EXTINF:-1 ,Мама
 http://stv.mediacdn.ru/live/cdn/mama/playlist_sdhigh.m3u8
@@ -303,7 +299,7 @@ https://tv.mediacdn.ru/live/disney/playlist_3000k.m3u8
 https://strm.yandex.ru/kal/tiji_belarus/tiji_belarus0.m3u8
 
 #EXTINF:-1 ,Капитан Фантастика
-https://streamer3.connectto.com/376/mono.m3u8
+https://stream2.cinerama.uz/1406/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,СоюзМультфильм
 http://194.26.229.213/souzmultfilm/index.m3u8
