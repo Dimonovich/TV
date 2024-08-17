@@ -79,16 +79,6 @@ rtmp://185.26.157.3/live//vip_premiere_hd
 rtmp://185.26.157.3/live//mir_seriala
 #EXTINF:-1 group-title="TEST ⓵",Россия 1
 rtmp://185.26.157.3/live//rossia1
-#EXTINF:-1 group-title="TEST ⓵",TLC
-rtmp://185.26.157.3/live//tlc
-#EXTINF:-1 group-title="TEST ⓵",УТРК HD
-rtmp://cast.webtv.kg:1935/live/1
-#EXTINF:-1 group-title="TEST ⓵",Оружие
-rtmp://cast.webtv.kg:1935/live/9
-#EXTINF:-1 group-title="TEST ⓵",Bridge TV
-rtmp://cast.webtv.kg:1935/live/191
-#EXTINF:-1 group-title="TEST ⓵", Карусель
-rtmp://cast.webtv.kg:1935/live/16
 #EXTINF:-1 group-title="TEST ⓵",МУЛЬТИМАНИЯ
 https://void.greenhosting.ru/Multimania_Mpeg4/video.m3u8
 #EXTINF:-1 group-title="TEST ⓵" ,CGTN русский
@@ -10102,10 +10092,6 @@ https://livetv.mylifeisgood.net.ru/channels/startlive.m3u8
 http://158.101.214.187:8080/channel/432e1237/index.m3u8?q=443d5edac354972a97f67425879f54e1
 #EXTINF:-1 group-title="Спорткомплекс 🏆" ,Окко Спорт HD
 http://158.101.194.132:8080/channel/432e1237/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
-#EXTINF:-1 group-title="Спорткомплекс 🏆" ,Setanta Sports 1
-rtmp://cast.webtv.kg:1935/live/11
-#EXTINF:-1 group-title="Спорткомплекс 🏆" ,УТРК Спорт
-rtmp://cast.webtv.kg:1935/live/12
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Motor Racing
 https://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Turkmen Sport
