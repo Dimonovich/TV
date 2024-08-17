@@ -8,8 +8,8 @@ https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 ,ПЕРВЫЙ КАНАЛ
 http://91.142.158.107:8092/play/1/index.m3u8
 
-#EXTINF:-1 group-title="Вокзал-Инфоком (VPN)",Россия 1 HD
-http://188.113.190.15/172/video.m3u8
+#EXTINF:-1 ,Россия 1 HD
+http://91.207.114.220:9001/play/a04z/index.m3u8
 
 #EXTINF:-1 ,РОССИЯ К
 https://bkm.beetv.kz/btv/live/hls/000000066.m3u8
