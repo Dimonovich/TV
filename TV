@@ -37,6 +37,8 @@ https://st1.uzdigital.tv/TiJi/tracks-v1a1/mono.m3u8
 https://st1.uzdigital.tv/Nickelodeon/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Мультиландия
 https://st1.uzdigital.tv/Multilandiya/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Мульт HD
+https://st1.uzdigital.tv/MultHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TEST ⓵",МузТВ
 https://st1.uzdigital.tv/test/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/J4wRwcQn/i-TV-Cinema-Logo.png",ITV Cinema 
@@ -4137,6 +4139,10 @@ http://92.53.64.197:5050/pyatnica_hd/video.m3u8?token=m3VIth-Rou_bM1
 http://92.53.64.197:5050/pyatiy_kanal/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 group-title="Селектел (VPN)" ,РБК
 http://92.53.64.197:5050/RBK/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="Селектел (VPN)" ,Новороссия
+http://92.53.64.197:5050/novorossiya_tv/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="Селектел (VPN)" ,За ТВ
+http://92.53.64.197:5050/za_tv/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 group-title="Селектел (VPN)" ,Ю
 http://92.53.64.197:5050/yu/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 group-title="Селектел (VPN)" ,Звезда HD
