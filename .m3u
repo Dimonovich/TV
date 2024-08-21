@@ -128,11 +128,9 @@ http://78.62.135.122:8082/amediapremiumhd/index.m3u8
 http://94.232.104.237:8011/amediahithd/index.m3u8
 
 #EXTINF:-1,Bollywood HD
-http://iptv.mega.net.ru:8888/Bollywood_HD/mono.m3u8
+https://stream2.cinerama.uz/1444/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Кинопоказ
 https://stream2.cinerama.uz/1057/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Любимое
-http://iptv.mega.net.ru:8888/Lubimoe_kino/mono.m3u8
 
 #EXTINF:-1 ,Gags Network HD
 https://bkm.beetv.kz/btv/live/hls/000006639.m3u8
