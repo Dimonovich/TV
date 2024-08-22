@@ -1950,6 +1950,10 @@ https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/master.m3u8
 https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8
 #EXTINF:-1 group-title="Сальвадор 🇸🇻",Elim TV
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/7e84ed301b194b7b81e86f85bb2c3a33/playlist.m3u8
+#EXTINF:-1 group-title="Сан-Марино 🇸🇲",San Marino RTV Sport
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Сан-Марино 🇸🇲",San Marino RTV
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b2192000_slita.m3u8
 #EXTINF:-1 group-title="Саудовская Аравия 🇸🇦",AL HOKAIR Group TV
 http://82.212.74.3:8000/live/7513.m3u8
 #EXTINF:-1 group-title="Саудовская Аравия 🇸🇦",Al Khalij
