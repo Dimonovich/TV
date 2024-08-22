@@ -2010,6 +2010,14 @@ http://82.212.74.2:8000/live/7312.m3u8
 http://82.212.74.100:8000/live/8130.m3u8
 #EXTINF:-1 group-title="Саудовская Аравия 🇸🇦",Kaif TV
 http://82.212.74.2:8000/live/hls/7311.m3u8
+#EXTINF:-1 group-title="Северная Македония 🇲🇰",SKY Folk TV
+https://eu.live.skyfolk.mk/live.m3u8
+#EXTINF:-1 group-title="Северная Македония 🇲🇰",TV Pollogu
+https://t2.tvmak.com/tv/USKANATETOVE.m3u8
+#EXTINF:-1 group-title="Северная Македония 🇲🇰",TV2 Gostivar
+https://t2.tvmak.com/tv/TV2GV.m3u8
+#EXTINF:-1 group-title="Северная Македония 🇲🇰",TV Uskana
+https://t2.tvmak.com/tv/USKANAKERCOVE.m3u8
 #EXTINF:-1 group-title="Сербия 🇷🇸",Muzzik Cafe&Club Serbia
 https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
 #EXTINF:-1 group-title="Сербия 🇷🇸",Muzzik HipHop Serbia
