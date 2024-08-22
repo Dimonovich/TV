@@ -1817,18 +1817,12 @@ https://vtvstream.vnews.mv/vtvlive/vmedia/playlist.m3u8
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 #EXTINF:-1 group-title="Малайзия 🇲🇾",Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
-#EXTINF:-1 group-title="Молдавия 🇲🇩",Noroc TV
-http://live.noroc.tv/hls/noroctv_chisinau.m3u8
-#EXTINF:-1 group-title="Молдавия 🇲🇩",TNT_EXCLUSIV
-http://89.28.25.122/hls/tnt_md.m3u8
-#EXTINF:-1 group-title="Молдавия 🇲🇩",Vocea Basarabiei TV
-http://hls.voceabasarabiei.md/hls/vocea_basarabiei.m3u8
-#EXTINF:-1 group-title="Молдавия 🇲🇩",Moldova 1
-https://v.trm.md/static/streaming-playlists/hls/f272ace4-32c2-4271-bbb6-7fc30a5c6105/0.m3u8
-#EXTINF:-1 group-title="Молдавия 🇲🇩",Moldova 2
-https://v1.trm.md/static/streaming-playlists/hls/78dc278f-1106-4e85-8714-20c9283494e5/0.m3u8
 #EXTINF:-1 group-title="Молдавия 🇲🇩",Moldova TV
 http://89.38.8.130:39435
+#EXTINF:-1 group-title="Молдавия 🇲🇩",Agro TV Moldova
+https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8
+#EXTINF:-1 group-title="Молдавия 🇲🇩",Realitatea TV Moldova
+https://realitatealive.md/tv/rlive.m3u8
 #EXTINF:-1 group-title="Нидерланды 🇳🇱",DNO Streek TV
 http://cdn22.streampartner.nl/streektv/streektv/playlist.m3u8
 #EXTINF:-1 group-title="Нидерланды 🇳🇱",EDE TV
