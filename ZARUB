@@ -1331,12 +1331,6 @@ http://stream.kaztrk.kz/regional/petropavltv/index.m3u8
 http://stream.kaztrk.kz/regional/semeytv/index.m3u8
 #EXTINF:-1 group-title="Казахстан 🇰🇿",Казахстан Актау
 http://stream.kaztrk.kz/regional/mangystautv/index.m3u8
-#EXTINF:-1 group-title="Камбоджа 🇰🇭",Bayon TV
-http://203.176.130.123:8989/live/bayontv_480k.stream/playlist.m3u8
-#EXTINF:-1 group-title="Камбоджа 🇰🇭",PNN
-http://203.176.130.123:8989/live/pnn_480k.stream/playlist.m3u8
-#EXTINF:-1 group-title="Камбоджа 🇰🇭",TVK
-http://203.176.130.123:8989/live/tvk_480k.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Канада 🇨🇦",Amazing Discoveries TV
 https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
 #EXTINF:-1 group-title="Канада 🇨🇦",CANADA
