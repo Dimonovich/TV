@@ -295,10 +295,28 @@ https://tv.city.bg/play/tshls/citytv/index.m3u8
 https://streamer103.neterra.tv/tiankov-folk/tiankov-folk_SD.m3u8
 #EXTINF:-1 group-title="Болгария 🇧🇬",Code Fashion TV
 https://cdn2.invivo.bg/Codefashion_5500/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Болгария 🇧🇬",b1b
-https://e105-ts.cdn.bg/b1b/fls/b1btv.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Болгария 🇧🇬",КАНАЛ 0
 https://old2.rn-tv.com/k0/3165388/stream.m3u8
+#EXTINF:-1 group-title="Болгария 🇧🇬",TV art
+https://stream.osc.bg/tvart/Stream3/chunklist_w2114952471.m3u8
+#EXTINF:-1 group-title="Болгария 🇧🇬",Eurofolk TV
+https://eurofolk.cdn.netbadgers.com/bg040/bg041/bg041_sd.m3u8
+#EXTINF:-1 group-title="Болгария 🇧🇬",100% Auto Moto TV
+http://100automoto.tv:1935/bgtv1/Stream1/playlist.m3u8
+#EXTINF:-1 group-title="Болгария 🇧🇬",V2Beat TV
+https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
+#EXTINF:-1 group-title="Болгария 🇧🇬",Tiankov Folk
+https://streamer103.neterra.tv/tiankov-folk/tiankov-folk_LQ.m3u8
+#EXTINF:-1 group-title="Болгария 🇧🇬",Tiankov Orient Folk
+https://streamer103.neterra.tv/tiankov-orient/tiankov-orient_SD.m3u8
+#EXTINF:-1 group-title="Болгария 🇧🇬",The Voice TV
+https://bss1.neterra.tv/thevoice/stream_1.m3u8
+#EXTINF:-1 group-title="Болгария 🇧🇬",Magic TV
+https://bss1.neterra.tv/magictv/stream_1.m3u8
+#EXTINF:-1 group-title="Болгария 🇧🇬",Hope Channel Bulgaria
+https://hc2.hopetv.bg/live/hopetv_all.smil/manifest_w1688405763.mpd
+#EXTINF:-1 group-title="Болгария 🇧🇬",DSTV
+http://46.249.95.140:8081/hls/data.m3u8
 #EXTINF:-1 group-title="Болгария 🇧🇬",EuroFolk TV
 https://eurofolk.cdn.netbadgers.com/bg040/bg041/bg041_sd.m3u8
 #EXTINF:-1 group-title="Болгария 🇧🇬",RIMEX TV
@@ -309,18 +327,54 @@ https://obs.friendshipchurch.eu//tvn/mystream.m3u8
 https://live.ecomservice.bg/hls/stream.m3u8
 #EXTINF:-1 group-title="Болгария 🇧🇬",Пловдивска Православна ТВ
 http://78.130.149.196:1935/live/pptv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Боливия 🇧🇴",F10 HD
+https://video.live.com.bo:3099/live/f10hdlive.m3u8
+#EXTINF:-1 group-title="Боливия 🇧🇴",Ceacom
+https://eu1.servers10.com:8081/ceacom/index.m3u8
+#EXTINF:-1 group-title="Боливия 🇧🇴",UPP TV
+https://alba-bo-bolivision-upptv.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 group-title="Боливия 🇧🇴",PTV
+https://glb.bozztv.com/glb/ssh101/centralptv/index.m3u8
+#EXTINF:-1 group-title="Боливия 🇧🇴",TVU
+https://video.live.com.bo:3003/live/tvuumsalive.m3u8
+#EXTINF:-1 group-title="Боливия 🇧🇴",Fortaleza TV Cueto
+https://glb.bozztv.com/glb/ssh101/fortalezacueto/index.m3u8
+#EXTINF:-1 group-title="Боливия 🇧🇴",TDT Multimedia
+https://video01.kshost.com.br:4443/juan6318/juan6318/playlist.m3u8
+#EXTINF:-1 group-title="Боливия 🇧🇴",Siglo XXI TV
+https://stmvideo3.livecastv.com/sigloxxi/sigloxxi/playlist.m3u8
+#EXTINF:-1 group-title="Боливия 🇧🇴",VTV Canal 17
+https://solo.disfrutaenlared.com:1936/vtvcanal/vtvcanal/playlist.m3u8
+#EXTINF:-1 group-title="Боливия 🇧🇴",Radio Uno PST
+https://master.tucableip.com/pstbolivia/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Боливия 🇧🇴",Atesur
+https://video2.getstreamhosting.com:19360/8038/8038.m3u8
+#EXTINF:-1 group-title="Боливия 🇧🇴",Television Cristal
+https://srv5.elittehosting.com:3369/live/cristaltvlive.m3u8
+#EXTINF:-1 group-title="Боливия 🇧🇴",Red CCTV
+https://solo.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8
+#EXTINF:-1 group-title="Боливия 🇧🇴",Marvision TV
+https://vdo.grupolimalive.com:3631/live/marvisionlive.m3u8
+#EXTINF:-1 group-title="Боливия 🇧🇴",TV Latina
+https://fl1002.bozztv.com/ssh101/tvlatinared/index.m3u8
+#EXTINF:-1 group-title="Боливия 🇧🇴",Imperial TV
+https://vdo.grupolimalive.com:3162/live/imperialtvlive.m3u8
+#EXTINF:-1 group-title="Боливия 🇧🇴",GTV
+https://solo.disfrutaenlared.com:1936/guadalupetv/guadalupetv/chunklist_w1833640318.m3u8
+#EXTINF:-1 group-title="Боливия 🇧🇴",Coral TV
+https://tv.mediacp.eu:8081/coraltv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Боливия 🇧🇴",PAT Santa Cruz
+https://w8.redpat.tv:7777/play/110/14481020.m3u8
+#EXTINF:-1 group-title="Боливия 🇧🇴",Red America TV
+https://videostream.shockmedia.com.ar:19360/redamericatv/redamericatv.m3u8
 #EXTINF:-1 group-title="Боливия 🇧🇴",ATB
 http://186.121.206.197/live/daniel/index.m3u8
 #EXTINF:-1 group-title="Боливия 🇧🇴",Mega TV
 https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/playlist.m3u8
 #EXTINF:-1 group-title="Боливия 🇧🇴",Abya Yala TV
 https://master.tucableip.com/abyayalatv/playlist.m3u8
-#EXTINF:-1 group-title="Боливия 🇧🇴",Erbol
-https://cloud2.streaminglivehd.com:1936/8182/8182/playlist.m3u8
 #EXTINF:-1 group-title="Боливия 🇧🇴",FTV
 https://master.tucableip.com/ftv/index.m3u8
-#EXTINF:-1 group-title="Боливия 🇧🇴",TV Latina
-https://master.tucableip.com/live/tvlatinamontero/playlist.m3u8
 #EXTINF:-1 group-title="Боливия 🇧🇴",Bolivia TV
 http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Боливия 🇧🇴",Bolivia TV 7.2
@@ -329,8 +383,6 @@ https://video1.getstreamhosting.com:1936/8224/8224/chunklist_w1684483949.m3u8
 https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 #EXTINF:-1 group-title="Боливия 🇧🇴",Red ADVenir
 https://streamer1.streamhost.org/salive/GMIredadvenirm/chunklist.m3u8
-#EXTINF:-1 group-title="Боливия 🇧🇴",RTP
-http://136.243.3.70:1935/RtpBolivia/RtpBolivia/chunklist_w610457049.m3u8
 #EXTINF:-1 group-title="Бразилия 🇧🇷",Anime TV
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 #EXTINF:-1 group-title="Бразилия 🇧🇷",IMPD TV HD
@@ -345,8 +397,6 @@ http://rbc.directradios.com:1935/rbc/rbc/live.m3u8
 http://flash1.crossdigital.com.br/2063/2063/playlist.m3u8
 #EXTINF:-1 group-title="Бразилия 🇧🇷",SBT
 http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Бразилия 🇧🇷",Terra Viva
-http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
 #EXTINF:-1 group-title="Бразилия 🇧🇷",TV Cidade Canal 9
 https://59f1cbe63db89.streamlock.net:1443/tvcidade/_definst_/tvcidade/playlist.m3u8
 #EXTINF:-1 group-title="Бразилия 🇧🇷",TV Educativa de Porto Alegre HD
@@ -355,12 +405,6 @@ http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
 #EXTINF:-1 group-title="Бразилия 🇧🇷",TV Pai Eterno
 https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8
-#EXTINF:-1 group-title="Бразилия 🇧🇷",TV Paraná Turismo
-http://200.189.113.201/hls/tve.m3u8
-#EXTINF:-1 group-title="Бразилия 🇧🇷",TV Rede Gospel
-https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
-#EXTINF:-1 group-title="Бразилия 🇧🇷",TV UFG
-http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8
 #EXTINF:-1 group-title="Бразилия 🇧🇷",TV UFSC
 http://150.162.188.10:8080/hls/1.m3u8
 #EXTINF:-1 group-title="Бразилия 🇧🇷",TVN Brasil
