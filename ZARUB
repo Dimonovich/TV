@@ -419,8 +419,6 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Великобритания 🇬🇧",Afrobeats 247
 https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Великобритания 🇬🇧",Real Stories
-https://realstories-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Великобритания 🇬🇧",Inwonder
 https://inwonder-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Великобритания 🇬🇧",Inwild
@@ -429,52 +427,26 @@ https://inwild-samsung-uk.amagi.tv/playlist.m3u8
 https://insighttv-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Великобритания 🇬🇧",Horse and Country
 https://hncfree-samsung-uk.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Великобритания 🇬🇧",Edge Sport
-https://edgesport-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Великобритания 🇬🇧",V2BEAT
 https://de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 group-title="Великобритания 🇬🇧",Ski TV
 https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-Zee/193.m3u8
-#EXTINF:-1 group-title="Великобритания 🇬🇧",Clubbing TV
-https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Великобритания 🇬🇧",Akaal Channel
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8
-#EXTINF:-1 group-title="Великобритания 🇬🇧",Eman Channel
-https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
 #EXTINF:-1 group-title="Великобритания 🇬🇧",V2BEAT
 https://abr.de1se01.v2beat.live/playlist.m3u8
-#EXTINF:-1 group-title="Великобритания 🇬🇧",Gems TV
-http://57d6b85685bb8.streamlock.net:1935/abrgemporiaukgfx/livestream_360p/index.m3u8
-#EXTINF:-1 group-title="Великобритания 🇬🇧",Ahlulbayt TV
-http://109.123.126.14:1935/live/livestream1.sdp/chunklist.m3u8
-#EXTINF:-1 group-title="Венгрия 🇭🇺" tvg-logo="https://i.imgur.com/xyG4O6F.jpg",Balaton TV
-https://stream.iptvservice.eu/hls/balatontv.m3u8
 #EXTINF:-1 group-title="Венгрия 🇭🇺",DTV
 http://cloudfront44.lexanetwork.com:1732/hlsrelay003/hls/livestream.sdp.m3u8
 #EXTINF:-1 group-title="Венгрия 🇭🇺",Kecskemeti TV
 http://rtmp1.40e.hu:8000/live/ktv.m3u8
 #EXTINF:-1 group-title="Венгрия 🇭🇺",Hír TV
 https://onlinestream.live/play.m3u?id=4740&ext=.m3u
-#EXTINF:-1 group-title="Венгрия 🇭🇺",Parlamenti közvetítés
-http://plenaris.parlament.hu:1935/edgelive/smil:mkogyplen.smil/playlist.m3u8
 #EXTINF:-1 group-title="Венгрия 🇭🇺",16TV
 https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Венгрия 🇭🇺",FehérvárTV
-https://cloudfront44.lexanetwork.com:1344/freerelay/fehervartv.sdp/playlist.m3u8?key=EWSj2
-#EXTINF:-1 group-title="Венгрия 🇭🇺",AlföldTV
-https://cloudfront41.lexanetwork.com:1344/relay01/livestream006.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Венгрия 🇭🇺",Gyöngyös TV
-https://cloudfront41.lexanetwork.com:1344/relay02/livestream005.sdp/playlist.m3u8?key=hkNHP
 #EXTINF:-1 group-title="Венгрия 🇭🇺",Lóverseny közvetítés
 https://cloudfront41.lexanetwork.com:1344/xrelay/loverseny2.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Венгрия 🇭🇺",Zalaegerszeg TV
 https://cloudfront44.lexanetwork.com:1344/freerelay/zegtv.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Венгрия 🇭🇺",Zugló TV
-https://cloudfront44.lexanetwork.com:1344/freerelay/zuglotv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Венгрия 🇭🇺",Bajai TV
 https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Венгрия 🇭🇺",Vásárhelyi Televízió
-https://stream.vasarhelyitelevizio.hu/stream/stream.m3u8
 #EXTINF:-1 group-title="Венгрия 🇭🇺",TV Eger
 http://stream.tveger.hu:8010/live.m3u8
 #EXTINF:-1 group-title="Венгрия 🇭🇺",Miskolc TV
@@ -485,26 +457,16 @@ http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
 http://113.161.6.157:8081/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
 #EXTINF:-1 group-title="Вьетнам 🇻🇳" tvg-logo="https://i.imgur.com/zG1WNgU.jpg",Brian TV
 https://livefta.malimarcdn.com/ftaedge00/briantv.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Вьетнам 🇻🇳" tvg-logo="https://i.imgur.com/WEMfHas.png",BRT
-http://113.163.216.23:1935/live/ngrp:tv2.stream_all/playlist.m3u8
 #EXTINF:-1 group-title="Вьетнам 🇻🇳" tvg-logo="https://i.imgur.com/gWc8xVD.jpg",Cà Mau TV
 http://tv.ctvcamau.vn/live/tv/tv.m3u8
 #EXTINF:-1 group-title="Вьетнам 🇻🇳" tvg-logo="https://i.imgur.com/duM548G.png",City of Oakland
 https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/oakland/G0219_002/playlist.m3u8
-#EXTINF:-1 group-title="Вьетнам 🇻🇳" tvg-logo="https://i.imgur.com/EOMuO1z.png",Da Nang TV1
-http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
-#EXTINF:-1 group-title="Вьетнам 🇻🇳" tvg-logo="https://i.imgur.com/9I4gX5Y.png",Da Nang TV2
-http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
-#EXTINF:-1 group-title="Вьетнам 🇻🇳" tvg-logo="https://i.imgur.com/yE7nZ6w.png",Dao Lane Xang
-https://livefta.malimarcdn.com/ftaedge00/khaomwungmai.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Вьетнам 🇻🇳" tvg-logo="https://i.imgur.com/TWJgMuE.jpg",Dhammasapha TV
 https://livefta.malimarcdn.com/ftaedge00/dhammasapha.stream/playlist.m3u8
 #EXTINF:-1 group-title="Вьетнам 🇻🇳" tvg-logo="https://i.imgur.com/IoIXiw9.png",Đồng Nai 1
 http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8
 #EXTINF:-1 group-title="Вьетнам 🇻🇳" tvg-logo="https://i.imgur.com/Qsz0RHH.png",Đồng Nai 2
 http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
-#EXTINF:-1 group-title="Вьетнам 🇻🇳" tvg-logo="https://i.imgur.com/oUSJX0X.png",Gia Lai TV
-http://113.161.25.3:8134/hls/gialaitv/gialaitv.m3u8
 #EXTINF:-1 group-title="Вьетнам 🇻🇳" tvg-logo="https://i.imgur.com/nyfysP7.png",HBTV
 http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
 #EXTINF:-1 group-title="Вьетнам 🇻🇳" tvg-logo="https://i.imgur.com/dRsacao.png",Hmong Star TV
@@ -513,8 +475,6 @@ https://livefta.malimarcdn.com/ftaedge00/hmongstartv.sdp/playlist.m3u8
 https://livefta.malimarcdn.com/ftaedge00/cvabroadcasting.stream/playlist.m3u8
 #EXTINF:-1 group-title="Вьетнам 🇻🇳" tvg-logo="https://i.imgur.com/TGAKFcV.jpg",ISTV
 https://livefta.malimarcdn.com/ftaedge00/ichannel.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Вьетнам 🇻🇳" tvg-logo="https://i.imgur.com/ac7tH4R.jpg",Khomsanh TV
-https://livefta.malimarcdn.com/ftaedge00/lstv2.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Вьетнам 🇻🇳" tvg-logo="https://i.imgur.com/HqYi1Dw.png",KienGiangTV
 http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
 #EXTINF:-1 group-title="Вьетнам 🇻🇳" tvg-logo="https://i.imgur.com/ZIXtazI.png",Lao SV TV
@@ -533,8 +493,6 @@ https://livefta.malimarcdn.com/ftaedge00/teatv.sdp/playlist.m3u8
 http://thtg.vn:8001/thtg.m3u8
 #EXTINF:-1 group-title="Вьетнам 🇻🇳" tvg-logo="https://i.imgur.com/cTSDB8O.png",Uniquely Thai
 https://livefta.malimarcdn.com/ftaedge00/uniquely.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Вьетнам 🇻🇳" tvg-logo="https://i.imgur.com/IWpevBp.jpg",VBS TV
-http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/playlist.m3u8
 #EXTINF:-1 group-title="Гаити 🇻🇳",Tele Louange
 https://5790d294af2dc.streamlock.net/8124/8124/playlist.m3u8
 #EXTINF:-1 group-title="Гаити 🇻🇳",Radio Tele Planet Compas
@@ -597,26 +555,60 @@ http://www.sonus.fm:1935/public/stream_720p/chunklist_w514335426.m3u8
 https://5889e7d0d6e28.streamlock.net/tide-live/_definst_/smil:livestream.smil/playlist.m3u8
 #EXTINF:-1 group-title="Германия 🇩🇪",WDR Koeln
 https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/master.m3u8
+#EXTINF:-1 group-title="Гондурас 🇭🇳",La Top 107.7
+https://59d39900ebfb8.streamlock.net/top107/top107/playlist.m3u8
+#EXTINF:-1 group-title="Гондурас 🇭🇳",La Top 102.9
+https://59d39900ebfb8.streamlock.net/top102/top102/playlist.m3u8
+#EXTINF:-1 group-title="Гондурас 🇭🇳",Imagen FM 105.1
+https://streaming.imagenfm105-1.com/hls/stream.m3u8
+#EXTINF:-1 group-title="Гондурас 🇭🇳",Dios Te Ve Kids
+https://s.emisoras.tv:8081/diostevekids/index.m3u8
+#EXTINF:-1 group-title="Гондурас 🇭🇳",TV Centro HD
+https://cloud2.streaminglivehd.com:1936/8032/8032/playlist.m3u8
+#EXTINF:-1 group-title="Гондурас 🇭🇳",Telemas
+https://viewhn.com/telemas/live/playlist.m3u8
+#EXTINF:-1 group-title="Гондурас 🇭🇳",Telavision
+https://stream.oursnetworktv.com/latin/telaVision/playlist.m3u8
+#EXTINF:-1 group-title="Гондурас 🇭🇳",Sula Tv
+https://sulatv1.ddns.net/hls/live/index.m3u8
+#EXTINF:-1 group-title="Гондурас 🇭🇳",SanIgnacio TV
+https://amixtv.live:3753/live/sitvlive.m3u8
+#EXTINF:-1 group-title="Гондурас 🇭🇳",Puringla TV
+https://stmv1.srvif.com/puringla/puringla/playlist.m3u8
+#EXTINF:-1 group-title="Гондурас 🇭🇳",Litoral Atlantico HD
+https://cdn4.streamgato.us:3595/live/litoralhdlive.m3u8
+#EXTINF:-1 group-title="Гондурас 🇭🇳",CTV Internacional
+https://mediacp.us:8081/ctvhn/index.m3u8
+#EXTINF:-1 group-title="Гондурас 🇭🇳",CR Television Cholute
+https://www.televinterserver.com:19360/crtvcholuteca/crtvcholuteca.m3u8
+#EXTINF:-1 group-title="Гондурас 🇭🇳",Canal 7 Talanga Vision
+https://stream.oursnetworktv.com/latin/talangatv/playlist.m3u8
+#EXTINF:-1 group-title="Гондурас 🇭🇳",AZA TV HD
+https://mediacp.us:8081/azatvhd/index.m3u8
+#EXTINF:-1 group-title="Гондурас 🇭🇳",Alsacias Television
+https://s.emisoras.tv:8081/atv/index.m3u8
+#EXTINF:-1 group-title="Гондурас 🇭🇳",Activa TV
+https://videoserver.tmcreativos.com:19360/mbcrtzxnxd/mbcrtzxnxd.m3u8
+#EXTINF:-1 group-title="Гондурас 🇭🇳",TV Centro 272 HD
+https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8
+#EXTINF:-1 group-title="Гондурас 🇭🇳",Telerayo
+https://s.emisoras.tv:8081/telerayo/index.m3u8
+#EXTINF:-1 group-title="Гондурас 🇭🇳",Metro TV
+https://s.emisoras.tv:8081/metrotv/index.m3u8
+#EXTINF:-1 group-title="Гондурас 🇭🇳",Girasol TV
+https://video.misistemareseller.com/Girasoltv/Girasoltv/playlist.m3u8
+#EXTINF:-1 group-title="Гондурас 🇭🇳",Canal 15 DTP
+https://s.emisoras.tv:8081/dtp/index.m3u8
+#EXTINF:-1 group-title="Гондурас 🇭🇳",504 TV
+https://mediacp.us:8081/504tvhn/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Гондурас 🇭🇳",EDN TV
 https://60417ddeaf0d9.streamlock.net/edntv/videoedntv/playlist.m3u8
 #EXTINF:-1 group-title="Гондурас 🇭🇳",Tele Danli
 https://cloud2.streaminglivehd.com:1936/8224/8224/playlist.m3u8
-#EXTINF:-1 group-title="Гондурас 🇭🇳",TV Copan
-https://emisoras.hn:8081/tvcopan/index.m3u8
-#EXTINF:-1 group-title="Гондурас 🇭🇳",Metro TV HD
-https://emisoras.hn:8081/metrotv/index.m3u8
 #EXTINF:-1 group-title="Гондурас 🇭🇳",LTV
 https://5e85d90130e77.streamlock.net/6022/6022/playlist.m3u8
-#EXTINF:-1 group-title="Гондурас 🇭🇳",Kerusso TV
-https://emisoras.hn:8081/kerussotv/index.m3u8
 #EXTINF:-1 group-title="Гондурас 🇭🇳",CTV International
 https://mediacp.us:8081/ctvhn/index.m3u8
-#EXTINF:-1 group-title="Гондурас 🇭🇳",CHTV
-https://media.streambrothers.com:1936/8054/8054/playlist.m3u8
-#EXTINF:-1 group-title="Гондурас 🇭🇳",Aza TV HD
-https://stmv1.zcasthn.com.br/azatvhd/azatvhd/playlist.m3u8
-#EXTINF:-1 group-title="Греция 🇬🇷",Axeloos
-http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
 #EXTINF:-1 group-title="Греция 🇬🇷",Groovy
 http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
 #EXTINF:-1 group-title="Греция 🇬🇷",NG RADIO
