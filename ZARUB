@@ -1,6 +1,6 @@
 #EXTM3U 
 
-#EXTINF:-1 group-title="🔺 INFO 🔺" tvg-logo="https://i.postimg.cc/4dN8WqGS/GIF.gif",Обновление:30.11.2023
+#EXTINF:-1 group-title="🔺 INFO 🔺" tvg-logo="https://i.postimg.cc/4dN8WqGS/GIF.gif",Обновление:22.08.2024
 http://194.26.229.213/zastavka/index.m3u8
 #EXTINF:-1 group-title="🔺 INFO 🔺" tvg-logo="https://i.postimg.cc/jjkkG8Pc/Imagem-Telegram-Logo-PNG-Preto.png",https://mssg.me/neo_tv
 http://194.26.229.213/intro/index.m3u8
@@ -1917,6 +1917,10 @@ http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/media_w554966584.m3u8
 https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m3u8
 #EXTINF:-1 group-title="Перу 🇵🇪" tvg-logo="https://graph.facebook.com/radiosanborja/picture?width=320&height=320",Radio San Borja TV [Not 24/7]
 https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
+#EXTINF:-1 group-title="Польша 🇵🇱",TV Regionalna
+https://tvreg.klemit.net/regionalna/stream/index.m3u8
+#EXTINF:-1 group-title="Польша 🇵🇱",4fun TV
+https://stream.4fun.tv:8888/hls/4f_med/index.m3u8
 #EXTINF:-1 group-title="Польша 🇵🇱",TV Kujawy (Opt-1)
 http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
 #EXTINF:-1 group-title="Польша 🇵🇱",TV GLUBCZYCE
@@ -1933,6 +1937,29 @@ http://94.246.128.53:1935/tv/_definst_/dlaCiebieTv/playlist.m3u8
 https://stream.tvkujawy.pl:8090/live/broadcast.m3u8
 #EXTINF:-1 group-title="Польша 🇵🇱",TV GLUBCZYCE
 https://stream.elzappero.net/tvglubczyce.m3u8
+#EXTINF:-1 group-title="🇵🇹",Kuriakos Kids
+https://w2.manasat.com/kkids/smil:kkids.smil/chunklist.m3u8
+#EXTINF:-1 group-title="🇵🇹",Kuriakos TV
+https://w1.manasat.com/ktv/smil:ktv.smil/chunklist.m3u8
+#EXTINF:-1 group-title="🇵🇹",RTP Internacional Europa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b640000_slpt.m3u8
+#EXTINF:-1 group-title="🇵🇹", RTP 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/chunklist_b2540000_DVR_slpor.m3u8
+#EXTINF:-1 group-title="🇵🇹",RTP Madeira
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/chunklist_b640000_slpt.m3u8
+#EXTINF:-1 group-title="🇵🇹",RTP África
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/chunklist_b640000_slpt.m3u8
+#EXTINF:-1 group-title="🇵🇹",RTP Açores
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/chunklist_b2540000_slpor.m3u8
+#EXTINF:-1 group-title="🇵🇹",TV Canção Nova Portugal
+https://5c643ed5107b7.streamlock.net/cancaonova/CancaoNova.stream_720p/playlist.m3u8
+#EXTINF:-1 group-title="🇵🇹",TV Maná
+https://w1.manasat.com/tvmana-1/smil:tvmana-1.smil/chunklist_w1634439826_b413000_sleng.m3u8
 #EXTINF:-1 group-title="Руанда 🇷🇼",KC2
 https://5c46fa289c89f.streamlock.net/kc2/kc2/chunklist.m3u8
 #EXTINF:-1 group-title="Руанда 🇷🇼",Rwanda TV
