@@ -609,10 +609,6 @@ http://178.124.179.122:8088/Sci-Fi/index.m3u8
 http://178.124.179.122:8088/Retro/index.m3u8
 #EXTINF:-1 group-title="Белтелеком",Сарафан
 http://178.124.179.122:8088/Sarafan/index.m3u8
-#EXTINF:-1 group-title="Белтелеком",Перец
-http://178.124.179.122:8088/Peretz/index.m3u8
-#EXTINF:-1 group-title="Белтелеком",БелРос
-http://178.124.179.122:8088/TRO/index.m3u8
 #EXTINF:-1 group-title="Белтелеком",Союз
 http://178.124.179.122:8088/Souz/index.m3u8
 #EXTINF:-1 group-title="Белтелеком",Усадьба
@@ -2339,6 +2335,13 @@ https://tvsamaragis.tk/new/new/tracks-v1a1/mono.m3u8
 
 
 
+
+
+
+
+
+#EXTINF:-1 group-title="Rutube (VPN)",Rutube TV
+https://live-gcore-1.rutube.ru/stream/genetta-327.m9.rutube.ru/_xk2CWsWLGu-71YRpXLGRA/1724936056/9ae8e8a6dc58bdad66190475f9872ecd/1080p_stream.m3u8
 #EXTINF:-1 group-title="Rutube (VPN)",Первый канал HD
 https://live-gcore-1.rutube.ru/stream/musang-701.brz.rutube.ru/DtPowlW_UlUJ9gJY9ASZxA/1724430497/c58f502c7bb34a8fcdd976b221fca292/1080p_stream.m3u8
 #EXTINF:-1 group-title="Rutube (VPN)",НТВ HD
