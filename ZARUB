@@ -2254,8 +2254,6 @@ http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
 https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/master.m3u8
 #EXTINF:-1 group-title="Франция 🇫🇷",A2i Music
 https://stream.sen-gt.com/A2iMusic/myStream/chunklist_w652109108.m3u8
-#EXTINF:-1 group-title="Франция 🇫🇷",Monaco Info
-https://webtvmonacoinfo.mc/live/prod_720/index.m3u8
 #EXTINF:-1 group-title="Франция 🇫🇷" tvg-logo="https://i.imgur.com/YWIJdai.png",Africa 24
 https://edge12.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
 #EXTINF:-1 group-title="Франция 🇫🇷" tvg-logo="https://i.imgur.com/090tCQ5.png",Alpe d’Huez TV
@@ -2270,10 +2268,6 @@ http://biptv.tv/live/biptvstream_orig/index.m3u8
 https://dhx-caillou-2-fr.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Франция 🇫🇷" tvg-logo="https://i.imgur.com/lAsE6kN.png",Canal 32
 https://edge13.vedge.infomaniak.com/livecast/ik:canal32/manifest.m3u8
-#EXTINF:-1 group-title="Франция 🇫🇷" tvg-logo="https://i.imgur.com/2DU22BN.png",Central TV
-http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
-#EXTINF:-1 group-title="Франция 🇫🇷" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Logo_Ch%C3%A9rie_25.svg/512px-Logo_Ch%C3%A9rie_25.svg.png",Chérie 25
-https://cherie25.nrjaudio.fm/hls/live/2038375/c25/FHD.m3u8
 #EXTINF:-1 group-title="Франция 🇫🇷" tvg-logo="https://i.imgur.com/ab6p2SW.png",DBM TV
 http://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8
 #EXTINF:-1 group-title="Франция 🇫🇷" tvg-logo="https://i.imgur.com/utMKPpl.png",Ère TV
@@ -2288,16 +2282,12 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 https://spi-filmstream-1-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Франция 🇫🇷" tvg-logo="https://i.imgur.com/NgBrDMe.png",Generations TV
 https://edge.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
-#EXTINF:-1 group-title="Франция 🇫🇷" tvg-logo="https://i.imgur.com/34Vcc7u.png",Gulli Bil Arabi
-https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f400730958/index.m3u8
 #EXTINF:-1 group-title="Франция 🇫🇷" tvg-logo="https://i.imgur.com/fVhrJHK.png",ILTV
 http://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Франция 🇫🇷" tvg-logo="https://i.imgur.com/m5lO27j.png",Juste pour Rire
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60afa1508284e60007163c08/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fcc6e0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a8b6a6bb-4f8c-438e-a638-d4cfa72ae69a
 #EXTINF:-1 group-title="Франция 🇫🇷" tvg-logo="https://i.imgur.com/EY6TsdV.png",KTO
 https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
-#EXTINF:-1 group-title="Франция 🇫🇷" tvg-logo="https://i.imgur.com/7GVp3fW.png",M6
-https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
 #EXTINF:-1 group-title="Франция 🇫🇷",MyTime Movie Network
 https://mytimemoviefrance-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Франция 🇫🇷",Mytime Movies
@@ -2306,56 +2296,28 @@ https://mytimefrance-rakuten-samsung.amagi.tv/playlist.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
 #EXTINF:-1 group-title="Франция 🇫🇷" tvg-logo="https://i.imgur.com/a1OO1t6.png",Nancy Web TV
 https://edge.vedge.infomaniak.com/livecast/ik:nancy-webtv/manifest.m3u8
-#EXTINF:-1 group-title="Франция 🇫🇷" tvg-logo="https://i.imgur.com/v46PWq3.png",NLM TV
-https://ktismaservers.in:3394/stream/play.m3u8
-#EXTINF:-1 group-title="Франция 🇫🇷" tvg-logo="https://i.imgur.com/Lv66Gcv.png",NRJ 12
-https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/FHD.m3u8
-#EXTINF:-1 group-title="Франция 🇫🇷" tvg-logo="https://i.imgur.com/AeoDLK1.png",Rakuten Comedy Movies France
-https://rakuten-comedymovies-7-fr.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Франция 🇫🇷" tvg-logo="https://i.imgur.com/hboiinD.jpg",Rakuten Family
 https://rakuten-family-7-fr.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Франция 🇫🇷" tvg-logo="https://i.imgur.com/dWNxCqp.png",Rakuten Spotlight France
-https://rakuten-spotlight-7-fr.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Франция 🇫🇷",Rakuten TV Anime Digital Network
-https://amg00762-adn-adn-rakuten-jnwoo.amagi.tv/hls/amagi_hls_data_rakutenAA-adn-rakuten/CDN/master.m3u8
-#EXTINF:-1 group-title="Франция 🇫🇷",Rakuten TV BBC Doctor Who France
-https://bbceu-doctorwho-3-fr.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Франция 🇫🇷",Rakuten TV BBC Drama
 https://bbceu-bbcdrama-1-fr.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Франция 🇫🇷" tvg-logo="https://i.imgur.com/KHvNtIf.png",Rakuten TV Films Action
-https://rakuten-actionmovies-7-fr.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Франция 🇫🇷",Rakuten TV Films Drames
-https://rakuten-tvshows-7-fr.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Франция 🇫🇷",Rakuten TV Films Français
 https://rakuten-films-francais-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Франция 🇫🇷",Rakuten TV Films Thriller
 https://rakuten-thriller-7-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Франция 🇫🇷",Rakuten TV Gusto.tv
 https://gustotv-gustotv-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Франция 🇫🇷",Rakuten TV L'Atelier des Chefs
-https://alchimie-ateliersdeschefs-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Франция 🇫🇷",Rakuten TV Romance
-https://rakuten-romance-7-fr.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Франция 🇫🇷",Rakuten TV Shows
 https://rakuten-tvshows-7-fr.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Франция 🇫🇷",Rakuten TV Top Films
-https://rakuten-topfree-7-fr.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Франция 🇫🇷" tvg-logo="https://sanisidrotv.com/wp-content/uploads/2020/10/logo-san-isidro-tv-png-1-300x221.png",San Isidro TV
-https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8
 #EXTINF:-1 group-title="Франция 🇫🇷" tvg-logo="https://i.imgur.com/1IXQoWq.png",Sport En France
 https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
 #EXTINF:-1 group-title="Франция 🇫🇷",Stormcast Novelas TV
 https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Франция 🇫🇷",Supertoons TV
-https://kedoo-supertoonstv-3-fr.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Франция 🇫🇷" tvg-logo="https://i.imgur.com/8YMLPA3.png",Three Angels Broadcasting Network International (3ABN)
 https://3abn-live.akamaized.net/hls/live/2010544/International/master.m3u8
 #EXTINF:-1 group-title="Франция 🇫🇷" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TV3CAT.svg/512px-TV3CAT.svg.png",TV3CAT
 https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
 #EXTINF:-1 group-title="Франция 🇫🇷",TV3V
 https://tv3v.hdr-tv.com/live/tv3v/livestream/master.m3u8
-#EXTINF:-1 group-title="Франция 🇫🇷" tvg-logo="https://i.imgur.com/lJdlu2r.png",TV7 Bordeaux
-http://live.digiteka.com/1/RVNZMmJtUURmd09I/U0dNU0tk/hls/live/playlist.m3u8
 #EXTINF:-1 group-title="Франция 🇫🇷" tvg-logo="https://i.imgur.com/RuFISFk.png",TV7 Colmar
 https://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Франция 🇫🇷" tvg-logo="https://i.imgur.com/stzE1Ij.png",TV78
@@ -2382,18 +2344,12 @@ https://v1.tustreaming.cl:19360/vozdepoder/vozdepoder.m3u8
 https://tls-cl.cdnz.cl/umag2/live/playlist.m3u8
 #EXTINF:-1 group-title="Чили 🇨🇱",UCV TV
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
-#EXTINF:-1 group-title="Чили 🇨🇱",Turf Movil
-https://janus.tvturf.cl/playlist/stream.m3u8
 #EXTINF:-1 group-title="Чили 🇨🇱",ITV Patagonia
 https://unlimited1-us.dps.live/itv/itv.smil/itv/livestream1/playlist.m3u8
 #EXTINF:-1 group-title="Чили 🇨🇱",V Classic TV
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
-#EXTINF:-1 group-title="Чили 🇨🇱",TV5 Linares
-https://unlimited1-us.dps.live/tv5/tv5.smil/playlist.m3u8
 #EXTINF:-1 group-title="Чили 🇨🇱",ULagos TV
 http://tv.ulagos.cl/web/live.m3u8
-#EXTINF:-1 group-title="Чили 🇨🇱",VTV
-http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8
 #EXTINF:-1 group-title="Швейцария 🇨🇭",Canal Alpha Jura HD
 https://canalalphaju.vedge.infomaniak.com/livecast/canalalphaju/playlist.m3u8
 #EXTINF:-1 group-title="Швейцария 🇨🇭",La Télé HD
@@ -2520,5 +2476,4 @@ https://rctvhd.net:8081/elsol105fm/index.m3u8
 http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 #EXTINF:-1 group-title="Япония 🇯🇵",Shop Channel
 http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
-#EXTINF:-1 group-title="Япония 🇯🇵",NHK World-Japan
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+
