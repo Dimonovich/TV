@@ -609,6 +609,10 @@ http://178.124.179.122:8088/Sci-Fi/index.m3u8
 http://178.124.179.122:8088/Retro/index.m3u8
 #EXTINF:-1 group-title="Белтелеком",Сарафан
 http://178.124.179.122:8088/Sarafan/index.m3u8
+#EXTINF:-1 group-title="Белтелеком",Перец
+http://178.124.179.122:8088/Peretz/index.m3u8
+#EXTINF:-1 group-title="Белтелеком",БелРос
+http://178.124.179.122:8088/TRO/index.m3u8
 #EXTINF:-1 group-title="Белтелеком",Союз
 http://178.124.179.122:8088/Souz/index.m3u8
 #EXTINF:-1 group-title="Белтелеком",Усадьба
