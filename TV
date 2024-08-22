@@ -158,6 +158,8 @@ https://stream.sunset-media.ru:443/Free/Free/4.m3u8
 https://stream.sunset-media.ru/Free/Free/5.m3u8
 #EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://sunset-media.ru/Sunsetmusiclive.png" ,Sunset Music Live
 https://stream.sunset-media.ru/Free/Free/6.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Поехали!
+http://91.247.68.229:8000/play/Poehali/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",Тайна
 https://tochkatv-live.cdnvideo.ru/tochkatv_pub/tainatv.stream_aac.smil/tracks-v1a1/mono.m3u8?hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 group-title="TEST (VPN)",TVMChannel
