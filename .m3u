@@ -59,6 +59,9 @@ http://178.212.71.253:8002/play/a00o/index.m3u8
 #EXTINF:-1,Home 4K
 http://hls3.ttv2.space:80/home_hd/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 ,Поехали!
+http://91.247.68.229:8000/play/Poehali/index.m3u8
+
 #EXTINF:-1 ,Т24
 https://st1.uzdigital.tv/Tehno_24/tracks-v1a1/mono.m3u8
 
@@ -85,6 +88,8 @@ https://tochkatv-live.cdnvideo.ru/tochkatv_pub/tainatv.stream_aac2.smil/playlist
 
 #EXTINF:-1 ,Большая Азия
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
+
+
 
 #EXTINF:-1 ,История
 http://iptv.mega.net.ru:8888/Istoria/mono.m3u8
