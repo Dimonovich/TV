@@ -15,34 +15,16 @@ https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
 https://d1k6kax80wecy5.cloudfront.net/RLnAKY/program_mid/stream.m3u8
 #EXTINF:-1 group-title="Австралия 🇦🇺",Channel 44
 https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8
-#EXTINF:-1 group-title="Австралия 🇦🇺",M4TV Malayalam
-https://app.m4stream.live/mfourmalayalamhls/live.m3u8
 #EXTINF:-1 group-title="Австралия 🇦🇺",Sacing.com
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
 #EXTINF:-1 group-title="Австралия 🇦🇺",ABC News
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:-1 group-title="Австралия 🇦🇺",Horse and Country
 https://hncfree-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Австралия 🇦🇺",Insight TV
-https://insighttv-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Австралия 🇦🇺",Introuble TV
-https://introuble-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Австралия 🇦🇺",Inwild TV
-https://inwild-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Австралия 🇦🇺",Inwonder TV
-https://inwonder-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Австралия 🇦🇺",Outdoor Channel
-https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Австралия 🇦🇺",Real Stories
-https://lds-realstories-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Австралия 🇦🇺",Rialto
-https://rialto-rialto-samsungaustralia.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Австралия 🇦🇺",Smithsonian Channel Asia
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Австралия 🇦🇺",Time Line Australia
 https://lds-timeline-samsungau.amagi.tv/playlistwebvtt.m3u8
-#EXTINF:-1 group-title="Австралия 🇦🇺",TVSN
-https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8
 #EXTINF:-1 group-title="Австрия 🇦🇹",FS1 Salzburg
 http://stream.fs1.tv:8080/hls/webstream.m3u8
 #EXTINF:-1 group-title="Австрия 🇦🇹",Dorf TV
@@ -51,8 +33,6 @@ https://stream.openplayout.org/hls/dorf.m3u8
 https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
 #EXTINF:-1 group-title="Австрия 🇦🇹",Kronehit
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
-#EXTINF:-1 group-title="Австрия 🇦🇹",oe24.TV
-https://apasfoe24l.sf.apa.at/ipad/oe24-live1/oe24.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Австрия 🇦🇹",R9
 https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8
 #EXTINF:-1 group-title="Австрия 🇦🇹",Swamiji TV
@@ -61,82 +41,60 @@ https://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8
 https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
 #EXTINF:-1 group-title="Австрия 🇦🇹",Dorf TV
 https://stream.openplayout.org/hls/dorftv/live.m3u8
-#EXTINF:-1 group-title="Австрия 🇦🇹",DW Deutsch
-https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/index.m3u8
 #EXTINF:-1 group-title="Австрия 🇦🇹",Hitradio Ö3
 https://studiocam-oe3.mdn.ors.at/out/u/studiocam_oe3/q6a/manifest_1.m3u8
-#EXTINF:-1 group-title="Австрия 🇦🇹",Krone.TV
-https://kronetv.mdn.ors.at/out/u/kronetv-nodrm.m3u8
 #EXTINF:-1 group-title="Австрия 🇦🇹",Ländle Tv
 https://streaming13.huberwebmedia.at/LiveApp/streams/985585225397790082777809.m3u8
-#EXTINF:-1 group-title="Австрия 🇦🇹",oe24 TV
-https://varoe24live.sf.apa.at/oe24-live1/oe24.smil/playlist.m3u8
 #EXTINF:-1 group-title="Австрия 🇦🇹",Okto TV
 https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8
 #EXTINF:-1 group-title="Австрия 🇦🇹",Rakuten Comedy Movies Austria
 https://rakuten-comedymovies-5-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Австрия 🇦🇹",Schau TV
-https://schautv.mdn.ors.at/out/u/schautv-nodrm.m3u8
 #EXTINF:-1 group-title="Австрия 🇦🇹",Tirol TV
 https://streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8
 #EXTINF:-1 group-title="Австрия 🇦🇹",TV 1 Oberösterreich
 https://streaming10.huberwebmedia.at/LiveApp/streams/238985177034727564068269_adaptive.m3u8
 #EXTINF:-1 group-title="Азербайджан 🇦🇿",AL ZAHRA TV
 http://live.al-zahratv.com/live/playlist.m3u8
-#EXTINF:-1 group-title="Азербайджан 🇦🇿",ARB
-http://109.205.166.68/server124/arb/index.m3u8
 #EXTINF:-1 group-title="Азербайджан 🇦🇿",Az News TV1
 https://edge1.socialsmart.tv/aznews/smil/aznews/720p/chunks.m3u8
 #EXTINF:-1 group-title="Азербайджан 🇦🇿",Az Star TV HD
 http://live.livestreamtv.ca/azstar/azstar/playlist.m3u8
-#EXTINF:-1 group-title="Азербайджан 🇦🇿",AzTV1
-http://109.205.166.68/server124/aztv/index.m3u8
 #EXTINF:-1 group-title="Азербайджан 🇦🇿",Baku TV Az
 https://rtmp.baku.tv/live/bakutv_720p.m3u8
 #EXTINF:-1 group-title="Азербайджан 🇦🇿",EL TV
 http://85.132.53.162:1935/live/eltv/chunklist.m3u8
 #EXTINF:-1 group-title="Азербайджан 🇦🇿",Hadi TV Az
 https://live.ishiacloud.com/hls/1d6e10dc-7bfc-4abb-9bb3-0dfe80b3d7df_720p.m3u8
-#EXTINF:-1 group-title="Азербайджан 🇦🇿",Idman TV1
-http://109.205.166.68/server124/idman_az/index.m3u8
 #EXTINF:-1 group-title="Азербайджан 🇦🇿",Kəpəz TV
 http://85.132.81.184:8080/arbkepez/live/index.m3u8
-#EXTINF:-1 group-title="Азербайджан 🇦🇿" tvg-logo="http://epg.it999.ru/img/2557.png" ,Medeniyyet
-http://109.205.166.68/server124/medeniyyet_tv/index.m3u8
-#EXTINF:-1 group-title="Азербайджан 🇦🇿" tvg-logo="http://epg.it999.ru/img/2553.png",Space TV
-http://109.205.166.68/server124/space_tv/index.m3u8
 #EXTINF:-1 group-title="Азербайджан 🇦🇿",STAR TV SD
 http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
-#EXTINF:-1 group-title="Азербайджан 🇦🇿" tvg-logo="http://epg.it999.ru/img/2558.png",Xazar TV
-http://109.205.166.68/server124/xazar_tv/index.m3u8
+#EXTINF:-1 group-title="Албания 🇦🇱",Nesër TV
+https://protokolldns.xyz/ntv.l.i.v.e5547892023/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Албания 🇦🇱",News 24
+https://tv.balkanweb.com/news24/livestream/chunks.m3u8
+#EXTINF:-1 group-title="Албания 🇦🇱",Ora News
+https://live1.mediadesk.al/oranews.php
+#EXTINF:-1 group-title="Албания 🇦🇱",Panorama TV
+https://tv.panorama.com.al/panorama/livestream/chunks.m3u8
+#EXTINF:-1 group-title="Албания 🇦🇱",Report TV
+https://deb10stream.duckdns.org/hls/stream.m3u8
+#EXTINF:-1 group-title="Албания 🇦🇱",Syri TV
+https://stream.syritv.al/SyriTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Албания 🇦🇱",City News Albania
+https://live1.mediadesk.al/cnatv.php
+#EXTINF:-1 group-title="Албания 🇦🇱",A2
+https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/chunklist_w298864735_b2128000_slalb.m3u8
 #EXTINF:-1 group-title="Албания 🇦🇱",Peace TV Albanian
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
 #EXTINF:-1 group-title="Албания 🇦🇱",AlbUK TV HD
 http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
-#EXTINF:-1 group-title="Албания 🇦🇱",RTSH Muzikë
-http://edge01eu.ekranet.com/rtshmsicweb/index.m3u8
-#EXTINF:-1 group-title="Албания 🇦🇱",RTSH Shqip
-http://edge01eu.ekranet.com/rtshshqip1/index.m3u8
-#EXTINF:-1 group-title="Албания 🇦🇱",RTSH 1
-http://edge01eu.ekranet.com:80/rtshhd_low/index.m3u8
-#EXTINF:-1 group-title="Албания 🇦🇱",RTSH 2
-http://edge01eu.ekranet.com:80/rtsh2hd1/index.m3u8
-#EXTINF:-1 group-title="Албания 🇦🇱",RTSH 24
-http://edge01eu.ekranet.com:80/rtsh24/index.m3u8
-#EXTINF:-1 group-title="Албания 🇦🇱",RTSH 3
-http://edge01eu.ekranet.com:80/rtsh3hd1/index.m3u8
-#EXTINF:-1 group-title="Албания 🇦🇱",RTSH Film
-http://edge01eu.ekranet.com:80/rtshfilm1/index.m3u8
-#EXTINF:-1 group-title="Албания 🇦🇱",RTSH Sport
-http://edge01eu.ekranet.com:80/rtshsport_240p/index.m3u8
 #EXTINF:-1 group-title="Албания 🇦🇱",TV Opoja
 http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
-#EXTINF:-1 group-title="Албания 🇦🇱",TV Apollon
-https://live.apollon.tv/Apollon-WEB/video.m3u8?token=tnt3u76re30d2
-#EXTINF:-1 group-title="Албания 🇦🇱",TV 7 Albania
-http://media.az-mediaserver.com:1935/7064/7064/playlist.m3u8
 #EXTINF:-1 group-title="Албания 🇦🇱",News 24
 http://tv.balkanweb.com/news24/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Албания 🇦🇱",Vizion Plus
+https://mfe01.tring.al/delta/105/out/u/1180_4.m3u8
 #EXTINF:-1 group-title="Алжир 🇩🇿",Alaraby TV HD
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="Алжир 🇩🇿",France 24 Arabic
