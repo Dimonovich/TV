@@ -101,14 +101,6 @@ https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
 https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8
 #EXTINF:-1 group-title="Алжир 🇩🇿",Sky News Arabia
 https://stream.skynewsarabia.com/hls/sna.m3u8
-#EXTINF:-1 group-title="Аргентина 🇦🇷",24/7 Canal de Noticias
-https://panel.dattalive.com/6605140/6605140/chunklist_w1813443749.m3u8
-#EXTINF:-1 group-title="Аргентина 🇦🇷",Canal 3 Formosa
-https://stmvideo2.livecastv.com/agenfor/agenfor/playlist.m3u8
-#EXTINF:-1 group-title="Аргентина 🇦🇷",Canal 4 Balcarce
-https://stmvideo2.livecastv.com/canal4/canal4/playlist.m3u8
-#EXTINF:-1 group-title="Аргентина 🇦🇷",Canal 4 Jujuy
-https://5cd577a3dd8ec.streamlock.net/canal4/smil:manifest.smil/chunklist_w2121338131_b316000.m3u8
 #EXTINF:-1 group-title="Аргентина 🇦🇷",Canal 10 Nortevision
 https://vivo.solumedia.com:19360/nortevision/nortevision.m3u8
 #EXTINF:-1 group-title="Аргентина 🇦🇷",Canal 11 De la Costa
@@ -117,8 +109,6 @@ https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8
 https://5f700d5b2c46f.streamlock.net/madryntv/madryntv/playlist.m3u8
 #EXTINF:-1 group-title="Аргентина 🇦🇷",Canal 13 Jujuy
 https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
-#EXTINF:-1 group-title="Аргентина 🇦🇷",Canal 20 Villa Maria
-https://cronos.aldeaglobal.net.ar/hls/canal20.m3u8
 #EXTINF:-1 group-title="Аргентина 🇦🇷",Canal 21 TV
 https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
 #EXTINF:-1 group-title="Аргентина 🇦🇷",Canal 22
@@ -127,36 +117,22 @@ https://5f700d5b2c46f.streamlock.net/canal22/canal22/playlist.m3u8
 https://s8.stweb.tv/chacra/live/playlist.m3u8
 #EXTINF:-1 group-title="Аргентина 🇦🇷",France 24 Español
 https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
-#EXTINF:-1 group-title="Аргентина 🇦🇷",Multivisión Federal
-http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 #EXTINF:-1 group-title="Аргентина 🇦🇷",Telecinco
 https://videohd.live:19360/8016/8016.m3u8
-#EXTINF:-1 group-title="Аргентина 🇦🇷",Telemix
-https://panel.dattalive.com/8068/8068/playlist.m3u8
 #EXTINF:-1 group-title="Аргентина 🇦🇷",Samos la Pampa
 https://stream.arcast.com.ar/somosnoticias/somosnoticias/playlist.m3u8
-#EXTINF:-1 group-title="Аргентина 🇦🇷",Solive TV
-https://stmv1.cnarlatam.com/solivetv/solivetv/playlist.m3u8
 #EXTINF:-1 group-title="Аргентина 🇦🇷",TV Universidad
 https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 #EXTINF:-1 group-title="Аргентина 🇦🇷",TV Salidaria
 https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
-#EXTINF:-1 group-title="Аргентина 🇦🇷",TEC TV
-https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
-#EXTINF:-1 group-title="Аргентина 🇦🇷",T5 Satelital
-https://tv.t5satelital.com/tvhls/streamcorrientes.m3u8
 #EXTINF:-1 group-title="Аргентина 🇦🇷",Net TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
 #EXTINF:-1 group-title="Аргентина 🇦🇷",Beats Radio
 https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8
 #EXTINF:-1 group-title="Аргентина 🇦🇷",CPE TV
 https://stream.arcast.live/cpe/ngrp:cpe_all/playlist.m3u8
-#EXTINF:-1 group-title="Аргентина 🇦🇷",VTV
-https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8
 #EXTINF:-1 group-title="Аргентина 🇦🇷",Uniteve
 https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
-#EXTINF:-1 group-title="Аргентина 🇦🇷",Unirio TV
-https://5f700d5b2c46f.streamlock.net/uniriotv/uniriotv/playlist.m3u8
 #EXTINF:-1 group-title="Армения 🇦🇲" tvg-logo="https://i.ibb.co/3Cwn1Zx/SGN-04-13-2022-1649875763996.png" ,Song TV
 https://songtv.hls.iptvdc.com/web-armenia/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Армения 🇦🇲" tvg-logo="https://i.ibb.co/Fmr4gG9/SGN-12-18-2021-1639837555217.png" ,Azatutyun TV HD 
@@ -257,8 +233,6 @@ https://d10rltuy0iweup.cloudfront.net/ATNINT/myStream/playlist.m3u8
 https://d2g7v53450s2i2.cloudfront.net/ATNUS/myStream/playlist.m3u8
 #EXTINF:-1 group-title="Афганистан 🇦🇫",ATN News
 https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8
-#EXTINF:-1 group-title="Афганистан 🇦🇫",Dubai One (English)
-http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/media.m3u8
 #EXTINF:-1 group-title="Афганистан 🇦🇫" tvg-logo="https://i.imgur.com/XpR1VvZ.png",Kayhan TV
 http://playout395.livestreamingcdn.com:1935/live/Stream1/playlist.m3u8
 #EXTINF:-1 group-title="Афганистан 🇦🇫",Mohabat TV
@@ -269,34 +243,28 @@ http://livestream.5centscdn.com/shaditv/23abe62a446fc05ce0a6c810f4045308.sdp/ind
 http://g5nl6xx5lpq6-hls-live.5centscdn.com/live1234/2621b29e501b445fabf227b086123b70.sdp/mono.m3u8
 #EXTINF:-1 group-title="Афганистан 🇦🇫",Bahar TV
 https://59d39900ebfb8.streamlock.net/bahartv/bahartv/playlist.m3u8
-#EXTINF:-1 group-title="Беларусь 🇧🇾",Белсат ТВ
-http://f1.stream.devkom.pro:1063/ramowka/video.m3u8
-#EXTINF:-1 group-title="Беларусь 🇧🇾",CTV
-https://edge56.dc.beltelecom.by/ctv/_definst_/ctv.stream/chunklist_w357074489.m3u8
-#EXTINF:-1 group-title="Беларусь 🇧🇾",БелРос
-https://live.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
 #EXTINF:-1 group-title="Беларусь 🇧🇾",ОНТ
-https://edge56.dc.beltelecom.by/ont/_definst_/ont/chunklist.m3u8
+https://stream.dc.beltelecom.by/ont/ont/chunklist_w1061477908.m3u8
+#EXTINF:-1 group-title="Беларусь 🇧🇾",CTV
+https://ngtrk.dc.beltelecom.by/ctv/ctv.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Беларусь 🇧🇾",БелРос
+https://live3.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
 #EXTINF:-1 group-title="Беларусь 🇧🇾",Беларусь 24
-https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/chunklist.m3u8
+https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/chunklist_w1008231497_b5160000_sleng.m3u8
 #EXTINF:-1 group-title="Беларусь 🇧🇾",Первый Музыкальный BY
 http://rtmp.one.by:1200
 #EXTINF:-1 group-title="Беларусь 🇧🇾",Первый Музыкальный BY
 http://rtmp.one.by:1300
-#EXTINF:-1 group-title="Беларусь 🇧🇾",Витебск
-https://flu.vtv.by/tvt-non-by/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Беларусь 🇧🇾",Беларусь 1
-https://edge60.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/chunklist_w1244197741_b1460000_sleng.m3u8
-#EXTINF:-1 group-title="Беларусь 🇧🇾",Беларусь 2
-https://edge60.dc.beltelecom.by/ngtrk/_definst_/smil:belarus2.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Беларусь 🇧🇾",Беларусь 3
-https://edge60.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3.smil/chunklist_w14452038_b1460000_sleng.m3u8
-#EXTINF:-1 group-title="Беларусь 🇧🇾",Беларусь 5
-https://edge60.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Беларусь 🇧🇾" tvg-logo="https://www.trkbrest.by/uploads/logo1.png",Беларусь 4 Брест
-https://flu.vtv.by/bt4-non-by/index.m3u8
-#EXTINF:-1 group-title="Беларусь 🇧🇾",Радио Хит
-http://hithd.camsh.orsk.ru/hls/hithd.m3u8
+#EXTINF:-1 group-title="Бельгия 🇧🇪",Notele
+https://streaming01.divercom.be/notele_live/direct.stream/playlist.m3u8
+#EXTINF:-1 group-title="Бельгия 🇧🇪",BX1
+https://59959724487e3.streamlock.net/stream/live/chunklist_w1459143204.m3u8
+#EXTINF:-1 group-title="Бельгия 🇧🇪",Antwerpen TV
+https://live.zendzend.com/mpegts/29375_107244/master_mpegts.m3u8
+#EXTINF:-1 group-title="Бельгия 🇧🇪",TV Oost
+https://live.zendzend.com/mpegts/29375_399410/media_mpegts_1.m3u8
+#EXTINF:-1 group-title="Бельгия 🇧🇪",TV Limburg
+https://live.zendzend.com/mpegts/29375_395474/media_mpegts_1.m3u8
 #EXTINF:-1 group-title="Бельгия 🇧🇪",Bel RTL
 https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8
 #EXTINF:-1 group-title="Бельгия 🇧🇪",HLN Live
@@ -311,24 +279,8 @@ https://contact-live-hls.akamaized.net/hls/live/2038650/CONTACT-Live-HLS/master.
 https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8
 #EXTINF:-1 group-title="Бельгия 🇧🇪",Stêrk TV
 https://muzkurd.com/sterktv/sterk/playlist.m3u8
-#EXTINF:-1 group-title="Бельгия 🇧🇪",VRT Radio 1
-https://live-radio-cf-vrt.akamaized.net/groupa/live/d6fdec5d-5d67-4cc3-9f8c-e3e8993c8ee4/live.isml/.m3u8
-#EXTINF:-1 group-title="Бельгия 🇧🇪",VRT Radio 2
-https://live-radio-cf-vrt.akamaized.net/groupa/live/e96793cc-eac5-4ed2-8eb5-617c2f6abc55/live.isml/.m3u8
-#EXTINF:-1 group-title="Бельгия 🇧🇪",VRT Radio Klara
-https://live-radio-cf-vrt.akamaized.net/groupb/live/eee20dc8-158a-4194-8d92-0c5a73ffcd3b/live.isml/.m3u8
-#EXTINF:-1 group-title="Бельгия 🇧🇪",VRT Radio MNM Music and More
-https://live-radio-cf-vrt.akamaized.net/groupa/live/bac277a1-306d-44a0-8e2e-e5b9c07fa270/live.isml/.m3u8
-#EXTINF:-1 group-title="Бельгия 🇧🇪",VRT Radio StuBru
-https://live-radio-cf-vrt.akamaized.net/groupb/live/0f394a26-c87d-475e-8590-e9c6e79b28d9/live.isml/.m3u8
 #EXTINF:-1 group-title="Бельгия 🇧🇪" tvg-logo="https://i.imgur.com/8CWBmcN.png",Notele
 https://streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Бельгия 🇧🇪",XITE BE
-https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_slNLD.m3u8
-#EXTINF:-1 group-title="Бельгия 🇧🇪",Radio PROS
-http://highvolume04.streampartner.nl/radiopros/livestream/playlist.m3u8
-#EXTINF:-1 group-title="Бельгия 🇧🇪",MNM
-https://live-vrt.akamaized.net/groupa/live/bac277a1-306d-44a0-8e2e-e5b9c07fa270/live.isml/.m3u8
 #EXTINF:-1 group-title="Бельгия 🇧🇪",BX1
 https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
 #EXTINF:-1 group-title="Болгария 🇧🇬",Travel TV
@@ -342,7 +294,7 @@ https://tv.city.bg/play/tshls/citytv/index.m3u8
 #EXTINF:-1 group-title="Болгария 🇧🇬",Tiankov FOLK
 https://streamer103.neterra.tv/tiankov-folk/tiankov-folk_SD.m3u8
 #EXTINF:-1 group-title="Болгария 🇧🇬",Code Fashion TV
-https://cdn3.invivo.bg/Codefashion_5500/tracks-v1a1/mono.m3u8
+https://cdn2.invivo.bg/Codefashion_5500/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Болгария 🇧🇬",b1b
 https://e105-ts.cdn.bg/b1b/fls/b1btv.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Болгария 🇧🇬",КАНАЛ 0
