@@ -202,7 +202,80 @@ http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1920x1080@4504/playl
 
 
 
-
+#EXTINF:-1 group-title="RTPM",Первый канал Евразия
+rtmp://92.119.88.58//2212
+#EXTINF:-1 group-title="RTPM",National Geographic
+rtmp://92.119.88.58//2336
+#EXTINF:-1 group-title="RTPM",Туризм 365
+rtmp://92.119.88.58//2241
+#EXTINF:-1 group-title="RTPM",РБК
+rtmp://92.119.88.58//2404
+#EXTINF:-1 group-title="RTPM",Рыболов
+rtmp://92.119.88.58//2394
+#EXTINF:-1 group-title="RTPM",АСТАНА ТВ
+rtmp://92.119.88.58//2214
+#EXTINF:-1 group-title="RTPM",Jibek Joly
+rtmp://92.119.88.58//2215
+#EXTINF:-1 group-title="RTPM",5 kanal KZ
+rtmp://92.119.88.58//2221
+#EXTINF:-1 group-title="RTPM",24KZ
+rtmp://92.119.88.58//2225
+#EXTINF:-1 group-title="RTPM",Gakku
+rtmp://92.119.88.58//2228
+#EXTINF:-1 group-title="RTPM",Sinamo TV HD
+rtmp://92.119.88.58//2231
+#EXTINF:-1 group-title="RTPM",Точикистон
+rtmp://92.119.88.58//2232
+#EXTINF:-1 group-title="RTPM",ТВБ
+rtmp://92.119.88.58//2234
+#EXTINF:-1 group-title="RTPM",Ozbekiston
+rtmp://92.119.88.58//2236
+#EXTINF:-1 group-title="RTPM",Yoshlar
+rtmp://92.119.88.58//2237
+#EXTINF:-1 group-title="RTPM",Toshkent
+rtmp://92.119.88.58//2238
+#EXTINF:-1 group-title="RTPM",Madaniyat va Ma'rifat UZ
+rtmp://92.119.88.58//2240
+#EXTINF:-1 group-title="RTPM",Bolajon
+rtmp://92.119.88.58//2242
+#EXTINF:-1 group-title="RTPM",Navo
+rtmp://92.119.88.58//2243
+#EXTINF:-1 group-title="RTPM",Uzbekistan 24
+rtmp://92.119.88.58//2246
+#EXTINF:-1 group-title="RTPM",Food HD
+rtmp://92.119.88.58//2419
+#EXTINF:-1 group-title="RTPM",Shant Premium HD
+rtmp://92.119.88.58//2397
+#EXTINF:-1 group-title="RTPM",Shant Kids HD
+rtmp://92.119.88.58//2401
+#EXTINF:-1 group-title="RTPM",Sport UZ HD
+rtmp://92.119.88.58//2239
+#EXTINF:-1 group-title="RTPM",KHL HD
+rtmp://92.119.88.58//2403
+#EXTINF:-1 group-title="RTPM",Матч! Футбол 1 HD
+rtmp://92.119.88.58//2407
+#EXTINF:-1 group-title="RTPM",Матч! Футбол 3 HD
+rtmp://92.119.88.58//2408
+#EXTINF:-1 group-title="RTPM",Setanta Ukraine HD
+rtmp://92.119.88.58//272
+#EXTINF:-1 group-title="RTPM",Setanta Sports 2 HD
+rtmp://92.119.88.58//270
+#EXTINF:-1 group-title="RTPM",Setanta Sports 1 HD
+rtmp://92.119.88.58//271
+#EXTINF:-1 group-title="RTPM",ONE 1 HD IL
+rtmp://92.119.88.58//2340
+#EXTINF:-1 group-title="RTPM",SPORT 2 HD IL
+rtmp://92.119.88.58//2352
+#EXTINF:-1 group-title="RTPM",SPORT 5 LIVE HD IL
+rtmp://92.119.88.58//2362
+#EXTINF:-1 group-title="RTPM",Channel 9 IL
+rtmp://92.119.88.58//2374
+#EXTINF:-1 group-title="RTPM",SPORT 3 HD IL
+rtmp://92.119.88.58//2388
+#EXTINF:-1 group-title="RTPM",SPORT 4 HD IL
+rtmp://92.119.88.58//2389
+#EXTINF:-1 group-title="RTPM",Sport 5 Stars HD IL
+rtmp://92.119.88.58//2391
 
 
 
