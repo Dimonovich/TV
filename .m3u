@@ -397,11 +397,8 @@ http://95.216.40.210:80/football1/tracks-v1a1/index.m3u8
 http://95.216.40.210:80/football2/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,Матч! Футбол 3 HD
 http://95.216.40.210:80/football3/tracks-v1a1/index.m3u8
-#EXTINF:-1 ,Старт HD
+#EXTINF:-1 ,Старт
 http://95.216.40.210:80/start/tracks-v1a1/index.m3u8
-#EXTINF:-1 ,NBA TV
-http://95.216.40.210:80/nba/tracks-v1a1/index.m3u8
-
 
 
 #EXTINF:-1 ,Удар HD
