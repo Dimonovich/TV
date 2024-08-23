@@ -1119,6 +1119,9 @@ http://91.90.255.235:8000/play/a008/index.m3u8
 
 
 
+
+#EXTINF:-1 group-title="Digital TV",Первый канал Евразия
+http://sc.id-tv.kz/1KanalEvraziya_34_35.m3u8
 #EXTINF:-1 group-title="Digital TV",Россия РТР
 http://sc.id-tv.kz/RossiyaRTR_34_35.m3u8
 #EXTINF:-1 group-title="Digital TV",НТВ-Мир
@@ -1135,8 +1138,6 @@ http://sc.id-tv.kz/MoyaPlaneta_34_35.m3u8
 http://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 #EXTINF:-1 group-title="Digital TV",History
 http://sc.id-tv.kz/HistoryHD_36_37.m3u8
-#EXTINF:-1 group-title="Digital TV",Viasat Nature
-http://sc.id-tv.kz/ViasatNature_34_35.m3u8
 #EXTINF:-1 group-title="Digital TV",Кухня ТВ HD
 http://sc.id-tv.kz/kuhnya_hd_34_35.m3u8
 #EXTINF:-1 group-title="Digital TV",FOX HD
@@ -1157,8 +1158,6 @@ http://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
 http://sc.id-tv.kz/Rodnoe_kino_34_35.m3u8
 #EXTINF:-1 group-title="Digital TV",Кинокомедия HD
 http://sc.id-tv.kz/Kinokomediya_hd_34_35.m3u8
-#EXTINF:-1 group-title="Digital TV",Кинохит HD
-http://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
 #EXTINF:-1 group-title="Digital TV",Наше новое кино
 http://sc.id-tv.kz/Nnk_hd.m3u8
 #EXTINF:-1 group-title="Digital TV",Индийское кино
@@ -1209,8 +1208,6 @@ http://sc.id-tv.kz/Mult_34_35.m3u8
 http://sc.id-tv.kz/Gulli_34_35.m3u8
 #EXTINF:-1 group-title="Digital TV",Tiji TV
 http://sc.id-tv.kz/TiJi_34_35.m3u8
-#EXTINF:-1 group-title="Digital TV",Первый канал Евразия
-http://sc.id-tv.kz/1KanalEvraziya_34_35.m3u8
 #EXTINF:-1 group-title="Digital TV",31 канал KZ
 http://sc.id-tv.kz/31Kanal_34_35.m3u8
 #EXTINF:-1 group-title="Digital TV",El Arna
@@ -1225,7 +1222,6 @@ http://sc.id-tv.kz/M-1_34_35.m3u8
 http://sc.id-tv.kz/BoksTV_36_37.m3u8
 #EXTINF:-1 group-title="Digital TV",KHL
 http://sc.id-tv.kz/KHL_36_37.m3u8
-
 
 
 
