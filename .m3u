@@ -42,9 +42,6 @@ http://s18209.cdn.ngenix.net/hls/CH_R02_RENTV/playlist.m3u8
 #EXTINF:-1 ,TERRA
 https://bkm.beetv.kz/btv/live/hls/000008142.m3u8
 
-#EXTINF:-1 ,Big Planet
-http://185.50.148.2:7703/BigPlanet/index.m3u8
-
 #EXTINF:-1 ,RTG HD
 https://strm.yandex.ru/kal/rtg/rtg0.m3u8
 #EXTINF:-1 ,Investigation Discovery
@@ -88,8 +85,6 @@ https://tochkatv-live.cdnvideo.ru/tochkatv_pub/tainatv.stream_aac2.smil/playlist
 
 #EXTINF:-1 ,Большая Азия
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
-
-
 
 #EXTINF:-1 ,История
 http://iptv.mega.net.ru:8888/Istoria/mono.m3u8
