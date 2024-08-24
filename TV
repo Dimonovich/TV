@@ -580,11 +580,11 @@ http://hls127.homeiptv.org:8880/Mult/video.m3u8
 http://hls127.homeiptv.org:8880/STS_Kids/video.m3u8
 #EXTINF:-1 group-title="Cloudflare",Уникум
 http://hls127.homeiptv.org:8880/Unikum/video.m3u8
-#EXTINF:-1 group-title="Cloudflare",Старт HD
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Старт HD
 http://hls127.homeiptv.org:8880/Start_HD/video.m3u8
-#EXTINF:-1 group-title="Cloudflare",Футбол
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Футбол
 http://hls127.homeiptv.org:8880/Football/video.m3u8
-#EXTINF:-1 group-title="Cloudflare",Матч ТВ
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч ТВ
 http://hls127.homeiptv.org:8880/MATCH_TV/video.m3u8
 
 
@@ -625,7 +625,7 @@ http://178.124.179.122:8088/Mult/index.m3u8
 http://178.124.179.122:8088/Shanson/index.m3u8
 #EXTINF:-1 group-title="Белтелеком",МузТВ
 http://178.124.179.122:8088/MuzTV/index.m3u8
-#EXTINF:-1 group-title="Белтелеком",KHL HD
+#EXTINF:-1 group-title="Спорткомплекс 🏆",KHL HD
 http://178.124.179.122:8088/KHL_HD/index.m3u8
 
 
@@ -934,27 +934,27 @@ https://stream2.cinerama.uz/1269/tracks-v1a1/mono.m3u8
 https://stream2.cinerama.uz/1212/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Turon Media",1HD
 https://stream2.cinerama.uz/1267/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media",Trace Sport Stars HD
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Trace Sport Stars HD
 https://stream2.cinerama.uz/1274/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media",Uzreport HD
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Uzreport HD
 https://stream2.cinerama.uz/1015/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media",UzSport
+#EXTINF:-1 group-title="Спорткомплекс 🏆",UzSport
 https://stream2.cinerama.uz/1004/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media", Setanta Sports 1 HD
+#EXTINF:-1 group-title="Спорткомплекс 🏆", Setanta Sports 1 HD
 https://stream2.cinerama.uz/1263/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media", Setanta Sports 2 HD
+#EXTINF:-1 group-title="Спорткомплекс 🏆", Setanta Sports 2 HD
 https://stream2.cinerama.uz/1264/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media", MMA-TV.COM
+#EXTINF:-1 group-title="Спорткомплекс 🏆", MMA-TV.COM
 https://stream2.cinerama.uz/1027/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media", KHL
+#EXTINF:-1 group-title="Спорткомплекс 🏆", KHL
 https://stream2.cinerama.uz/1028/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media", Матч! Планета
+#EXTINF:-1 group-title="Спорткомплекс 🏆", Матч! Планета
 https://stream2.cinerama.uz/1049/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media", Viasat Sport
+#EXTINF:-1 group-title="Спорткомплекс 🏆", Viasat Sport
 https://stream2.cinerama.uz/1229/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media", KHL
+#EXTINF:-1 group-title="Спорткомплекс 🏆", KHL
 https://stream2.cinerama.uz/1422/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media", Eurosport 1
+#EXTINF:-1 group-title="Спорткомплекс 🏆", Eurosport 1
 https://stream2.cinerama.uz/1439/tracks-v1a1/mono.m3u8
 
 
@@ -995,11 +995,11 @@ rtmp://5.182.229.90//7318
 rtmp://5.182.229.90//7348
 #EXTINF:-1 group-title="Rtmp",Мосфильм. Золотая коллекция
 rtmp://5.182.229.90//7347
-#EXTINF:-1 group-title="Rtmp",Setanta Sports 1
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Setanta Sports 1
 rtmp://5.182.229.90//7169
-#EXTINF:-1 group-title="Rtmp",Setanta Sports 2
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Setanta Sports 2
 rtmp://5.182.229.90//7168
-#EXTINF:-1 group-title="Rtmp",Eurosport 2
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Eurosport 2
 rtmp://5.182.229.90//7203
 
 
@@ -1053,33 +1053,33 @@ rtmp://92.119.88.58//2419
 rtmp://92.119.88.58//2397
 #EXTINF:-1 group-title="RTPM_2",Shant Kids HD
 rtmp://92.119.88.58//2401
-#EXTINF:-1 group-title="RTPM_2",Sport UZ HD
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Sport UZ HD
 rtmp://92.119.88.58//2239
-#EXTINF:-1 group-title="RTPM_2",KHL HD
+#EXTINF:-1 group-title="Спорткомплекс 🏆",KHL HD
 rtmp://92.119.88.58//2403
-#EXTINF:-1 group-title="RTPM_2",Матч! Футбол 1 HD
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Футбол 1 HD
 rtmp://92.119.88.58//2407
-#EXTINF:-1 group-title="RTPM_2",Матч! Футбол 3 HD
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Футбол 3 HD
 rtmp://92.119.88.58//2408
-#EXTINF:-1 group-title="RTPM_2",Setanta Ukraine HD
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Setanta Ukraine HD
 rtmp://92.119.88.58//272
-#EXTINF:-1 group-title="RTPM_2",Setanta Sports 2 HD
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Setanta Sports 2 HD
 rtmp://92.119.88.58//270
-#EXTINF:-1 group-title="RTPM_2",Setanta Sports 1 HD
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Setanta Sports 1 HD
 rtmp://92.119.88.58//271
-#EXTINF:-1 group-title="RTPM_2",ONE 1 HD IL
+#EXTINF:-1 group-title="Спорткомплекс 🏆",ONE 1 HD IL
 rtmp://92.119.88.58//2340
-#EXTINF:-1 group-title="RTPM_2",SPORT 2 HD IL
+#EXTINF:-1 group-title="Спорткомплекс 🏆",SPORT 2 HD IL
 rtmp://92.119.88.58//2352
-#EXTINF:-1 group-title="RTPM_2",SPORT 5 LIVE HD IL
+#EXTINF:-1 group-title="Спорткомплекс 🏆",SPORT 5 LIVE HD IL
 rtmp://92.119.88.58//2362
-#EXTINF:-1 group-title="RTPM_2",Channel 9 IL
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Channel 9 IL
 rtmp://92.119.88.58//2374
-#EXTINF:-1 group-title="RTPM_2",SPORT 3 HD IL
+#EXTINF:-1 group-title="Спорткомплекс 🏆",SPORT 3 HD IL
 rtmp://92.119.88.58//2388
-#EXTINF:-1 group-title="RTPM_2",SPORT 4 HD IL
+#EXTINF:-1 group-title="Спорткомплекс 🏆",SPORT 4 HD IL
 rtmp://92.119.88.58//2389
-#EXTINF:-1 group-title="RTPM_2",Sport 5 Stars HD IL
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Sport 5 Stars HD IL
 rtmp://92.119.88.58//2391
 
 
@@ -1114,11 +1114,11 @@ http://91.90.255.235:8000/play/a00h/index.m3u8
 http://91.90.255.235:8000/play/a006/index.m3u8
 #EXTINF:-1 group-title="Telenet_2",Шансон ТВ
 http://91.90.255.235:8000/play/a007/index.m3u8
-#EXTINF:-1 group-title="Telenet_2",Матч! Игра
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Игра
 http://91.90.255.235:8000/play/a00a/index.m3u8
-#EXTINF:-1 group-title="Telenet_2",Матч! Боец
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Боец
 http://91.90.255.235:8000/play/a00f/index.m3u8
-#EXTINF:-1 group-title="Telenet_2",Extreme Sports
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Extreme Sports
 http://91.90.255.235:8000/play/a008/index.m3u8
 
 
@@ -1223,15 +1223,15 @@ http://sc.id-tv.kz/1KanalEvraziya_34_35.m3u8
 http://sc.id-tv.kz/31Kanal_34_35.m3u8
 #EXTINF:-1 group-title="Digital TV",El Arna
 http://sc.id-tv.kz/ElArna_34_35.m3u8
-#EXTINF:-1 group-title="Digital TV",Матч! Планета
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Планета
 http://sc.id-tv.kz/MatchPlaneta_36_37.m3u8
-#EXTINF:-1 group-title="Digital TV",KHL Prime
+#EXTINF:-1 group-title="Спорткомплекс 🏆",KHL Prime
 http://sc.id-tv.kz/FHD_KHL_34_35.m3u8
-#EXTINF:-1 group-title="Digital TV",M-1 Global
+#EXTINF:-1 group-title="Спорткомплекс 🏆",M-1 Global
 http://sc.id-tv.kz/M-1_34_35.m3u8
-#EXTINF:-1 group-title="Digital TV",Бокс ТВ
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Бокс ТВ
 http://sc.id-tv.kz/BoksTV_36_37.m3u8
-#EXTINF:-1 group-title="Digital TV",KHL
+#EXTINF:-1 group-title="Спорткомплекс 🏆",KHL
 http://sc.id-tv.kz/KHL_36_37.m3u8
 
 
