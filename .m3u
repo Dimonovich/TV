@@ -42,6 +42,9 @@ http://s18209.cdn.ngenix.net/hls/CH_R02_RENTV/playlist.m3u8
 #EXTINF:-1 ,TERRA
 https://bkm.beetv.kz/btv/live/hls/000008142.m3u8
 
+#EXTINF:-1 ,Big Planet
+http://185.50.148.2:7703/BigPlanet/index.m3u8
+
 #EXTINF:-1 ,RTG HD
 https://strm.yandex.ru/kal/rtg/rtg0.m3u8
 #EXTINF:-1 ,Investigation Discovery
