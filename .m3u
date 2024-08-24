@@ -203,29 +203,6 @@ http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 ,ТВОЕ ТВ HD - ЮМОР
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 
-
-
-#EXTINF:-1 group-title="YOSSO TV",Yosso TV VHS
-https://altyn.cdn.lifeyosso.fun:9103/Y-VHS/video.m3u8
-#EXTINF:-1 group-title="YOSSO TV",Yosso TV Русские фильмы
-https://altyn.cdn.lifeyosso.fun:9103/Y-RUS/video.m3u8
-#EXTINF:-1 group-title="YOSSO TV",Yosso TV Наше Детское
-https://altyn.cdn.lifeyosso.fun:9103/Y-DETSKOE/video.m3u8
-#EXTINF:-1 group-title="YOSSO TV",Yosso TV Забавное
-http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-ZABAVNOE/video.m3u8
-#EXTINF:-1 group-title="YOSSO TV",Yosso TV Ковбойское
-https://altyn.cdn.lifeyosso.fun:9103/Y-KOWBOY/video.m3u8
-#EXTINF:-1 group-title="YOSSO TV",Yosso TV Adventure
-https://altyn.cdn.lifeyosso.fun:9103/Y-ADVENTURE/video.m3u8
-#EXTINF:-1 group-title="YOSSO TV",Yosso TV Netflix
-https://altyn.cdn.lifeyosso.fun:9103/Y-NETFLIX/video.m3u8
-#EXTINF:-1 group-title="YOSSO TV",Yosso TV Music Hits
-https://altyn.cdn.lifeyosso.fun:9103/Y-MUSIC-HITS/video.m3u8
-#EXTINF:-1 group-title="YOSSO TV",C-Marvel HD
-https://altyn.cdn.lifeyosso.fun:9103/Y-C-MARVEL/video.m3u8
-#EXTINF:-1 group-title="YOSSO TV",Yosso TV Disney
-https://altyn.cdn.lifeyosso.fun:9103/Y-DISNEY/video.m3u8
-
 #EXTINF:-1 ,Сарафан
 https://streamer3.connectto.com/490/mono.m3u8
 #EXTINF:-1 ,Вопросы и ответы
