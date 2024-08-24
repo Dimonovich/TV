@@ -2188,14 +2188,13 @@ https://streamer103.neterra.tv/thisisbulgaria/thisisbulgaria_HD.m3u8
 
 
 
-
 #EXTINF:-1 group-title="С сайтов (VPN)" ,Первый канал Евразия
 https://1tvkz-stream.daitsuna.net/1tvkz/1tvkz/1tvkz/1tvkz_720/chunks.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://epg.it999.ru/img/983.png",Первый канал HD
+#EXTINF:-1 group-title="С сайтов (VPN)" ,Первый канал HD
 https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://epg.it999.ru/img/983.png",Первый канал (+4)
+#EXTINF:-1 group-title="С сайтов (VPN)" ,Первый канал (+4)
 http://edge4.1internet.tv/dash-live12/streams/1tv-orbit-plus-4/1tv-orbit-plus-4.mpd
-#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://cdn-static.ntv.ru/home/news/2023/20230511/kanal_io.jpg",Неизвестная Россия
+#EXTINF:-1 group-title="С сайтов (VPN)" ,Неизвестная Россия
 https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://epg.it999.ru/img/2001.png",НТВ HD
 https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
@@ -2297,16 +2296,6 @@ https://live-ugratv.cdnvideo.ru/ugratv/ugratv/tracks-v1a1/mono.m3u8
 https://live-tolknews.cdnvideo.ru/tolknews/stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)"  tvg-id="krasnodar",Краснодар HD
 https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)"  tvg-logo="https://online-red.com/images/tv/volgograd-24.png" tvg-id="volgograd-24",Волгоград-24 HD
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/4_7245e3cd/chunklist.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)"  tvg-logo="https://alaniatv.ru/wp-content/uploads/2019/03/alania24.jpg" ,Алания 24
-https://hls-alaniatv.cdnvideo.ru/alaniatv/alania1/playlist.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)"  tvg-logo="https://alaniatv.ru/wp-content/uploads/2019/12/Kavkaz24_logo_RGB-01-e1575553930521.png" ,Кавказ 24
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/1_93b61749/chunklist.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)"  tvg-id="7694" tvg-logo="http://epg.it999.ru/img/7694.png" ,Самара 24 HD
-https://vgtrkregion.cdnvideo.ru/vgtrk/samara/regionHD/playlist_hdhigh.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)"  tvg-id="7703" tvg-logo="http://epg.it999.ru/img/7703.png",Запад 24 HD
-http://live-vestikaliningrad.cdnvideo.ru/vestikaliningrad/vestikaliningrad.sdp/playlist.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" ,Истоки Орёл
 http://istoki.tv:1935/live/efir-istoki.stream/chunklist.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://sezon.tv/wp-content/uploads/2021/08/rodnoy.jpg",Родной Канал HD
@@ -2337,9 +2326,9 @@ https://5f05e059699ae.streamlock.net/WEB_TBN/ngrp:TBN.stream-adaptive/chunklist.
 https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/1.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://www.cableman.ru/sites/default/files/rezonanslogo.png",Резонанс ТВ
 https://serv25.vintera.tv/1pnk/rezonans/chunks.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://epg.it999.ru/img/2265.png",360°
+#EXTINF:-1 group-title="С сайтов (VPN)" ,360°
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/0.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://img15.lostpic.net/2019/09/01/7e6553c2727b709f781d5ab43b52ab9c.png",360 Новости
+#EXTINF:-1 group-title="С сайтов (VPN)" ,360 Новости
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/0.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://almaz-media.tv/templates/almaz2019/images/AK_logo-1024.png",Алмазный край
 https://stream.almaz-media.tv:8080/hls/720.m3u8
@@ -2361,14 +2350,10 @@ https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
 https://live2-orsk.cdnvideo.ru/orsk-infochhd/infochhd/playlist.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://epg.it999.ru/img2/5816.png" tvg-id="aist",Аист ТВ
 https://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://epg.it999.ru/img/2168.png",Астрахань 24
-https://streaming.astrakhan.ru/astrakhan24/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://tochkatv.tv/wp-content/uploads/2017/09/logo.png",Точка ТВ
 https://tochkatv-live.cdnvideo.ru/tochkatv2/tochkatv-sd.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://s3.spbtv.com/rosing-production/bcf527a2cba8750f978d.png",Тюменское Время
 https://hls-sibinformburo.cdnvideo.ru/sibinformburo/sibinformburo.sdp/playlist.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://pic.rutubelist.ru/video/b3/0d/b30d0e06503723e4c61adc98848bd0a9.jpg",Мордовия 24
-https://live-mordovia24.cdnvideo.ru/mordovia24/streamtr/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://lime-tv.ru/wp-content/uploads/2020/10/1522668479_htm.jpg",НТМ HD
 http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://lime-tv.ru/uploads/posts/2019-09/thumbs/1568806824_nts-tv.jpg",НТС HD
@@ -2397,18 +2382,30 @@ https://s68149.cdn.ngenix.net/s68149-media-origin/lvs/tvgub/tracks-v1a1/mono.m3u
 https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://tv-11.ru/wp-content/uploads/2021/12/logo_shapka.jpg",Наш Дом
 http://85.234.33.63/stream/c11.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://epg.it999.ru/img/2571.png",Первый канал Евразия
-https://1tvkz-stream.daitsuna.net/1tvkz/1tvkz/1tvkz/1tvkz_720/chunks.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://epg.it999.ru/img/2478.png",Хузур ТВ
 https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://epg.it999.ru/img/2168.png",Астрахань 24
+https://streaming.astrakhan.ru/astrakhan24/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://epg.it999.ru/img/2578.png",Хабар 24
 https://24kz-srt.cdnvideo.ru/24kzsrt/24kzsrt/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://mininfodnr.ru/wp-content/uploads/2023/02/photo_2022-08-15_20-30-45-e1675420476302.png",Мариуполь 24
 https://hls.cis.itvru.ru/hls/mariupol24/index.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://epg.it999.ru/img/2474.png",КРЫМ 24
 https://cdn.1tvcrimea.ru/24tvcrimea.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://pic.rutubelist.ru/video/b3/0d/b30d0e06503723e4c61adc98848bd0a9.jpg",Мордовия 24
+https://live-mordovia24.cdnvideo.ru/mordovia24/streamtr/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" tvg-id="legendarny24",Легендарный 24    
 https://sevas.1tvcrimea.ru/legendarniy24.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)"  tvg-id="volgograd-24",Волгоград-24 HD
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/4_7245e3cd/chunklist.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)"  tvg-logo="https://alaniatv.ru/wp-content/uploads/2019/03/alania24.jpg" ,Алания 24
+https://hls-alaniatv.cdnvideo.ru/alaniatv/alania1/playlist.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)"  tvg-logo="https://alaniatv.ru/wp-content/uploads/2019/12/Kavkaz24_logo_RGB-01-e1575553930521.png" ,Кавказ 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/1_93b61749/chunklist.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)"  tvg-id="7694" ,Самара 24 HD
+https://vgtrkregion.cdnvideo.ru/vgtrk/samara/regionHD/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)"  tvg-id="7703" ,Запад 24 HD
+http://live-vestikaliningrad.cdnvideo.ru/vestikaliningrad/vestikaliningrad.sdp/playlist.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" ,Симферополь 24
 https://simf.1tvcrimea.ru/simferopol24.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://www.archive.inform.kz/fotoarticles/20120221175352.jpg",QAZAQSTAN
@@ -2470,7 +2467,7 @@ https://salam-mskost-51.rutube.ru/dive/river-3-320.rutube.ru/z0DdmVArUgv_vwg6Oik
 #EXTINF:-1 group-title="Rutube (VPN)",ТНТ Music
 https://salam-mskm9-17.rutube.ru/dive/river-5-517.rutube.ru/7bq3fIMkphGSRtZ44HRETg/stream/genetta-321.m9.rutube.ru/PYjYthkhKtCFrFCCS4f1eQ/1725037152/f5ba23a0149f409c18168231844e0a3b/1080p_stream.m3u8
 #EXTINF:-1 group-title="Rutube (VPN)",VIVA Russia HD
-https://salam-mskm9-48.rutube.ru/dive/river-3-326.rutube.ru/-n2qOee-FUVWF-DgCfNG4w/stream/genetta-501.ost.rutube.ru/0DnQxsH4tz_5ilrn6iOZ8A/1725037192/f712ae5ff3db23ec09b3674133d44daa/1080p_stream.m3u8
+https://live-gcore-1.rutube.ru/stream/genetta-301.m9.rutube.ru/zF9WYvKVTPu7ATSQeEmxfA/1725132404/f712ae5ff3db23ec09b3674133d44daa/1080p_stream.m3u8
 #EXTINF:-1 group-title="Rutube (VPN)", Русский Корабль
 https://live-gcore-1.rutube.ru/stream/genetta-534.ost.rutube.ru/PlhdF7H0gDVo0TaZ0EambQ/1725088541/3ebc361db78373495974123cfb994531/1080p_stream.m3u8
 #EXTINF:-1 group-title="Rutube (VPN)",Матч ТВ HD
