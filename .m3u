@@ -211,15 +211,6 @@ https://live.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
 #EXTINF:-1 ,Беларусь 24
 https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/playlist.m3u8
 
-#EXTINF:-1,Беларусь 1
-http://194.158.222.36:6101/
-#EXTINF:-1,Беларусь 2
-http://194.158.222.36:6107/
-#EXTINF:-1,Беларусь 3
-http://194.158.222.36:6108/
-#EXTINF:-1,НТВ-Беларусь
-http://194.158.222.36:6106/
-
 #EXTINF:-1 ,ОТР
 http://s18209.cdn.ngenix.net/hls/CH_R01_OTR/playlist.m3u8
 #EXTINF:-1 ,Пятый канал
