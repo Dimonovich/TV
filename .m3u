@@ -121,11 +121,6 @@ https://bkm.beetv.kz/btv/live/hls/000000869.m3u8
 #EXTINF:-1 ,viju+ Premiere
 http://135.181.115.81:8000/play/a01a/index.m3u8?token=livetv
 
-#EXTINF:-1,a1
-http://185.50.148.2:7707/A1/index.m3u8
-#EXTINF:-1,a2
-http://185.50.148.2:7707/A2/index.m3u8
-
 #EXTINF:-1,Amedia Premium HD
 http://91.207.114.220:9001/play/a03u/index.m3u8
 
