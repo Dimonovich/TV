@@ -43,13 +43,13 @@ http://s18209.cdn.ngenix.net/hls/CH_R02_RENTV/playlist.m3u8
 https://bkm.beetv.kz/btv/live/hls/000008142.m3u8
 
 #EXTINF:-1 ,RTG HD
-https://strm.yandex.ru/kal/rtg/rtg0.m3u8
+http://194.143.148.28:8080/RTG_HD/mpegts
 #EXTINF:-1 ,Investigation Discovery
 https://stream01.vnet.am/InvestigationDiscovery/tracks-v1a2/mono.m3u8
 #EXTINF:-1 ,Большая Азия
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,МОЯ ПЛАНЕТА
-http://91.207.115.228:5000/c82
+https://stream2.cinerama.uz/1247/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Приключения HD
 https://bkm.beetv.kz/btv/live/hls/000000277.m3u8
 #EXTINF:-1 ,Наша Сибирь
@@ -115,16 +115,16 @@ https://stream2.cinerama.uz/1225/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,TV1000 Русское кино
 https://stream2.cinerama.uz/1059/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,viju+ Comedy
-http://91.207.115.228:5000/c143
+http://185.112.140.28:80/VIPComedy/index.m3u8
 #EXTINF:-1 ,viju+ Megahit
-http://91.207.115.228:5000/c144
+http://185.112.140.28:80/VIPMegahit/index.m3u8
 #EXTINF:-1 ,viju+ Premiere
-http://91.207.115.228:5000/c145
+http://185.112.140.28:80/VIPPremiere/index.m3u8
 
 #EXTINF:-1,a1
-http://91.207.115.228:5000/c55
+http://185.50.148.2:7707/A1/index.m3u8
 #EXTINF:-1,a2
-http://91.207.115.228:5000/c56
+http://185.50.148.2:7707/A2/index.m3u8
 
 #EXTINF:-1,Amedia Premium HD
 http://91.207.114.220:9001/play/a03u/index.m3u8
@@ -263,9 +263,8 @@ http://91.205.199.3/kvntv/index.m3u8
 
 #EXTINF:-1 ,СТС
 http://s18209.cdn.ngenix.net/hls/CH_R02_STS/playlist.m3u8
-
 #EXTINF:-1 ,Ю
-https://strm.yandex.ru/kal/utv/utv0.m3u8
+http://s18209.cdn.ngenix.net/hls/CH_R03_U/playlist.m3u8
 
 #EXTINF:-1 ,МИР PREMIUM
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
