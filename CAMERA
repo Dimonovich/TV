@@ -103,6 +103,18 @@ http://stream.brucity.be/BXLCAM/CAM-DeBrouckere.stream/playlist.m3u8
 http://stream.brucity.be/BXLCAM/CAM-GrandePlace.stream/playlist.m3u8
 #EXTINF:-1 group-title="Бельгия 🇧🇪",Бельгия 3
 https://stream.agfa.be/hls/live.stream.m3u8
+#EXTINF:-1 group-title="Бельгия 🇧🇪",Хёсден-Золдер Автогоночная трасса
+https://s101.ipcamlive.com/streams_timeshift/651inhvcaiomvoryc/stream.m3u8
+#EXTINF:-1 group-title="Бельгия 🇧🇪",Ньивпорт Порт
+https://s3.ipcamlive.com/streams/03tmyaykgtpu6iavd/stream.m3u8
+#EXTINF:-1 group-title="Бельгия 🇧🇪",Мидделкерке Пляж
+https://s100.ipcamlive.com/streams/64zuyhzi4jfterrcy/stream.m3u8
+#EXTINF:-1 group-title="Бельгия 🇧🇪",Вендуин Пляж
+https://s101.ipcamlive.com/streams/65eizqwkdahsmxn9u/stream.m3u8
+#EXTINF:-1 group-title="Бельгия 🇧🇪",Варегем Теннисный клуб
+https://s124.ipcamlive.com/streams/7cvt83bohpvqfgrct/stream.m3u8
+#EXTINF:-1 group-title="Бельгия 🇧🇪",Бланкенберге Пляж
+https://s124.ipcamlive.com/streams/7cyigc6drhkbmkac2/stream.m3u8
 #EXTINF:-1 group-title="Бразилия 🇧🇷",Sao Vicente
 http://5a8d73edc0407.streamlock.net:1935/lopesip/lopesip02.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Бразилия 🇧🇷",Surf
