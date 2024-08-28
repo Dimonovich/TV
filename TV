@@ -8669,7 +8669,17 @@ http://127.0.0.1:6878/ace/getstream?id=0fbcd8f0b3a32f74fff28374947e2d0d4bb857ef&
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",В мире животных HD
 http://127.0.0.1:6878/ace/getstream?id=30ed25e99233ae63f7e10787c8806f74f52a437c&.mp4
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Наша Сибирь
-http://127.0.0.1:6878/ace/getstream?infohash=a0cc34324dd130db6145fbfd5e4824ab4393a12a
+http://127.0.0.1:6878/ace/getstream?infohash=a0cc34324dd130db6145fbfd5e4824ab4393a12a&.mp4
+#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Наша сибирь 4K
+http://127.0.0.1:6878/ace/getstream?id=4b7237f2e654d6c1e03ece1d2fffc249e0324ae6&.mp4
+#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️" ,Love Nature 4K
+http://127.0.0.1:6878/ace/getstream?infohash=cd8c7fcc7fb8c597d64b41429e0596887e097e54&pid=38900686757&.mp4
+#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️" ,Insight UHD 4K
+http://127.0.0.1:6878/ace/getstream?id=2bc787fab6cfce8b5c7a7c6b85e862066d967a68&.mp4
+#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️" tvg-logo="http://ottpink.network/picons/clarity4k.png",Clarity 4K
+http://127.0.0.1:6878/ace/getstream?infohash=73fd61f250e7ef7614feb38bfa7d8a8d38d2f20c&.mp4
+#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Наша сибирь 4K
+http://127.0.0.1:6878/ace/getstream?id=4b7237f2e654d6c1e03ece1d2fffc249e0324ae6&.mp4
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Живая планета
 http://127.0.0.1:6878/ace/getstream?id=b0ecbeeb8ce7bb65cd3ee911b44084976b259549&.mp4
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Наука 2.0
@@ -8944,8 +8954,6 @@ http://127.0.0.1:6878/ace/getstream?id=6c82a952053419ef358907fc2fc52151626be0b7&
 http://127.0.0.1:6878/ace/getstream?id=30b1dba65edffa2c0c8ade75257508b00d8a61ea&.mp4
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Русский Экстрим UHD 4K
 http://127.0.0.1:6878/ace/getstream?id=9214a597a38ed669aba1fe73351a580b1a77ce6e&.mp4
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Наша сибирь 4K
-http://127.0.0.1:6878/ace/getstream?id=4b7237f2e654d6c1e03ece1d2fffc249e0324ae6&.mp4
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",СЕРИАЛ UHD
 http://127.0.0.1:6878/ace/getstream?id=3a71745381e1a6821a881c96a230b6cd365d4da5&.mp4
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",КИНО UHD
@@ -8954,16 +8962,8 @@ http://127.0.0.1:6878/ace/getstream?id=038b448c810cad19a2a9e615d94696a23141e379&
 http://127.0.0.1:6878/ace/getstream?id=6c76dccd15ff935fb1442223529d1aecc8f515d8&.mp4
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️" tvg-logo="http://ottpink.network/picons/uhd1tv.png",UHD1 4K
 http://127.0.0.1:6878/ace/getstream?id=70a2ac1aaff849c5e93dffd709cfb8637384c8b2&.mp4
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️" ,Love Nature 4K
-http://127.0.0.1:6878/ace/getstream?infohash=cd8c7fcc7fb8c597d64b41429e0596887e097e54&pid=38900686757&.mp4
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️" ,Insight UHD 4K
-http://127.0.0.1:6878/ace/getstream?id=2bc787fab6cfce8b5c7a7c6b85e862066d967a68&.mp4
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️" tvg-logo="http://ottpink.network/picons/clarity4k.png",Clarity 4K
-http://127.0.0.1:6878/ace/getstream?infohash=73fd61f250e7ef7614feb38bfa7d8a8d38d2f20c
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️" tvg-logo="https://i.postimg.cc/02nvLv7d/RTL-UHD-Logo.jpg",RTL UHD
 http://127.0.0.1:6878/ace/getstream?id=45ed51e89ea0bd4d2ced6640a5ef4b3524a07744&.mp4
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",SKY Bundesliga UHD
-http://127.0.0.1:6878/ace/getstream?id=169da1e59ffd3947c09d65eb1a0de0c831bef390&.mp4
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",VIVA HD
 http://127.0.0.1:6878/ace/getstream?id=aaf3060a96b04f621643e031eb61137722981595&.mp4
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Bridge HD
@@ -9098,6 +9098,8 @@ http://127.0.0.1:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707&
 http://127.0.0.1:6878/ace/getstream?id=f6d68cfa8694f814983f2a5757f4e0c4964b880c&.mp4
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Setanta Sports 3 HD
 http://127.0.0.1:6878/ace/getstream?infohash=04759f636ad9c8dc35b5eb560d393eab3e2a6f30&.mp4
+#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",SKY Bundesliga UHD
+http://127.0.0.1:6878/ace/getstream?id=169da1e59ffd3947c09d65eb1a0de0c831bef390&.mp4
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",NBA TV HD
 http://127.0.0.1:6878/ace/getstream?infohash=42832fbf9a1d3bdcca043e09951d6769fbbe04e7&.mp4
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Dubai One
