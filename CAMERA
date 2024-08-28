@@ -435,48 +435,40 @@ https://ipcam.kz/cam2/tracks-v1/mono.m3u8
 https://ipcam.kz/cam6/tracks-v1/mono.m3u8
 #EXTINF:-1 group-title="Казахстан 🇰🇿",Шымбулак 6
 https://ipcam.kz/cam7/tracks-v1/mono.m3u8
-#EXTINF:-1 group-title="Киргизия 🇰🇬",Бишкек - Перекресток
-http://iptv.saima.kg/hls-cam/chui-ibraimova.m3u8
-#EXTINF:-1 group-title="Киргизия 🇰🇬",Бишкек - Перекресток 2
-http://iptv.saima.kg/hls-cam/berengold.m3u8
-#EXTINF:-1 group-title="Киргизия 🇰🇬",Бишкек - Площадь Ала-тоо
-http://iptv.saima.kg/hls-cam/alatoo.m3u8
-#EXTINF:-1 group-title="Киргизия 🇰🇬",Бишкек - Площадь Победы
-http://st.kglive.asia/hls/pobeda.m3u8
-#EXTINF:-1 group-title="Киргизия 🇰🇬",Бишкек - Чуй/Советская
-http://213.145.131.243/cam1/stream.m3u8
-#EXTINF:-1 group-title="Киргизия 🇰🇬",Бишкек 2
-https://camera.ihlas.kg/stream/cam15/index.m3u8
-#EXTINF:-1 group-title="Киргизия 🇰🇬",Бишкек 3
-https://camera.ihlas.kg/stream/cam11/index.m3u8
-#EXTINF:-1 group-title="Киргизия 🇰🇬",Бишкек 4
-https://camera.ihlas.kg/stream/cam12/index.m3u8
 #EXTINF:-1 group-title="Киргизия 🇰🇬",Бишкек 5
 http://213.145.131.243/cam2/stream.m3u8
-#EXTINF:-1 group-title="Киргизия 🇰🇬",Бишкек 6
-https://camera.ihlas.kg/stream/cam13/index.m3u8
 #EXTINF:-1 group-title="Киргизия 🇰🇬",Бишкек 7
-https://camera.ihlas.kg/stream/cam3/index.m3u8
-#EXTINF:-1 group-title="Киргизия 🇰🇬",Бишкек 8
-https://camera.ihlas.kg/stream/cam5/index.m3u8
-#EXTINF:-1 group-title="Киргизия 🇰🇬",Бишкек 9
-https://camera.ihlas.kg/stream/cam6/index.m3u8
+https://cam.kt.kg/cam3/stream.m3u8
+#EXTINF:-1 group-title="Киргизия 🇰🇬",Бишкек площадь Ала-Тоо
+https://cam.kt.kg/cam17/stream.m3u8
+#EXTINF:-1 group-title="Киргизия 🇰🇬",Бишкек перекресток пр Чуй - ул Советская
+https://cam.kt.kg/cam16/stream.m3u8
+#EXTINF:-1 group-title="Киргизия 🇰🇬",Бостери Панорама
+https://cam.kt.kg/cam15/stream.m3u8
+#EXTINF:-1 group-title="Киргизия 🇰🇬",Баткен Панорама
+https://cam.kt.kg/cam8/stream.m3u8
+#EXTINF:-1 group-title="Киргизия 🇰🇬",Балыкчи Панорама
+https://cam.kt.kg/cam6/stream.m3u8
+#EXTINF:-1 group-title="Киргизия 🇰🇬",Боконбаево Панорама
+https://cam.kt.kg/cam9/stream.m3u8
+#EXTINF:-1 group-title="Киргизия 🇰🇬",Джалал-Абад Мэрия
+https://webcam.elcat.kg/Jalalbad_Meria/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Киргизия 🇰🇬",Каракол Въезд
+https://webcam.elcat.kg/Karakol_Vezd_25_11_2019/tracks-v1/index.fmp4.m3u8
+#EXTINF:-1 group-title="Киргизия 🇰🇬",Киргизия Талас Панорама
+https://cam.kt.kg/cam12/stream.m3u8
+#EXTINF:-1 group-title="Киргизия 🇰🇬",Тюп Панорама
+https://cam.kt.kg/cam11/stream.m3u8
+#EXTINF:-1 group-title="Киргизия 🇰🇬",Ош вид на гору Сулайман-Тоо
+https://cam.kt.kg/cam5/stream.m3u8
 #EXTINF:-1 group-title="Литва 🇱🇹",Вильнюс
 http://s1.dcdn.lt/live/vilnius.stream/playlist.m3u8
-#EXTINF:-1 group-title="Литва 🇱🇹",Вильнюс 2
-http://s1.dcdn.lt/livecam/vl132.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Литва 🇱🇹",Вильнюс 3
 http://s1.dcdn.lt/livecam/vl108.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Литва 🇱🇹",Игналина
 http://ignet.lt:8888/live/test/index.m3u8
 #EXTINF:-1 group-title="Литва 🇱🇹",Каунас 1
 http://s1.worldcam.live:8081/kaunas/index.m3u8
-#EXTINF:-1 group-title="Литва 🇱🇹",Каунас 2
-http://s1.dcdn.lt/livecam/kn039.stream/playlist.m3u8
-#EXTINF:-1 group-title="Литва 🇱🇹",Каунас 3
-http://s1.dcdn.lt/livecam/kn090.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Литва 🇱🇹",Каунас 4
-http://s1.dcdn.lt/livecam/kn025.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Литва 🇱🇹",Кафедральный собор
 http://s1.dcdn.lt/livecam/vl147.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Литва 🇱🇹",Клайпеда
@@ -491,8 +483,6 @@ https://s1.dcdn.lt/livecam/si508.stream/playlist.m3u8
 http://s1.dcdn.lt/livecam/sll50.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Литва 🇱🇹",Литва - Вильнюс 3
 http://s1.dcdn.lt//live/smil:vilnius.smil/playlist.m3u8
-#EXTINF:-1 group-title="Литва 🇱🇹",Литва - Каралиаус
-http://s1.dcdn.lt/livecam/kn085.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Литва 🇱🇹",Литва - Клайпеда
 http://s1.dcdn.lt/livecam/kl016.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Литва 🇱🇹",Литва - Клайпеда 2
