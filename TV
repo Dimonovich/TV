@@ -206,7 +206,148 @@ http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1920x1080@4504/playl
 
 
 
-
+#EXTINF:-1 group-title="Moldtelecom" tvg-id="inter-plus-ua" ,Inter + HD
+http://212.0.213.132:4444/Inter+/index.m3u8
+#EXTINF:-1 group-title="Moldtelecom",Global 24 MD
+http://212.0.213.132:4444/Ren_TV/index.m3u8
+#EXTINF:-1 group-title="Moldtelecom",ТНТ Exclusiv TV
+http://212.0.213.132:4444/TNT_Exclusive/index.m3u8
+#EXTINF:-1 group-title="Moldtelecom",ОХОТА И РЫБАЛКА
+http://212.0.213.132:4444/Ohota_i_ribalka/index.m3u8
+#EXTINF:-1 group-title="Moldtelecom",МОЯ ПЛАНЕТА HD
+http://212.0.213.132:4444/MoyaPlaneta/index.m3u8
+#EXTINF:-1 group-title="Moldtelecom",Travel+Adventure
+http://212.0.213.132:4444/Travel+Adventure/index.m3u8
+#EXTINF:-1 group-title="Moldtelecom",Nat Geo Wild
+http://212.0.213.132:4444/National_Geographic/index.m3u8
+#EXTINF:-1 group-title="Moldtelecom",Animal Planet HD
+http://212.0.213.132:4444/Animal_Planet_HD/index.m3u8
+#EXTINF:-1 group-title="Moldtelecom",Discovery HD
+http://212.0.213.132:4444/Discovery/index.m3u8
+#EXTINF:-1 group-title="Moldtelecom",Viasat Explore
+http://212.0.213.132:4444/Viasat_Explorer/index.m3u8
+#EXTINF:-1 group-title="Moldtelecom",Viasat History
+http://212.0.213.132:4444/Viasat_History/index.m3u8
+#EXTINF:-1 group-title="Moldtelecom",Viasat Nature
+http://212.0.213.132:4444/Viasat_Nature/index.m3u8
+#EXTINF:-1 group-title="Moldtelecom",ЖИВАЯ ПЛАНЕТА
+http://212.0.213.132:4444/Zhivaya_Planeta/index.m3u8
+#EXTINF:-1 group-title="Moldtelecom",НАУКА 2.0
+http://212.0.213.132:4444/Nauka/index.m3u8
+#EXTINF:-1 group-title="Moldtelecom",Мир сериала
+http://212.0.213.132:4444/Mir_Seriala/index.m3u8
+#EXTINF:-1 group-title="Moldtelecom", Феникс+кино
+http://212.0.213.132:4444/Fenix_Kino/index.m3u8
+#EXTINF:-1 group-title="Moldtelecom",КИНО ТВ
+http://212.0.213.132:4444/Kino_TV/index.m3u8
+#EXTINF:-1 group-title="Moldtelecom",ИНДИЙСКОЕ КИНО
+http://212.0.213.132:4444/India/index.m3u8
+#EXTINF:-1 group-title="Moldtelecom",КИНОХИТ
+http://212.0.213.132:4444/KinoHit/index.m3u8
+#EXTINF:-1 group-title="Moldtelecom",КИНОМИКС
+http://212.0.213.132:4444/Kinomix/index.m3u8
+#EXTINF:-1 group-title="Moldtelecom",Родное кино
+http://212.0.213.132:4444/Rodnoe_Kino/index.m3u8
+#EXTINF:-1 group-title="Moldtelecom",КИНОСЕРИЯ
+http://212.0.213.132:4444/Kinoseria/index.m3u8
+#EXTINF:-1 group-title="Moldtelecom",КИНОСВИДАНИЕ
+http://212.0.213.132:4444/Kinosvidanie/index.m3u8
+#EXTINF:-1 group-title="Moldtelecom",ИЛЛЮЗИОН+
+http://212.0.213.132:4444/Illuzion+/index.m3u8
+#EXTINF:-1 group-title="Moldtelecom",TV1000
+http://212.0.213.132:4444/TV1000/index.m3u8
+#EXTINF:-1 group-title="Moldtelecom",TV1000 Action
+http://212.0.213.132:4444/TV1000_Action/index.m3u8
+#EXTINF:-1 group-title="Moldtelecom",Filmbox
+http://212.0.213.132:4444/Filmbox/index.m3u8
+#EXTINF:-1 group-title="Moldtelecom",Мосфильм. Золотая коллекция 
+http://212.0.213.132:4444/Nostalgia/index.m3u8
+#EXTINF:-1 group-title="Moldtelecom",TLC
+http://212.0.213.132:4444/TLC/index.m3u8
+#EXTINF:-1 group-title="Moldtelecom",САРАФАН
+http://212.0.213.132:4444/Sarafan/index.m3u8
+#EXTINF:-1 group-title="Moldtelecom",КВАРТАЛ ТВ
+http://212.0.213.132:4444/Kvartal_95/index.m3u8
+#EXTINF:-1 group-title="Moldtelecom",КУХНЯ ТВ
+http://212.0.213.132:4444/Kuhnea/index.m3u8
+#EXTINF:-1 group-title="Moldtelecom",Moldova 1 HD MD
+http://212.0.213.132:4444/Moldova_1/index.m3u8
+#EXTINF:-1 group-title="Moldtelecom",Moldova 2 HD MD
+http://212.0.213.132:4444/Moldova_2/index.m3u8
+#EXTINF:-1 group-title="Moldtelecom",TV 2 HD
+http://212.0.213.132:4444/Canal_2/index.m3u8
+#EXTINF:-1 group-title="Moldtelecom",Canal 3 MD
+http://212.0.213.132:4444/Canal_3/index.m3u8
+#EXTINF:-1 group-title="Moldtelecom",Jurnal TV HD MD
+http://212.0.213.132:4444/Jurnal_TV/index.m3u8
+#EXTINF:-1 group-title="Moldtelecom",Gurinel TV
+http://212.0.213.132:4444/Gurinel/index.m3u8
+#EXTINF:-1 group-title="Moldtelecom",Pro TV HD
+http://212.0.213.132:4444/Pro_TV/index.m3u8
+#EXTINF:-1 group-title="Moldtelecom",Agro TV Moldova HD
+http://212.0.213.132:4444/Agro/index.m3u8
+#EXTINF:-1 group-title="Moldtelecom",Tezaur Folc HD
+http://212.0.213.132:4444/Tezaur/index.m3u8
+#EXTINF:-1 group-title="Moldtelecom",TVR Moldova
+http://212.0.213.132:4444/TVR/index.m3u8
+#EXTINF:-1 group-title="Moldtelecom",TV8 HD
+http://212.0.213.132:4444/TV8/index.m3u8
+#EXTINF:-1 group-title="Moldtelecom",Joy Cook
+http://212.0.213.132:4444/Joy_Cook/index.m3u8
+#EXTINF:-1 group-title="Moldtelecom",ТВ3
+http://212.0.213.132:4444/TV-3/index.m3u8
+#EXTINF:-1 group-title="Moldtelecom",СТС Mega MD
+http://212.0.213.132:4444/CTC/index.m3u8
+#EXTINF:-1 group-title="Moldtelecom",Cinema 1 MD
+http://212.0.213.132:4444/Cinema-1/index.m3u8
+#EXTINF:-1 group-title="Moldtelecom",TVC 21 MD
+http://212.0.213.132:4444/TVC21/index.m3u8
+#EXTINF:-1 group-title="Moldtelecom",N4 MD
+http://212.0.213.132:4444/N4/index.m3u8
+#EXTINF:-1 group-title="Moldtelecom",Дом Кино
+http://212.0.213.132:4444/Dom_Kino/index.m3u8
+#EXTINF:-1 group-title="Moldtelecom",Euronews
+http://212.0.213.132:4444/Mir_24/index.m3u8
+#EXTINF:-1 group-title="Moldtelecom",Mир HD
+http://212.0.213.132:4444/Mir_HD/index.m3u8
+#EXTINF:-1 group-title="Moldtelecom",Союз
+http://212.0.213.132:4444/Soyuz/index.m3u8
+#EXTINF:-1 group-title="Moldtelecom",Жара
+http://212.0.213.132:4444/Jara/index.m3u8
+#EXTINF:-1 group-title="Moldtelecom",Перец
+http://212.0.213.132:4444/Teledom/index.m3u8
+#EXTINF:-1 group-title="Moldtelecom",Atomic
+http://212.0.213.132:4444/Atomic/index.m3u8
+#EXTINF:-1 group-title="Moldtelecom",Bolt
+http://212.0.213.132:4444/Bolt/index.m3u8
+#EXTINF:-1 group-title="Moldtelecom",СОЛНЦЕ
+http://212.0.213.132:4444/Disney/index.m3u8
+#EXTINF:-1 group-title="Moldtelecom",Nickelodeon
+http://212.0.213.132:4444/Nickelodeon/index.m3u8
+#EXTINF:-1 group-title="Moldtelecom",СТС Kids
+http://212.0.213.132:4444/CTC_kids/index.m3u8
+#EXTINF:-1 group-title="Moldtelecom",МУЛЬТ
+http://212.0.213.132:4444/Mult/index.m3u8
+#EXTINF:-1 group-title="Moldtelecom",Мультиландия
+http://212.0.213.132:4444/Multimania/index.m3u8
+#EXTINF:-1 group-title="Moldtelecom",Da Vinci
+http://212.0.213.132:4444/DaVinci/index.m3u8
+#EXTINF:-1 group-title="Moldtelecom",Busuioc MD
+http://212.0.213.132:4444/Busuioc/index.m3u8
+#EXTINF:-1 group-title="Moldtelecom",Zona M MD
+http://212.0.213.132:4444/Zona_M/index.m3u8
+#EXTINF:-1 group-title="Moldtelecom" tvg-logo="http://epg.it999.ru/img/2266.png",Euronews Россия
+http://212.0.213.132:4444/EuroNews/index.m3u8
+#EXTINF:-1 group-title="Moldtelecom",Bridge TV
+http://212.0.213.132:4444/Bridge_TV/index.m3u8
+#EXTINF:-1 group-title="Moldtelecom",RU.TV
+http://212.0.213.132:4444/Ru_TV/index.m3u8
+#EXTINF:-1 group-title="Moldtelecom",ЛЯ-МИНОР
+http://212.0.213.132:4444/MTVHits/index.m3u8
+#EXTINF:-1 group-title="Moldtelecom",Viasat Sport
+http://212.0.213.132:4444/Viasat_Sport/index.m3u8
+#EXTINF:-1 group-title="Moldtelecom",SPORT 1
+http://212.0.213.132:4444/Sport_1/index.m3u8
 
 
 
