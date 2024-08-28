@@ -9084,6 +9084,8 @@ http://127.0.0.1:6878/ace/getstream?id=a1d67cb505881b2b5bc58ce2af367e5e6d26cab5&
 http://127.0.0.1:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707&.mp4
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Setanta Sports 2 HD
 http://127.0.0.1:6878/ace/getstream?id=f6d68cfa8694f814983f2a5757f4e0c4964b880c&.mp4
+#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",NBA TV HD
+http://127.0.0.1:6878/ace/getstream?infohash=42832fbf9a1d3bdcca043e09951d6769fbbe04e7&.mp4
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Dubai One
 http://127.0.0.1:6878/ace/getstream?infohash=43bfa03755428b42fedf2f88bf8a3879add9907a&.mp4
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Dubai Racing
@@ -9158,6 +9160,8 @@ http://127.0.0.1:6878/ace/getstream?id=6d95e4b0893e155cc674b84e0763150c445d3ddd&
 http://127.0.0.1:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d&.mp4
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️" tvg-logo="http://epg.it999.ru/img/4571.png",SKY SPORTS MAIN EVENT UK
 http://127.0.0.1:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e&.mp4
+#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️" tvg-logo="http://epg.it999.ru/img/4571.png",Sky Sport F1 FHD DE
+http://127.0.0.1:6878/ace/getstream?infohash=b0999d6facfbae2944b9c7bba442eeea9cd9d4b2&mp4
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",AMAZON PRIME VIDEO 1 HD
 http://127.0.0.1:6878/ace/getstream?id=5323ccadb659f7d3cb5fa2e5835c5af362e144d6&.mp4
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",AMAZON PRIME VIDEO 2 HD
