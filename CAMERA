@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="🔺 INFO 🔺" tvg-logo="https://i.postimg.cc/NjkMFwq9/security-camera-sign.jpg",Обновление:22.08.2023
+#EXTINF:-1 group-title="🔺 INFO 🔺" tvg-logo="https://i.postimg.cc/NjkMFwq9/security-camera-sign.jpg",Обновление:28.08.2024
 http://194.26.229.213/zastavka/index.m3u8
 #EXTINF:-1 group-title="🔺 INFO 🔺" tvg-logo="https://i.postimg.cc/jjkkG8Pc/Imagem-Telegram-Logo-PNG-Preto.png",https://mssg.me/neo_tv
 http://194.26.229.213/intro/index.m3u8
@@ -251,6 +251,36 @@ http://stream-5gw.1000eyes.de/cupertino/cgn4463E1.stream/playlist.m3u8
 http://tdt.shmhost.net/geist/livestream.m3u8
 #EXTINF:-1 group-title="Германия 🇩🇪",Цинновиц
 http://edge30.fms.stream24.net/osltv3/_definst_/mp4:zinnowitz.stream/master.m3u8
+#EXTINF:-1 group-title="Греция 🇬🇷",Агиокампос Пляж
+https://neon.streams.gr:8081/agiokampos/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Греция 🇬🇷",Санторини вид на Эгейское море
+https://s121.ipcamlive.com/streams/796dbcovwhkom1xfv/stream.m3u8
+#EXTINF:-1 group-title="Греция 🇬🇷",Греция Ия Панорама
+https://s121.ipcamlive.com/streams/79tkh7emz3sdqitcg/stream.m3u8
+#EXTINF:-1 group-title="Греция 🇬🇷",Санторини Побережье
+https://s110.ipcamlive.com/streams/6eulprfzx1qs6wicb/stream.m3u8
+#EXTINF:-1 group-title="Греция 🇬🇷",Трикала улица Асклепия
+https://mediacp.alphastream.eu/trikala/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Греция 🇬🇷",Закинф Побережье
+https://cdn-005.whatsupcams.com/hls/gr_zakynthos01.m3u8
+#EXTINF:-1 group-title="Греция 🇬🇷",Ормос Панагиас Панорама
+https://livecameras.gr:30443/live/ormo1/chunks.m3u8
+#EXTINF:-1 group-title="Греция 🇬🇷",Палеохора Панорама
+https://livecameras.gr:30443/live/palio1/chunks.m3u8
+#EXTINF:-1 group-title="Греция 🇬🇷",Палеокастрица Пляж
+https://corfulive.gr/vrachos/vrachos.m3u8
+#EXTINF:-1 group-title="Греция 🇬🇷",Дассия Пляж
+https://corfulive.gr/laplaz/laplaz.m3u8
+#EXTINF:-1 group-title="Греция 🇬🇷",Игуменица Панорама
+https://livecameras.gr:30443/live/igou2/chunks.m3u8
+#EXTINF:-1 group-title="Греция 🇬🇷",Ираклион площадь Свободы
+https://livestream.siliconweb.com/live/ydrogeios/ydrogeioscrete/ydrogeios/chunks.m3u8
+#EXTINF:-1 group-title="Греция 🇬🇷",Каламата Панорама
+https://livecameras.gr:30443/live/kala1/chunks.m3u8
+#EXTINF:-1 group-title="Греция 🇬🇷",Каламата вид на Мессинский залив
+https://livecameras.gr:30443/live/kala6/chunks.m3u8
+#EXTINF:-1 group-title="Греция 🇬🇷",Арети Панорама
+https://livecameras.gr:30443/live/aret1/chunks.m3u8
 #EXTINF:-1 group-title="Греция 🇬🇷",Греция 1
 https://corfulive.gr/akti_kontogialos/akti_kontogialos.m3u8
 #EXTINF:-1 group-title="Греция 🇬🇷",Греция 2
