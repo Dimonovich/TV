@@ -344,9 +344,9 @@ http://212.0.213.132:4444/Bridge_TV/index.m3u8
 http://212.0.213.132:4444/Ru_TV/index.m3u8
 #EXTINF:-1 group-title="Moldtelecom",ЛЯ-МИНОР
 http://212.0.213.132:4444/MTVHits/index.m3u8
-#EXTINF:-1 group-title="Moldtelecom",Viasat Sport
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Viasat Sport
 http://212.0.213.132:4444/Viasat_Sport/index.m3u8
-#EXTINF:-1 group-title="Moldtelecom",SPORT 1
+#EXTINF:-1 group-title="Спорткомплекс 🏆",SPORT 1
 http://212.0.213.132:4444/Sport_1/index.m3u8
 
 
@@ -484,11 +484,11 @@ http://91.205.199.3/multhd/index.m3u8
 http://91.205.199.3/multilandia/index.m3u8
 #EXTINF:-1 group-title="Меганет",Tiji
 http://91.205.199.3/tijitv/index.m3u8
-#EXTINF:-1 group-title="Меганет",Матч! Арена
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Арена
 http://91.205.199.3/2x2tv/index.m3u8
-#EXTINF:-1 group-title="Меганет",Viasat sport
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Viasat sport
 http://91.205.199.3/viasatsport/index.m3u8
-#EXTINF:-1 group-title="Меганет",Матч ТВ HD
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч ТВ HD
 http://91.205.199.3/matchtvhd/index.m3u8
 
 
