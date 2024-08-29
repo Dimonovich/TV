@@ -114,12 +114,8 @@ https://stream2.cinerama.uz/1058/tracks-v1a1/mono.m3u8
 https://stream2.cinerama.uz/1225/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,TV1000 Русское кино
 https://stream2.cinerama.uz/1059/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,viju+ Comedy
-http://135.181.115.81:8000/play/a019/index.m3u8?token=livetv
 #EXTINF:-1 ,viju+ Megahit
 https://bkm.beetv.kz/btv/live/hls/000000869.m3u8
-#EXTINF:-1 ,viju+ Premiere
-http://135.181.115.81:8000/play/a01a/index.m3u8?token=livetv
 
 #EXTINF:-1,Amedia Premium HD
 http://91.207.114.220:9001/play/a03u/index.m3u8
