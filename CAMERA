@@ -47,10 +47,6 @@ https://cams.cdn-surfline.com/cdn-au/au-mooloolaba/chunklist.m3u8
 https://streaming-au.coastalcoms.com/cw/moruyacamera.stream/chunklist_w1425000196.m3u8
 #EXTINF:-1 group-title="Австралия 🇦🇺",Калаундра пляж Кингс-Бич
 https://msk.rtsp.me/R1FL1zzUSbKsIdbDMehIzw/1724869006/hls/nsGhzHdA.m3u8
-#EXTINF:-1 group-title="Австралия 🇦🇺",Канберра озеро Берли-Гриффин
-https://s128.ipcamlive.com/streams/80ocm8u1jajmxwdag/stream.m3u8
-#EXTINF:-1 group-title="Австралия 🇦🇺",Кубер-Педи музей на Опаловой шахте
-https://s90.ipcamlive.com/streams/5arh51hlodwvncyjf/stream.m3u8
 #EXTINF:-1 group-title="Австралия 🇦🇺",Порт-Маккуори Набережная
 https://streaming-au.coastalcoms.com/cw/portmacquariecamera.stream/chunklist_w1173514259.m3u8
 #EXTINF:-1 group-title="Австралия 🇦🇺",Форстер Набережная
@@ -77,14 +73,10 @@ https://5fe4f07c28b74.streamlock.net:442/wcn/Webcam_HB.stream/chunklist_w6228255
 https://streaming18.huberwebmedia.at/LiveApp/streams/livestream.m3u8
 #EXTINF:-1 group-title="Австрия  🇦🇹",Памхаген вид из отеля Vila Vita Pannonia
 https://img.kbit.pro/vilavita/fmp4/livestream/index_1080p.m3u8
-#EXTINF:-1 group-title="Австрия  🇦🇹",Пернегг-ан-дер-Мур Панорама
-https://s29.ipcamlive.com/streams/1dvxtusuwcjbkrkya/stream.m3u8
 #EXTINF:-1 group-title="Австрия  🇦🇹",Заальбах-Хинтерглемм Панорама
 https://livestream.saalbach.com/SaalbachTV/SaalbachTV_LiveStream.stream/chunklist_w842503374.m3u8
 #EXTINF:-1 group-title="Австрия  🇦🇹",Бад-Аусзе Панорама
 https://5864df9ceac85.streamlock.net/limberger-rtplive/_definst_/mp4:mpegts2.stream/chunklist_w1730464762.m3u8
-#EXTINF:-1 group-title="Австрия  🇦🇹",Айзенерц Комплекс лыжных трамплинов Эрзберг Арена
-https://s68.ipcamlive.com/streams/44mndxohbrecl2feo/stream.m3u8
 #EXTINF:-1 group-title="Бельгия 🇧🇬",Болгария
 http://old.rn-tv.com/live/stream.m3u8
 #EXTINF:-1 group-title="Бельгия 🇧🇬",Болгария 3
@@ -103,18 +95,6 @@ http://stream.brucity.be/BXLCAM/CAM-DeBrouckere.stream/playlist.m3u8
 http://stream.brucity.be/BXLCAM/CAM-GrandePlace.stream/playlist.m3u8
 #EXTINF:-1 group-title="Бельгия 🇧🇪",Бельгия 3
 https://stream.agfa.be/hls/live.stream.m3u8
-#EXTINF:-1 group-title="Бельгия 🇧🇪",Хёсден-Золдер Автогоночная трасса
-https://s101.ipcamlive.com/streams_timeshift/651inhvcaiomvoryc/stream.m3u8
-#EXTINF:-1 group-title="Бельгия 🇧🇪",Ньивпорт Порт
-https://s3.ipcamlive.com/streams/03tmyaykgtpu6iavd/stream.m3u8
-#EXTINF:-1 group-title="Бельгия 🇧🇪",Мидделкерке Пляж
-https://s100.ipcamlive.com/streams/64zuyhzi4jfterrcy/stream.m3u8
-#EXTINF:-1 group-title="Бельгия 🇧🇪",Вендуин Пляж
-https://s101.ipcamlive.com/streams/65eizqwkdahsmxn9u/stream.m3u8
-#EXTINF:-1 group-title="Бельгия 🇧🇪",Варегем Теннисный клуб
-https://s124.ipcamlive.com/streams/7cvt83bohpvqfgrct/stream.m3u8
-#EXTINF:-1 group-title="Бельгия 🇧🇪",Бланкенберге Пляж
-https://s124.ipcamlive.com/streams/7cyigc6drhkbmkac2/stream.m3u8
 #EXTINF:-1 group-title="Бразилия 🇧🇷",Sao Vicente
 http://5a8d73edc0407.streamlock.net:1935/lopesip/lopesip02.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Бразилия 🇧🇷",Surf
@@ -253,12 +233,6 @@ http://tdt.shmhost.net/geist/livestream.m3u8
 http://edge30.fms.stream24.net/osltv3/_definst_/mp4:zinnowitz.stream/master.m3u8
 #EXTINF:-1 group-title="Греция 🇬🇷",Агиокампос Пляж
 https://neon.streams.gr:8081/agiokampos/tracks-v1/mono.m3u8
-#EXTINF:-1 group-title="Греция 🇬🇷",Санторини вид на Эгейское море
-https://s121.ipcamlive.com/streams/796dbcovwhkom1xfv/stream.m3u8
-#EXTINF:-1 group-title="Греция 🇬🇷",Греция Ия Панорама
-https://s121.ipcamlive.com/streams/79tkh7emz3sdqitcg/stream.m3u8
-#EXTINF:-1 group-title="Греция 🇬🇷",Санторини Побережье
-https://s110.ipcamlive.com/streams/6eulprfzx1qs6wicb/stream.m3u8
 #EXTINF:-1 group-title="Греция 🇬🇷",Трикала улица Асклепия
 https://mediacp.alphastream.eu/trikala/tracks-v1/mono.m3u8
 #EXTINF:-1 group-title="Греция 🇬🇷",Закинф Побережье
@@ -289,20 +263,8 @@ https://corfulive.gr/OasisHotel/OasisHotel.m3u8
 https://corfulive.gr/Akron/Akron.m3u8
 #EXTINF:-1 group-title="Египет 🇪🇬",Эль-Гуна Пляж
 https://h055.video-stream-hosting.de/kiteboardingclub-rtplive/_definst_/mp4:camera1.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Египет 🇪🇬",Эйлат пляж Альмог
-https://s10.ipcamlive.com/streams/0adm9cageqfel04vu/stream.m3u8
 #EXTINF:-1 group-title="Ирландия 🇮🇪",Фенит Порт
 https://cdn-004.whatsupcams.com/hls/ie_tralee01.m3u8
-#EXTINF:-1 group-title="Ирландия 🇮🇪",Страндхилл Панорама
-https://s1.ipcamlive.com/streams/01ltzfkanuwq6erx4/stream.m3u8
-#EXTINF:-1 group-title="Ирландия 🇮🇪",Росноулах Пляж
-https://s4.ipcamlive.com/streams/04uxtcwmg1qon6cp8/stream.m3u8
-#EXTINF:-1 group-title="Ирландия 🇮🇪",Лехинч Пляж
-https://s9.ipcamlive.com/streams/09y9d28lcvbwihajs/stream.m3u8
-#EXTINF:-1 group-title="Ирландия 🇮🇪",Венгрия 6
-https://mms.iptv.unideb.hu/ipcam/ipcam.sport.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Ирландия 🇮🇪",Килларни Панорама
-https://s9.ipcamlive.com/streams/09nokliwe4tyg0uds/stream.m3u8
 #EXTINF:-1 group-title="Израиль 🇮🇱",Израиль - Стена Плача
 https://cdn.cast-tv.com/23595/Live_Kotel3_ABR/23595/Live_Kotel3_4K_1080p/playlist.m3u8
 #EXTINF:-1 group-title="Израиль 🇮🇱",Израиль - Стена Плача 3
@@ -311,18 +273,8 @@ https://cdn.cast-tv.com/23595/Live_Kotel2_ABR/23595/Live_Kotel2_4K_1080p/playlis
 https://cdn.cast-tv.com/23595/Live_Kotel1_ABR/23595/Live_Kotel1_4K_1080p/chunks.m3u8
 #EXTINF:-1 group-title="Израиль 🇮🇱",Назарет Базилика Благовещения Грот
 https://streamer.clickadia.ps/nz_grotto/tracks-v3a1/mono.m3u8
-#EXTINF:-1 group-title="Израиль 🇮🇱",Тель-Авив пляж Хилтон-Бич cam2
-https://s75.ipcamlive.com/streams/4baojt2fkuqlbqmsy/stream.m3u8
 #EXTINF:-1 group-title="Израиль 🇮🇱",Бейт-Янай Пляж
 https://cams.cdn-surfline.com/cdn-int/il-beityanai/chunklist.m3u8
-#EXTINF:-1 group-title="Израиль 🇮🇱",Зихрон-Яаков Пляж
-https://s31.ipcamlive.com/streams/1fpgyiofqbe8ehir5/stream.m3u8
-#EXTINF:-1 group-title="Израиль 🇮🇱",Хайфа Пляж
-https://s5.ipcamlive.com/streams/05u9xubeeav10byci/stream.m3u8
-#EXTINF:-1 group-title="Израиль 🇮🇱",Эйлат пляж Альмог
-https://s10.ipcamlive.com/streams/0adm9cageqfel04vu/stream.m3u8
-#EXTINF:-1 group-title="Израиль 🇮🇱",Долина Хула
-https://s34.ipcamlive.com/streams/22tbsxnozvdkd7pev/stream.m3u8
 #EXTINF:-1 group-title="Испания 🇪🇸",Испания 1
 https://5b8d2cbe62ad6.streamlock.net/live/spanje.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Испания 🇪🇸",Испания 2
@@ -385,10 +337,6 @@ https://st0.livefromiceland.is/lfi/svartsengi/tracks-v1/mono.m3u8
 https://st1.livefromiceland.is/lfi/myrdalsjokull/tracks-v1/mono.m3u8
 #EXTINF:-1 group-title="Исландия 🇮🇸",Исландия 14
 https://st0.livefromiceland.is/lfi/akureyri/tracks-v1/mono.m3u8
-#EXTINF:-1 group-title="Исландия 🇮🇸",Исландия 15
-https://s4.ipcamlive.com//streams/049tfoyzskef15l7p/stream.m3u8
-#EXTINF:-1 group-title="Исландия 🇮🇸",Исландия 16
-https://s14.ipcamlive.com//streams/0esxt1ydzqvpqbknf/stream.m3u8
 #EXTINF:-1 group-title="Исландия 🇮🇸",Исландия 17
 https://st1.livefromiceland.is/lfi/austurvollur/tracks-v1/mono.m3u8
 #EXTINF:-1 group-title="Исландия 🇮🇸",Исландия 18
@@ -409,10 +357,6 @@ https://st0.livefromiceland.is/lfi/stykkisholmur/tracks-v1/mono.m3u8
 https://st0.livefromiceland.is/lfi/husavik2/tracks-v1/mono.m3u8
 #EXTINF:-1 group-title="Исландия 🇮🇸",Исландия 27
 https://st1.livefromiceland.is/lfi/husavik3/tracks-v1/mono.m3u8
-#EXTINF:-1 group-title="Исландия 🇮🇸",Исландия 28
-https://s43.ipcamlive.com//streams/2bcgyehxotfwcdwem/stream.m3u8
-#EXTINF:-1 group-title="Исландия 🇮🇸",Исландия 29
-https://s3.ipcamlive.com//streams/036shqvr8s2r5daib/stream.m3u8
 #EXTINF:-1 group-title="Исландия 🇮🇸",Исландия 30
 https://st1.livefromiceland.is/lfi/hella/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Исландия 🇮🇸",Исландия 31
@@ -437,28 +381,10 @@ https://edge01.london.nginx.hdontap.com/hosb1/Jeezly-3_CWRC.stream/chunklist.m3u
 https://edge01.london.nginx.hdontap.com/hosb1/Jeezly-2_CWRC.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Канада 🇨🇦",Canada 6
 https://edge01.london.nginx.hdontap.com/hosb1/Jeezly-1_CWRC.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Канада 🇨🇦",Озеро-призрак
-https://s106.ipcamlive.com/streams/6aipca1agrj2zhisy/stream.m3u8
-#EXTINF:-1 group-title="Канада 🇨🇦",Васага-Бич Пляж
-https://s111.ipcamlive.com/streams/6f0dvmoxjcuq7fdsi/stream.m3u8
-#EXTINF:-1 group-title="Канада 🇨🇦",Tимминс вид со здания Муниципалитета
-https://s32.ipcamlive.com/streams/208i7q0w2ub4wmrvk/stream.m3u8
-#EXTINF:-1 group-title="Канада 🇨🇦",Tимминс озеро Гиллис
-https://s69.ipcamlive.com/streams/45nm1impsbkq4j8yg/stream.m3u8
 #EXTINF:-1 group-title="Канада 🇨🇦",Миссиссога площадь Празднования
 https://webvideo.mississauga.ca/BalconyWebcam/LiveWebcam.stream/chunklist_w1247979120.m3u8
 #EXTINF:-1 group-title="Канада 🇨🇦",Миссиссога Центр
 https://webvideo.mississauga.ca/StageWebcam/LiveStageWebcam.stream/chunklist_w1068401133.m3u8
-#EXTINF:-1 group-title="Канада 🇨🇦",Канада Хэмптон Главная улица
-https://s33.ipcamlive.com/streams/21ldasmnuatvbo19j/stream.m3u8
-#EXTINF:-1 group-title="Канада 🇨🇦",Оканаган лыжный курорт Апекс Маунтин Резорт
-https://s94.ipcamlive.com/streams/5ekqz2arixpfilxos/stream.m3u8
-#EXTINF:-1 group-title="Канада 🇨🇦",Осойос озеро Осойос
-https://s81.ipcamlive.com/streams/51hmdfncwgasrz2nu/stream.m3u8
-#EXTINF:-1 group-title="Канада 🇨🇦",Байе-Комо Порт
-https://s33.ipcamlive.com/streams/21jk5j4yzg6lfupao/stream.m3u8
-#EXTINF:-1 group-title="Канада 🇨🇦", Камлупс вид на Юг
-https://s106.ipcamlive.com/streams/6a03wrbfzavfzviue/stream.m3u8
 #EXTINF:-1 group-title="Казахстан 🇰🇿",Нур-Султан - ТРЦ Хан Шатыр
 http://92.46.108.21:1934/rtplive/_definst_/camera1.stream/playlist.m3u8
 #EXTINF:-1 group-title="Казахстан 🇰🇿",Нур-Султан - ТРЦ Хан Шатыр 2
