@@ -2599,13 +2599,15 @@ http://91.224.169.250:5000/c68
 http://91.224.169.250:5000/c70
 #EXTINF:-1 group-title="Sudaka net",НТВ
 http://91.224.169.250:5000/c304
-#EXTINF:-1 group-title="Sudaka net",THT HD
+#EXTINF:-1 group-title="Sudaka net",НТВ Хит
+http://91.224.169.250:5000/c58
+#EXTINF:-1 group-title="Sudaka net",ТНТ HD
 http://91.224.169.250:5000/c72
 #EXTINF:-1 group-title="Sudaka net",ТНТ
 http://91.224.169.250:5000/c319
 #EXTINF:-1 group-title="Sudaka net",РЕН ТВ
 http://91.224.169.250:5000/c311
-#EXTINF:-1 group-title="Sudaka net",THT4
+#EXTINF:-1 group-title="Sudaka net",ТНТ4
 http://91.224.169.250:5000/c24
 #EXTINF:-1 group-title="Sudaka net",Россия 1
 http://91.224.169.250:5000/c302
@@ -2713,13 +2715,11 @@ http://91.224.169.250:5000/c57
 http://91.224.169.250:5000/c13
 #EXTINF:-1 group-title="Sudaka net",Психология 21
 http://91.224.169.250:5000/c39
-#EXTINF:-1 group-title="Sudaka net",Восточный Крым 24 HD
-http://91.224.169.250:5000/c58
 #EXTINF:-1 group-title="Sudaka net",Дом Кино
 http://91.224.169.250:5000/c60
 #EXTINF:-1 group-title="Sudaka net",Че
 http://91.224.169.250:5000/c73
-#EXTINF:-1 group-title="Sudaka net",CTC HD
+#EXTINF:-1 group-title="Sudaka net",СТС HD
 http://91.224.169.250:5000/c71
 #EXTINF:-1 group-title="Sudaka net",8 канал
 http://91.224.169.250:5000/c74
@@ -2767,8 +2767,6 @@ http://91.224.169.250:5000/c321
 http://91.224.169.250:5000/c323
 #EXTINF:-1 group-title="Sudaka net",Пятница
 http://91.224.169.250:5000/c316
-#EXTINF:-1 group-title="Sudaka net",МузТВ
-http://91.224.169.250:5000/c320
 #EXTINF:-1 group-title="Sudaka net",Домашний
 http://91.224.169.250:5000/c314
 #EXTINF:-1 group-title="Sudaka net",Звезда
@@ -2777,6 +2775,8 @@ http://91.224.169.250:5000/c317
 http://91.224.169.250:5000/c312
 #EXTINF:-1 group-title="Sudaka net",Европа Плюс ТВ
 http://91.224.169.250:5000/c64
+#EXTINF:-1 group-title="Sudaka net",МузТВ
+http://91.224.169.250:5000/c320
 #EXTINF:-1 group-title="Sudaka net",ТНТ Music
 http://91.224.169.250:5000/c65
 #EXTINF:-1 group-title="Sudaka net",BRIDGE TV
