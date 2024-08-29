@@ -189,8 +189,6 @@ https://cam.idokep.hu/live/tarnok2461/s_orig.m3u8
 https://cam.idokep.hu/live/hotelvictoria/s_orig.m3u8
 #EXTINF:-1 group-title="Венгрия 🇭🇺",Венгрия 6
 https://mms.iptv.unideb.hu/ipcam/ipcam.sport.stream/chunklist.m3u8
-
-
 #EXTINF:-1 group-title="Германия 🇩🇪",Binz 1
 http://cam01.binz-kabel.de/cam1/960.m3u8
 #EXTINF:-1 group-title="Германия 🇩🇪",Binz 2
@@ -467,6 +465,8 @@ http://s1.dcdn.lt//live/liepkalnis2.stream/playlist.m3u8
 http://s1.dcdn.lt//live/liepkalnis3.stream/playlist.m3u8
 #EXTINF:-1 group-title="Литва 🇱🇹",Литва - Олени
 http://s1.dcdn.lt/livecam/si508.stream/chunklist.m3u8
+
+
 #EXTINF:-1 group-title="Нидерланды 🇳🇱",1
 http://5b8d2cbe62ad6.streamlock.net:1935/live/eernewoude.stream/playlist.m3u8
 #EXTINF:-1 group-title="Нидерланды 🇳🇱",2
@@ -485,20 +485,12 @@ https://5d881567b7568.streamlock.net/live/Steenuil2Binnen.stream/chunklist.m3u8
 http://58c2eaf76046f.streamlock.net:1935/depiraat/livestream.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Нидерланды 🇳🇱",10
 https://58c2eaf76046f.streamlock.net/depiraat/livestream.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Нидерланды 🇳🇱",11
-https://584b389d712f9.streamlock.net/live/pindacam.stream/playlist.m3u8
 #EXTINF:-1 group-title="Нидерланды 🇳🇱",Морские котики
 https://6162417352ffd.streamlock.net/live/ecomare.stream/playlist.m3u8
-#EXTINF:-1 group-title="Нидерланды 🇳🇱",Слоны
-http://56d7ccce550bc.streamlock.net/rtplive/olifanten_buitencam2.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Нидерланды 🇳🇱",15
-https://5d881567b7568.streamlock.net/live/BlijdeWei1.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Нидерланды 🇳🇱",16
 https://5b8d2cbe62ad6.streamlock.net/live/nes-waddenhaven.stream/playlist.m3u8
 #EXTINF:-1 group-title="Нидерланды 🇳🇱",17
 https://5d881567b7568.streamlock.net/live/Torenvalk3.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Нидерланды 🇳🇱",19
-https://584b389d712f9.streamlock.net/live2/blokzijl1.stream/playlist.m3u8
 #EXTINF:-1 group-title="Нидерланды 🇳🇱",20
 https://5d881567b7568.streamlock.net/live/Praathuis/chunklist.m3u8
 #EXTINF:-1 group-title="Нидерланды 🇳🇱",22
@@ -515,6 +507,12 @@ https://jwwcam2.movingmedia.eu/hls/live.stream.m3u8
 https://6162417352ffd.streamlock.net/live/dordrecht.stream/playlist.m3u8
 #EXTINF:-1 group-title="Нидерланды 🇳🇱",28
 https://5b8d2cbe62ad6.streamlock.net/live/zwartsluis.stream/playlist.m3u8
+#EXTINF:-1 group-title="Нидерланды 🇳🇱",Велзен-Норд вид на побережье
+https://5f27cc8163c2e.streamlock.net/1404/1404.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Нидерланды 🇳🇱",Овервен Bloemendaal Beach
+https://wowza01.crossmediaventures.com/beachcam/beachcam.smil/playlist.m3u8
+#EXTINF:-1 group-title="Нидерланды 🇳🇱",Схирмонниког Пристань для яхт
+https://5b8d2cbe62ad6.streamlock.net/live/schier.stream/playlist.m3u8
 #EXTINF:-1 group-title="Норвегия 🇳🇴",Bergen
 http://s1.worldcam.live:8081/bergen/index.m3u8
 #EXTINF:-1 group-title="Польша 🇵🇱",1
