@@ -279,6 +279,7 @@ https://cdn.cast-tv.com/23595/Live_Kotel1_ABR/23595/Live_Kotel1_4K_1080p/chunks.
 https://streamer.clickadia.ps/nz_grotto/tracks-v3a1/mono.m3u8
 #EXTINF:-1 group-title="Израиль 🇮🇱",Бейт-Янай Пляж
 https://cams.cdn-surfline.com/cdn-int/il-beityanai/chunklist.m3u8
+
 #EXTINF:-1 group-title="Испания 🇪🇸",Испания 1
 https://5b8d2cbe62ad6.streamlock.net/live/spanje.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Испания 🇪🇸",Испания 2
@@ -313,6 +314,30 @@ http://streaming-camaras.ebd.csic.es/cams/cam15.m3u8
 http://streaming-camaras.ebd.csic.es/cams/cam16.m3u8
 #EXTINF:-1 group-title="Испания 🇪🇸",Испания 19
 http://streaming-camaras.ebd.csic.es/cams/cam22.m3u8
+#EXTINF:-1 group-title="Испания 🇪🇸",Альбентоса Панорама
+https://webcam-2.ibericam.com:5443/live/streams/albentosa.m3u8
+#EXTINF:-1 group-title="Испания 🇪🇸",Гудар Панорама
+https://webcam-2.ibericam.com:5443/live/streams/gudar.m3u8
+#EXTINF:-1 group-title="Испания 🇪🇸",Захара-де-лос-Атунес вид из отеля Playa de la Plata
+https://flus.spotfav.com/zahara-atunes-playa-plata-spotfav/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Испания 🇪🇸",Испания Кальпе пляж Ареналь-Болль
+https://webcam-3.ibericam.com:5443/live/streams/calpe-playa-del-arenal-bol.m3u8
+#EXTINF:-1 group-title="Испания 🇪🇸",Кальпе пляж Ла-Фосса
+https://streaming.comunitatvalenciana.com/webcam/CalpPlayaFoss/manifest.mpd
+#EXTINF:-1 group-title="Испания 🇪🇸",Кабра-де-Мора Панорама
+https://webcam-2.ibericam.com:5443/live/streams/cabra-de-mora.m3u8
+#EXTINF:-1 group-title="Испания 🇪🇸",Ла-Корунья Панорама
+https://www.crtvg.es:1554/hls/coruna/index.m3u8
+#EXTINF:-1 group-title="Испания 🇪🇸",Луго Панорама
+https://www.crtvg.es:1555/hls/lugo/index.m3u8
+#EXTINF:-1 group-title="Испания 🇪🇸",Туй Панорама
+https://www.crtvg.es:1556/hls/tui/index.m3u8
+#EXTINF:-1 group-title="Испания 🇪🇸",Оренсе Панорама
+https://www.crtvg.es:1555/hls/ourense/index.m3u8
+#EXTINF:-1 group-title="Испания 🇪🇸",Памплона Панорама
+https://s2.livecam-pro.live/cam037/index.m3u8
+#EXTINF:-1 group-title="Испания 🇪🇸",Эль-Кастельяр Панорама
+https://webcam-2.ibericam.com:5443/live/streams/el-castellar.m3u8
 #EXTINF:-1 group-title="Исландия 🇮🇸",Исландия 1
 https://st1.livefromiceland.is/lfi/hella/tracks-v1/mono.m3u8
 #EXTINF:-1 group-title="Исландия 🇮🇸",Исландия 2
