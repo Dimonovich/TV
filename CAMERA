@@ -189,6 +189,8 @@ https://cam.idokep.hu/live/tarnok2461/s_orig.m3u8
 https://cam.idokep.hu/live/hotelvictoria/s_orig.m3u8
 #EXTINF:-1 group-title="Венгрия 🇭🇺",Венгрия 6
 https://mms.iptv.unideb.hu/ipcam/ipcam.sport.stream/chunklist.m3u8
+
+
 #EXTINF:-1 group-title="Германия 🇩🇪",Binz 1
 http://cam01.binz-kabel.de/cam1/960.m3u8
 #EXTINF:-1 group-title="Германия 🇩🇪",Binz 2
@@ -197,20 +199,10 @@ http://cam01.binz-kabel.de/cam2/960.m3u8
 http://osltv.stream24.net/osltv1/_definst_/mp4:groemitz.stream/playlist.m3u8
 #EXTINF:-1 group-title="Германия 🇩🇪",Selb
 http://s1.worldcam.live:8081/selb/index.m3u8
-#EXTINF:-1 group-title="Германия 🇩🇪",Sokol 1
-http://tdt.shmhost.net/falke1/livestream.m3u8
-#EXTINF:-1 group-title="Германия 🇩🇪",Sokol 2
-http://tdt.shmhost.net/falke2/livestream.m3u8
-#EXTINF:-1 group-title="Германия 🇩🇪",Sokol 3
-http://tdt.shmhost.net/falke3/livestream.m3u8
 #EXTINF:-1 group-title="Германия 🇩🇪",Sokol 4
 http://tdt.shmhost.net/falke4/livestream.m3u8
 #EXTINF:-1 group-title="Германия 🇩🇪",Vogel
 http://vogelkamera2.dyndns.tv/hls/live.stream.m3u8
-#EXTINF:-1 group-title="Германия 🇩🇪",Vogel
-http://vogelkamera3.dyndns.tv/hls/live.stream.m3u8
-#EXTINF:-1 group-title="Германия 🇩🇪",Zinnowitz
-http://edge30.fms.stream24.net/osltv3/_definst_/mp4:zinnowitz.stream/playlist.m3u8
 #EXTINF:-1 group-title="Германия 🇩🇪",Аэропорт Дюссельдорфа 1
 http://stream-5gw.1000eyes.de/cupertino/dus5a92.stream/playlist.m3u8
 #EXTINF:-1 group-title="Германия 🇩🇪",Аэропорт Дюссельдорфа 2
@@ -223,12 +215,26 @@ http://stream-5gw.1000eyes.de/cupertino/dus1ba9.stream/playlist.m3u8
 http://stream-5gw.1000eyes.de:1935/cupertino/dused0c.stream/playlist.m3u8
 #EXTINF:-1 group-title="Германия 🇩🇪",Аэропорт Кельн/Бонн 1
 http://stream-5gw.1000eyes.de/cupertino/cgn06B1E8.stream/playlist.m3u8
-#EXTINF:-1 group-title="Германия 🇩🇪",Аэропорт Кельн/Бонн 2
-http://stream-5gw.1000eyes.de/cupertino/cgn2C70DD.stream/playlist.m3u8
 #EXTINF:-1 group-title="Германия 🇩🇪",Аэропорт Кельн/Бонн 3
 http://stream-5gw.1000eyes.de/cupertino/cgn4463E1.stream/playlist.m3u8
 #EXTINF:-1 group-title="Германия 🇩🇪",Германия 4
 http://tdt.shmhost.net/geist/livestream.m3u8
+#EXTINF:-1 group-title="Германия 🇩🇪",Берлин Александерплац
+https://cdn.livespotting.com/vpu/ehlpzb4g/nkw9elfh_hub.m3u8
+#EXTINF:-1 group-title="Германия 🇩🇪",Бад-Брамштедт Панорама
+https://kirche.crapwa.re/hls/outside.m3u8
+#EXTINF:-1 group-title="Германия 🇩🇪",Гамбург Панорама
+https://cam.grassau.com/emporio_1/hls/live.stream.m3u8
+#EXTINF:-1 group-title="Германия 🇩🇪",Грёмиц Дюнный парк
+https://video.stream24.net/osltv9/_definst_/mp4:groemitz3.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Германия 🇩🇪",Шверин площадь Альтер Гартен
+https://h057.video-stream-hosting.de/sisschwerin-rtplive/_definst_/mp4:camera1.stream/playlist.m3u8
+#EXTINF:-1 group-title="Германия 🇩🇪",Альтэттинг площадь Капелл
+https://camsecure.co/HLS/klaus3.m3u8
+#EXTINF:-1 group-title="Германия 🇩🇪",Больтенхаген Панорама
+https://livecam.stream24.net/osltv10/_definst_/mp4:boltenhagen2.stream/playlist.m3u8
+#EXTINF:-1 group-title="Германия 🇩🇪",Вернигероде Рыночная площадь
+https://5889e7d0d6e28.streamlock.net/stadtverwaltungWernigerrode-live/_definst_/mp4:camera1.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Германия 🇩🇪",Цинновиц
 http://edge30.fms.stream24.net/osltv3/_definst_/mp4:zinnowitz.stream/master.m3u8
 #EXTINF:-1 group-title="Греция 🇬🇷",Агиокампос Пляж
