@@ -3796,59 +3796,6 @@ http://91.207.114.220:9001/play/a050/index.m3u8
 
 
 
-
-#EXTINF:-1 group-title="MIK LLC (VPN)",Первый канал
-http://188.190.222.48:8765/1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="MIK LLC (VPN)",НТВ
-http://188.190.222.48:8765/HTB/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="MIK LLC (VPN)",Наука
-http://188.190.222.48:8765/Nauka/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="MIK LLC (VPN)",Ocean TV
-http://188.190.222.48:8765/Ocean_TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="MIK LLC (VPN)",9 Волна
-http://188.190.222.48:8765/9volna/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="MIK LLC (VPN)",Cinema
-http://188.190.222.48:8765/Cinema_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="MIK LLC (VPN)",Душевное HD
-http://188.190.222.48:8765/Dushevnoe_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="MIK LLC (VPN)",Amedia 2 HD
-http://188.190.222.48:8765/Amedia2_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="MIK LLC (VPN)",Fashionbox
-http://188.190.222.48:8765/Fashionbox/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="MIK LLC (VPN)",Gags Network
-http://188.190.222.48:8765/Gagsnetwork/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="MIK LLC (VPN)",КИНЕКО
-http://188.190.222.48:8765/Kineko/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="MIK LLC (VPN)",КИНЕКО HD
-http://188.190.222.48:8765/Kineko_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="MIK LLC (VPN)",Кинохит HD
-http://188.190.222.48:8765/Kinohit_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="MIK LLC (VPN)",Киносат
-http://188.190.222.48:8765/Kinosat/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="MIK LLC (VPN)",Киносвидание
-http://188.190.222.48:8765/Kinosvidanie/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="MIK LLC (VPN)",Театр
-http://188.190.222.48:8765/Teatr/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="MIK LLC (VPN)",Кухня ТВ
-http://188.190.222.48:8765/Kuhnya_TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="MIK LLC (VPN)",Наше HD
-http://188.190.222.48:8765/Nashe_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="MIK LLC (VPN)",Мультиландия
-http://188.190.222.48:8765/Multilandia/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="MIK LLC (VPN)",Ani
-http://188.190.222.48:8765/Ani/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="MIK LLC (VPN)",Bolt
-http://188.190.222.48:8765/Bolt/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="MIK LLC (VPN)",Старт
-http://188.190.222.48:8765/Start_TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="MIK LLC (VPN)",KHL
-http://188.190.222.48:8765/KHL/tracks-v1a1/mono.m3u8
-
-
-
-
-
-
 #EXTINF:-1 group-title="Байкал-Телеком (VPN)",Info Channel HD
 http://194.143.148.28:8080/infochannel/mpegts
 #EXTINF:-1 group-title="Байкал-Телеком (VPN)",ПЕРВЫЙ КАНАЛ HD
