@@ -2826,7 +2826,7 @@ http://188.190.222.48:8765/Amedia2_HD/tracks-v1a1/mono.m3u8
 http://188.190.222.48:8765/Cinema_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ASS (VPN)",Душевное HD
 http://188.190.222.48:8765/Dushevnoe_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="ASS (VPN)",Fashion HD
+#EXTINF:-1 group-title="ASS (VPN)",Fashion TV HD
 http://188.190.222.48:8765/Fashion_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ASS (VPN)",Fashionbox
 http://188.190.222.48:8765/Fashionbox/tracks-v1a1/mono.m3u8
@@ -2846,8 +2846,6 @@ http://188.190.222.48:8765/Kinosvidanie/tracks-v1a1/mono.m3u8
 http://188.190.222.48:8765/Kuhnya_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ASS (VPN)",Наше HD
 http://188.190.222.48:8765/Nashe_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="ASS (VPN)",Start TV
-http://188.190.222.48:8765/Start_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ASS (VPN)",Театр
 http://188.190.222.48:8765/Teatr/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ASS (VPN)",Точка отрыва
@@ -2858,6 +2856,8 @@ http://188.190.222.48:8765/Ani/tracks-v1a1/mono.m3u8
 http://188.190.222.48:8765/Bolt/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ASS (VPN)",Мультиландия
 http://188.190.222.48:8765/Multilandia/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ASS (VPN)",Старт
+http://188.190.222.48:8765/Start_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ASS (VPN)",KHL
 http://188.190.222.48:8765/KHL/tracks-v1a1/mono.m3u8
 
