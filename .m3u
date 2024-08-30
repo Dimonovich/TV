@@ -147,14 +147,14 @@ http://91.142.158.107:8092/play/26/index.m3u8
 #EXTINF:-1 ,Кино ТВ HD
 http://91.142.158.107:8092/play/28/index.m3u8
 
-#EXTINF:-1 group-title="ASS (VPN)",Душевное HD
+#EXTINF:-1 group-title="ASS (VPN)",Душевное
 http://188.190.222.48:8765/Dushevnoe_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Вокзал-Инфоком (VPN)",Победа
 http://iptv.mega.net.ru:8888/Pobeda/mono.m3u8
 #EXTINF:-1 group-title="Вокзал-Инфоком (VPN)",Кинеко
 http://iptv.mega.net.ru:8888/FOX/mono.m3u8
-#EXTINF:-1 group-title="Вокзал-Инфоком (VPN)",.Sci-Fi
+#EXTINF:-1 group-title="Вокзал-Инфоком (VPN)",SCI-FI
 http://iptv.mega.net.ru:8888/Sony_Sci_Fi/mono.m3u8
 #EXTINF:-1 group-title="Вокзал-Инфоком (VPN)",Шокирующее
 http://iptv.mega.net.ru:8888/Kinopokaz_HD_1/mono.m3u8
