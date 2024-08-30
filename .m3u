@@ -278,11 +278,6 @@ http://194.26.229.213/chdtv_ru_rock/index.m3u8
 #EXTINF:-1 ,CHD-TV Rock
 http://194.26.229.213/chdtv_rock/index.m3u8
 
-#EXTINF:-1,Bridge TV
-http://91.224.169.250:5000/c53
-#EXTINF:-1,Bridge Hits
-http://91.224.169.250:5000/c55
-
 #EXTINF:-1 ,Bridge TV Русский хит
 https://strm.yandex.ru/kal/bridgetv_russkiyhit/bridgetv_russkiyhit0.m3u8
 #EXTINF:-1 ,Bridge TV Шлягер
@@ -334,46 +329,44 @@ http://95.67.12.82:9067
 #EXTINF:-1 ,Eurosport 1 HD
 https://stream2.cinerama.uz/1439/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 ,Eurosport 2 HD
-http://91.224.169.250:5000/c168
-
 
 #EXTINF:-1,Матч ТВ HD
-https://mhd116.iptv2022.com/p/PSnaxy77vR48Fd1nXZZnNg,1725008412/streaming/matchott/324/1/tracks-v4a1/mono.m3u8
+https://mhd116.iptv2022.com/p/6UhrU31yJQF4HJP6xJXI6g,1725094813/streaming/matchott/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:-1,Матч! Страна
-https://mhd116.iptv2022.com/p/5H_7xm23IP5j1eV7UpunKg,1725008412/streaming/nashsport/324/1/tracks-v4a1/mono.m3u8
+https://mhd116.iptv2022.com/p/1Coet2GJM-1R--pnLg_9Yw,1725094813/streaming/nashsport/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:-1,Матч! Игра
-https://mhd116.iptv2022.com/p/Yinfxq1TMH5DuQ-USi9J0Q,1725008412/streaming/match_igra/324/1/tracks-v4a1/mono.m3u8
+https://mhd116.iptv2022.com/p/jGQN9uDUszUgHSLbKJcQdA,1725094813/streaming/match_igra/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:-1,Матч! Арена
-https://mhd116.iptv2022.com/p/cDc1MMHOHSLbKOwuxNlfuA,1725008412/streaming/match_arena/324/1/tracks-v4a1/mono.m3u8
+https://mhd116.iptv2022.com/p/KfPA6ZDPqGj6GkpyQBpF3w,1725094813/streaming/match_arena/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:-1,Матч! Боец
-https://mhd116.iptv2022.com/p/I8I6ubyj-gT6NNzZnYJvTA,1725008412/streaming/boectv/324/1/tracks-v4a1/mono.m3u8
+https://mhd116.iptv2022.com/p/rdexvVsAjJsOSCiiFGFp-A,1725094813/streaming/boectv/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:-1,Матч! Футбол 1 HD
-https://mhd116.iptv2022.com/p/McxsRa_1PttoPuCR-PcsXA,1725008412/streaming/footbal1hd/324/1/tracks-v4a1/mono.m3u8
+https://mhd116.iptv2022.com/p/xBdkT_Zf_JSb3ke6Jakgcg,1725094813/streaming/footbal1hd/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:-1,Матч! Футбол 2 HD
-https://mhd116.iptv2022.com/p/HBGpWle_YSHN74zluTnnXg,1725008412/streaming/footbal2hd/324/1/tracks-v4a1/mono.m3u8
+https://mhd116.iptv2022.com/p/qCZuBZkqE9cg24vImwCq2A,1725094813/streaming/footbal2hd/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:-1,Матч! Футбол 3 HD
-https://mhd116.iptv2022.com/p/4EhkfOr2_KNfa-Ky5ET4wg,1725008412/streaming/footbal3hd/324/1/tracks-v4a1/mono.m3u8
+https://mhd116.iptv2022.com/p/TheiF_5zcowLt1s9fP92kw,1725094813/streaming/footbal3hd/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:-1,Матч! Премьер HD
-https://mhd116.iptv2022.com/p/Rnec7YZr8qxBPqRsq1508Q,1725008412/streaming/nashfootbalhd/324/1/tracks-v4a1/mono.m3u8
+https://mhd116.iptv2022.com/p/HMwbDG_5GqEF6EMvskBOLg,1725094813/streaming/nashfootbalhd/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:-1,Хоккейный
-https://mhd116.iptv2022.com/p/ioefWJN-EtIw-6ASYEglDg,1725008412/streaming/hokkeyniy/324/1/tracks-v4a1/mono.m3u8
+https://mhd116.iptv2022.com/p/67Ai9girXTNTytV3cCwpFA,1725094813/streaming/hokkeyniy/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:-1,Спортивный
-https://mhd116.iptv2022.com/p/izE3MvRVKj9GjrhmT3ey-A,1725008412/streaming/sportivniyhd/324/1/tracks-v4a1/mono.m3u8
+https://mhd116.iptv2022.com/p/duzXfHLcwrV0j1oRA181jQ,1725094814/streaming/sportivniyhd/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:-1,Футбольный
-https://mhd116.iptv2022.com/p/ek8X7syivZxaHf83QHavQQ,1725008412/streaming/footbolniyhd/324/1/tracks-v4a1/mono.m3u8
+https://mhd116.iptv2022.com/p/f5Z1eeMAWOv9Qmy_V_QKCQ,1725094814/streaming/footbolniyhd/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:-1,KHL Prime
-https://mhd116.iptv2022.com/p/o9ErGDjRDcjU_ijWykh7pQ,1725008412/streaming/khlhd/324/1/tracks-v4a1/mono.m3u8
+https://mhd116.iptv2022.com/p/-twFSjCW3jCXEODZ4qzZOg,1725094814/streaming/khlhd/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:-1,KHL
-https://mhd116.iptv2022.com/p/Z_Qi-TKsXjixbJSRXKFVYQ,1725008412/streaming/khltv/324/1/tracks-v4a1/mono.m3u8
+https://mhd116.iptv2022.com/p/VBkHNoQeDUD1DXIy7fsUbg,1725094814/streaming/khltv/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:-1,Бокс ТВ
-https://mhd116.iptv2022.com/p/CEJZfCtSBz-p3-T8J_eSqA,1725008413/streaming/bokstv/324/1/tracks-v4a1/mono.m3u8
+https://mhd116.iptv2022.com/p/IVS1Wef1g-6jfmBfewm_Uw,1725094814/streaming/bokstv/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:-1,Старт
-https://mhd116.iptv2022.com/p/q9M8FWQayWV2lkCITtp5lA,1725008413/streaming/start/324/1/tracks-v4a1/mono.m3u8
+https://mhd116.iptv2022.com/p/PvdjalEz05PmaDvunwmFmg,1725094814/streaming/start/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:-1,MMA-TV.com
-https://mhd116.iptv2022.com/p/uYMO4f36-S8PqZP7jKeFZA,1725008413/streaming/m1global/324/1/tracks-v4a1/mono.m3u8
+https://mhd116.iptv2022.com/p/IGL1EB0X_UhepQU_gZVQiw,1725094814/streaming/m1global/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:-1,FightBox
-https://mhd116.iptv2022.com/p/gmTRNEFEByV9xsId4lPOIg,1725008413/streaming/fightbox/324/1/tracks-v4a1/mono.m3u8
+https://mhd116.iptv2022.com/p/PZg_siojgQPqVGq0LB8x1w,1725094814/streaming/fightbox/324/1/tracks-v4a1/mono.m3u8
+
 
 #EXTINF:-1 ,Удар HD
 https://bkm.beetv.kz/btv/live/hls/000007802.m3u8
