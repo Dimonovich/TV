@@ -116,6 +116,10 @@ https://stream2.cinerama.uz/1225/tracks-v1a1/mono.m3u8
 https://stream2.cinerama.uz/1059/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,viju+ Megahit
 https://bkm.beetv.kz/btv/live/hls/000000869.m3u8
+#EXTINF:-1 ,viju+ Comedy
+http://iptv.mega.net.ru:8888/ViP_Comedy_HD/mono.m3u8
+#EXTINF:-1 ,viju+ Premiere
+http://iptv.mega.net.ru:8888/ViP_Premiere_HD/mono.m3u8
 
 #EXTINF:-1,Amedia Premium HD
 http://91.207.114.220:9001/play/a03u/index.m3u8
@@ -143,28 +147,28 @@ http://91.142.158.107:8092/play/26/index.m3u8
 #EXTINF:-1 ,Кино ТВ HD
 http://91.142.158.107:8092/play/28/index.m3u8
 
-#EXTINF:-1 group-title="ASS (VPN)",Amedia 2 HD
-http://188.190.222.48:8765/Amedia2_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="ASS (VPN)",Cinema
-http://188.190.222.48:8765/Cinema_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ASS (VPN)",Душевное HD
 http://188.190.222.48:8765/Dushevnoe_HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Вокзал-Инфоком (VPN)",ХИТ HD
-http://iptv.mega.net.ru:8888/hit_hd/mono.m3u8
-#EXTINF:-1 group-title="Вокзал-Инфоком (VPN)",Камеди HD
-http://iptv.mega.net.ru:8888/kamedi_hd/mono.m3u8
-#EXTINF:-1 group-title="Вокзал-Инфоком (VPN)",Кино тв HD
-http://iptv.mega.net.ru:8888/Kino_TV/mono.m3u8
-#EXTINF:-1 group-title="Вокзал-Инфоком (VPN)",Любимое Кино
-http://iptv.mega.net.ru:8888/Lubimoe_kino/mono.m3u8
-#EXTINF:-1 group-title="Вокзал-Инфоком (VPN)",Наш Кинопоказ HD
-http://iptv.mega.net.ru:8888/nash_kinopokaz_hd/mono.m3u8
 #EXTINF:-1 group-title="Вокзал-Инфоком (VPN)",Победа
 http://iptv.mega.net.ru:8888/Pobeda/mono.m3u8
-
-#EXTINF:-1 ,Кинеко
+#EXTINF:-1 group-title="Вокзал-Инфоком (VPN)",Кинеко
 http://iptv.mega.net.ru:8888/FOX/mono.m3u8
+#EXTINF:-1 group-title="Вокзал-Инфоком (VPN)",.Sci-Fi
+http://iptv.mega.net.ru:8888/Sony_Sci_Fi/mono.m3u8
+#EXTINF:-1 group-title="Вокзал-Инфоком (VPN)",Шокирующее
+http://iptv.mega.net.ru:8888/Kinopokaz_HD_1/mono.m3u8
+#EXTINF:-1 group-title="Вокзал-Инфоком (VPN)",Комедийное
+http://iptv.mega.net.ru:8888/Kinopokaz_HD_2/mono.m3u8
+#EXTINF:-1 group-title="Вокзал-Инфоком (VPN)",Турецкие сериалы. Timeless DIZI Channel
+http://iptv.mega.net.ru:8888/ACB_TV/mono.m3u8
+#EXTINF:-1 group-title="Вокзал-Инфоком (VPN)",Filmbox Arthouse
+http://iptv.mega.net.ru:8888/FilmBOX_Arthouse/mono.m3u8
+#EXTINF:-1 group-title="Вокзал-Инфоком (VPN)",Про любовь
+http://iptv.mega.net.ru:8888/pro_lubov_hd/mono.m3u8
+#EXTINF:-1 group-title="Вокзал-Инфоком (VPN)",Plan B
+http://iptv.mega.net.ru:8888/plan_b_hd/mono.m3u8
+
 #EXTINF:-1 ,Индийское Кино
 https://stream2.cinerama.uz/1060/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Кинокомедия HD
