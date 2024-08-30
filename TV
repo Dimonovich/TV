@@ -1367,12 +1367,8 @@ http://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
 http://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
 #EXTINF:-1 group-title="Digital TV",Киномикс HD
 http://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
-#EXTINF:-1 group-title="Digital TV",РОДНОЕ КИНО
-http://sc.id-tv.kz/Rodnoe_kino_34_35.m3u8
 #EXTINF:-1 group-title="Digital TV",Кинокомедия HD
 http://sc.id-tv.kz/Kinokomediya_hd_34_35.m3u8
-#EXTINF:-1 group-title="Digital TV",Кинохит HD
-http://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
 #EXTINF:-1 group-title="Digital TV",Наше новое кино
 http://sc.id-tv.kz/Nnk_hd.m3u8
 #EXTINF:-1 group-title="Digital TV",Индийское кино
@@ -1403,8 +1399,6 @@ http://sc.id-tv.kz/Mir24.m3u8
 http://sc.id-tv.kz/NSTV.m3u8
 #EXTINF:-1 group-title="Digital TV",Иллюзион +
 http://sc.id-tv.kz/IlluzionPlus_36_37.m3u8
-#EXTINF:-1 group-title="Digital TV",КТК
-http://sc.id-tv.kz/KTK_34_35.m3u8
 #EXTINF:-1 group-title="Digital TV",СТС
 http://sc.id-tv.kz/STS_34_35.m3u8
 #EXTINF:-1 group-title="Digital TV",Euronews
@@ -1437,8 +1431,7 @@ http://sc.id-tv.kz/FHD_KHL_34_35.m3u8
 http://sc.id-tv.kz/M-1_34_35.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Бокс ТВ
 http://sc.id-tv.kz/BoksTV_36_37.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",KHL
-http://sc.id-tv.kz/KHL_36_37.m3u8
+
 
 
 
