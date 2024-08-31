@@ -9626,8 +9626,6 @@ https://hls.goodgame.ru/hls/40782.m3u8
 http://194.143.148.28:8080/MatchFutbol1/mpegts
 #EXTINF:-1 group-title="Спорткомплекс 🏆" ,Матч! HD
 https://livetv.mylifeisgood.net.ru/channels/matchhd_nocensored.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆" ,Матч! HD
-http://194.143.148.28:8080/MatchHD/mpegts
 #EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-id="2051", Матч! HD
 http://94.230.240.17:8080/machtv/index.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆" ,Матч! Арена
@@ -9648,8 +9646,6 @@ http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
 https://playout.fubo.tv/plex/3.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆" Eurosport Live HD
 http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Edge Sport
-https://edgesport-samsunguk.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Tennis Channel
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Sports Grid
@@ -9670,14 +9666,10 @@ https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4sportspublish/smc4tv_720p/chunks.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Horse and Country TV
 https://hnc-free-viewlift.amagi.tv/playlist720_lp.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Arryadia Sport
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",BandW Rally TV
 https://59d7d6f47d7fc.streamlock.net/bandw/bandw/playlist.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",BEK TV Sports
 https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Bike TV
-https://65f5123e69e3b.streamlock.net/bikechannel/ngrp:bikechannel_all/playlist.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",LSN TV
 https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Primocanale Sport
@@ -9686,10 +9678,16 @@ https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8
 http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:08:E9:52&stream=564976&extension=ts
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Orange Sport 2
 http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:08:E9:52&stream=564977&extension=ts
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Orange Sport 3
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:08:E9:52&stream=564978&extension=ts
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Orange Sport 4
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:08:E9:52&stream=564979&extension=ts
+#EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-id="bein-sport-1",Bein Sports 1
+https://tayland.kesintisizmaclar11.site/hls/bein-sports-1.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-id="bein-sport-2",Bein Sports 2
+https://tayland.kesintisizmaclar11.site/hls/bein-sports-2.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-id="bein-sport-3",Bein Sports 3
+https://tayland.kesintisizmaclar11.site/hls/bein-sports-3.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-id="bein-sport-4",Bein Sports 4
+https://tayland.kesintisizmaclar11.site/hls/bein-sports-4.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-id="bein-sport-5",Bein Sports 5
+https://tayland.kesintisizmaclar11.site/hls/bein-sports-5.m3u8
 
 
 
