@@ -597,7 +597,6 @@ https://cdn-3-go.toya.net.pl/kamery/lodz_lublinek2.m3u8
 https://cdn-3-go.toya.net.pl/kamery/lodz_lublinek1.m3u8
 #EXTINF:-1 group-title="Польша 🇵🇱",Аэропорт 9
 https://cdn-3-go.toya.net.pl/kamery/lodz_lublinek3.m3u8
-#E
 #EXTINF:-1 group-title="Россия 🇷🇺",Астрахань 2
 http://dvr.astrakhan.ru/kuli-46-hd-1/index.m3u8
 #EXTINF:-1 group-title="Россия 🇷🇺",Астрахань 8
@@ -1602,6 +1601,12 @@ http://media.ercis.ro:9999/iasisfanton/playlist.m3u8
 http://media.ercis.ro:9999/iasicatedrala/playlist.m3u8
 #EXTINF:-1 group-title="Румыния 🇷🇴",10
 http://media.ercis.ro:9999/amdis/playlist.m3u8
+#EXTINF:-1 group-title="Румыния 🇷🇴",Брэила Кольцевая развязка
+https://digilive.rcs-rds.ro/digilivedge/braila_desktop.stream/index.m3u8
+#EXTINF:-1 group-title="Румыния 🇷🇴",Констанца пляж Савой
+https://s123.ipcamlive.com/streams/7bza6u24pee5xnkvd/stream.m3u8
+#EXTINF:-1 group-title="Румыния 🇷🇴",Сату-Маре Центр
+https://digilive.rcs-rds.ro/digilivedge/satu_mare_desktop.stream/index.m3u8
 #EXTINF:-1 group-title="Сербия 🇷🇸",Белград 1
 https://streamer.devnet.rs/hls/trgrepublike.m3u8
 #EXTINF:-1 group-title="Сербия 🇷🇸",Белград 11
@@ -1672,43 +1677,35 @@ http://stream.kukaj.se/stream/18/video.m3u8
 http://stream.kukaj.se/stream/12/video.m3u8
 #EXTINF:-1 group-title="Словакия 🇸🇰",9
 http://stream.kukaj.se/stream/20/video.m3u8
-#EXTINF:-1 group-title="Словакия 🇸🇰",10
-http://stream.kukaj.se/stream/25/video.m3u8
 #EXTINF:-1 group-title="Словакия 🇸🇰",11
 http://stream.kukaj.se/stream/24/video.m3u8
-#EXTINF:-1 group-title="Словакия 🇸🇰",12
-http://stream.kukaj.se/stream/21/video.m3u8
 #EXTINF:-1 group-title="Словакия 🇸🇰",13
 http://stream.kukaj.se/stream/27/video.m3u8
 #EXTINF:-1 group-title="Словакия 🇸🇰",14
-http://stream.profi-net.sk:1935/tmr/STREAM32.stream/playlist.m3u8
-#EXTINF:-1 group-title="Словакия 🇸🇰",15
 https://kukaj.profi-net.sk/live/PLAMIENKA1.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Словакия 🇸🇰",16
+#EXTINF:-1 group-title="Словакия 🇸🇰",15
 https://kukaj.profi-net.sk/live/BOCIANY_BESENOVA_4K.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Словакия 🇸🇰",17
+#EXTINF:-1 group-title="Словакия 🇸🇰",16
 https://kukaj.profi-net.sk/livetrans/KUVIK1.stream_aac/chunklist.m3u8
-#EXTINF:-1 group-title="Словакия 🇸🇰",18
+#EXTINF:-1 group-title="Словакия 🇸🇰",17
 http://stream.profi-net.sk:1935/tmr/STREAM33.stream/playlist.m3u8
-#EXTINF:-1 group-title="Словакия 🇸🇰",20
+#EXTINF:-1 group-title="Словакия 🇸🇰",18
 http://stream.profi-net.sk:1935/tmr/STREAM31.stream/playlist.m3u8
-#EXTINF:-1 group-title="Словакия 🇸🇰",22
+#EXTINF:-1 group-title="Словакия 🇸🇰",19
 http://stream.profi-net.sk:1935/tmr/STREAM43.stream/playlist.m3u8
-#EXTINF:-1 group-title="Словакия 🇸🇰",23
-http://stream.profi-net.sk:1935/tmr/STREAM30.stream/playlist.m3u8
-#EXTINF:-1 group-title="Словакия 🇸🇰",24
+#EXTINF:-1 group-title="Словакия 🇸🇰",20
 http://stream.profi-net.sk:1935/tmr//STREAM29.stream/playlist.m3u8
-#EXTINF:-1 group-title="Словакия 🇸🇰",25
+#EXTINF:-1 group-title="Словакия 🇸🇰",21
 http://kukaj.profi-net.sk:1935/live/PLAMIENKA2.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Словакия 🇸🇰",26
+#EXTINF:-1 group-title="Словакия 🇸🇰",22
 http://stream.profi-net.sk:1935/tmr/STREAM3.stream/playlist.m3u8
-#EXTINF:-1 group-title="Словакия 🇸🇰",27
+#EXTINF:-1 group-title="Словакия 🇸🇰",23
 http://parksnow.zivekamery.sk:1935/donovaly/DONOVALY.stream/playlist.m3u8
-#EXTINF:-1 group-title="Словакия 🇸🇰",28
+#EXTINF:-1 group-title="Словакия 🇸🇰",24
 http://stream.strba.sk:1935/strba/VYHLAD_NOVESTRB.stream/playlist.m3u8
-#EXTINF:-1 group-title="Словакия 🇸🇰",29
+#EXTINF:-1 group-title="Словакия 🇸🇰",25
 http://stream.profi-net.sk:1935/tmr/STREAM39.stream/playlist.m3u8
-#EXTINF:-1 group-title="Словакия 🇸🇰",30
+#EXTINF:-1 group-title="Словакия 🇸🇰",26
 http://stream.strba.sk:1935/strba/VYHLAD_NAMESTIE.stream/playlist.m3u8
 #EXTINF:-1 group-title="США 🇺🇸",Beach Cam
 https://59b69eab8875b.streamlock.net/live/Beach_Cam_01.stream/playlist.m3u8
