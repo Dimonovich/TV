@@ -1,8 +1,8 @@
-﻿﻿#EXTM3U
+﻿#EXTM3U
 
 
 
-#EXTINF:-1 group-title="🔺 INFO 🔺"  tvg-logo="https://i.postimg.cc/mg921GS6/online-radio-triangle-signs-38400058.png",Обновление:15.08.2024
+#EXTINF:-1 group-title="🔺 INFO 🔺"  tvg-logo="https://i.postimg.cc/mg921GS6/online-radio-triangle-signs-38400058.png",Обновление:31.08.2024
 http://194.26.229.213/zastavka/index.m3u8
 #EXTINF:-1 group-title="🔺 INFO 🔺" tvg-logo="https://i.postimg.cc/jjkkG8Pc/Imagem-Telegram-Logo-PNG-Preto.png",https://mssg.me/neo_tv
 http://194.26.229.213/intro/index.m3u8
@@ -1181,8 +1181,20 @@ https://live.radiospinner.com/etkvkz-96
 
 
 
-
-
+#EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png", Колбасный цех
+https://hls-01-radiorecord.hostingradio.ru/record-pump/112/playlist.m3u8
+#EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png", На хайпе
+https://hls-01-radiorecord.hostingradio.ru/record-hype/112/playlist.m3u8
+#EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png", На шашлыки
+https://hls-01-radiorecord.hostingradio.ru/record-nashashlyki/112/playlist.m3u8
+#EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png", Festivals
+https://hls-01-radiorecord.hostingradio.ru/record-livedjsets/112/playlist.m3u8
+#EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png", Beach Party
+https://hls-01-radiorecord.hostingradio.ru/record-beach/112/playlist.m3u8
+#EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png", Сказки MC V
+https://hls-01-radiorecord.hostingradio.ru/record-skazki/112/playlist.m3u8
+#EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png", Summer Party
+https://hls-01-radiorecord.hostingradio.ru/record-summerparty/112/playlist.m3u8
 #EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png",Tiesto
 https://hls-01-radiorecord.hostingradio.ru/record-tiesto/96/playlist.m3u8
 #EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png",David Guetta
@@ -1201,6 +1213,8 @@ https://hls-01-radiorecord.hostingradio.ru/record-cadillac/96/playlist.m3u8
 https://hls-01-radiorecord.hostingradio.ru/record-1970/96/playlist.m3u8
 #EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png",Record 80х
 https://hls-01-radiorecord.hostingradio.ru/record-1980/96/playlist.m3u8
+#EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png",Record 00х
+https://hls-01-radiorecord.hostingradio.ru/record-2000/112/playlist.m3u8
 #EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png",Organic
 https://hls-01-radiorecord.hostingradio.ru/record-organic/96/playlist.m3u8
 #EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png",CHILL HOUSE
@@ -1419,46 +1433,40 @@ http://strm112.1.fm/trance_mobile_mp3
 
 
 
-
-
-#EXTINF:-1 group-title="Зайцев FM (VPN)" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/345.v4.png",Rock
-http://zaycevfm.cdnvideo.ru/ZaycevFM_alternative_256.mp3
-#EXTINF:-1 group-title="Зайцев FM (VPN)" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/345.v4.png",РуРок
-https://zaycevfm.cdnvideo.ru/ZaycevFM_rurock_256.mp3
-#EXTINF:-1 group-title="Зайцев FM (VPN)" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/345.v4.png",Folk-Rock
-https://zaycevfm.cdnvideo.ru/ZaycevFM_folk_256.mp3
-#EXTINF:-1 group-title="Зайцев FM (VPN)" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/345.v4.png",Disco
-http://zaycevfm.cdnvideo.ru/ZaycevFM_disco_256.mp3
-#EXTINF:-1 group-title="Зайцев FM (VPN)" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/345.v4.png",Club
-http://zaycevfm.cdnvideo.ru/ZaycevFM_electronic_256.mp3
-#EXTINF:-1 group-title="Зайцев FM (VPN)" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/345.v4.png",K-Pop
-http://zaycevfm.cdnvideo.ru/ZaycevFM_kpop_256.mp3
-#EXTINF:-1 group-title="Зайцев FM (VPN)" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/345.v4.png",Pop
-http://zaycevfm.cdnvideo.ru/ZaycevFM_pop_256.mp3
-#EXTINF:-1 group-title="Зайцев FM (VPN)" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/345.v4.png",Relax
-http://zaycevfm.cdnvideo.ru/ZaycevFM_relax_256.mp3
-#EXTINF:-1 group-title="Зайцев FM (VPN)" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/345.v4.png",R'n'B
-http://zaycevfm.cdnvideo.ru/ZaycevFM_rnb_256.mp3
-#EXTINF:-1 group-title="Зайцев FM (VPN)" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/345.v4.png",Rus
-http://zaycevfm.cdnvideo.ru/ZaycevFM_rus_256.mp3
-#EXTINF:-1 group-title="Зайцев FM (VPN)" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/345.v4.png",Шансон
-http://zaycevfm.cdnvideo.ru/ZaycevFM_shanson_256.mp3
-#EXTINF:-1 group-title="Зайцев FM (VPN)" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/345.v4.png",Метал
-https://zaycevfm.cdnvideo.ru/ZaycevFM_metal_256.mp3
 #EXTINF:-1 group-title="Зайцев FM (VPN)" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/345.v4.png",New Rock
-https://zaycevfm.cdnvideo.ru/ZaycevFM_rock_256.mp3
+https://abs.zaycev.fm/rock256k
+#EXTINF:-1 group-title="Зайцев FM (VPN)" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/345.v4.png",РуРок
+https://abs.zaycev.fm/rurock256k
+#EXTINF:-1 group-title="Зайцев FM (VPN)" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/345.v4.png",Folk-Rock
+https://abs.zaycev.fm/folk256k
+#EXTINF:-1 group-title="Зайцев FM (VPN)" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/345.v4.png",Disco
+https://abs.zaycev.fm/disco256k
+#EXTINF:-1 group-title="Зайцев FM (VPN)" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/345.v4.png",Club
+https://abs.zaycev.fm/club256k
+#EXTINF:-1 group-title="Зайцев FM (VPN)" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/345.v4.png",K-Pop
+https://abs.zaycev.fm/kpop256k
+#EXTINF:-1 group-title="Зайцев FM (VPN)" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/345.v4.png",Pop
+https://abs.zaycev.fm/pop256k
+#EXTINF:-1 group-title="Зайцев FM (VPN)" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/345.v4.png",Relax
+https://abs.zaycev.fm/relax256k
+#EXTINF:-1 group-title="Зайцев FM (VPN)" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/345.v4.png",R'n'B
+https://abs.zaycev.fm/rnb256k
+#EXTINF:-1 group-title="Зайцев FM (VPN)" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/345.v4.png",Rus
+https://abs.zaycev.fm/rus256k
+#EXTINF:-1 group-title="Зайцев FM (VPN)" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/345.v4.png",Шансон
+https://abs.zaycev.fm/shanson256k
+#EXTINF:-1 group-title="Зайцев FM (VPN)" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/345.v4.png",Metal
+https://abs.zaycev.fm/metal256k
 #EXTINF:-1 group-title="Зайцев FM (VPN)" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/345.v4.png",Зайчата
-https://zaycevfm.cdnvideo.ru/ZaycevFM_zaychata_256.mp3
+https://abs.zaycev.fm/zaychata256k
 #EXTINF:-1 group-title="Зайцев FM (VPN)" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/345.v4.png",Rap
-https://zaycevfm.cdnvideo.ru/ZaycevFM_rap_256.mp3
-#EXTINF:-1 group-title="Зайцев FM (VPN)" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/345.v4.png",Новый Год
-https://zaycevfm.cdnvideo.ru/ZaycevFM_newyear_256.mp3
+https://abs.zaycev.fm/rap256k
 #EXTINF:-1 group-title="Зайцев FM (VPN)" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/345.v4.png",Bass
-https://zaycevfm.cdnvideo.ru/ZaycevFM_bass_256.mp3
+https://abs.zaycev.fm/bass256k
 #EXTINF:-1 group-title="Зайцев FM (VPN)" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/345.v4.png",Love
-https://zaycevfm.cdnvideo.ru/ZaycevFM_holiday_256.mp3
+https://abs.zaycev.fm/love256k
 #EXTINF:-1 group-title="Зайцев FM (VPN)" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/345.v4.png",Classic
-https://zaycevfm.cdnvideo.ru/ZaycevFM_classic_256.mp3
+https://abs.zaycev.fm/classic256k
 
 
 
