@@ -1789,6 +1789,14 @@ https://5ad79df289937.streamlock.net/Aquarium-WebCams/Penguins.stream/chunklist.
 https://5ad79df289937.streamlock.net/Aquarium-WebCams/Secret-Reef.stream/chunklist.m3u8
 #EXTINF:-1 group-title="США 🇺🇸",Совка
 https://live.hdontap.com/hls/hosbdvr5/ty-mayo_eastern-screech-owl.stream/playlist.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",Чорум Панорама
+https://mobilharita.corum.bel.tr/live/arasta.stream/chunklist_w646876998.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",Стамбул район Аксарай
+https://hls.ibb.gov.tr/tkm4/hls/3.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",Стамбул Мечеть Султана Эйюпа
+https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_eyup.stream/chunklist_w568232172.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",Стамбул Крытый базар
+https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_kapali_carsi.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Турция 🇹🇷",1
 http://ibb-media4.ibb.gov.tr:1935/live/1.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Турция 🇹🇷",2
@@ -1954,90 +1962,46 @@ http://ibb-media4.ibb.gov.tr:1935/live/145.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Турция 🇹🇷",87
 http://ibb-media4.ibb.gov.tr:1935/live/146.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Турция 🇹🇷",88
-http://ibb-media4.ibb.gov.tr:1935/live/147.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Турция 🇹🇷",89
 http://ibb-media4.ibb.gov.tr:1935/live/149.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Турция 🇹🇷",90
+#EXTINF:-1 group-title="Турция 🇹🇷",89
 http://ibb-media4.ibb.gov.tr:1935/live/12.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Турция 🇹🇷",91
+#EXTINF:-1 group-title="Турция 🇹🇷",90
 http://ibb-media4.ibb.gov.tr:1935/live/150.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Турция 🇹🇷",92
+#EXTINF:-1 group-title="Турция 🇹🇷",91
 http://ibb-media2.ibb.gov.tr:1935/live/1020.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Турция 🇹🇷",93
+#EXTINF:-1 group-title="Турция 🇹🇷",92
 http://ibb-media2.ibb.gov.tr:1935/live/1021.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Турция 🇹🇷",94
-http://ibb-media2.ibb.gov.tr:1935/live/1023.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Турция 🇹🇷",95
-http://ibb-media2.ibb.gov.tr:1935/live/1024.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Турция 🇹🇷",96
-http://ibb-media2.ibb.gov.tr:1935/live/1025.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Турция 🇹🇷",97
-http://ibb-media2.ibb.gov.tr:1935/live/1026.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Турция 🇹🇷",98
+#EXTINF:-1 group-title="Турция 🇹🇷",93
 http://ibb-media2.ibb.gov.tr:1935/live/1027.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Украина 🇺🇦",Алушта 1
-http://watch.vikscom.net/more.bassein/index.m3u8
-#EXTINF:-1 group-title="Украина 🇺🇦",Алушта 2
-http://watch.vikscom.net/more.villa1/index.m3u8
+#EXTINF:-1 group-title="Украина 🇺🇦",Буковель вид на Горы
+https://eu2.camflg.com:5443/LiveApp/streams/bukovel4.m3u8
+#EXTINF:-1 group-title="Украина 🇺🇦",Буковель Горнолыжный курорт
+https://eu2.camflg.com:5443/LiveApp/streams/bukovel8.m3u8
 #EXTINF:-1 group-title="Украина 🇺🇦",Коломыя 2
 http://stream.ntktv.ua/s/annunciation/annunciation.m3u8
 #EXTINF:-1 group-title="Украина 🇺🇦",Львов - Церковь 1
 http://sukhovolya-tserkva.org.ua/live-video/church.m3u8
-#EXTINF:-1 group-title="Украина 🇺🇦",Мирное 3
-http://flu.ttk.mx:9090/CamBelova12a/tracks-v1/mono.m3u8
-#EXTINF:-1 group-title="Украина 🇺🇦",Симферополь - ГРЭС
-http://195.49.206.244:9090/GRES_1/index.m3u8
-#EXTINF:-1 group-title="Украина 🇺🇦",Симферополь - Мемориал
-http://195.49.206.244:9090/Memorial/index.m3u8
-#EXTINF:-1 group-title="Украина 🇺🇦",Симферополь - Остановка
-http://195.88.112.26:555/v7URarlp?container=mjpeg&stream=main
-#EXTINF:-1 group-title="Украина 🇺🇦",Симферополь - Остановка 2
-http://195.88.112.26:555/jggMS4Hh?container=mjpeg&stream=main
-#EXTINF:-1 group-title="Украина 🇺🇦",Симферополь - Остановка 3
-http://195.88.112.26:555/Vo0Y3pgn?container=mjpeg&stream=main
-#EXTINF:-1 group-title="Украина 🇺🇦",Симферополь - Остановка 4
-http://195.88.112.26:555/tVnWFYaT?container=mjpeg&stream=main
-#EXTINF:-1 group-title="Украина 🇺🇦",Симферополь - Площадь
-http://195.54.43.96:555/o70ut108?container=mjpeg&stream=main
-#EXTINF:-1 group-title="Украина 🇺🇦",Симферополь - Соборная мечеть
-http://flu.ttk.mx:9090/Mar'ino_TTK/tracks-v1/mono.m3u8
 #EXTINF:-1 group-title="Украина 🇺🇦",Стрый 3
 https://stream-uspinnia.pp.ua/hls2/index.m3u8
 #EXTINF:-1 group-title="Украина 🇺🇦",Херсон 1
 http://pravoslav.tv:90/hlsplay/live.m3u8
-#EXTINF:-1 group-title="Украина 🇺🇦",Ялта 1
-http://195.49.206.244:9090/yalta/index.m3u8
-#EXTINF:-1 group-title="Украина 🇺🇦",Ялта 2
-http://195.49.206.244:9090/yalta2/index.m3u8
-#EXTINF:-1 group-title="Украина 🇺🇦",Ялта 3
-http://tms.1city.org:8081/Sovetskaya/tracks-v1/mono.m3u8
-#EXTINF:-1 group-title="Украина 🇺🇦",Ялта 5
-http://tms.1city.org:8081/Nab_1/tracks-v1/mono.m3u8
-#EXTINF:-1 group-title="Франция 🇫🇷",Париж  2
-https://live.viewsurf.com/liveedge/pariscam2_1_1.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Франция 🇫🇷",Париж  3
-https://live.viewsurf.com/liveedge/pariscam1_1_1.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Франция 🇫🇷",Париж  4
-https://live.viewsurf.com/liveedge/pariscam3_1_1.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Франция 🇫🇷",Париж  5
-https://live.viewsurf.com/liveedge/pariscam4_1_1.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Франция 🇫🇷",Париж  6
-https://live.viewsurf.com/liveedge/pariscam5_1_1.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Франция 🇫🇷",Фронтиньян пристань для Яхт
+https://hls.iwilive.net/live/frontignan0.stream/chunklist_w1716573096.m3u8
+#EXTINF:-1 group-title="Франция 🇫🇷",Бетюн площадь Гран Плас
+https://streaming.novazion.com/VilleBethune/webcam.stream/chunklist_w579347968.m3u8
+#EXTINF:-1 group-title="Франция 🇫🇷",Пленёф-Валь-Андре Пристань для яхт
+https://hls.iwilive.net/live/pleneuf1.stream/playlist.m3u8
 #EXTINF:-1 group-title="Франция 🇫🇷",Франция 1
 https://live.viewsurf.com/liveedge/sanary01_5_3/playlist.m3u8
 #EXTINF:-1 group-title="Франция 🇫🇷",Франция 2
 https://live.viewsurf.com/liveedge/biarritzgrandeplage_1_1.stream/playlist.m3u8
 #EXTINF:-1 group-title="Франция 🇫🇷",Франция 3
-https://live.viewsurf.com/liveedge/arras01_1_1.stream/playlist.m3u8
-#EXTINF:-1 group-title="Франция 🇫🇷",Франция 4
-https://live.viewsurf.com/liveedge/biscarrosse01_5_3/playlist.m3u8
-#EXTINF:-1 group-title="Франция 🇫🇷",Франция 5
 https://live.viewsurf.com/liveedge/anglet07_1_1.stream/playlist.m3u8
-#EXTINF:-1 group-title="Франция 🇫🇷",Франция 6
+#EXTINF:-1 group-title="Франция 🇫🇷",Франция 4
 https://live.viewsurf.com/liveedge/anglet01_1_1.stream/playlist.m3u8
-#EXTINF:-1 group-title="Франция 🇫🇷",Франция 7
+#EXTINF:-1 group-title="Франция 🇫🇷",Франция 5
 https://live.viewsurf.com/liveedge/anglet02_1_1.stream/playlist.m3u8
-#EXTINF:-1 group-title="Франция 🇫🇷",Франция 14
+#EXTINF:-1 group-title="Франция 🇫🇷",Франция 6
 http://live.viewsurf.com/liveedge/saintraphael01_2_2/playlist.m3u8
 #EXTINF:-1 group-title="Чешская Республика 🇨🇿",1
 http://31.47.96.14:80/hls/roznov.m3u8
@@ -2053,8 +2017,6 @@ http://185.15.109.62:8086/hls/live.stream.m3u8
 http://185.15.109.62:8090/hls/live.stream.m3u8
 #EXTINF:-1 group-title="Чешская Республика 🇨🇿",7
 http://185.15.109.62:8091/hls/live.stream.m3u8
-#EXTINF:-1 group-title="Чешская Республика 🇨🇿",Ratibor
-http://stream.hqv.cz/ratibor.obecni.net/index.m3u8
 #EXTINF:-1 group-title="Чешская Республика 🇨🇿",Аэропорт
 http://live.idnes.cz/slow/planespotting/playlist.m3u8
 #EXTINF:-1 group-title="Чешская Республика 🇨🇿",Бегемоты
@@ -2082,26 +2044,24 @@ http://cdn-006.whatsupcams.com/hls/hr_kastel1.m3u8
 #EXTINF:-1 group-title="Хорватия 🇭🇷",Хорватия 2
 https://cdn-006.whatsupcams.com/hls/hr_svetvincenat01.m3u8
 #EXTINF:-1 group-title="Хорватия 🇭🇷",Хорватия 3
-https://cdn-004.whatsupcams.com/hls/hr_senj03.m3u8
-#EXTINF:-1 group-title="Хорватия 🇭🇷",Хорватия 4
 https://cdn-002.whatsupcams.com/hls/hr_brsec01.m3u8
-#EXTINF:-1 group-title="Хорватия 🇭🇷",Хорватия 5
+#EXTINF:-1 group-title="Хорватия 🇭🇷",Хорватия 4
 https://cdn-005.whatsupcams.com/hls/hr_samobor1.m3u8
-#EXTINF:-1 group-title="Хорватия 🇭🇷",Хорватия 6
+#EXTINF:-1 group-title="Хорватия 🇭🇷",Хорватия 5
 https://cdn-002.whatsupcams.com/hls/hr_promajna01.m3u8
-#EXTINF:-1 group-title="Хорватия 🇭🇷",Хорватия 7
+#EXTINF:-1 group-title="Хорватия 🇭🇷",Хорватия 6
 https://cdn-004.whatsupcams.com/hls/hr_buildpetrinja03.m3u8
-#EXTINF:-1 group-title="Хорватия 🇭🇷",Хорватия 8
+#EXTINF:-1 group-title="Хорватия 🇭🇷",Хорватия 7
 https://pool.alter-media.hr:1936/zeleniprsten/zeleniprsten/playlist.m3u8
-#EXTINF:-1 group-title="Швейцария 🇨🇭",10
+#EXTINF:-1 group-title="Швейцария 🇨🇭",1
 https://stream.vedge.infomaniak.com/livecast/webcam05luganoch.stream/playlist.m3u8
-#EXTINF:-1 group-title="Швейцария 🇨🇭",6
+#EXTINF:-1 group-title="Швейцария 🇨🇭",2
 https://stream.vedge.infomaniak.com/livecast/webcam08luganoch.stream/playlist.m3u8
-#EXTINF:-1 group-title="Швейцария 🇨🇭",7
+#EXTINF:-1 group-title="Швейцария 🇨🇭",3
 https://stream.vedge.infomaniak.com/livecast/webcam01luganoch.stream/playlist.m3u8
-#EXTINF:-1 group-title="Швейцария 🇨🇭",8
+#EXTINF:-1 group-title="Швейцария 🇨🇭",4
 https://stream.vedge.infomaniak.com/livecast/webcam02luganoch.stream/playlist.m3u8
-#EXTINF:-1 group-title="Швейцария 🇨🇭",9
+#EXTINF:-1 group-title="Швейцария 🇨🇭",5
 https://stream.vedge.infomaniak.com/livecast/webcam04luganoch.stream/playlist.m3u8
 #EXTINF:-1 group-title="Эстония 🇪🇪󠁧󠁢󠁳󠁣󠁴󠁿",Талин (4K)
 http://83.166.53.184:8080/index.m3u8
