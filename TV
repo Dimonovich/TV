@@ -190,6 +190,8 @@ http://91.247.68.229:8000/play/Poehali/index.m3u8
 https://tochkatv-live.cdnvideo.ru/tochkatv_pub/tainatv.stream_aac.smil/tracks-v1a1/mono.m3u8?hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 group-title="TEST (VPN)",TVMChannel
 http://cdn-01.bonus-tv.ru:80/tvm_edge/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",8 канал
+http://cdn-01.bonus-tv.ru:80/8kanal/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",Девятая Волна
 http://cdn-01.bonus-tv.ru:80/9volna/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",Калейдоскоп ТВ
@@ -200,6 +202,8 @@ http://cdn-01.bonus-tv.ru:80/kriktv_edge/index.m3u8
 http://cdn-01.bonus-tv.ru:80/prosveschenie_edge/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",Вместе-РФ
 http://cdn-01.bonus-tv.ru:80/vmesterf/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Arirang Korea
+https://cdn-01.bonus-tv.ru/arirang_edge/playlist.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",9 ВОЛНА
 http://185.46.48.18:80/asvtv/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",Cinema
