@@ -1707,14 +1707,68 @@ http://stream.strba.sk:1935/strba/VYHLAD_NOVESTRB.stream/playlist.m3u8
 http://stream.profi-net.sk:1935/tmr/STREAM39.stream/playlist.m3u8
 #EXTINF:-1 group-title="Словакия 🇸🇰",26
 http://stream.strba.sk:1935/strba/VYHLAD_NAMESTIE.stream/playlist.m3u8
+#EXTINF:-1 group-title="США 🇺🇸",Флорида Панама Сити Бич вид на Мексиканский залив
+https://5ed7b8fd7bf40.streamlock.net:444/holidayinnpcbbeach/holidayinnpcbbeachcam/chunklist_w1565534470.m3u8
+#EXTINF:-1 group-title="США 🇺🇸",Флорида Панама-Сити-Бич Парк развлечений
+https://5ed7b8fd7bf40.streamlock.net:444/wonderworks/wonderworksroofcam/chunklist_w1486767688.m3u8
+#EXTINF:-1 group-title="США 🇺🇸",Джорджия Taйби-Айленд вид на Атлантический океан - Пляж
+https://5ddd47d64e730.streamlock.net:444/mousepad1/mousepad1.stream/chunklist_w733151700.m3u8
+#EXTINF:-1 group-title="США 🇺🇸",Вашингтон Капитолий
+https://www-senate-gov-media-srs.akamaized.net/hls/live/2036784/capcam/capcam/master.m3u8
+#EXTINF:-1 group-title="США 🇺🇸",Вашингтон Семиахму залив Дрейтон-Харбор
+https://streamer2.brownrice.com/semiahmoo1/semiahmoo1.stream/main_playlist.m3u8
+#EXTINF:-1 group-title="США 🇺🇸",Нью-Мексико Силвер-Сити Центр
+https://1-or.vdn.terrafox.net/live/downtown-silver.stream/chunks.m3u8
+#EXTINF:-1 group-title="США 🇺🇸",Мичиган Холланд пляж Оттава
+https://5f4ad95bcff44.streamlock.net:444/cityofholland8/cityofholland8.stream/chunklist_w1573940398.m3u8
+#EXTINF:-1 group-title="США 🇺🇸",Северная Дакота Девилс-Лейк 22-я улица
+https://streamer6.brownrice.com/dl4thand4th/dl4thand4th.stream/main_playlist.m3u8
+#EXTINF:-1 group-title="США 🇺🇸",Южная Каролина Хилтон-Хед-Айленд Пристань для яхт Шелтер-Коув
+https://reservations.palmettodunes.com/live/SCMBasin.stream/playlist.m3u8
+#EXTINF:-1 group-title="США 🇺🇸",Южная Каролина Хилтон-Хед-Айленд поле для Гольфа
+https://reservations.palmettodunes.com/live/RTJ2.stream/chunklist_w202422633.m3u8
+#EXTINF:-1 group-title="США 🇺🇸",Калифорния Монтерей вид на Залив
+https://edge01.ny.nginx.hdontap.com/hosb1/taste-of-monterey_cannery-row.stream/chunklist_w1121271954.m3u8
+#EXTINF:-1 group-title="США 🇺🇸",Калифорния Пласервилл Центр
+https://2-fss-2.streamhoster.com/pl_126/202594-1354528-1/playlist.m3u8
+#EXTINF:-1 group-title="США 🇺🇸",Калифорния Сонома площадь Сонома Плаза
+https://1-or.vdn.terrafox.net/live/sonoma/chunks.m3u8
+#EXTINF:-1 group-title="США 🇺🇸",Калифорния Лос-Анджелес пляж Венис-Бич
+https://5ddd47d64e730.streamlock.net:444/westland/westland.stream/chunklist_w2084520689.m3u8
+#EXTINF:-1 group-title="США 🇺🇸",Южная Каролина Паулис-Айленд Пляж
+https://5f4ad95bcff44.streamlock.net:444/pawleys1/pawleys1.stream/chunklist_w1289805910.m3u8
+#EXTINF:-1 group-title="США 🇺🇸",Род-Айленд Наррагансетт Набережная
+https://5c864aa99ee04.streamlock.net/surfcam/live.stream/chunklist_w1964635316.m3u8
+#EXTINF:-1 group-title="США 🇺🇸",Колорадо Аспен Гондольная площадь
+https://2-fss-2.streamhoster.com/pl_126/200612-1195860-1/chunklist.m3u8
+#EXTINF:-1 group-title="США 🇺🇸",Колорадо Урей вид на Горы
+https://2-fss-2.streamhoster.com/pl_126/200612-1260510-1/chunklist.m3u8
+#EXTINF:-1 group-title="США 🇺🇸",Флорида Грейтон-Бич Пляж
+https://59b69eab8875b.streamlock.net/live/ngrp:Beach_Cam_01.stream_mobile/chunklist_w501439487_b3200000.m3u8
+#EXTINF:-1 group-title="США 🇺🇸",Флорида Ормонд Бич Пляж
+https://streamer2.brownrice.com/coralsands1/coralsands1.stream/main_playlist.m3u8
+#EXTINF:-1 group-title="США 🇺🇸",Калифорния Сан-Франциско Панорама
+https://bakery.cbsi.video/propeller/cbsl30bd/kpixbf77/56555.m3u8
+#EXTINF:-1 group-title="США 🇺🇸",Калифорния Сан-Франциско Остров Сокровищ
+https://f65c8ch4e82b.airspace-cdn.cbsivideo.com/kpix8fcg-56557/master/kpix8fcg-56557_1.m3u8
+#EXTINF:-1 group-title="США 🇺🇸",Калифорния Сан-Франциско район Мишн-Бэй
+https://f65c8ch4e82b.airspace-cdn.cbsivideo.com/kpix97h7-56554/master/kpix97h7-56554_1.m3u8
+#EXTINF:-1 group-title="США 🇺🇸",Калифорния Сан-Франциско Мост Золотые ворота
+https://bakery.cbsi.video/propeller/cbsl30bd/kpix2431/56556.m3u8
+#EXTINF:-1 group-title="США 🇺🇸",Северная Каролина Хайлендс Диллард-роуд
+https://5f9f690034fb0.streamlock.net:444/highlands1/highlands1.stream/chunklist_w929265980.m3u8
+#EXTINF:-1 group-title="США 🇺🇸",Южная Каролина Чарльстон мост Артура Равенела-младшего
+https://s18.us-east-1.skyvdn.com/rtplive/60075/chunklist_w1428217245.m3u8
+#EXTINF:-1 group-title="США 🇺🇸",Орегон Портленд мост Тиликум
+https://allclassical.cachefly.net/allclassical/tilicam/chunks.m3u8
+#EXTINF:-1 group-title="США 🇺🇸",Флорида Брадентон-Бич Пирс
+https://5ddd47d64e730.streamlock.net:444/oysterbar1/oysterbar1.stream/chunklist_w1970554705.m3u8
+#EXTINF:-1 group-title="США 🇺🇸",Южная Каролина Мертл-Бич Пляж
+https://5ab0d1d85f91f.streamlock.net/fuel/boardwalk_1.stream/chunklist_w609308605.m3u8
+#EXTINF:-1 group-title="США 🇺🇸",Южная Каролина Норт-Миртл-Бич 17-я авеню
+https://5ed7b8fd7bf40.streamlock.net:444/condoworld/condoworldcam/chunklist_w1918045463.m3u8
 #EXTINF:-1 group-title="США 🇺🇸",Beach Cam
 https://59b69eab8875b.streamlock.net/live/Beach_Cam_01.stream/playlist.m3u8
-#EXTINF:-1 group-title="США 🇺🇸",Cedar Point Park
-https://56cdb389b57ec.streamlock.net:1935/live/cedar1.stream/chunklist.m3u8
-#EXTINF:-1 group-title="США 🇺🇸",Cedar Point Park 2
-https://56cdb389b57ec.streamlock.net:1935/live/cedar2.stream/chunklist.m3u8
-#EXTINF:-1 group-title="США 🇺🇸",Downtown Wilmington FHD
-http://169.47.9.197:1935/live/dw.stream/playlist.m3u8
 #EXTINF:-1 group-title="США 🇺🇸",Estes Park
 http://cdn.estesparkwebcams.com/prospect3/index.m3u8
 #EXTINF:-1 group-title="США 🇺🇸",Myrtle Beach Cam
@@ -1723,56 +1777,18 @@ https://5ab0d1d85f91f.streamlock.net/Riptydz/cam-rt-beach.stream/playlist.m3u8
 https://5ab0d1d85f91f.streamlock.net/Riptydz/cam-rt-volleyball.stream/playlist.m3u8
 #EXTINF:-1 group-title="США 🇺🇸",Myrtle Beach Cam 3
 https://5ab0d1d85f91f.streamlock.net/Riptydz/cam-rt-blvd.stream/playlist.m3u8
-#EXTINF:-1 group-title="США 🇺🇸",Schooners Sunset Cam
-http://5ed7b8fd7bf40.streamlock.net:1935/schoonerssunsetHDCam/schsun/playlist.m3u8
 #EXTINF:-1 group-title="США 🇺🇸",Southport
 http://5a5f765a4fcc2.streamlock.net:1935/live/spp.stream/playlist.m3u8
-#EXTINF:-1 group-title="США 🇺🇸",Traffic
-http://d2a6g6zgxepbwi.cloudfront.net/wbrztraffic/mp4:trafficstream.sdp/chunklist.m3u8
 #EXTINF:-1 group-title="США 🇺🇸",Warm Winds
 http://5c864aa99ee04.streamlock.net:1935/surfcam/live.stream/playlist.m3u8
-#EXTINF:-1 group-title="США 🇺🇸",Watersound Beach Cam
-http://videos-3.earthcam.com/fecnetwork/14441.flv/chunklist_w1275388063.m3u8
-#EXTINF:-1 group-title="США 🇺🇸",Бабуин
-http://zssd-baboon.hls.camzonecdn.com/CamzoneStreams/zssd-baboon/Playlist.m3u8
-#EXTINF:-1 group-title="США 🇺🇸",Бегемоты
-http://zssd-hippo.hls.camzonecdn.com/CamzoneStreams/zssd-hippo/Playlist.m3u8
-#EXTINF:-1 group-title="США 🇺🇸",Белый медведь
-http://polarplunge.hls.camzonecdn.com/CamzoneStreams/polarplunge/Playlist.m3u8
-#EXTINF:-1 group-title="США 🇺🇸",Веб камера Панда HD
-http://160.111.252.72:1935/live_edge_panda/smil:panda02_all.smil/playlist.m3u8
-#EXTINF:-1 group-title="США 🇺🇸",Землекоп 1
-http://nzp-ms06.si.edu/live_edge_nmr/nmr_1080_all.smil/chunklist_b5500000.m3u8
-#EXTINF:-1 group-title="США 🇺🇸",Землекоп 2
-http://nzp-ms06.si.edu/live_edge_nmr_02/nmr_02_1080_all.smil/chunklist_b850000.m3u8
-#EXTINF:-1 group-title="США 🇺🇸",Коала
-http://zssd-koala.hls.camzonecdn.com/CamzoneStreams/zssd-koala/Playlist.m3u8
-#EXTINF:-1 group-title="США 🇺🇸",Кондор
-http://zssd-condorhd.hls.camzonecdn.com/CamzoneStreams/zssd-condorhd/Playlist.m3u8
 #EXTINF:-1 group-title="США 🇺🇸",Кормушка
 http://live.idnes.cz/slow/krmitkousa/playlist.m3u8
-#EXTINF:-1 group-title="США 🇺🇸",Обезьяна
-http://ape.hls.camzonecdn.com/CamzoneStreams/ape/Playlist.m3u8
-#EXTINF:-1 group-title="США 🇺🇸",Панда 3
-http://zssd-panda.hls.camzonecdn.com/CamzoneStreams/zssd-panda/Playlist.m3u8
-#EXTINF:-1 group-title="США 🇺🇸",Пингвины
-http://zssd-penguin.hls.camzonecdn.com/CamzoneStreams/zssd-penguin/Playlist.m3u8
 #EXTINF:-1 group-title="США 🇺🇸",Пингвины 2
 https://5ad79df289937.streamlock.net/Aquarium-WebCams/Penguins.stream/chunklist.m3u8
 #EXTINF:-1 group-title="США 🇺🇸",Рифы
 https://5ad79df289937.streamlock.net/Aquarium-WebCams/Secret-Reef.stream/chunklist.m3u8
-#EXTINF:-1 group-title="США 🇺🇸",Сафари
-http://zssd-kijami.hls.camzonecdn.com/CamzoneStreams/zssd-kijami/Playlist.m3u8
-#EXTINF:-1 group-title="США 🇺🇸",Слон
-http://elephants.hls.camzonecdn.com/CamzoneStreams/elephants/Playlist.m3u8
-#EXTINF:-1 group-title="США 🇺🇸",Сова
-http://zssd-owlburrow.hls.camzonecdn.com/CamzoneStreams/zssd-owlburrow/Playlist.m3u8
-#EXTINF:-1 group-title="США 🇺🇸",Сова 2
-http://zssd-owlaviary.hls.camzonecdn.com/CamzoneStreams/zssd-owlaviary/Playlist.m3u8
 #EXTINF:-1 group-title="США 🇺🇸",Совка
 https://live.hdontap.com/hls/hosbdvr5/ty-mayo_eastern-screech-owl.stream/playlist.m3u8
-#EXTINF:-1 group-title="США 🇺🇸",Тигр
-http://zssd-tiger.hls.camzonecdn.com/CamzoneStreams/zssd-tiger/Playlist.m3u8
 #EXTINF:-1 group-title="Турция 🇹🇷",1
 http://ibb-media4.ibb.gov.tr:1935/live/1.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Турция 🇹🇷",2
