@@ -291,8 +291,12 @@ http://fs2.persik.by/Trillery_Drama3/index.m3u8
 http://fs2.persik.by/Trillery_Boeviki3/index.m3u8
 #EXTINF:-1 group-title="Persik",Психологические ужасы
 http://fs2.persik.by/Psihologicheskie_uzhasy5/index.m3u8
+#EXTINF:-1 group-title="Persik",Американские комедии
+https://fs2.persik.by/Amerikanskie_Komedii_11/index.m3u8
 #EXTINF:-1 group-title="Persik",Маньяки
 http://fs2.persik.by/Manjaki5/index.m3u8
+#EXTINF:-1 group-title="Persik",Relax HD
+https://fs2.persik.by/Relax3/index.m3u8
 #EXTINF:-1 group-title="Persik",Вторая мировая
 http://fs2.persik.by/Vtoraja_Mirovaja_6/index.m3u8
 #EXTINF:-1 group-title="Persik",Советские комедии
@@ -315,6 +319,10 @@ http://fs2.persik.by/Kino_Subtitry_8/index.m3u8
 http://fs2.persik.by/Angliyskie_subtitry5/index.m3u8
 #EXTINF:-1 group-title="Persik",ДРУЖБА
 http://fs2.persik.by/Druzhba7/index.m3u8
+#EXTINF:-1 group-title="Persik",Best clips HD
+https://fs2.persik.by/Best_clips/index.m3u8
+#EXTINF:-1 group-title="Persik",Concerts HD
+https://fs2.persik.by/Concerts4/index.m3u8
 #EXTINF:-1 group-title="Persik",ФЕСТИВАЛЬНОЕ КИНО
 http://fs2.persik.by/FestivalnoeKino8/index.m3u8
 #EXTINF:-1 group-title="Persik",ЛЕГКОЕ КИНО
@@ -335,6 +343,10 @@ http://fs2.persik.by/Novinki8/index.m3u8
 http://fs2.persik.by/Ekranizacii12/index.m3u8
 #EXTINF:-1 group-title="Persik",Кино выходного дня
 http://fs2.persik.by/Kino_vihodnogo_dnia5/index.m3u8
+#EXTINF:-1 group-title="Persik",Кино по книгам
+https://fs2.persik.by/Kino_po_knigam8/index.m3u8
+#EXTINF:-1 group-title="Persik",Кино про дружбу
+https://fs2.persik.by/Pro_druzhbu6/index.m3u8
 #EXTINF:-1 group-title="Persik",Известные актёры
 http://fs2.persik.by/Izvestnie_akteri4/index.m3u8
 #EXTINF:-1 group-title="Persik",КОЗЛОВСКИЙ
@@ -343,6 +355,8 @@ http://fs2.persik.by/Kozlovskij_4/index.m3u8
 http://fs2.persik.by/Vicin_6/index.m3u8
 #EXTINF:-1 group-title="Persik",ПЕТРЕНКО
 http://fs2.persik.by/Petrenko_3/index.m3u8
+#EXTINF:-1 group-title="Persik",МИРОНОВ
+https://fs2.persik.by/Mironov6/index.m3u8
 #EXTINF:-1 group-title="Persik",Куценко
 http://fs2.persik.by/Kucenko_3/index.m3u8
 #EXTINF:-1 group-title="Persik",МАШКОВ
@@ -365,6 +379,28 @@ http://fs2.persik.by/Matveev3/index.m3u8
 http://fs2.persik.by/Bortich3/index.m3u8
 #EXTINF:-1 group-title="Persik",МЕРЗЛИКИН
 http://fs2.persik.by/Merzlikin4/index.m3u8
+#EXTINF:-1 group-title="Persik",Детские фильмы
+https://fs2.persik.by/DetskieFilmy4/index.m3u8
+#EXTINF:-1 group-title="Persik",Детские песни
+https://fs2.persik.by/DetskiePesni4/index.m3u8
+#EXTINF:-1 group-title="Persik",Sluhay.by COVER HD
+https://fs2.persik.by/Sluhay_COVER2/index.m3u8
+#EXTINF:-1 group-title="Persik",Sluhay.by EDM HD
+https://fs2.persik.by/Sluhay_EDM/index.m3u8
+#EXTINF:-1 group-title="Persik",Sluhay.by LIVE HD
+https://fs2.persik.by/Sluhay_LIVE2/index.m3u8
+#EXTINF:-1 group-title="Persik",Sluhay.by MOVA HD
+https://fs2.persik.by/Sluhay_MOVA2/index.m3u8
+#EXTINF:-1 group-title="Persik",Sluhay.by RADIO HD
+https://fs2.persik.by/Sluhay_RADIO2/index.m3u8
+#EXTINF:-1 group-title="Persik",Sluhay.by RAP HD
+https://fs2.persik.by/Sluhay_RAP/index.m3u8
+#EXTINF:-1 group-title="Persik",Sluhay Rock HD
+https://fs2.persik.by/Sluhay_Rock/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Persik",POP-ROCK HD
+https://fs2.persik.by/Pop_Rock2/index.m3u8
+#EXTINF:-1 group-title="Persik",ТЕХНО
+https://fs2.persik.by/Techno3/index.m3u8
 #EXTINF:-1 group-title="Persik",В Мире Животных
 http://fs2.persik.by/Semejnoe8/index.m3u8
 #EXTINF:-1 group-title="Persik",КОСМОС
@@ -2134,12 +2170,12 @@ https://d2dw21aq0j0l5c.cloudfront.net/playlist_1920x1080.m3u8
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9a087b26-8be4-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips
 #EXTINF:-1 group-title="RELAX" tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2023/01/DLXM_LOUNGE_LOGO.png",Deluxe Lounge HD
 https://stream.ads.ottera.tv/cl/231009cki5o24nsepl2jh7b2eg/1920x1080_5359200_5_f.m3u8
+#EXTINF:-1 group-title="RELAX" tvg-logo="https://i.imgur.com/LMHrQJu.png",Better Life Nature Channel
+https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8
 #EXTINF:-1 group-title="RELAX" tvg-logo="https://avatars.mds.yandex.net/get-pdb/3946622/f25f8a24-de20-4c9e-8f05-98db50810075/orig",WORLD HD
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="RELAX",Nature time
 https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index_1.m3u8
-#EXTINF:-1 group-title="RELAX",Fireplace 4k
-https://jmp2.uk/SamsungTVPlus/USBA3800004EL.m3u8
 #EXTINF:-1 group-title="RELAX",Stingray Naturescape
 https://stream.ads.ottera.tv/cl/240211cn4j7g65sur7fq378vpg/1920x1080_5711200_3_f.m3u8
 #EXTINF:-1 group-title="RELAX" tvg-logo="https://tgtv.ua/images/tgtv_logo.png",Travel Guide TV
