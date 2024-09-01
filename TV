@@ -85,16 +85,6 @@ http://78.62.135.122:8082/tiji/index.m3u8
 http://78.62.135.122:8082/STSKidsHD/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵",МУЛЬТИМАНИЯ
 https://void.greenhosting.ru/Multimania_Mpeg4/video.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Матч Премьер HD
-http://78.62.135.122:8082/MatchPremierHD/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Матч! Боец
-http://87.120.142.11:18000/Match!
-#EXTINF:-1 group-title="TEST ⓵",Матч! АРЕНА
-http://87.120.142.11:18000/Match!Arena
-#EXTINF:-1 group-title="TEST ⓵",Матч! Игра
-http://87.120.142.11:18000/Match!Igra
-#EXTINF:-1 group-title="TEST ⓵",Trace Sport Stars HD
-http://87.120.142.11:18000/Rossiya1
 #EXTINF:-1 group-title="TEST ⓵",Еврокино
 http://87.120.142.11:18000/STSLove
 #EXTINF:-1 group-title="TEST ⓵",Санкт-Петербург
@@ -103,6 +93,32 @@ http://87.120.142.11:18000/5Kanal
 http://87.120.142.11:18000/RossiyaK
 #EXTINF:-1 group-title="TEST ⓵",Моя Планета
 http://87.120.142.11:18000/RENTV
+#EXTINF:-1 group-title="TEST ⓵",Trace Sport Stars HD
+http://87.120.142.11:18000/Rossiya1
+#EXTINF:-1 group-title="TEST ⓵",Матч Премьер HD
+http://78.62.135.122:8082/MatchPremierHD/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Матч! Боец
+http://87.120.142.11:18000/Match!
+#EXTINF:-1 group-title="TEST ⓵",Матч! АРЕНА
+http://87.120.142.11:18000/Match!Arena
+#EXTINF:-1 group-title="TEST ⓵",Матч! Игра
+http://87.120.142.11:18000/Match!Igra
+#EXTINF:-1 group-title="TEST ⓵",МАТЧ HD
+http://65.21.85.175:8000/play/a006/index.m3u8?token=livetv
+#EXTINF:-1 group-title="TEST ⓵",МАТЧ! Футбол 1
+http://65.21.85.175:8000/play/a007/index.m3u8?token=livetv
+#EXTINF:-1 group-title="TEST ⓵",МАТЧ! Футбол 2
+http://65.21.85.175:8000/play/a008/index.m3u8?token=livetv
+#EXTINF:-1 group-title="TEST ⓵",МАТЧ! Футбол 3
+http://65.21.85.175:8000/play/a009/index.m3u8?token=livetv
+#EXTINF:-1 group-title="TEST ⓵",КВН ТВ
+http://65.21.85.175:8000/play/a013/index.m3u8?token=livetv
+#EXTINF:-1 group-title="TEST ⓵",НТВ-Мир
+http://65.21.85.175:8000/play/a016/index.m3u8?token=livetv
+#EXTINF:-1 group-title="TEST ⓵",НТВ Стиль
+http://65.21.85.175:8000/play/a018/index.m3u8?token=livetv
+#EXTINF:-1 group-title="TEST ⓵",Россия 24
+http://65.21.85.175:8000/play/a031/index.m3u8?token=livetv
 #EXTINF:-1 group-title="TEST ⓵" ,CGTN русский
 https://english-livetx.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802_hd.m3u8
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://bem-media.de/wp-content/uploads/Kulinar.png",Кулинар ТВ
