@@ -21,6 +21,10 @@ http://s18209.cdn.ngenix.net/hls/CH_R01_ROSSIA24/playlist.m3u8
 https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 ,НТВ HD
 https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1,Телекомпания НТВ
+http://89.28.160.56/app/004/playlist.m3u8?format=ts
+
 #EXTINF:-1 ,НТВ Хит
 https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 ,НТВ-Право
@@ -135,7 +139,7 @@ https://stream2.cinerama.uz/1057/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Gags Network HD
 https://bkm.beetv.kz/btv/live/hls/000006639.m3u8
 
-#EXTINF:-1 ,Fan
+#EXTINF:-1 ,Fan HD
 http://89.28.160.56/app/096/playlist.m3u8?format=ts
 
 #EXTINF:-1 ,Ералаш
