@@ -133,8 +133,6 @@ http://94.232.104.237:8011/amediahithd/index.m3u8
 
 #EXTINF:-1,Bollywood HD
 https://stream1.cinerama.uz/1444/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Кинопоказ
-https://stream1.cinerama.uz/1057/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 ,Gags Network HD
 https://bkm.beetv.kz/btv/live/hls/000006639.m3u8
@@ -159,16 +157,10 @@ http://188.190.222.48:8765/Dushevnoe_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Вокзал-Инфоком (VPN)",Победа
 http://iptv.mega.net.ru:8888/Pobeda/mono.m3u8
-#EXTINF:-1 group-title="Вокзал-Инфоком (VPN)",Кинеко
-http://iptv.mega.net.ru:8888/FOX/mono.m3u8
-#EXTINF:-1 group-title="Вокзал-Инфоком (VPN)",SCI-FI
-http://iptv.mega.net.ru:8888/Sony_Sci_Fi/mono.m3u8
 #EXTINF:-1 group-title="Вокзал-Инфоком (VPN)",Шокирующее
 http://iptv.mega.net.ru:8888/Kinopokaz_HD_1/mono.m3u8
 #EXTINF:-1 group-title="Вокзал-Инфоком (VPN)",Комедийное
 http://iptv.mega.net.ru:8888/Kinopokaz_HD_2/mono.m3u8
-#EXTINF:-1 group-title="Вокзал-Инфоком (VPN)",Турецкие сериалы. Timeless DIZI Channel
-http://iptv.mega.net.ru:8888/ACB_TV/mono.m3u8
 #EXTINF:-1 group-title="Вокзал-Инфоком (VPN)",Filmbox Arthouse
 http://iptv.mega.net.ru:8888/FilmBOX_Arthouse/mono.m3u8
 #EXTINF:-1 group-title="Вокзал-Инфоком (VPN)",Plan B
@@ -252,11 +244,6 @@ http://91.142.158.107:8092/play/29/index.m3u8
 
 #EXTINF:-1 ,Cinema
 http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 ,black
-http://78.62.135.122:8082/sonyturbo/index.m3u8
-#EXTINF:-1 ,Иллюзион+ HD
-http://94.232.104.237:8011/illuzionplus/index.m3u8
 
 #EXTINF:-1 ,Fantastica HD
 http://195.9.195.3:8080/hls/187241.m3u8
