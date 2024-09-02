@@ -174,28 +174,67 @@ http://iptv.mega.net.ru:8888/FilmBOX_Arthouse/mono.m3u8
 #EXTINF:-1 group-title="Вокзал-Инфоком (VPN)",Plan B
 http://iptv.mega.net.ru:8888/plan_b_hd/mono.m3u8
 
-#EXTINF:-1 ,Индийское Кино
-https://stream1.cinerama.uz/1060/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Кинокомедия HD
-http://94.232.104.237:8011/komediyatv/index.m3u8
-#EXTINF:-1 ,КИНОУЖАС
-http://94.232.104.237:8011/kinohithd/index.m3u8
-#EXTINF:-1 ,Киномикс
-https://stream1.cinerama.uz/1233/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Родное кино
-https://stream1.cinerama.uz/1052/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Кинопремьера HD
-https://stream1.cinerama.uz/1207/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Киносвидание
-https://stream1.cinerama.uz/1203/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Наше новое кино
-http://178.212.71.253:8002/play/a00i/index.m3u8
-#EXTINF:-1 ,Киносемья
-https://stream1.cinerama.uz/1234/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Киносерия
-https://stream1.cinerama.uz/1235/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Кинохит
-https://stream1.cinerama.uz/1055/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Lime (VPN)", Кинопремьера HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd116.iptv2022.com/p/PW-6wkju52qfZLYlsu81iw,1725354007/streaming/film-premiere/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN)", Киносемья
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd116.iptv2022.com/p/C-jW-UlBGGaEgQgN5UF_HQ,1725354007/streaming/film-families/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN)", Киносвидание
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd116.iptv2022.com/p/t5NwjSjp41P5skCfUk_ZCw,1725354007/streaming/film-watching/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN)", Кинохит
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd116.iptv2022.com/p/SrdciKk3igrKrfsiOR34Qg,1725354007/streaming/film-hit/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN)", Мужское кино
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd116.iptv2022.com/p/pUQw_STz_LxqkwDgIYj5Sg,1725354007/streaming/male-movie/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN)", Киноужас
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd116.iptv2022.com/p/SoGWv5nD1PMRulLeMhFiQg,1725354007/streaming/kinoujas/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN)", Индийское кино
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd116.iptv2022.com/p/szY1N3JHpcf4rv6_33uclA,1725354008/streaming/india/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN)", Киносерия
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd116.iptv2022.com/p/_GU0D4J_l52Yv9HYA2zPmg,1725354008/streaming/kinoseria/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN)", Родное кино
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd116.iptv2022.com/p/kyIFDfNqt2tIMJuwhUA7Eg,1725354008/streaming/rodnoe/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN)", Киномикс
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd116.iptv2022.com/p/cQ8lKj2UZZyBXlv4pfOtIw,1725354008/streaming/kinomix/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN)", Наше новое кино
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd116.iptv2022.com/p/5n90bGw273KfFbFL8-wJzA,1725354008/streaming/nashe_n_kino/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN)", КиноСезон
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd116.iptv2022.com/p/fT2z7qzMrz2LJ-RRFxR3eg,1725354008/streaming/kinosezon/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN)", Блокбастер
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd116.iptv2022.com/p/HFXyk-XC35w1wskR73u_Bg,1725354008/streaming/blokbaster/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN)", Про любовь
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd116.iptv2022.com/p/8OT1jdLOeGtf3UuIC18NSA,1725354008/streaming/prolubov/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN)", Наше мужское
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd116.iptv2022.com/p/PJ1DXbW2X6cukncv8NJlmA,1725354008/streaming/nashemuzskoe/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN)", Хит HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd116.iptv2022.com/p/yoRJy9LFPCD9FSzjiaFDZw,1725354008/streaming/hit/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN)", Наш кинопоказ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd116.iptv2022.com/p/XmrI_faW9E95qQFNqAv3bw,1725354008/streaming/nashpokaz/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN)", Камеди
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd116.iptv2022.com/p/-zhssne9ZL40DSV-0wqO7Q,1725354008/streaming/kamedi/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN)", Индия
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd116.iptv2022.com/p/qmwQFEvaw8eFVOdENpfHcw,1725354008/streaming/zeetv/324/1/index.m3u8
+
+
+
 #EXTINF:-1 ,Комедия
 http://91.142.158.107:8092/play/30/index.m3u8
 #EXTINF:-1 ,НСТ
