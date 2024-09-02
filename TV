@@ -49,16 +49,6 @@ https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD_ad.smil/
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000East_HD_ad.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=CrCcCdA5cLV9LylG9_xqpg&e=1726111945&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 group-title="TEST ⓵",viju TV1000 новелла
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Novella_HD.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=SesnLH1xX6goyqSRzuy5sA&e=1726111870&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
-#EXTINF:-1 group-title="TEST ⓵" ,Viasat Kino HD
-http://cdnua03.hls.tv/524/hls/241d2b231fb8c4ecd01710e520cbd29e/311/stream.m3u8
-#EXTINF:-1 group-title="TEST ⓵" ,Viasat Kino Action HD
-http://cdnua03.hls.tv/524/hls/241d2b231fb8c4ecd01710e520cbd29e/308/stream.m3u8
-#EXTINF:-1 group-title="TEST ⓵" ,Viasat Kino Comedy HD
-http://cdnua03.hls.tv/524/hls/241d2b231fb8c4ecd01710e520cbd29e/309/stream.m3u8
-#EXTINF:-1 group-title="TEST ⓵" ,Viasat Kino Megahit HD
-http://cdnua03.hls.tv/524/hls/241d2b231fb8c4ecd01710e520cbd29e/3981/stream.m3u8
-#EXTINF:-1 group-title="TEST ⓵" ,Viasat Kino World
-http://cdnua03.hls.tv/524/hls/241d2b231fb8c4ecd01710e520cbd29e/4816/stream.m3u8
 #EXTINF:-1 group-title="TEST ⓵",VIP Premiere HD
 rtmp://185.26.157.3/live//vip_premiere_hd
 #EXTINF:-1 group-title="TEST ⓵",Мир сериала
