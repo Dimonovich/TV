@@ -5528,8 +5528,6 @@ http://flu.ttk.mx:90/RBC/mono.m3u8?token=hs06e
 http://flu.ttk.mx:90/TV1000/mono.m3u8?token=hs06e
 #EXTINF:-1 group-title="Свифт Трейс (VPN)",TV1000 Action
 http://flu.ttk.mx:90/TV1000_Action/mono.m3u8?token=hs06e
-#EXTINF:-1 group-title="Свифт Трейс (VPN)",TV1000
-http://flu.ttk.mx:90/TV1000/mono.m3u8?token=hs06e
 #EXTINF:-1 group-title="Свифт Трейс (VPN)",TV21
 http://flu.ttk.mx:90/TV21/mono.m3u8?token=hs06e
 #EXTINF:-1 group-title="Свифт Трейс (VPN)",ТВЦ
@@ -5841,8 +5839,6 @@ http://92.53.64.197:5050/dubai_sports_2hd/video.m3u8?token=m3VIth-Rou_bM1
 http://94.230.128.105:8080/HTB/index.m3u8
 #EXTINF:-1 group-title="К Телеком (VPN)" ,ТНТ
 http://94.230.128.105:8080/THT/index.m3u8
-#EXTINF:-1 group-title="К Телеком (VPN)",Техно 24
-http://185.112.140.28/24_Tehno/index.m3u8
 #EXTINF:-1 group-title="К Телеком (VPN)" ,Galaxy TV
 http://94.230.128.105:8080//Galaxy_TV/index.m3u8
 #EXTINF:-1 group-title="К Телеком (VPN)" ,ЗАГОРОДНАЯ ЖИЗНЬ
