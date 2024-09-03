@@ -85,6 +85,11 @@ https://tochkatv-live.cdnvideo.ru/tochkatv_pub/tainatv.stream_aac2.smil/playlist
 #EXTINF:-1 ,Большая Азия
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="Оберон Плюс (VPN)",Охотник и рыболов
+http://hls.seversk.ru:8080/play/a019/index.m3u8
+#EXTINF:-1 group-title="Оберон Плюс (VPN)",Первый Космический
+http://hls.seversk.ru:8080/play/a01a/index.m3u8
+
 #EXTINF:-1 ,История
 http://iptv.mega.net.ru:8888/Istoria/mono.m3u8
 #EXTINF:-1 ,Animal Planet
@@ -339,8 +344,7 @@ http://194.26.229.213/chdtv_ru_rock/index.m3u8
 http://194.26.229.213/chdtv_rock/index.m3u8
 
 
-
-#EXTINF:-1 ,Bridge TV Rock
+#EXTINF:-1 ,BRIDGE ROCK
 http://hls.seversk.ru:8080/play/a012/index.m3u8
 
 #EXTINF:-1 ,BRIDGE TV
