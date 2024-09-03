@@ -968,8 +968,6 @@ http://195.211.27.149:8887/8368/index.m3u8?token=test
 http://195.211.27.149:8887/8367/index.m3u8?token=test
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Удар HD
 http://195.211.27.149:8887/8319/index.m3u8?token=test
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Viasat Sport
-http://195.211.27.149:8887/8015/index.m3u8?token=test
 #EXTINF:-1 group-title="Спорткомплекс 🏆",NBA TV HD
 http://195.211.27.149:8887/8061/index.m3u8?token=test
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Eurosport 1 HD
@@ -4941,11 +4939,11 @@ http://194.143.148.28:8080/RBK/mpegts
 http://194.143.148.28:8080/Disney/mpegts
 #EXTINF:-1 group-title="Байкал-Телеком (VPN)",Шансон ТВ
 http://194.143.148.28:8080/ShansonTV/mpegts
-#EXTINF:-1 group-title="Байкал-Телеком (VPN)",Матч! Арена
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Арена
 http://194.143.148.28:8080/MatchArena/mpegts
-#EXTINF:-1 group-title="Байкал-Телеком (VPN)",МАТЧ! Футбол 1
+#EXTINF:-1 group-title="Спорткомплекс 🏆",МАТЧ! Футбол 1
 http://194.143.148.28:8080/MatchFutbol1/mpegts
-#EXTINF:-1 group-title="Байкал-Телеком (VPN)",KHL Prime
+#EXTINF:-1 group-title="Спорткомплекс 🏆",KHL Prime
 http://194.143.148.28:8080/KHL_HD/mpegts
 
 
@@ -5054,9 +5052,9 @@ http://185.112.140.28:80/Mult/index.m3u8
 http://185.112.140.28:80/STS_Kids/index.m3u8
 #EXTINF:-1 group-title="Трител-Крым (VPN)",Солнце
 http://185.112.140.28:80/Disney/index.m3u8
-#EXTINF:-1 group-title="Трител-Крым (VPN)",Viasat sport
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Viasat sport
 http://185.112.140.28:80/Viasatsport/index.m3u8
-#EXTINF:-1 group-title="Трител-Крым (VPN)",Матч ТВ HD
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч ТВ HD
 http://185.112.140.28:80/Match_TV_HD/index.m3u8
 
 
@@ -5564,19 +5562,19 @@ http://flu.ttk.mx:90/Ani/mono.m3u8?token=hs06e
 http://flu.ttk.mx:90/Detskiy/mono.m3u8?token=hs06e
 #EXTINF:-1 group-title="Свифт Трейс (VPN)",Солнце
 http://flu.ttk.mx:90/Disney/mono.m3u8?token=hs06e
-#EXTINF:-1 group-title="Свифт Трейс (VPN)",Viasat Sport
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Viasat Sport
 http://flu.ttk.mx:90/Viasat_Sport/mono.m3u8?token=hs06e
-#EXTINF:-1 group-title="Свифт Трейс (VPN)",Матч ТВ HD
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч ТВ HD
 http://flu.ttk.mx:90/Match_HD/mono.m3u8?token=hs06e
-#EXTINF:-1 group-title="Свифт Трейс (VPN)",Матч ТВ
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч ТВ
 http://flu.ttk.mx:90/MatchTV/mono.m3u8?token=hs06e
-#EXTINF:-1 group-title="Свифт Трейс (VPN)",Матч! Страна
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Страна
 http://flu.ttk.mx:90/Strana/mono.m3u8?token=hs06e
-#EXTINF:-1 group-title="Свифт Трейс (VPN)",Матч! Арена
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Арена
 http://flu.ttk.mx:90/Arena/mono.m3u8?token=hs06e
-#EXTINF:-1 group-title="Свифт Трейс (VPN)",Футбол
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Футбол
 http://flu.ttk.mx:90/Futbol/mono.m3u8?token=hs06e
-#EXTINF:-1 group-title="Свифт Трейс (VPN)",Матч! Боец
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Боец
 http://flu.ttk.mx:90/Boets/mono.m3u8?token=hs06e
 
 
@@ -5657,15 +5655,15 @@ http://135.181.115.81:8000/play/a01d/index.m3u8?token=livetv
 http://135.181.115.81:8000/play/a001/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Hetzner Online AG (VPN)",MTV AZ
 http://135.181.115.81:8000/play/a01u/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Hetzner Online AG (VPN)",A spor
+#EXTINF:-1 group-title="Спорткомплекс 🏆",A spor
 http://135.181.115.81:8000/play/a00s/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Hetzner Online AG (VPN)",Футбол
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Футбол
 http://135.181.115.81:8000/play/a00o/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Hetzner Online AG (VPN)",Viasat Sport
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Viasat Sport
 http://135.181.115.81:8000/play/a00f/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Hetzner Online AG (VPN)",Матч! Планета
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Планета
 http://135.181.115.81:8000/play/a006/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Hetzner Online AG (VPN)",Eurosport 1
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Eurosport 1
 http://135.181.115.81:8000/play/a01e/index.m3u8?token=livetv
 
 
@@ -5814,21 +5812,21 @@ http://92.53.64.197:5050/mult/video.m3u8?token=m3VIth-Rou_bM1
 http://92.53.64.197:5050/smaylik_tv/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 group-title="Селектел (VPN)" ,Солнце
 http://92.53.64.197:5050/sonce/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел (VPN)" ,Матч ТВ
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч ТВ
 http://92.53.64.197:5050/match_tv/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел (VPN)" ,Матч ТВ HD
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч ТВ HD
 http://92.53.64.197:5050/match_tv_hd/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел (VPN)" ,Футбол
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Футбол
 http://92.53.64.197:5050/football/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел (VPN)" ,Старт
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Старт
 http://92.53.64.197:5050/start/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел (VPN)" ,Старт Триумф
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Старт Триумф
 http://92.53.64.197:5050/start_triumf_hd/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел (VPN)" ,УДАР
+#EXTINF:-1 group-title="Спорткомплекс 🏆",УДАР
 http://92.53.64.197:5050/udar_hd/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел (VPN)" ,Red Bull TV
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Red Bull TV
 http://92.53.64.197:5050/okko_sport_hd/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел (VPN)" ,Dubai Sport
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Dubai Sport
 http://92.53.64.197:5050/dubai_sports_2hd/video.m3u8?token=m3VIth-Rou_bM1
 
 
@@ -5883,7 +5881,7 @@ http://94.230.128.105:8080/Mult_HD/index.m3u8
 http://94.230.128.105:8080/RU.TV/index.m3u8
 #EXTINF:-1 group-title="К Телеком (VPN)" ,Russian music box
 http://94.230.128.105:8080/MUSIC/index.m3u8
-#EXTINF:-1 group-title="К Телеком (VPN)" ,Extreme sports
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Extreme sports
 http://94.230.128.105:8080/extreme_sport/index.m3u8
 
 
@@ -5947,7 +5945,7 @@ http://91.142.158.107:8092/play/23/index.m3u8
 http://91.142.158.107:8092/play/8/index.m3u8
 #EXTINF:-1 group-title="Теледайн системс лимитед (VPN)",Мультимузыка
 http://91.142.158.107:8092/play/24/index.m3u8
-#EXTINF:-1 group-title="Теледайн системс лимитед (VPN)",Матч ТВ
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч ТВ
 http://91.142.158.107:8092/play/3/index.m3u8
 
 
