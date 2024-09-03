@@ -8796,44 +8796,22 @@ http://31.210.208.171:8080/start/index.m3u8?token=+W2MSER
 
 #EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)" catchup="append" catchup-days="7" catchup-source="?start=${start}&end=${end}",ТВ 3 Беларусь
 https://strm.yandex.ru/kal/tv3_belarus/tv3_belarus0.m3u8
-#EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)" catchup="append" catchup-days="7" catchup-source="?start=${start}&end=${end}",МИР 24
-https://strm.yandex.ru/kal/mir24/mir240.m3u8
-#EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)" catchup="append" catchup-days="7" catchup-source="?start=${start}&end=${end}",НТВ Хит
-https://strm.yandex.ru/kal/ntv_hit/ntv_hit0.m3u8
-#EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)" catchup="append" catchup-days="7" catchup-source="?start=${start}&end=${end}",НТВ Право
-https://strm.yandex.ru/kal/ntv_pravo_new/ntv_pravo_new0.m3u8
-#EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)" catchup="append" catchup-days="7" catchup-source="?start=${start}&end=${end}",Неизвестная россия HD
-http://strm.yandex.ru/kal/neizvestnaia_rossia/neizvestnaia_rossia0.m3u8
 #EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)" catchup="append" catchup-days="7" catchup-source="?start=${start}&end=${end}",Наша Сибирь
 https://strm.yandex.ru/kal/sibir/sibir0.m3u8
-#EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)" catchup="append" catchup-days="7" catchup-source="?start=${start}&end=${end}",360 Новости
-https://strm.yandex.ru/kal/360news/360news0.m3u8
 #EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)" catchup="append" catchup-days="7" catchup-source="?start=${start}&end=${end}",360°
 https://strm.yandex.ru/kal/360tv/360tv0.m3u8
-#EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)" catchup="append" catchup-days="7" catchup-source="?start=${start}&end=${end}",Baby Time
-http://strm.yandex.ru/kal/baby_time/baby_time0.m3u8
 #EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)" catchup="append" catchup-days="7" catchup-source="?start=${start}&end=${end}",Tiji
 https://strm.yandex.ru/kal/tiji_belarus/tiji_belarus0.m3u8
-#EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)" catchup="append" catchup-days="7" catchup-source="?start=${start}&end=${end}",BRIDGE TV Русский Хит
-https://strm.yandex.ru/kal/bridgetv_russkiyhit/bridgetv_russkiyhit0.m3u8
-#EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)" catchup="append" catchup-days="7" catchup-source="?start=${start}&end=${end}",Bridge TV Шлягер
-https://strm.yandex.ru/kal/bridgetv_shlyager/bridgetv_shlyager0.m3u8
-#EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)" catchup="append" catchup-days="7" catchup-source="?start=${start}&end=${end}",ТНТ Music
-https://strm.yandex.ru/kal/tntmusic/tntmusic0.m3u8
-#EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)" catchup="append" catchup-days="7" catchup-source="?start=${start}&end=${end}",Russian MusicBox
-https://strm.yandex.ru/kal/rmbox/rmbox0.m3u8
-#EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)" catchup="append" catchup-days="7" catchup-source="?start=${start}&end=${end}" group-title="Спорткомплекс 🏆",KHL
-https://strm.yandex.ru/kal/khl_belarus/khl_belarus0.m3u8
-#EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)" catchup="append" catchup-days="7" catchup-source="?start=${start}&end=${end}" group-title="Спорткомплекс 🏆",KHL Prime
-https://strm.yandex.ru/kal/khl_prime_belarus/khl_prime_belarus0.m3u8
-#EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)" catchup="append" catchup-days="7" catchup-source="?start=${start}&end=${end}" group-title="Спорткомплекс 🏆",Старт Триумф
-https://strm.yandex.ru/kal/start_triumf/start_triumf0.m3u8
 #EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)" catchup="append" catchup-days="7" catchup-source="?start=${start}&end=${end}" group-title="Спорткомплекс 🏆",Удар
 https://strm.yandex.ru/kal/udar/udar0.m3u8
 #EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)" catchup="append" catchup-days="7" catchup-source="?start=${start}&end=${end}" group-title="Спорткомплекс 🏆",Матч! Планета
 https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
 #EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)" catchup="append" catchup-days="7" catchup-source="?start=${start}&end=${end}" group-title="Спорткомплекс 🏆",Футбол
 https://strm.yandex.ru/kal/futbol_belarus/futbol_belarus0.m3u8
+#EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)" catchup="append" catchup-days="7" catchup-source="?start=${start}&end=${end}" group-title="Спорткомплекс 🏆",KHL
+https://strm.yandex.ru/kal/khl_belarus/khl_belarus0.m3u8
+#EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)" catchup="append" catchup-days="7" catchup-source="?start=${start}&end=${end}" group-title="Спорткомплекс 🏆",KHL Prime
+https://strm.yandex.ru/kal/khl_prime_belarus/khl_prime_belarus0.m3u8
 
 
 
