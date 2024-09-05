@@ -55,8 +55,6 @@ http://iptv.mega.net.ru:8888/Moa_Planeta/mono.m3u8
 https://bkm.beetv.kz/btv/live/hls/000000277.m3u8
 #EXTINF:-1 ,Наша Сибирь
 https://strm.yandex.ru/kal/sibir/sibir0.m3u8
-#EXTINF:-1 ,Живая природа
-http://178.212.71.253:8002/play/a00o/index.m3u8
 #EXTINF:-1,Home 4K
 http://hls3.ttv2.space:80/home_hd/tracks-v1a1/mono.m3u8
 
@@ -71,7 +69,7 @@ https://bkm.beetv.kz/btv/live/hls/000004610.m3u8
 #EXTINF:-1 ,Дикая охота HD
 https://bkm.beetv.kz/btv/live/hls/000004609.m3u8
 #EXTINF:-1 ,Ocean-TV
-http://146.158.0.56:80/OceanTV/index.m3u8
+http://iptv.mega.net.ru:8888/Ocean_TV/mono.m3u8
 
 #EXTINF:-1 ,Телепутешествия
 http://195.211.27.149:8887/8182/index.m3u8?token=test
