@@ -87,14 +87,6 @@ https://cdn1.webcams.bg:8080/hls/hotel_rodopi.m3u8
 https://cdn1.webcams.bg:8080/hls/bracigovo_church.m3u8
 #EXTINF:-1 group-title="Болгария 🇧🇬",Болгария 7
 http://cams.pamporovo.me:1935/live/camera1.stream_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Болгария 🇧🇬",Болгария 8
-http://cams.pamporovo.me:1935/live/camera3.stream_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Бельгия 🇧🇪",Бельгия 1
-http://stream.brucity.be/BXLCAM/CAM-DeBrouckere.stream/playlist.m3u8
-#EXTINF:-1 group-title="Бельгия 🇧🇪",Бельгия 2
-http://stream.brucity.be/BXLCAM/CAM-GrandePlace.stream/playlist.m3u8
-#EXTINF:-1 group-title="Бельгия 🇧🇪",Бельгия 3
-https://stream.agfa.be/hls/live.stream.m3u8
 #EXTINF:-1 group-title="Бразилия 🇧🇷",Sao Vicente
 http://5a8d73edc0407.streamlock.net:1935/lopesip/lopesip02.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Бразилия 🇧🇷",Surf
