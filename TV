@@ -3003,7 +3003,7 @@ https://tvsamaragis.tk/new/new/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="NewLine (VPN)",Первый канал HD
 http://tv.newline.in.ua:9009/play/a00g
-#EXTINF:-1 group-title="NewLine (VPN)",Первый канал HD (+4)
+#EXTINF:-1 group-title="NewLine (VPN)",Первый канал HD +4
 http://tv.newline.in.ua:9021/play/b00l
 #EXTINF:-1 group-title="NewLine (VPN)",Первый канал
 http://tv.newline.in.ua:9014/play/t014
@@ -3025,9 +3025,9 @@ http://tv.newline.in.ua:9021/play/b00m
 http://tv.newline.in.ua:9008/play/a012
 #EXTINF:-1 group-title="NewLine (VPN)",РЕН ТВ
 http://tv.newline.in.ua:9011/play/p00a
-#EXTINF:-1 group-title="NewLine (VPN)",РЕН (+2)
+#EXTINF:-1 group-title="NewLine (VPN)",РЕН ТВ (+2)
 http://tv.newline.in.ua:9009/play/a007
-#EXTINF:-1 group-title="NewLine (VPN)",РЕН (+4)
+#EXTINF:-1 group-title="NewLine (VPN)",Рен ТВ +4
 http://tv.newline.in.ua:9003/play/h00u
 #EXTINF:-1 group-title="NewLine (VPN)",ТНТ
 http://tv.newline.in.ua:9011/play/p00d
@@ -3041,7 +3041,7 @@ http://tv.newline.in.ua:9005/play/a00b
 http://tv.newline.in.ua:9013/play/s00e
 #EXTINF:-1 group-title="NewLine (VPN)",ТНТ4
 http://tv.newline.in.ua:9021/play/b00r
-#EXTINF:-1 group-title="NewLine (VPN)",HTB HD
+#EXTINF:-1 group-title="NewLine (VPN)",НТВ HD
 http://tv.newline.in.ua:9019/play/y02q
 #EXTINF:-1 group-title="NewLine (VPN)",НТВ
 http://tv.newline.in.ua:9014/play/t003
@@ -3057,13 +3057,13 @@ http://tv.newline.in.ua:9004/play/a09s
 http://tv.newline.in.ua:9004/play/a09z
 #EXTINF:-1 group-title="NewLine (VPN)",НТВ-ХИТ
 http://tv.newline.in.ua:9004/play/a09w
-#EXTINF:-1 group-title="NewLine (VPN)",THT4
+#EXTINF:-1 group-title="NewLine (VPN)",ТНТ4
 http://tv.newline.in.ua:9001/play/e02y
 #EXTINF:-1 group-title="NewLine (VPN)",Curiosity Stream
 http://tv.newline.in.ua:9017/play/w01x
 #EXTINF:-1 group-title="NewLine (VPN)",HD Life
 http://tv.newline.in.ua:9018/play/x021
-#EXTINF:-1 group-title="NewLine (VPN)",Investigation Discovery  HD
+#EXTINF:-1 group-title="NewLine (VPN)",Investigation Discovery HD
 http://tv.newline.in.ua:9023/play/d02l
 #EXTINF:-1 group-title="NewLine (VPN)",Nat Geo Wild
 http://tv.newline.in.ua:9010/play/o0bn
@@ -3181,7 +3181,7 @@ http://tv.newline.in.ua:9010/play/o0bi
 http://tv.newline.in.ua:9017/play/w01f
 #EXTINF:-1 group-title="NewLine (VPN)",Fox Life
 http://tv.newline.in.ua:9005/play/a0c6
-#EXTINF:-1 group-title="NewLine (VPN)",Gagsnetwork
+#EXTINF:-1 group-title="NewLine (VPN)",Gags network
 http://tv.newline.in.ua:9009/play/a00c
 #EXTINF:-1 group-title="NewLine (VPN)",Hollywood
 http://tv.newline.in.ua:9005/play/a0cv
@@ -3197,8 +3197,6 @@ http://tv.newline.in.ua:9010/play/o0ba
 http://tv.newline.in.ua:9010/play/o0bb
 #EXTINF:-1 group-title="NewLine (VPN)",TV XXI
 http://tv.newline.in.ua:9008/play/a00j
-#EXTINF:-1 group-title="NewLine (VPN)",ULTRA REX
-http://tv.newline.in.ua:8001/play/e010
 #EXTINF:-1 group-title="NewLine (VPN)",SHOT TV
 http://tv.newline.in.ua:9000/play/f08m
 #EXTINF:-1 group-title="NewLine (VPN)",Star Cinema
@@ -3209,12 +3207,10 @@ http://tv.newline.in.ua:9007/play/f01q
 http://tv.newline.in.ua:9004/play/a09x
 #EXTINF:-1 group-title="NewLine (VPN)",Start World
 http://tv.newline.in.ua:9004/play/a0a0
-#EXTINF:-1 group-title="NewLine (VPN)",Timeless Dizi
+#EXTINF:-1 group-title="NewLine (VPN)",Timeless Dizi Channel
 http://tv.newline.in.ua:9009/play/a00s
 #EXTINF:-1 group-title="NewLine (VPN)",TLC
 http://tv.newline.in.ua:9023/play/d02o
-#EXTINF:-1 group-title="NewLine (VPN)",TORRE RICCA
-http://tv.newline.in.ua:9002/play/g00b
 #EXTINF:-1 group-title="NewLine (VPN)",VIP Comedy
 http://tv.newline.in.ua:9017/play/w01g
 #EXTINF:-1 group-title="NewLine (VPN)",VIP Megahit
@@ -3233,10 +3229,8 @@ http://tv.newline.in.ua:9000/play/f083
 http://tv.newline.in.ua:9001/play/e02m
 #EXTINF:-1 group-title="NewLine (VPN)",БСТ
 http://tv.newline.in.ua:9007/play/f02f
-#EXTINF:-1 group-title="NewLine (VPN)",Ваш Успех
+#EXTINF:-1 group-title="NewLine (VPN)",Успех
 http://tv.newline.in.ua:9009/play/a006
-#EXTINF:-1 group-title="NewLine (VPN)",Витрина ТВ
-http://tv.newline.in.ua:9002/play/g00q
 #EXTINF:-1 group-title="NewLine (VPN)",Восток ТВ
 http://tv.newline.in.ua:9021/play/b00p
 #EXTINF:-1 group-title="NewLine (VPN)",Время
@@ -3253,9 +3247,9 @@ http://tv.newline.in.ua:9016/play/v01z
 http://tv.newline.in.ua:9010/play/o0bj
 #EXTINF:-1 group-title="NewLine (VPN)",Домашний
 http://tv.newline.in.ua:9002/play/g00f
-#EXTINF:-1 group-title="NewLine (VPN)",Домашний (+2)
+#EXTINF:-1 group-title="NewLine (VPN)",Домашний +2
 http://tv.newline.in.ua:9012/play/r00g
-#EXTINF:-1 group-title="NewLine (VPN)",Домашний (+4)
+#EXTINF:-1 group-title="NewLine (VPN)",Домашний +4
 http://tv.newline.in.ua:9003/play/h00w
 #EXTINF:-1 group-title="NewLine (VPN)",Дорама
 http://tv.newline.in.ua:9004/play/a0ae
@@ -3309,9 +3303,11 @@ http://tv.newline.in.ua:9018/play/x01v
 http://tv.newline.in.ua:9000/play/f087
 #EXTINF:-1 group-title="NewLine (VPN)",Киносемья HD
 http://tv.newline.in.ua:9012/play/r00q
+#EXTINF:-1 group-title="NewLine (VPN)",Родное Кино
+http://tv.newline.in.ua:9007/play/f029
 #EXTINF:-1 group-title="NewLine (VPN)",КИНОСЕРИЯ
 http://tv.newline.in.ua:9000/play/f002
-#EXTINF:-1 group-title="NewLine (VPN)",КиноужасHD
+#EXTINF:-1 group-title="NewLine (VPN)",Киноужас HD
 http://tv.newline.in.ua:8001/play/e00b
 #EXTINF:-1 group-title="NewLine (VPN)",Кинохит HD
 http://tv.newline.in.ua:9007/play/f023
@@ -3379,7 +3375,7 @@ http://tv.newline.in.ua:8001/play/e012
 http://tv.newline.in.ua:9009/play/a005
 #EXTINF:-1 group-title="NewLine (VPN)",ОТР
 http://tv.newline.in.ua:9014/play/t004
-#EXTINF:-1 group-title="NewLine (VPN)",ПOЕХАЛИ!
+#EXTINF:-1 group-title="NewLine (VPN)",Поехали!
 http://tv.newline.in.ua:9005/play/a0c5
 #EXTINF:-1 group-title="NewLine (VPN)",Первый Вегетариански
 http://tv.newline.in.ua:9013/play/s00q
@@ -3395,8 +3391,6 @@ http://tv.newline.in.ua:9009/play/a00d
 http://tv.newline.in.ua:9015/play/3232
 #EXTINF:-1 group-title="NewLine (VPN)",Пятый канал +2
 http://tv.newline.in.ua:9005/play/a00g
-#EXTINF:-1 group-title="NewLine (VPN)",Родное Кино
-http://tv.newline.in.ua:9007/play/f029
 #EXTINF:-1 group-title="NewLine (VPN)",Русский бестселлер
 http://tv.newline.in.ua:9004/play/a0a5
 #EXTINF:-1 group-title="NewLine (VPN)",Русский детектив
@@ -3451,7 +3445,7 @@ http://tv.newline.in.ua:9002/play/g00p
 http://tv.newline.in.ua:9014/play/t005
 #EXTINF:-1 group-title="NewLine (VPN)",ТВЦ +2
 http://tv.newline.in.ua:9005/play/a00a
-#EXTINF:-1 group-title="NewLine (VPN)",Телеканал 2x2
+#EXTINF:-1 group-title="NewLine (VPN)",2x2
 http://tv.newline.in.ua:9002/play/a00s
 #EXTINF:-1 group-title="NewLine (VPN)",Телеканал 360
 http://tv.newline.in.ua:9006/play/a00h
@@ -3507,8 +3501,6 @@ http://tv.newline.in.ua:9007/play/f022
 http://tv.newline.in.ua:9001/play/e030
 #EXTINF:-1 group-title="NewLine (VPN)",Bridge TV шлягер
 http://tv.newline.in.ua:8000/play/a00s
-#EXTINF:-1 group-title="NewLine (VPN)",C Music
-http://tv.newline.in.ua:9008/play/a00w
 #EXTINF:-1 group-title="NewLine (VPN)",Classic Music
 http://tv.newline.in.ua:9003/play/h00e
 #EXTINF:-1 group-title="NewLine (VPN)",iConcerts HD
@@ -3543,7 +3535,7 @@ http://tv.newline.in.ua:9012/play/r00t
 http://tv.newline.in.ua:9004/play/a0a9
 #EXTINF:-1 group-title="NewLine (VPN)",БОБЁР
 http://tv.newline.in.ua:9005/play/a0ci
-#EXTINF:-1 group-title="NewLine (VPN)",O!
+#EXTINF:-1 group-title="NewLine (VPN)",О!
 http://tv.newline.in.ua:9005/play/a0c8
 #EXTINF:-1 group-title="NewLine (VPN)",Gulli Girl
 http://tv.newline.in.ua:9001/play/e02x
@@ -3555,7 +3547,7 @@ http://tv.newline.in.ua:9007/play/f021
 http://tv.newline.in.ua:9001/play/e00h
 #EXTINF:-1 group-title="NewLine (VPN)",Ani
 http://tv.newline.in.ua:9004/play/a09v
-#EXTINF:-1 group-title="NewLine (VPN)",CTC Kids HD
+#EXTINF:-1 group-title="NewLine (VPN)",СТС Kids
 http://tv.newline.in.ua:9016/play/v01w
 #EXTINF:-1 group-title="NewLine (VPN)",TiJi
 http://tv.newline.in.ua:9001/play/e038
