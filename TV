@@ -583,52 +583,21 @@ http://65.21.85.175:8000/play/a00c/index.m3u8?token=livetv
 
 
 
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",Триллеры-Драма
-http://fs2.persik.by/Trillery_Drama3/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",Триллеры-Боевики
-http://fs2.persik.by/Trillery_Boeviki3/index.m3u8
+
 #EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",Психологические ужасы
 http://fs2.persik.by/Psihologicheskie_uzhasy5/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",Американские комедии
-https://fs2.persik.by/Amerikanskie_Komedii_11/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",Маньяки
-http://fs2.persik.by/Manjaki5/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",Relax HD
-https://fs2.persik.by/Relax3/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",Вторая мировая
-http://fs2.persik.by/Vtoraja_Mirovaja_6/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",Советские комедии
-http://fs2.persik.by/Soviet_Comedy9/index.m3u8
 #EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",Новогодние фильмы
 http://fs2.persik.by/Novogodnie_Filmy_7/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",Рождественские фильмы
-http://fs2.persik.by/Rozhdestvenskie_filmy4/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",Кино про дружбу
-http://fs2.persik.by/Pro_druzhbu6/index.m3u8
 #EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",Семейные фильмы
 http://fs2.persik.by/Semejnie_Filmy6/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",МОЛОДОСТЬ
-http://fs2.persik.by/Molodost6/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",БОЕВИКИ
-http://fs2.persik.by/Boeviki_11/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",Кино + Subtitles
-http://fs2.persik.by/Kino_Subtitry_8/index.m3u8
 #EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",Английские субтитры
 http://fs2.persik.by/Angliyskie_subtitry5/index.m3u8
 #EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",ДРУЖБА
 http://fs2.persik.by/Druzhba7/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",Best clips HD
-https://fs2.persik.by/Best_clips/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",Concerts HD
-https://fs2.persik.by/Concerts4/index.m3u8
 #EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",ФЕСТИВАЛЬНОЕ КИНО
 http://fs2.persik.by/FestivalnoeKino8/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",ЛЕГКОЕ КИНО
-http://fs2.persik.by/Legkoe_Kino7/index.m3u8
 #EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",АНТИСТРЕСС
 http://fs2.persik.by/Kino_Antistress8/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",Новые комедии
-http://fs2.persik.by/Novie_Komedii5/index.m3u8
 #EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",Комедийные сериалы
 http://fs2.persik.by/Komedijnie_seriali5/index.m3u8
 #EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",ДАВАЙ ПОЖЕНИМСЯ
@@ -639,22 +608,12 @@ http://fs2.persik.by/Romanticheskie8/index.m3u8
 http://fs2.persik.by/Novinki8/index.m3u8
 #EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",ЭКРАНИЗАЦИИ
 http://fs2.persik.by/Ekranizacii12/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",Кино выходного дня
-http://fs2.persik.by/Kino_vihodnogo_dnia5/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",Кино по книгам
-https://fs2.persik.by/Kino_po_knigam8/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",Кино про дружбу
-https://fs2.persik.by/Pro_druzhbu6/index.m3u8
 #EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",Известные актёры
 http://fs2.persik.by/Izvestnie_akteri4/index.m3u8
 #EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",КОЗЛОВСКИЙ
 http://fs2.persik.by/Kozlovskij_4/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",ВИЦИН
-http://fs2.persik.by/Vicin_6/index.m3u8
 #EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",ПЕТРЕНКО
 http://fs2.persik.by/Petrenko_3/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",МИРОНОВ
-https://fs2.persik.by/Mironov6/index.m3u8
 #EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",Куценко
 http://fs2.persik.by/Kucenko_3/index.m3u8
 #EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",МАШКОВ
@@ -663,8 +622,6 @@ http://fs2.persik.by/Mashkov4/index.m3u8
 http://fs2.persik.by/Puskepalis3/index.m3u8
 #EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",ХАБЕНСКИЙ
 http://fs2.persik.by/Habenskij3/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",ДЕРЕВЯНКО
-http://fs2.persik.by/Derevyanko4/index.m3u8
 #EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",ПОРЕЧЕНКОВ
 http://fs2.persik.by/Porechenkov2/index.m3u8
 #EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",ВДОВИЧЕНКОВ
@@ -677,32 +634,6 @@ http://fs2.persik.by/Matveev3/index.m3u8
 http://fs2.persik.by/Bortich3/index.m3u8
 #EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",МЕРЗЛИКИН
 http://fs2.persik.by/Merzlikin4/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",Детские фильмы
-https://fs2.persik.by/DetskieFilmy4/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",Детские песни
-https://fs2.persik.by/DetskiePesni4/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",Sluhay.by COVER HD
-https://fs2.persik.by/Sluhay_COVER2/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",Sluhay.by EDM HD
-https://fs2.persik.by/Sluhay_EDM/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",Sluhay.by LIVE HD
-https://fs2.persik.by/Sluhay_LIVE2/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",Sluhay.by MOVA HD
-https://fs2.persik.by/Sluhay_MOVA2/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",Sluhay.by RADIO HD
-https://fs2.persik.by/Sluhay_RADIO2/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",Sluhay.by RAP HD
-https://fs2.persik.by/Sluhay_RAP/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",Sluhay Rock HD
-https://fs2.persik.by/Sluhay_Rock/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",POP-ROCK HD
-https://fs2.persik.by/Pop_Rock2/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",ТЕХНО
-https://fs2.persik.by/Techno3/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",В Мире Животных
-http://fs2.persik.by/Semejnoe8/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",КОСМОС
-http://fs2.persik.by/Kosmo4/index.m3u8
 #EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",ДОКУМЕНТАЛЬНОЕ КИНО
 http://fs2.persik.by/DokumentalnoeKino3/index.m3u8
 #EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",ДОКУМЕНТАЛЬНОЕ
