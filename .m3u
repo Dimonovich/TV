@@ -135,14 +135,18 @@ http://hls.seversk.ru:8080/play/a01c/index.m3u8
 #EXTINF:-1,Bollywood HD
 http://91.224.169.250:5000/c155
 
-#EXTINF:-1 ,Gags Network HD
-https://bkm.beetv.kz/btv/live/hls/000006639.m3u8
-
 #EXTINF:-1 ,Fan HD
 http://iptv.mega.net.ru:8888/Discovery_Channel/mono.m3u8
 
+#EXTINF:-1 ,Gags Network HD
+https://bkm.beetv.kz/btv/live/hls/000006639.m3u8
+
 #EXTINF:-1 ,Ералаш
 https://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Шоу Бенни Хилла
+https://fl1001.bozztv.com/ushba62/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Мистер Бин
+https://fl1001.bozztv.com/ushba45/index.m3u8
 
 #EXTINF:-1 ,РУССКИЙ РОМАН
 http://91.142.158.107:8092/play/25/index.m3u8
