@@ -347,6 +347,8 @@ http://s83.chas.tv:8081/chas/moyaplaneta.stream/playlist.m3u8
 http://s83.chas.tv:8081/chas/tvc-hq.stream/playlist.m3u8
 #EXTINF:-1 group-title="Час ТВ",ТВЦ
 http://s83.chas.tv:8081/chas/tvc.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Ностальгия
+http://s83.chas.tv:8081/chas/nostalgiya.stream/playlist.m3u8
 #EXTINF:-1 group-title="Час ТВ",ТВ3 HD
 http://s83.chas.tv:8081/chas/tvtri-hq.stream/playlist.m3u8
 #EXTINF:-1 group-title="Час ТВ",ТВ3
@@ -377,10 +379,14 @@ http://s83.chas.tv:8081/chas/pyatnicatv.stream/playlist.m3u8
 http://s83.chas.tv:8081/chas/perec.stream/playlist.m3u8
 #EXTINF:-1 group-title="Час ТВ",Перец
 http://s83.chas.tv:8081/chas/perec-hq.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Тайна
+http://s83.chas.tv:8081/chas/taina.stream/playlist.m3u8
 #EXTINF:-1 group-title="Час ТВ",ОТР HD
 http://s83.chas.tv:8081/chas/otrtv-hq.stream/playlist.m3u8
 #EXTINF:-1 group-title="Час ТВ",ОТР
 http://s83.chas.tv:8081/chas/otrtv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Ю
+http://s83.chas.tv:8081/chas/yutv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Час ТВ",НСТ
 http://s83.chas.tv:8081/chas/nst.stream/playlist.m3u8
 #EXTINF:-1 group-title="Час ТВ",Москва 24
@@ -389,7 +395,7 @@ http://s83.chas.tv:8081/chas/m24tv.stream/playlist.m3u8
 http://s83.chas.tv:8081/chas/kuhnya.stream/playlist.m3u8
 #EXTINF:-1 group-title="Час ТВ",Классика кино
 http://s83.chas.tv:8081/chas/kkino.stream/playlist.m3u8
-#EXTINF:-1 group-title="Час ТВ",КиноСезон HD
+#EXTINF:-1 group-title="Час ТВ",КиноСезон
 http://s83.chas.tv:8081/chas/kinosezon.stream/playlist.m3u8
 #EXTINF:-1 group-title="Час ТВ",Кинокомедия
 http://s83.chas.tv:8081/chas/komediya.stream/playlist.m3u8
@@ -397,8 +403,12 @@ http://s83.chas.tv:8081/chas/komediya.stream/playlist.m3u8
 http://s83.chas.tv:8081/chas/indiya.stream/playlist.m3u8
 #EXTINF:-1 group-title="Час ТВ",Иллюзион+
 http://s83.chas.tv:8081/chas/illyuzionpl.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Советское кино
+http://s83.chas.tv:8081/chas/sovkinotv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Час ТВ",Драйв
 http://s83.chas.tv:8081/chas/drive.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Дом кино
+http://s83.chas.tv:8081/chas/domkino.stream/playlist.m3u8
 #EXTINF:-1 group-title="Час ТВ",Домашний HD
 http://s83.chas.tv:8081/chas/domashniy-hq.stream/playlist.m3u8
 #EXTINF:-1 group-title="Час ТВ",Домашний
@@ -409,51 +419,63 @@ http://s83.chas.tv:8081/chas/auto.stream/playlist.m3u8
 http://s83.chas.tv:8081/chas/rttv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Час ТВ",Iнтер
 http://s83.chas.tv:8081/chas/inter.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Art
+http://s83.chas.tv:8081/chas/art.stream/playlist.m3u8
 #EXTINF:-1 group-title="Час ТВ",Euronews HD
 http://s83.chas.tv:8081/chas/euronewstv-hq.stream/playlist.m3u8
 #EXTINF:-1 group-title="Час ТВ",Euronews
 http://s83.chas.tv:8081/chas/euronewstv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Звезда
+http://s83.chas.tv:8081/chas/zvezda.stream/playlist.m3u8
 #EXTINF:-1 group-title="Час ТВ",360
 http://s83.chas.tv:8081/chas/tristatv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Час ТВ",2x2
 http://s83.chas.tv:8081/chas/dvatv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Советские мультфильмы
+http://s83.chas.tv:8081/chas/sovmulttv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Детский мир
+http://s83.chas.tv:8081/chas/dmir.stream/playlist.m3u8
 #EXTINF:-1 group-title="Час ТВ",Карусель
 http://s83.chas.tv:8081/chas/karuseltv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Смайлик ТВ
+http://s83.chas.tv:8081/chas/smile.stream/playlist.m3u8
 #EXTINF:-1 group-title="Час ТВ",Солнце
 http://s83.chas.tv:8081/chas/disneytv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Час ТВ",Радость моя
 http://s83.chas.tv:8081/chas/radosttv.stream/playlist.m3u8
-#EXTINF:-1 group-title="Час ТВ",Bridge TV Русский хит HD
+#EXTINF:-1 group-title="Час ТВ",Bridge TV Русский Хит
 http://s83.chas.tv:8081/chas/bridgerushittv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Час ТВ",Bridge TV Hits HD
 http://s83.chas.tv:8081/chas/bridgetvhitstv.stream/playlist.m3u8
-#EXTINF:-1 group-title="Час ТВ",Bridge TV HD
+#EXTINF:-1 group-title="Час ТВ",Bridge HD
 http://s83.chas.tv:8081/chas/bridgetvtv.stream/playlist.m3u8
-#EXTINF:-1 group-title="Час ТВ",Bridge TV Classic HD
+#EXTINF:-1 group-title="Час ТВ",Bridge TV Classic
 http://s83.chas.tv:8081/chas/bridgeclassictv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Час ТВ",Bridge TV
 http://s83.chas.tv:8081/chas/bridge.stream/playlist.m3u8
 #EXTINF:-1 group-title="Час ТВ",Europa Plus TV
 http://s83.chas.tv:8081/chas/europe.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Russian Music Box
+http://s83.chas.tv:8081/chas/musicbox.stream/playlist.m3u8
 #EXTINF:-1 group-title="Час ТВ",RU.TV
 http://s83.chas.tv:8081/chas/rutv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Час ТВ",Музыка Первого
 http://s83.chas.tv:8081/chas/muzika.stream/playlist.m3u8
-#EXTINF:-1 group-title="Час ТВ",Шансон TB
+#EXTINF:-1 group-title="Час ТВ",Шансон ТВ
 http://s83.chas.tv:8081/chas/shansontv.stream/playlist.m3u8
-#EXTINF:-1 group-title="Час ТВ",ТНТ Music HD
+#EXTINF:-1 group-title="Час ТВ",ТНТ Music
 http://s83.chas.tv:8081/chas/tntmusictv.stream/playlist.m3u8
-#EXTINF:-1 group-title="Час ТВ",МузТВ
-http://s83.chas.tv:8081/chas/muztvtv-hq.stream/playlist.m3u8
-#EXTINF:-1 group-title="Час ТВ",Матч! Боец
-http://s83.chas.tv:8081/chas/boec.stream/playlist.m3u8
-#EXTINF:-1 group-title="Час ТВ",Матч! HD
-http://s83.chas.tv:8081/chas/rossiya2-hq.stream/playlist.m3u8
-#EXTINF:-1 group-title="Час ТВ",Матч ТВ
-http://s83.chas.tv:8081/chas/matchtv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Час ТВ",Ля-минор ТВ
 http://s83.chas.tv:8081/chas/lyaminor.stream/playlist.m3u8
-#EXTINF:-1 group-title="Час ТВ",КХЛ
+#EXTINF:-1 group-title="Час ТВ",МузТВ
+http://s83.chas.tv:8081/chas/muztvtv-hq.stream/playlist.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Боец
+http://s83.chas.tv:8081/chas/boec.stream/playlist.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! HD
+http://s83.chas.tv:8081/chas/rossiya2-hq.stream/playlist.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч ТВ
+http://s83.chas.tv:8081/chas/matchtv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",КХЛ
 http://s83.chas.tv:8081/chas/khl.stream/playlist.m3u8
 
 
@@ -3190,7 +3212,8 @@ https://tvsamaragis.tk/new/new/tracks-v1a1/mono.m3u8
 
 
 
-
+#EXTINF:-1 group-title="Иркутскэнергосвязь (VPN)" ,Первый HD
+http://77.243.112.149:8080/ort_hd/index.m3u8
 #EXTINF:-1 group-title="Иркутскэнергосвязь (VPN)" ,РОССИЯ 1 HD
 http://77.243.112.149:8080/rossia_hd/index.m3u8
 #EXTINF:-1 group-title="Иркутскэнергосвязь (VPN)" ,ТНТ HD
@@ -3233,7 +3256,7 @@ http://77.243.112.149:8080/moya_planeta/index.m3u8
 http://77.243.112.149:8080/planeta_hd/index.m3u8
 #EXTINF:-1 group-title="Иркутскэнергосвязь (VPN)" ,ОРУЖИЕ
 http://77.243.112.149:8080/oruzhie/index.m3u8
-#EXTINF:-1 group-title="Иркутскэнергосвязь (VPN)" ,ОХОТНИК
+#EXTINF:-1 group-title="Иркутскэнергосвязь (VPN)" ,Рыболов
 http://77.243.112.149:8080/ohotnik/index.m3u8
 #EXTINF:-1 group-title="Иркутскэнергосвязь (VPN)" ,ОХОТНИК И РЫБОЛОВ HD
 http://77.243.112.149:8080/ohot_i_rybolov_hd/index.m3u8
@@ -3293,9 +3316,7 @@ http://77.243.112.149:8080/zvezda_plus_hd/index.m3u8
 http://77.243.112.149:8080/zoo_tv/index.m3u8
 #EXTINF:-1 group-title="Иркутскэнергосвязь (VPN)" ,ИЗВЕСТИЯ HD
 http://77.243.112.149:8080/izvestiya/index.m3u8
-#EXTINF:-1 group-title="Иркутскэнергосвязь (VPN)" ,ИНДИЙСКОЕ КИНО
-http://77.243.112.149:8080/indiya/index.m3u8
-#EXTINF:-1 group-title="Иркутскэнергосвязь (VPN)" ,ИНДИЯ ТВ
+#EXTINF:-1 group-title="Иркутскэнергосвязь (VPN)" ,ИНДИЯ
 http://77.243.112.149:8080/zee-tv/index.m3u8
 #EXTINF:-1 group-title="Иркутскэнергосвязь (VPN)" ,КАЛЕЙДОСКОП ТВ
 http://77.243.112.149:8080/kaleydoskop/index.m3u8
@@ -3311,14 +3332,22 @@ http://77.243.112.149:8080/kino-tv/index.m3u8
 http://77.243.112.149:8080/kino_tv_hd/index.m3u8
 #EXTINF:-1 group-title="Иркутскэнергосвязь (VPN)" ,КИНОКОМЕДИЯ HD
 http://77.243.112.149:8080/komediya/index.m3u8
+#EXTINF:-1 group-title="Иркутскэнергосвязь (VPN)" ,ИНДИЙСКОЕ КИНО
+http://77.243.112.149:8080/indiya/index.m3u8
 #EXTINF:-1 group-title="Иркутскэнергосвязь (VPN)" ,КИНОМИКС HD
 http://77.243.112.149:8080/kinomix/index.m3u8
 #EXTINF:-1 group-title="Иркутскэнергосвязь (VPN)" ,КИНОПОКАЗ
 http://77.243.112.149:8080/kinopokaz/index.m3u8
+#EXTINF:-1 group-title="Иркутскэнергосвязь (VPN)" ,НАШЕ НОВОЕ КИНО HD
+http://77.243.112.149:8080/nashe-novoe-kino/index.m3u8
 #EXTINF:-1 group-title="Иркутскэнергосвязь (VPN)" ,КИНОПРЕМЬЕРА HD
 http://77.243.112.149:8080/premiera/index.m3u8
 #EXTINF:-1 group-title="Иркутскэнергосвязь (VPN)" ,КИНОСВИДАНИЕ HD
 http://77.243.112.149:8080/kinosvidanie/index.m3u8
+#EXTINF:-1 group-title="Иркутскэнергосвязь (VPN)" ,РОДНОЕ КИНО
+http://77.243.112.149:8080/nashe-kino/index.m3u8
+#EXTINF:-1 group-title="Иркутскэнергосвязь (VPN)" ,МУЖСКОЕ КИНО HD
+http://77.243.112.149:8080/muzhskoe-kino_hd/index.m3u8
 #EXTINF:-1 group-title="Иркутскэнергосвязь (VPN)" ,КИНОСЕМЬЯ HD
 http://77.243.112.149:8080/kinosemya/index.m3u8
 #EXTINF:-1 group-title="Иркутскэнергосвязь (VPN)" ,КИНОСЕРИЯ HD
@@ -3341,8 +3370,6 @@ http://77.243.112.149:8080/moskva_24/index.m3u8
 http://77.243.112.149:8080/moskva_doverie/index.m3u8
 #EXTINF:-1 group-title="Иркутскэнергосвязь (VPN)" ,Мосфильм. Золотая коллекция
 http://77.243.112.149:8080/mosfilm/index.m3u8
-#EXTINF:-1 group-title="Иркутскэнергосвязь (VPN)" ,МУЖСКОЕ КИНО HD
-http://77.243.112.149:8080/muzhskoe-kino_hd/index.m3u8
 #EXTINF:-1 group-title="Иркутскэнергосвязь (VPN)" ,НАНО ТВ
 http://77.243.112.149:8080/nano-tv/index.m3u8
 #EXTINF:-1 group-title="Иркутскэнергосвязь (VPN)" ,НАНО ТВ HD
@@ -3351,16 +3378,10 @@ http://77.243.112.149:8080/nano_hd/index.m3u8
 http://77.243.112.149:8080/nasha_tema_hd/index.m3u8
 #EXTINF:-1 group-title="Иркутскэнергосвязь (VPN)" ,НАШЕ
 http://77.243.112.149:8080/nashe/index.m3u8
-#EXTINF:-1 group-title="Иркутскэнергосвязь (VPN)" ,НАШЕ НОВОЕ КИНО HD
-http://77.243.112.149:8080/nashe-novoe-kino/index.m3u8
 #EXTINF:-1 group-title="Иркутскэнергосвязь (VPN)" ,НОСТАЛЬГИЯ
 http://77.243.112.149:8080/nostalgia/index.m3u8
 #EXTINF:-1 group-title="Иркутскэнергосвязь (VPN)" ,НСТ
 http://77.243.112.149:8080/nstv/index.m3u8
-#EXTINF:-1 group-title="Иркутскэнергосвязь (VPN)" ,ОРТ HD
-http://77.243.112.149:8080/ort_hd/index.m3u8
-#EXTINF:-1 group-title="Иркутскэнергосвязь (VPN)" ,ПЕС И КОТ
-http://77.243.112.149:8080/pes_i_ko/index.m3u8
 #EXTINF:-1 group-title="Иркутскэнергосвязь (VPN)" ,ПОБЕДА
 http://77.243.112.149:8080/pobeda/index.m3u8
 #EXTINF:-1 group-title="Иркутскэнергосвязь (VPN)" ,ПРОСВЕЩЕНИЕ
@@ -3369,12 +3390,10 @@ http://77.243.112.149:8080/prosveshenie/index.m3u8
 http://77.243.112.149:8080/pyatnica_hd/index.m3u8
 #EXTINF:-1 group-title="Иркутскэнергосвязь (VPN)" ,РАДОСТЬ МОЯ
 http://77.243.112.149:8080/radost-moya/index.m3u8
-#EXTINF:-1 group-title="Иркутскэнергосвязь (VPN)" ,РАТНИК HD
+#EXTINF:-1 group-title="Иркутскэнергосвязь (VPN)" ,РАТНИК
 http://77.243.112.149:8080/ratnik_hd/index.m3u8
 #EXTINF:-1 group-title="Иркутскэнергосвязь (VPN)" ,РБК
 http://77.243.112.149:8080/rbc/index.m3u8
-#EXTINF:-1 group-title="Иркутскэнергосвязь (VPN)" ,РОДНОЕ КИНО
-http://77.243.112.149:8080/nashe-kino/index.m3u8
 #EXTINF:-1 group-title="Иркутскэнергосвязь (VPN)" ,РУССКАЯ КОМЕДИЯ
 http://77.243.112.149:8080/comedy/index.m3u8
 #EXTINF:-1 group-title="Иркутскэнергосвязь (VPN)" ,РУССКИЙ ДЕТЕКТИВ
@@ -3391,7 +3410,7 @@ http://77.243.112.149:8080/fox-life/index.m3u8
 http://77.243.112.149:8080/fox_life_hd/index.m3u8
 #EXTINF:-1 group-title="Иркутскэнергосвязь (VPN)" ,САРАФАН
 http://77.243.112.149:8080/sarafan/index.m3u8
-#EXTINF:-1 group-title="Иркутскэнергосвязь (VPN)" ,СОЮЗ HD
+#EXTINF:-1 group-title="Иркутскэнергосвязь (VPN)" ,Союз
 http://77.243.112.149:8080/soyuz/index.m3u8
 #EXTINF:-1 group-title="Иркутскэнергосвязь (VPN)" ,СТС HD
 http://77.243.112.149:8080/sts_hd/index.m3u8
@@ -3421,7 +3440,7 @@ http://77.243.112.149:8080/avto_plus/index.m3u8
 http://77.243.112.149:8080/utv/index.m3u8
 #EXTINF:-1 group-title="Иркутскэнергосвязь (VPN)" ,СОЛНЦЕ
 http://77.243.112.149:8080/disney/index.m3u8
-#EXTINF:-1 group-title="Иркутскэнергосвязь (VPN)" ,СТС Кids HD
+#EXTINF:-1 group-title="Иркутскэнергосвязь (VPN)" ,СТС kids HD
 http://77.243.112.149:8080/sts_kids/index.m3u8
 #EXTINF:-1 group-title="Иркутскэнергосвязь (VPN)" ,СУПЕРГЕРОИ
 http://77.243.112.149:8080/malish/index.m3u8
@@ -3545,7 +3564,7 @@ http://109.200.130.123:7537/play/a028
 http://109.200.130.123:7537/play/a02l
 #EXTINF:-1 group-title="КРЭЛКОМ (VPN)",Точка отрыва
 http://109.200.130.123:7537/play/a022
-#EXTINF:-1 group-title="КРЭЛКОМ (VPN)",THT MUSIC
+#EXTINF:-1 group-title="КРЭЛКОМ (VPN)",ТНТ Music
 http://109.200.130.123:7537/play/a02o
 #EXTINF:-1 group-title="КРЭЛКОМ (VPN)",MCM Top
 http://109.200.130.123:7537/play/a029
