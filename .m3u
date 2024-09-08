@@ -53,8 +53,6 @@ http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 http://iptv.mega.net.ru:8888/Moa_Planeta/mono.m3u8
 #EXTINF:-1 ,Приключения HD
 https://bkm.beetv.kz/btv/live/hls/000000277.m3u8
-#EXTINF:-1,Home 4K
-http://hls3.ttv2.space:80/home_hd/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 ,Т24
 http://91.224.169.250:5000/c15
@@ -121,8 +119,6 @@ http://iptv.mega.net.ru:8888/ViP_Premiere_HD/mono.m3u8
 
 #EXTINF:-1 ,Viasat Kino Action
 https://wowza1.leisertv.com/live/tv1000action.stream/playlist.m3u8
-#EXTINF:-1 ,Viasat Kino Comedy
-https://wowza5.leisertv.com/live/vipcomedyhd.stream/playlist.m3u8
 #EXTINF:-1 ,Viasat Kino World
 https://wowza1.leisertv.com/live/tv1000russiakino.stream/playlist.m3u8
 
@@ -272,13 +268,6 @@ https://streamer3.connectto.com/490/mono.m3u8
 https://live.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
 #EXTINF:-1 ,Беларусь 24
 https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/playlist.m3u8
-
-#EXTINF:-1 ,Вопросы и ответы
-https://wowza4.leisertv.com/live/voprosyiotvety.stream/playlist.m3u8
-#EXTINF:-1 ,Кто есть кто
-https://wowza4.leisertv.com/live/ktoyestkto.stream/playlist.m3u8
-#EXTINF:-1 ,Ретро ТВ
-https://wowza4.leisertv.com/live/retrotv.stream/playlist.m3u8
 
 #EXTINF:-1 ,ОТР
 http://s18209.cdn.ngenix.net/hls/CH_R01_OTR/playlist.m3u8
