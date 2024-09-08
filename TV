@@ -246,6 +246,8 @@ http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1920x1080@4504/playl
 
 
 
+
+
 #EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg" ,4K ULTRA HD 
 https://river-3-320.rutube.ru/hls-vod/UJjhkjAOlEAKCzqC1oCJpA/1726326172/1796/0x5000c5007443177b/8baceb688d3548c0a29a40f3980bceea.mp4.m3u8?i=3840x2160
 #EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg" ,COLORFUL WORLD ANIMALS - ANIMALS SOUNDS 
@@ -294,6 +296,166 @@ https://river-5-512.rutube.ru/hls-vod/8B2wwxIAGCRmwspCx_bOkg/1726326661/1774/0x5
 https://river-5-511.rutube.ru/hls-vod/o88bL0Gf3Qc6f5p5ufkh7w/1726326682/1776/0x5000c500c92079c7/b46cf235dbb14ddcbabe81d4f63a9fd4.mp4.m3u8?i=3840x2160
 #EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg" ,Карибы в 4К
 https://river-3-325.rutube.ru/hls-vod/AQBS2iw7_4m-eUSiiMALTg/1726326705/1782/0x5000c500c3291750/c002696df2d3474e95bf422d74a10427.mp4.m3u8?i=3840x2160
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Час ТВ",Первый канал HD
+http://s83.chas.tv:8081/chas/pervyitv-hq.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Первый канал
+http://s83.chas.tv:8081/chas/pervyitv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",НТВ HD
+http://s83.chas.tv:8081/chas/ntvtv-hq.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",НТВ
+http://s83.chas.tv:8081/chas/ntvtv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",ТНТ4 HD
+http://s83.chas.tv:8081/chas/comedytv-hq.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",ТНТ4
+http://s83.chas.tv:8081/chas/fourtv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Россия РТР
+http://s83.chas.tv:8081/chas/rtrpl.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Россия К
+http://s83.chas.tv:8081/chas/rossiyak.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Россия 24
+http://s83.chas.tv:8081/chas/rossiya24-hq.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Россия 1 HD
+http://s83.chas.tv:8081/chas/rossiya1-hq.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Россия 1
+http://s83.chas.tv:8081/chas/rossiya1.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Рен ТВ HD
+http://s83.chas.tv:8081/chas/rentv-hq.stream/chunks.m3u8
+#EXTINF:-1 group-title="Час ТВ",Рен ТВ
+http://s83.chas.tv:8081/chas/rentv.stream/chunks.m3u8
+#EXTINF:-1 group-title="Час ТВ",ТНТ HD
+http://s83.chas.tv:8081/chas/tnttv-hq.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",ТНТ
+http://s83.chas.tv:8081/chas/tnttv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Охотник и рыболов
+http://s83.chas.tv:8081/chas/rybalka.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Охота и рыбалка
+http://s83.chas.tv:8081/chas/ohota.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Оружие
+http://s83.chas.tv:8081/chas/oruzhie.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Моя планета
+http://s83.chas.tv:8081/chas/moyaplaneta.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",ТВЦ HD
+http://s83.chas.tv:8081/chas/tvc-hq.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",ТВЦ
+http://s83.chas.tv:8081/chas/tvc.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",ТВ3 HD
+http://s83.chas.tv:8081/chas/tvtri-hq.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",ТВ3
+http://s83.chas.tv:8081/chas/tvtritv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Суббота HD
+http://s83.chas.tv:8081/chas/supertv-hq.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Суббота
+http://s83.chas.tv:8081/chas/supertv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",СТС Love
+http://s83.chas.tv:8081/chas/stslove.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",СТС HD
+http://s83.chas.tv:8081/chas/sts-hq.stream/chunks.m3u8
+#EXTINF:-1 group-title="Час ТВ",СТС
+http://s83.chas.tv:8081/chas/sts.stream/chunks.m3u8
+#EXTINF:-1 group-title="Час ТВ",Соловьев Live
+http://s83.chas.tv:8081/chas/sollive.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Русский иллюзион
+http://s83.chas.tv:8081/chas/rusillyuzion.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",РБК
+http://s83.chas.tv:8081/chas/rbktv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Пятый канал
+http://s83.chas.tv:8081/chas/pyatyi-hq.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Пятница HD
+http://s83.chas.tv:8081/chas/pyatnicatv-hq.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Пятница
+http://s83.chas.tv:8081/chas/pyatnicatv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Перец International
+http://s83.chas.tv:8081/chas/perec.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Перец
+http://s83.chas.tv:8081/chas/perec-hq.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",ОТР HD
+http://s83.chas.tv:8081/chas/otrtv-hq.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",ОТР
+http://s83.chas.tv:8081/chas/otrtv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",НСТ
+http://s83.chas.tv:8081/chas/nst.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Москва 24
+http://s83.chas.tv:8081/chas/m24tv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Кухня ТВ
+http://s83.chas.tv:8081/chas/kuhnya.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Классика кино
+http://s83.chas.tv:8081/chas/kkino.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",КиноСезон HD
+http://s83.chas.tv:8081/chas/kinosezon.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Кинокомедия
+http://s83.chas.tv:8081/chas/komediya.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Индийское кино
+http://s83.chas.tv:8081/chas/indiya.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Иллюзион+
+http://s83.chas.tv:8081/chas/illyuzionpl.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Драйв
+http://s83.chas.tv:8081/chas/drive.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Домашний HD
+http://s83.chas.tv:8081/chas/domashniy-hq.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Домашний
+http://s83.chas.tv:8081/chas/domashniy.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Авто плюс
+http://s83.chas.tv:8081/chas/auto.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",RT HD
+http://s83.chas.tv:8081/chas/rttv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Iнтер
+http://s83.chas.tv:8081/chas/inter.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Euronews HD
+http://s83.chas.tv:8081/chas/euronewstv-hq.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Euronews
+http://s83.chas.tv:8081/chas/euronewstv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",360
+http://s83.chas.tv:8081/chas/tristatv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",2x2
+http://s83.chas.tv:8081/chas/dvatv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Карусель
+http://s83.chas.tv:8081/chas/karuseltv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Солнце
+http://s83.chas.tv:8081/chas/disneytv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Радость моя
+http://s83.chas.tv:8081/chas/radosttv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Bridge TV Русский хит HD
+http://s83.chas.tv:8081/chas/bridgerushittv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Bridge TV Hits HD
+http://s83.chas.tv:8081/chas/bridgetvhitstv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Bridge TV HD
+http://s83.chas.tv:8081/chas/bridgetvtv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Bridge TV Classic HD
+http://s83.chas.tv:8081/chas/bridgeclassictv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Bridge TV
+http://s83.chas.tv:8081/chas/bridge.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Europa Plus TV
+http://s83.chas.tv:8081/chas/europe.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",RU.TV
+http://s83.chas.tv:8081/chas/rutv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Музыка Первого
+http://s83.chas.tv:8081/chas/muzika.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Шансон TB
+http://s83.chas.tv:8081/chas/shansontv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",ТНТ Music HD
+http://s83.chas.tv:8081/chas/tntmusictv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",МузТВ
+http://s83.chas.tv:8081/chas/muztvtv-hq.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Матч! Боец
+http://s83.chas.tv:8081/chas/boec.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Матч! HD
+http://s83.chas.tv:8081/chas/rossiya2-hq.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Матч ТВ
+http://s83.chas.tv:8081/chas/matchtv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Ля-минор ТВ
+http://s83.chas.tv:8081/chas/lyaminor.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",КХЛ
+http://s83.chas.tv:8081/chas/khl.stream/playlist.m3u8
+
 
 
 
