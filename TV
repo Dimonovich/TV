@@ -3259,7 +3259,7 @@ http://185.112.140.28:8080/DomKinoPremium/index.m3u8
 http://185.112.140.28:8080/Kinopremera/index.m3u8
 #EXTINF:-1 group-title="Трител-Крым (VPN)",Киноужас HD
 http://185.112.140.28:8080/Kinouzhas/index.m3u8
-#EXTINF:-1 group-title="Трител-Крым (VPN)",Kиносвидание
+#EXTINF:-1 group-title="Трител-Крым (VPN)",Киносвидание
 http://185.112.140.28:8080/Kinosvidanie/index.m3u8
 #EXTINF:-1 group-title="Трител-Крым (VPN)",киномикс HD
 http://185.112.140.28:8080/Kinomiks/index.m3u8
@@ -3307,7 +3307,7 @@ http://185.112.140.28:8080/Che/index.m3u8
 http://185.112.140.28:8080/Karusel/index.m3u8
 #EXTINF:-1 group-title="Трител-Крым (VPN)",Мульт
 http://185.112.140.28:8080/Mult/index.m3u8
-#EXTINF:-1 group-title="Трител-Крым (VPN)",СТС Кids HD
+#EXTINF:-1 group-title="Трител-Крым (VPN)",СТС Kids
 http://185.112.140.28:8080/STS_Kids/index.m3u8
 #EXTINF:-1 group-title="Трител-Крым (VPN)",Солнце
 http://185.112.140.28:8080/Disney/index.m3u8
@@ -5410,7 +5410,7 @@ http://91.207.115.228:12000/play/a03e
 http://91.207.115.228:12000/play/a03g
 #EXTINF:-1 group-title="ДВ-Ком_2 (VPN)" ,360 Новости
 http://91.207.115.228:12000/play/a03h
-#EXTINF:-1 group-title="ДВ-Ком_2 (VPN)" ,RT DOC HD
+#EXTINF:-1 group-title="ДВ-Ком_2 (VPN)" ,RT Doc
 http://91.207.115.228:12000/play/a03i
 #EXTINF:-1 group-title="ДВ-Ком_2 (VPN)" ,SHOT TV
 http://91.207.115.228:12000/play/a03j
@@ -5468,7 +5468,7 @@ http://91.207.115.228:12000/play/a04z
 http://91.207.115.228:12000/play/a04e
 #EXTINF:-1 group-title="ДВ-Ком_2 (VPN)" ,Здоровое ТВ
 http://91.207.115.228:12000/play/a04w
-#EXTINF:-1 group-title="ДВ-Ком_2 (VPN)" ,Зоопарк ТВ
+#EXTINF:-1 group-title="ДВ-Ком_2 (VPN)" ,Зоопарк
 http://91.207.115.228:12000/play/a04u
 #EXTINF:-1 group-title="ДВ-Ком_2 (VPN)" ,Иллюзион+
 http://91.207.115.228:12000/play/a04o
@@ -5478,6 +5478,10 @@ http://91.207.115.228:12000/play/a023
 http://91.207.115.228:12000/play/a04m
 #EXTINF:-1 group-title="ДВ-Ком_2 (VPN)" ,Крепкое Кино
 http://91.207.115.228:12000/play/a04g
+#EXTINF:-1 group-title="ДВ-Ком_2 (VPN)" ,Русское Кино
+http://91.207.115.228:12000/play/a04i
+#EXTINF:-1 group-title="ДВ-Ком_2 (VPN)" ,Семейное Кино
+http://91.207.115.228:12000/play/a04j
 #EXTINF:-1 group-title="ДВ-Ком_2 (VPN)" ,Кухня ТВ
 http://91.207.115.228:12000/play/a021
 #EXTINF:-1 group-title="ДВ-Ком_2 (VPN)" ,Мосфильм. Золотая Коллекция
@@ -5490,10 +5494,6 @@ http://91.207.115.228:12000/play/a052
 http://91.207.115.228:12000/play/a04s
 #EXTINF:-1 group-title="ДВ-Ком_2 (VPN)" ,Ретро
 http://91.207.115.228:12000/play/a04r
-#EXTINF:-1 group-title="ДВ-Ком_2 (VPN)" ,Русское Кино
-http://91.207.115.228:12000/play/a04i
-#EXTINF:-1 group-title="ДВ-Ком_2 (VPN)" ,Семейное Кино
-http://91.207.115.228:12000/play/a04j
 #EXTINF:-1 group-title="ДВ-Ком_2 (VPN)" ,Советское Кино
 http://91.207.115.228:12000/play/a04f
 #EXTINF:-1 group-title="ДВ-Ком_2 (VPN)" ,СТС Love
@@ -5514,7 +5514,7 @@ http://91.207.115.228:12000/play/a00k
 http://91.207.115.228:12000/play/a03f
 #EXTINF:-1 group-title="ДВ-Ком_2 (VPN)" ,Bridge TV
 http://91.207.115.228:12000/play/a035
-#EXTINF:-1 group-title="ДВ-Ком_2 (VPN)" ,Русский Хит
+#EXTINF:-1 group-title="ДВ-Ком_2 (VPN)" ,Bridge TV Русский Хит
 http://91.207.115.228:12000/play/a036
 #EXTINF:-1 group-title="ДВ-Ком_2 (VPN)" ,Europa Plus TV
 http://91.207.115.228:12000/play/a037
