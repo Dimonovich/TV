@@ -247,7 +247,8 @@ http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1920x1080@4504/playl
 
 
 
-
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg" ,Камин 4к
+https://river-7-701.rutube.ru/hls-vod/-uis2zOHcnoxG_p8Gi67ug/1726570700/1899/0x5000c500e511570c/8311ad94048f47808d4e72cc32aa7238.mp4.m3u8?i=3840x2160
 #EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg" ,4K ULTRA HD 
 https://river-3-320.rutube.ru/hls-vod/UJjhkjAOlEAKCzqC1oCJpA/1726326172/1796/0x5000c5007443177b/8baceb688d3548c0a29a40f3980bceea.mp4.m3u8?i=3840x2160
 #EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg" ,COLORFUL WORLD ANIMALS - ANIMALS SOUNDS 
