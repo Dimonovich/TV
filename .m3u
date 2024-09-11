@@ -50,7 +50,7 @@ https://stream01.vnet.am/InvestigationDiscovery/tracks-v1a2/mono.m3u8
 #EXTINF:-1 ,Большая Азия
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,МОЯ ПЛАНЕТА
-http://iptv.mega.net.ru:8888/Moa_Planeta/mono.m3u8
+http://77.243.112.149:8080/planeta_hd/index.m3u8
 #EXTINF:-1 ,Приключения HD
 https://bkm.beetv.kz/btv/live/hls/000000277.m3u8
 
@@ -65,7 +65,7 @@ https://bkm.beetv.kz/btv/live/hls/000004610.m3u8
 #EXTINF:-1 ,Дикая охота HD
 https://bkm.beetv.kz/btv/live/hls/000004609.m3u8
 #EXTINF:-1 ,Ocean-TV
-http://iptv.mega.net.ru:8888/Ocean_TV/mono.m3u8
+http://tv.newline.in.ua:9012/play/r00r
 
 #EXTINF:-1 ,Телепутешествия
 http://195.211.27.149:8887/8182/index.m3u8?token=test
@@ -104,17 +104,21 @@ https://bkm.beetv.kz/btv/live/hls/000005528.m3u8
 #EXTINF:-1 ,Viasat Nature HD
 https://bkm.beetv.kz/btv/live/hls/000006482.m3u8
 #EXTINF:-1 ,TV 1000
-http://iptv.mega.net.ru:8888/TV1000/mono.m3u8
+http://91.207.115.228:12000/play/a01b
 #EXTINF:-1 ,viju TV1000 Action
-http://iptv.mega.net.ru:8888/TV1000_Action_HD/mono.m3u8
+http://65.108.0.37:8080/stbtv/stbtv/8
 #EXTINF:-1 ,TV1000 Русское кино
-http://iptv.mega.net.ru:8888/TV1000_Russkoe_kino/mono.m3u8
+http://91.205.199.3/tv1000ruskoekino/index.m3u8
 #EXTINF:-1 ,viju+ Megahit
 https://bkm.beetv.kz/btv/live/hls/000000869.m3u8
 #EXTINF:-1 ,viju+ Comedy
 http://iptv.mega.net.ru:8888/ViP_Comedy_HD/mono.m3u8
 #EXTINF:-1 ,viju+ Premiere
-http://iptv.mega.net.ru:8888/ViP_Premiere_HD/mono.m3u8
+http://65.108.0.37:8080/stbtv/stbtv/11
+#EXTINF:-1 ,Viju+ Serial
+http://91.205.199.3/vipserialhd/index.m3u8
+
+
 
 
 #EXTINF:-1 ,Viasat Kino Action
