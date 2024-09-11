@@ -112,7 +112,7 @@ http://91.205.199.3/tv1000ruskoekino/index.m3u8
 #EXTINF:-1 ,viju+ Megahit
 https://bkm.beetv.kz/btv/live/hls/000000869.m3u8
 #EXTINF:-1 ,viju+ Comedy
-http://iptv.mega.net.ru:8888/ViP_Comedy_HD/mono.m3u8
+http://91.207.115.228:12000/play/a03v
 #EXTINF:-1 ,viju+ Premiere
 http://65.108.0.37:8080/stbtv/stbtv/11
 #EXTINF:-1 ,Viju+ Serial
@@ -159,17 +159,6 @@ http://91.142.158.107:8092/play/28/index.m3u8
 
 #EXTINF:-1 group-title="ASS (VPN)",Душевное
 http://188.190.222.48:8765/Dushevnoe_HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Вокзал-Инфоком (VPN)",Победа
-http://iptv.mega.net.ru:8888/Pobeda/mono.m3u8
-#EXTINF:-1 group-title="Вокзал-Инфоком (VPN)",Шокирующее
-http://iptv.mega.net.ru:8888/Kinopokaz_HD_1/mono.m3u8
-#EXTINF:-1 group-title="Вокзал-Инфоком (VPN)",Комедийное
-http://iptv.mega.net.ru:8888/Kinopokaz_HD_2/mono.m3u8
-#EXTINF:-1 group-title="Вокзал-Инфоком (VPN)",Filmbox Arthouse
-http://iptv.mega.net.ru:8888/FilmBOX_Arthouse/mono.m3u8
-#EXTINF:-1 group-title="Вокзал-Инфоком (VPN)",Plan B
-http://iptv.mega.net.ru:8888/plan_b_hd/mono.m3u8
 
 #EXTINF:-1,Кинопремьера HD
 https://mhd116.iptv2022.com/p/vTb95BSmFpES-Lv8ytkMVA,1726045205/streaming/film-premiere/324/1/tracks-v4a1/mono.m3u8
