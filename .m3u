@@ -65,7 +65,7 @@ https://bkm.beetv.kz/btv/live/hls/000004610.m3u8
 #EXTINF:-1 ,Дикая охота HD
 https://bkm.beetv.kz/btv/live/hls/000004609.m3u8
 #EXTINF:-1 ,Ocean-TV
-http://tv.newline.in.ua:9012/play/r00r
+http://188.190.222.48:8765/Ocean_TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 ,Телепутешествия
 http://195.211.27.149:8887/8182/index.m3u8?token=test
@@ -116,7 +116,7 @@ http://91.207.115.228:12000/play/a03v
 #EXTINF:-1 ,viju+ Premiere
 http://65.108.0.37:8080/stbtv/stbtv/11
 #EXTINF:-1 ,Viju+ Serial
-http://tv.newline.in.ua:9022/play/c00f
+http://91.205.199.3/vipserialhd/index.m3u8
 
 
 
