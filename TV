@@ -2019,8 +2019,7 @@ http://91.90.255.235:8000/play/a008/index.m3u8
 
 
 
-#EXTINF:-1 group-title="Digital TV",Первый канал Евразия
-http://sc.id-tv.kz/1KanalEvraziya_34_35.m3u8
+
 #EXTINF:-1 group-title="Digital TV",Россия РТР
 http://sc.id-tv.kz/RossiyaRTR_34_35.m3u8
 #EXTINF:-1 group-title="Digital TV",НТВ-Мир
@@ -2031,18 +2030,14 @@ http://sc.id-tv.kz/tntComedy_34_35.m3u8
 http://sc.id-tv.kz/tnt4_34_35.m3u8
 #EXTINF:-1 group-title="Digital TV",Рен ТВ International
 http://sc.id-tv.kz/RenTV_36_37.m3u8
-#EXTINF:-1 group-title="Digital TV",Моя Планета
-http://sc.id-tv.kz/MoyaPlaneta_34_35.m3u8
-#EXTINF:-1 group-title="Digital TV",Nat Geo Wild HD
-http://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+#EXTINF:-1 group-title="Digital TV",ТНВ-Планета
+http://sc.id-tv.kz/TNV-Planeta_34_35.m3u8
 #EXTINF:-1 group-title="Digital TV",History
 http://sc.id-tv.kz/HistoryHD_36_37.m3u8
 #EXTINF:-1 group-title="Digital TV",Viasat Nature
 http://sc.id-tv.kz/ViasatNature_34_35.m3u8
 #EXTINF:-1 group-title="Digital TV",FOX HD
 http://sc.id-tv.kz/FOX_HD_34_35.m3u8
-#EXTINF:-1 group-title="Digital TV",КИНОПРЕМЬЕРА HD
-http://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
 #EXTINF:-1 group-title="Digital TV",Мужское Кино HD
 http://sc.id-tv.kz/Mujskoe_kino_hd_34_35.m3u8
 #EXTINF:-1 group-title="Digital TV",Киносвидание HD
@@ -2089,28 +2084,18 @@ http://sc.id-tv.kz/Khabar_24.m3u8
 http://sc.id-tv.kz/Mir24.m3u8
 #EXTINF:-1 group-title="Digital TV",НСТ
 http://sc.id-tv.kz/NSTV.m3u8
-#EXTINF:-1 group-title="Digital TV",Иллюзион+
+#EXTINF:-1 group-title="Digital TV",Иллюзион +
 http://sc.id-tv.kz/IlluzionPlus_36_37.m3u8
 #EXTINF:-1 group-title="Digital TV",КТК
 http://sc.id-tv.kz/KTK_34_35.m3u8
 #EXTINF:-1 group-title="Digital TV",СТС
 http://sc.id-tv.kz/STS_34_35.m3u8
-#EXTINF:-1 group-title="Digital TV",Euronews
-http://sc.id-tv.kz/Euronews_34_35.m3u8
-#EXTINF:-1 group-title="Digital TV",РБК
-http://sc.id-tv.kz/RBK_34_35.m3u8
-#EXTINF:-1 group-title="Digital TV",Седьмой канал
-http://sc.id-tv.kz/7_kanal_34_35.m3u8
 #EXTINF:-1 group-title="Digital TV",Беларусь 24
 http://sc.id-tv.kz/Belarus24_34_35.m3u8
-#EXTINF:-1 group-title="Digital TV",31 канал KZ
-http://sc.id-tv.kz/31Kanal_34_35.m3u8
 #EXTINF:-1 group-title="Digital TV",El Arna
 http://sc.id-tv.kz/ElArna_34_35.m3u8
 #EXTINF:-1 group-title="Digital TV",Da Vinci Kids
 http://sc.id-tv.kz/DaVinci_34_35.m3u8
-#EXTINF:-1 group-title="Digital TV",Nickelodeon
-http://sc.id-tv.kz/Nickelodeon_34_35.m3u8
 #EXTINF:-1 group-title="Digital TV",Мульт
 http://sc.id-tv.kz/Mult_34_35.m3u8
 #EXTINF:-1 group-title="Digital TV",Gulli
