@@ -1852,49 +1852,49 @@ rtmp://5.182.229.90//7203
 
 
 
-#EXTINF:-1 group-title="RTPM_2",Первый канал Евразия
+#EXTINF:-1  group-title="RTMP_2",Первый канал Евразия
 rtmp://92.119.88.58//2212
-#EXTINF:-1 group-title="RTPM_2",National Geographic
+#EXTINF:-1  group-title="RTMP_2",National Geographic
 rtmp://92.119.88.58//2336
-#EXTINF:-1 group-title="RTPM_2",Туризм 365
+#EXTINF:-1  group-title="RTMP_2",Туризм 365
 rtmp://92.119.88.58//2241
-#EXTINF:-1 group-title="RTPM_2",РБК
+#EXTINF:-1  group-title="RTMP_2",РБК
 rtmp://92.119.88.58//2404
-#EXTINF:-1 group-title="RTPM_2",Рыболов
+#EXTINF:-1  group-title="RTMP_2",Рыболов
 rtmp://92.119.88.58//2394
-#EXTINF:-1 group-title="RTPM_2",Astana TV
+#EXTINF:-1  group-title="RTMP_2",Astana TV
 rtmp://92.119.88.58//2214
-#EXTINF:-1 group-title="RTPM_2",Jibek Joly
+#EXTINF:-1  group-title="RTMP_2",Jibek Joly
 rtmp://92.119.88.58//2215
-#EXTINF:-1 group-title="RTPM_2",5 канал KZ
+#EXTINF:-1  group-title="RTMP_2",5 канал KZ
 rtmp://92.119.88.58//2221
-#EXTINF:-1 group-title="RTPM_2",24KZ
+#EXTINF:-1  group-title="RTMP_2",24KZ
 rtmp://92.119.88.58//2225
-#EXTINF:-1 group-title="RTPM_2",Gakku
+#EXTINF:-1  group-title="RTMP_2",Gakku
 rtmp://92.119.88.58//2228
-#EXTINF:-1 group-title="RTPM_2",Sinamo TV HD
+#EXTINF:-1  group-title="RTMP_2",Sinamo TV HD
 rtmp://92.119.88.58//2231
-#EXTINF:-1 group-title="RTPM_2",Точикистон
+#EXTINF:-1  group-title="RTMP_2",Точикистон
 rtmp://92.119.88.58//2232
-#EXTINF:-1 group-title="RTPM_2",ТВБ
+#EXTINF:-1  group-title="RTMP_2",ТВБ
 rtmp://92.119.88.58//2234
-#EXTINF:-1 group-title="RTPM_2",Ozbekiston
+#EXTINF:-1  group-title="RTMP_2",Ozbekiston
 rtmp://92.119.88.58//2236
-#EXTINF:-1 group-title="RTPM_2",Yoshlar
+#EXTINF:-1  group-title="RTMP_2",Yoshlar
 rtmp://92.119.88.58//2237
-#EXTINF:-1 group-title="RTPM_2",Toshkent
+#EXTINF:-1  group-title="RTMP_2",Toshkent
 rtmp://92.119.88.58//2238
-#EXTINF:-1 group-title="RTPM_2",Madaniyat va Ma'rifat UZ
+#EXTINF:-1  group-title="RTMP_2",Madaniyat va Ma'rifat UZ
 rtmp://92.119.88.58//2240
-#EXTINF:-1 group-title="RTPM_2",Bolajon
+#EXTINF:-1  group-title="RTMP_2",Bolajon
 rtmp://92.119.88.58//2242
-#EXTINF:-1 group-title="RTPM_2",Navo
+#EXTINF:-1  group-title="RTMP_2",Navo
 rtmp://92.119.88.58//2243
-#EXTINF:-1 group-title="RTPM_2",Uzbekistan 24
+#EXTINF:-1  group-title="RTMP_2",Uzbekistan 24
 rtmp://92.119.88.58//2246
-#EXTINF:-1 group-title="RTPM_2",Food Network HD
+#EXTINF:-1  group-title="RTMP_2",Food Network HD
 rtmp://92.119.88.58//2419
-#EXTINF:-1 group-title="RTPM_2",Shant Kids HD
+#EXTINF:-1  group-title="RTMP_2",Shant Kids HD
 rtmp://92.119.88.58//2401
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Sport UZ HD
 rtmp://92.119.88.58//2239
@@ -1924,6 +1924,53 @@ rtmp://92.119.88.58//2388
 rtmp://92.119.88.58//2389
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Sport 5 Stars HD IL
 rtmp://92.119.88.58//2391
+
+
+
+
+
+#EXTINF:-1  group-title="RTMP_3" ,Дорама
+rtmp://213.230.126.109//dorama
+#EXTINF:-1  group-title="RTMP_3" ,Дом Кино
+rtmp://213.230.126.109//dom_kino
+#EXTINF:-1  group-title="RTMP_3" ,Мужское Кино
+rtmp://213.230.126.109//mujskoe-kino
+#EXTINF:-1  group-title="RTMP_3" ,Киносерия
+rtmp://213.230.126.109//kino-seria
+#EXTINF:-1  group-title="RTMP_3" ,Индийское Кино
+rtmp://213.230.126.109//india-kino
+#EXTINF:-1  group-title="RTMP_3" ,Киносемья
+rtmp://213.230.126.109//kinosemya
+#EXTINF:-1  group-title="RTMP_3" ,Киномикс
+rtmp://213.230.126.109//kinomix
+#EXTINF:-1  group-title="RTMP_3" ,Hollywood
+rtmp://213.230.126.109//hollywood
+#EXTINF:-1  group-title="RTMP_3" ,Кинокомедия 
+rtmp://213.230.126.109//kinokomedia
+#EXTINF:-1  group-title="RTMP_3" ,Киносвидание
+rtmp://213.230.126.109//kino-svidanie
+#EXTINF:-1  group-title="RTMP_3" ,Кинопоказ
+rtmp://213.230.126.109//kinopokaz
+#EXTINF:-1  group-title="RTMP_3",Сарафан
+rtmp://213.230.126.109//sarafan
+#EXTINF:-1  group-title="RTMP_3",Авто Плюс
+rtmp://213.230.126.109//avto_plus
+#EXTINF:-1  group-title="RTMP_3" ,Наука
+rtmp://213.230.126.109//nauka
+#EXTINF:-1  group-title="RTMP_3" ,Зоопарк
+rtmp://213.230.126.109//zootv
+#EXTINF:-1  group-title="RTMP_3" ,Sevimli UZ
+rtmp://213.230.126.109//sevimli
+#EXTINF:-1  group-title="RTMP_3" ,Milliy TV UZ
+rtmp://213.230.126.109//milliy
+#EXTINF:-1  group-title="RTMP_3" ,Zo'r TV HD UZ
+rtmp://213.230.126.109//zortv
+#EXTINF:-1  group-title="RTMP_3" ,My5 UZ
+rtmp://213.230.126.109//my5
+#EXTINF:-1 group-title="Спорткомплекс 🏆",UzSport
+rtmp://213.230.126.109//sport
+#EXTINF:-1 group-title="Спорткомплекс 🏆",MMA-TV.COM
+rtmp://213.230.126.109//mmatv
 
 
 
