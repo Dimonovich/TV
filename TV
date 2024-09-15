@@ -2422,18 +2422,7 @@ http://iptv.prosto.tv:7000/ch350/video.m3u8
 
 
 
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://folxplay.tv/logos/one_mt_neg_b.png",One 1
-https://cdne.folxplay.tv/fxt/streams/ch-3/master.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://folxplay.tv/logos/one_neg_b.png",One 1 Anria
-https://cdne.folxplay.tv/fxt/streams/ch-6/master.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://folxplay.tv/logos/zwei_neg_b.png",Zwei 2
-https://cdne.folxplay.tv/fxt/streams/ch-2/master.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://folxplay.tv/logos/mt_neg_b.png",Folx
-https://cdne.folxplay.tv/fxt/streams/ch-4/master.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://folxplay.tv/logos/folx_slo_neg_b.png",Folx Slovenija
-https://cdne.folxplay.tv/fxt/streams/ch-5/master.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://folxplay.tv/logos/adria_neg_b.png",Adria
-https://cdne.folxplay.tv/fxt/streams/ch-1/master.m3u8
+
 #EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://sat.kharkiv.ua/images/Strani/evropa/north%20macedonia/sky%20folk%20tv.jpg",SKY Folk TV
 http://eu.live.skyfolk.mk/live.m3u8
 #EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://www.radio-banovina.hr/wp-content/uploads/2015/01/logo-120_00000.png",Banovina TV
