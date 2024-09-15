@@ -61,28 +61,6 @@ http://45.143.108.104/AMEDIA2_HD/index.m3u8
 http://45.143.108.104/arsenal/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵",TV1000 Русское кино HD
 http://45.143.108.104/TV1000RU_HD/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Ю
-http://78.62.135.122:8082/utv/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵",2x2
-http://78.62.135.122:8082/2x2/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Amedia Premium HD
-http://78.62.135.122:8082/amediapremiumhd/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Еврокино
-http://78.62.135.122:8082/evrokino/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵",.Sci-fi
-http://78.62.135.122:8082/Scifi/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵",.Black
-http://78.62.135.122:8082/sonyturbo/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵",ТНТ Music
-http://78.62.135.122:8082/tntmusic/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵",RU.TV
-http://78.62.135.122:8082/rutv/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Gulli Girl
-http://78.62.135.122:8082/gulli/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Tiji
-http://78.62.135.122:8082/tiji/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵",СТС Kids HD
-http://78.62.135.122:8082/STSKidsHD/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵",МУЛЬТИМАНИЯ
 https://void.greenhosting.ru/Multimania_Mpeg4/video.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Еврокино
@@ -95,8 +73,6 @@ http://87.120.142.11:18000/RossiyaK
 http://87.120.142.11:18000/RENTV
 #EXTINF:-1 group-title="TEST ⓵",Trace Sport Stars HD
 http://87.120.142.11:18000/Rossiya1
-#EXTINF:-1 group-title="TEST ⓵",Матч Премьер HD
-http://78.62.135.122:8082/MatchPremierHD/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Матч! Боец
 http://87.120.142.11:18000/Match!
 #EXTINF:-1 group-title="TEST ⓵",Матч! АРЕНА
