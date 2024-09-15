@@ -53,14 +53,38 @@ https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Novella_HD.smil/tracks-v1
 rtmp://185.26.157.3/live//vip_premiere_hd
 #EXTINF:-1 group-title="TEST ⓵",Мир сериала
 rtmp://185.26.157.3/live//mir_seriala
+#EXTINF:-1 group-title="TEST ⓵",Дом Кино
+rtmp://212.0.213.132//Dom_Kino
+#EXTINF:-1 group-title="TEST ⓵",КИНОСВИДАНИЕ
+rtmp://212.0.213.132//Kinosvidanie
+#EXTINF:-1 group-title="TEST ⓵",Kинохит HD
+rtmp://212.0.213.132//KinoHit
+#EXTINF:-1 group-title="TEST ⓵",Киносерия HD
+rtmp://212.0.213.132//Kinoseria
+#EXTINF:-1 group-title="TEST ⓵",TLC HD
+rtmp://212.0.213.132//TLC
+#EXTINF:-1 group-title="TEST ⓵",Global 24
+rtmp://212.0.213.132//Ren_TV
+#EXTINF:-1 group-title="TEST ⓵",RU.TV
+rtmp://212.0.213.132//Ru_TV
+#EXTINF:-1 group-title="TEST ⓵",ПЕРЕЦ
+rtmp://212.0.213.132//Teledom
+#EXTINF:-1 group-title="TEST ⓵",Gurinel
+rtmp://212.0.213.132//Gurinel
+#EXTINF:-1 group-title="TEST ⓵",Tezaur Folc HD
+rtmp://212.0.213.132//Tezaur
+#EXTINF:-1 group-title="TEST ⓵",Food HD
+rtmp://212.0.213.132//Joy_Cook
+#EXTINF:-1 group-title="TEST ⓵",Nick Jr
+rtmp://212.0.213.132//NickJr
 #EXTINF:-1 group-title="TEST ⓵",AMEDIA 1
 http://45.143.108.104/AMEDIA1_SD/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵",AMEDIA 2 HD
 http://45.143.108.104/AMEDIA2_HD/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Арсенал HD
-http://45.143.108.104/arsenal/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵",TV1000 Русское кино HD
 http://45.143.108.104/TV1000RU_HD/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Арсенал HD
+http://45.143.108.104/arsenal/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵",МУЛЬТИМАНИЯ
 https://void.greenhosting.ru/Multimania_Mpeg4/video.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Еврокино
