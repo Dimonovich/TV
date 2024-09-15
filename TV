@@ -215,11 +215,11 @@ http://185.46.48.18:80/disney/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",МАТЧ ТВ
 http://185.46.48.18:80/match/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://i.postimg.cc/rmGxq8Ls/1.jpg",Осторожно модерн
-https://132544.edgevideo.ru/streams/132544_702992/720n/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://i.postimg.cc/vZDKTKTb/1.jpg",Сериал Офис 2 сезон - Все серии
-https://132544.edgevideo.ru/streams/132544_737074/480n/index.m3u8
+https://132544.edgevideo.ru/streams/132544_715410/132544720/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://i.postimg.cc/rmGxq8Ls/1.jpg",Осторожно модерн 2
+https://132544.edgevideo.ru/streams/132544_702992/132544720/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",Viva HD
-https://132544.edgevideo.ru/streams/132544_713325/1080n/index.m3u8
+https://132544.edgevideo.ru/streams/132544_713325/1325441080/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://i.postimg.cc/HsvGnLG9/1.jpg",Dancehits 80
 http://dancehits80.denvs.ru:8080/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)" tvg-logo="http://epg.it999.ru/img2/5441.png",ТВОЕ ТВ HD
