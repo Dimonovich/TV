@@ -5724,37 +5724,47 @@ http://91.142.158.107:8092/play/3/index.m3u8
 
 #EXTINF:-1 group-title="Телевизор 24 (VPN 🇷🇺)",Первый канал
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
-https://streaming.goodstream.cyou/live/210-req_offset_28000000-req_window_0-1k_v5.m3u8
-#EXTINF:-1 group-title="Телевизор 24 (VPN 🇷🇺)",НТВ-Мир
+https://streaming.skynetconnect.online/live/210-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 group-title="Телевизор 24 (VPN 🇷🇺)",Россия 1
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
-https://streaming.thestream.cyou/live/213-req_offset_28000000-req_window_0-1k_v5.m3u8
-#EXTINF:-1 group-title="Телевизор 24 (VPN 🇷🇺)",ТНТ
-#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
-https://streaming.thestream.cyou/live/38-req_offset_28000000-req_window_0-1k_v5.m3u8
-#EXTINF:-1 group-title="Телевизор 24 (VPN 🇷🇺)",Россия РТР
-#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
-https://streaming.thestream.cyou/live/211-req_offset_28000000-req_window_0-1k_v5.m3u8
+https://streaming.skynetconnect.online/live/211-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Телевизор 24 (VPN 🇷🇺)",Россия 24
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
-https://streaming.thestream.cyou/live/30-req_offset_28000000-req_window_1-3k_v5.m3u8
+https://streaming.skynetconnect.online/live/30-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 group-title="Телевизор 24 (VPN 🇷🇺)",НТВ
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+https://streaming.skynetconnect.online/live/213-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 group-title="Телевизор 24 (VPN 🇷🇺)",НТВ-Мир
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+https://streaming.skynetconnect.online/live/213-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 group-title="Телевизор 24 (VPN 🇷🇺)",ТНТ
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+https://streaming.skynetconnect.online/live/38-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 group-title="Телевизор 24 (VPN 🇷🇺)",Россия РТР
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+https://streaming.skynetconnect.online/live/211-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 group-title="Телевизор 24 (VPN 🇷🇺)",Россия 24
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+https://streaming.skynetconnect.online/live/30-req_offset_28000000-req_window_1-3k_v5.m3u8
 #EXTINF:-1 group-title="Телевизор 24 (VPN 🇷🇺)",Победа
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
-https://streaming.thestream.cyou/live/43-req_offset_28000000-req_window_0-1k_v5.m3u8
+https://streaming.skynetconnect.online/live/43-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Телевизор 24 (VPN 🇷🇺)",СТС
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
-https://streaming.thestream.cyou/live/296-req_offset_28000000-req_window_0-1k_v5.m3u8
+https://streaming.skynetconnect.online/live/296-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Телевизор 24 (VPN 🇷🇺)",Дом Кино
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
-https://streaming.goodstream.cyou/live/44-req_offset_28000000-req_window_0-1k_v5.m3u8
+https://streaming.skynetconnect.online/live/44-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Телевизор 24 (VPN 🇷🇺)",Звезда
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
-https://streaming.thestream.cyou/live/748-req_offset_28000000-req_window_0-1k_v5.m3u8
+https://streaming.skynetconnect.online/live/748-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Телевизор 24 (VPN 🇷🇺)",Карусель
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
-https://streaming.thestream.cyou/live/232-req_offset_28000000-req_window_0-1k_v5.m3u8
+https://streaming.skynetconnect.online/live/232-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Телевизор 24 (VPN 🇷🇺)",МузТВ
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
-https://streaming.thestream.cyou/live/618-req_offset_28000000-req_window_0-3k_v5.m3u8
+https://streaming.skynetconnect.online/live/618-req_offset_28000000-req_window_0-3k_v5.m3u8
+
 
 
 
