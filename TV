@@ -958,41 +958,6 @@ http://65.21.85.175:8000/play/a00c/index.m3u8?token=livetv
 
 
 
-#EXTINF:-1 group-title="Hetzner Online_2",Первый канал
-http://65.108.0.37:8080/stbtv/stbtv/18
-#EXTINF:-1 group-title="Hetzner Online_2",НТВ
-http://65.108.0.37:8080/stbtv/stbtv/16
-#EXTINF:-1 group-title="Hetzner Online_2",Россия 1
-http://65.108.0.37:8080/stbtv/stbtv/20
-#EXTINF:-1 group-title="Hetzner Online_2",History HD
-http://65.108.0.37:8080/stbtv/stbtv/61
-#EXTINF:-1 group-title="Hetzner Online_2",Discovery Channel
-http://65.108.0.37:8080/stbtv/stbtv/2
-#EXTINF:-1 group-title="Hetzner Online_2",Nat Geo Wild
-http://65.108.0.37:8080/stbtv/stbtv/5
-#EXTINF:-1 group-title="Hetzner Online_2",National Geographic
-http://65.108.0.37:8080/stbtv/stbtv/6
-#EXTINF:-1 group-title="Hetzner Online_2",TV1000 Action
-http://65.108.0.37:8080/stbtv/stbtv/8
-#EXTINF:-1 group-title="Hetzner Online_2",VIP MegaHit
-http://65.108.0.37:8080/stbtv/stbtv/10
-#EXTINF:-1 group-title="Hetzner Online_2",VIP Premiere
-http://65.108.0.37:8080/stbtv/stbtv/11
-#EXTINF:-1 group-title="Hetzner Online_2",Матч! Футбол 1
-http://65.108.0.37:8080/stbtv/stbtv/15
-#EXTINF:-1 group-title="Hetzner Online_2",Setanta Sports 1
-http://65.108.0.37:8080/stbtv/stbtv/59
-#EXTINF:-1 group-title="Hetzner Online_2",Setanta Sports 2
-http://65.108.0.37:8080/stbtv/stbtv/60
-#EXTINF:-1 group-title="Hetzner Online_2",Eurosport 1
-http://65.108.0.37:8080/stbtv/stbtv/3
-
-
-
-
-
-
-
 
 #EXTINF:-1 group-title="Stichting Blijf Groep",BIG PLANET HD
 http://88.218.242.237:8000/play/a00k
