@@ -106,7 +106,7 @@ https://bkm.beetv.kz/btv/live/hls/000006482.m3u8
 #EXTINF:-1 ,TV 1000
 http://91.207.115.228:12000/play/a01b
 #EXTINF:-1 ,viju TV1000 Action
-http://65.108.0.37:8080/stbtv/stbtv/8
+http://91.205.199.3/tv1000action/index.m3u8
 #EXTINF:-1 ,TV1000 Русское кино
 http://91.205.199.3/tv1000ruskoekino/index.m3u8
 #EXTINF:-1 ,viju+ Megahit
@@ -114,7 +114,7 @@ https://bkm.beetv.kz/btv/live/hls/000000869.m3u8
 #EXTINF:-1 ,viju+ Comedy
 http://91.207.115.228:12000/play/a03v
 #EXTINF:-1 ,viju+ Premiere
-http://65.108.0.37:8080/stbtv/stbtv/11
+http://91.207.115.228:12000/play/a03x
 #EXTINF:-1 ,Viju+ Serial
 http://91.205.199.3/vipserialhd/index.m3u8
 
