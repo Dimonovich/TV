@@ -3838,6 +3838,197 @@ http://77.243.112.149:8080/start_hd/index.m3u8
 
 
 
+
+
+
+
+
+#EXTINF:-1 group-title="Ком лан (VPN)" ,Первый канал
+http://31.130.63.173:1011/pervyj_kanal/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Ком лан (VPN)" ,РЕН ТВ
+http://31.130.63.173:1011/ren_tv/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Ком лан (VPN)" ,Россия К
+http://31.130.63.173:1011/kultura/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Ком лан (VPN)" ,НТВ
+http://31.130.63.173:1011/ntv/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Ком лан (VPN)" ,ТНТ
+http://31.130.63.173:1011/tnt/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Ком лан (VPN)" ,ТНТ HD
+http://31.130.63.173:1011/tnt_hd/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Ком лан (VPN)" ,ТНТ4
+http://31.130.63.173:1011/tnt4/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Ком лан (VPN)" ,HD Life
+http://31.130.63.173:1011/hdl/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Ком лан (VPN)" ,RTG HD
+http://31.130.63.173:1011/rtg_hd/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Ком лан (VPN)" ,RTG TV
+http://31.130.63.173:1011/rtg_tv/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Ком лан (VPN)" ,Terra
+http://31.130.63.173:1011/national_geographic/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Ком лан (VPN)" ,Terra HD
+http://31.130.63.173:1011/national_geographic_hd/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Ком лан (VPN)" ,Viasat explore
+http://31.130.63.173:1011/viasat_explore/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Ком лан (VPN)" ,Viasat history
+http://31.130.63.173:1011/viasat_history/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Ком лан (VPN)" ,2x2
+http://31.130.63.173:1011/2x2/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Ком лан (VPN)" ,360
+http://31.130.63.173:1011/360/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Ком лан (VPN)" ,365 дней
+http://31.130.63.173:1011/365_dnej_tv/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Ком лан (VPN)" ,Amedia 1
+http://31.130.63.173:1011/a1/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Ком лан (VPN)" ,Amedia 2
+http://31.130.63.173:1011/a2/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Ком лан (VPN)" ,Amedia Hit HD
+http://31.130.63.173:1011/amedia_hit_hd/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Ком лан (VPN)" ,Amedia Premium HD
+http://31.130.63.173:1011/amedia_premium_hd/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Ком лан (VPN)" ,Cinema
+http://31.130.63.173:1011/cinema/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Ком лан (VPN)" ,Food Network
+http://31.130.63.173:1011/eda_hd/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Ком лан (VPN)" ,Hollywood
+http://31.130.63.173:1011/hollywood/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Ком лан (VPN)" ,TV1000 HD
+http://31.130.63.173:1011/tv1000_hd/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Ком лан (VPN)" ,ТV1000
+http://31.130.63.173:1011/tv1000/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Ком лан (VPN)" ,VIP Comedy
+http://31.130.63.173:1011/vip_comedy_hd/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Ком лан (VPN)" ,VIP Megahit
+http://31.130.63.173:1011/vip_megahit_hd/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Ком лан (VPN)" ,VIP Premiere
+http://31.130.63.173:1011/vip_premiere_hd/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Ком лан (VPN)" ,Дом кино
+http://31.130.63.173:1011/dom_kino/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Ком лан (VPN)" ,Дом Кино Премиум HD
+http://31.130.63.173:1011/dom_kino_premium_hd/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Ком лан (VPN)" ,Домашний
+http://31.130.63.173:1011/domashnij/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Ком лан (VPN)" ,Дорама
+http://31.130.63.173:1011/dorama/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Ком лан (VPN)" ,Еuronews
+http://31.130.63.173:1011/euronews/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Ком лан (VPN)" ,Еврокино
+http://31.130.63.173:1011/evrokino/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Ком лан (VPN)" ,Звезда
+http://31.130.63.173:1011/zvezda/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Ком лан (VPN)" ,Зоопарк
+http://31.130.63.173:1011/zoopark/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Ком лан (VPN)" ,Кинеко
+http://31.130.63.173:1011/fox/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Ком лан (VPN)" ,Кинеко HD
+http://31.130.63.173:1011/fox_hd/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Ком лан (VPN)" ,Кинокомедия
+http://31.130.63.173:1011/kinokomedija/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Ком лан (VPN)" ,Киномикс
+http://31.130.63.173:1011/kinomiks/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Ком лан (VPN)" ,Киносвидание
+http://31.130.63.173:1011/kinosvidanie/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Ком лан (VPN)" ,Наше новое кино
+http://31.130.63.173:1011/nashe_novoe_kino/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Ком лан (VPN)" ,Киносемья
+http://31.130.63.173:1011/kinosemja/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Ком лан (VPN)" ,Киносерия
+http://31.130.63.173:1011/kinoserija/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Ком лан (VPN)" ,Кинохит
+http://31.130.63.173:1011/kinokhit/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Ком лан (VPN)" ,Мир
+http://31.130.63.173:1011/mir/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Ком лан (VPN)" ,Мосфильм. Золотая коллекция
+http://31.130.63.173:1011/mosfilm/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Ком лан (VPN)" ,Мужской
+http://31.130.63.173:1011/muzhskoj/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Ком лан (VPN)" ,НСТ
+http://31.130.63.173:1011/nst/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Ком лан (VPN)" ,О!
+http://31.130.63.173:1011/o!/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Ком лан (VPN)" ,Оружие
+http://31.130.63.173:1011/oruzhie/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Ком лан (VPN)" ,ОТР
+http://31.130.63.173:1011/otr/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Ком лан (VPN)" ,Пятница
+http://31.130.63.173:1011/pjatnica/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Ком лан (VPN)" ,Русский бестселлер
+http://31.130.63.173:1011/russkij_bestseller/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Ком лан (VPN)" ,Русский роман
+http://31.130.63.173:1011/russkij_roman/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Ком лан (VPN)" ,Санкт-Петербург
+http://31.130.63.173:1011/sankt-peterburg/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Ком лан (VPN)" ,Сапфир
+http://31.130.63.173:1011/fox_life/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Ком лан (VPN)" ,Сапфир HD
+http://31.130.63.173:1011/fox_life_hd/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Ком лан (VPN)" ,Сарафан
+http://31.130.63.173:1011/sarafan/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Ком лан (VPN)" ,Спас
+http://31.130.63.173:1011/spas/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Ком лан (VPN)" ,СТС
+http://31.130.63.173:1011/sts/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Ком лан (VPN)" ,СТС HD
+http://31.130.63.173:1011/sts_hd/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Ком лан (VPN)" ,СТС Love
+http://31.130.63.173:1011/sts_love/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Ком лан (VPN)" ,ТВЦ
+http://31.130.63.173:1011/tv_centr/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Ком лан (VPN)" ,Теледом
+http://31.130.63.173:1011/teledom_hd/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Ком лан (VPN)" ,Телекафе
+http://31.130.63.173:1011/telekafe/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Ком лан (VPN)" ,ТНВ-Планета
+http://31.130.63.173:1011/tnv-planeta/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Ком лан (VPN)" ,Феникс+кино
+http://31.130.63.173:1011/feniks+kino/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Ком лан (VPN)" ,ЧЕ
+http://31.130.63.173:1011/che/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Ком лан (VPN)" ,Gulli girl
+http://31.130.63.173:1011/gulli_girl/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Ком лан (VPN)" ,Бобер
+http://31.130.63.173:1011/bober/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Ком лан (VPN)" ,Уникум
+http://31.130.63.173:1011/unikum/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Ком лан (VPN)" ,Мульт
+http://31.130.63.173:1011/mult/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Ком лан (VPN)" ,Мама
+http://31.130.63.173:1011/mama/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Ком лан (VPN)" ,Карусель
+http://31.130.63.173:1011/karusel/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Ком лан (VPN)" ,Мультиландия
+http://31.130.63.173:1011/multilandija/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Ком лан (VPN)" ,Tiji
+http://31.130.63.173:1011/tiji/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Ком лан (VPN)" ,Мультимузыка
+http://31.130.63.173:1011/multimuzyka/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Ком лан (VPN)" ,ТНТ Music
+http://31.130.63.173:1011/tnt-music/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Ком лан (VPN)" ,МузТВ
+http://31.130.63.173:1011/muz-tv/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Ком лан (VPN)" ,Bridge TV
+http://31.130.63.173:1011/bridge_tv/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Extreme sports
+http://31.130.63.173:1011/extreme_sports/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",KHL
+http://31.130.63.173:1011/khl/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",KHL HD
+http://31.130.63.173:1011/khl_prime/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч Премьер
+http://31.130.63.173:1011/match_premer/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч ТВ
+http://31.130.63.173:1011/match_tv/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч ТВ HD
+http://31.130.63.173:1011/match_tv_hd/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Viasat sport
+http://31.130.63.173:1011/viasat_sport/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Viasat sport HD
+http://31.130.63.173:1011/viasat_sport_hd/tracks-v1a1/playlist.m3u8
+
+
+
+
+
+
 #EXTINF:-1 group-title="Вокзал-Инфоком (VPN)",Первый Канал HD
 http://iptv.mega.net.ru:8888/Pervii_Kanal_HD/mono.m3u8
 #EXTINF:-1 group-title="Вокзал-Инфоком (VPN)",Первый Канал
