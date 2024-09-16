@@ -49,8 +49,8 @@ http://194.143.148.28:8080/RTG_HD/mpegts
 https://stream01.vnet.am/InvestigationDiscovery/tracks-v1a2/mono.m3u8
 #EXTINF:-1 ,Большая Азия
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,МОЯ ПЛАНЕТА
-http://77.243.112.149:8080/planeta_hd/index.m3u8
+#EXTINF:-1 group-title="Вокзал-Инфоком (VPN)",МОЯ ПЛАНЕТА
+http://iptv.mega.net.ru:8888/Moa_Planeta/mono.m3u8
 #EXTINF:-1 ,Приключения HD
 https://bkm.beetv.kz/btv/live/hls/000000277.m3u8
 
@@ -188,7 +188,7 @@ http://hls.seversk.ru:8080/play/a01c/index.m3u8
 http://91.224.169.250:5000/c155
 
 #EXTINF:-1 ,Fan HD
-http://77.243.112.149:8080/fan/index.m3u8
+http://iptv.mega.net.ru:8888/Discovery_Channel/mono.m3u8
 
 #EXTINF:-1 ,Gags Network HD
 https://bkm.beetv.kz/btv/live/hls/000006639.m3u8
