@@ -361,7 +361,7 @@ http://serv30.vintera.tv:8081/sochi/sochi_stream/chunks.m3u8
 https://streamer1.connectto.com/532/mono.m3u8
 
 #EXTINF:-1 ,КВН ТВ
-http://91.205.199.3/kvntv/index.m3u8
+http://91.207.115.228:12000/play/a023
 
 #EXTINF:-1 ,СТС
 http://s18209.cdn.ngenix.net/hls/CH_R02_STS/playlist.m3u8
