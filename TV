@@ -99,16 +99,16 @@ http://78.62.135.122:8082/sonyturbo/index.m3u8
 http://78.62.135.122:8082/amediapremiumhd/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵",TV1000
 http://78.62.135.122:8082/tv1000/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵",ТНТ Music
-http://78.62.135.122:8082/tntmusic/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵",RU.TV
-http://78.62.135.122:8082/rutv/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Tiji
 http://78.62.135.122:8082/tiji/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵",СТС Kids HD
 http://78.62.135.122:8082/STSKidsHD/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Gulli Girl
 http://78.62.135.122:8082/gulli/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵",ТНТ Music
+http://78.62.135.122:8082/tntmusic/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵",RU.TV
+http://78.62.135.122:8082/rutv/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵",MTV
 http://fl5.moveonjoy.com/MTV/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵" ,CGTN русский
