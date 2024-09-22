@@ -49,6 +49,12 @@ https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD_ad.smil/
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000East_HD_ad.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=9bbdUWpFGETT8xn0f7hiiw&e=1727236580&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 group-title="TEST ⓵",viju TV1000 новелла
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Novella_HD.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=BXHMK9C8bSeqS9Rh-sO6Aw&e=1727236476&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:-1 group-title="TEST ⓵",Kinosweet HD
+http://95.67.12.180:11111
+#EXTINF:-1 group-title="TEST ⓵",Flix Snip
+http://95.67.12.82:9061
+#EXTINF:-1 group-title="TEST ⓵",Дорама
+http://95.67.12.82:9046
 #EXTINF:-1 group-title="TEST ⓵",AMEDIA 1
 http://45.143.108.104/AMEDIA1_SD/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵",AMEDIA 2 HD
