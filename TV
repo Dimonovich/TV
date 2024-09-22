@@ -103,7 +103,7 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
 
 
-
+catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="pervy-tulsky",Первый Тульский HD
 
 
 
@@ -116,36 +116,38 @@ http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
 http://s18209.cdn.ngenix.net/hls/CH_R01_TNT/playlist.m3u8
 #EXTINF:-1 group-title="TEST (VPN)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия К
 http://s18209.cdn.ngenix.net/hls/CH_R02_ROSSIAK/playlist.m3u8
-#EXTINF:-1 group-title="TEST (VPN)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp},Россия 24
+#EXTINF:-1 group-title="TEST (VPN)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 24
 http://s18209.cdn.ngenix.net/hls/CH_R01_ROSSIA24/playlist.m3u8
-#EXTINF:-1 group-title="TEST (VPN)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp},НТВ
+#EXTINF:-1 group-title="TEST (VPN)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",НТВ
 http://s18209.cdn.ngenix.net/hls/CH_R03_NTV/playlist.m3u8
-#EXTINF:-1 group-title="TEST (VPN)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp},Рен ТВ
+#EXTINF:-1 group-title="TEST (VPN)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Рен ТВ
 http://s18209.cdn.ngenix.net/hls/CH_R02_RENTV/playlist.m3u8
-#EXTINF:-1 group-title="TEST (VPN)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp},Звезда
+#EXTINF:-1 group-title="TEST (VPN)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Звезда
 http://s18209.cdn.ngenix.net/hls/CH_R03_ZVEZDA/playlist.m3u8
-#EXTINF:-1 group-title="TEST (VPN)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp},Пятый канал
+#EXTINF:-1 group-title="TEST (VPN)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Пятый канал
 http://s18209.cdn.ngenix.net/hls/CH_R02_5TV/playlist.m3u8
-#EXTINF:-1 group-title="TEST (VPN)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp},ТВЦ
+#EXTINF:-1 group-title="TEST (VPN)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТВЦ
 http://s18209.cdn.ngenix.net/hls/CH_R04_TVC/playlist.m3u8
-#EXTINF:-1 group-title="TEST (VPN)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp},Домашний
+#EXTINF:-1 group-title="TEST (VPN)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Домашний
 http://s18209.cdn.ngenix.net/hls/CH_R04_DOMASHNY/playlist.m3u8
-#EXTINF:-1 group-title="TEST (VPN)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp},Пятница!
+#EXTINF:-1 group-title="TEST (VPN)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Пятница!
 http://s18209.cdn.ngenix.net/hls/CH_R01_FRIDAY/playlist.m3u8
-#EXTINF:-1 group-title="TEST (VPN)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp},ОТР
+#EXTINF:-1 group-title="TEST (VPN)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ОТР
 http://s18209.cdn.ngenix.net/hls/CH_R01_OTR/playlist.m3u8
-#EXTINF:-1 group-title="TEST (VPN)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp},Че
+#EXTINF:-1 group-title="TEST (VPN)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Че
 http://s18209.cdn.ngenix.net/hls/CH_R02_PERETZ/playlist.m3u8
-#EXTINF:-1 group-title="TEST (VPN)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp},СТС
+#EXTINF:-1 group-title="TEST (VPN)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",СТС
 http://s18209.cdn.ngenix.net/hls/CH_R02_STS/playlist.m3u8
-#EXTINF:-1 group-title="TEST (VPN)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp},ТВ3
+#EXTINF:-1 group-title="TEST (VPN)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТВ3
 http://s18209.cdn.ngenix.net/hls/CH_R01_TV3/playlist.m3u8
-#EXTINF:-1 group-title="TEST (VPN)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp},Карусель
+#EXTINF:-1 group-title="TEST (VPN)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Карусель
 http://s18209.cdn.ngenix.net/hls/CH_R01_KARUSEL/playlist.m3u8
-#EXTINF:-1 group-title="TEST (VPN)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp},Ю
+#EXTINF:-1 group-title="TEST (VPN)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Ю
 http://s18209.cdn.ngenix.net/hls/CH_R03_U/playlist.m3u8
-#EXTINF:-1 group-title="TEST (VPN)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp},Чехов ТВ/Продвижение
+#EXTINF:-1 group-title="TEST (VPN)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Чехов ТВ/Продвижение
 http://s18209.cdn.ngenix.net/hls/CH_R01_CHEKHOVTV/variant.m3u8
+#EXTINF:-1 group-title="TEST (VPN)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Матч ТВ
+http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA2/playlist.m3u8
 #EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://sunset-media.ru/assets/logos/space.png" ,Sunset Space
 https://stream.sunset-media.ru:443/Free/Free/3.m3u8
 #EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://sunset-media.ru/assets/logos/movie.png" ,Sunset Movie
