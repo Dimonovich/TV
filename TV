@@ -2015,10 +2015,6 @@ http://91.90.255.235:8000/play/a008/index.m3u8
 
 
 
-
-
-
-
 #EXTINF:-1 group-title="Digital TV",Россия РТР
 http://sc.id-tv.kz/RossiyaRTR_34_35.m3u8
 #EXTINF:-1 group-title="Digital TV",НТВ-Мир
@@ -2029,42 +2025,24 @@ http://sc.id-tv.kz/tntComedy_34_35.m3u8
 http://sc.id-tv.kz/tnt4_34_35.m3u8
 #EXTINF:-1 group-title="Digital TV",Рен ТВ International
 http://sc.id-tv.kz/RenTV_36_37.m3u8
-#EXTINF:-1 group-title="Digital TV",ТНВ-Планета
-http://sc.id-tv.kz/TNV-Planeta_34_35.m3u8
 #EXTINF:-1 group-title="Digital TV",History
 http://sc.id-tv.kz/HistoryHD_36_37.m3u8
 #EXTINF:-1 group-title="Digital TV",Viasat Nature
 http://sc.id-tv.kz/ViasatNature_34_35.m3u8
 #EXTINF:-1 group-title="Digital TV",FOX HD
 http://sc.id-tv.kz/FOX_HD_34_35.m3u8
-#EXTINF:-1 group-title="Digital TV",Мужское Кино HD
-http://sc.id-tv.kz/Mujskoe_kino_hd_34_35.m3u8
 #EXTINF:-1 group-title="Digital TV",Киносвидание HD
 http://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
 #EXTINF:-1 group-title="Digital TV",КИНОСЕМЬЯ
 http://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
-#EXTINF:-1 group-title="Digital TV",Киномикс HD
-http://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
-#EXTINF:-1 group-title="Digital TV",РОДНОЕ КИНО
-http://sc.id-tv.kz/Rodnoe_kino_34_35.m3u8
-#EXTINF:-1 group-title="Digital TV",Кинокомедия HD
-http://sc.id-tv.kz/Kinokomediya_hd_34_35.m3u8
-#EXTINF:-1 group-title="Digital TV",Кинохит HD
-http://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
 #EXTINF:-1 group-title="Digital TV",Наше новое кино
 http://sc.id-tv.kz/Nnk_hd.m3u8
 #EXTINF:-1 group-title="Digital TV",Индийское кино
 http://sc.id-tv.kz/Indiiskoe_kino.m3u8
 #EXTINF:-1 group-title="Digital TV",Amedia 1
 http://sc.id-tv.kz/A1.m3u8
-#EXTINF:-1 group-title="Digital TV",Amedia 2
-http://sc.id-tv.kz/A2_36_37.m3u8
-#EXTINF:-1 group-title="Digital TV",Amedia Hit HD
-http://sc.id-tv.kz/amedia_hit_hd_34_35.m3u8
 #EXTINF:-1 group-title="Digital TV",360° International
 http://sc.id-tv.kz/360.m3u8
-#EXTINF:-1 group-title="Digital TV",Кухня ТВ HD
-http://sc.id-tv.kz/kuhnya_hd_34_35.m3u8
 #EXTINF:-1 group-title="Digital TV",Astana
 http://sc.id-tv.kz/Astana.m3u8
 #EXTINF:-1 group-title="Digital TV",Atameken Business
@@ -2087,35 +2065,16 @@ http://sc.id-tv.kz/NSTV.m3u8
 http://sc.id-tv.kz/IlluzionPlus_36_37.m3u8
 #EXTINF:-1 group-title="Digital TV",КТК
 http://sc.id-tv.kz/KTK_34_35.m3u8
-#EXTINF:-1 group-title="Digital TV",СТС
-http://sc.id-tv.kz/STS_34_35.m3u8
-#EXTINF:-1 group-title="Digital TV",Беларусь 24
-http://sc.id-tv.kz/Belarus24_34_35.m3u8
 #EXTINF:-1 group-title="Digital TV",El Arna
 http://sc.id-tv.kz/ElArna_34_35.m3u8
 #EXTINF:-1 group-title="Digital TV",Da Vinci Kids
 http://sc.id-tv.kz/DaVinci_34_35.m3u8
-#EXTINF:-1 group-title="Digital TV",Мульт
-http://sc.id-tv.kz/Mult_34_35.m3u8
-#EXTINF:-1 group-title="Digital TV",Gulli
-http://sc.id-tv.kz/Gulli_34_35.m3u8
-#EXTINF:-1 group-title="Digital TV",Tiji TV
-http://sc.id-tv.kz/TiJi_34_35.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Планета
 http://sc.id-tv.kz/MatchPlaneta_36_37.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",KHL Prime
-http://sc.id-tv.kz/FHD_KHL_34_35.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",KHL
 http://sc.id-tv.kz/KHL_36_37.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",MMA-TV.COM
-http://sc.id-tv.kz/M-1_34_35.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Бокс ТВ
 http://sc.id-tv.kz/BoksTV_36_37.m3u8
-
-
-
-
-
 
 
 
