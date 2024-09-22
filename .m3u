@@ -54,6 +54,9 @@ http://iptv.mega.net.ru:8888/Moa_Planeta/mono.m3u8
 #EXTINF:-1 ,Приключения HD
 https://bkm.beetv.kz/btv/live/hls/000000277.m3u8
 
+#EXTINF:-1 ,Живая природа
+http://185.23.80.28:8080/ZhivayaPriroda_HD/index.m3u8
+
 #EXTINF:-1 ,Т24
 http://91.224.169.250:5000/c15
 
