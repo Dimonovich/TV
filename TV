@@ -108,7 +108,7 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
 
 
-#EXTINF:-1 group-title="TEST (VPN)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp},Первый канал
+#EXTINF:-1 group-title="TEST (VPN)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый канал
 http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8
 #EXTINF:-1 group-title="TEST (VPN)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 1
 http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
