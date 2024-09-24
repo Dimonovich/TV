@@ -71,7 +71,7 @@ https://bkm.beetv.kz/btv/live/hls/000004609.m3u8
 http://188.190.222.48:8765/Ocean_TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 ,Телепутешествия
-http://195.211.27.149:8887/8182/index.m3u8?token=test
+http://91.207.115.228:12000/play/a02h
 
 #EXTINF:-1 ,Тайна
 https://tochkatv-live.cdnvideo.ru/tochkatv_pub/tainatv.stream_aac2.smil/playlist.m3u8
@@ -79,10 +79,10 @@ https://tochkatv-live.cdnvideo.ru/tochkatv_pub/tainatv.stream_aac2.smil/playlist
 #EXTINF:-1 ,Большая Азия
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Оберон Плюс (VPN)",Охотник и рыболов
-http://hls.seversk.ru:8080/play/a019/index.m3u8
-#EXTINF:-1 group-title="Оберон Плюс (VPN)",Первый Космический
-http://hls.seversk.ru:8080/play/a01a/index.m3u8
+#EXTINF:-1 ,Охотник и рыболов
+http://s83.chas.tv:8081/chas/rybalka.stream/playlist.m3u8
+#EXTINF:-1 ,Первый Космический
+http://iptv.mega.net.ru:8888/Eureka_HD/mono.m3u8
 
 #EXTINF:-1 ,История
 http://iptv.mega.net.ru:8888/Istoria/mono.m3u8
@@ -131,7 +131,7 @@ https://wowza1.leisertv.com/live/tv1000russiakino.stream/playlist.m3u8
 http://91.207.114.220:9001/play/a03u/index.m3u8
 
 #EXTINF:-1,Amedia Hit HD
-http://hls.seversk.ru:8080/play/a01c/index.m3u8
+http://iptv.mega.net.ru:8888/Amedia_Hit_HD/mono.m3u8
 
 #EXTINF:-1,Bollywood HD
 http://91.224.169.250:5000/c155
@@ -342,6 +342,11 @@ http://194.26.229.213/chdtv_rock/index.m3u8
 
 #EXTINF:-1 ,BRIDGE ROCK
 http://hls.seversk.ru:8080/play/a012/index.m3u8
+
+#EXTINF:-1 group-title="Вокзал-Инфоком (VPN)",BRIDGE CLASSIC
+http://iptv.mega.net.ru:8888/Paramount_Comedy/mono.m3u8
+#EXTINF:-1 group-title="Вокзал-Инфоком (VPN)",BRIDGE TV Deluxe
+http://iptv.mega.net.ru:8888/Bridge_HD/mono.m3u8
 
 #EXTINF:-1 ,BRIDGE TV
 http://91.224.169.250:5000/c53
