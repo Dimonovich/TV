@@ -47,7 +47,7 @@ https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD_ad.smil/
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000East_HD_ad.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=9bbdUWpFGETT8xn0f7hiiw&e=1727236580&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 group-title="TEST ⓵",viju TV1000 новелла
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Novella_HD.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=BXHMK9C8bSeqS9Rh-sO6Aw&e=1727236476&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
-#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://cvy.okis.ru/file/cvy/9.gif",Камин
+#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://cvy.okis.ru/file/cvy/9.gif",Релакс
 http://185.57.68.33/232/mpegts
 #EXTINF:-1 group-title="TEST ⓵",Kinosweet HD
 http://95.67.12.180:11111
@@ -4639,24 +4639,6 @@ http://78.140.39.3:8080/play/a006/index.m3u8
 http://78.140.39.3:8080/play/a007/index.m3u8
 #EXTINF:-1 group-title="Оберон+ (VPN)",РЕН ТВ
 http://78.140.39.3:8080/play/a00b/index.m3u8
-#EXTINF:-1 group-title="Оберон+ (VPN)",HD Life
-http://78.140.39.3:8080/play/a01k/index.m3u8
-#EXTINF:-1 group-title="Оберон+ (VPN)",Первый космический
-http://78.140.39.3:8080/play/a01a/index.m3u8
-#EXTINF:-1 group-title="Оберон+ (VPN)",Nat Geo Wild
-http://78.140.39.3:8080/play/a01o/index.m3u8
-#EXTINF:-1 group-title="Оберон+ (VPN)",National Geographic
-http://78.140.39.3:8080/play/a01m/index.m3u8
-#EXTINF:-1 group-title="Оберон+ (VPN)",Охотник и рыболов
-http://78.140.39.3:8080/play/a019/index.m3u8
-#EXTINF:-1 group-title="Оберон+ (VPN)",Animal Planet
-http://78.140.39.3:8080/play/a01e/index.m3u8
-#EXTINF:-1 group-title="Оберон+ (VPN)",Discovery Channel 
-http://78.140.39.3:8080/play/a01g/index.m3u8
-#EXTINF:-1 group-title="Оберон+ (VPN)",В мире животных HD
-http://78.140.39.3:8080/play/a017/index.m3u8
-#EXTINF:-1 group-title="Оберон+ (VPN)",Оружие
-http://78.140.39.3:8080/play/a01r/index.m3u8
 #EXTINF:-1 group-title="Оберон+ (VPN)",ОТР
 http://78.140.39.3:8080/play/a009/index.m3u8
 #EXTINF:-1 group-title="Оберон+ (VPN)",ТВЦ
@@ -4677,78 +4659,21 @@ http://78.140.39.3:8080/play/a00l/index.m3u8
 http://78.140.39.3:8080/play/a00m/index.m3u8
 #EXTINF:-1 group-title="Оберон+ (VPN)",Томское время
 http://78.140.39.3:8080/play/a00q/index.m3u8
-#EXTINF:-1 group-title="Оберон+ (VPN)",Че
-http://78.140.39.3:8080/play/a00s/index.m3u8
-#EXTINF:-1 group-title="Оберон+ (VPN)",Nickelodeon
-http://78.140.39.3:8080/play/a00t/index.m3u8
-#EXTINF:-1 group-title="Оберон+ (VPN)",World Fashion Channel
-http://78.140.39.3:8080/play/a01n/index.m3u8
-#EXTINF:-1 group-title="Оберон+ (VPN)",.black
-http://78.140.39.3:8080/play/a00i/index.m3u8
-#EXTINF:-1 group-title="Оберон+ (VPN)",.red
-http://78.140.39.3:8080/play/a00j/index.m3u8
 #EXTINF:-1 group-title="Оберон+ (VPN)",РЖД ТВ
 http://78.140.39.3:8080/play/a01q/index.m3u8
-#EXTINF:-1 group-title="Оберон+ (VPN)",365 дней
-http://78.140.39.3:8080/play/a00u/index.m3u8
-#EXTINF:-1 group-title="Оберон+ (VPN)",Start World
-http://78.140.39.3:8080/play/a015/index.m3u8
-#EXTINF:-1 group-title="Оберон+ (VPN)",День Победы
-http://78.140.39.3:8080/play/a018/index.m3u8
-#EXTINF:-1 group-title="Оберон+ (VPN)",Amedia Premium
-http://78.140.39.3:8080/play/a01d/index.m3u8
-#EXTINF:-1 group-title="Оберон+ (VPN)",Amedia Hit
-http://78.140.39.3:8080/play/a01c/index.m3u8
-#EXTINF:-1 group-title="Оберон+ (VPN)",Flix Snip
-http://78.140.39.3:8080/play/a01h/index.m3u8
 #EXTINF:-1 group-title="Оберон+ (VPN)",Асино-ТВ
 http://78.140.39.3:8080/play/a00w/index.m3u8
-#EXTINF:-1 group-title="Оберон+ (VPN)",English Class
-http://78.140.39.3:8080/play/a014/index.m3u8
-#EXTINF:-1 group-title="Оберон+ (VPN)",Феникс+Кино 
-http://78.140.39.3:8080/play/a010/index.m3u8
-#EXTINF:-1 group-title="Оберон+ (VPN)",Fashion & LifeStyle
-http://78.140.39.3:8080/play/a011/index.m3u8
-#EXTINF:-1 group-title="Оберон+ (VPN)",FX
-http://78.140.39.3:8080/play/a01i/index.m3u8
-#EXTINF:-1 group-title="Оберон+ (VPN)",FX Life
-http://78.140.39.3:8080/play/a01j/index.m3u8
-#EXTINF:-1 group-title="Оберон+ (VPN)",Trash
-http://78.140.39.3:8080/play/a016/index.m3u8
-#EXTINF:-1 group-title="Оберон+ (VPN)",ОТВ
-http://78.140.39.3:8080/play/a00y/index.m3u8
-#EXTINF:-1 group-title="Оберон+ (VPN)",Bollywood
-http://78.140.39.3:8080/play/a01f/index.m3u8
-#EXTINF:-1 group-title="Оберон+ (VPN)",Russian MusicBox
-http://78.140.39.3:8080/play/a00h/index.m3u8
 #EXTINF:-1 group-title="Оберон+ (VPN)",МузТВ
 http://78.140.39.3:8080/play/a00p/index.m3u8
-#EXTINF:-1 group-title="Оберон+ (VPN)",MTV Live
-http://78.140.39.3:8080/play/a01p/index.m3u8
 #EXTINF:-1 group-title="Оберон+ (VPN)",Bridge TV
 http://78.140.39.3:8080/play/a00z/index.m3u8
 #EXTINF:-1 group-title="Оберон+ (VPN)",Bridge TV Шлягер
 http://78.140.39.3:8080/play/a00x/index.m3u8
-#EXTINF:-1 group-title="Оберон+ (VPN)",Bridge TV Русский Хит
-http://78.140.39.3:8080/play/a013/index.m3u8
-#EXTINF:-1 group-title="Оберон+ (VPN)",Bridge TV Classic
-http://78.140.39.3:8080/play/a00v/index.m3u8
-#EXTINF:-1 group-title="Оберон+ (VPN)",Bridge TV Rock
-http://78.140.39.3:8080/play/a012/index.m3u8
-#EXTINF:-1 group-title="Оберон+ (VPN)",Ля-Минор
-http://78.140.39.3:8080/play/a01s/index.m3u8
-#EXTINF:-1 group-title="Оберон+ (VPN)",Cartoonito
-http://78.140.39.3:8080/play/a01l/index.m3u8
 #EXTINF:-1 group-title="Оберон+ (VPN)",Карусель
 http://78.140.39.3:8080/play/a008/index.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆,Матч ТВ
 http://78.140.39.3:8080/play/a003/index.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆,Viasat Sport
-http://78.140.39.3:8080/play/a01t/index.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆,Матч! Страна
-http://78.140.39.3:8080/play/a00r/index.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆,Хоккейный
-http://78.140.39.3:8080/play/a01b/index.m3u8
+
 
 
 
