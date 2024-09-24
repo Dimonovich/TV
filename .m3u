@@ -121,60 +121,6 @@ http://91.207.115.228:12000/play/a03x
 #EXTINF:-1 ,Viju+ Serial
 http://91.205.199.3/vipserialhd/index.m3u8
 
-#EXTINF:-1 group-title="Cloudflare",Prokop TV New Film HD
-http://hls127.homeiptv.org:8880/PROKOPTV_CINEMA_FHD/video.m3u8
-#EXTINF:-1 group-title="Cloudflare",Prokop TV Cinema HD
-http://hls127.homeiptv.org:8880/PROKOPTV_CINEMA_FHD/video.m3u8
-#EXTINF:-1 group-title="Cloudflare",Prokop TV Лучшее HD
-http://hls127.homeiptv.org:8880/PROKOPTV_CINEMA/video.m3u8
-#EXTINF:-1 group-title="Cloudflare",Prokop TV Ужасы HD
-http://hls127.homeiptv.org:8880/PROKOPTV_HORROR/video.m3u8
-#EXTINF:-1 group-title="Cloudflare",Prokop TV Криминал HD
-http://hls127.homeiptv.org:8880/PROKOPTV_CRIMINAL/video.m3u8
-#EXTINF:-1 group-title="Cloudflare",Prokop TV Cinema 60 fps HD
-http://hls127.homeiptv.org:8880/PROKOPTV_CINEMA_60_fps/video.m3u8
-#EXTINF:-1 group-title="Cloudflare",Prokop TV Horror HD
-http://hls127.homeiptv.org:8880/PROKOPTV_HORROR/video.m3u8
-#EXTINF:-1 group-title="Cloudflare",Prokop TV Comedy HD
-http://hls127.homeiptv.org:8880/PROKOPTV_COMEDY/video.m3u8
-#EXTINF:-1 group-title="Cloudflare",Prokop TV Fantazy HD
-http://hls127.homeiptv.org:8880/PROKOPTV_FANTAZY/video.m3u8
-#EXTINF:-1 group-title="Cloudflare",Prokop TV Criminal HD
-http://hls127.homeiptv.org:8880/PROKOPTV_CRIMINAL/video.m3u8
-#EXTINF:-1 group-title="Cloudflare",Prokop TV History HD
-http://hls127.homeiptv.org:8880/PROKOPTV_ISTORY/video.m3u8
-#EXTINF:-1 group-title="Cloudflare",Prokop TV Detektiv HD
-http://hls127.homeiptv.org:8880/PROKOPTV_DETEKTIV/video.m3u8
-#EXTINF:-1 group-title="Cloudflare",Prokop TV Netflix HD
-http://hls127.homeiptv.org:8880/PROKOPTV_NETFLIX/video.m3u8
-#EXTINF:-1 group-title="Cloudflare",BCU Kinorating HD
-http://hls127.homeiptv.org:8880/BCUKinoratingHD/video.m3u8
-#EXTINF:-1 group-title="Cloudflare",BCU Stars HD
-http://hls127.homeiptv.org:8880/BCUStarsHD/video.m3u8
-#EXTINF:-1 group-title="Cloudflare",CPS Anime HD
-http://hls127.homeiptv.org:8880/CPS_Anime/video.m3u8
-#EXTINF:-1 group-title="Cloudflare",CPS Cartoon HD
-http://hls127.homeiptv.org:8880/CPS_Cartoon/video.m3u8
-#EXTINF:-1 group-title="Cloudflare",CPS Action HD
-http://hls127.homeiptv.org:8880/CPS_Action/video.m3u8
-#EXTINF:-1 group-title="Cloudflare",CPS Fresh HD
-http://hls127.homeiptv.org:8880/CPS_Fresh/video.m3u8
-#EXTINF:-1 group-title="Cloudflare",CPS Comedy HD
-http://hls127.homeiptv.org:8880/CPS_Comedy/video.m3u8
-#EXTINF:-1 group-title="Cloudflare",CPS FreshUA HD
-http://hls127.homeiptv.org:8880/CPS_Fresh_UA/video.m3u8
-#EXTINF:-1 group-title="Cloudflare",CPS Mix HD
-http://hls127.homeiptv.org:8880/CPS_Mix/video.m3u8
-#EXTINF:-1 group-title="Cloudflare",CPS Comedy HD
-http://hls127.homeiptv.org:8880/CPS_Comedy/video.m3u8
-#EXTINF:-1 group-title="Cloudflare",CPS Fiction HD
-http://hls127.homeiptv.org:8880/CPS_Fiction/video.m3u8
-#EXTINF:-1 group-title="Cloudflare",CPS Investigation HD
-http://hls127.homeiptv.org:8880/CPS_Investigation/video.m3u8
-#EXTINF:-1 group-title="Cloudflare",CPS Jackie Chan HD
-http://hls127.homeiptv.org:8880/CPS_Jackie_Chan/video.m3u8
-#EXTINF:-1 group-title="Cloudflare",CPS Drama HD
-http://hls127.homeiptv.org:8880/CPS_Drama/video.m3u8
 
 #EXTINF:-1 ,Viasat Kino Action
 https://wowza1.leisertv.com/live/tv1000action.stream/playlist.m3u8
