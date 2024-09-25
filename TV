@@ -49,19 +49,19 @@ https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000East_HD_ad.smil/tra
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Novella_HD.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=BXHMK9C8bSeqS9Rh-sO6Aw&e=1727236476&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://cvy.okis.ru/file/cvy/9.gif",Релакс
 http://185.57.68.33/232/mpegts
-EXTINF:-1 group-title="TEST ⓵",OstWest
+#EXTINF:-1 group-title="TEST ⓵",OstWest
 http://95.67.12.82:9077
-EXTINF:-1 group-title="TEST ⓵",Continent E
+#EXTINF:-1 group-title="TEST ⓵",Continent E
 http://95.67.12.82:9083
-EXTINF:-1 group-title="TEST ⓵",Trace Urban HD
+#EXTINF:-1 group-title="TEST ⓵",Trace Urban HD
 http://95.67.12.82:9068
-EXTINF:-1 group-title="TEST ⓵",UA Music HD
+#EXTINF:-1 group-title="TEST ⓵",UA Music HD
 http://95.67.12.82:9087
-EXTINF:-1 group-title="TEST ⓵",InRating TV HD
+#EXTINF:-1 group-title="TEST ⓵",InRating TV HD
 http://95.67.12.89:9034
-EXTINF:-1 group-title="TEST ⓵",OnePlanet
+#EXTINF:-1 group-title="TEST ⓵",OnePlanet
 http://95.67.12.82:9088
-EXTINF:-1 group-title="TEST ⓵",Gags Network HD
+#EXTINF:-1 group-title="TEST ⓵",Gags Network HD
 http://95.67.12.82:9069
 #EXTINF:-1 group-title="TEST ⓵",Kinosweet HD
 http://95.67.12.180:11111
