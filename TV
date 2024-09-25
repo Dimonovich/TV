@@ -4538,6 +4538,50 @@ http://91.224.169.250:5000/c168
 
 
 
+#EXTINF:-1 group-title="Байкал-Телеком (VPN)",Info Channel HD
+http://194.143.148.28:8080/infochannel/mpegts
+#EXTINF:-1 group-title="Байкал-Телеком (VPN)",ПЕРВЫЙ КАНАЛ HD
+http://194.143.148.28:8080/PerviyHD/mpegts
+#EXTINF:-1 group-title="Байкал-Телеком (VPN)",TV1000 Русское кино
+http://194.143.148.28:8080/TV1000RuKino/mpegts
+#EXTINF:-1 group-title="Байкал-Телеком (VPN)",Моя Планета
+http://194.143.148.28:8080/Nauka20/mpegts
+#EXTINF:-1 group-title="Байкал-Телеком (VPN)",Моя планета HD
+http://194.143.148.28:8080/Moya_Planeta/mpegts
+#EXTINF:-1 group-title="Байкал-Телеком (VPN)",RTG HD
+http://194.143.148.28:8080/RTG_HD/mpegts
+#EXTINF:-1 group-title="Байкал-Телеком (VPN)",НАНО ТВ HD
+http://194.143.148.28:8080/NanoTV/mpegts
+#EXTINF:-1 group-title="Байкал-Телеком (VPN)",Ю
+http://194.143.148.28:8080/U/mpegts
+#EXTINF:-1 group-title="Байкал-Телеком (VPN)",МИР 24
+http://194.143.148.28:8080/Mir24/mpegts
+#EXTINF:-1 group-title="Байкал-Телеком (VPN)",RT Doc
+http://194.143.148.28:8080/RTD_HD/mpegts
+#EXTINF:-1 group-title="Байкал-Телеком (VPN)",Студия Радио MCM - Иркутск HD
+http://194.143.148.28:8080/MCM/mpegts
+#EXTINF:-1 group-title="Байкал-Телеком (VPN)",НТС
+http://194.143.148.28:8080/NTS/mpegts
+#EXTINF:-1 group-title="Байкал-Телеком (VPN)" tvg-id="aist",Аист ТВ
+http://194.143.148.28:8080/Aist/mpegts
+#EXTINF:-1 group-title="Байкал-Телеком (VPN)",РБК
+http://194.143.148.28:8080/RBK/mpegts
+#EXTINF:-1 group-title="Байкал-Телеком (VPN)",Солнце
+http://194.143.148.28:8080/Disney/mpegts
+#EXTINF:-1 group-title="Байкал-Телеком (VPN)",Шансон ТВ
+http://194.143.148.28:8080/ShansonTV/mpegts
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Арена
+http://194.143.148.28:8080/MatchArena/mpegts
+#EXTINF:-1 group-title="Спорткомплекс 🏆",МАТЧ! Футбол 1
+http://194.143.148.28:8080/MatchFutbol1/mpegts
+#EXTINF:-1 group-title="Спорткомплекс 🏆",KHL Prime
+http://194.143.148.28:8080/KHL_HD/mpegts
+
+
+
+
+
+
 
 
 #EXTINF:-1 group-title="Andial Ltd (VPN)",ТНТ
