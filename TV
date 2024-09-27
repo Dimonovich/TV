@@ -409,8 +409,6 @@ http://77.235.1.13/dom_kino_premium/index.m3u8
 http://77.235.1.13/vremya/index.m3u8
 #EXTINF:-1 group-title="Мега-Лайн" ,Fox HD
 http://77.235.1.13/fox_hd/index.m3u8
-#EXTINF:-1 group-title="Мега-Лайн" ,КИНОМИКС
-http://77.235.1.13/kinomix/index.m3u8
 #EXTINF:-1 group-title="Мега-Лайн" ,Мосфильм. Золотая коллекция
 http://77.235.1.13/mosfilm/index.m3u8
 #EXTINF:-1 group-title="Мега-Лайн" ,ПОБЕДА
@@ -421,11 +419,11 @@ http://77.235.1.13/nashe_krutoe/index.m3u8
 http://77.235.1.13/nash_kinopokaz/index.m3u8
 #EXTINF:-1 group-title="Мега-Лайн" ,Любимый HD
 http://77.235.1.13/lubimiy_hd/index.m3u8
-#EXTINF:-1 group-title="Мега-Лайн" ,Синеман
+#EXTINF:-1 group-title="Мега-Лайн" ,Cineman
 http://77.235.1.13/tv100_action/index.m3u8
-#EXTINF:-1 group-title="Мега-Лайн" ,Синеман RusKino
+#EXTINF:-1 group-title="Мега-Лайн" tvg-id="cineman-rukino",Синеман RusKino
 http://77.235.1.13/tv100_ruskino/index.m3u8
-#EXTINF:-1 group-title="Мега-Лайн" ,Синеман TOP
+#EXTINF:-1 group-title="Мега-Лайн" tvg-id="cineman-top",Синеман TOP
 http://77.235.1.13/tv100_top/index.m3u8
 #EXTINF:-1 group-title="Мега-Лайн" ,Душевное
 http://77.235.1.13/nash_kinoroman_hd/index.m3u8
@@ -435,15 +433,13 @@ http://77.235.1.13/romantichnoe_hd/index.m3u8
 http://77.235.1.13/star_cinema/index.m3u8
 #EXTINF:-1 group-title="Мега-Лайн" ,Star Family
 http://77.235.1.13/star_family/index.m3u8
-#EXTINF:-1 group-title="Мега-Лайн" ,Bolt
-http://77.235.1.13/bolt/index.m3u8
 #EXTINF:-1 group-title="Мега-Лайн" ,START Air
 http://77.235.1.13/start_air/index.m3u8
 #EXTINF:-1 group-title="Мега-Лайн" ,START World
 http://77.235.1.13/start_world/index.m3u8
 #EXTINF:-1 group-title="Мега-Лайн" ,TV1000
 http://77.235.1.13/tv1000/index.m3u8
-#EXTINF:-1 group-title="Мега-Лайн" ,TV1000  Action
+#EXTINF:-1 group-title="Мега-Лайн" ,TV1000 Action
 http://77.235.1.13/tv1000_action/index.m3u8
 #EXTINF:-1 group-title="Мега-Лайн" ,TV1000 Русское Кино
 http://77.235.1.13/tv1000_russkoe_kino/index.m3u8
@@ -465,6 +461,8 @@ http://77.235.1.13/kinosemiya/index.m3u8
 http://77.235.1.13/kinoujas/index.m3u8
 #EXTINF:-1 group-title="Мега-Лайн" ,Киносвидание
 http://77.235.1.13/kinosvidanie/index.m3u8
+#EXTINF:-1 group-title="Мега-Лайн" ,КИНОМИКС
+http://77.235.1.13/kinomix/index.m3u8
 #EXTINF:-1 group-title="Мега-Лайн" ,Родное кино
 http://77.235.1.13/rodnoe_kino/index.m3u8
 #EXTINF:-1 group-title="Мега-Лайн" ,Киносерия
@@ -473,7 +471,7 @@ http://77.235.1.13/kinoseria/index.m3u8
 http://77.235.1.13/detskoe_kino/index.m3u8
 #EXTINF:-1 group-title="Мега-Лайн" ,Fan
 http://77.235.1.13/fan/index.m3u8
-#EXTINF:-1 group-title="Мега-Лайн" ,KinoSezon
+#EXTINF:-1 group-title="Мега-Лайн" ,КиноСезон
 http://77.235.1.13/kinosezon/index.m3u8
 #EXTINF:-1 group-title="Мега-Лайн" ,Киноменю
 http://77.235.1.13/kinomenu/index.m3u8
@@ -557,6 +555,8 @@ http://77.235.1.13/disney/index.m3u8
 http://77.235.1.13/ani/index.m3u8
 #EXTINF:-1 group-title="Мега-Лайн" ,Сказки Зайки
 http://77.235.1.13/skazki_zayki/index.m3u8
+#EXTINF:-1 group-title="Мега-Лайн" ,Bolt
+http://77.235.1.13/bolt/index.m3u8
 #EXTINF:-1 group-title="Мега-Лайн" ,Мульт
 http://77.235.1.13/mult/index.m3u8
 #EXTINF:-1 group-title="Мега-Лайн" ,Карусель
