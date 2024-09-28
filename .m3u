@@ -156,6 +156,9 @@ http://91.142.158.107:8092/play/28/index.m3u8
 #EXTINF:-1 group-title="ASS (VPN)",Душевное
 http://188.190.222.48:8765/Dushevnoe_HD/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1,Премиальное
+http://135.125.235.54/0124/video.m3u8?token=92265081C407
+
 
 #EXTINF:-1,Кинопремьера HD
 https://mhd116.iptv2022.com/p/bD5PgY-v5iQ4o-scuC-e-A,1727600406/streaming/film-premiere/324/1/tracks-v4a1/mono.m3u8
