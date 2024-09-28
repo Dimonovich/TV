@@ -48,12 +48,14 @@ http://194.143.148.28:8080/RTG_HD/mpegts
 https://stream01.vnet.am/InvestigationDiscovery/tracks-v1a2/mono.m3u8
 #EXTINF:-1 ,Большая Азия
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Вокзал-Инфоком (VPN)",МОЯ ПЛАНЕТА
+#EXTINF:-1 ,МОЯ ПЛАНЕТА
 http://iptv.mega.net.ru:8888/Moa_Planeta/mono.m3u8
 #EXTINF:-1 ,Приключения HD
 https://ucdn.beetv.kz/btv/live/hls/000000277.m3u8
 #EXTINF:-1 ,H 2
 https://ucdn.beetv.kz/btv/live/hls/000002722.m3u8
+#EXTINF:-1 ,History HD
+https://ucdn.beetv.kz/btv/live/hls/000001000.m3u8
 
 #EXTINF:-1 ,Живая природа
 http://185.23.80.28:8080/ZhivayaPriroda_HD/index.m3u8
@@ -103,6 +105,7 @@ http://iptv.mega.net.ru:8888/Viasat_Explorer/mono.m3u8
 http://iptv.mega.net.ru:8888/Viasat_History/mono.m3u8
 #EXTINF:-1 ,Viasat Nature HD
 http://iptv.mega.net.ru:8888/Viasat_Nature/mono.m3u8
+
 #EXTINF:-1 ,TV 1000
 http://91.207.115.228:12000/play/a01b
 #EXTINF:-1 ,viju TV1000 Action
@@ -117,7 +120,6 @@ http://91.207.115.228:12000/play/a03v
 http://91.207.115.228:12000/play/a03x
 #EXTINF:-1 ,Viju+ Serial
 http://91.205.199.3/vipserialhd/index.m3u8
-
 
 #EXTINF:-1 ,Viasat Kino Action
 https://wowza1.leisertv.com/live/tv1000action.stream/playlist.m3u8
