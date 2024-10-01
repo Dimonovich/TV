@@ -72,8 +72,6 @@ https://english-livetx.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXM
 http://91.205.199.3/dikayaribalkahd/index.m3u8
 #EXTINF:-1 ,Дикая охота HD
 http://91.205.199.3/dikayaoxotahd/index.m3u8
-#EXTINF:-1 ,Ocean-TV
-http://188.190.222.48:8765/Ocean_TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 ,Телепутешествия
 http://91.207.115.228:12000/play/a02h
@@ -84,29 +82,28 @@ https://tochkatv-live.cdnvideo.ru/tochkatv_pub/tainatv.stream_aac2.smil/playlist
 #EXTINF:-1 ,Большая Азия
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 ,Охотник и рыболов
-http://s83.chas.tv:8081/chas/rybalka.stream/playlist.m3u8
 #EXTINF:-1 ,Первый Космический
-http://iptv.mega.net.ru:8888/Eureka_HD/mono.m3u8
+http://78.140.39.3:8080/play/a01a/index.m3u8
 
+#EXTINF:-1 ,Охотник и рыболов
+http://91.207.115.228:12000/play/a02x
 #EXTINF:-1 ,История
-http://iptv.mega.net.ru:8888/Istoria/mono.m3u8
-
+http://91.207.115.228:12000/play/a02c
 #EXTINF:-1 ,Animal Planet
 http://91.207.115.228:12000/play/a03z
 #EXTINF:-1 ,Discovery Channel
 http://91.207.115.228:12000/play/a03y
 #EXTINF:-1 ,Nat geo wild HD
-http://iptv.mega.net.ru:8888/Nat_Geo_Wild/mono.m3u8
+https://ucdn.beetv.kz/btv/live/hls/000004474.m3u8
 #EXTINF:-1 ,National geographic
 http://193.242.204.28:10153/153
 
 #EXTINF:-1 ,viju Explore
-http://iptv.mega.net.ru:8888/Viasat_Explorer/mono.m3u8
+https://ucdn.beetv.kz/btv/live/hls/000004157.m3u8
 #EXTINF:-1 ,viju History
-http://iptv.mega.net.ru:8888/Viasat_History/mono.m3u8
+https://ucdn.beetv.kz/btv/live/hls/000005528.m3u8
 #EXTINF:-1 ,Viasat Nature HD
-http://iptv.mega.net.ru:8888/Viasat_Nature/mono.m3u8
+https://ucdn.beetv.kz/btv/live/hls/000006482.m3u8
 
 #EXTINF:-1 ,TV 1000
 http://91.207.115.228:12000/play/a01b
@@ -115,7 +112,7 @@ http://91.205.199.3/tv1000action/index.m3u8
 #EXTINF:-1 ,TV1000 Русское кино
 http://91.205.199.3/tv1000ruskoekino/index.m3u8
 #EXTINF:-1 ,viju+ Megahit
-http://iptv.mega.net.ru:8888/ViP_Megahit_HD/mono.m3u8
+http://77.235.1.13/vip_megahit/index.m3u8
 #EXTINF:-1 ,viju+ Comedy
 http://91.207.115.228:12000/play/a03v
 #EXTINF:-1 ,viju+ Premiere
@@ -132,13 +129,13 @@ https://wowza1.leisertv.com/live/tv1000russiakino.stream/playlist.m3u8
 http://91.207.114.220:9001/play/a03u/index.m3u8
 
 #EXTINF:-1,Amedia Hit HD
-http://iptv.mega.net.ru:8888/Amedia_Hit_HD/mono.m3u8
+http://77.235.1.13/amedia_hit/index.m3u8
 
 #EXTINF:-1,Bollywood HD
 http://91.224.169.250:5000/c155
 
 #EXTINF:-1 ,Fan HD
-http://iptv.mega.net.ru:8888/Discovery_Channel/mono.m3u8
+http://77.235.1.13/fan/index.m3u8
 
 #EXTINF:-1 ,Gags Network HD
 http://91.205.199.3/gagsnetwork/index.m3u8
@@ -338,9 +335,9 @@ http://194.26.229.213/chdtv_ru_rock/index.m3u8
 http://194.26.229.213/chdtv_rock/index.m3u8
 
 #EXTINF:-1 group-title="Вокзал-Инфоком (VPN)",BRIDGE CLASSIC
-http://iptv.mega.net.ru:8888/Paramount_Comedy/mono.m3u8
+http://77.235.1.13/bridge_classic/index.m3u8
 #EXTINF:-1 group-title="Вокзал-Инфоком (VPN)",BRIDGE TV Deluxe
-http://iptv.mega.net.ru:8888/Bridge_HD/mono.m3u8
+http://77.235.1.13/bridge_deluxe/index.m3u8
 
 #EXTINF:-1 ,BRIDGE TV
 http://91.224.169.250:5000/c53
@@ -441,7 +438,7 @@ https://strm.yandex.ru/kal/udar/udar0.m3u8
 https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
 
 #EXTINF:-1 ,Viasat Sport
-http://iptv.mega.net.ru:8888/Viasat_Sport_HD/mono.m3u8
+http://77.235.1.13/viasat_sport/index.m3u8
 
 #EXTINF:-1 ,Телеканал Футбол
 http://iptv-hls.idc.md:8200/hls/77/live1.m3u8
