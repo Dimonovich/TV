@@ -2368,18 +2368,6 @@ https://freshtv-live.ru/FreshTV/tracks-v1a1/mono.m3u8?token=livestream
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://www.9xm.in/wp-content/uploads/2016/07/mob-logo-1.png",9XM
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶",Bridge TV
-https://livetv.mylifeisgood.net.ru/channels/bridgetv24h.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶",Bridge TV Classic
-https://livetv.mylifeisgood.net.ru/channels/bridgeclassictv.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶",Bridge TV Deluxe
-https://livetv.mylifeisgood.net.ru/channels/bridgedeluxetv.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶",Bridge TV Hits
-https://livetv.mylifeisgood.net.ru/channels/bridgehitstv.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶",Bridge TV Русский хит
-https://livetv.mylifeisgood.net.ru/channels/bridgerushittv.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶",Bridge TV Шлягер
-https://livetv.mylifeisgood.net.ru/channels/bridgetvshlyager.m3u8
 #EXTINF:-1 group-title="Музыкальные 🎶" ,Qello Concerts by Stingray
 https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 group-title="Музыкальные 🎶" ,Stingray Classic Rock
@@ -2884,6 +2872,8 @@ https://cdn10.live-tv.cloud/sferarv/sferarv-abr/sferarv/720p/chunks.m3u8
 https://osnmedia.servicecdn.ru/streams/17603_88089/1080n/index.m3u8
 #EXTINF:-1 group-title="С сайтов", Silk Way
 https://ikomg-kazakh.akamaized.net/kazakh/kazakh.m3u8
+#EXTINF:-1 group-title="С сайтов" ,Дождь HD
+https://wl.tvrain.tv/transcode/ngrp:ses_all/chunklist_b5909690.m3u8
 #EXTINF:-1 group-title="С сайтов" tvg-logo="http://epg.it999.ru/img/2142.png",Настоящее время
 https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
 #EXTINF:-1 group-title="С сайтов" tvg-logo="https://i.postimg.cc/nLwPZgX2/image.jpg",ТСВ
