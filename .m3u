@@ -40,7 +40,7 @@ http://tv.mediacdn.ru/live/tnt4/playlist.m3u8
 http://s18209.cdn.ngenix.net/hls/CH_R02_RENTV/playlist.m3u8
 
 #EXTINF:-1 ,TERRA
-http://iptv.mega.net.ru:8888/National_Geographic_HD/mono.m3u8
+http://185.50.148.2:7707/NationalGeographic/index.m3u8
 
 #EXTINF:-1 ,RTG HD
 http://194.143.148.28:8080/RTG_HD/mpegts
@@ -48,8 +48,10 @@ http://194.143.148.28:8080/RTG_HD/mpegts
 https://stream01.vnet.am/InvestigationDiscovery/tracks-v1a2/mono.m3u8
 #EXTINF:-1 ,Большая Азия
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 ,МОЯ ПЛАНЕТА
-http://iptv.mega.net.ru:8888/Moa_Planeta/mono.m3u8
+http://194.143.148.28:8080/Moya_Planeta/mpegts
+
 #EXTINF:-1 ,Приключения HD
 https://ucdn.beetv.kz/btv/live/hls/000000277.m3u8
 #EXTINF:-1 ,H 2
