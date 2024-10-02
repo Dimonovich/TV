@@ -52,6 +52,13 @@ http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,МОЯ ПЛАНЕТА
 http://194.143.148.28:8080/Moya_Planeta/mpegts
 
+#EXTINF:-1,Travel Adventure
+http://31.184.197.124/TravelAdventureHD/mono.m3u8
+#EXTINF:-1,Museum HD
+http://31.184.197.124/museum_hd/mono.m3u8
+#EXTINF:-1,Home 4K
+http://31.184.197.124/home_hd/mono.m3u8
+
 #EXTINF:-1 ,Приключения HD
 https://ucdn.beetv.kz/btv/live/hls/000000277.m3u8
 #EXTINF:-1 ,H 2
