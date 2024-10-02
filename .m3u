@@ -119,7 +119,7 @@ http://91.205.199.3/tv1000action/index.m3u8
 #EXTINF:-1 ,TV1000 Русское кино
 http://91.205.199.3/tv1000ruskoekino/index.m3u8
 #EXTINF:-1 ,viju+ Megahit
-http://77.235.1.13/vip_megahit/index.m3u8
+http://91.207.115.228:12000/play/a03w
 #EXTINF:-1 ,viju+ Comedy
 http://91.207.115.228:12000/play/a03v
 #EXTINF:-1 ,viju+ Premiere
@@ -127,16 +127,10 @@ http://91.207.115.228:12000/play/a03x
 #EXTINF:-1 ,Viju+ Serial
 http://91.205.199.3/vipserialhd/index.m3u8
 
-#EXTINF:-1 ,Viasat Kino Action
-https://wowza1.leisertv.com/live/tv1000action.stream/playlist.m3u8
-#EXTINF:-1 ,Viasat Kino World
-https://wowza1.leisertv.com/live/tv1000russiakino.stream/playlist.m3u8
-
 #EXTINF:-1,Amedia Premium HD
 http://91.207.114.220:9001/play/a03u/index.m3u8
-
 #EXTINF:-1,Amedia Hit HD
-http://77.235.1.13/amedia_hit/index.m3u8
+http://91.207.115.228:12000/play/a01k
 
 #EXTINF:-1,Bollywood HD
 http://91.224.169.250:5000/c155
@@ -163,9 +157,8 @@ http://91.142.158.107:8092/play/26/index.m3u8
 #EXTINF:-1 ,Кино ТВ HD
 http://91.142.158.107:8092/play/28/index.m3u8
 
-#EXTINF:-1 group-title="ASS (VPN)",Душевное
-http://188.190.222.48:8765/Dushevnoe_HD/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 ,Душевное
+http://193.242.190.6:8099/37/index.m3u8
 
 #EXTINF:-1,Кинопремьера HD
 https://mhd116.iptv2022.com/p/s-t3y7rFN29mzRFLRzAecg,1727946005/streaming/film-premiere/324/1/tracks-v4a1/mono.m3u8
@@ -340,11 +333,6 @@ http://tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/playlist_hdlow.m3u8
 http://194.26.229.213/chdtv_ru_rock/index.m3u8
 #EXTINF:-1 ,CHD-TV Rock
 http://194.26.229.213/chdtv_rock/index.m3u8
-
-#EXTINF:-1 group-title="Вокзал-Инфоком (VPN)",BRIDGE CLASSIC
-http://77.235.1.13/bridge_classic/index.m3u8
-#EXTINF:-1 group-title="Вокзал-Инфоком (VPN)",BRIDGE TV Deluxe
-http://77.235.1.13/bridge_deluxe/index.m3u8
 
 #EXTINF:-1 ,BRIDGE TV
 http://91.224.169.250:5000/c53
