@@ -5524,8 +5524,6 @@ http://94.230.128.105:8080/THT/index.m3u8
 http://94.230.128.105:8080//Galaxy_TV/index.m3u8
 #EXTINF:-1 group-title="К Телеком (VPN)" ,ЗАГОРОДНАЯ ЖИЗНЬ
 http://94.230.128.105:8080/Zagorodnyi/index.m3u8
-#EXTINF:-1 group-title="К Телеком (VPN)",HD Life
-http://94.230.128.105:8080/HD_Life/index.m3u8
 #EXTINF:-1 group-title="К Телеком (VPN)" ,ТОЧКА ТВ
 http://94.230.128.105:8080/TochkaTV/mono.m3u8
 #EXTINF:-1 group-title="К Телеком (VPN)" ,БСТ
@@ -5540,16 +5538,8 @@ http://94.230.128.105:8080/OTP/index.m3u8
 http://94.230.128.105:8080/TB3/index.m3u8
 #EXTINF:-1 group-title="К Телеком (VPN)" ,Звезда
 http://94.230.128.105:8080/Zvezda/index.m3u8
-#EXTINF:-1 group-title="К Телеком (VPN)" ,СОЮЗ
-http://94.230.128.105:8080/Souz/index.m3u8
 #EXTINF:-1 group-title="К Телеком (VPN)" ,Спас
 http://94.230.128.105:8080/SPAS/index.m3u8
-#EXTINF:-1 group-title="К Телеком (VPN)",КВН
-http://94.230.128.105:8080/KVNTV/index.m3u8
-#EXTINF:-1 group-title="К Телеком (VPN)",КИНОКОМЕДИЯ ТВ
-http://94.230.128.105:8080/KinokomediaTV/index.m3u8
-#EXTINF:-1 group-title="К Телеком (VPN)",Кухня ТВ
-http://94.230.128.105:8080/Kuhnya_TV/index.m3u8
 #EXTINF:-1 group-title="К Телеком (VPN)",HTC
 http://94.230.128.105:8080/HTC/index.m3u8
 #EXTINF:-1 group-title="К Телеком (VPN)",Пятница
