@@ -61,6 +61,34 @@ http://45.143.108.104/TV1000RU_HD/index.m3u8
 http://45.143.108.104/arsenal/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵",МУЛЬТИМАНИЯ
 https://void.greenhosting.ru/Multimania_Mpeg4/video.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Киносемья HD
+http://31.184.197.124/kinosemyahd/mono.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Кинохит HD
+http://31.184.197.124/kinohithd/mono.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Кинопремьера HD
+http://31.184.197.124/kinopremierahd/mono.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Home 4K
+http://31.184.197.124/home_hd/mono.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Шаян ТВ
+http://31.184.197.124/shayan/mono.m3u8
+#EXTINF:-1 group-title="TEST ⓵",АНЕКДОТ ТВ
+http://31.184.197.124/anekdot_tv/mono.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Ералаш
+http://31.184.197.124/eralash/mono.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Кинопоказ HD
+http://31.184.197.124/KinopokazHD/mono.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Museum TV HD
+http://31.184.197.124/museum_hd/mono.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Travel+Adventure HD
+http://31.184.197.124/TravelAdventureHD/mono.m3u8
+#EXTINF:-1 group-title="TEST ⓵",OKINO
+http://31.184.197.124/OKINO/mono.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Премиальное HD
+http://31.184.197.124/PremialnoeHD/mono.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Спортивный HD
+http://31.184.197.124/sportivniy/mono.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Футбол HD
+http://31.184.197.124/futbol_hd/mono.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Матч Премьер HD
 http://78.62.135.122:8082/MatchPremierHD/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵",2x2
