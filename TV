@@ -196,6 +196,8 @@ http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
 http://185.46.48.18:80/iriston/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",Солнце
 http://185.46.48.18:80/disney/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="TEST (VPN)" catchup="append" catchup-days="7" catchup-source="?start=${start}&end=${end}",Tiji
+https://strm.yandex.ru/kal/tiji_belarus/tiji_belarus0.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",МАТЧ ТВ
 http://185.46.48.18:80/match/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://i.postimg.cc/rmGxq8Ls/1.jpg",Осторожно модерн
@@ -8589,22 +8591,6 @@ http://31.210.208.171:8080/start/index.m3u8?token=+W2MSER
 
 
 
-#EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)" catchup="append" catchup-days="7" catchup-source="?start=${start}&end=${end}",ТВ 3 Беларусь
-https://strm.yandex.ru/kal/tv3_belarus/tv3_belarus0.m3u8
-#EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)" catchup="append" catchup-days="7" catchup-source="?start=${start}&end=${end}",Tiji
-https://strm.yandex.ru/kal/tiji_belarus/tiji_belarus0.m3u8
-#EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)" catchup="append" catchup-days="7" catchup-source="?start=${start}&end=${end}" group-title="Спорткомплекс 🏆",Удар
-https://strm.yandex.ru/kal/udar/udar0.m3u8
-#EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)" catchup="append" catchup-days="7" catchup-source="?start=${start}&end=${end}" group-title="Спорткомплекс 🏆",Матч! Планета
-https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
-#EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)" catchup="append" catchup-days="7" catchup-source="?start=${start}&end=${end}" group-title="Спорткомплекс 🏆",Футбол
-https://strm.yandex.ru/kal/futbol_belarus/futbol_belarus0.m3u8
-#EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)" catchup="append" catchup-days="7" catchup-source="?start=${start}&end=${end}" group-title="Спорткомплекс 🏆",KHL
-https://strm.yandex.ru/kal/khl_belarus/khl_belarus0.m3u8
-#EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)" catchup="append" catchup-days="7" catchup-source="?start=${start}&end=${end}" group-title="Спорткомплекс 🏆",KHL Prime
-https://strm.yandex.ru/kal/khl_prime_belarus/khl_prime_belarus0.m3u8
-
-
 
 #EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Первый HD
 https://livetv.mylifeisgood.net.ru/channels/perviytest.m3u8
@@ -9999,6 +9985,16 @@ http://213.169.39.30:5233
 http://194.143.148.28:8080/MatchFutbol1/mpegts
 #EXTINF:-1 group-title="Спорткомплекс 🏆" ,Матч! HD
 https://livetv.mylifeisgood.net.ru/channels/matchhd_nocensored.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆" catchup="append" catchup-days="7" catchup-source="?start=${start}&end=${end}" ,Удар
+https://strm.yandex.ru/kal/udar/udar0.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆" catchup="append" catchup-days="7" catchup-source="?start=${start}&end=${end}" ,Матч! Планета
+https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆" catchup="append" catchup-days="7" catchup-source="?start=${start}&end=${end}" ,Футбол
+https://strm.yandex.ru/kal/futbol_belarus/futbol_belarus0.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆" catchup="append" catchup-days="7" catchup-source="?start=${start}&end=${end}" ,KHL
+https://strm.yandex.ru/kal/khl_belarus/khl_belarus0.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆" catchup="append" catchup-days="7" catchup-source="?start=${start}&end=${end}" ,KHL Prime
+https://strm.yandex.ru/kal/khl_prime_belarus/khl_prime_belarus0.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-id="2051", Матч! HD
 http://94.230.240.17:8080/machtv/index.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆" ,Матч! Арена
