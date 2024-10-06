@@ -9265,11 +9265,16 @@ https://v2.catcast.tv/content/41333/index.m3u8
 https://v2.catcast.tv/content/40783/index.m3u8
 #EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7" tvg-logo="https://i.ibb.co/Nx2CKmL/image-11.png",Сити Эдем - КиноКомедия
 https://v2.catcast.tv/content/41331/index.m3u8
-Привет 
 #EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7" tvg-logo="https://i.ibb.co/0cQfRRk/image-13.png",Сити Эдем - КиноДетектив
 https://v2.catcast.tv/content/41327/index.m3u8
 #EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7",Сити Эдем - КиноНовелла
 https://autopilot.catcast.tv/content/46209/index.m3u8
+#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7" tvg-logo="https://img.catcast.tv/uploads/29082024/logos/9620-66d0db3b606d1.png",Malder Мегахит
+https://autopilot.catcast.tv/content/47689/index.m3u8
+#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7" tvg-logo="https://img.catcast.tv/uploads/20092024/logos/9620-66edaa66c14bf.png",Malder Ужас
+https://autopilot.catcast.tv/content/47764/index.m3u8
+#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7" tvg-logo="https://img.catcast.tv/uploads/04102024/logos/47180-66ffee511bc05.png",Малдер Кинозал
+https://autopilot.catcast.tv/content/47180/index.m3u8
 #EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7" tvg-logo="https://i.ibb.co/xCBBbkm/SGN-05-14-2022-1652513200593.png",Armenius TV
 https://autopilot.catcast.tv/content/40504/index.m3u8
 #EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7" tvg-logo="https://a21network.ru/wp-content/uploads/2022/02/a21_live.jpg",A21 Network
@@ -9470,7 +9475,7 @@ https://hls.goodgame.ru/manifest/205063_master.m3u8
 #EXTINF:-1 group-title="Good Game",go6PbIu-TaTaPuH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/manifest/157269_master.m3u8
-#EXTINF:-1 group-title="Good Game",Malder Vse TV
+#EXTINF:-1 group-title="Good Game" tvg-logo="https://img.catcast.tv/uploads/04102024/logos/9620-66ffb65641f1e.png", Малдер Всё тв
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/manifest/153640_master.m3u8
 #EXTINF:-1 group-title="Good Game",MB TV
