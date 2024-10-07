@@ -331,6 +331,13 @@ http://194.26.229.213/chdtv_ru_rock/index.m3u8
 #EXTINF:-1 ,CHD-TV Rock
 http://194.26.229.213/chdtv_rock/index.m3u8
 
+#EXTINF:-1 ,BRIDGE TV Deluxe
+http://31.47.199.45:1401/bridge/index.m3u8
+#EXTINF:-1 ,BRIDGE CLASSIC
+http://31.47.199.45:1401/bridgeclassic/index.m3u8
+#EXTINF:-1 ,BRIDGE ШЛЯГЕР
+http://31.47.199.45:1401/bridgeshlyager/index.m3u8
+
 #EXTINF:-1 ,BRIDGE TV
 http://91.224.169.250:5000/c53
 #EXTINF:-1 ,BRIDGE TV HITS
