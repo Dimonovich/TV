@@ -863,12 +863,20 @@ http://88.218.242.237:8000/play/a00d
 
 
 
+
+
+
+
+#EXTINF:-1 group-title="Меганет",Первый канал
+http://91.205.199.3:80/roos-pervikanalrosia/manifest.m3u8
 #EXTINF:-1 group-title="Меганет",Россия К
 http://91.205.199.3/kultura/index.m3u8
 #EXTINF:-1 group-title="Меганет",ТНТ4
 http://91.205.199.3/tnt4/index.m3u8
 #EXTINF:-1 group-title="Меганет",ТНТ HD
 http://91.205.199.3/tnthd/index.m3u8
+#EXTINF:-1 group-title="Меганет",НТВ Мир
+http://91.205.199.3:80/roos-ntvmir/manifest.m3u8
 #EXTINF:-1 group-title="Меганет",НТВ
 http://91.205.199.3/ntv/index.m3u8
 #EXTINF:-1 group-title="Меганет",НТВ +4
@@ -901,6 +909,8 @@ http://91.205.199.3/dikayaoxotahd/index.m3u8
 http://91.205.199.3/dikayaribalkahd/index.m3u8
 #EXTINF:-1 group-title="Меганет",8 канал
 http://91.205.199.3/8kanal/index.m3u8
+#EXTINF:-1 group-title="Меганет",365 дней ТВ HD
+http://91.205.199.3:80/roos-365-dnej/manifest.m3u8
 #EXTINF:-1 group-title="Меганет",Amedia hit HD
 http://91.205.199.3/amediahithd/index.m3u8
 #EXTINF:-1 group-title="Меганет",Amedia Premium HD
@@ -927,6 +937,12 @@ http://91.205.199.3/lubimoekino/index.m3u8
 http://91.205.199.3/mirseriala/index.m3u8
 #EXTINF:-1 group-title="Меганет",Мосфильм. Золотая коллекция
 http://91.205.199.3/mosfilm/index.m3u8
+#EXTINF:-1 group-title="Меганет",Любимое кино
+http://91.205.199.3:80/roos-nashelyubimoekino/manifest.m3u8
+#EXTINF:-1 group-title="Меганет",Киномикс HD
+http://91.205.199.3:80/roos-kinomix/manifest.m3u8
+#EXTINF:-1 group-title="Меганет",Киносерия HD
+http://91.205.199.3:80/roos-kinoseria/manifest.m3u8
 #EXTINF:-1 group-title="Меганет",Наше новое кино
 http://91.205.199.3/nashenovoekino/index.m3u8
 #EXTINF:-1 group-title="Меганет",Кинохит HD
@@ -973,6 +989,8 @@ http://91.205.199.3/vipserialhd/index.m3u8
 http://91.205.199.3/uvelirochka/index.m3u8
 #EXTINF:-1 group-title="Меганет",Зоопарк
 http://91.205.199.3/zoopark/index.m3u8
+#EXTINF:-1 group-title="Меганет",Музыка первого
+http://91.205.199.3:80/roos-muzika1/manifest.m3u8
 #EXTINF:-1 group-title="Меганет",RU.TV
 http://91.205.199.3/rutv/index.m3u8
 #EXTINF:-1 group-title="Меганет",МузТВ
@@ -989,6 +1007,8 @@ http://91.205.199.3/planb/index.m3u8
 http://91.205.199.3/detskimir/index.m3u8
 #EXTINF:-1 group-title="Меганет",Солнце
 http://91.205.199.3/disney/index.m3u8
+#EXTINF:-1 group-title="Меганет" ,Nickelodeon
+http://91.205.199.3:80/roos-nickelodeon/manifest.m3u8
 #EXTINF:-1 group-title="Меганет",Мульт HD
 http://91.205.199.3/multhd/index.m3u8
 #EXTINF:-1 group-title="Меганет",Мультиландия
