@@ -426,14 +426,14 @@ http://31.47.199.45:1401/nature/index.m3u8
 http://31.47.199.45:1401/explore/index.m3u8
 #EXTINF:-1 group-title="MASISNET KIM-RAY",Nat Geo Wild
 http://31.47.199.45:1400/natgeowild/index.m3u8
-#EXTINF:-1 group-title="MASISNET KIM-RAY",National Gographic
+#EXTINF:-1 group-title="MASISNET KIM-RAY",National Gegraphic
 http://31.47.199.45:1400/nationalgeographic/index.m3u8
+#EXTINF:-1 group-title="MASISNET KIM-RAY",Киносат
+http://31.47.199.45:1400/kinosat/index.m3u8
 #EXTINF:-1 group-title="MASISNET KIM-RAY",Киномикс
 http://31.47.199.45:1400/kinomiks/index.m3u8
 #EXTINF:-1 group-title="MASISNET KIM-RAY",Индийское Кино
 http://31.47.199.45:1400/indiskoekino/index.m3u8
-#EXTINF:-1 group-title="MASISNET KIM-RAY",Киносат
-http://31.47.199.45:1400/kinosat/index.m3u8
 #EXTINF:-1 group-title="MASISNET KIM-RAY",Киносемья
 http://31.47.199.45:1400/kinosemya/index.m3u8
 #EXTINF:-1 group-title="MASISNET KIM-RAY",Наше новое кино
@@ -468,27 +468,27 @@ http://31.47.199.45:1401/utv/index.m3u8
 http://31.47.199.45:1401/zvezda/index.m3u8
 #EXTINF:-1 group-title="MASISNET KIM-RAY",atv HD
 http://31.47.199.45:1400/atv/index.m3u8
-#EXTINF:-1 group-title="MASISNET KIM-RAY",Norhayastan HD
+#EXTINF:-1 group-title="MASISNET KIM-RAY",Nor Hayastan
 http://31.47.199.45:1400/norhayastan/index.m3u8
-#EXTINF:-1 group-title="MASISNET KIM-RAY",Kentron HD AM
+#EXTINF:-1 group-title="MASISNET KIM-RAY",Kentron AM
 http://31.47.199.45:1400/kentron/index.m3u8
 #EXTINF:-1 group-title="MASISNET KIM-RAY",Nur TV HD AM
 http://31.47.199.45:1400/nur/index.m3u8
-#EXTINF:-1 group-title="MASISNET KIM-RAY",ATV Tava TV HD Кухня
+#EXTINF:-1 group-title="MASISNET KIM-RAY",ATV Tava HD AM
 http://31.47.199.45:1402/tavatv/index.m3u8
 #EXTINF:-1 group-title="MASISNET KIM-RAY",Hedu HD
 http://31.47.199.45:1400/hedu/index.m3u8
 #EXTINF:-1 group-title="MASISNET KIM-RAY",Shant HD AM
 http://31.47.199.45:1400/shant/index.m3u8
-#EXTINF:-1 group-title="MASISNET KIM-RAY",Shoghakat TV AM
+#EXTINF:-1 group-title="MASISNET KIM-RAY",Shoghakat AM
 http://31.47.199.45:1400/shoghakat/index.m3u8
 #EXTINF:-1 group-title="MASISNET KIM-RAY",21TV AM
 http://31.47.199.45:1400/21tv/index.m3u8
-#EXTINF:-1 group-title="MASISNET KIM-RAY",5TV HD AM
+#EXTINF:-1 group-title="MASISNET KIM-RAY",5TV AM
 http://31.47.199.45:1400/5tv/index.m3u8
 #EXTINF:-1 group-title="MASISNET KIM-RAY",Armenia TV HD AM
 http://31.47.199.45:1400/armenia/index.m3u8
-#EXTINF:-1 group-title="MASISNET KIM-RAY",FreeNews HD AM
+#EXTINF:-1 group-title="MASISNET KIM-RAY",FreeNews AM
 http://31.47.199.45:1400/freenews/index.m3u8
 #EXTINF:-1 group-title="MASISNET KIM-RAY",H1 HD AM
 http://31.47.199.45:1400/h1/index.m3u8
@@ -510,7 +510,7 @@ http://31.47.199.45:1401/stslove/index.m3u8
 http://31.47.199.45:1401/solnce/index.m3u8
 #EXTINF:-1 group-title="MASISNET KIM-RAY",Карусель
 http://31.47.199.45:1401/karusel/index.m3u8
-#EXTINF:-1 group-title="MASISNET KIM-RAY",Da Vinchi
+#EXTINF:-1 group-title="MASISNET KIM-RAY",Da Vinci
 http://31.47.199.45:1401/davinchilearning/index.m3u8
 #EXTINF:-1 group-title="MASISNET KIM-RAY",ТНТ Music
 http://31.47.199.45:1401/tntmusic/index.m3u8
