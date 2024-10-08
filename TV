@@ -2523,6 +2523,8 @@ http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)",Звезда Плюс
 http://tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/playlist_hdlow.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://rus-ship.ru/wp-content/uploads/2024/01/logo-50.png",Русский Корабль
+https://media.rus-ship.ru:8588/live/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://i.postimg.cc/L8X5NW5Z/unnamed.jpg",Тивиком
 http://tvcom.stream.intelema.ru/tvcom/studio/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://pbs.twimg.com/profile_images/1161883563492564992/OPawdkI-_400x400.jpg",12 КАНАЛ (ОМСК)
