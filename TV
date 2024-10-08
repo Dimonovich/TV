@@ -1965,6 +1965,7 @@ rtmp://92.119.88.58//2391
 
 
 
+
 #EXTINF:-1 group-title="Digital TV",НТВ-Мир
 http://sc.id-tv.kz/NTV_34_35.m3u8
 #EXTINF:-1 group-title="Digital TV",ТНТ4 International
@@ -2007,6 +2008,8 @@ http://sc.id-tv.kz/Khabar_24.m3u8
 http://sc.id-tv.kz/Mir24.m3u8
 #EXTINF:-1 group-title="Digital TV",НСТ
 http://sc.id-tv.kz/NSTV.m3u8
+#EXTINF:-1 group-title="Digital TV",Иллюзион +
+http://sc.id-tv.kz/IlluzionPlus_36_37.m3u8
 #EXTINF:-1 group-title="Digital TV",СТС
 http://sc.id-tv.kz/STS_34_35.m3u8
 #EXTINF:-1 group-title="Digital TV",El Arna
