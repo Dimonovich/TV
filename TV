@@ -1471,47 +1471,6 @@ http://45.153.35.237:8000/play/a03r
 
 
 
-
-
-
-#EXTINF:-1 group-title="Белтелеком" tvg-id="belmuztv",BelMuzTV
-http://178.124.179.122:8088/BelMuzTV/index.m3u8
-#EXTINF:-1 group-title="Белтелеком",Драйв
-http://178.124.179.122:8088/Drive/index.m3u8
-#EXTINF:-1 group-title="Белтелеком",Кинопремьера HD
-http://178.124.179.122:8088/Kinopremiera/index.m3u8
-#EXTINF:-1 group-title="Белтелеком",ТВЦ Plus TV
-http://178.124.179.122:8088/PlusTV/index.m3u8
-#EXTINF:-1 group-title="Белтелеком",.Red
-http://178.124.179.122:8088/Red/index.m3u8
-#EXTINF:-1 group-title="Белтелеком",.Black
-http://178.124.179.122:8088/Black/index.m3u8
-#EXTINF:-1 group-title="Белтелеком",.Sci-Fi
-http://178.124.179.122:8088/Sci-Fi/index.m3u8
-#EXTINF:-1 group-title="Белтелеком",Ретро
-http://178.124.179.122:8088/Retro/index.m3u8
-#EXTINF:-1 group-title="Белтелеком",Сарафан
-http://178.124.179.122:8088/Sarafan/index.m3u8
-#EXTINF:-1 group-title="Белтелеком",Союз
-http://178.124.179.122:8088/Souz/index.m3u8
-#EXTINF:-1 group-title="Белтелеком",Усадьба
-http://178.124.179.122:8088/Usadba/index.m3u8
-#EXTINF:-1 group-title="Белтелеком",Здоровое ТВ
-http://178.124.179.122:8088/ZdorovoeTV/index.m3u8
-#EXTINF:-1 group-title="Белтелеком",Супергерои
-http://178.124.179.122:8088/Malish/index.m3u8
-#EXTINF:-1 group-title="Белтелеком",Мульт
-http://178.124.179.122:8088/Mult/index.m3u8
-#EXTINF:-1 group-title="Белтелеком",Шансон ТВ
-http://178.124.179.122:8088/Shanson/index.m3u8
-#EXTINF:-1 group-title="Белтелеком",МузТВ
-http://178.124.179.122:8088/MuzTV/index.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",KHL HD
-http://178.124.179.122:8088/KHL_HD/index.m3u8
-
-
-
-
 #EXTINF:-1 group-title="Turon Media",Первый HD
 https://stream1.cinerama.uz/1214/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Turon Media",Первый канал
@@ -3876,116 +3835,6 @@ http://193.242.204.28:10111/111
 
 
 
-#EXTINF:-1 group-title="Трител-Крым (VPN)",ТНТ4
-http://185.112.140.28:8080/TNT4/index.m3u8
-#EXTINF:-1 group-title="Трител-Крым (VPN)",ТНТ
-http://185.112.140.28:8080/TNT/index.m3u8
-#EXTINF:-1 group-title="Трител-Крым (VPN)",ТНТ HD
-http://185.112.140.28:8080/TNT_HD/index.m3u8
-#EXTINF:-1 group-title="Трител-Крым (VPN)",РЕН ТВ
-http://185.112.140.28:8080/REN_TV/index.m3u8
-#EXTINF:-1 group-title="Трител-Крым (VPN)",НТВ
-http://185.112.140.28:8080/NTV/index.m3u8
-#EXTINF:-1 group-title="Трител-Крым (VPN)",НТВ HD
-http://185.112.140.28:8080/NTV_HD/index.m3u8
-#EXTINF:-1 group-title="Трител-Крым (VPN)",Техно 24
-http://185.112.140.28/24_Tehno/index.m3u8
-#EXTINF:-1 group-title="Трител-Крым (VPN)",ГЛАЗАМИ ТУРИСТА HD
-http://185.112.140.28:8080/Glazami_Turista/index.m3u8
-#EXTINF:-1 group-title="Трител-Крым (VPN)",Discovery Channel HD
-http://185.112.140.28:8080/DiscoveryChannel/index.m3u8
-#EXTINF:-1 group-title="Трител-Крым (VPN)",Animal Planet
-http://185.112.140.28:8080/AnimalPlanet/index.m3u8
-#EXTINF:-1 group-title="Трител-Крым (VPN)",Viasat History
-http://185.112.140.28:8080/ViasatHistory/index.m3u8
-#EXTINF:-1 group-title="Трител-Крым (VPN)",Viasat Explore
-http://185.112.140.28:8080/ViasatExplorer/index.m3u8
-#EXTINF:-1 group-title="Трител-Крым (VPN)",История
-http://185.112.140.28:8080/istoria/index.m3u8
-#EXTINF:-1 group-title="Трител-Крым (VPN)",VIP Comedy HD
-http://185.112.140.28:8080/VIPComedy/index.m3u8
-#EXTINF:-1 group-title="Трител-Крым (VPN)",VIP Megahit HD
-http://185.112.140.28:8080/VIPMegahit/index.m3u8
-#EXTINF:-1 group-title="Трител-Крым (VPN)",VIP Premiere HD
-http://185.112.140.28:8080/VIPPremiere/index.m3u8
-#EXTINF:-1 group-title="Трител-Крым (VPN)",.Sci-Fi
-http://185.112.140.28:8080/SonySciFi/index.m3u8
-#EXTINF:-1 group-title="Трител-Крым (VPN)",Кино ТВ
-http://185.112.140.28:8080/Kino_TV/index.m3u8
-#EXTINF:-1 group-title="Трител-Крым (VPN)",Кинопоказ
-http://185.112.140.28:8080/Kinopokaz/index.m3u8
-#EXTINF:-1 group-title="Трител-Крым (VPN)",Cinema
-http://185.112.140.28:8080/Cinema/index.m3u8
-#EXTINF:-1 group-title="Трител-Крым (VPN)",Дом Кино
-http://185.112.140.28:8080/DomKino/index.m3u8
-#EXTINF:-1 group-title="Трител-Крым (VPN)",ДОМ КИНО ПРЕМИУМ HD
-http://185.112.140.28:8080/DomKinoPremium/index.m3u8
-#EXTINF:-1 group-title="Трител-Крым (VPN)",Кинопремьера HD
-http://185.112.140.28:8080/Kinopremera/index.m3u8
-#EXTINF:-1 group-title="Трител-Крым (VPN)",Киноужас HD
-http://185.112.140.28:8080/Kinouzhas/index.m3u8
-#EXTINF:-1 group-title="Трител-Крым (VPN)",Киносвидание
-http://185.112.140.28:8080/Kinosvidanie/index.m3u8
-#EXTINF:-1 group-title="Трител-Крым (VPN)",киномикс HD
-http://185.112.140.28:8080/Kinomiks/index.m3u8
-#EXTINF:-1 group-title="Трител-Крым (VPN)",Кинохит HD
-http://185.112.140.28:8080/Kinohit/index.m3u8
-#EXTINF:-1 group-title="Трител-Крым (VPN)",Мосфильм. Золотая коллекция
-http://185.112.140.28:8080/Mosfilm/index.m3u8
-#EXTINF:-1 group-title="Трител-Крым (VPN)",Наше Новое Кино
-http://185.112.140.28:8080/Nashe_Novoe_Kino/index.m3u8
-#EXTINF:-1 group-title="Трител-Крым (VPN)",Родное Кино
-http://185.112.140.28:8080/Rodnoe_Kino/index.m3u8
-#EXTINF:-1 group-title="Трител-Крым (VPN)",НСТ
-http://185.112.140.28:8080/NSTV/index.m3u8
-#EXTINF:-1 group-title="Трител-Крым (VPN)",TV1000 Русское Кино
-http://185.112.140.28:8080/TV1000Russkoekino/index.m3u8
-#EXTINF:-1 group-title="Трител-Крым (VPN)",TV1000 Action
-http://185.112.140.28:8080/TV1000Action/index.m3u8
-#EXTINF:-1 group-title="Трител-Крым (VPN)",Суббота
-http://185.112.140.28:8080/Super/index.m3u8
-#EXTINF:-1 group-title="Трител-Крым (VPN)",СТС Love
-http://185.112.140.28:8080/STS_Love/index.m3u8
-#EXTINF:-1 group-title="Трител-Крым (VPN)",ЗОО ТВ
-http://185.112.140.28:8080/zoo_tv/index.m3u8
-#EXTINF:-1 group-title="Трител-Крым (VPN)",365 ДНЕЙ
-http://185.112.140.28:8080/365_dnej/index.m3u8
-#EXTINF:-1 group-title="Трител-Крым (VPN)",2x2
-http://185.112.140.28:8080/2x2/index.m3u8
-#EXTINF:-1 group-title="Трител-Крым (VPN)",Звезда
-http://185.112.140.28:8080/Zvezda/index.m3u8
-#EXTINF:-1 group-title="Трител-Крым (VPN)",ТВЦ
-http://185.112.140.28:8080/TVC/index.m3u8
-#EXTINF:-1 group-title="Трител-Крым (VPN)",СТС
-http://185.112.140.28:8080/STS/index.m3u8
-#EXTINF:-1 group-title="Трител-Крым (VPN)",СТС HD
-http://185.112.140.28:8080/STS_HD/index.m3u8
-#EXTINF:-1 group-title="Трител-Крым (VPN)",ОТР
-http://185.112.140.28:8080/OTR/index.m3u8
-#EXTINF:-1 group-title="Трител-Крым (VPN)",Мир
-http://185.112.140.28:8080/MIR/index.m3u8
-#EXTINF:-1 group-title="Трител-Крым (VPN)",Домашний
-http://185.112.140.28:8080/Domashnij/index.m3u8
-#EXTINF:-1 group-title="Трител-Крым (VPN)",ЧЕ
-http://185.112.140.28:8080/Che/index.m3u8
-#EXTINF:-1 group-title="Трител-Крым (VPN)",Карусель
-http://185.112.140.28:8080/Karusel/index.m3u8
-#EXTINF:-1 group-title="Трител-Крым (VPN)",Мульт
-http://185.112.140.28:8080/Mult/index.m3u8
-#EXTINF:-1 group-title="Трител-Крым (VPN)",СТС Kids
-http://185.112.140.28:8080/STS_Kids/index.m3u8
-#EXTINF:-1 group-title="Трител-Крым (VPN)",Солнце
-http://185.112.140.28:8080/Disney/index.m3u8
-#EXTINF:-1 group-title="Трител-Крым (VPN)",Viasat sport
-http://185.112.140.28:8080/Viasatsport/index.m3u8
-#EXTINF:-1 group-title="Трител-Крым (VPN)",Матч ТВ HD
-http://185.112.140.28:8080/Match_TV_HD/index.m3u8
-
-
-
-
-
-
 #EXTINF:-1 group-title="КРЭЛКОМ (VPN)",Big Planet
 http://109.200.130.123:7537/play/a02j
 #EXTINF:-1 group-title="КРЭЛКОМ (VPN)",TERRA
@@ -4321,101 +4170,6 @@ http://194.143.148.28:8080/MatchArena/mpegts
 http://194.143.148.28:8080/MatchFutbol1/mpegts
 #EXTINF:-1 group-title="Спорткомплекс 🏆",KHL Prime
 http://194.143.148.28:8080/KHL_HD/mpegts
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="Andial Ltd (VPN)",ТНТ
-http://185.50.148.2:7702/TNT/index.m3u8
-#EXTINF:-1 group-title="Andial Ltd (VPN)",НТВ
-http://185.50.148.2:7702/NTV/index.m3u8
-#EXTINF:-1 group-title="Andial Ltd (VPN)",ТНТ HD
-http://185.50.148.2:7710/TNT_HD/index.m3u8
-#EXTINF:-1 group-title="Andial Ltd (VPN)",Terra
-http://185.50.148.2:7707/NationalGeographic/index.m3u8
-#EXTINF:-1 group-title="Andial Ltd (VPN)",Big Planet
-http://185.50.148.2:7703/BigPlanet/index.m3u8
-#EXTINF:-1 group-title="Andial Ltd (VPN)",Viasat Nature
-http://185.50.148.2:7703/ViasatNature/index.m3u8
-#EXTINF:-1 group-title="Andial Ltd (VPN)",Viasat Explore
-http://185.50.148.2:7703/ViasatExplorer/index.m3u8
-#EXTINF:-1 group-title="Andial Ltd (VPN)",Viasat History
-http://185.50.148.2:7703/ViasatHistory/index.m3u8
-#EXTINF:-1 group-title="Andial Ltd (VPN)", Точка Отрыва
-http://185.50.148.2:7703/OhotaiRibalka/index.m3u8
-#EXTINF:-1 group-title="Andial Ltd (VPN)",Усадьба
-http://185.50.148.2:7703/PSIHOLOGIYA21/index.m3u8
-#EXTINF:-1 group-title="Andial Ltd (VPN)",Аппетитный HD
-http://185.50.148.2:7703/Motorsport/index.m3u8
-#EXTINF:-1 group-title="Andial Ltd (VPN)",Кино Без Границ
-http://185.50.148.2:7703/Detskiy/index.m3u8
-#EXTINF:-1 group-title="Andial Ltd (VPN)",TV1000
-http://185.50.148.2:7703/TV1000/index.m3u8
-#EXTINF:-1 group-title="Andial Ltd (VPN)",TV1000 Action
-http://185.50.148.2:7703/TV1000Action/index.m3u8
-#EXTINF:-1 group-title="Andial Ltd (VPN)",TV1000 Русское кино
-http://185.50.148.2:7703/TV1000RusKino/index.m3u8
-#EXTINF:-1 group-title="Andial Ltd (VPN)",Родное Кино
-http://185.50.148.2:7711/RodnoeKino/index.m3u8
-#EXTINF:-1 group-title="Andial Ltd (VPN)",Киносвидание
-http://185.50.148.2:7711/Kinosvidanie/index.m3u8
-#EXTINF:-1 group-title="Andial Ltd (VPN)",Киномикс
-http://185.50.148.2:7711/Kinomiks/index.m3u8
-#EXTINF:-1 group-title="Andial Ltd (VPN)",Кинохит
-http://185.50.148.2:7711/Kinohit/index.m3u8
-#EXTINF:-1 group-title="Andial Ltd (VPN)",Дом Кино
-http://185.50.148.2:7707/DomKino/index.m3u8
-#EXTINF:-1 group-title="Andial Ltd (VPN)",Amedia 1
-http://185.50.148.2:7707/A1/index.m3u8
-#EXTINF:-1 group-title="Andial Ltd (VPN)",Amedia 2
-http://185.50.148.2:7707/A2/index.m3u8
-#EXTINF:-1 group-title="Andial Ltd (VPN)",Amedia Premium HD
-http://185.50.148.2:7707/AmediaPremium/index.m3u8
-#EXTINF:-1 group-title="Andial Ltd (VPN)", Мосфильм. Золотая коллекция
-http://185.50.148.2:7706/Mosfilm/index.m3u8
-#EXTINF:-1 group-title="Andial Ltd (VPN)",ПОБЕДА
-http://185.50.148.2:7707/Pobeda/index.m3u8
-#EXTINF:-1 group-title="Andial Ltd (VPN)",ЕВРОКИНО
-http://185.50.148.2:7709/Evrokino/index.m3u8
-#EXTINF:-1 group-title="Andial Ltd (VPN)",Flix Snip
-http://185.50.148.2:7703/FlixSnip/index.m3u8
-#EXTINF:-1 group-title="Andial Ltd (VPN)",.Sci-Fi
-http://185.50.148.2:7703/Sony_Sci-Fi/index.m3u8
-#EXTINF:-1 group-title="Andial Ltd (VPN)",.Black
-http://185.50.148.2:7703/Sony_Turbo/index.m3u8
-#EXTINF:-1 group-title="Andial Ltd (VPN)",Fox
-http://185.50.148.2:7703/Fox/index.m3u8
-#EXTINF:-1 group-title="Andial Ltd (VPN)",Мама
-http://185.50.148.2:7703/Mama/index.m3u8
-#EXTINF:-1 group-title="Andial Ltd (VPN)",ЧЕ
-http://185.50.148.2:7702/Che/index.m3u8
-#EXTINF:-1 group-title="Andial Ltd (VPN)",ОТР
-http://185.50.148.2:7702/OTR/index.m3u8
-#EXTINF:-1 group-title="Andial Ltd (VPN)",САРАФАН
-http://185.50.148.2:7706/Sarafan/index.m3u8
-#EXTINF:-1 group-title="Andial Ltd (VPN)",СТС Love
-http://185.50.148.2:7706/STSLove/index.m3u8
-#EXTINF:-1 group-title="Andial Ltd (VPN)",Мультимузыка
-http://185.50.148.2:7706/Multimuzika/index.m3u8
-#EXTINF:-1 group-title="Andial Ltd (VPN)",МУЛЬТИМАНИЯ
-http://185.50.148.2:7706/Multimania/index.m3u8
-#EXTINF:-1 group-title="Andial Ltd (VPN)",Мульт
-http://185.50.148.2:7706/Mult/index.m3u8
-#EXTINF:-1 group-title="Andial Ltd (VPN)",Ani
-http://185.50.148.2:7706/Ani/index.m3u8
-#EXTINF:-1 group-title="Andial Ltd (VPN)",Da Vinci
-http://185.50.148.2:7703/DaVinciLearning/index.m3u8
-#EXTINF:-1 group-title="Andial Ltd (VPN)",Музыка Первого
-http://185.50.148.2:7707/MuzikaPervogo/index.m3u8
-#EXTINF:-1 group-title="Andial Ltd (VPN)",Mezzo
-http://185.50.148.2:7703/Mezzo/index.m3u8
-#EXTINF:-1 group-title="Andial Ltd (VPN)",Viasat Sport
-http://185.50.148.2:7703/ViasatSport/index.m3u8
-
 
 
 
@@ -5664,7 +5418,7 @@ http://92.53.64.197:5050/dubai_sports_2hd/video.m3u8?token=m3VIth-Rou_bM1
 
 
 
-#EXTINF:-1 group-title="К Телеком (VPN)",Россия K
+#EXTINF:-1 group-title="К Телеком (VPN)",Россия К
 http://94.230.128.105:8080/Rossia_K/index.m3u8
 #EXTINF:-1 group-title="К Телеком (VPN)",Россия 24
 http://94.230.128.105:8080/Rossia_24/index.m3u8
