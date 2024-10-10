@@ -3138,7 +3138,7 @@ http://91.194.191.241:8081/chid238/tracks-v1a1/mono.m3u8
 http://91.194.191.241:8081/chid113/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)" ,Живая Природа
 http://91.194.191.241:8081/chid182/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)" ,Загородняя Жизнь
+#EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)" ,Загородная Жизнь
 http://91.194.191.241:8081/chid167/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)" ,Живая Планета
 http://91.194.191.241:8081/chid414/tracks-v1a1/mono.m3u8
@@ -3154,6 +3154,8 @@ http://91.194.191.241:8081/chid281/tracks-v1a1/mono.m3u8
 http://91.194.191.241:8081/chid268/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)" ,Nat Geo Wild
 http://91.194.191.241:8081/chid112/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)" ,Viasat Nature
+http://91.194.191.241:8081/chid428/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)" ,RTG TV
 http://91.194.191.241:8081/chid152/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)" ,HD Life
@@ -3182,9 +3184,9 @@ http://91.194.191.241:8081/chid70/tracks-v1a1/mono.m3u8
 http://91.194.191.241:8081/chid32/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)" ,Три Ангела
 http://91.194.191.241:8081/chid241/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)" ,Точка Успеха
+#EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)" ,Успех
 http://91.194.191.241:8081/chid232/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)" ,Тонус
+#EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)" ,Тонус ТВ
 http://91.194.191.241:8081/chid272/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)" ,ТИ ВИ СИ
 http://91.194.191.241:8081/chid290/tracks-v1a1/mono.m3u8
@@ -3198,7 +3200,7 @@ http://91.194.191.241:8081/chid235/tracks-v1a1/mono.m3u8
 http://91.194.191.241:8081/chid444/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)" ,ТВ3
 http://91.194.191.241:8081/chid5/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)" ,ТВ 21
+#EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)" ,TV XXI
 http://91.194.191.241:8081/chid265/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)" ,Суббота
 http://91.194.191.241:8081/chid24/tracks-v1a1/mono.m3u8
@@ -3228,8 +3230,6 @@ http://91.194.191.241:8081/chid82/tracks-v1a1/mono.m3u8
 http://91.194.191.241:8081/chid75/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)" ,Русская Комедия
 http://91.194.191.241:8081/chid80/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)" ,Родное Кино
-http://91.194.191.241:8081/chid471/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)" ,Ретро
 http://91.194.191.241:8081/chid45/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)" ,РБК
@@ -3268,7 +3268,7 @@ http://91.194.191.241:8081/chid48/tracks-v1a1/mono.m3u8
 http://91.194.191.241:8081/chid183/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)" ,Мир
 http://91.194.191.241:8081/chid16/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)" ,Муз Союз
+#EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)" ,МузСоюз
 http://91.194.191.241:8081/chid166/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)" ,ЛДПР ТВ
 http://91.194.191.241:8081/chid242/tracks-v1a1/mono.m3u8
@@ -3284,6 +3284,8 @@ http://91.194.191.241:8081/chid23/tracks-v1a1/mono.m3u8
 http://91.194.191.241:8081/chid57/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)" ,Наше Новое Кино
 http://91.194.191.241:8081/chid470/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)" ,Родное Кино
+http://91.194.191.241:8081/chid471/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)" ,Любимое Кино
 http://91.194.191.241:8081/chid73/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)" ,Мужское Кино
@@ -3292,10 +3294,10 @@ http://91.194.191.241:8081/chid462/tracks-v1a1/mono.m3u8
 http://91.194.191.241:8081/chid461/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)" ,Киносат
 http://91.194.191.241:8081/chid326/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)" ,Кинопоказ
-http://91.194.191.241:8081/chid411/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)" ,Кинокомедия
 http://91.194.191.241:8081/chid406/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)" ,Кинопоказ
+http://91.194.191.241:8081/chid411/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)" ,Индия
 http://91.194.191.241:8081/chid139/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)" ,Индийское Кино
@@ -3312,7 +3314,7 @@ http://91.194.191.241:8081/chid239/tracks-v1a1/mono.m3u8
 http://91.194.191.241:8081/chid71/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)" ,Известия
 http://91.194.191.241:8081/chid277/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)" ,Зоо
+#EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)" ,Зоо ТВ
 http://91.194.191.241:8081/chid25/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)" ,Здоровое ТВ
 http://91.194.191.241:8081/chid267/tracks-v1a1/mono.m3u8
@@ -3346,9 +3348,9 @@ http://91.194.191.241:8081/chid47/tracks-v1a1/mono.m3u8
 http://91.194.191.241:8081/chid30/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)" ,Вместе-РФ
 http://91.194.191.241:8081/chid274/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)" ,Витрина
+#EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)" ,Витрина ТВ
 http://91.194.191.241:8081/chid29/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)" ,В Мире Животных
+#EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)" ,В Мире Животных HD
 http://91.194.191.241:8081/chid209/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)" ,БСТ 24
 http://91.194.191.241:8081/chid20/tracks-v1a1/mono.m3u8
@@ -3362,8 +3364,6 @@ http://91.194.191.241:8081/chid141/tracks-v1a1/mono.m3u8
 http://91.194.191.241:8081/chid104/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)" ,VIP Serial
 http://91.194.191.241:8081/chid40/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)" ,VIP Nature
-http://91.194.191.241:8081/chid428/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)" ,TV1000 Русское Кино
 http://91.194.191.241:8081/chid69/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)" ,TV1000 Action
