@@ -168,18 +168,6 @@ http://s18209.cdn.ngenix.net/hls/CH_R01_CHEKHOVTV/variant.m3u8
 http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA2/playlist.m3u8
 #EXTINF:-1 group-title="TEST (VPN)" tvg-logo="http://194.26.229.4/live/pda.png",OnlineTV
 http://185.221.213.254:8080/Okko/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://sunset-media.ru/assets/logos/space.png" ,Sunset Space
-https://stream.sunset-media.ru:443/Free/Free/3.m3u8
-#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://sunset-media.ru/assets/logos/movie.png" ,Sunset Movie
-https://stream.sunset-media.ru:443/Free/Free/1.m3u8
-#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://sunset-media.ru/assets/logos/music.png" ,Sunset Music
-https://stream.sunset-media.ru:443/Free/Free/2.m3u8
-#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://sunset-media.ru/assets/logos/kids.png" ,Sunset Kids
-https://stream.sunset-media.ru:443/Free/Free/4.m3u8
-#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://sunset-media.ru/assets/logos/anime.png" ,Sunset Anime
-https://stream.sunset-media.ru/Free/Free/5.m3u8
-#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://sunset-media.ru/Sunsetmusiclive.png" ,Sunset Music Live
-https://stream.sunset-media.ru/Free/Free/6.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",Поехали!
 http://91.247.68.229:8000/play/Poehali/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",Тайна
@@ -454,7 +442,7 @@ http://185.129.1.242:80/terra/mpegts?token=test
 http://185.129.1.242:80/telekafe/mpegts?token=test
 #EXTINF:-1 group-title="GSP",Зоопарк
 http://185.129.1.242:80/zoopark/mpegts?token=test
-#EXTINF:-1 group-title="GSP",Загородняя Жизнь
+#EXTINF:-1 group-title="GSP",Загородная Жизнь
 http://185.129.1.242:80/zaqorodnayajizn/mpegts?token=test
 #EXTINF:-1 group-title="GSP",Animal Planet
 http://185.129.1.242:80/animalplanet/mpegts?token=test
@@ -496,10 +484,14 @@ http://185.129.1.242:80/domkinopremiumhd/mpegts?token=test
 http://185.129.1.242:80/foxrussia/mpegts?token=test
 #EXTINF:-1 group-title="GSP",Сапфир
 http://185.129.1.242:80/foxlife/mpegts?token=test
-#EXTINF:-1 group-title="GSP",Кино Хит
-http://185.129.1.242:80/kinoxit/mpegts?token=test
 #EXTINF:-1 group-title="GSP",Кино ТВ
 http://185.129.1.242:80/kinotv/mpegts?token=test
+#EXTINF:-1 group-title="GSP",Кинохит
+http://185.129.1.242:80/kinoxit/mpegts?token=test
+#EXTINF:-1 group-title="GSP",Родное Кино
+http://185.129.1.242:80/rodnoekino/mpegts?token=test
+#EXTINF:-1 group-title="GSP",Наше Новое Кино
+http://185.129.1.242:80/nashenovoekino/mpegts?token=test
 #EXTINF:-1 group-title="GSP",Киносвидание
 http://185.129.1.242:80/kinosvidanie/mpegts?token=test
 #EXTINF:-1 group-title="GSP",Киносерия
@@ -522,10 +514,6 @@ http://185.129.1.242:80/mirseriala/mpegts?token=test
 http://185.129.1.242:80/russkiybetseller/mpegts?token=test
 #EXTINF:-1 group-title="GSP",Русский Бестселлер HD
 http://185.129.1.242:80/rtghd/mpegts?token=test
-#EXTINF:-1 group-title="GSP",Родное Кино
-http://185.129.1.242:80/rodnoekino/mpegts?token=test
-#EXTINF:-1 group-title="GSP",Наше Новое Кино
-http://185.129.1.242:80/nashenovoekino/mpegts?token=test
 #EXTINF:-1 group-title="GSP", Иллюзион+
 http://185.129.1.242:80/illuzion/mpegts?token=test
 #EXTINF:-1 group-title="GSP",Русский Иллюзион
@@ -538,7 +526,7 @@ http://185.129.1.242:80/lubimoekino/mpegts?token=test
 http://185.129.1.242:80/vremya/mpegts?token=test
 #EXTINF:-1 group-title="GSP",Доктор
 http://185.129.1.242:80/doktor/mpegts?token=test
-#EXTINF:-1 group-title="GSP",Поехали
+#EXTINF:-1 group-title="GSP",Поехали!
 http://185.129.1.242:80/poexali/mpegts?token=test
 #EXTINF:-1 group-title="GSP",Домашние Животные
 http://185.129.1.242:80/domashniejivotnie/mpegts?token=test
@@ -556,7 +544,7 @@ http://185.129.1.242:80/ktoestkto/mpegts?token=test
 http://185.129.1.242:80/sovershennosekretno/mpegts?token=test
 #EXTINF:-1 group-title="GSP",TLC
 http://185.129.1.242:80/tlc/mpegts?token=test
-#EXTINF:-1 group-title="GSP",Fashion
+#EXTINF:-1 group-title="GSP",Fashion TV
 http://185.129.1.242:80/fashion/mpegts?token=test
 #EXTINF:-1 group-title="GSP",Ювелирочка
 http://185.129.1.242:80/yuvelirochka/mpegts?token=test
@@ -586,7 +574,7 @@ http://185.129.1.242:80/domashniy/mpegts?token=test
 http://185.129.1.242:80/ce/mpegts?token=test
 #EXTINF:-1 group-title="GSP",СТС
 http://185.129.1.242:80/sts/mpegts?token=test
-#EXTINF:-1 group-title="GSP",Пятый
+#EXTINF:-1 group-title="GSP",Пятый канал
 http://185.129.1.242:80/5kanal/mpegts?token=test
 #EXTINF:-1 group-title="GSP",ОТР
 http://185.129.1.242:80/otr/mpegts?token=test
@@ -618,7 +606,7 @@ http://185.129.1.242:80/muztv/mpegts?token=test
 http://185.129.1.242:80/muztvaz/mpegts?token=test
 #EXTINF:-1 group-title="GSP",Ля-Минор
 http://185.129.1.242:80/lyaminor/mpegts?token=test
-#EXTINF:-1 group-title="GSP",МСМ ТОП
+#EXTINF:-1 group-title="GSP",MCMC Top
 http://185.129.1.242:80/mcmtop/mpegts?token=test
 #EXTINF:-1 group-title="GSP",Ностальгия
 http://185.129.1.242:80/nostalgiya/mpegts?token=test
@@ -628,7 +616,7 @@ http://185.129.1.242:80/mezzo/mpegts?token=test
 http://185.129.1.242:80/mezzolivehd/mpegts?token=test
 #EXTINF:-1 group-title="GSP",Мульт
 http://185.129.1.242:80/mult/mpegts?token=test
-#EXTINF:-1 group-title="GSP",Аni
+#EXTINF:-1 group-title="GSP",Ami
 http://185.129.1.242:80/anitv/mpegts?token=test
 #EXTINF:-1 group-title="GSP",2x2
 http://185.129.1.242:80/2x2/mpegts?token=test
@@ -707,16 +695,6 @@ http://185.129.1.242:80/mirbasketbola/mpegts?token=test
 
 
 
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 group-title="Телеком-сервис",Первый канал
 http://185.23.80.28:8080/Pervyj/index.m3u8?token=test
 #EXTINF:-1 group-title="Телеком-сервис",ТНТ
@@ -763,7 +741,7 @@ http://185.23.80.28:8080/Dikaya_Ohota/index.m3u8?token=test
 http://185.23.80.28:8080/Dikaya_Rybalka/index.m3u8?token=test
 #EXTINF:-1 group-title="Телеком-сервис",Дикий
 http://185.23.80.28:8080/Dikiy/index.m3u8?token=test
-#EXTINF:-1 group-title="Телеком-сервис",В мире животных
+#EXTINF:-1 group-title="Телеком-сервис",В мире животных HD
 http://185.23.80.28:8080/VMireZhivotnyx/index.m3u8?token=test
 #EXTINF:-1 group-title="Телеком-сервис",Загородный
 http://185.23.80.28:8080/Zagorodnyj/index.m3u8?token=test
@@ -779,7 +757,7 @@ http://185.23.80.28:8080/NANO_HD/index.m3u8?token=test
 http://185.23.80.28:8080/VMireZhivotnyx/index.m3u8?token=test
 #EXTINF:-1 group-title="Телеком-сервис",Ключ
 http://185.23.80.28:8080/Klyuch/index.m3u8?token=test
-#EXTINF:-1 group-title="Телеком-сервис",Hано ТВ
+#EXTINF:-1 group-title="Телеком-сервис",Нано ТВ
 http://185.23.80.28:8080/Nano/index.m3u8?token=test
 #EXTINF:-1 group-title="Телеком-сервис",Наша Сибирь
 http://185.23.80.28:8080/NashaSibir/index.m3u8?token=test
@@ -859,7 +837,7 @@ http://185.23.80.28:8080/IzvestiyaVoronezh/index.m3u8?token=test
 http://185.23.80.28:8080/Doktor/index.m3u8?token=test
 #EXTINF:-1 group-title="Телеком-сервис",UNIVER TV
 http://185.23.80.28:8080/UNIVERTV/index.m3u8?token=test
-#EXTINF:-1 group-title="Телеком-сервис",Ваш Успех
+#EXTINF:-1 group-title="Телеком-сервис",Успех
 http://185.23.80.28:8080/VashUspex/index.m3u8?token=test
 #EXTINF:-1 group-title="Телеком-сервис",Сочи 24 HD
 http://185.23.80.28:8080/Sochi24_HD/index.m3u8?token=test
@@ -921,8 +899,6 @@ http://185.23.80.28:8080/KrasnayaLiniya/index.m3u8?token=test
 http://185.23.80.28:8080/Soyuz/index.m3u8?token=test
 #EXTINF:-1 group-title="Телеком-сервис",ТНВ-Татарстан
 http://185.23.80.28:8080/Tatarstan/index.m3u8?token=test
-#EXTINF:-1 group-title="Телеком-сервис",ТНОМЕР
-http://185.23.80.28:8080/TNOMER/index.m3u8?token=test
 #EXTINF:-1 group-title="Телеком-сервис",Точка ТВ
 http://185.23.80.28:8080/TochkaTV/index.m3u8?token=test
 #EXTINF:-1 group-title="Телеком-сервис",Три Ангела
@@ -933,8 +909,6 @@ http://185.23.80.28:8080/TVBRICS/index.m3u8?token=test
 http://185.23.80.28:8080/KRIKTV/index.m3u8?token=test
 #EXTINF:-1 group-title="Телеком-сервис",Дума ТВ
 http://185.23.80.28:8080/DumaTV/index.m3u8?token=test
-#EXTINF:-1 group-title="Телеком-сервис",EXO-TV
-http://185.23.80.28:8080/EXO-TV/index.m3u8?token=test
 #EXTINF:-1 group-title="Телеком-сервис",CGTN
 http://185.23.80.28:8080/CGTN/index.m3u8?token=test
 #EXTINF:-1 group-title="Телеком-сервис",Домашний
@@ -1061,20 +1035,18 @@ http://185.23.80.28:8080/BRIDGETVDANCE/index.m3u8?token=test
 http://185.23.80.28:8080/BRIDGETVRusskijXit/index.m3u8?token=test
 #EXTINF:-1 group-title="Телеком-сервис",BRIDGE TV ШЛЯГЕР
 http://185.23.80.28:8080/BridgeTVShlyager/index.m3u8?token=test
-#EXTINF:-1 group-title="Телеком-сервис",SAN PORTO
+#EXTINF:-1 group-title="Спорткомплекс 🏆",SAN PORTO
 http://185.23.80.28:8080/SAN_PORTO/index.m3u8?token=test
-#EXTINF:-1 group-title="Телеком-сервис",МАТЧ ТВ HD
+#EXTINF:-1 group-title="Спорткомплекс 🏆",МАТЧ ТВ HD
 http://185.23.80.28:8080/MATCH!_HD/index.m3u8?token=test
-#EXTINF:-1 group-title="Телеком-сервис",КХЛ ТВ
+#EXTINF:-1 group-title="Спорткомплекс 🏆",КХЛ ТВ
 http://185.23.80.28:8080/KHL/index.m3u8?token=test
-#EXTINF:-1 group-title="Телеком-сервис",Телеканал Футбол
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Телеканал Футбол
 http://185.23.80.28:8080/Football/index.m3u8?token=test
-#EXTINF:-1 group-title="Телеком-сервис",СТАРТ
+#EXTINF:-1 group-title="Спорткомплекс 🏆",СТАРТ
 http://185.23.80.28:8080/START/index.m3u8?token=test
-#EXTINF:-1 group-title="Телеком-сервис",Моторспорт ТВ
-http://185.23.80.28:8080/Motorsport_HD/index.m3u8?token=test
-#EXTINF:-1 group-title="Телеком-сервис",ФУТБОЛ
-http://185.23.80.28:8080/Football/index.m3u8?token=test
+
+
 
 
 
