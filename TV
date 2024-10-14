@@ -10555,40 +10555,8 @@ http://103.97.89.234/setanta2/index.m3u8
 http://103.97.89.234/setantaua/index.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Setanta Ukraine Plus HD
 http://103.97.89.234/setantaplus/index.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",ufctv HD
-http://103.97.89.234/ufctv/index.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Viasat sport HD
 http://103.97.89.234/viasatsport/index.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",NBA TV HD
-http://103.97.89.234/nba/index.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",ESPN USA
-http://103.97.89.234/espn/index.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Sky Sports F1 HD 50 UK
-http://103.97.89.234/skysportsf1/index.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Max Sport 1 HD
-http://213.169.39.30:5138
-#EXTINF:-1 group-title="Спорткомплекс 🏆",MAX Sport 3 HD
-http://213.169.39.30:5142
-#EXTINF:-1 group-title="Спорткомплекс 🏆",FilmBox
-http://213.169.39.30:5009
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Ring HD
-http://213.169.39.30:5210
-#EXTINF:-1 group-title="Спорткомплекс 🏆" ,Fight Klub
-http://213.169.39.30:5042
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Extreme Sports
-http://213.169.39.30:5248
-#EXTINF:-1 group-title="Спорткомплекс 🏆" ,Diema Sport HD
-http://213.169.39.30:5134
-#EXTINF:-1 group-title="Спорткомплекс 🏆" ,Diema sport 3 HD
-http://213.169.39.30:5216
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Diema sport 2 HD
-http://213.169.39.30:5136
-#EXTINF:-1 group-title="Спорткомплекс 🏆" ,B Action HD
-http://213.169.39.30:5212
-#EXTINF:-1 group-title="Спорткомплекс 🏆" ,Auto Motor Sport
-http://213.169.39.30:5233
-#EXTINF:-1 group-title="Спорткомплекс 🏆" ,Матч! Футбол 1 HD
-http://194.143.148.28:8080/MatchFutbol1/mpegts
 #EXTINF:-1 group-title="Спорткомплекс 🏆" ,Матч! HD
 https://livetv.mylifeisgood.net.ru/channels/matchhd_nocensored.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆" catchup="append" catchup-days="7" catchup-source="?start=${start}&end=${end}" ,Удар
@@ -10603,8 +10571,6 @@ https://strm.yandex.ru/kal/khl_belarus/khl_belarus0.m3u8
 https://strm.yandex.ru/kal/khl_prime_belarus/khl_prime_belarus0.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-id="2051", Матч! HD
 http://94.230.240.17:8080/machtv/index.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆" ,Матч! Арена
-http://194.143.148.28:8080/MatchArena/mpegts
 #EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-id="belarus5-inet" ,Беларусь 5
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆" ,Беларусь 5
@@ -10619,7 +10585,7 @@ http://217.174.225.146/hls/ch004_720/index.m3u8
 http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-logo="https://assets-imgx.fubo.tv/marketing/lp/images/fsn/fsn-logo-white.png",Fubo Sports Network
 https://playout.fubo.tv/plex/3.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆" Eurosport Live HD
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Eurosport Live HD
 http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Tennis Channel
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
@@ -10649,10 +10615,7 @@ https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playli
 https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Primocanale Sport
 https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Orange Sport 1
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:08:E9:52&stream=564976&extension=ts
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Orange Sport 2
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:08:E9:52&stream=564977&extension=ts
+
 
 
 
