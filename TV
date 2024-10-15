@@ -503,6 +503,39 @@ http://86.57.198.251:8181/play/1051/index.m3u8
 
 
 
+#EXTINF:-1 group-title="Белтелеком_2",RTG TV
+http://178.124.152.238:8088/rtg
+#EXTINF:-1 group-title="Белтелеком_2",Наука 2.0
+http://178.124.152.238:8088/nauka
+#EXTINF:-1 group-title="Белтелеком_2",Авто 24
+http://178.124.152.238:8088/auto24
+#EXTINF:-1 group-title="Белтелеком_2",Cinema Космос ТВ HD BY
+http://178.124.152.238:8088/cinema
+#EXTINF:-1 group-title="Белтелеком_2",Детский мир
+http://178.124.152.238:8088/detmir
+#EXTINF:-1 group-title="Белтелеком_2",Домашний INTERNATIONAL
+http://178.124.152.238:8088/dom
+#EXTINF:-1 group-title="Белтелеком_2",Кухня ТВ
+http://178.124.152.238:8088/kuhnya
+#EXTINF:-1 group-title="Белтелеком_2",Радость моя
+http://178.124.152.238:8088/mama
+#EXTINF:-1 group-title="Белтелеком_2",Ностальгия
+http://178.124.152.238:8088/nostalgia
+#EXTINF:-1 group-title="Белтелеком_2",Перец
+http://178.124.152.238:8088/perec
+#EXTINF:-1 group-title="Белтелеком_2",.Red
+http://178.124.152.238:8088/sony
+#EXTINF:-1 group-title="Белтелеком_2",Совершенно Секретно
+http://178.124.152.238:8088/sovsec
+#EXTINF:-1 group-title="Белтелеком_2",Шансон ТВ
+http://178.124.152.238:8088/shanson
+#EXTINF:-1 group-title="Белтелеком_2",КХЛ
+http://178.124.152.238:8088/khl
+
+
+
+
+
 #EXTINF:-1 group-title="Телеком-сервис",Первый канал
 http://185.23.80.28:8080/Pervyj/index.m3u8?token=test
 #EXTINF:-1 group-title="Телеком-сервис",ТНТ
