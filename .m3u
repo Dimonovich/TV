@@ -59,11 +59,6 @@ http://31.184.197.124/museum_hd/mono.m3u8
 #EXTINF:-1,Home 4K
 http://31.184.197.124/home_hd/mono.m3u8
 
-#EXTINF:-1,Наша Сибирь
-http://cdntv.online/middle/92/230.m3u8
-#EXTINF:-1,HDL
-http://cdntv.online/high/92/305.m3u8
-
 #EXTINF:-1 ,Живая природа
 http://185.23.80.28:8080/ZhivayaPriroda_HD/index.m3u8
 
@@ -84,9 +79,6 @@ https://english-livetx.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXM
 http://91.205.199.3/dikayaribalkahd/index.m3u8
 #EXTINF:-1 ,Дикая охота HD
 http://91.205.199.3/dikayaoxotahd/index.m3u8
-
-#EXTINF:-1 ,Дикий
-http://cdntv.online/middle/92/516.m3u8
 
 #EXTINF:-1 ,Телепутешествия
 http://91.207.115.228:12000/play/a02h
@@ -136,11 +128,6 @@ http://91.205.199.3/vipserialhd/index.m3u8
 http://91.207.114.220:9001/play/a03u/index.m3u8
 #EXTINF:-1,Amedia Hit HD
 http://91.207.115.228:12000/play/a01k
-
-#EXTINF:-1,A1
-http://cdntv.online/middle/92/109.m3u8
-#EXTINF:-1,A2
-http://cdntv.online/middle/92/498.m3u8
 
 #EXTINF:-1,Bollywood HD
 http://91.224.169.250:5000/c155
@@ -241,16 +228,6 @@ https://mhd116.iptv2022.com/p/FsrhA7d2EEfxZcYwyvsn4g,1729069207/streaming/ginger
 
 
 
-#EXTINF:-1 ,Filmbox
-http://cdntv.online/middle/92/90.m3u8
-#EXTINF:-1 ,Filmbox Arthouse
-http://cdntv.online/middle/92/91.m3u8
-#EXTINF:-1 ,Fox
-http://cdntv.online/middle/92/92.m3u8
-#EXTINF:-1 ,Дом кино Премиум HD
-http://cdntv.online/middle/92/112.m3u8
-
-
 
 #EXTINF:-1 ,Комедия
 http://91.142.158.107:8092/play/30/index.m3u8
@@ -297,11 +274,6 @@ http://s18209.cdn.ngenix.net/hls/CH_R01_KARUSEL/playlist.m3u8
 
 #EXTINF:-1,СТС Kids
 http://78.62.135.122:8082/STSKidsHD/index.m3u8
-
-#EXTINF:-1,Рыжий
-http://cdntv.online/middle/92/161.m3u8
-#EXTINF:-1,Мультиландия
-http://cdntv.online/middle/92/157.m3u8
 
 #EXTINF:-1 ,Мультимузыка
 http://91.142.158.107:8092/play/24/index.m3u8
