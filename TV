@@ -465,7 +465,7 @@ http://95.142.88.250:80/muzhskoe_kino_hd/index.m3u8
 http://95.142.88.250:80/KinoJam_1/index.m3u8
 #EXTINF:-1 group-title="Телекомм Технолоджи",Комедия
 http://95.142.88.250:80/komediya/index.m3u8
-#EXTINF:-1 group-title="Телекомм Технолоджи",Наше любимое кино
+#EXTINF:-1 group-title="Телекомм Технолоджи",Любимое кино
 http://95.142.88.250:80/lubimoe_kino/index.m3u8
 #EXTINF:-1 group-title="Телекомм Технолоджи",Киносвидание
 http://95.142.88.250:80/Kinosvidanie/index.m3u8
@@ -475,14 +475,14 @@ http://95.142.88.250:80/Kinoserija/index.m3u8
 http://95.142.88.250:80/nashe_novoe_kino/index.m3u8
 #EXTINF:-1 group-title="Телекомм Технолоджи",Киномикс HD
 http://95.142.88.250:80/kinomix_hd/index.m3u8
+#EXTINF:-1 group-title="Телекомм Технолоджи",Индийское кино
+http://95.142.88.250:80/Indijskoe_Kino/index.m3u8
 #EXTINF:-1 group-title="Телекомм Технолоджи",Кинохит HD
 http://95.142.88.250:80/kinohit_hd/index.m3u8
 #EXTINF:-1 group-title="Телекомм Технолоджи",Киносат
 http://95.142.88.250:80/Kinoman/index.m3u8
 #EXTINF:-1 group-title="Телекомм Технолоджи",Кинеко
 http://95.142.88.250:80/Kineko/index.m3u8
-#EXTINF:-1 group-title="Телекомм Технолоджи",Индийское кино
-http://95.142.88.250:80/Indijskoe_Kino/index.m3u8
 #EXTINF:-1 group-title="Телекомм Технолоджи",Hollywood
 http://95.142.88.250:80/Hollywood/index.m3u8
 #EXTINF:-1 group-title="Телекомм Технолоджи",Shot TV
