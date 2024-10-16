@@ -531,13 +531,32 @@ http://95.142.88.250:80/KHL_TV/index.m3u8
 
 
 
-
+#EXTINF:-1 group-title="АйПи ТелКом",ТНТ HD
+http://80.94.225.126:8080/TNT_HD/mono.m3u8?token=test
+#EXTINF:-1 group-title="АйПи ТелКом",ТНТ4
+http://80.94.225.126:8080/TNT4/mono.m3u8?token=test
 #EXTINF:-1 group-title="АйПи ТелКом",8 Канал HD
 http://80.94.225.126:8080/8kanalHD/mono.m3u8?token=test
 #EXTINF:-1 group-title="АйПи ТелКом",ОНТ
 http://80.94.225.126:8080/ONT/mono.m3u8?token=test
 #EXTINF:-1 group-title="АйПи ТелКом",ТНТ4
 http://80.94.225.126:8080/TNT4/mono.m3u8?token=test
+#EXTINF:-1 group-title="АйПи ТелКом",RTG HD
+http://80.94.225.126:8080/RTGHD/mono.m3u8?token=test
+#EXTINF:-1 group-title="АйПи ТелКом",Техно 24
+http://80.94.225.126:8080/Tehno24/mono.m3u8?token=test
+#EXTINF:-1 group-title="АйПи ТелКом",Travel Channel HD
+http://80.94.225.126:8080/TravelChannelHD/mono.m3u8?token=test
+#EXTINF:-1 group-title="АйПи ТелКом",Viasat Explore
+http://80.94.225.126:8080/ViasatExplore/mono.m3u8?token=test
+#EXTINF:-1 group-title="АйПи ТелКом",Viasat History
+http://80.94.225.126:8080/ViasatHistory/mono.m3u8?token=test
+#EXTINF:-1 group-title="АйПи ТелКом",Viasat Nature
+http://80.94.225.126:8080/ViasatNature/mono.m3u8?token=test
+#EXTINF:-1 group-title="АйПи ТелКом",Загородная жизнь
+http://80.94.225.126:8080/ZagorodnayaZhizn/mono.m3u8?token=test
+#EXTINF:-1 group-title="АйПи ТелКом",Зоопарк
+http://80.94.225.126:8080/ZooPark/mono.m3u8?token=test
 #EXTINF:-1 group-title="АйПи ТелКом",Охота и Рыбалка
 http://80.94.225.126:8080/OhotaiRibalka/mono.m3u8?token=test
 #EXTINF:-1 group-title="АйПи ТелКом",Первый Космический
@@ -604,7 +623,7 @@ http://80.94.225.126:8080/Kinosemja/mono.m3u8?token=test
 http://80.94.225.126:8080/Kinomiks/mono.m3u8?token=test
 #EXTINF:-1 group-title="АйПи ТелКом",Кинопремьера
 http://80.94.225.126:8080/Kinopremyera/mono.m3u8?token=test
-#EXTINF:-1 group-title="АйПи ТелКом",Kиносвидание
+#EXTINF:-1 group-title="АйПи ТелКом",Киносвидание
 http://80.94.225.126:8080/Kinosvidanie/mono.m3u8?token=test
 #EXTINF:-1 group-title="АйПи ТелКом",Кинокомедия
 http://80.94.225.126:8080/Kinokomedija/mono.m3u8?token=test
@@ -620,7 +639,7 @@ http://80.94.225.126:8080/Kinoserija/mono.m3u8?token=test
 http://80.94.225.126:8080/KVNTV/mono.m3u8?token=test
 #EXTINF:-1 group-title="АйПи ТелКом",ТВЦ
 http://80.94.225.126:8080/TVCentr/mono.m3u8?token=test
-#EXTINF:-1 group-title="АйПи ТелКом",Mультиландия
+#EXTINF:-1 group-title="АйПи ТелКом",Мультиландия
 http://80.94.225.126:8080/Multilandia/mono.m3u8?token=test
 #EXTINF:-1 group-title="АйПи ТелКом",Bolt
 http://80.94.225.126:8080/BOLT/mono.m3u8?token=test
@@ -632,6 +651,8 @@ http://80.94.225.126:8080/Karusel/mono.m3u8?token=test
 http://80.94.225.126:8080/Mama/mono.m3u8?token=test
 #EXTINF:-1 group-title="АйПи ТелКом",МУЛЬТ
 http://80.94.225.126:8080/Mult/mono.m3u8?token=test
+#EXTINF:-1 group-title="АйПи ТелКом",О!
+http://80.94.225.126:8080/O!/mono.m3u8?token=test
 #EXTINF:-1 group-title="АйПи ТелКом",Уникум
 http://80.94.225.126:8080/Detskiy/mono.m3u8?token=test
 #EXTINF:-1 group-title="АйПи ТелКом",Ru.TV
@@ -654,6 +675,8 @@ http://80.94.225.126:8080/Match!Igra/mono.m3u8?token=test
 http://80.94.225.126:8080/M1GlobalHD/mono.m3u8?token=test
 #EXTINF:-1 group-title="АйПи ТелКом",Бокс ТВ
 http://80.94.225.126:8080/BoksTV/mono.m3u8?token=test
+#EXTINF:-1 group-title="АйПи ТелКом",Viasat Sport
+http://80.94.225.126:8080/ViasatSport/mono.m3u8?token=test
 
 
 
