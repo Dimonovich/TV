@@ -65,7 +65,7 @@ http://185.23.80.28:8080/ZhivayaPriroda_HD/index.m3u8
 #EXTINF:-1 ,Приключения HD
 http://91.194.191.241:8081/chid142/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,History HD
-http://80.94.225.126:8080/HistoryHD/mono.m3u8?token=test
+http://65.21.85.175:8000/play/a01s/index.m3u8?token=livetv
 
 #EXTINF:-1 ,Т24
 http://91.224.169.250:5000/c15
@@ -96,7 +96,7 @@ http://91.207.115.228:12000/play/a03z
 #EXTINF:-1 ,Discovery Channel
 http://91.207.115.228:12000/play/a03y
 #EXTINF:-1 ,Nat geo wild HD
-http://135.181.115.81:8000/play/a00c/index.m3u8?token=livetv
+http://193.242.204.28:10149/149
 #EXTINF:-1 ,National geographic
 http://193.242.204.28:10153/153
 
