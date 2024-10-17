@@ -64,8 +64,6 @@ http://185.23.80.28:8080/ZhivayaPriroda_HD/index.m3u8
 
 #EXTINF:-1 ,Приключения HD
 http://91.194.191.241:8081/chid142/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,History HD
-http://65.21.85.175:8000/play/a01s/index.m3u8?token=livetv
 
 #EXTINF:-1 ,Т24
 http://91.224.169.250:5000/c15
