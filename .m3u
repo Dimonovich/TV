@@ -63,11 +63,9 @@ http://31.184.197.124/home_hd/mono.m3u8
 http://185.23.80.28:8080/ZhivayaPriroda_HD/index.m3u8
 
 #EXTINF:-1 ,Приключения HD
-https://ucdn.beetv.kz/btv/live/hls/000000277.m3u8
-#EXTINF:-1 ,H 2
-https://ucdn.beetv.kz/btv/live/hls/000002722.m3u8
+http://91.194.191.241:8081/chid142/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,History HD
-https://ucdn.beetv.kz/btv/live/hls/000001000.m3u8
+http://80.94.225.126:8080/HistoryHD/mono.m3u8?token=test
 
 #EXTINF:-1 ,Т24
 http://91.224.169.250:5000/c15
@@ -98,16 +96,16 @@ http://91.207.115.228:12000/play/a03z
 #EXTINF:-1 ,Discovery Channel
 http://91.207.115.228:12000/play/a03y
 #EXTINF:-1 ,Nat geo wild HD
-https://ucdn.beetv.kz/btv/live/hls/000004474.m3u8
+http://135.181.115.81:8000/play/a00c/index.m3u8?token=livetv
 #EXTINF:-1 ,National geographic
 http://193.242.204.28:10153/153
 
 #EXTINF:-1 ,viju Explore
-https://ucdn.beetv.kz/btv/live/hls/000004157.m3u8
+http://91.207.115.228:12000/play/a02j
 #EXTINF:-1 ,viju History
-https://ucdn.beetv.kz/btv/live/hls/000005528.m3u8
+http://91.207.115.228:12000/play/a02k
 #EXTINF:-1 ,Viasat Nature HD
-https://ucdn.beetv.kz/btv/live/hls/000006482.m3u8
+http://91.207.115.228:12000/play/a02l
 
 #EXTINF:-1 ,TV 1000
 http://91.207.115.228:12000/play/a01b
@@ -345,9 +343,6 @@ https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 #EXTINF:-1 ,Шансон ТВ
 https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
 
-#EXTINF:-1 ,MTV 00s
-https://ucdn.beetv.kz/btv/live/hls/000000264.m3u8
-
 #EXTINF:-1 ,R-music
 https://otv.wotom.net/rmusic/stream.m3u8
 
@@ -368,9 +363,6 @@ https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8
 http://95.216.40.210:80/setanta1/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,Setanta Sports 2 HD
 http://95.216.40.210:80/setanta2/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 ,Setanta Qazaqstan
-https://ucdn.beetv.kz/btv/live/hls/000004619.m3u8
 
 #EXTINF:-1 ,Trace Sport Stars
 http://95.67.12.82:9067
