@@ -5251,6 +5251,14 @@ http://91.207.114.220:9001/play/a0d3/index.m3u8
 http://91.207.114.220:9001/play/a04t/index.m3u8
 #EXTINF:-1 group-title="ДВ-Ком (VPN)", Кто есть кто
 http://91.207.114.220:9001/play/a02u/index.m3u8
+#EXTINF:-1 group-title="ДВ-Ком (VPN)",FlixSnip
+http://91.207.114.220:9001/play/a02m/index.m3u8
+#EXTINF:-1 group-title="ДВ-Ком (VPN)",KinoLiving
+http://91.207.114.220:9001/play/a02f/index.m3u8
+#EXTINF:-1 group-title="ДВ-Ком (VPN)",КВН ТВ
+http://91.207.114.220:9001/play/a03x/index.m3u8
+#EXTINF:-1 group-title="ДВ-Ком (VPN)",ИНДИЙСКОЕ КИНО
+http://91.207.114.220:9001/play/a03d/index.m3u8
 #EXTINF:-1 group-title="ДВ-Ком (VPN)", Кухня ТВ
 http://91.207.114.220:9001/play/a04s/index.m3u8
 #EXTINF:-1 group-title="ДВ-Ком (VPN)", Ностальгия
