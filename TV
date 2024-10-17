@@ -11008,42 +11008,7 @@ https://hls.goodgame.ru/hls/40782.m3u8
 
 
 
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Бокс ТВ
-http://103.97.89.234/bokstv/index.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Eurosport 1 HD
-http://103.97.89.234/eurosport1/index.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Eurosport 2 HD
-http://103.97.89.234/eurosport2/index.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Футбол 1 HD
-http://103.97.89.234/football1/index.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Футбол 2 HD
-http://103.97.89.234/football2/index.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Футбол 3 HD
-http://103.97.89.234/football3/index.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Беларусь 5
-http://103.97.89.234/belarus5/index.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",KHL Prime
-http://103.97.89.234/khlhd/index.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",МАТЧ ТВ HD
-http://103.97.89.234/match/index.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Арена HD
-http://103.97.89.234/matcharena/index.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Игра HD
-http://103.97.89.234/matchigra/index.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Планета
-http://103.97.89.234/matchplaneta/index.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч Премьер
-http://103.97.89.234/nashfootball/index.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Setanta Sports 1 HD
-http://103.97.89.234/setanta1/index.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Setanta Sports 2 HD
-http://103.97.89.234/setanta2/index.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Setanta Ukraine HD
-http://103.97.89.234/setantaua/index.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Setanta Ukraine Plus HD
-http://103.97.89.234/setantaplus/index.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Viasat sport HD
-http://103.97.89.234/viasatsport/index.m3u8
+
 #EXTINF:-1 group-title="Спорткомплекс 🏆" ,Матч! HD
 https://livetv.mylifeisgood.net.ru/channels/matchhd_nocensored.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆" catchup="append" catchup-days="7" catchup-source="?start=${start}&end=${end}" ,Удар
