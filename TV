@@ -422,7 +422,7 @@ http://5.9.11.197:57419/chu-87/mpegts
 http://5.9.11.197:57419/chu-88/mpegts
 #EXTINF:-1 group-title="Hetzner Online AG",Cinema
 http://5.9.11.197:57419/chu-89/mpegts
-#EXTINF:-1 group-title="Hetzner Online AG",Cinema UHD
+#EXTINF:-1 group-title="Hetzner Online AG",Ultra HD Cinema 4K
 http://5.9.11.197:57419/chu-387/mpegts
 #EXTINF:-1 group-title="Hetzner Online AG",Fan HD
 http://5.9.11.197:57419/chu-404/mpegts
@@ -464,14 +464,14 @@ http://5.9.11.197:57419/chu-112/mpegts
 http://5.9.11.197:57419/chu-113/mpegts
 #EXTINF:-1 group-title="Hetzner Online AG",Иллюзион+
 http://5.9.11.197:57419/chu-114/mpegts
-#EXTINF:-1 group-title="Hetzner Online AG",Индийское кино
-http://5.9.11.197:57419/chu-115/mpegts
 #EXTINF:-1 group-title="Hetzner Online AG",Индия
 http://5.9.11.197:57419/chu-108/mpegts
 #EXTINF:-1 group-title="Hetzner Online AG",Калейдоскоп ТВ
 http://5.9.11.197:57419/chu-116/mpegts
 #EXTINF:-1 group-title="Hetzner Online AG",Кино ТВ
 http://5.9.11.197:57419/chu-117/mpegts
+#EXTINF:-1 group-title="Hetzner Online AG",Индийское кино
+http://5.9.11.197:57419/chu-115/mpegts
 #EXTINF:-1 group-title="Hetzner Online AG",Кинокомедия
 http://5.9.11.197:57419/chu-119/mpegts
 #EXTINF:-1 group-title="Hetzner Online AG",Киномикс HD
@@ -484,12 +484,12 @@ http://5.9.11.197:57419/chu-122/mpegts
 http://5.9.11.197:57419/chu-123/mpegts
 #EXTINF:-1 group-title="Hetzner Online AG",Кинохит
 http://5.9.11.197:57419/chu-118/mpegts
-#EXTINF:-1 group-title="Hetzner Online AG",Мир сериала
-http://5.9.11.197:57419/chu-127/mpegts
 #EXTINF:-1 group-title="Hetzner Online AG",Мужское кино
 http://5.9.11.197:57419/chu-128/mpegts
 #EXTINF:-1 group-title="Hetzner Online AG",Наше новое кино
 http://5.9.11.197:57419/chu-132/mpegts
+#EXTINF:-1 group-title="Hetzner Online AG",Мир сериала
+http://5.9.11.197:57419/chu-127/mpegts
 #EXTINF:-1 group-title="Hetzner Online AG",НСТ
 http://5.9.11.197:57419/chu-131/mpegts
 #EXTINF:-1 group-title="Hetzner Online AG",Победа
