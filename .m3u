@@ -322,6 +322,10 @@ http://194.26.229.213/chdtv_ru_rock/index.m3u8
 #EXTINF:-1 ,CHD-TV Rock
 http://194.26.229.213/chdtv_rock/index.m3u8
 
+
+#EXTINF:-1 ,MTV 80s
+http://50.7.92.98:8887/8137/index.m3u8
+
 #EXTINF:-1 ,BRIDGE TV
 http://91.224.169.250:5000/c53
 #EXTINF:-1 ,BRIDGE TV HITS
