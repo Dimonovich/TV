@@ -29,6 +29,8 @@ https://cdn.ntv.ru/th_pravo/tracks-v1a1/playlist.m3u8
 https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 ,НТВ Стиль
 https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 ,НТВ-Мир
+http://50.7.92.98:8887/8011/index.m3u8
 
 #EXTINF:-1 ,ТНТ HD
 http://s18209.cdn.ngenix.net/hls/CH_R01_TNT/playlist.m3u8
@@ -41,6 +43,9 @@ http://s18209.cdn.ngenix.net/hls/CH_R02_RENTV/playlist.m3u8
 
 #EXTINF:-1 ,TERRA
 http://185.50.148.2:7707/NationalGeographic/index.m3u8
+
+#EXTINF:-1 ,Ocean-TV
+http://50.7.92.98:8887/8069/index.m3u8
 
 #EXTINF:-1 ,RTG HD
 http://194.143.148.28:8080/RTG_HD/mpegts
@@ -124,6 +129,11 @@ http://91.205.199.3/vipserialhd/index.m3u8
 http://91.207.114.220:9001/play/a03u/index.m3u8
 #EXTINF:-1,Amedia Hit HD
 http://91.207.115.228:12000/play/a01k
+
+#EXTINF:-1,A1
+http://50.7.92.98:8887/8035/index.m3u8
+#EXTINF:-1,Премиальное
+http://50.7.92.98:8887/8028/index.m3u8
 
 #EXTINF:-1,Bollywood HD
 http://91.224.169.250:5000/c155
@@ -325,6 +335,8 @@ http://194.26.229.213/chdtv_rock/index.m3u8
 
 #EXTINF:-1 ,MTV 80s
 http://50.7.92.98:8887/8137/index.m3u8
+#EXTINF:-1 ,MTV 00s
+http://50.7.92.98:8887/8032/index.m3u8
 
 #EXTINF:-1 ,BRIDGE TV
 http://91.224.169.250:5000/c53
