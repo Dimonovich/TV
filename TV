@@ -6581,6 +6581,8 @@ http://94.230.128.105:8080/extreme_sport/index.m3u8
 
 #EXTINF:-1 group-title="Теледайн системс лимитед (VPN)",Первый канал
 http://91.142.158.107:8092/play/1/index.m3u8
+#EXTINF:-1 group-title="Теледайн системс лимитед (VPN)",Россия 1
+http://91.142.158.107:8092/play/32/index.m3u8
 #EXTINF:-1 group-title="Теледайн системс лимитед (VPN)",ТНТ
 http://91.142.158.107:8092/play/19/index.m3u8
 #EXTINF:-1 group-title="Теледайн системс лимитед (VPN)",НТВ
@@ -6599,6 +6601,8 @@ http://91.142.158.107:8092/play/5/index.m3u8
 http://91.142.158.107:8092/play/21/index.m3u8
 #EXTINF:-1 group-title="Теледайн системс лимитед (VPN)",Домашний
 http://91.142.158.107:8092/play/14/index.m3u8
+#EXTINF:-1 group-title="Теледайн системс лимитед (VPN)",ОТВ Благовещенск
+http://91.142.158.107:8092/play/21/index.m3u8
 #EXTINF:-1 group-title="Теледайн системс лимитед (VPN)",Город 24
 http://91.142.158.107:8092/play/22/index.m3u8
 #EXTINF:-1 group-title="Теледайн системс лимитед (VPN)",Кино ТВ
