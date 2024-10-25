@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.one/epg2.xml.gz,https://iptvx.one/EPG"
+-#EXTM3U url-tvg="http://epg.one/epg2.xml.gz,https://iptvx.one/EPG"
 
 
 #EXTINF:-1 group-title="🔺 INFO 🔺" tvg-logo="https://i.postimg.cc/1t5RRm05/Pixaloop-09-11-2021-21-03-10-1660000.gif",Обновление:24.10.2024
@@ -453,7 +453,7 @@ http://hls127.homeiptv.org:8880/Zee_Russia/video.m3u8
 http://hls127.homeiptv.org:8880/Bolt/video.m3u8
 #EXTINF:-1 group-title="Cloud Flare_2",.Red
 http://hls127.homeiptv.org:8880/Red/video.m3u8
-#EXTINF:-1 group-title="Cloud Flare_2",Mосфильм. Золотая коллекция
+#EXTINF:-1 group-title="Cloud Flare_2",Мосфильм. Золотая коллекция
 http://hls127.homeiptv.org:8880/Mosfilm/video.m3u8
 #EXTINF:-1 group-title="Cloud Flare_2",Gags network
 http://hls127.homeiptv.org:8880/Gagsnetwork/video.m3u8
@@ -469,11 +469,11 @@ http://hls127.homeiptv.org:8880/Kuhnya_TV/video.m3u8
 http://hls127.homeiptv.org:8880/Enisey/video.m3u8
 #EXTINF:-1 group-title="Cloud Flare_2",Мир Белогорья
 http://hls127.homeiptv.org:8880/Mir_Belogorya/video.m3u8
-#EXTINF:-1 group-title="Cloud Flare_2",Kлюч
+#EXTINF:-1 group-title="Cloud Flare_2",Ключ
 http://hls127.homeiptv.org:8880/Kluch/video.m3u8
 #EXTINF:-1 group-title="Cloud Flare_2",Дон 24
 http://hls127.homeiptv.org:8880/Don_24/video.m3u8
-#EXTINF:-1 group-title="Cloud Flare_2",Teатр
+#EXTINF:-1 group-title="Cloud Flare_2",Театр
 http://hls127.homeiptv.org:8880/Teatr/video.m3u8
 #EXTINF:-1 group-title="Cloud Flare_2",РБК
 http://hls127.homeiptv.org:8880/RBK/video.m3u8
