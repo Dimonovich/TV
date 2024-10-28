@@ -1532,6 +1532,8 @@ http://185.23.80.28:8080/MaturTV/index.m3u8?token=test
 http://185.23.80.28:8080/MirBelogorya/index.m3u8?token=test
 #EXTINF:-1 group-title="Телеком-сервис",Теледом HD
 http://185.23.80.28:8080/TeledomHD/index.m3u8?token=test
+#EXTINF:-1 group-title="Телеком-сервис",SAN PORTO
+http://185.23.80.28:8080/SAN_PORTO/index.m3u8?token=test
 #EXTINF:-1 group-title="Телеком-сервис",7 ТВ
 http://185.23.80.28:8080/7tv/index.m3u8?token=test
 #EXTINF:-1 group-title="Телеком-сервис",МИР 24
@@ -1594,8 +1596,6 @@ http://185.23.80.28:8080/BRIDGETVDANCE/index.m3u8?token=test
 http://185.23.80.28:8080/BRIDGETVRusskijXit/index.m3u8?token=test
 #EXTINF:-1 group-title="Телеком-сервис",BRIDGE TV ШЛЯГЕР
 http://185.23.80.28:8080/BridgeTVShlyager/index.m3u8?token=test
-#EXTINF:-1 group-title="Спорткомплекс 🏆",SAN PORTO
-http://185.23.80.28:8080/SAN_PORTO/index.m3u8?token=test
 #EXTINF:-1 group-title="Спорткомплекс 🏆",МАТЧ ТВ HD
 http://185.23.80.28:8080/MATCH!_HD/index.m3u8?token=test
 #EXTINF:-1 group-title="Спорткомплекс 🏆",КХЛ ТВ
@@ -4400,6 +4400,8 @@ http://91.194.191.241:8081/chid26/tracks-v1a1/mono.m3u8
 http://91.194.191.241:8081/chid185/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)" ,5 Канал
 http://91.194.191.241:8081/chid13/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)" ,SAN PORTO
+http://91.194.191.241:8081/chid38/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)" ,365 Дней
 http://91.194.191.241:8081/chid425/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)" ,360
@@ -4498,8 +4500,6 @@ http://91.194.191.241:8081/chid18/tracks-v1a1/mono.m3u8
 http://91.194.191.241:8081/chid172/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Viasat Sport
 http://91.194.191.241:8081/chid51/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆" ,SAN PORTO
-http://91.194.191.241:8081/chid38/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",KHL
 http://91.194.191.241:8081/chid55/tracks-v1a1/mono.m3u8
 
