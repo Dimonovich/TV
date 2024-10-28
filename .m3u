@@ -11,9 +11,9 @@ http://91.142.158.107:8092/play/1/index.m3u8
 #EXTINF:-1 ,Россия 1 HD
 http://50.7.92.98:8887/8152/index.m3u8
 #EXTINF:-1 ,РОССИЯ К
-http://s18209.cdn.ngenix.net/hls/CH_R02_ROSSIAK/playlist.m3u8
+http://91.205.199.3/kultura/index.m3u8
 #EXTINF:-1 ,Россия 24
-http://s18209.cdn.ngenix.net/hls/CH_R01_ROSSIA24/playlist.m3u8
+http://91.207.114.220:9001/play/a054/index.m3u8
 
 #EXTINF:-1 ,Неизвестная Россия
 https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
@@ -32,13 +32,13 @@ https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
 http://50.7.92.98:8887/8011/index.m3u8
 
 #EXTINF:-1 ,ТНТ HD
-http://s18209.cdn.ngenix.net/hls/CH_R01_TNT/playlist.m3u8
+http://91.205.199.3/tnthd/index.m3u8
 
 #EXTINF:-1 ,ТНТ4
 http://tv.mediacdn.ru/live/tnt4/playlist.m3u8
 
 #EXTINF:-1 ,РЕН-ТВ
-http://s18209.cdn.ngenix.net/hls/CH_R02_RENTV/playlist.m3u8
+http://91.207.114.220:9001/play/a058/index.m3u8
 
 #EXTINF:-1 ,TERRA
 http://185.50.148.2:7707/NationalGeographic/index.m3u8
