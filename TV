@@ -4108,6 +4108,10 @@ http://91.194.191.241:8081/chid17/tracks-v1a1/mono.m3u8
 http://91.194.191.241:8081/chid36/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)" ,ТНВ-Планета
 http://91.194.191.241:8081/chid140/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)" ,VIASAT History
+http://91.194.191.241:8081/chid105/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)" ,VIASAT Explore
+http://91.194.191.241:8081/chid106/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)" ,Техно 24
 http://91.194.191.241:8081/chid151/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)" ,Приключения HD
@@ -4494,10 +4498,6 @@ http://91.194.191.241:8081/chid18/tracks-v1a1/mono.m3u8
 http://91.194.191.241:8081/chid172/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Viasat Sport
 http://91.194.191.241:8081/chid51/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",VIASAT History
-http://91.194.191.241:8081/chid105/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",VIASAT Explore
-http://91.194.191.241:8081/chid106/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆" ,SAN PORTO
 http://91.194.191.241:8081/chid38/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",KHL
