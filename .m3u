@@ -267,7 +267,7 @@ https://live.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
 https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/playlist.m3u8
 
 #EXTINF:-1 ,ОТР
-http://s18209.cdn.ngenix.net/hls/CH_R01_OTR/playlist.m3u8
+http://91.194.191.241:8081/chid163/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Пятый канал
 http://s18209.cdn.ngenix.net/hls/CH_R02_5TV/playlist.m3u8
 #EXTINF:-1 ,Домашний
@@ -275,7 +275,7 @@ http://s18209.cdn.ngenix.net/hls/CH_R04_DOMASHNY/playlist.m3u8
 #EXTINF:-1 ,ТВ3
 http://s18209.cdn.ngenix.net/hls/CH_R01_TV3/playlist.m3u8
 #EXTINF:-1 ,Пятница!
-http://s18209.cdn.ngenix.net/hls/CH_R01_FRIDAY/playlist.m3u8
+http://91.194.191.241:8081/chid14/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Че
 http://s18209.cdn.ngenix.net/hls/CH_R02_PERETZ/playlist.m3u8
 #EXTINF:-1 ,Карусель
@@ -311,7 +311,7 @@ http://serv30.vintera.tv:8081/sochi/sochi_stream/chunks.m3u8
 http://91.205.199.3/kvntv/index.m3u8
 
 #EXTINF:-1 ,СТС
-http://s18209.cdn.ngenix.net/hls/CH_R02_STS/playlist.m3u8
+http://91.194.191.241:8081/chid11/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Ю
 http://s18209.cdn.ngenix.net/hls/CH_R03_U/playlist.m3u8
 
