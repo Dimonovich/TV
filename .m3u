@@ -269,17 +269,17 @@ https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/playlist.m3u8
 #EXTINF:-1 ,ОТР
 http://91.194.191.241:8081/chid163/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Пятый канал
-http://s18209.cdn.ngenix.net/hls/CH_R02_5TV/playlist.m3u8
+http://91.207.114.220:9001/play/a052/index.m3u8
 #EXTINF:-1 ,Домашний
-http://s18209.cdn.ngenix.net/hls/CH_R04_DOMASHNY/playlist.m3u8
+http://91.207.114.220:9001/play/a05b/index.m3u8
 #EXTINF:-1 ,ТВ3
-http://s18209.cdn.ngenix.net/hls/CH_R01_TV3/playlist.m3u8
+http://91.207.114.220:9001/play/a05c/index.m3u8
 #EXTINF:-1 ,Пятница!
 http://91.194.191.241:8081/chid14/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Че
-http://s18209.cdn.ngenix.net/hls/CH_R02_PERETZ/playlist.m3u8
+http://91.224.169.250:5000/c73
 #EXTINF:-1 ,Карусель
-http://s18209.cdn.ngenix.net/hls/CH_R01_KARUSEL/playlist.m3u8
+http://91.224.169.250:5000/c308
 
 #EXTINF:-1,СТС Kids
 http://91.224.169.250:5000/c157
@@ -313,7 +313,7 @@ http://91.205.199.3/kvntv/index.m3u8
 #EXTINF:-1 ,СТС
 http://91.194.191.241:8081/chid11/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Ю
-http://s18209.cdn.ngenix.net/hls/CH_R03_U/playlist.m3u8
+http://edge02.odtv.az/o3/utv/playlist.m3u8
 
 #EXTINF:-1 ,МИР PREMIUM
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
