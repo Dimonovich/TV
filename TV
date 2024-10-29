@@ -2379,14 +2379,6 @@ http://91.205.199.3:80/roos-kinomix/manifest.m3u8
 http://91.205.199.3:80/roos-kinoseria/manifest.m3u8
 #EXTINF:-1 group-title="Меганет",Наше новое кино
 http://91.205.199.3/nashenovoekino/index.m3u8
-#EXTINF:-1 group-title="Меганет",Кинохит HD
-http://91.205.199.3/kinoxithd/index.m3u8
-#EXTINF:-1 group-title="Меганет",Кинопремьера HD
-http://91.205.199.3/kinopremerahd/index.m3u8
-#EXTINF:-1 group-title="Меганет",Киносемья HD
-http://91.205.199.3/kinosemyahd/index.m3u8
-#EXTINF:-1 group-title="Меганет",Киносвидание
-http://91.205.199.3/kinosvidanie/index.m3u8
 #EXTINF:-1 group-title="Меганет",Родное кино
 http://91.205.199.3/rodnoekino/index.m3u8
 #EXTINF:-1 group-title="Меганет",Ностальгия
@@ -2415,10 +2407,6 @@ http://91.205.199.3/tv1000/index.m3u8
 http://91.205.199.3/tv1000action/index.m3u8
 #EXTINF:-1 group-title="Меганет",TV1000 русское кино
 http://91.205.199.3/tv1000ruskoekino/index.m3u8
-#EXTINF:-1 group-title="Меганет",VIP Megahit HD
-http://91.205.199.3/vipmegahit/index.m3u8
-#EXTINF:-1 group-title="Меганет",VIP Serial HD
-http://91.205.199.3/vipserialhd/index.m3u8
 #EXTINF:-1 group-title="Меганет",Ювелирочка
 http://91.205.199.3/uvelirochka/index.m3u8
 #EXTINF:-1 group-title="Меганет",Зоопарк
@@ -2439,8 +2427,6 @@ http://91.205.199.3/stskids/index.m3u8
 http://91.205.199.3/planb/index.m3u8
 #EXTINF:-1 group-title="Меганет",Детский мир
 http://91.205.199.3/detskimir/index.m3u8
-#EXTINF:-1 group-title="Меганет",Солнце
-http://91.205.199.3/disney/index.m3u8
 #EXTINF:-1 group-title="Меганет" ,Nickelodeon
 http://91.205.199.3:80/roos-nickelodeon/manifest.m3u8
 #EXTINF:-1 group-title="Меганет",Мульт HD
