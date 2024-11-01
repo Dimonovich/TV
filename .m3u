@@ -6,14 +6,14 @@ https://d2dw21aq0j0l5c.cloudfront.net/playlist_1920x1080.m3u8
 https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 
 #EXTINF:-1 ,ПЕРВЫЙ КАНАЛ
-http://91.142.158.107:8092/play/1/index.m3u8
+http://91.224.169.250:5000/c67
 
 #EXTINF:-1 ,Россия 1 HD
 http://50.7.92.98:8887/8152/index.m3u8
 #EXTINF:-1 ,РОССИЯ К
 http://91.205.199.3/kultura/index.m3u8
 #EXTINF:-1 ,Россия 24
-http://91.142.158.107:8092/play/7/index.m3u8
+http://91.224.169.250:5000/c307
 
 #EXTINF:-1 ,Неизвестная Россия
 https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
@@ -152,15 +152,14 @@ https://fl1001.bozztv.com/ushba62/tracks-v1a1/mono.m3u8
 https://fl1001.bozztv.com/ushba45/index.m3u8
 
 #EXTINF:-1 ,РУССКИЙ РОМАН
-http://91.142.158.107:8092/play/25/index.m3u8
+http://50.7.92.98:8887/8010/index.m3u8
 #EXTINF:-1 ,РУССКИЙ ДЕТЕКТИВ
-http://91.142.158.107:8092/play/27/index.m3u8
+http://50.7.92.98:8887/8161/index.m3u8
 #EXTINF:-1 ,РУССКИЙ БЕСТСЕЛЛЕР
-http://91.142.158.107:8092/play/26/index.m3u8
+http://50.7.92.98:8887/8162/index.m3u8
+
 #EXTINF:-1 ,Кино ТВ HD
-http://91.142.158.107:8092/play/28/index.m3u8
-
-
+http://91.205.199.3/kinotvhd/index.m3u8
 
 
 
@@ -238,18 +237,13 @@ https://mhd116.iptv2022.com/p/7famzxzociaVoBihHsf_8Q,1730538007/streaming/kinoco
 https://mhd116.iptv2022.com/p/N4UrnYthRF_atvAgJyFinA,1730538008/streaming/gingerhd/324/1/tracks-v4a1/mono.m3u8
 
 
-#EXTINF:-1 ,Комедия
-http://91.142.158.107:8092/play/30/index.m3u8
+
 #EXTINF:-1 ,НСТ
-http://91.142.158.107:8092/play/29/index.m3u8
+http://91.224.169.250:5000/c16
 
 #EXTINF:-1 ,Cinema
 http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 ,Fantastica HD
-http://195.9.195.3:8080/hls/187241.m3u8
-#EXTINF:-1 ,Страх
-http://195.9.195.3:8080/hls/202127.m3u8
 #EXTINF:-1 ,Кошмар HD
 http://195.9.195.3:8080/hls/204709.m3u8
 
@@ -271,9 +265,9 @@ http://91.194.191.241:8081/chid163/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Пятый канал
 http://91.224.169.250:5000/c305
 #EXTINF:-1 ,Домашний
-http://91.142.158.107:8092/play/14/index.m3u8
+http://91.224.169.250:5000/c314
 #EXTINF:-1 ,ТВ3
-http://91.142.158.107:8092/play/15/index.m3u8
+http://91.224.169.250:5000/c315
 #EXTINF:-1 ,Пятница!
 http://91.194.191.241:8081/chid14/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Че
@@ -283,9 +277,6 @@ http://91.224.169.250:5000/c308
 
 #EXTINF:-1,СТС Kids
 http://91.224.169.250:5000/c157
-
-#EXTINF:-1 ,Мультимузыка
-http://91.142.158.107:8092/play/24/index.m3u8
 
 #EXTINF:-1 ,Мама
 http://stv.mediacdn.ru/live/cdn/mama/playlist_sdhigh.m3u8
@@ -387,7 +378,7 @@ http://91.224.169.250:5000/c168
 #EXTINF:-1,Setanta Sports 1 HD
 http://50.7.92.98:8887/8565/index.m3u8
 #EXTINF:-1,Setanta Sports 2 HD
-https://livetv.mylifeisgood.net.ru/arhive/srv1oneaudio/SETANTAPLUS_HD/tracks-v1a1/index.m3u8
+http://50.7.92.98:8887/8676/index.m3u8
 
 #EXTINF:-1,Матч ТВ HD
 https://mhd116.iptv2022.com/p/poMUO5Uo3y_yPvxuPsP-2g,1730538012/streaming/matchott/324/1/tracks-v4a1/mono.m3u8
