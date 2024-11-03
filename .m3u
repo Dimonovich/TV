@@ -77,11 +77,6 @@ http://91.224.169.250:5000/c15
 #EXTINF:-1 ,CGTN Русский
 https://english-livetx.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802_hd.m3u8
 
-#EXTINF:-1 ,Дикая рыбалка HD
-http://91.205.199.3/dikayaribalkahd/index.m3u8
-#EXTINF:-1 ,Дикая охота HD
-http://91.205.199.3/dikayaoxotahd/index.m3u8
-
 #EXTINF:-1 ,Телепутешествия
 http://50.7.92.98:8887/8182/index.m3u8
 
@@ -116,7 +111,7 @@ http://50.7.92.98:8887/8087/index.m3u8
 #EXTINF:-1 ,TV 1000
 http://91.194.191.241:8081/chid68/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,viju TV1000 Action
-http://91.205.199.3/tv1000action/index.m3u8
+http://50.7.92.98:8887/8049/index.m3u8
 #EXTINF:-1 ,TV1000 Русское кино
 http://193.242.204.28:10069/69
 #EXTINF:-1 ,viju+ Megahit
@@ -140,9 +135,6 @@ http://50.7.92.98:8887/8028/index.m3u8
 
 #EXTINF:-1,Bollywood HD
 http://91.224.169.250:5000/c155
-
-#EXTINF:-1 ,Gags Network HD
-http://91.205.199.3/gagsnetwork/index.m3u8
 
 #EXTINF:-1 ,Ералаш
 https://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
@@ -310,7 +302,7 @@ http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 http://serv30.vintera.tv:8081/sochi/sochi_stream/chunks.m3u8
 
 #EXTINF:-1 ,КВН ТВ
-http://91.205.199.3/kvntv/index.m3u8
+http://50.7.92.98:8887/8330/index.m3u8
 
 #EXTINF:-1 ,СТС
 http://91.194.191.241:8081/chid11/tracks-v1a1/mono.m3u8
