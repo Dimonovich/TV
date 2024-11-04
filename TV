@@ -1196,6 +1196,8 @@ http://s1.merlive.am:80/tnt4/index.m3u8
 http://s1.merlive.am:80/dikayaoxota/index.m3u8
 #EXTINF:-1 group-title="Армения S1" ,Ocean TV
 http://s1.merlive.am:80/oceantv/index.m3u8
+#EXTINF:-1 group-title="Армения S1" ,История
+http://s1.merlive.am:80/Istoria/index.m3u8
 #EXTINF:-1 group-title="Армения S1" ,Animal Planet
 http://s1.merlive.am:80/animalplanet/index.m3u8
 #EXTINF:-1 group-title="Армения S1" ,Точка отрыва
@@ -1212,6 +1214,8 @@ http://s1.merlive.am:80/NationalGeographic/index.m3u8
 http://s1.merlive.am:80/starsinema/index.m3u8
 #EXTINF:-1 group-title="Армения S1" ,Киносвидание
 http://s1.merlive.am:80/kinosvidanie/index.m3u8
+#EXTINF:-1 group-title="Армения S1" ,Кинокомедия
+http://s1.merlive.am:80/Kinokomedia/index.m3u8
 #EXTINF:-1 group-title="Армения S1" ,Киномикс
 http://s1.merlive.am:80/kinomix/index.m3u8
 #EXTINF:-1 group-title="Армения S1" ,Кино ТВ HD
@@ -1230,6 +1234,8 @@ http://s1.merlive.am:80/Kinokomedia/index.m3u8
 http://s1.merlive.am:80/shantserial/index.m3u8
 #EXTINF:-1 group-title="Армения S1" ,Hollywood
 http://s1.merlive.am:80/hollywood/index.m3u8
+#EXTINF:-1 group-title="Армения S1" ,Amedia Hit
+http://s1.merlive.am:80/Amediahithd/index.m3u8
 #EXTINF:-1 group-title="Армения S1" ,Amedia Premium HD
 http://s1.merlive.am:80/amediapremium/index.m3u8
 #EXTINF:-1 group-title="Армения S1" ,Amedia 1
@@ -1238,14 +1244,22 @@ http://s1.merlive.am:80/Amedia1/index.m3u8
 http://s1.merlive.am:80/Amedia2/index.m3u8
 #EXTINF:-1 group-title="Армения S1" ,Bollywood HD
 http://s1.merlive.am:80/Bollywood/index.m3u8
+#EXTINF:-1 group-title="Армения S1" ,Иллюзион+
+http://s1.merlive.am:80/iluzionplus/index.m3u8
 #EXTINF:-1 group-title="Армения S1" ,Дом Кино
 http://s1.merlive.am:80/Domkino/index.m3u8
+#EXTINF:-1 group-title="Армения S1" ,Hollywood
+http://s1.merlive.am:80/hollywood/index.m3u8
+#EXTINF:-1 group-title="Армения S1" ,Кинеко
+http://s1.merlive.am:80/kineko/index.m3u8
 #EXTINF:-1 group-title="Армения S1" ,Ностальгия
 http://s1.merlive.am:80/Nostalgia/index.m3u8
 #EXTINF:-1 group-title="Армения S1" ,Известия
 http://s1.merlive.am:80/izvestia/index.m3u8
 #EXTINF:-1 group-title="Армения S1" ,Авто плюс
 http://s1.merlive.am:80/Avtoplus/index.m3u8
+#EXTINF:-1 group-title="Армения S1" ,Авто 24
+http://s1.merlive.am:80/Avto24/index.m3u8
 #EXTINF:-1 group-title="Армения S1" ,РБК
 http://s1.merlive.am:80/RBK/index.m3u8
 #EXTINF:-1 group-title="Армения S1" ,8 канал
@@ -1262,6 +1276,8 @@ http://s1.merlive.am:80/Mir24/index.m3u8
 http://s1.merlive.am:80/stslove/index.m3u8
 #EXTINF:-1 group-title="Армения S1" ,СТС
 http://s1.merlive.am:80/sts/index.m3u8
+#EXTINF:-1 group-title="Армения S1" ,Карусель
+http://s1.merlive.am:80/Karusel/index.m3u8
 #EXTINF:-1 group-title="Армения S1" ,Tiji
 http://s1.merlive.am:80/tiji/index.m3u8
 #EXTINF:-1 group-title="Армения S1" ,Ani
