@@ -99,9 +99,8 @@ http://50.7.92.98:8887/8075/index.m3u8
 http://50.7.92.98:8887/8076/index.m3u8
 #EXTINF:-1 ,Nat geo wild HD
 http://50.7.92.98:8887/8079/index.m3u8
-
 #EXTINF:-1 ,National geographic
-http://193.242.204.28:10153/153
+http://50.7.92.98:8887/8434/index.m3u8
 
 #EXTINF:-1 ,viju Explore
 http://50.7.92.98:8887/8085/index.m3u8
@@ -119,7 +118,7 @@ http://91.194.191.241:8081/chid68/tracks-v1a1/mono.m3u8
 http://50.7.92.98:8887/8049/index.m3u8
 
 #EXTINF:-1 ,TV1000 Русское кино
-http://193.242.204.28:10069/69
+http://194.143.148.28:8080/TV1000RuKino/mpegts
 
 #EXTINF:-1 ,viju+ Megahit
 http://50.7.92.98:8887/8109/index.m3u8
@@ -236,9 +235,9 @@ https://mhd116.iptv2022.com/p/UHEZLld0FZMyDimMGMOeyg,1730970008/streaming/ginger
 
 
 #EXTINF:-1 ,Комедия
-http://91.142.158.107:8092/play/30/index.m3u8
+http://91.224.169.250:5000/c11
 #EXTINF:-1 ,НСТ
-http://91.142.158.107:8092/play/29/index.m3u8
+http://91.224.169.250:5000/c16
 
 #EXTINF:-1 ,Cinema
 http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
@@ -384,6 +383,9 @@ http://50.7.92.98:8887/8565/index.m3u8
 
 #EXTINF:-1 ,Setanta Sports 2 HD
 https://livetv.mylifeisgood.net.ru/arhive/srv1oneaudio/SETANTAPLUS_HD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 ,OKKO SPORT
+http://50.7.92.98:8887/8470/index.m3u8
 
 
 
