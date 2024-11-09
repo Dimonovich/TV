@@ -59,6 +59,12 @@ http://45.143.108.104/AMEDIA2_HD/index.m3u8
 http://45.143.108.104/TV1000RU_HD/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Арсенал HD
 http://45.143.108.104/arsenal/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Ретро
+http://194.158.218.123:8880/Retrotv/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Усадьба
+http://194.158.218.123:8880/Usadba/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Здоровое ТВ
+http://194.158.218.123:8880/ZdorovoeTV/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵",МУЛЬТИМАНИЯ
 https://void.greenhosting.ru/Multimania_Mpeg4/video.m3u8
 #EXTINF:-1 group-title="TEST ⓵",MTV
