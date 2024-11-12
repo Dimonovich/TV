@@ -414,6 +414,8 @@ http://5.134.87.10:8000/play/a0j2/index.m3u8
 http://5.134.87.10:8000/play/a03j/index.m3u8
 #EXTINF:-1 group-title="Сисаван-армения",Восток
 http://5.134.87.10:8000/play/a0j9/index.m3u8
+#EXTINF:-1 group-title="Сисаван-армения",Viju+ Planet
+http://5.134.87.10:8000/play/a0j4/index.m3u8
 #EXTINF:-1 group-title="Сисаван-армения",Глазами Туриста HD
 http://5.134.87.10:8000/play/a07z/index.m3u8
 #EXTINF:-1 group-title="Сисаван-армения",Диалоги о рыбалке
@@ -462,12 +464,6 @@ http://5.134.87.10:8000/play/a0i0/index.m3u8
 http://5.134.87.10:8000/play/a0ki/index.m3u8
 #EXTINF:-1 group-title="Сисаван-армения",FashionBox
 http://5.134.87.10:8000/play/a0kp/index.m3u8
-#EXTINF:-1 group-title="Сисаван-армения",Fast sport
-http://5.134.87.10:8000/play/a006/index.m3u8
-#EXTINF:-1 group-title="Сисаван-армения",FastnfunBox
-http://5.134.87.10:8000/play/a0kq/index.m3u8
-#EXTINF:-1 group-title="Сисаван-армения",FightBox
-http://5.134.87.10:8000/play/a0kr/index.m3u8
 #EXTINF:-1 group-title="Сисаван-армения",FilmBox
 http://5.134.87.10:8000/play/a0kh/index.m3u8
 #EXTINF:-1 group-title="Сисаван-армения",FilmBox Arthouse
@@ -496,8 +492,6 @@ http://5.134.87.10:8000/play/a00t/index.m3u8
 http://5.134.87.10:8000/play/a0j6/index.m3u8
 #EXTINF:-1 group-title="Сисаван-армения",VIP Megahit
 http://5.134.87.10:8000/play/a0j7/index.m3u8
-#EXTINF:-1 group-title="Сисаван-армения",VIP Planet
-http://5.134.87.10:8000/play/a0j4/index.m3u8
 #EXTINF:-1 group-title="Сисаван-армения",VIP Premiere
 http://5.134.87.10:8000/play/a0j5/index.m3u8
 #EXTINF:-1 group-title="Сисаван-армения",VIP Serial
@@ -520,8 +514,6 @@ http://5.134.87.10:8000/play/a0jq/index.m3u8
 http://5.134.87.10:8000/play/a0ig/index.m3u8
 #EXTINF:-1 group-title="Сисаван-армения",Иллюзион+
 http://5.134.87.10:8000/play/a074/index.m3u8
-#EXTINF:-1 group-title="Сисаван-армения",ИНДИЙСКОЕ КИНО
-http://5.134.87.10:8000/play/a00w/index.m3u8
 #EXTINF:-1 group-title="Сисаван-армения",Индия
 http://5.134.87.10:8000/play/a06h/index.m3u8
 #EXTINF:-1 group-title="Сисаван-армения",История
@@ -536,14 +528,20 @@ http://5.134.87.10:8000/play/a0je/index.m3u8
 http://5.134.87.10:8000/play/a0jd/index.m3u8
 #EXTINF:-1 group-title="Сисаван-армения",Кино ТВ HD
 http://5.134.87.10:8000/play/a0j1/index.m3u8
+#EXTINF:-1 group-title="Сисаван-армения",ИНДИЙСКОЕ КИНО
+http://5.134.87.10:8000/play/a00w/index.m3u8
 #EXTINF:-1 group-title="Сисаван-армения",КИНОМИКС HD
 http://5.134.87.10:8000/play/Disney/index.m3u8
 #EXTINF:-1 group-title="Сисаван-армения",КИНОПРЕМЬЕРА HD
 http://5.134.87.10:8000/play/a00m/index.m3u8
+#EXTINF:-1 group-title="Сисаван-армения",МУЖСКОЕ КИНО HD
+http://5.134.87.10:8000/play/a00q/index.m3u8
 #EXTINF:-1 group-title="Сисаван-армения",Киносемья HD
 http://5.134.87.10:8000/play/a02z/index.m3u8
 #EXTINF:-1 group-title="Сисаван-армения",Кинохит HD
 http://5.134.87.10:8000/play/a0jf/index.m3u8
+#EXTINF:-1 group-title="Сисаван-армения",Наше новое кино
+http://5.134.87.10:8000/play/a00o/index.m3u8
 #EXTINF:-1 group-title="Сисаван-армения",Конный мир
 http://5.134.87.10:8000/play/a0jv/index.m3u8
 #EXTINF:-1 group-title="Сисаван-армения",Кухня ТВ
@@ -558,12 +556,8 @@ http://5.134.87.10:8000/play/a0ie/index.m3u8
 http://5.134.87.10:8000/play/a0i6/index.m3u8
 #EXTINF:-1 group-title="Сисаван-армения",Мосфильм. Золотая коллекция
 http://5.134.87.10:8000/play/a0it/index.m3u8
-#EXTINF:-1 group-title="Сисаван-армения",МУЖСКОЕ КИНО HD
-http://5.134.87.10:8000/play/a00q/index.m3u8
 #EXTINF:-1 group-title="Сисаван-армения",Мужской
 http://5.134.87.10:8000/play/a0im/index.m3u8
-#EXTINF:-1 group-title="Сисаван-армения",Наше новое кино
-http://5.134.87.10:8000/play/a00o/index.m3u8
 #EXTINF:-1 group-title="Сисаван-армения",ОТР
 http://5.134.87.10:8000/play/a0k4/index.m3u8
 #EXTINF:-1 group-title="Сисаван-армения",Пятница
@@ -686,6 +680,12 @@ http://5.134.87.10:8000/play/a0lh/index.m3u8
 http://5.134.87.10:8000/play/a0lk/index.m3u8
 #EXTINF:-1 group-title="Сисаван-армения",BRIDGE TV Шлягер
 http://5.134.87.10:8000/play/a0lg/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Fast sport
+http://5.134.87.10:8000/play/a006/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",FastnfunBox
+http://5.134.87.10:8000/play/a0kq/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",FightBox
+http://5.134.87.10:8000/play/a0kr/index.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Футбол
 http://5.134.87.10:8000/play/a0i9/index.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Eurosport 1 HD
