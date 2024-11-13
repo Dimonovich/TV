@@ -29,9 +29,6 @@ https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 ,НТВ Стиль
 https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
 
-#EXTINF:-1 ,НТВ-Мир
-http://50.7.92.98:8887/8011/index.m3u8
-
 #EXTINF:-1 ,ТНТ HD
 http://91.224.169.250:5000/c72
 
@@ -45,9 +42,9 @@ http://91.224.169.250:5000/c311
 http://185.50.148.2:7707/NationalGeographic/index.m3u8
 
 #EXTINF:-1 ,Ocean-TV
-http://50.7.92.98:8887/8069/index.m3u8
+http://5.134.87.10:8000/play/a06i/index.m3u8
 #EXTINF:-1 ,HDL
-http://50.7.92.98:8887/8175/index.m3u8
+http://31.211.77.158:8000/play/a171/index.m3u8
 
 #EXTINF:-1 ,RTG HD
 http://194.143.148.28:8080/RTG_HD/mpegts
@@ -79,7 +76,7 @@ http://91.224.169.250:5000/c15
 https://english-livetx.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802_hd.m3u8
 
 #EXTINF:-1 ,Телепутешествия
-http://50.7.92.98:8887/8182/index.m3u8
+http://91.194.191.241:8081/chid433/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 ,Тайна
 https://tochkatv-live.cdnvideo.ru/tochkatv_pub/tainatv.stream_aac2.smil/playlist.m3u8
@@ -88,55 +85,55 @@ https://tochkatv-live.cdnvideo.ru/tochkatv_pub/tainatv.stream_aac2.smil/playlist
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 ,Охотник и рыболов
-http://50.7.92.98:8887/8065/index.m3u8
-#EXTINF:-1 ,History HD
-http://50.7.92.98:8887/8356/index.m3u8
+http://31.211.77.158:8000/play/a156/index.m3u8
 #EXTINF:-1 ,История
-http://50.7.92.98:8887/8082/index.m3u8
+http://5.134.87.10:8000/play/a097/index.m3u8
 #EXTINF:-1 ,Animal Planet
-http://50.7.92.98:8887/8075/index.m3u8
+http://91.224.169.250:5000/c162
 #EXTINF:-1 ,Discovery Channel
-http://50.7.92.98:8887/8076/index.m3u8
+http://5.134.87.10:8000/play/a0in/index.m3u8
 #EXTINF:-1 ,Nat geo wild HD
-http://50.7.92.98:8887/8079/index.m3u8
+http://5.134.87.10:8000/play/a06r/index.m3u8
 #EXTINF:-1 ,National geographic
-http://50.7.92.98:8887/8434/index.m3u8
+http://31.211.77.158:8000/play/a141/index.m3u8
 
 #EXTINF:-1 ,viju Explore
-http://50.7.92.98:8887/8085/index.m3u8
+http://flu.ttk.mx:90/Explorer/mono.m3u8
 
 #EXTINF:-1 ,viju History
-http://91.194.191.241:8081/chid105/tracks-v1a1/mono.m3u8
+http://flu.ttk.mx:90/Viasat_History/mono.m3u8
 
 #EXTINF:-1 ,Viasat Nature HD
-http://50.7.92.98:8887/8087/index.m3u8
+http://31.211.77.158:8000/play/a144/index.m3u8
 
 #EXTINF:-1 ,TV 1000
 http://91.194.191.241:8081/chid68/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 ,viju TV1000 Action
-http://50.7.92.98:8887/8049/index.m3u8
+http://flu.ttk.mx:90/TV1000_Action/mono.m3u8
 
 #EXTINF:-1 ,TV1000 Русское кино
 http://194.143.148.28:8080/TV1000RuKino/mpegts
 
 #EXTINF:-1 ,viju+ Megahit
-http://50.7.92.98:8887/8109/index.m3u8
+http://5.134.87.10:8000/play/a0j7/index.m3u8
 #EXTINF:-1 ,viju+ Comedy
-http://50.7.92.98:8887/8108/index.m3u8
+http://5.134.87.10:8000/play/a0j6/index.m3u8
 #EXTINF:-1 ,viju+ Premiere
-http://50.7.92.98:8887/8119/index.m3u8
+http://5.134.87.10:8000/play/a0j5/index.m3u8
 
 #EXTINF:-1 ,Viju+ Serial
 http://91.194.191.241:8081/chid40/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Amedia Premium HD
-http://50.7.92.98:8887/8215/index.m3u8
+http://91.224.169.250:5000/c154
 #EXTINF:-1 ,Amedia Hit HD
-http://50.7.92.98:8887/8159/index.m3u8
+http://31.211.77.158:8000/play/a119/index.m3u8
+
 #EXTINF:-1 ,A1
-http://50.7.92.98:8887/8035/index.m3u8
-#EXTINF:-1 ,Премиальное
-http://50.7.92.98:8887/8028/index.m3u8
+http://flu.ttk.mx:90/A-1/mono.m3u8
+#EXTINF:-1 ,A2
+http://flu.ttk.mx:90/A-2/mono.m3u8
+
 #EXTINF:-1 ,Bollywood HD
 http://91.224.169.250:5000/c155
 
@@ -332,11 +329,6 @@ http://194.26.229.213/chdtv_ru_rock/index.m3u8
 #EXTINF:-1 ,CHD-TV Rock
 http://194.26.229.213/chdtv_rock/index.m3u8
 
-#EXTINF:-1 ,MTV 80s
-http://50.7.92.98:8887/8137/index.m3u8
-#EXTINF:-1 ,MTV 00s
-http://50.7.92.98:8887/8032/index.m3u8
-
 #EXTINF:-1 ,BRIDGE TV
 http://91.224.169.250:5000/c53
 #EXTINF:-1 ,BRIDGE TV HITS
@@ -379,15 +371,6 @@ http://95.67.12.82:9067
 http://91.224.169.250:5000/c167
 #EXTINF:-1 ,Eurosport 2 HD
 http://91.224.169.250:5000/c168
-#EXTINF:-1 ,Setanta Sports 1 HD
-http://50.7.92.98:8887/8565/index.m3u8
-
-#EXTINF:-1 ,Setanta Sports 2 HD
-https://livetv.mylifeisgood.net.ru/arhive/srv1oneaudio/SETANTAPLUS_HD/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 ,OKKO SPORT
-http://50.7.92.98:8887/8470/index.m3u8
-
 
 #EXTINF:-1,Матч ТВ HD
 https://mhd116.iptv2022.com/p/axDp1Ur6meWbt7OOYBhoKQ,1731574813/streaming/matchott/324/1/tracks-v4a1/mono.m3u8
@@ -434,7 +417,7 @@ https://strm.yandex.ru/kal/udar/udar0.m3u8
 https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
 
 #EXTINF:-1 ,Viasat Sport
-http://50.7.92.98:8887/8015/index.m3u8
+http://flu.ttk.mx:90/Viasat_Sport/mono.m3u8
 
 #EXTINF:-1 ,Телеканал Футбол
 http://iptv-hls.idc.md:8200/hls/77/live1.m3u8
