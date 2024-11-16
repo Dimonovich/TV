@@ -44,7 +44,7 @@ http://185.50.148.2:7707/NationalGeographic/index.m3u8
 #EXTINF:-1 ,Ocean-TV
 http://91.194.191.241:8081/chid268/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,HDL
-http://91.194.191.241:8081/chid431/tracks-v1a1/mono.m3u8
+http://str05.ottg.app/5446/mpegts?token=e06aa33302e42fedf78d3106858d5634
 
 #EXTINF:-1 ,RTG HD
 http://194.143.148.28:8080/RTG_HD/mpegts
@@ -120,6 +120,8 @@ http://193.242.190.6:8099/201/index.m3u8
 http://193.242.190.6:8099/202/index.m3u8
 #EXTINF:-1 ,viju+ Premiere
 http://193.242.190.6:8099/200/index.m3u8
+
+http://str05.ottg.app/2110/mpegts?token=e06aa33302e42fedf78d3106858d5634
 
 #EXTINF:-1 ,Viju+ Serial
 http://91.194.191.241:8081/chid40/tracks-v1a1/mono.m3u8
