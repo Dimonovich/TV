@@ -107,15 +107,13 @@ http://193.242.190.6:8099/201/index.m3u8
 http://193.242.190.6:8099/202/index.m3u8
 #EXTINF:-1 ,viju+ Premiere
 http://193.242.190.6:8099/200/index.m3u8
-
-
 #EXTINF:-1 ,Viju+ Serial
-http://91.194.191.241:8081/chid40/tracks-v1a1/mono.m3u8
+http://193.242.190.6:8099/204/index.m3u8
+
 #EXTINF:-1 ,Amedia Premium HD
 http://91.224.169.250:5000/c154
 #EXTINF:-1 ,Amedia Hit HD
 http://62.231.191.65:8888/93
-
 
 #EXTINF:-1 ,Иллюзион+
 http://flu.ttk.mx:90/Illuzion+/mono.m3u8
@@ -298,7 +296,7 @@ http://91.224.169.250:5000/c167
 http://91.224.169.250:5000/c168
 
 
-#EXTINF:-1,Матч HD
+#EXTINF:-1 ,Матч HD
 http://flu.ttk.mx:90/Match_HD/mono.m3u8
 #EXTINF:-1 ,Матч! Боец
 http://flu.ttk.mx:90/Boets/mono.m3u8
