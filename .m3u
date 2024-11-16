@@ -115,24 +115,78 @@ http://91.224.169.250:5000/c154
 #EXTINF:-1 ,Amedia Hit HD
 http://62.231.191.65:8888/93
 
-#EXTINF:-1 ,Иллюзион+
-http://flu.ttk.mx:90/Illuzion+/mono.m3u8
-#EXTINF:-1 ,Кинопоказ
-http://flu.ttk.mx:90/kinopokaz/mono.m3u8
-#EXTINF:-1 ,Кинопремьера HD
-http://flu.ttk.mx:90/Kinopremiera/mono.m3u8
-#EXTINF:-1 ,Киносвидание
-http://flu.ttk.mx:90/Kinosvidanie/mono.m3u8
-#EXTINF:-1 ,Мужское Кино
-http://flu.ttk.mx:90/Muzhskoe_Kino/mono.m3u8
-#EXTINF:-1 ,Киносемья
-http://flu.ttk.mx:90/Kinosemia/mono.m3u8
-#EXTINF:-1 ,Кинохит
-http://flu.ttk.mx:90/kinohit/mono.m3u8
-#EXTINF:-1 ,Комедия
-http://flu.ttk.mx:90/Komediya/mono.m3u8
-#EXTINF:-1 ,Мосфильм. Золотая коллекция
-http://flu.ttk.mx:90/Mosfilm/mono.m3u8
+#EXTINF:-1  tvg-, Кинопремьера HD
+https://mhd116.iptv2022.com/p/YVce3VHFvmOs5LSVa09z0A,1731877217/streaming/film-premiere/324/1/index.m3u8
+#EXTINF:-1  tvg-, Киносемья
+https://mhd116.iptv2022.com/p/PI4RyWOj6pyEJiFLGRf0Gg,1731877217/streaming/film-families/324/1/index.m3u8
+#EXTINF:-1  tvg-, Киносвидание
+https://mhd116.iptv2022.com/p/gXv8kcpQ9E44D_N6VgpBAQ,1731877218/streaming/film-watching/324/1/index.m3u8
+#EXTINF:-1  tvg-, Кинохит
+https://mhd116.iptv2022.com/p/EB__vYr4eU21nnurNMAp-g,1731877218/streaming/film-hit/324/1/index.m3u8
+#EXTINF:-1  tvg-, Мужское кино
+https://mhd116.iptv2022.com/p/8AFHhZLhdUPlgnv3Z9OIpg,1731877218/streaming/male-movie/324/1/index.m3u8
+#EXTINF:-1  tvg-, Киноужас
+https://mhd116.iptv2022.com/p/75xCV9lZRsRdV27jNFQSCg,1731877218/streaming/kinoujas/324/1/index.m3u8
+#EXTINF:-1  tvg-, Индийское кино
+https://mhd116.iptv2022.com/p/VDKKjap61OX8--3h2lk2aQ,1731877218/streaming/india/324/1/index.m3u8
+#EXTINF:-1  tvg-, Киносерия
+https://mhd116.iptv2022.com/p/Rc7iBinhDU_13RZQkPaQ9g,1731877218/streaming/kinoseria/324/1/index.m3u8
+#EXTINF:-1  tvg-, Родное кино
+https://mhd116.iptv2022.com/p/KHJf7tsUKpHHlTHL9XmGRw,1731877218/streaming/rodnoe/324/1/index.m3u8
+#EXTINF:-1  tvg-, Киномикс
+https://mhd116.iptv2022.com/p/h9Ega71OQUmV0oLugc96yg,1731877218/streaming/kinomix/324/1/index.m3u8
+#EXTINF:-1  tvg-, Наше новое кино
+https://mhd116.iptv2022.com/p/1TtIgLAGTaY5SLOe5BINRA,1731877218/streaming/nashe_n_kino/324/1/index.m3u8
+#EXTINF:-1  tvg-, КиноСезон
+https://mhd116.iptv2022.com/p/u4Nu75gCrX7bNVdpa9mf6g,1731877218/streaming/kinosezon/324/1/index.m3u8
+#EXTINF:-1  tvg-, Блокбастер
+https://mhd116.iptv2022.com/p/YoksuhEfB3wdo407mVz52w,1731877218/streaming/blokbaster/324/1/index.m3u8
+#EXTINF:-1  tvg-, Про любовь
+https://mhd116.iptv2022.com/p/BwLghGT7iRiwQ0t9FIo85w,1731877219/streaming/prolubov/324/1/index.m3u8
+#EXTINF:-1  tvg-, Наше мужское
+https://mhd116.iptv2022.com/p/81EgNWXCWDp-ApLFT4vCVQ,1731877219/streaming/nashemuzskoe/324/1/index.m3u8
+#EXTINF:-1  tvg-,Хит
+https://mhd116.iptv2022.com/p/HDPFaQDURhGhCuJl9TNzNA,1731877219/streaming/hit/324/1/index.m3u8
+#EXTINF:-1  tvg-, Наш кинопоказ
+https://mhd116.iptv2022.com/p/orUcpqZZXaYSZES0bwwsTQ,1731877219/streaming/nashpokaz/324/1/index.m3u8
+#EXTINF:-1  tvg-, Камеди
+https://mhd116.iptv2022.com/p/o7lHwUAIXn3lYBRHJdc0RQ,1731877219/streaming/kamedi/324/1/index.m3u8
+#EXTINF:-1  tvg-,Индия
+https://mhd116.iptv2022.com/p/VPF80F9k1lRqn-1_T6I4NA,1731877219/streaming/zeetv/324/1/index.m3u8
+#EXTINF:-1  tvg-,Турецкие сериалы. Timeless DIZI Channel
+https://mhd116.iptv2022.com/p/YAmSH0RiCLtr5XgRFRAHeA,1731877219/streaming/dizitv/324/1/index.m3u8
+#EXTINF:-1  tvg-,Star Family HD
+https://mhd116.iptv2022.com/p/qxZsWLPmYhMkh8ilW71Ysw,1731877219/streaming/star_family/324/1/index.m3u8
+#EXTINF:-1  tvg-, Star Cinema
+https://mhd116.iptv2022.com/p/8np26FnHqSLRxFq5SaFJwA,1731877219/streaming/star_cinema/324/1/index.m3u8
+#EXTINF:-1  tvg-,red
+https://mhd116.iptv2022.com/p/K1osqDawtLioMFRouIxZYQ,1731877220/streaming/red/324/1/index.m3u8
+#EXTINF:-1  tvg-,SCI-FI
+https://mhd116.iptv2022.com/p/XLJxlHUz6Le0LAjrmJf5Rw,1731877220/streaming/sci-fi/324/1/index.m3u8
+#EXTINF:-1  tvg-,black
+https://mhd116.iptv2022.com/p/cCfpzyBbNmmNTJV3G3mt5w,1731877220/streaming/black/324/1/index.m3u8
+#EXTINF:-1  tvg-, Horror TV
+https://mhd116.iptv2022.com/p/wDzdboQ0BYRpc3m_bo81BA,1731877220/streaming/horror_tv/324/1/index.m3u8
+#EXTINF:-1  tvg-, День Победы
+https://mhd116.iptv2022.com/p/5sN9m2U7y7SXmDbJEIAa5Q,1731877220/streaming/den-pobedi/324/1/index.m3u8
+#EXTINF:-1  tvg-, Сапфир
+https://mhd116.iptv2022.com/p/SSy_7xQX0mz_YjDW_qBJ7w,1731877220/streaming/sapfir/324/1/index.m3u8
+#EXTINF:-1  tvg-, Кинеко
+https://mhd116.iptv2022.com/p/ddquS_8aZUrDvJyaw-W2dA,1731877221/streaming/kineko/324/1/index.m3u8
+#EXTINF:-1  tvg-, Любимое кино
+https://mhd116.iptv2022.com/p/-iKTqRjytjjCEH4Fgw4KDQ,1731877221/streaming/lubimoe_kino/324/1/index.m3u8
+#EXTINF:-1  tvg-, Еврокино
+https://mhd116.iptv2022.com/p/5p4mZqs45OcbIuwHQh2VrQ,1731877221/streaming/eurokino/324/1/index.m3u8
+#EXTINF:-1  tvg-, Trash
+https://mhd116.iptv2022.com/p/jJ6S7f8yqWoasGUl32yaAg,1731877221/streaming/trash/324/1/index.m3u8
+#EXTINF:-1  tvg-, Иллюзион+
+https://mhd116.iptv2022.com/p/Mu2dz4gWOb7SOS42feh4ww,1731877221/streaming/illuzionplus/324/1/index.m3u8
+#EXTINF:-1  tvg-, Кинопоказ
+https://mhd116.iptv2022.com/p/ZR4SQIjSEp6QSZHRbOMgzg,1731877221/streaming/kinopokaz/324/1/index.m3u8
+#EXTINF:-1  tvg-, Кинокомедия
+https://mhd116.iptv2022.com/p/XI6_nNp8-IuTVfrjwU7_1w,1731877221/streaming/kinocomedia/324/1/index.m3u8
+#EXTINF:-1  tvg-,Капитан Фантастика
+https://mhd116.iptv2022.com/p/KWQydv_73acN_2yTvMw9hQ,1731877222/streaming/gingerhd/324/1/index.m3u8
 
 #EXTINF:-1 ,A1
 http://flu.ttk.mx:90/A-1/mono.m3u8
