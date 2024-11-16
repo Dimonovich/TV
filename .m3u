@@ -41,11 +41,6 @@ http://91.224.169.250:5000/c311
 #EXTINF:-1 ,TERRA
 http://185.50.148.2:7707/NationalGeographic/index.m3u8
 
-#EXTINF:-1 ,Ocean-TV
-http://91.194.191.241:8081/chid268/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,HDL
-http://str05.ottg.app/5446/mpegts?token=e06aa33302e42fedf78d3106858d5634
-
 #EXTINF:-1 ,RTG HD
 http://194.143.148.28:8080/RTG_HD/mpegts
 
@@ -67,16 +62,11 @@ http://31.184.197.124/home_hd/mono.m3u8
 #EXTINF:-1 ,Живая природа
 http://185.23.80.28:8080/ZhivayaPriroda_HD/index.m3u8
 
-#EXTINF:-1 ,Приключения HD
-http://91.194.191.241:8081/chid142/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Т24
 http://91.224.169.250:5000/c15
 
 #EXTINF:-1 ,CGTN Русский
 https://english-livetx.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802_hd.m3u8
-
-#EXTINF:-1 ,Телепутешествия
-http://91.194.191.241:8081/chid433/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 ,Тайна
 https://tochkatv-live.cdnvideo.ru/tochkatv_pub/tainatv.stream_aac2.smil/playlist.m3u8
@@ -84,15 +74,12 @@ https://tochkatv-live.cdnvideo.ru/tochkatv_pub/tainatv.stream_aac2.smil/playlist
 #EXTINF:-1 ,Большая Азия
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 
-
 #EXTINF:-1 ,История
-http://91.194.191.241:8081/chid113/tracks-v1a1/mono.m3u8
+http://91.224.169.250:5000/c8
 #EXTINF:-1 ,Animal Planet
 http://91.224.169.250:5000/c162
 #EXTINF:-1 ,Discovery Channel
 http://91.224.169.250:5000/c161
-#EXTINF:-1 ,Nat geo wild HD
-http://91.194.191.241:8081/chid112/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,National geographic
 http://s5.merlive.am:80/NationalGeographic/index.m3u8
 
@@ -103,16 +90,16 @@ http://flu.ttk.mx:90/Explorer/mono.m3u8
 http://flu.ttk.mx:90/Viasat_History/mono.m3u8
 
 #EXTINF:-1 ,Viasat Nature HD
-http://91.194.191.241:8081/chid428/tracks-v1a1/mono.m3u8
+http://86.57.198.251:8181/play/1018/index.m3u8
 
 #EXTINF:-1 ,TV 1000
-http://91.194.191.241:8081/chid68/tracks-v1a1/mono.m3u8
+http://86.57.198.251:8181/play/1013/index.m3u8
 
 #EXTINF:-1 ,viju TV1000 Action
 http://flu.ttk.mx:90/TV1000_Action/mono.m3u8
 
 #EXTINF:-1 ,TV1000 Русское кино
-http://91.194.191.241:8081/chid69/tracks-v1a1/mono.m3u8
+http://86.57.198.251:8181/play/1015/index.m3u8
 
 #EXTINF:-1 ,viju+ Megahit
 http://193.242.190.6:8099/201/index.m3u8
@@ -121,7 +108,6 @@ http://193.242.190.6:8099/202/index.m3u8
 #EXTINF:-1 ,viju+ Premiere
 http://193.242.190.6:8099/200/index.m3u8
 
-http://str05.ottg.app/2110/mpegts?token=e06aa33302e42fedf78d3106858d5634
 
 #EXTINF:-1 ,Viju+ Serial
 http://91.194.191.241:8081/chid40/tracks-v1a1/mono.m3u8
@@ -129,6 +115,26 @@ http://91.194.191.241:8081/chid40/tracks-v1a1/mono.m3u8
 http://91.224.169.250:5000/c154
 #EXTINF:-1 ,Amedia Hit HD
 http://62.231.191.65:8888/93
+
+
+#EXTINF:-1 ,Иллюзион+
+http://flu.ttk.mx:90/Illuzion+/mono.m3u8
+#EXTINF:-1 ,Кинопоказ
+http://flu.ttk.mx:90/kinopokaz/mono.m3u8
+#EXTINF:-1 ,Кинопремьера HD
+http://flu.ttk.mx:90/Kinopremiera/mono.m3u8
+#EXTINF:-1 ,Киносвидание
+http://flu.ttk.mx:90/Kinosvidanie/mono.m3u8
+#EXTINF:-1 ,Mужское Кино
+http://flu.ttk.mx:90/Muzhskoe_Kino/mono.m3u8
+#EXTINF:-1 ,Kиносемья
+http://flu.ttk.mx:90/Kinosemia/mono.m3u8
+#EXTINF:-1 ,Кинохит
+http://flu.ttk.mx:90/kinohit/mono.m3u8
+#EXTINF:-1 ,Комедия
+http://flu.ttk.mx:90/Komediya/mono.m3u8
+#EXTINF:-1 ,Мосфильм. Золотая коллекция
+http://flu.ttk.mx:90/Mosfilm/mono.m3u8
 
 #EXTINF:-1 ,A1
 http://flu.ttk.mx:90/A-1/mono.m3u8
@@ -180,7 +186,7 @@ https://live.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
 https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/playlist.m3u8
 
 #EXTINF:-1 ,ОТР
-http://91.194.191.241:8081/chid163/tracks-v1a1/mono.m3u8
+http://91.224.169.250:5000/c309
 #EXTINF:-1 ,Пятый канал
 http://91.224.169.250:5000/c305
 
@@ -190,7 +196,7 @@ http://91.224.169.250:5000/c314
 http://91.224.169.250:5000/c315
 
 #EXTINF:-1 ,Пятница!
-http://91.194.191.241:8081/chid14/tracks-v1a1/mono.m3u8
+http://91.224.169.250:5000/c316
 
 #EXTINF:-1 ,Че
 http://91.224.169.250:5000/c73
@@ -221,11 +227,8 @@ http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:-1 ,Sochi Live HD
 http://serv30.vintera.tv:8081/sochi/sochi_stream/chunks.m3u8
 
-#EXTINF:-1 ,КВН ТВ
-http://91.194.191.241:8081/chid472/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 ,СТС
-http://91.194.191.241:8081/chid11/tracks-v1a1/mono.m3u8
+http://flu.ttk.mx:90/STS/mono.m3u8
 
 #EXTINF:-1 ,Ю
 http://edge02.odtv.az/o3/utv/playlist.m3u8
@@ -287,12 +290,30 @@ https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8
 
 #EXTINF:-1 ,Trace Sport Stars
-
 http://95.67.12.82:9067
+
 #EXTINF:-1 ,Eurosport 1 HD
 http://91.224.169.250:5000/c167
 #EXTINF:-1 ,Eurosport 2 HD
 http://91.224.169.250:5000/c168
+
+
+#EXTINF:-1,Матч HD
+http://flu.ttk.mx:90/Match_HD/mono.m3u8
+#EXTINF:-1 ,Матч! Боец
+http://flu.ttk.mx:90/Boets/mono.m3u8
+#EXTINF:-1 ,Матч! Страна
+http://flu.ttk.mx:90/Strana/mono.m3u8
+#EXTINF:-1 ,Матч! Арена
+http://flu.ttk.mx:90/Arena/mono.m3u8
+#EXTINF:-1 ,Матч! Футбол 1 HD
+http://flu.ttk.mx:90/Football_1HD/mono.m3u8
+#EXTINF:-1 ,Матч! Футбол 2 HD
+http://flu.ttk.mx:90/Football_2HD/mono.m3u8
+#EXTINF:-1 ,Матч! Футбол 3 HD
+http://flu.ttk.mx:90/Football_3HD/mono.m3u8
+#EXTINF:-1 ,Футбол
+http://flu.ttk.mx:90/Futbol/mono.m3u8
 
 #EXTINF:-1 ,Удар HD
 https://strm.yandex.ru/kal/udar/udar0.m3u8
