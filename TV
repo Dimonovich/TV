@@ -3427,6 +3427,8 @@ http://62.231.191.65:8888/206
 
 
 
+#EXTINF:-1 group-title="ЗЭТ-Телеком (VPN)",Россия К
+http://178.57.121.38:8080/rusk/index.m3u8?token=test
 #EXTINF:-1 group-title="ЗЭТ-Телеком (VPN)",Россия 24
 http://178.57.121.38:8080/rus24/index.m3u8?token=test
 #EXTINF:-1 group-title="ЗЭТ-Телеком (VPN)",Рен ТВ
@@ -3443,6 +3445,12 @@ http://178.57.121.38:8080/istoriya/index.m3u8?token=test
 http://178.57.121.38:8080/idxtra/index.m3u8?token=test
 #EXTINF:-1 group-title="ЗЭТ-Телеком (VPN)",Кинопоказ
 http://178.57.121.38:8080/kinopokaz/index.m3u8?token=test
+#EXTINF:-1 group-title="ЗЭТ-Телеком (VPN)",Русский бестселлер
+http://178.57.121.38:8080/rusbest/index.m3u8?token=test
+#EXTINF:-1 group-title="ЗЭТ-Телеком (VPN)",Русский детектив
+http://178.57.121.38:8080/rusdet/index.m3u8?token=test
+#EXTINF:-1 group-title="ЗЭТ-Телеком (VPN)",Русский роман 
+http://178.57.121.38:8080/rusrom/index.m3u8?token=test
 #EXTINF:-1 group-title="ЗЭТ-Телеком (VPN)",Кино ТВ
 http://178.57.121.38:8080/kinotv/index.m3u8?token=test
 #EXTINF:-1 group-title="ЗЭТ-Телеком (VPN)",НСТ
@@ -3519,6 +3527,8 @@ http://178.57.121.38:8080/karusel/index.m3u8?token=test
 http://178.57.121.38:8080/mult/index.m3u8?token=test
 #EXTINF:-1 group-title="ЗЭТ-Телеком (VPN)",2x2
 http://178.57.121.38:8080/2x2/index.m3u8?token=test
+#EXTINF:-1 group-title="ЗЭТ-Телеком (VPN)",Матч ТВ
+http://178.57.121.38:8080/rus2/index.m3u8?token=test
 #EXTINF:-1 group-title="ЗЭТ-Телеком (VPN)",KHL
 http://178.57.121.38:8080/khl/index.m3u8?token=test
 
