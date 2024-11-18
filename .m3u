@@ -109,6 +109,11 @@ http://91.224.169.250:5000/c154
 #EXTINF:-1 ,Amedia Hit HD
 http://62.231.191.65:8888/93
 
+#EXTINF:-1 ,A1
+http://s5.merlive.am:80/Amedia1/index.m3u8
+#EXTINF:-1 ,A2
+http://95.28.205.161:4022/udp/233.33.220.246:5050
+
 
 #EXTINF:-1,Киносемья
 https://mhd116.iptv2022.com/p/9gthHRe_4boQvns4p7ORIQ,1731965980/streaming/film-families/324/1/index.m3u8
@@ -171,13 +176,6 @@ https://mhd116.iptv2022.com/p/qPryLq_NQgT5bqRuZV3yIQ,1731965980/streaming/kinopo
 #EXTINF:-1,Капитан Фантастика HD
 https://mhd116.iptv2022.com/p/upi6MyY29eIj3vitwpcQVw,1731965980/streaming/gingerhd/324/1/index.m3u8
 
-
-
-
-#EXTINF:-1 ,A1
-http://s5.merlive.am:80/Amedia1/index.m3u8
-#EXTINF:-1 ,A2
-http://95.28.205.161:4022/udp/233.33.220.246:5050
 
 #EXTINF:-1 ,Bollywood HD
 http://91.224.169.250:5000/c155
