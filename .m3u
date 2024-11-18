@@ -9,7 +9,7 @@ https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 http://91.224.169.250:5000/c301
 
 #EXTINF:-1 ,Россия 1 HD
-http://flu.ttk.mx:90/Russia-1/mono.m3u8
+http://s5.merlive.am:80/Rossia1/index.m3u8
 
 #EXTINF:-1 ,РОССИЯ К
 http://91.224.169.250:5000/c306
@@ -42,7 +42,7 @@ http://91.224.169.250:5000/c311
 http://185.50.148.2:7707/NationalGeographic/index.m3u8
 
 #EXTINF:-1 ,RTG HD
-http://194.143.148.28:8080/RTG_HD/mpegts
+http://s5.merlive.am:80/rtgtv/index.m3u8
 
 #EXTINF:-1 ,Investigation Discovery
 https://stream01.vnet.am/InvestigationDiscovery/tracks-v1a2/mono.m3u8
@@ -84,7 +84,7 @@ http://91.224.169.250:5000/c161
 http://s5.merlive.am:80/NationalGeographic/index.m3u8
 
 #EXTINF:-1 ,viju Explore
-http://flu.ttk.mx:90/Explorer/mono.m3u8
+http://213.226.137.140:81/tl/l94/mpegts
 
 #EXTINF:-1 ,viju History
 http://flu.ttk.mx:90/Viasat_History/mono.m3u8
