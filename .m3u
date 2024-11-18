@@ -83,20 +83,14 @@ http://91.224.169.250:5000/c161
 #EXTINF:-1 ,National geographic
 http://s5.merlive.am:80/NationalGeographic/index.m3u8
 
-#EXTINF:-1 ,viju Explore
-http://213.226.137.140:81/tl/l94/mpegts
-
 #EXTINF:-1 ,viju History
-http://flu.ttk.mx:90/Viasat_History/mono.m3u8
+http://86.57.198.251:8181/play/1017/index.m3u8
 
 #EXTINF:-1 ,Viasat Nature HD
 http://86.57.198.251:8181/play/1018/index.m3u8
 
 #EXTINF:-1 ,TV 1000
 http://86.57.198.251:8181/play/1013/index.m3u8
-
-#EXTINF:-1 ,viju TV1000 Action
-http://flu.ttk.mx:90/TV1000_Action/mono.m3u8
 
 #EXTINF:-1 ,TV1000 Русское кино
 http://86.57.198.251:8181/play/1015/index.m3u8
@@ -181,9 +175,9 @@ https://mhd116.iptv2022.com/p/upi6MyY29eIj3vitwpcQVw,1731965980/streaming/ginger
 
 
 #EXTINF:-1 ,A1
-http://flu.ttk.mx:90/A-1/mono.m3u8
+http://s5.merlive.am:80/Amedia1/index.m3u8
 #EXTINF:-1 ,A2
-http://flu.ttk.mx:90/A-2/mono.m3u8
+http://95.28.205.161:4022/udp/233.33.220.246:5050
 
 #EXTINF:-1 ,Bollywood HD
 http://91.224.169.250:5000/c155
@@ -272,7 +266,7 @@ http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 http://serv30.vintera.tv:8081/sochi/sochi_stream/chunks.m3u8
 
 #EXTINF:-1 ,СТС
-http://flu.ttk.mx:90/STS/mono.m3u8
+http://193.242.190.6:8099/13/index.m3u8
 
 #EXTINF:-1 ,Ю
 http://edge02.odtv.az/o3/utv/playlist.m3u8
@@ -390,7 +384,7 @@ https://strm.yandex.ru/kal/udar/udar0.m3u8
 https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
 
 #EXTINF:-1 ,Viasat Sport
-http://flu.ttk.mx:90/Viasat_Sport/mono.m3u8
+http://86.57.198.251:8181/play/1051/index.m3u8
 
 #EXTINF:-1 ,Телеканал Футбол
 http://iptv-hls.idc.md:8200/hls/77/live1.m3u8
