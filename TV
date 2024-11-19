@@ -3255,7 +3255,7 @@ http://tv.ttk.mx:9001
 http://tv.ttk.mx:9005
 #EXTINF:-1 group-title="Цитадель-Крым (VPN)",Россия 24
 http://tv.ttk.mx:9006
-#EXTINF:-1 group-title="Цитадель-Крым (VPN)",THT HD
+#EXTINF:-1 group-title="Цитадель-Крым (VPN)",ТНТ HD
 http://tv.ttk.mx:9128
 #EXTINF:-1 group-title="Цитадель-Крым (VPN)",ТНТ
 http://tv.ttk.mx:9018
@@ -3285,7 +3285,7 @@ http://tv.ttk.mx:9048
 http://tv.ttk.mx:9047
 #EXTINF:-1 group-title="Цитадель-Крым (VPN)",Моя планета HD
 http://tv.ttk.mx:9087
-#EXTINF:-1 group-title="Цитадель-Крым (VPN)",HAHO ТВ
+#EXTINF:-1 group-title="Цитадель-Крым (VPN)",Нано ТВ
 http://tv.ttk.mx:9138
 #EXTINF:-1 group-title="Цитадель-Крым (VPN)",Большая азия
 http://tv.ttk.mx:9146
@@ -3333,15 +3333,13 @@ http://tv.ttk.mx:9113
 http://tv.ttk.mx:9139
 #EXTINF:-1 group-title="Цитадель-Крым (VPN)",Союз
 http://tv.ttk.mx:9142
-#EXTINF:-1 group-title="Цитадель-Крым (VPN)",Киносемья
-http://tv.ttk.mx:9161
 #EXTINF:-1 group-title="Цитадель-Крым (VPN)",Легендарный 24 HD
 http://tv.ttk.mx:9179
 #EXTINF:-1 group-title="Цитадель-Крым (VPN)",TV1000
 http://tv.ttk.mx:9181
 #EXTINF:-1 group-title="Цитадель-Крым (VPN)",TV1000 action
 http://tv.ttk.mx:9182
-#EXTINF:-1 group-title="Цитадель-Крым (VPN)",TV1000 русское
+#EXTINF:-1 group-title="Цитадель-Крым (VPN)",TV1000 русское кино
 http://tv.ttk.mx:9183
 #EXTINF:-1 group-title="Цитадель-Крым (VPN)",ТВЦ
 http://tv.ttk.mx:9009
@@ -3419,10 +3417,9 @@ http://tv.ttk.mx:9104
 http://tv.ttk.mx:9103
 #EXTINF:-1 group-title="Цитадель-Крым (VPN)",Суббота
 http://tv.ttk.mx:9105
-http://tv.ttk.mx:9115
 #EXTINF:-1 group-title="Цитадель-Крым (VPN)",Luxury
 http://tv.ttk.mx:9131
-#EXTINF:-1 group-title="Цитадель-Крым (VPN)",8 kanal
+#EXTINF:-1 group-title="Цитадель-Крым (VPN)",8 канал
 http://tv.ttk.mx:9134
 #EXTINF:-1 group-title="Цитадель-Крым (VPN)",Мир HD
 http://tv.ttk.mx:9140
@@ -3444,8 +3441,12 @@ http://tv.ttk.mx:9156
 http://tv.ttk.mx:9157
 #EXTINF:-1 group-title="Цитадель-Крым (VPN)",Кинопремьера HD
 http://tv.ttk.mx:9162
+#EXTINF:-1 group-title="Цитадель-Крым (VPN)",Киносемья
+http://tv.ttk.mx:9161
 #EXTINF:-1 group-title="Цитадель-Крым (VPN)",Кинохит
 http://tv.ttk.mx:9163
+#EXTINF:-1 group-title="Цитадель-Крым (VPN)",Киноужас
+http://tv.ttk.mx:9193
 #EXTINF:-1 group-title="Цитадель-Крым (VPN)",Мужское Кино HD
 http://tv.ttk.mx:9165
 #EXTINF:-1 group-title="Цитадель-Крым (VPN)",Киносвидание
@@ -3456,14 +3457,12 @@ http://tv.ttk.mx:9169
 http://tv.ttk.mx:9172
 #EXTINF:-1 group-title="Цитадель-Крым (VPN)",Симферополь 24
 http://tv.ttk.mx:9180
-#EXTINF:-1 group-title="Цитадель-Крым (VPN)",Timeless Dizi
+#EXTINF:-1 group-title="Цитадель-Крым (VPN)",Timeless Dizi Channel
 http://tv.ttk.mx:9189
 #EXTINF:-1 group-title="Цитадель-Крым (VPN)",Дума ТВ
 http://tv.ttk.mx:9190
 #EXTINF:-1 group-title="Цитадель-Крым (VPN)",Звезда плюс
 http://tv.ttk.mx:9192
-#EXTINF:-1 group-title="Цитадель-Крым (VPN)",Киноужас
-http://tv.ttk.mx:9193
 #EXTINF:-1 group-title="Цитадель-Крым (VPN)",МузТВ
 http://tv.ttk.mx:9019
 #EXTINF:-1 group-title="Цитадель-Крым (VPN)",RU.TV
