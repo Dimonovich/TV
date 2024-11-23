@@ -11,7 +11,7 @@ http://s5.merlive.am:80/Rossia1/index.m3u8
 #EXTINF:-1 ,РОССИЯ К
 https://flussonic.salomtv.uz/RossiyaK/video.m3u8
 #EXTINF:-1 ,Россия 24
-http://91.224.169.250:5000/c307
+https://flussonic.salomtv.uz/Rossiya24/video.m3u8
 
 #EXTINF:-1 ,Неизвестная Россия
 https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
@@ -27,13 +27,10 @@ https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
 https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 ,ТНТ HD
-http://91.224.169.250:5000/c72
+http://193.242.190.6:8099/19/index.m3u8
 
 #EXTINF:-1 ,ТНТ4
 http://tv.mediacdn.ru/live/tnt4/playlist.m3u8
-
-#EXTINF:-1 ,РЕН-ТВ
-http://91.224.169.250:5000/c311
 
 #EXTINF:-1 ,TERRA
 http://185.50.148.2:7707/NationalGeographic/index.m3u8
@@ -60,7 +57,7 @@ http://31.184.197.124/home_hd/mono.m3u8
 http://185.23.80.28:8080/ZhivayaPriroda_HD/index.m3u8
 
 #EXTINF:-1 ,Т24
-http://91.224.169.250:5000/c15
+https://stream1.cinerama.uz/1037/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 ,CGTN Русский
 https://english-livetx.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802_hd.m3u8
@@ -72,11 +69,11 @@ https://tochkatv-live.cdnvideo.ru/tochkatv_pub/tainatv.stream_aac2.smil/playlist
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 ,История
-http://91.224.169.250:5000/c8
+http://109.200.130.123:7537/play/a025
 #EXTINF:-1 ,Animal Planet
-http://91.224.169.250:5000/c162
+https://flussonic.salomtv.uz/Animal_Planet/video.m3u8
 #EXTINF:-1 ,Discovery Channel
-http://91.224.169.250:5000/c161
+https://flussonic.salomtv.uz/Discovery_Channel/video.m3u8
 #EXTINF:-1 ,National geographic
 http://s5.merlive.am:80/NationalGeographic/index.m3u8
 
