@@ -98,8 +98,6 @@ http://193.242.190.6:8099/200/index.m3u8
 #EXTINF:-1 ,Viju+ Serial
 http://193.242.190.6:8099/204/index.m3u8
 
-#EXTINF:-1 ,Amedia Premium HD
-http://91.224.169.250:5000/c154
 #EXTINF:-1 ,Amedia Hit HD
 http://62.231.191.65:8888/93
 
@@ -183,30 +181,12 @@ https://mhd116.iptv2022.com/p/CnSoir_PPrDhVEVG5Yfaqg,1732395607/streaming/illuzi
 #EXTINF:-1,Капитан Фантастика HD
 https://mhd116.iptv2022.com/p/x08aoYhK-5meKpIr2dIhEg,1732395607/streaming/gingerhd/324/1/index.m3u8
 
-
-#EXTINF:-1 ,Bollywood HD
-http://91.224.169.250:5000/c155
-
 #EXTINF:-1 ,Ералаш
 https://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Шоу Бенни Хилла
 https://fl1001.bozztv.com/ushba62/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Мистер Бин
 https://fl1001.bozztv.com/ushba45/index.m3u8
-
-#EXTINF:-1 ,РУССКИЙ РОМАН
-http://91.224.169.250:5000/c3
-#EXTINF:-1 ,РУССКИЙ ДЕТЕКТИВ
-http://91.224.169.250:5000/c12
-#EXTINF:-1 ,РУССКИЙ БЕСТСЕЛЛЕР
-http://91.224.169.250:5000/c4
-#EXTINF:-1 ,Кино ТВ HD
-http://91.224.169.250:5000/c6
-
-#EXTINF:-1 ,Комедия
-http://91.224.169.250:5000/c11
-#EXTINF:-1 ,НСТ
-http://91.224.169.250:5000/c16
 
 #EXTINF:-1 ,Cinema
 http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
@@ -229,26 +209,12 @@ https://live.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
 https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/playlist.m3u8
 
 #EXTINF:-1 ,ОТР
-http://91.224.169.250:5000/c309
-#EXTINF:-1 ,Пятый канал
-http://91.224.169.250:5000/c305
+http://94.230.128.105:8080/OTP/index.m3u8
 
 #EXTINF:-1 ,Домашний
-http://91.224.169.250:5000/c314
+https://flussonic.salomtv.uz/Domashniy/video.m3u8
 #EXTINF:-1 ,ТВ3
-http://91.224.169.250:5000/c315
-
-#EXTINF:-1 ,Пятница!
-http://91.224.169.250:5000/c316
-
-#EXTINF:-1 ,Че
-http://91.224.169.250:5000/c73
-#EXTINF:-1 ,Карусель
-http://91.224.169.250:5000/c308
-#EXTINF:-1 ,СТС Kids
-http://91.224.169.250:5000/c157
-#EXTINF:-1 ,Мультимузыка
-http://91.224.169.250:5000/c49
+https://flussonic.salomtv.uz/TV3/video.m3u8
 
 #EXTINF:-1 ,Мама
 http://stv.mediacdn.ru/live/cdn/mama/playlist_sdhigh.m3u8
@@ -296,15 +262,6 @@ http://tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/playlist_hdlow.m3u8
 http://194.26.229.213/chdtv_ru_rock/index.m3u8
 #EXTINF:-1 ,CHD-TV Rock
 http://194.26.229.213/chdtv_rock/index.m3u8
-
-#EXTINF:-1 ,BRIDGE TV
-http://91.224.169.250:5000/c53
-#EXTINF:-1 ,BRIDGE TV HITS
-http://91.224.169.250:5000/c55
-#EXTINF:-1 ,Bridge TV Русский хит
-http://91.224.169.250:5000/c54
-#EXTINF:-1 ,ТНТ MUSIC
-http://91.224.169.250:5000/c65
 
 #EXTINF:-1 ,VIVA Russia
 https://ipv4.bozztv.com/ssh101/ssh101/vivarussia/playlist.m3u8
