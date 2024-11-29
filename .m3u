@@ -71,11 +71,14 @@ https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,История
 http://109.200.130.123:7537/play/a025
 #EXTINF:-1 ,Animal Planet
-https://stream01.vnet.am/AnimalPlanet/mono.m3u8
+https://stream01.vnet.am/AnimalPlanet/index.m3u8
 #EXTINF:-1 ,Discovery Channel
-https://stream01.vnet.am/DiscoveryChannel/mono.m3u8
+https://stream01.vnet.am/DiscoveryChannel/index.m3u8
 #EXTINF:-1 ,National geographic
 http://s5.merlive.am:80/NationalGeographic/index.m3u8
+
+#EXTINF:-1,History HD
+http://45.159.74.14/Channel_123/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 ,viju History
 http://86.57.198.251:8181/play/1017/index.m3u8
