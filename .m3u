@@ -313,44 +313,72 @@ http://45.132.87.69:8080/eurosport1/index.m3u8
 
 
 
-#EXTINF:-1,Матч ТВ HD
-https://mhd116.iptv2022.com/p/rAcv2KFnMoez954f9v0zEw,1733099254/streaming/matchott/324/1/index.m3u8
-#EXTINF:-1,Матч! Страна
-https://mhd116.iptv2022.com/p/cqxeohESgGQC5RUL0c0OkA,1733099255/streaming/nashsport/324/1/index.m3u8
-#EXTINF:-1,Матч! Игра
-https://mhd116.iptv2022.com/p/jBf--hdMA8q9ovPVSz0jAQ,1733099256/streaming/match_igra/324/1/index.m3u8
-#EXTINF:-1,Матч! Арена
-https://mhd116.iptv2022.com/p/s29gnL2YtMcLKk9AWRp3mw,1733099256/streaming/match_arena/324/1/index.m3u8
-#EXTINF:-1,Матч! Боец
-https://mhd116.iptv2022.com/p/xGhCT_7AxEYCW9hxp4_zkg,1733099257/streaming/boectv/324/1/index.m3u8
-#EXTINF:-1,Матч! Футбол 1 HD
-https://mhd116.iptv2022.com/p/hkN1G6FSpElU1rEja_ynbg,1733099258/streaming/footbal1hd/324/1/index.m3u8
-#EXTINF:-1,Матч! Футбол 2 HD
-https://mhd116.iptv2022.com/p/qAk0Wiz7dFXty5eb2ocFfA,1733099258/streaming/footbal2hd/324/1/index.m3u8
-#EXTINF:-1,Матч! Футбол 3 HD
-https://mhd116.iptv2022.com/p/jJNmPCv5gqZBTyCWMMn34Q,1733099259/streaming/footbal3hd/324/1/index.m3u8
-#EXTINF:-1,Матч! Премьер HD
-https://mhd116.iptv2022.com/p/GIYKPN_FU4sV92t75nn5mw,1733099260/streaming/nashfootbalhd/324/1/index.m3u8
-#EXTINF:-1,Хоккей ТВ
-https://mhd116.iptv2022.com/p/vuDRyW3XtpYb3micjquEmg,1733099262/streaming/hokkeyniy/324/1/index.m3u8
-#EXTINF:-1,ТВ Спорт
-https://mhd116.iptv2022.com/p/yWSW5ZDfGWaI_mgQqNauJg,1733099262/streaming/sportivniyhd/324/1/index.m3u8
-#EXTINF:-1,Мяч
-https://mhd116.iptv2022.com/p/hQ6vQL1pRfk8eLPZSArB4w,1733099263/streaming/footbolniyhd/324/1/index.m3u8
-#EXTINF:-1,KHL Prime
-https://mhd116.iptv2022.com/p/40QCfhXhirmfmPuTJ1a5nw,1733099264/streaming/khlhd/324/1/index.m3u8
-#EXTINF:-1,KHL
-https://mhd116.iptv2022.com/p/wJ3dMJt8sB7SmIJcfCMXPw,1733099265/streaming/khltv/324/1/index.m3u8
-#EXTINF:-1,Бокс ТВ
-https://mhd116.iptv2022.com/p/hYowDwkguWQ7q884bISsuQ,1733099266/streaming/bokstv/324/1/index.m3u8
-#EXTINF:-1,Старт
-https://mhd116.iptv2022.com/p/Dr7ZR_msJAtp-WFNKwPL1A,1733099268/streaming/start/324/1/index.m3u8
-#EXTINF:-1,MMA-TV.com
-https://mhd116.iptv2022.com/p/NiLzNPGxpSi1FeLAiL-ljw,1733099269/streaming/m1global/324/1/index.m3u8
-#EXTINF:-1,FightBox
-https://mhd116.iptv2022.com/p/40a5k18pZu0g77n23q88GQ,1733099270/streaming/fightbox/324/1/index.m3u8
-
-
+#EXTINF:-1 group-title="Спортивные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10095/logo_256_1658736801.png" catchup-source="https://hlsarchive.iptv2022.com/f7960804b6b962b45e7bec5396a9e94e077724f6a4f7dc2f7e138cd401c51a/index-${start}-${offset}.m3u8" catchup-days="120", Матч! HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd116.iptv2022.com/p/oDmN5C31rT2e1fluN0MicQ,1733169614/streaming/matchhd/324/1/index.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/157/logo_256_1655390359.png" catchup-source="https://hlsarchive.iptv2022.com/f7960804b6b962b45e7bec5b92a9e14a077f20f6acf3dc277a/index-${start}-${offset}.m3u8" catchup-days="24", Матч!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd116.iptv2022.com/p/hZUgwtb2Q5qaoNhlOI2gXw,1733169614/streaming/matchott/324/1/index.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10167/logo_256_1660892008.png" catchup-source="https://hlsarchive.iptv2022.com/f7960804b6b962b45e7bef5399a9e94100772bfda4f8c72f710b8cdb0ac5157878eef362a1/index-${start}-${offset}.m3u8" catchup-days="120", Матч! Страна
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd116.iptv2022.com/p/m_sWGOBRjRcu_CvAQw0v-w,1733169614/streaming/nashsport/324/1/index.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/174/logo_256_1658736842.png" catchup-source="https://hlsarchive.iptv2022.com/f7960804b6b962b45e7bec5b99a9e141077f2bf6acf8dc27712484db0ccd156d70eef56aa1fa9fb4/index-${start}-${offset}.m3u8" catchup-days="120", Матч! Игра
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd116.iptv2022.com/p/zmhxVhpER0EhlQUP4jdnYg,1733169614/streaming/match_igra/324/1/index.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/172/logo_256_1658736816.png" catchup-source="https://hlsarchive.iptv2022.com/f7960804b6b962b45e7bec5190a9eb48077522f6a6f1dc2d78248ed204c71c787ae7e260a8f595bd82ba4b/index-${start}-${offset}.m3u8" catchup-days="120", Матч! Арена
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd116.iptv2022.com/p/yBEC1eA3GtC4Ce18JiV4nA,1733169614/streaming/match_arena/324/1/index.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/175/logo_256_1658736830.png" catchup-source="https://hlsarchive.iptv2022.com/f7960804b6b962b45e7be35a94a7e04c167e26f6adf5/index-${start}-${offset}.m3u8" catchup-days="120", Матч! Боец
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd116.iptv2022.com/p/RRb9bkloeSceQvTPkfk15A,1733169614/streaming/boectv/324/1/index.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10234/logo_256_1660805619.png" catchup-source="https://hlsarchive.iptv2022.com/f7960804b6b962b45e7be75a92a7e04a1c7e20e1adf3d6267a1a85d009cc1e3b71e5d86baaf39ebf87b149/index-${start}-${offset}.m3u8", Матч! Футбол 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd116.iptv2022.com/p/Dk7JfYOVIEUihLpoEx7Ypg,1733169614/streaming/footbal1hd/324/1/index.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10235/logo_256_1660805632.png" catchup-source="https://hlsarchive.iptv2022.com/f7960804b6b962b45e7be75598a7ef401c712ae1a2f9d629701a8ada09c314387eefd864a0f391b587be43/index-${start}-${offset}.m3u8", Матч! Футбол 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd116.iptv2022.com/p/sEKspUyIO5b_sGX25Ig_iw,1733169614/streaming/footbal2hd/324/1/index.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10236/logo_256_1660805653.png" catchup-source="https://hlsarchive.iptv2022.com/f7960804b6b962b45e7be75090a7ea481c7422e1a7f1d62c781a8fd209c61c397be7d861a8f394bd87bb4b/index-${start}-${offset}.m3u8", Матч! Футбол 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd116.iptv2022.com/p/QpcKLrcOTE6Nk2UgM2xUuA,1733169614/streaming/footbal3hd/324/1/index.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10227/logo_256_1660806192.png" catchup-source="https://hlsarchive.iptv2022.com/f7960804b6b962b45e7bec5692a9ec4a077220f6a1f3dc2a7a2489d015c01e787de5e267aaf692bf8abd490d54b2c2a98af21f1d5c5ef15c646e/index-${start}-${offset}.m3u8", Матч! Премьер HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd116.iptv2022.com/p/mzvxvxwBBf8XUSAeMqztwQ,1733169614/streaming/nashfootbalhd/324/1/index.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10180/logo_256_1658736853.png" catchup-source="https://hlsarchive.iptv2022.com/f7960804b6b962b45e7bec5691a9ec49077223f6a1f0dc2a792489d315c01d787de6e267a9f692bc8abd4a0d54b1c2a989/index-${start}-${offset}.m3u8", Матч! Премьер
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd116.iptv2022.com/p/rmxMxQIZG8ZksoQflfqzlg,1733169614/streaming/nashfootbal/324/1/index.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10659/logo_256_1658744849.png" catchup-source="https://hlsarchive.iptv2022.com/f7960804b6b962b45e7be95198a7eb4018752afea6f9d12d70028eda0bc714637aeffe60a0c495b58bba430c53b8/index-${start}-${offset}.m3u8" catchup-days="24", Хоккейный HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd116.iptv2022.com/p/44KqPUF7-Ln0gE2AhC-gtg,1733169614/streaming/hokkeyniy/324/1/index.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10672/logo_256_1658737687.png" catchup-source="https://hlsarchive.iptv2022.com/f7960804b6b962b45e7bf25a98b8e0401c7e2ae7adf9c026701285da13cc146471efee6ba0e29eb5bcb1431c58b8c6a580/index-${start}-${offset}.m3u8" catchup-days="120", Спортивный HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd116.iptv2022.com/p/wZSbshTXBQz3nb0MCE7M4Q,1733169614/streaming/sportivniyhd/324/1/index.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/11908/logo_256_1655389198.png" catchup-source="https://hlsarchive.iptv2022.com/f7960804b6b962b45e7be75a92a7e04a1c7e20e1adf3d6267a1485d009cc1e6471e5ee6baae29ebfbcb1490058b2d4a58a/index-${start}-${offset}.m3u8" catchup-days="120", Футбольный HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd116.iptv2022.com/p/g2KUoLyBBVc-mqHmu-Nu0g,1733169614/streaming/footbolniyhd/324/1/index.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10263/logo_256_1655389393.png" catchup-source="https://hlsarchive.iptv2022.com/f7960804b6b962b45e7bea5099a0ea411f742bfda7f8d02c71/index-${start}-${offset}.m3u8", KHL Prime
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd116.iptv2022.com/p/QF5oJm8yEw43uoEifIh7zA,1733169614/streaming/khlhd/324/1/index.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/170/logo_256_1655389371.png" catchup-source="https://hlsarchive.iptv2022.com/f7960804b6b962b45e7bea5195a0eb4d1f7527e1a6f4c22d7d/index-${start}-${offset}.m3u8", KHL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd116.iptv2022.com/p/uzNLNl1aWKJiTbeLi7ZgwQ,1733169614/streaming/khltv/324/1/index.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10310/logo_256_1655386640.png" catchup-source="https://hlsarchive.iptv2022.com/f7960804b6b962b45e7bec5190a7eb48077522faa6f1c72d780b8ed20ac71c787ae7f360a8/index-${start}-${offset}.m3u8" catchup-days="120", Моторспорт
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd116.iptv2022.com/p/K6N48XpWek9Q1FBS_PgbeQ,1733169614/streaming/motosport/324/1/index.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10151/logo_256_1658734245.png" catchup-source="https://hlsarchive.iptv2022.com/f7960804b6b962b45e7be35091a7ea49187423e6a7f0eb2c790f8fd313c61d/index-${start}-${offset}.m3u8" catchup-days="120", Бокс ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd116.iptv2022.com/p/JyPjWQ4AgtLQpHjD6mYB7g,1733169614/streaming/bokstv/324/1/index.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10145/logo_256_1660807386.png" catchup-source="https://hlsarchive.iptv2022.com/f7960804b6b962b45e7bf25091bcea49127423e7a7f0c02c79/index-${start}-${offset}.m3u8" catchup-days="168", Старт
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd116.iptv2022.com/p/5tAFsRrxM31PSlJvvMqvgg,1733169614/streaming/start/324/1/index.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10645/logo_256_1655390250.png" catchup-source="https://hlsarchive.iptv2022.com/f7960804b6b962b45e7bec5792a5ed4a127320caa0f3c02b7a0d88d0/index-${start}-${offset}.m3u8", M-1 Global
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd116.iptv2022.com/p/hBWsgnGiYAAgPnTIjTwvnQ,1733169614/streaming/m1global/324/1/index.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/16472/logo_256_1674733090.png" catchup-source="https://hlsarchive.iptv2022.com/f7960804b6b962b45e7bf25198bceb4012752ae7a6f9c02d70568eda11c714787aefee60a0ee95b58eba430e53b8/index-${start}-${offset}.m3u8" catchup-days="168", Старт Триумф
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd116.iptv2022.com/p/yMXVDFbKhDj5kEDh28Gx3Q,1733169614/streaming/start-triumf/324/1/index.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/17235/logo_256_1682688468.png" catchup-source="https://hlsarchive.iptv2022.com/f7960804b6b962b45e7be75a92a1e04a147e20fdadf3c0267a1985d00acc1e7271e5/index-${start}-${offset}.m3u8" catchup-days="72", FightBox
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd116.iptv2022.com/p/SVxM55uJTh6rTiJY-qnTlA,1733169614/streaming/fightbox/324/1/index.m3u8
 
 
 
