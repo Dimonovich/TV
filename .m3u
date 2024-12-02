@@ -38,6 +38,9 @@ http://185.50.148.2:7707/NationalGeographic/index.m3u8
 #EXTINF:-1 ,RTG HD
 http://s5.merlive.am:80/rtgtv/index.m3u8
 
+#EXTINF:-1,HDL
+http://93.189.224.24/HDL/index.m3u8
+
 #EXTINF:-1 ,Investigation Discovery
 https://stream01.vnet.am/InvestigationDiscovery/tracks-v1a2/mono.m3u8
 #EXTINF:-1 ,Большая Азия
