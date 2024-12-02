@@ -496,32 +496,6 @@ http://95.142.88.250:80/KHL_TV/index.m3u8
 
 
 
-
-#EXTINF:-1 group-title="Persik",HD Life
-http://93.189.224.24/HDL/index.m3u8
-#EXTINF:-1 group-title="Persik",365 дней
-http://93.189.224.24/365dney/index.m3u8
-#EXTINF:-1 group-title="Persik",Amedia Premium
-http://93.189.224.24/Amedia_Premium/index.m3u8
-#EXTINF:-1 group-title="Persik",TV1000
-http://93.189.224.24/TV1000/index.m3u8
-#EXTINF:-1 group-title="Persik",Ля-Минор
-http://93.189.224.24/LaMinor/index.m3u8
-#EXTINF:-1 group-title="Persik",ТНТ Music
-http://93.189.224.24/TNTMusic/index.m3u8
-#EXTINF:-1 group-title="Persik",Звезда
-http://93.189.224.24/Zvezda/index.m3u8
-#EXTINF:-1 group-title="Persik",Бокс ТВ
-http://93.189.224.24/Box/index.m3u8
-#EXTINF:-1 group-title="Persik",Футбол
-http://93.189.224.24/Football1/index.m3u8
-#EXTINF:-1 group-title="Persik",KHL
-http://93.189.224.24/KHL/index.m3u8
-#EXTINF:-1 group-title="Persik",Матч! Планета
-http://93.189.224.24/Match_planeta/index.m3u8
-
-
-
 #EXTINF:-1 group-title="Белтелеком",N/A HD
 http://86.57.198.251:8181/play/1010/index.m3u8
 #EXTINF:-1 group-title="Белтелеком",Беларусь 1 HD
