@@ -228,6 +228,18 @@ https://s83.chas.tv:8082/chas/oruzhie.stream/playlist.m3u8
 #EXTINF:-1 group-title="Час ТВ",Моя планета
 #EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
 https://s83.chas.tv:8082/chas/moyaplaneta.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Art
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+http://s83.chas.tv:8081/chas/art.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Тайна
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+http://s83.chas.tv:8081/chas/taina.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Ностальгия
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+http://s83.chas.tv:8081/chas/nostalgiya.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Ю
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+http://s83.chas.tv:8081/chas/yutv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Час ТВ",СТС HD
 #EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
 https://s83.chas.tv:8082/chas/sts-hq.stream/chunks.m3u8
