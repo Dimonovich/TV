@@ -345,22 +345,22 @@ https://s83.chas.tv:8082/chas/muztvtv-hq.stream/playlist.m3u8
 #EXTINF:-1 group-title="Час ТВ",МузТВ
 #EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
 https://s83.chas.tv:8082/chas/muztvtv.stream/playlist.m3u8
-#EXTINF:-1 group-title="Час ТВ",Шансон TB
+#EXTINF:-1 group-title="Час ТВ",Шансон ТВ
 #EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
 https://s83.chas.tv:8082/chas/shansontv.stream/playlist.m3u8
-#EXTINF:-1 group-title="Час ТВ",Bridge TV Русский хит HD
+#EXTINF:-1 group-title="Час ТВ",Bridge TV Русский хит
 #EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
 https://s83.chas.tv:8082/chas/bridgerushittv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Час ТВ",Bridge TV Hits HD
 #EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
 https://s83.chas.tv:8082/chas/bridgetvhitstv.stream/playlist.m3u8
-#EXTINF:-1 group-title="Час ТВ",Bridge TV HD
+#EXTINF:-1 group-title="Час ТВ",Bridge HD
 #EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
 https://s83.chas.tv:8082/chas/bridgetvtv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Час ТВ",Bridge TV
 #EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
 https://s83.chas.tv:8082/chas/bridge.stream/playlist.m3u8
-#EXTINF:-1 group-title="Час ТВ",Bridge TV Classic HD
+#EXTINF:-1 group-title="Час ТВ",Bridge TV Classic
 #EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
 https://s83.chas.tv:8082/chas/bridgeclassictv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Час ТВ",ТНТ Music HD
