@@ -155,6 +155,253 @@ http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1920x1080@4504/playl
 
 
 
+
+
+
+
+#EXTINF:-1 group-title="Час ТВ",Первый канал FHD
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/pervkanal.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Первый канал HD
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/pervyitv-hq.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Первый канал
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/pervyitv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Первый канал
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/pervyib.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Россия 1 HD
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/rossiya1-hq.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Россия 1
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/rossiya1.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Россия РТР
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/rtrpl.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",НТВ HD
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/ntvtv-hq.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",НТВ
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/ntvtv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Рен ТВ HD
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/rentv-hq.stream/chunks.m3u8
+#EXTINF:-1 group-title="Час ТВ",Рен ТВ
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/rentv.stream/chunks.m3u8
+#EXTINF:-1 group-title="Час ТВ",ТНТ HD
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/tnttv-hq.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",ТНТ
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/tnttv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Россия К
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/rossiyak.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",ТНТ4 HD
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/fourtv-hq.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",ТНТ4 HD
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/comedytv-hq.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",ТНТ4
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/fourtv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Россия 24
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/rossiya24-hq.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Москва 24
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/m24tv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Охота и рыбалка
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/ohota.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Охотник и рыболов
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/rybalka.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Оружие
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/oruzhie.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Моя планета
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/moyaplaneta.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",СТС HD
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/sts-hq.stream/chunks.m3u8
+#EXTINF:-1 group-title="Час ТВ",СТС
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/sts.stream/chunks.m3u8
+#EXTINF:-1 group-title="Час ТВ",Пятый канал
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/pyatyi-hq.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",ТВЦ HD
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/tvc-hq.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",ТВЦ
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/tvc.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Пятница HD
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/pyatnicatv-hq.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Пятница
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/pyatnicatv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Суббота HD
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/supertv-hq.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Суббота
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/supertv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",ТВ3 HD
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/tvtri-hq.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",ТВ3
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/tvtritv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Домашний HD
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/domashniy-hq.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Домашний
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/domashniy.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",ОТР HD
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/otrtv-hq.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",ОТР
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/otrtv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",360 Подмосковье
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/tristatv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Перец
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/perec-hq.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Перец International
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/perec.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",СТС Love
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/stslove.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",2x2
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/dvatv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Кухня ТВ
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/kuhnya.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Драйв
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/drive.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Авто плюс
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/auto.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Классика кино
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/kkino.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",КиноСезон HD
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/kinosezon.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Русский иллюзион
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/rusillyuzion.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Иллюзион+
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/illyuzionpl.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",НСТ
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/nst.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Индийское кино
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/indiya.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Кинокомедия
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/komediya.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",RT HD
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/rttv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Euronews HD
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/euronewstv-hq.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Euronews
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/euronewstv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",РБК
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/rbktv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Соловьев Live
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/sollive.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Iнтер
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/inter.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",RU.TV
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/rutv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Муз ТВ HD
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/muztvtv-hq.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",МузТВ
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/muztvtv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Шансон TB
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/shansontv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Bridge TV Русский хит HD
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/bridgerushittv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Bridge TV Hits HD
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/bridgetvhitstv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Bridge TV HD
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/bridgetvtv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Bridge TV
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/bridge.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Bridge TV Classic HD
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/bridgeclassictv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",ТНТ Music HD
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/tntmusictv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Europa Plus TV
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/europe.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Музыка Первого
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/muzika.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Ля-минор
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/lyaminor.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Карусель
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/karuseltv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Солнце
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/disneytv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Радость моя
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/radosttv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Матч!
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/matchtv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Матч! HD
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/rossiya2-hq.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",Матч! Боец
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/boec.stream/playlist.m3u8
+#EXTINF:-1 group-title="Час ТВ",КХЛ
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/khl.stream/playlist.m3u8
+
+
+
+
+
+
 #EXTINF:-1 group-title="Bite Lietuva" ,Первый HD
 http://213.226.137.140:81/tl/l46/mpegts
 #EXTINF:-1 group-title="Bite Lietuva" ,НТВ HD
