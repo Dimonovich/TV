@@ -29,9 +29,6 @@ https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 ,ТНТ HD
 http://193.242.190.6:8099/19/index.m3u8
 
-#EXTINF:-1 ,ТНТ4
-http://tv.mediacdn.ru/live/tnt4/playlist.m3u8
-
 #EXTINF:-1 ,TERRA
 http://185.50.148.2:7707/NationalGeographic/index.m3u8
 
@@ -253,9 +250,6 @@ http://serv30.vintera.tv:8081/sochi/sochi_stream/chunks.m3u8
 
 #EXTINF:-1 ,СТС
 http://193.242.190.6:8099/13/index.m3u8
-
-#EXTINF:-1 ,Ю
-http://edge02.odtv.az/o3/utv/playlist.m3u8
 
 #EXTINF:-1 ,МИР PREMIUM
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
