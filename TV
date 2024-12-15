@@ -71,6 +71,10 @@ http://194.158.218.123:8880/Retrotv/index.m3u8
 http://194.158.218.123:8880/Usadba/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Здоровое ТВ
 http://194.158.218.123:8880/ZdorovoeTV/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Club MTV
+https://cdn3.troya.one/ch031/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iDb3jTvlD6Y9XiGpukfbd2jkXhcpspyxBieUM2r7MIdU
+#EXTINF:-1 group-title="TEST ⓵",MTV Hits
+https://cdn3.troya.one/ch019/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJ2usPerTAqdrQs0mAAjXiyGeD9FK1NECOMDPrJU_Rki&rand=0.9130870343396398
 #EXTINF:-1 group-title="TEST ⓵",MTV
 http://fl5.moveonjoy.com/MTV/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵" ,CGTN русский
