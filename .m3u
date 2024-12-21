@@ -102,6 +102,15 @@ http://193.242.190.6:8099/204/index.m3u8
 http://s5.merlive.am:80/Amedia1/index.m3u8
 
 
+#EXTINF:-1 ,Sunset Music
+https://stream.sunset-media.ru:443/AfBrazXsUK/J9hGT3vYuv/2.m3u8
+#EXTINF:-1 ,Sunset Space
+https://stream.sunset-media.ru:443/AfBrazXsUK/J9hGT3vYuv/3.m3u8
+#EXTINF:-1 ,Sunset Kids
+https://stream.sunset-media.ru:443/AfBrazXsUK/J9hGT3vYuv/5.m3u8
+
+
+
 #EXTINF:-1,Кинопремьера HD
 https://mhd116.iptv2022.com/p/TFaSF5t8Z3c_XN0K0LJ9Ng,1734814809/streaming/film-premiere/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1,Киносемья
