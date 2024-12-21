@@ -1211,8 +1211,8 @@ http://185.23.80.28:8080/START/index.m3u8?token=test
 
 
 
-
-
+#EXTINF:-1 group-title="Армения S1",Первый канал
+http://s5.merlive.am:80/pervyj/index.m3u8
 #EXTINF:-1 group-title="Армения S1",Россия 1
 http://s5.merlive.am:80/Rossia1/index.m3u8
 #EXTINF:-1 group-title="Армения S1",НТВ-Мир
@@ -1221,6 +1221,8 @@ http://s5.merlive.am:80/NTVMir/index.m3u8
 http://s5.merlive.am:80/ntvpravo/index.m3u8
 #EXTINF:-1 group-title="Армения S1",НТВ СТИЛЬ
 http://s5.merlive.am:80/ntvstil/index.m3u8
+#EXTINF:-1 group-title="Армения S1",НТВ Сериал
+http://s5.merlive.am:80/NTVSerial/index.m3u8
 #EXTINF:-1 group-title="Армения S1",НТВ Хит
 http://s5.merlive.am:80/ntvxit/index.m3u8
 #EXTINF:-1 group-title="Армения S1",НТВ HD
@@ -1249,6 +1251,8 @@ http://s5.merlive.am:80/Sci-Fi/index.m3u8
 http://s5.merlive.am:80/kineko/index.m3u8
 #EXTINF:-1 group-title="Армения S1",Amedia 1
 http://s5.merlive.am:80/Amedia1/index.m3u8
+#EXTINF:-1 group-title="Армения S1",Amedia 2
+http://s5.merlive.am:80/A2/index.m3u8
 #EXTINF:-1 group-title="Армения S1",Bollywood HD
 http://s5.merlive.am:80/Bollywood/index.m3u8
 #EXTINF:-1 group-title="Армения S1",Дом Кино
@@ -1285,6 +1289,10 @@ http://s5.merlive.am:80/Radostmoya/index.m3u8
 http://s5.merlive.am:80/solnce/index.m3u8
 #EXTINF:-1 group-title="Армения S1",Mezzo
 http://s5.merlive.am:80/Mezzo/index.m3u8
+#EXTINF:-1 group-title="Армения S1",Bridge TV Hits
+http://s5.merlive.am:80/BRIDGETV/index.m3u8
+#EXTINF:-1 group-title="Армения S1",9 волна
+http://s5.merlive.am:80/9volna/index.m3u8
 #EXTINF:-1 group-title="Армения S1",ТНТ music
 http://s5.merlive.am:80/TNTMusic/index.m3u8
 #EXTINF:-1 group-title="Армения S1",МузТВ
@@ -1295,6 +1303,8 @@ http://s5.merlive.am:80/matchpremier/index.m3u8
 http://s5.merlive.am:80/eurosport1/index.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Eurosport 2
 http://s5.merlive.am:80/eurosport2/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Бокс ТВ
+http://s5.merlive.am:80/BoxTV/index.m3u8
 
 
 
