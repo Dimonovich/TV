@@ -225,3 +225,6 @@ http://iptv-hls.idc.md:8200/hls/77/live1.m3u8
 #EXTINF:-1 ,IMPACT! Wrestling
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
+
+#EXTINF:-1 ,тест
+http://194.26.229.4:4444/channel/4d620bad/index.m3u8?q=2de1b979c58c57752726e1cc6203bf5b
