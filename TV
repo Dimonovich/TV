@@ -161,8 +161,18 @@ http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1920x1080@4504/playl
 
 
 
+
+
 #EXTINF:-1 group-title="TaurerMedia",Tau1
 http://europe1-hls-cluster01-inter.onairtv.org:80/zuce8raZdp/EXTmgfncgt/1.m3u8
+#EXTINF:-1 group-title="TaurerMedia",alpha Cinema
+https://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
+#EXTINF:-1 group-title="TaurerMedia",alpha Funny
+https://live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781.m3u8
+#EXTINF:-1 group-title="TaurerMedia",alpha Games
+https://live.15plusmg.ru/memfs/24fdf856-77f9-4af5-aa76-ae6cd77896f2.m3u8
+#EXTINF:-1 group-title="TaurerMedia",alpha Moretime
+https://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
 #EXTINF:-1 tvg-logo="http://europe1-hls-cluster01-inter.onairtv.org:80/images/GcDgugVI-TfhTXNJd4LLye7WVi_vJhlCAIP51naQnFuU0zr0dMyr2TmIhfArfxKM.png" group-title="TaurerMedia",Wonder Teens FHD
 http://europe1-hls-cluster01-inter.onairtv.org:80/zuce8raZdp/EXTmgfncgt/6.m3u8
 #EXTINF:-1 tvg-logo="http://europe1-hls-cluster01-inter.onairtv.org:80/images/GcDgugVI-TfhTXNJd4LLyZ1jGH5Scdn-Nw82_XKD1WFF6fIFNvJjq_Rq2gs_8iLK.png" group-title="TaurerMedia",Wonder Junior FHD
