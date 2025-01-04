@@ -59,10 +59,6 @@ http://95.67.12.89:9034
 http://95.67.12.82:9088
 #EXTINF:-1 group-title="TEST ⓵",Gags Network HD
 http://95.67.12.82:9069
-#EXTINF:-1 group-title="TEST ⓵",Kinosweet HD
-http://95.67.12.180:11111
-#EXTINF:-1 group-title="TEST ⓵",Flix Snip
-http://95.67.12.82:9061
 #EXTINF:-1 group-title="TEST ⓵",Дорама
 http://95.67.12.82:9046
 #EXTINF:-1 group-title="TEST ⓵", Kinokazka
@@ -1730,127 +1726,6 @@ https://stream1.cinerama.uz/1422/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Turon Media", Eurosport 1
 https://stream1.cinerama.uz/1439/tracks-v1a1/mono.m3u8
 
-
-
-
-#EXTINF:-1 group-title="Rtmp",National Geographic HD
-rtmp://5.182.229.90//7320
-#EXTINF:-1 group-title="Rtmp",Моя Стихия
-rtmp://5.182.229.90//7349
-#EXTINF:-1 group-title="Rtmp",Зал Суда
-rtmp://5.182.229.90//7141
-#EXTINF:-1 group-title="Rtmp",Gags Network
-rtmp://5.182.229.90//7142
-#EXTINF:-1 group-title="Rtmp",Премиальное HD
-rtmp://5.182.229.90//7222
-#EXTINF:-1 group-title="Rtmp",Киносемья HD
-rtmp://5.182.229.90//7244
-#EXTINF:-1 group-title="Rtmp",Киносвидание HD
-rtmp://5.182.229.90//7245
-#EXTINF:-1 group-title="Rtmp",Museum TV HD
-rtmp://5.182.229.90//7246
-#EXTINF:-1 group-title="Rtmp",Кинокомедия HD
-rtmp://5.182.229.90//7248
-#EXTINF:-1 group-title="Rtmp",Страшное HD
-rtmp://5.182.229.90//7247
-#EXTINF:-1 group-title="Rtmp",Киномикс HD
-rtmp://5.182.229.90//7249
-#EXTINF:-1 group-title="Rtmp",Кинохит HD
-rtmp://5.182.229.90//7250
-#EXTINF:-1 group-title="Rtmp",Kinojam 1
-rtmp://5.182.229.90//7260
-#EXTINF:-1 group-title="Rtmp",Kinojam 2
-rtmp://5.182.229.90//7261
-#EXTINF:-1 group-title="Rtmp",FOX HD
-rtmp://5.182.229.90//7318
-#EXTINF:-1 group-title="Rtmp",Загородная Жизнь
-rtmp://5.182.229.90//7348
-#EXTINF:-1 group-title="Rtmp",Мосфильм. Золотая коллекция
-rtmp://5.182.229.90//7347
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Setanta Sports 1
-rtmp://5.182.229.90//7169
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Setanta Sports 2
-rtmp://5.182.229.90//7168
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Eurosport 2
-rtmp://5.182.229.90//7203
-
-
-
-
-
-
-#EXTINF:-1  group-title="RTMP_2",Первый канал Евразия
-rtmp://92.119.88.58//2212
-#EXTINF:-1  group-title="RTMP_2",National Geographic
-rtmp://92.119.88.58//2336
-#EXTINF:-1  group-title="RTMP_2",Туризм 365
-rtmp://92.119.88.58//2241
-#EXTINF:-1  group-title="RTMP_2",РБК
-rtmp://92.119.88.58//2404
-#EXTINF:-1  group-title="RTMP_2",Рыболов
-rtmp://92.119.88.58//2394
-#EXTINF:-1  group-title="RTMP_2",Astana TV
-rtmp://92.119.88.58//2214
-#EXTINF:-1  group-title="RTMP_2",Jibek Joly
-rtmp://92.119.88.58//2215
-#EXTINF:-1  group-title="RTMP_2",5 канал KZ
-rtmp://92.119.88.58//2221
-#EXTINF:-1  group-title="RTMP_2",24KZ
-rtmp://92.119.88.58//2225
-#EXTINF:-1  group-title="RTMP_2",Gakku
-rtmp://92.119.88.58//2228
-#EXTINF:-1  group-title="RTMP_2",Sinamo TV HD
-rtmp://92.119.88.58//2231
-#EXTINF:-1  group-title="RTMP_2",Точикистон
-rtmp://92.119.88.58//2232
-#EXTINF:-1  group-title="RTMP_2",ТВБ
-rtmp://92.119.88.58//2234
-#EXTINF:-1  group-title="RTMP_2",Ozbekiston
-rtmp://92.119.88.58//2236
-#EXTINF:-1  group-title="RTMP_2",Yoshlar
-rtmp://92.119.88.58//2237
-#EXTINF:-1  group-title="RTMP_2",Toshkent
-rtmp://92.119.88.58//2238
-#EXTINF:-1  group-title="RTMP_2",Madaniyat va Ma'rifat UZ
-rtmp://92.119.88.58//2240
-#EXTINF:-1  group-title="RTMP_2",Bolajon
-rtmp://92.119.88.58//2242
-#EXTINF:-1  group-title="RTMP_2",Navo
-rtmp://92.119.88.58//2243
-#EXTINF:-1  group-title="RTMP_2",Uzbekistan 24
-rtmp://92.119.88.58//2246
-#EXTINF:-1  group-title="RTMP_2",Food Network HD
-rtmp://92.119.88.58//2419
-#EXTINF:-1  group-title="RTMP_2",Shant Kids HD
-rtmp://92.119.88.58//2401
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Sport UZ HD
-rtmp://92.119.88.58//2239
-#EXTINF:-1 group-title="Спорткомплекс 🏆",KHL HD
-rtmp://92.119.88.58//2403
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Футбол 1 HD
-rtmp://92.119.88.58//2407
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Футбол 3 HD
-rtmp://92.119.88.58//2408
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Setanta Ukraine HD
-rtmp://92.119.88.58//272
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Setanta Sports 2 HD
-rtmp://92.119.88.58//270
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Setanta Sports 1 HD
-rtmp://92.119.88.58//271
-#EXTINF:-1 group-title="Спорткомплекс 🏆",ONE 1 HD IL
-rtmp://92.119.88.58//2340
-#EXTINF:-1 group-title="Спорткомплекс 🏆",SPORT 2 HD IL
-rtmp://92.119.88.58//2352
-#EXTINF:-1 group-title="Спорткомплекс 🏆",SPORT 5 LIVE HD IL
-rtmp://92.119.88.58//2362
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Channel 9 IL
-rtmp://92.119.88.58//2374
-#EXTINF:-1 group-title="Спорткомплекс 🏆",SPORT 3 HD IL
-rtmp://92.119.88.58//2388
-#EXTINF:-1 group-title="Спорткомплекс 🏆",SPORT 4 HD IL
-rtmp://92.119.88.58//2389
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Sport 5 Stars HD IL
-rtmp://92.119.88.58//2391
 
 
 
