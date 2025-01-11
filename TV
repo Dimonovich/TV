@@ -37,6 +37,12 @@ https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-
 https://132544.edgevideo.ru/streams/132544_839765/1325441080/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵", Видеокассета VHS
 https://132544.edgevideo.ru/streams/132544_806129/1325441080/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/rmGxq8Ls/1.jpg",Осторожно модерн
+https://132544.edgevideo.ru/streams/132544_715410/132544720/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/rmGxq8Ls/1.jpg",Осторожно модерн 2
+https://132544.edgevideo.ru/streams/132544_702992/132544720/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Viva HD
+https://132544.edgevideo.ru/streams/132544_713325/1325441080/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵",IPTVPLAY ФАНТАСТИКА HD
 http://92.53.64.197:5050/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 group-title="TEST ⓵",IPTVPLAY ПАМЯТЬ HD
@@ -92,7 +98,7 @@ https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 #EXTINF:-1 group-title="TEST ⓵"  tvg-id="fashion-one-4k" tvg-logo="http://epg.it999.ru/img/2748.png",Fashion TV UHD
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="http://epg.it999.ru/img/2801.png",Love Nature 4k
-https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://d1w9tvfspbvyah.cloudfront.net/wp-content/uploads/2020/06/logo-new-big.png",IMPACT! Wrestling
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
@@ -144,12 +150,6 @@ http://185.46.48.18:80/disney/tracks-v1a1/mono.m3u8
 https://strm.yandex.ru/kal/tiji_belarus/tiji_belarus0.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",МАТЧ ТВ
 http://185.46.48.18:80/match/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://i.postimg.cc/rmGxq8Ls/1.jpg",Осторожно модерн
-https://132544.edgevideo.ru/streams/132544_715410/132544720/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://i.postimg.cc/rmGxq8Ls/1.jpg",Осторожно модерн 2
-https://132544.edgevideo.ru/streams/132544_702992/132544720/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",Viva HD
-https://132544.edgevideo.ru/streams/132544_713325/1325441080/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://i.postimg.cc/HsvGnLG9/1.jpg",Dancehits 80
 http://dancehits80.denvs.ru:8080/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)" tvg-logo="http://epg.it999.ru/img2/5441.png",ТВОЕ ТВ HD
