@@ -1,6 +1,6 @@
 ﻿#EXTM3U
 
-#EXTINF:-1 group-title="🔺 INFO 🔺" tvg-logo="https://i.postimg.cc/50Wp1JKc/433d83f7e481f35245f8c6bb7c7591d8.gif",15.01.2025
+#EXTINF:-1 group-title="🔺 INFO 🔺" tvg-logo="https://i.postimg.cc/50Wp1JKc/433d83f7e481f35245f8c6bb7c7591d8.gif",17.01.2025
 http://194.26.229.213/zastavka/index.m3u8
 #EXTINF:-1 group-title="🔺 INFO 🔺" tvg-logo="https://i.postimg.cc/jjkkG8Pc/Imagem-Telegram-Logo-PNG-Preto.png",Android TV + Free TV
 http://194.26.229.213/intro/index.m3u8
@@ -1018,18 +1018,6 @@ https://vod.plvideo.ru/xdhKhqAx/CZjqmtgIIH/zE2SWKS9rfYWarrdGbz/ZX
 https://vod.plvideo.ru/FbZEopwh/CZjqmtgIIH/5jktNnXoUDvedOxZblB/ZX
 #EXTINF:-1 group-title="4K - No Televizo" tvg-logo="https://i.postimg.cc/FH6m8kSR/1.jpg",Матрица: Воскрешение (2021)
 https://vod.plvideo.ru/JLxVTeJD/0GRdptsjAb/5jktNnXbS1RsZpnHGmj/ZX
-#EXTINF:-1 group-title="4K - No Televizo" tvg-logo="https://i.postimg.cc/FH6m8kSR/1.jpg",Обитель зла (2002)
-https://vod.plvideo.ru/xdhKhqAx/0GRdptsjAb/5jktNnXhv9CGKnzAZmk/ZX
-#EXTINF:-1 group-title="4K - No Televizo" tvg-logo="https://i.postimg.cc/FH6m8kSR/1.jpg",Обитель зла 2: Апокалипсис (2004)
-https://vod.plvideo.ru/GMPb65uk/0GRdptsjAb/5jktNnXL32yJpGzJCOs/ZX
-#EXTINF:-1 group-title="4K - No Televizo" tvg-logo="https://i.postimg.cc/FH6m8kSR/1.jpg",Обитель зла 3 (2007)
-https://vod.plvideo.ru/FbZEopwh/0GRdptsjAb/5jktNnXIz7zmgrYZV6j/ZX
-#EXTINF:-1 group-title="4K - No Televizo" tvg-logo="https://i.postimg.cc/FH6m8kSR/1.jpg",Обитель зла 4: Жизнь после смерти (2010)
-https://vod.plvideo.ru/xdhKhqAx/0GRdptsjAb/zE2SWKSl1Ia6NicTYfG/ZX
-#EXTINF:-1 group-title="4K - No Televizo" tvg-logo="https://i.postimg.cc/FH6m8kSR/1.jpg",Обитель зла: Возмездие (2012)
-https://vod.plvideo.ru/FbZEopwh/0GRdptsjAb/5jktNnXJOU6V1T3yBDs/ZX
-#EXTINF:-1 group-title="4K - No Televizo" tvg-logo="https://i.postimg.cc/FH6m8kSR/1.jpg",Обитель зла: Последняя глава (2016)
-https://vod.plvideo.ru/JLxVTeJD/0GRdptsjAb/5jktNnX4vvAtJbUfqFY/ZX
 #EXTINF:-1 group-title="4K - No Televizo" tvg-logo="https://i.postimg.cc/FH6m8kSR/1.jpg",Индиана Джонс: В поисках утраченного ковчега (1981)
 https://vod.plvideo.ru/xdhKhqAx/oUYaYhn1uR/zE2SWKSnBTu9cfLTEHJ/ZX
 #EXTINF:-1 group-title="4K - No Televizo" tvg-logo="https://i.postimg.cc/FH6m8kSR/1.jpg",Индиана Джонс и Храм судьбы (1984)
@@ -1046,6 +1034,9 @@ https://vod.plvideo.ru/FbZEopwh/oUYaYhn1uR/5jktNnXDUCGkZpEubis/ZX
 
 
 
+
+#EXTINF:-1 group-title="VHS-RIP" tvg-logo="https://i.postimg.cc/W1V865z6/1.jpg",Неопознанные (Триллер 1996) А.Кашкин
+https://vod.plvideo.ru/xdhKhqAx/uknUrzHzQA/FP7MRNS6Iy7EU5gPqIV/ZX
 #EXTINF:-1 group-title="VHS-RIP" tvg-logo="https://i.postimg.cc/W1V865z6/1.jpg",52 тысячи (Криминал 1986) А.Михалёв
 https://vod.plvideo.ru/xdhKhqAx/uknUrzHzQA/FP7MRNSr0SMY04HdBaC/ZX
 #EXTINF:-1 group-title="VHS-RIP" tvg-logo="https://i.postimg.cc/W1V865z6/1.jpg",Американский якудза (Боевик 1993) А.Гаврилов
