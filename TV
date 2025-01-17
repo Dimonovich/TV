@@ -110,14 +110,10 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
 #EXTINF:-1 group-title="TEST (VPN)" tvg-logo="http://194.26.229.4/live/pda.png",OnlineTV
 http://185.221.213.254:8080/Okko/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",Тайна
-https://tochkatv-live.cdnvideo.ru/tochkatv_pub/tainatv.stream_aac.smil/tracks-v1a1/mono.m3u8?hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 group-title="TEST (VPN)",TVMChannel
 http://cdn-01.bonus-tv.ru:80/tvm_edge/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",8 канал
 http://cdn-01.bonus-tv.ru:80/8kanal/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",Девятая Волна
-http://cdn-01.bonus-tv.ru:80/9volna/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",Калейдоскоп ТВ
 http://cdn-01.bonus-tv.ru:80/Kaleidoskop_edge/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",Крик-ТВ
@@ -146,10 +142,6 @@ http://185.46.48.18:80/asvtv/index.m3u8
 http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",Осетия Иристон
 http://185.46.48.18:80/iriston/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",Солнце
-http://185.46.48.18:80/disney/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="TEST (VPN)" catchup="append" catchup-days="7" catchup-source="?start=${start}&end=${end}",Tiji
-https://strm.yandex.ru/kal/tiji_belarus/tiji_belarus0.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",МАТЧ ТВ
 http://185.46.48.18:80/match/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://i.postimg.cc/HsvGnLG9/1.jpg",Dancehits 80
@@ -9162,16 +9154,6 @@ https://hls.goodgame.ru/hls/40782.m3u8
 
 #EXTINF:-1 group-title="Спорткомплекс 🏆" ,Матч! HD
 https://livetv.mylifeisgood.net.ru/channels/matchhd_nocensored.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆" catchup="append" catchup-days="7" catchup-source="?start=${start}&end=${end}" ,Удар
-https://strm.yandex.ru/kal/udar/udar0.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆" catchup="append" catchup-days="7" catchup-source="?start=${start}&end=${end}" ,Матч! Планета
-https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆" catchup="append" catchup-days="7" catchup-source="?start=${start}&end=${end}" ,Футбол
-https://strm.yandex.ru/kal/futbol_belarus/futbol_belarus0.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆" catchup="append" catchup-days="7" catchup-source="?start=${start}&end=${end}" ,KHL
-https://strm.yandex.ru/kal/khl_belarus/khl_belarus0.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆" catchup="append" catchup-days="7" catchup-source="?start=${start}&end=${end}" ,KHL Prime
-https://strm.yandex.ru/kal/khl_prime_belarus/khl_prime_belarus0.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-id="2051", Матч! HD
 http://94.230.240.17:8080/machtv/index.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-id="belarus5-inet" ,Беларусь 5
