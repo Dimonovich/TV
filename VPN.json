@@ -46,6 +46,21 @@
     "udpdns": false
   },
   {
+    "server": "51.75.162.200",
+    "server_port": 8443,
+    "password": "KGyyCe5urvT1R3k4N9ZGio/J0lneRM9+MtpN7ad3yLY=",
+    "method": "aes-256-gcm",
+    "remarks": "🇬🇧 Великобритания (Android TV + Free TV)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },  
+  {
     "server": "141.94.115.231",
     "server_port": 8443,
     "password": "c814340b-34de-4ea9-9d21-8d3804b0eb2a",
