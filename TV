@@ -372,6 +372,12 @@ http://s7.merlive.am/pervyj/index.m3u8
 http://s7.merlive.am/RENTV/index.m3u8
 #EXTINF:-1 group-title="Merlive",Россия 24
 http://s7.merlive.am/Rossia24/index.m3u8
+#EXTINF:-1 group-title="Merlive",Россия 1
+http://s7.merlive.am/Rossia1/index.m3u8
+#EXTINF:-1 group-title="Merlive",Россия РТР 
+http://s7.merlive.am/RTRPlaneta/index.m3u8
+#EXTINF:-1 group-title="Merlive",Россия К 
+http://s7.merlive.am/RossiaKultura/index.m3u8
 #EXTINF:-1 group-title="Merlive",ТНТ4
 http://s7.merlive.am/TNT4/index.m3u8
 #EXTINF:-1 group-title="Merlive",ТНТ HD
@@ -410,6 +416,12 @@ http://s7.merlive.am/Amedia1/index.m3u8
 http://s7.merlive.am/A2/index.m3u8
 #EXTINF:-1 group-title="Merlive",Авто 24
 http://s7.merlive.am/avto24/index.m3u8
+#EXTINF:-1 group-title="Merlive",Ю
+http://s7.merlive.am/U-TV/index.m3u8
+#EXTINF:-1 group-title="Merlive",Мир
+http://s7.merlive.am/Mir/index.m3u8
+#EXTINF:-1 group-title="Merlive",8 канал 
+http://s7.merlive.am:80/8Kanal/index.m3u8
 #EXTINF:-1 group-title="Merlive",Че
 http://s7.merlive.am/Che/index.m3u8
 #EXTINF:-1 group-title="Merlive",Дом кино
