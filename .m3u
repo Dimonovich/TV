@@ -89,6 +89,9 @@ http://86.57.198.251:8181/play/1013/index.m3u8
 #EXTINF:-1 ,TV1000 Русское кино
 http://86.57.198.251:8181/play/1015/index.m3u8
 
+#EXTINF:-1 ,Fan HD
+http://77.239.125.42:8070/@Dimonovich1982_fanhd/index.m3u8
+
 
 #EXTINF:-1 ,A1
 http://s5.merlive.am:80/Amedia1/index.m3u8
@@ -203,13 +206,6 @@ http://95.67.12.82:9067
 
 #EXTINF:-1 ,Eurosport 1 HD
 http://45.132.87.69:8080/eurosport1/index.m3u8
-
-
-
-
-
-
-
 
 #EXTINF:-1 ,Удар HD
 https://strm.yandex.ru/kal/udar/udar0.m3u8
