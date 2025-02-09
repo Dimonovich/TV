@@ -5,13 +5,8 @@ https://d2dw21aq0j0l5c.cloudfront.net/playlist_1920x1080.m3u8
 #EXTINF:-1 ,Первый HD
 https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 
-#EXTINF:-1 ,Россия 1 HD
-http://s5.merlive.am:80/Rossia1/index.m3u8
-
 #EXTINF:-1 ,РОССИЯ К
 http://194.158.222.36:6037/
-#EXTINF:-1 ,Россия 24
-https://flussonic.salomtv.uz/Rossiya24/video.m3u8
 
 #EXTINF:-1 ,Неизвестная Россия
 https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
@@ -32,9 +27,6 @@ http://193.242.190.6:8099/19/index.m3u8
 #EXTINF:-1 ,TERRA
 http://185.50.148.2:7707/NationalGeographic/index.m3u8
 
-#EXTINF:-1 ,RTG HD
-http://s5.merlive.am:80/rtgtv/index.m3u8
-
 #EXTINF:-1 ,Investigation Discovery
 https://stream01.vnet.am/InvestigationDiscovery/tracks-v1a2/mono.m3u8
 #EXTINF:-1 ,Большая Азия
@@ -53,9 +45,6 @@ http://31.184.197.124/home_hd/mono.m3u8
 #EXTINF:-1 ,Живая природа
 http://185.23.80.28:8080/ZhivayaPriroda_HD/index.m3u8
 
-#EXTINF:-1 ,Т24
-https://stream1.cinerama.uz/1037/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 ,CGTN Русский
 https://english-livetx.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802_hd.m3u8
 
@@ -71,17 +60,9 @@ http://109.200.130.123:7537/play/a025
 https://stream01.vnet.am/AnimalPlanet/index.m3u8
 #EXTINF:-1 ,Discovery Channel
 https://stream01.vnet.am/DiscoveryChannel/index.m3u8
-#EXTINF:-1 ,National geographic
-http://s5.merlive.am:80/NationalGeographic/index.m3u8
 
 #EXTINF:-1,History HD
 http://45.159.74.14/Channel_123/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 ,viju History
-http://86.57.198.251:8181/play/1017/index.m3u8
-
-#EXTINF:-1 ,Viasat Nature HD
-http://86.57.198.251:8181/play/1018/index.m3u8
 
 #EXTINF:-1 , Русский Экстрим
 http://77.239.125.42:8070/@Dimonovich1982_chrussianextremehd/index.m3u8
@@ -294,22 +275,12 @@ http://77.239.125.42:8070/@Dimonovich1982_chsongtvarmhd/index.m3u8
 #EXTINF:-1 ,SONGTV Russia
 http://77.239.125.42:8070/@Dimonovich1982_chsongtvrushd/index.m3u8
 
-#EXTINF:-1 ,Домашний
-https://flussonic.salomtv.uz/Domashniy/video.m3u8
-#EXTINF:-1 ,ТВ3
-https://flussonic.salomtv.uz/TV3/video.m3u8
-
 #EXTINF:-1 ,Мама
 http://stv.mediacdn.ru/live/cdn/mama/playlist_sdhigh.m3u8
 #EXTINF:-1 ,Ani
 http://stv.mediacdn.ru/live/cdn/ani/playlist_sdhigh.m3u8
 #EXTINF:-1 ,Мульт
 https://stv.mediacdn.ru/live/cdn/mult/playlist_hdhigh.m3u8
-#EXTINF:-1 ,Солнце
-https://tv.mediacdn.ru/live/disney/playlist_3000k.m3u8
-
-#EXTINF:-1 ,Tiji
-https://strm.yandex.ru/kal/tiji_belarus/tiji_belarus0.m3u8
 
 #EXTINF:-1 ,СоюзМультфильм
 http://194.26.229.213/souzmultfilm/index.m3u8
@@ -343,9 +314,6 @@ http://194.26.229.213/chdtv_ru_rock/index.m3u8
 #EXTINF:-1 ,CHD-TV Rock
 http://194.26.229.213/chdtv_rock/index.m3u8
 
-#EXTINF:-1 ,VIVA Russia
-https://ipv4.bozztv.com/ssh101/ssh101/vivarussia/playlist.m3u8
-
 #EXTINF:-1 ,RU.TV
 https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 #EXTINF:-1 ,Шансон ТВ
@@ -366,22 +334,8 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 #EXTINF:-1 ,Love Nature 4k
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
 
-#EXTINF:-1 ,Беларусь 5
-https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8
-
 #EXTINF:-1 ,Trace Sport Stars
 http://95.67.12.82:9067
-
-#EXTINF:-1 ,Eurosport 1 HD
-http://45.132.87.69:8080/eurosport1/index.m3u8
-
-#EXTINF:-1 ,Удар HD
-https://strm.yandex.ru/kal/udar/udar0.m3u8
-#EXTINF:-1 ,Матч! Планета
-https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
-
-#EXTINF:-1 ,Viasat Sport
-http://86.57.198.251:8181/play/1051/index.m3u8
 
 #EXTINF:-1 ,Телеканал Футбол
 http://iptv-hls.idc.md:8200/hls/77/live1.m3u8
@@ -389,6 +343,3 @@ http://iptv-hls.idc.md:8200/hls/77/live1.m3u8
 #EXTINF:-1 ,IMPACT! Wrestling
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
-
-#EXTINF:-1 ,тест
-http://live.admuspeh.my/8010/index.m3u8?token=4gPHp5ZVYqDAR4oz
