@@ -56,10 +56,18 @@ https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 ,История
 http://109.200.130.123:7537/play/a025
-#EXTINF:-1 ,Animal Planet
-https://stream01.vnet.am/AnimalPlanet/index.m3u8
-#EXTINF:-1 ,Discovery Channel
-https://stream01.vnet.am/DiscoveryChannel/index.m3u8
+
+
+#EXTINF:6 ,Animal Planet
+http://77.239.125.42:8070/discovry_animalplanet/index.m3u8
+#EXTINF:8 ,Discovery
+http://77.239.125.42:8070/discovry_discoverychannel/index.m3u8
+#EXTINF:9 ,Discovery Science
+http://77.239.125.42:8070/discovry_discoveryscience/index.m3u8
+#EXTINF:10 ,Nat Geo Wild
+http://77.239.125.42:8070/discovry_natgeo/index.m3u8
+#EXTINF:11 ,TLC HD
+http://77.239.125.42:8070/discovry_tlc/index.m3u8
 
 #EXTINF:-1,History HD
 http://45.159.74.14/Channel_123/tracks-v1a1/mono.m3u8
