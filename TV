@@ -2059,6 +2059,8 @@ http://185.50.148.2:7703/ViasatHistory/index.m3u8
 http://185.50.148.2:7703/ViasatNature/index.m3u8
 #EXTINF:-1 group-title="ANDIAL-NET (VPN)",Viasat Explore
 http://185.50.148.2:7703/ViasatExplorer/index.m3u8
+#EXTINF:-1 group-title="ANDIAL-NET (VPN)",Дикий
+http://185.50.148.2:7711/Dikiy/index.m3u8
 #EXTINF:-1 group-title="ANDIAL-NET (VPN)",Big Planet
 http://185.50.148.2:7703/BigPlanet/index.m3u8
 #EXTINF:-1 group-title="ANDIAL-NET (VPN)",.Sci-Fi
@@ -2071,6 +2073,20 @@ http://185.50.148.2:7703/TV1000/index.m3u8
 http://185.50.148.2:7703/TV1000Action/index.m3u8
 #EXTINF:-1 group-title="ANDIAL-NET (VPN)",TV1000 Русское кино
 http://185.50.148.2:7703/TV1000RusKino/index.m3u8
+#EXTINF:-1 group-title="ANDIAL-NET (VPN)",Кинохит
+http://185.50.148.2:7711/Kinohit/index.m3u8
+#EXTINF:-1 group-title="ANDIAL-NET (VPN)",Родное кино
+http://185.50.148.2:7711/RodnoeKino/index.m3u8
+#EXTINF:-1 group-title="ANDIAL-NET (VPN)",Кинокомедия
+http://185.50.148.2:7711/Kinokomedija/index.m3u8
+#EXTINF:-1 group-title="ANDIAL-NET (VPN)",Киномикс
+http://185.50.148.2:7711/Kinomiks/index.m3u8
+#EXTINF:-1 group-title="ANDIAL-NET (VPN)",Киносемья
+http://185.50.148.2:7711/Kinosemya/index.m3u8
+#EXTINF:-1 group-title="ANDIAL-NET (VPN)",Киносерия
+http://185.50.148.2:7711/Kinoseriya/index.m3u8
+#EXTINF:-1 group-title="ANDIAL-NET (VPN)",Киносвидание
+http://185.50.148.2:7711/Kinosvidanie/index.m3u8
 #EXTINF:-1 group-title="ANDIAL-NET (VPN)",Кино без границ
 http://185.50.148.2:7703/Detskiy/index.m3u8
 #EXTINF:-1 group-title="ANDIAL-NET (VPN)",FlixSnip
@@ -2079,6 +2095,18 @@ http://185.50.148.2:7703/FlixSnip/index.m3u8
 http://185.50.148.2:7703/Fox/index.m3u8
 #EXTINF:-1 group-title="ANDIAL-NET (VPN)",Аппетитный
 http://185.50.148.2:7703/Motorsport/index.m3u8
+#EXTINF:-1 group-title="ANDIAL-NET (VPN)",365
+http://185.50.148.2:7711/365/index.m3u8
+#EXTINF:-1 group-title="ANDIAL-NET (VPN)",Авто плюс
+http://185.50.148.2:7711/AutoPlus/index.m3u8
+#EXTINF:-1 group-title="ANDIAL-NET (VPN)",Кто есть кто
+http://185.50.148.2:7711/Ktoestkto/index.m3u8
+#EXTINF:-1 group-title="ANDIAL-NET (VPN)",Кухня ТВ
+http://185.50.148.2:7711/KuhnyaTV/index.m3u8
+#EXTINF:-1 group-title="ANDIAL-NET (VPN)",КВН ТВ
+http://185.50.148.2:7711/KVN/index.m3u8
+#EXTINF:-1 group-title="ANDIAL-NET (VPN)",Ностальгия
+http://185.50.148.2:7711/Nostalgiya/index.m3u8
 #EXTINF:-1 group-title="ANDIAL-NET (VPN)",Усадьба
 http://185.50.148.2:7703/PSIHOLOGIYA21/index.m3u8
 #EXTINF:-1 group-title="ANDIAL-NET (VPN)",Mezzo
