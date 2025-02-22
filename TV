@@ -2054,41 +2054,103 @@ https://tvsamaragis.tk/new/new/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 group-title="ANDIAL-NET (VPN)",Viasat History
+#EXTINF:-1 group-title="ANDIAL-NET (VPN)",National Geographic
+http://185.50.148.2:7707/NationalGeographic/index.m3u8
+#EXTINF:-1 group-title="ANDIAL-NET (VPN)" (VPN)",Viasat History
 http://185.50.148.2:7703/ViasatHistory/index.m3u8
-#EXTINF:-1 group-title="ANDIAL-NET (VPN)",Viasat Nature
+#EXTINF:-1 group-title="ANDIAL-NET (VPN)" (VPN)",Viasat Nature
 http://185.50.148.2:7703/ViasatNature/index.m3u8
-#EXTINF:-1 group-title="ANDIAL-NET (VPN)",Viasat Explore
+#EXTINF:-1 group-title="ANDIAL-NET (VPN)" (VPN)",Viasat Explore
 http://185.50.148.2:7703/ViasatExplorer/index.m3u8
-#EXTINF:-1 group-title="ANDIAL-NET (VPN)",Big Planet
+#EXTINF:-1 group-title="ANDIAL-NET (VPN)" (VPN)",Дикий
+http://185.50.148.2:7711/Dikiy/index.m3u8
+#EXTINF:-1 group-title="ANDIAL-NET (VPN)" (VPN)",Big Planet
 http://185.50.148.2:7703/BigPlanet/index.m3u8
-#EXTINF:-1 group-title="ANDIAL-NET (VPN)",.Sci-Fi
+#EXTINF:-1 group-title="ANDIAL-NET (VPN)" (VPN)",.Sci-Fi
 http://185.50.148.2:7703/Sony_Sci-Fi/index.m3u8
-#EXTINF:-1 group-title="ANDIAL-NET (VPN)",.Black
+#EXTINF:-1 group-title="ANDIAL-NET (VPN)" (VPN)",.Black
 http://185.50.148.2:7703/Sony_Turbo/index.m3u8
-#EXTINF:-1 group-title="ANDIAL-NET (VPN)",TV1000
+#EXTINF:-1 group-title="ANDIAL-NET (VPN)" (VPN)",TV1000
 http://185.50.148.2:7703/TV1000/index.m3u8
-#EXTINF:-1 group-title="ANDIAL-NET (VPN)",TV1000 Action
+#EXTINF:-1 group-title="ANDIAL-NET (VPN)" (VPN)",TV1000 Action
 http://185.50.148.2:7703/TV1000Action/index.m3u8
-#EXTINF:-1 group-title="ANDIAL-NET (VPN)",TV1000 Русское кино
+#EXTINF:-1 group-title="ANDIAL-NET (VPN)" (VPN)",TV1000 Русское кино
 http://185.50.148.2:7703/TV1000RusKino/index.m3u8
-#EXTINF:-1 group-title="ANDIAL-NET (VPN)",Кино без границ
+#EXTINF:-1 group-title="ANDIAL-NET (VPN)" (VPN)",Кинохит
+http://185.50.148.2:7711/Kinohit/index.m3u8
+#EXTINF:-1 group-title="ANDIAL-NET (VPN)" (VPN)",Родное кино
+http://185.50.148.2:7711/RodnoeKino/index.m3u8
+#EXTINF:-1 group-title="ANDIAL-NET (VPN)" (VPN)",Кинокомедия
+http://185.50.148.2:7711/Kinokomedija/index.m3u8
+#EXTINF:-1 group-title="ANDIAL-NET (VPN)" (VPN)",Киномикс
+http://185.50.148.2:7711/Kinomiks/index.m3u8
+#EXTINF:-1 group-title="ANDIAL-NET (VPN)" (VPN)",Киносемья
+http://185.50.148.2:7711/Kinosemya/index.m3u8
+#EXTINF:-1 group-title="ANDIAL-NET (VPN)" (VPN)",Киносерия
+http://185.50.148.2:7711/Kinoseriya/index.m3u8
+#EXTINF:-1 group-title="ANDIAL-NET (VPN)" (VPN)",Киносвидание
+http://185.50.148.2:7711/Kinosvidanie/index.m3u8
+#EXTINF:-1 group-title="ANDIAL-NET (VPN)" (VPN)",Кино без границ
 http://185.50.148.2:7703/Detskiy/index.m3u8
-#EXTINF:-1 group-title="ANDIAL-NET (VPN)",FlixSnip
+#EXTINF:-1 group-title="ANDIAL-NET (VPN)" (VPN)",FlixSnip
 http://185.50.148.2:7703/FlixSnip/index.m3u8
-#EXTINF:-1 group-title="ANDIAL-NET (VPN)",Кинеко
+#EXTINF:-1 group-title="ANDIAL-NET (VPN)",Amedia 1
+http://185.50.148.2:7707/A1/index.m3u8
+#EXTINF:-1 group-title="ANDIAL-NET (VPN)",Amedia 2
+http://185.50.148.2:7707/A2/index.m3u8
+#EXTINF:-1 group-title="ANDIAL-NET (VPN)",AMEDIA HIT
+http://185.50.148.2:7707/AMEDIAHIT/index.m3u8
+#EXTINF:-1 group-title="ANDIAL-NET (VPN)",Дом кино
+http://185.50.148.2:7707/DomKino/index.m3u8
+#EXTINF:-1 group-title="ANDIAL-NET (VPN)",Fox Life
+http://185.50.148.2:7707/FoxLife/index.m3u8
+#EXTINF:-1 group-title="ANDIAL-NET (VPN)",Hollywood
+http://185.50.148.2:7707/Hollywood/index.m3u8
+#EXTINF:-1 group-title="ANDIAL-NET (VPN)",Иллюзион+
+http://185.50.148.2:7707/Illusion_plus/index.m3u8
+#EXTINF:-1 group-title="ANDIAL-NET (VPN)",Комедия
+http://185.50.148.2:7707/Komediya/index.m3u8
+#EXTINF:-1 group-title="ANDIAL-NET (VPN)",Мир сериала
+http://185.50.148.2:7707/MirSeriala/index.m3u8
+#EXTINF:-1 group-title="ANDIAL-NET (VPN)",НСТ
+http://185.50.148.2:7707/NST/index.m3u8
+#EXTINF:-1 group-title="ANDIAL-NET (VPN)",Победа
+http://185.50.148.2:7707/Pobeda/index.m3u8
+#EXTINF:-1 group-title="ANDIAL-NET (VPN)",.Red
+http://185.50.148.2:7707/red/index.m3u8
+#EXTINF:-1 group-title="ANDIAL-NET (VPN)",Телекафе
+http://185.50.148.2:7707/Telecafe/index.m3u8
+#EXTINF:-1 group-title="ANDIAL-NET (VPN)",Время
+http://185.50.148.2:7707/Vremya/index.m3u8
+#EXTINF:-1 group-title="ANDIAL-NET (VPN)" (VPN)",Кинеко
 http://185.50.148.2:7703/Fox/index.m3u8
-#EXTINF:-1 group-title="ANDIAL-NET (VPN)",Аппетитный
+#EXTINF:-1 group-title="ANDIAL-NET (VPN)" (VPN)",Аппетитный
 http://185.50.148.2:7703/Motorsport/index.m3u8
-#EXTINF:-1 group-title="ANDIAL-NET (VPN)",Усадьба
+#EXTINF:-1 group-title="ANDIAL-NET (VPN)" (VPN)",365
+http://185.50.148.2:7711/365/index.m3u8
+#EXTINF:-1 group-title="ANDIAL-NET (VPN)" (VPN)",Авто плюс
+http://185.50.148.2:7711/AutoPlus/index.m3u8
+#EXTINF:-1 group-title="ANDIAL-NET (VPN)" (VPN)",Кто есть кто
+http://185.50.148.2:7711/Ktoestkto/index.m3u8
+#EXTINF:-1 group-title="ANDIAL-NET (VPN)" (VPN)",Кухня ТВ
+http://185.50.148.2:7711/KuhnyaTV/index.m3u8
+#EXTINF:-1 group-title="ANDIAL-NET (VPN)" (VPN)",КВН ТВ
+http://185.50.148.2:7711/KVN/index.m3u8
+#EXTINF:-1 group-title="ANDIAL-NET (VPN)" (VPN)",Ностальгия
+http://185.50.148.2:7711/Nostalgiya/index.m3u8
+#EXTINF:-1 group-title="ANDIAL-NET (VPN)" (VPN)",Усадьба
 http://185.50.148.2:7703/PSIHOLOGIYA21/index.m3u8
-#EXTINF:-1 group-title="ANDIAL-NET (VPN)",Mezzo
+#EXTINF:-1 group-title="ANDIAL-NET (VPN)" (VPN)",Mezzo
 http://185.50.148.2:7703/Mezzo/index.m3u8
-#EXTINF:-1 group-title="ANDIAL-NET (VPN)",Мама
+#EXTINF:-1 group-title="ANDIAL-NET (VPN)" (VPN)",Мама
 http://185.50.148.2:7703/Mama/index.m3u8
-#EXTINF:-1 group-title="ANDIAL-NET (VPN)",Da Vinci
+#EXTINF:-1 group-title="ANDIAL-NET (VPN)",O!
+http://185.50.148.2:7707/O!/index.m3u8
+#EXTINF:-1 group-title="ANDIAL-NET (VPN)",Бобёр
+http://185.50.148.2:7707/Bober/index.m3u8
+#EXTINF:-1 group-title="ANDIAL-NET (VPN)" (VPN)",Da Vinci
 http://185.50.148.2:7703/DaVinciLearning/index.m3u8
-#EXTINF:-1 group-title="ANDIAL-NET (VPN)",Viasat Sport
+#EXTINF:-1 group-title="ANDIAL-NET (VPN)" (VPN)",Viasat Sport
 http://185.50.148.2:7703/ViasatSport/index.m3u8
 
 
