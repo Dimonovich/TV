@@ -300,8 +300,6 @@ http://93.189.224.246:52900/play/a006/index.m3u8
 http://93.189.224.246:52900/play/a003/index.m3u8
 #EXTINF:-1 group-title="Persik.by",Беларусь 3 HD
 http://93.189.224.246:52900/play/a008/index.m3u8
-#EXTINF:-1 group-title="Persik.by",Мир HD
-http://93.189.224.246:52900/play/a004/index.m3u8
 #EXTINF:-1 group-title="Persik.by" tvg-id="ntv-belarus",НТВ Беларусь
 http://93.189.224.246:52900/play/a00i/index.m3u8
 #EXTINF:-1 group-title="Persik.by",ОНТ HD
@@ -310,6 +308,8 @@ http://93.189.224.246:52900/play/a009/index.m3u8
 http://93.189.224.246:52900/play/a00j/index.m3u8
 #EXTINF:-1 group-title="Persik.by",СТВ HD
 http://93.189.224.246:52900/play/a00a/index.m3u8
+#EXTINF:-1 group-title="Persik.by",Мир HD
+http://93.189.224.246:52900/play/a004/index.m3u8
 #EXTINF:-1 group-title="Persik.by",TV 1000
 http://93.189.224.246:52900/play/a00p/index.m3u8
 #EXTINF:-1 group-title="Persik.by",Дом кино
@@ -326,7 +326,7 @@ http://93.189.224.246:52900/play/a010/index.m3u8
 http://93.189.224.246:52900/play/a00n/index.m3u8
 #EXTINF:-1 group-title="Persik.by",Пятый
 http://93.189.224.246:52900/play/a00y/index.m3u8
-#EXTINF:-1 group-title="Persik.by",ТВ-3 (Россия)
+#EXTINF:-1 group-title="Persik.by",ТВ3
 http://93.189.224.246:52900/play/a016/index.m3u8
 #EXTINF:-1 group-title="Persik.by" tvg-id="tv3-by",ТВ3 (Белорусская версия)  
 http://93.189.224.246:52900/play/a00f/index.m3u8
