@@ -282,6 +282,71 @@ https://river-1.rutube.ru/hls-vod/99XAfFjjcOlJs3_v2Kl6uQ/1740852231/1846/0x5000c
 
 
 
+#EXTINF:-1 group-title="Persik.by",Первый канал
+http://93.189.224.246:52900/play/a011/index.m3u8
+#EXTINF:-1 group-title="Persik.by",НТВ
+http://93.189.224.246:52900/play/a012/index.m3u8
+#EXTINF:-1 group-title="Persik.by",ТНТ HD
+http://93.189.224.246:52900/play/a00u/index.m3u8
+#EXTINF:-1 group-title="Persik.by",Рен ТВ
+http://93.189.224.246:52900/play/a00v/index.m3u8
+#EXTINF:-1 group-title="Persik.by",Россия 1 HD
+http://93.189.224.246:52900/play/a00w/index.m3u8
+#EXTINF:-1 group-title="Persik.by",Россия 24
+http://93.189.224.246:52900/play/a00o/index.m3u8
+#EXTINF:-1 group-title="Persik.by",Беларусь 5
+http://93.189.224.246:52900/play/a005/index.m3u8
+#EXTINF:-1 group-title="Persik.by",Беларусь 1 HD
+http://93.189.224.246:52900/play/a006/index.m3u8
+#EXTINF:-1 group-title="Persik.by",Беларусь 2 HD
+http://93.189.224.246:52900/play/a003/index.m3u8
+#EXTINF:-1 group-title="Persik.by",Беларусь 3 HD
+http://93.189.224.246:52900/play/a008/index.m3u8
+#EXTINF:-1 group-title="Persik.by",Мир HD
+http://93.189.224.246:52900/play/a004/index.m3u8
+#EXTINF:-1 group-title="Persik.by" tvg-id="ntv-belarus",НТВ Беларусь
+http://93.189.224.246:52900/play/a00i/index.m3u8
+#EXTINF:-1 group-title="Persik.by",ОНТ HD
+http://93.189.224.246:52900/play/a009/index.m3u8
+#EXTINF:-1 group-title="Persik.by" tvg-id="rtr-belarus",РТР Беларусь HD
+http://93.189.224.246:52900/play/a00j/index.m3u8
+#EXTINF:-1 group-title="Persik.by",СТВ HD
+http://93.189.224.246:52900/play/a00a/index.m3u8
+#EXTINF:-1 group-title="Persik.by",TV 1000
+http://93.189.224.246:52900/play/a00p/index.m3u8
+#EXTINF:-1 group-title="Persik.by",Дом кино
+http://93.189.224.246:52900/play/a00z/index.m3u8
+#EXTINF:-1 group-title="Persik.by",Звезда
+http://93.189.224.246:52900/play/a015/index.m3u8
+#EXTINF:-1 group-title="Persik.by",КВН ТВ
+http://93.189.224.246:52900/play/a00t/index.m3u8
+#EXTINF:-1 group-title="Persik.by",Кинохит
+http://93.189.224.246:52900/play/a00q/index.m3u8
+#EXTINF:-1 group-title="Persik.by",Победа
+http://93.189.224.246:52900/play/a010/index.m3u8
+#EXTINF:-1 group-title="Persik.by",Пятница
+http://93.189.224.246:52900/play/a00n/index.m3u8
+#EXTINF:-1 group-title="Persik.by",Пятый
+http://93.189.224.246:52900/play/a00y/index.m3u8
+#EXTINF:-1 group-title="Persik.by",ТВ-3 (Россия)
+http://93.189.224.246:52900/play/a016/index.m3u8
+#EXTINF:-1 group-title="Persik.by" tvg-id="tv3-by",ТВ3 (Белорусская версия)  
+http://93.189.224.246:52900/play/a00f/index.m3u8
+#EXTINF:-1 group-title="Persik.by",ТНТ Music
+http://93.189.224.246:52900/play/a00k/index.m3u8
+#EXTINF:-1 group-title="Persik.by",Мультиландия
+http://93.189.224.246:52900/play/a00m/index.m3u8
+#EXTINF:-1 group-title="Persik.by",RU.TV
+http://93.189.224.246:52900/play/a002/index.m3u8
+#EXTINF:-1 group-title="Persik.by",Europa Plus TV
+http://93.189.224.246:52900/play/a00r/index.m3u8
+#EXTINF:-1 group-title="Persik.by",Футбол
+http://93.189.224.246:52900/play/a00c/index.m3u8
+#EXTINF:-1 group-title="Persik.by",Матч ТВ
+http://93.189.224.246:52900/play/a00x/index.m3u8
+
+
+
 
 #EXTINF:-1 group-title="Телекомм Технолоджи",НТВ Сериал
 http://95.142.88.250:80/NTV_Serial/index.m3u8
