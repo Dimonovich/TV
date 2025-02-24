@@ -59,8 +59,6 @@ http://95.67.12.82:9077
 http://95.67.12.82:9083
 #EXTINF:-1 group-title="TEST ⓵",Trace Urban HD
 http://95.67.12.82:9068
-#EXTINF:-1 group-title="TEST ⓵",UA Music HD
-http://95.67.12.82:9087
 #EXTINF:-1 group-title="TEST ⓵",InRating TV HD
 http://95.67.12.89:9034
 #EXTINF:-1 group-title="TEST ⓵",OnePlanet
@@ -69,8 +67,6 @@ http://95.67.12.82:9088
 http://95.67.12.82:9069
 #EXTINF:-1 group-title="TEST ⓵",Дорама
 http://95.67.12.82:9046
-#EXTINF:-1 group-title="TEST ⓵", Kinokazka
-http://95.67.12.82:9084/
 #EXTINF:-1 group-title="TEST ⓵", TravelXp 4K
 http://95.67.12.82:9086/
 #EXTINF:-1 group-title="TEST ⓵",Ретро
@@ -81,8 +77,6 @@ http://194.158.218.123:8880/Usadba/index.m3u8
 http://194.158.218.123:8880/ZdorovoeTV/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵",MTV
 http://fl5.moveonjoy.com/MTV/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵" ,CGTN русский
-https://english-livetx.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802_hd.m3u8
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://bem-media.de/wp-content/uploads/Kulinar.png",Кулинар ТВ
 http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.ytimg.com/an/23MIFU9IMsNtE2K6FfBBCQ/featured_channel.jpg",Russischer Jahrmarkt
