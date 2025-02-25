@@ -8,6 +8,9 @@ https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 ,РОССИЯ К
 http://194.158.222.36:6037/
 
+#EXTINF:-1,Россия 1
+http://xx001.vivat.live/t-6c0c.05bb.a7c3f1745daa3b71c4c48fc2470552ef/sd/00379/1m/index.m3u8
+
 #EXTINF:-1 ,Неизвестная Россия
 https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 ,НТВ HD
@@ -59,7 +62,12 @@ http://109.200.130.123:7537/play/a025
 #EXTINF:-1 ,Travel Channel
 http://xx001.vivat.live/t-6c0c.05bb.a7c3f1745daa3b71c4c48fc2470552ef/sd/00421/1m/index.m3u8
 
-
+#EXTINF:-1,Viasat Explore
+http://xx001.vivat.live/t-6c0c.05bb.a7c3f1745daa3b71c4c48fc2470552ef/sd/00321/1m/index.m3u8
+#EXTINF:-1,Viasat History
+http://xx001.vivat.live/t-6c0c.05bb.a7c3f1745daa3b71c4c48fc2470552ef/sd/00322/1m/index.m3u8
+#EXTINF:-1,Viasat Nature
+http://xx001.vivat.live/t-6c0c.05bb.a7c3f1745daa3b71c4c48fc2470552ef/sd/00323/1m/index.m3u8
 #EXTINF:6 ,Animal Planet
 http://xx001.vivat.live/t-6c0c.05bb.a7c3f1745daa3b71c4c48fc2470552ef/sd/00263/1m/index.m3u8
 #EXTINF:8 ,Discovery
@@ -109,8 +117,6 @@ http://77.239.125.42:8070/@Dimonovich1982_hdamedia/index.m3u8
 http://77.239.125.42:8070/@Dimonovich1982_a2prolybov/index.m3u8
 #EXTINF:-1 ,Amedia HIT
 http://77.239.125.42:8070/@Dimonovich1982_amediahithd/index.m3u8
-#EXTINF:-1 ,Amedia Premium HD
-http://77.239.125.42:8070/@Dimonovich1982_amediapremium/index.m3u8
 #EXTINF:-1 ,Bollywood HD
 http://77.239.125.42:8070/@Dimonovich1982_bollywoodhd/index.m3u8
 #EXTINF:-1 ,Bolt HD
@@ -132,21 +138,37 @@ http://77.239.125.42:8070/@Dimonovich1982_foxlifehd/index.m3u8
 #EXTINF:-1 ,Hollywood HD
 http://77.239.125.42:8070/@Dimonovich1982_hollywoodhd/index.m3u8
 #EXTINF:-1 ,Кино ТВ HD
-http://77.239.125.42:8070/@Dimonovich1982_kinotvhd/index.m3u8
+http://xx001.vivat.live/t-6c0c.05bb.a7c3f1745daa3b71c4c48fc2470552ef/sd/00529/1m/index.m3u8
+#EXTINF:-1 ,Amedia Premium HD
+http://xx001.vivat.live/t-6c0c.05bb.a7c3f1745daa3b71c4c48fc2470552ef/sd/00418/1m/index.m3u8
+#EXTINF:-1 , viju+ Comedy
+http://xx001.vivat.live/t-6c0c.05bb.a7c3f1745daa3b71c4c48fc2470552ef/sd/00315/1m/index.m3u8
+#EXTINF:-1 ,viju+ Megahit
+http://xx001.vivat.live/t-6c0c.05bb.a7c3f1745daa3b71c4c48fc2470552ef/sd/00316/1m/index.m3u8
+#EXTINF:-1 ,viju+ Premiere
+http://xx001.vivat.live/t-6c0c.05bb.a7c3f1745daa3b71c4c48fc2470552ef/sd/00317/1m/index.m3u8
+#EXTINF:-1 ,Индийское кино
+http://xx001.vivat.live/t-6c0c.05bb.a7c3f1745daa3b71c4c48fc2470552ef/sd/00339/1m/index.m3u8
+#EXTINF:-1 ,Иллюзион+
+http://xx001.vivat.live/t-6c0c.05bb.a7c3f1745daa3b71c4c48fc2470552ef/sd/00338/1m/index.m3u8
 #EXTINF:-1 ,Киносемья
-http://77.239.125.42:8070/@Dimonovich1982_kinofamilyhd/index.m3u8
+http://xx001.vivat.live/t-6c0c.05bb.a7c3f1745daa3b71c4c48fc2470552ef/sd/00373/1m/index.m3u8
 #EXTINF:-1 ,Родное кино
-http://77.239.125.42:8070/@Dimonovich1982_ntvplusnashekino/index.m3u8
+http://xx001.vivat.live/t-6c0c.05bb.a7c3f1745daa3b71c4c48fc2470552ef/sd/00363/1m/index.m3u8
 #EXTINF:-1 ,Кинохит
-http://77.239.125.42:8070/@Dimonovich1982_kinohithd/index.m3u8
+http://xx001.vivat.live/t-6c0c.05bb.a7c3f1745daa3b71c4c48fc2470552ef/sd/00349/1m/index.m3u8
 #EXTINF:-1 ,Кинокомедия
-http://77.239.125.42:8070/@Dimonovich1982_comedytv/index.m3u8
+http://xx001.vivat.live/t-6c0c.05bb.a7c3f1745daa3b71c4c48fc2470552ef/sd/00350/1m/index.m3u8
 #EXTINF:-1 ,Киномикс
-http://77.239.125.42:8070/@Dimonovich1982_ntvpluskino/index.m3u8
+http://xx001.vivat.live/t-6c0c.05bb.a7c3f1745daa3b71c4c48fc2470552ef/sd/00344/1m/index.m3u8
 #EXTINF:-1 ,Кинопремьера HD
-http://77.239.125.42:8070/@Dimonovich1982_kinopremierehd/index.m3u8
+http://xx001.vivat.live/t-6c0c.05bb.a7c3f1745daa3b71c4c48fc2470552ef/sd/00284/1m/index.m3u8
 #EXTINF:-1 ,Киносерия
-http://77.239.125.42:8070/@Dimonovich1982_kinoseriahd/index.m3u8
+http://xx001.vivat.live/t-6c0c.05bb.a7c3f1745daa3b71c4c48fc2470552ef/sd/00356/1m/index.m3u8
+#EXTINF:-1 ,Наше новое кино
+http://xx001.vivat.live/t-6c0c.05bb.a7c3f1745daa3b71c4c48fc2470552ef/sd/00364/1m/index.m3u8
+#EXTINF:-1 ,TV1000 Русское кино
+http://xx001.vivat.live/t-6c0c.05bb.a7c3f1745daa3b71c4c48fc2470552ef/sd/00318/1m/index.m3u8
 #EXTINF:-1 ,Киносвидание
 http://77.239.125.42:8070/@Dimonovich1982_kinodatehd/index.m3u8
 #EXTINF:-1 ,Киноужас
@@ -163,8 +185,6 @@ http://77.239.125.42:8070/@Dimonovich1982_mirseriala/index.m3u8
 http://77.239.125.42:8070/@Dimonovich1982_mosfilmhd/index.m3u8
 #EXTINF:-1 ,Мужское Кино
 http://77.239.125.42:8070/@Dimonovich1982_ntvpluskinosoyuz/index.m3u8
-#EXTINF:-1 ,Наше новое кино
-http://77.239.125.42:8070/@Dimonovich1982_novoekino/index.m3u8
 #EXTINF:-1 ,НСТ
 http://77.239.125.42:8070/@Dimonovich1982_nstv/index.m3u8
 #EXTINF:-1 ,Cinema
@@ -201,22 +221,13 @@ http://77.239.125.42:8070/@Dimonovich1982_startworldhd/index.m3u8
 http://77.239.125.42:8070/@Dimonovich1982_strashnoehd/index.m3u8
 #EXTINF:-1 ,Театр
 http://77.239.125.42:8070/@Dimonovich1982_theaterhd/index.m3u8
-#EXTINF:-1 , viju+ Comedy
-http://77.239.125.42:8070/@Dimonovich1982_tv1000comedyhd/index.m3u8
-#EXTINF:-1 ,viju+ Megahit
-http://77.239.125.42:8070/@Dimonovich1982_tv1000megahithd/index.m3u8
-#EXTINF:-1 ,viju+ Premiere
-http://77.239.125.42:8070/@Dimonovich1982_tv1000premiumhd/index.m3u8
+
 #EXTINF:-1 ,VIP Serial HD
 http://77.239.125.42:8070/@Dimonovich1982_viasatgolfhd/index.m3u8
 #EXTINF:-1 ,viju TV1000 Action
 http://77.239.125.42:8070/@Dimonovich1982_tvxxi/index.m3u8
 #EXTINF:-1 ,TV 1000 
 http://77.239.125.42:8070/@Dimonovich1982_tv1000hd/index.m3u8
-#EXTINF:-1 ,TV1000 Русское кино
-http://77.239.125.42:8070/@Dimonovich1982_tv1000russkoekinohd/index.m3u8
-#EXTINF:-1 ,Иллюзион+
-http://77.239.125.42:8070/@Dimonovich1982_ullusionplus/index.m3u8
 #EXTINF:-1 ,Индия
 http://77.239.125.42:8070/@Dimonovich1982_zeetvhd/index.m3u8
 #EXTINF:-1 ,Кинеко
