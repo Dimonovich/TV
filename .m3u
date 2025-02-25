@@ -22,13 +22,15 @@ https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
 https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 ,ТНТ HD
-http://193.242.190.6:8099/19/index.m3u8
+http://xx001.vivat.live/t-6c0c.05bb.a7c3f1745daa3b71c4c48fc2470552ef/sd/00283/1m/index.m3u8
+#EXTINF:-1 ,ТНТ4
+http://xx001.vivat.live/t-6c0c.05bb.a7c3f1745daa3b71c4c48fc2470552ef/sd/00310/1m/index.m3u8
 
 #EXTINF:-1 ,TERRA
 http://185.50.148.2:7707/NationalGeographic/index.m3u8
 
 #EXTINF:-1 ,Investigation Discovery
-https://stream01.vnet.am/InvestigationDiscovery/tracks-v1a2/mono.m3u8
+http://xx001.vivat.live/t-6c0c.05bb.a7c3f1745daa3b71c4c48fc2470552ef/sd/00287/1m/index.m3u8
 #EXTINF:-1 ,Большая Азия
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 
@@ -51,9 +53,6 @@ https://english-livetx.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXM
 #EXTINF:-1 ,Тайна
 https://tochkatv-live.cdnvideo.ru/tochkatv_pub/tainatv.stream_aac2.smil/playlist.m3u8
 
-#EXTINF:-1 ,Большая Азия
-https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 ,История
 http://109.200.130.123:7537/play/a025
 
@@ -62,24 +61,23 @@ http://xx001.vivat.live/t-6c0c.05bb.a7c3f1745daa3b71c4c48fc2470552ef/sd/00421/1m
 
 
 #EXTINF:6 ,Animal Planet
-http://77.239.125.42:8070/discovry_animalplanet/index.m3u8
+http://xx001.vivat.live/t-6c0c.05bb.a7c3f1745daa3b71c4c48fc2470552ef/sd/00263/1m/index.m3u8
 #EXTINF:8 ,Discovery
-http://77.239.125.42:8070/discovry_discoverychannel/index.m3u8
-#EXTINF:9 ,Discovery Science
-http://77.239.125.42:8070/discovry_discoveryscience/index.m3u8
+http://xx001.vivat.live/t-6c0c.05bb.a7c3f1745daa3b71c4c48fc2470552ef/sd/00269/1m/index.m3u8
+#EXTINF:9 ,Investigation Discovery 
+http://xx001.vivat.live/t-6c0c.05bb.a7c3f1745daa3b71c4c48fc2470552ef/sd/00287/1m/index.m3u8
 #EXTINF:10 ,Nat Geo Wild
-http://77.239.125.42:8070/discovry_natgeo/index.m3u8
+http://xx001.vivat.live/t-6c0c.05bb.a7c3f1745daa3b71c4c48fc2470552ef/sd/00298/1m/index.m3u8
 #EXTINF:11 ,TLC HD
-http://77.239.125.42:8070/discovry_tlc/index.m3u8
+http://xx001.vivat.live/t-6c0c.05bb.a7c3f1745daa3b71c4c48fc2470552ef/sd/00430/1m/index.m3u8
 
 #EXTINF:-1,History HD
 http://45.159.74.14/Channel_123/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 , Русский Экстрим
-http://77.239.125.42:8070/@Dimonovich1982_chrussianextremehd/index.m3u8
+http://xx001.vivat.live/t-6c0c.05bb.a7c3f1745daa3b71c4c48fc2470552ef/sd/00308/1m/index.m3u8
 
-#EXTINF:-1 ,Fan HD
-http://77.239.125.42:8070/@Dimonovich1982_fanhd/index.m3u8
+
 
 #EXTINF:-1 ,Ералаш
 https://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
