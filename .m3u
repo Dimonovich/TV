@@ -35,7 +35,7 @@ http://185.50.148.2:7707/NationalGeographic/index.m3u8
 http://xx001.vivat.live/t-6c0c.05bb.a7c3f1745daa3b71c4c48fc2470552ef/sd/00287/1m/index.m3u8
 #EXTINF:-1 ,Большая Азия
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Моя плантеа
+#EXTINF:-1 ,Моя планета
 http://xx001.vivat.live/t-6c0c.05bb.a7c3f1745daa3b71c4c48fc2470552ef/sd/00358/1m/index.m3u8
 #EXTINF:-1 ,Travel Adventure
 http://31.184.197.124/TravelAdventureHD/mono.m3u8
@@ -45,6 +45,8 @@ http://31.184.197.124/museum_hd/mono.m3u8
 http://31.184.197.124/home_hd/mono.m3u8
 #EXTINF:-1 ,CGTN Русский
 https://english-livetx.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802_hd.m3u8
+#EXTINF:-1 ,Зоо ТВ
+http://xx001.vivat.live/t-6c0c.05bb.a7c3f1745daa3b71c4c48fc2470552ef/sd/00410/1m/index.m3u8
 #EXTINF:-1 ,История
 http://109.200.130.123:7537/play/a025
 #EXTINF:-1 ,Моя стихия
@@ -53,11 +55,11 @@ http://xx001.vivat.live/t-6c0c.05bb.a7c3f1745daa3b71c4c48fc2470552ef/sd/00559/1m
 http://xx001.vivat.live/t-6c0c.05bb.a7c3f1745daa3b71c4c48fc2470552ef/sd/00421/1m/index.m3u8
 #EXTINF:-1 ,Охота и рыбалка
 http://xx001.vivat.live/t-6c0c.05bb.a7c3f1745daa3b71c4c48fc2470552ef/sd/00369/1m/index.m3u8
-#EXTINF:-1 ,Viasat Explore
+#EXTINF:-1 ,Viju Explore
 http://xx001.vivat.live/t-6c0c.05bb.a7c3f1745daa3b71c4c48fc2470552ef/sd/00321/1m/index.m3u8
-#EXTINF:-1 ,Viasat History
+#EXTINF:-1 ,Viju History
 http://xx001.vivat.live/t-6c0c.05bb.a7c3f1745daa3b71c4c48fc2470552ef/sd/00322/1m/index.m3u8
-#EXTINF:-1 ,Viasat Nature
+#EXTINF:-1 ,Viju Nature
 http://xx001.vivat.live/t-6c0c.05bb.a7c3f1745daa3b71c4c48fc2470552ef/sd/00323/1m/index.m3u8
 #EXTINF:-1 ,Animal Planet
 http://xx001.vivat.live/t-6c0c.05bb.a7c3f1745daa3b71c4c48fc2470552ef/sd/00263/1m/index.m3u8
@@ -262,7 +264,7 @@ http://xx001.vivat.live/t-6c0c.05bb.a7c3f1745daa3b71c4c48fc2470552ef/sd/00543/1m
 #EXTINF:-1 ,Матч! Футбол 1
 http://xx001.vivat.live/t-6c0c.05bb.a7c3f1745daa3b71c4c48fc2470552ef/sd/00399/1m/index.m3u8
 #EXTINF:-1 ,Матч! Футбол 2
-http://xx001.vivat.live/t-6c0c.05bb.a7c3f1745daa3b71c4c48fc2470552ef/sd/00410/1m/index.m3u8
+http://xx001.vivat.live/t-6c0c.05bb.a7c3f1745daa3b71c4c48fc2470552ef/sd/00400/1m/index.m3u8
 #EXTINF:-1 ,Матч! Футбол 3
 http://xx001.vivat.live/t-6c0c.05bb.a7c3f1745daa3b71c4c48fc2470552ef/sd/00402/1m/index.m3u8
 #EXTINF:-1 ,Матч! Страна
