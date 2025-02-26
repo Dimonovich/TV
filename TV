@@ -278,6 +278,8 @@ https://river-1.rutube.ru/hls-vod/99XAfFjjcOlJs3_v2Kl6uQ/1740852231/1846/0x5000c
 http://45.11.139.43:8555/pervi/index.m3u8
 #EXTINF:-1 group-title="ICN",Россия К
 http://45.11.139.43:8555/kultura/index.m3u8
+#EXTINF:-1 group-title="ICN",ТНТ
+http://45.11.139.43:8855/tnt/index.m3u8
 #EXTINF:-1 group-title="ICN",РЕН ТВ
 http://45.11.139.43:8555/rentv/index.m3u8
 #EXTINF:-1 group-title="ICN",ТНТ4
