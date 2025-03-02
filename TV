@@ -51,6 +51,36 @@ http://92.53.64.197:5050/IPTVPLAYPROMO.tv/video.m3u8?token=m3VIth-Rou_bM1
 http://92.53.64.197:5050/IPTVPLAYMultSkazki.tv/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 group-title="TEST ⓵",Поехали!
 https://cdn3.skygo.mn/live/disk1/Poehali/HLS-FTA/Poehali.m3u8
+#EXTINF:-1 group-title="TEST ⓵",HISTORY
+http://45.159.74.14:80/Channel_123/manifest.m3u8
+#EXTINF:-1 group-title="TEST ⓵",ДИКАЯ РЫБАЛКА HD
+http://45.159.74.14:80/Channel_126/manifest.m3u8
+#EXTINF:-1 group-title="TEST ⓵",ДИКАЯ ОХОТА HD
+http://45.159.74.14:80/Channel_127/manifest.m3u8
+#EXTINF:-1 group-title="TEST ⓵",ОХОТНИК И РЫБОЛОВ
+http://45.159.74.14:80/Channel_124/manifest.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Nicklodeon
+http://45.159.74.14:80/Channel_114/manifest.m3u8
+#EXTINF:-1 group-title="TEST ⓵",CARTOONITO
+http://45.159.74.14:80/Channel_120/manifest.m3u8
+#EXTINF:-1 group-title="TEST ⓵",BRIDGE РУССКИЙ ХИТ
+http://45.159.74.14:80/Channel_115/manifest.m3u8
+#EXTINF:-1 group-title="TEST ⓵",ТНТ Music
+http://45.159.74.14:80/Channel_122/manifest.m3u8
+#EXTINF:-1 group-title="TEST ⓵",MTV live
+http://45.159.74.14:80/Channel_117/manifest.m3u8
+#EXTINF:-1 group-title="TEST ⓵",EURO NEWS
+http://45.159.74.14:80/Channel_119/manifest.m3u8
+#EXTINF:-1 group-title="TEST ⓵",ТВ3
+http://45.159.74.14:80/Channel_121/manifest.m3u8
+#EXTINF:-1 group-title="TEST ⓵",НСТ
+http://45.159.74.14:80/Channel_125/manifest.m3u8
+#EXTINF:-1 group-title="TEST ⓵",AMEDIA 1
+http://45.159.74.14:80/Channel_128/manifest.m3u8
+#EXTINF:-1 group-title="TEST ⓵",FAST SPORTS
+http://45.159.74.14:80/Channel_131/manifest.m3u8
+#EXTINF:-1 group-title="TEST ⓵",KHL
+http://45.159.74.14:80/Channel_113/manifest.m3u8
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://cvy.okis.ru/file/cvy/9.gif",Релакс
 http://185.57.68.33/232/mpegts
 #EXTINF:-1 group-title="TEST ⓵",OstWest
