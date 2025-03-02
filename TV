@@ -59,7 +59,7 @@ http://45.159.74.14:80/Channel_126/manifest.m3u8
 http://45.159.74.14:80/Channel_127/manifest.m3u8
 #EXTINF:-1 group-title="TEST ⓵",ОХОТНИК И РЫБОЛОВ
 http://45.159.74.14:80/Channel_124/manifest.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Nicklodeon
+#EXTINF:-1 group-title="TEST ⓵",Nickelodeon
 http://45.159.74.14:80/Channel_114/manifest.m3u8
 #EXTINF:-1 group-title="TEST ⓵",CARTOONITO
 http://45.159.74.14:80/Channel_120/manifest.m3u8
@@ -68,8 +68,8 @@ http://45.159.74.14:80/Channel_115/manifest.m3u8
 #EXTINF:-1 group-title="TEST ⓵",ТНТ Music
 http://45.159.74.14:80/Channel_122/manifest.m3u8
 #EXTINF:-1 group-title="TEST ⓵",MTV live
-http://45.159.74.14:80/Channel_117/manifest.m3u8
-#EXTINF:-1 group-title="TEST ⓵",EURO NEWS
+http://45.159.74.14:80/Channel_117/manifest.m3u8 
+#EXTINF:-1 group-title="TEST ⓵" tvg-id="euronews-en",Euronews
 http://45.159.74.14:80/Channel_119/manifest.m3u8
 #EXTINF:-1 group-title="TEST ⓵",ТВ3
 http://45.159.74.14:80/Channel_121/manifest.m3u8
@@ -137,6 +137,24 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
 #EXTINF:-1 group-title="TEST (VPN)" tvg-logo="http://194.26.229.4/live/pda.png",OnlineTV
 http://185.221.213.254:8080/Okko/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Amedia Premium HD
+http://195.18.23.20:8000/play/3/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Известия
+http://195.18.23.20:8000/play/51/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Курай ТВ
+http://195.18.23.20:8000/play/207/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Матч Премьер
+http://195.18.23.20:8000/play/88/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Матур ТВ
+http://195.18.23.20:8000/play/6/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Салям
+http://195.18.23.20:8000/play/9/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Живи
+http://195.18.23.20:8000/play/10/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Бобёр
+http://195.18.23.20:8000/play/1/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Тамыр
+http://195.18.23.20:8000/play/2/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)", Сапфир
 https://132544.edgevideo.ru/streams/132544_858950/1325441080/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)", Видеокассета VHS
