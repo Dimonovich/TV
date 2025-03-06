@@ -31,6 +31,21 @@
     "udpdns": false
   },  
   {
+    "server": "138.68.76.42",
+    "server_port": 8443,
+    "password": "Gu/3URgFOkYXxiqUiu2lcWwNgqPVnrkX7GVZbLbOHe8=",
+    "method": "aes-256-gcm",
+    "remarks": "🇪🇸 Испания (Android TV + Free TV)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },    
+  {
     "server": "51.75.65.119",
     "server_port": 8443,
     "password": "1IQqkKTovbcpeW0zd+H4e3Yk1as7Nspz4wUD8eJAd0o=",
@@ -75,6 +90,21 @@
     },
     "udpdns": false
   },
+  {
+    "server": "134.209.202.105",
+    "server_port": 8443,
+    "password": "TdZrWr54eQAgRLXKKc/tzAwivRcnJwXfObBNmGTTyro=",
+    "method": "aes-256-gcm",
+    "remarks": "🇳🇱 Нидерланды NEW (Android TV + Free TV)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },  
   {
     "server": "109.201.152.181",
     "server_port": 443,
