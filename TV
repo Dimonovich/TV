@@ -324,34 +324,22 @@ https://river-1.rutube.ru/hls-vod/RHpCn9xRJkkbyU8IRPJpVA/1741987544/1846/0x5000c
 
 
 
-
-
-
-
 #EXTINF:-1 group-title="ICN",Россия К
 http://45.11.139.43:8555/kultura/index.m3u8
-#EXTINF:-1 group-title="ICN",ТНТ4
-http://45.11.139.43:8555/tnt4/index.m3u8
 #EXTINF:-1 group-title="ICN",НТВ Право
 http://45.11.139.43:8555/ntvpravo/index.m3u8
 #EXTINF:-1 group-title="ICN",НТВ Сериал
 http://45.11.139.43:8555/ntvserial/index.m3u8
 #EXTINF:-1 group-title="ICN",Дикий
 http://45.11.139.43:8555/dikiy/index.m3u8
-#EXTINF:-1 group-title="ICN",Galaxy
-http://45.11.139.43:8555/galaxy/index.m3u8
 #EXTINF:-1 group-title="ICN",Моя планета
 http://45.11.139.43:8555/moyaplaneta/index.m3u8
-#EXTINF:-1 group-title="ICN",Nat geo Wild
-http://45.11.139.43:8555/natgeowild/index.m3u8
 #EXTINF:-1 group-title="ICN",Наука
 http://45.11.139.43:8555/nauka/index.m3u8
 #EXTINF:-1 group-title="ICN",Ocean TV
 http://45.11.139.43:8555/ocean/index.m3u8
 #EXTINF:-1 group-title="ICN",История
 http://45.11.139.43:8555/istoriya/index.m3u8
-#EXTINF:-1 group-title="ICN",Amedia 1
-http://45.11.139.43:8555/amedia/index.m3u8
 #EXTINF:-1 group-title="ICN",Еврокино
 http://45.11.139.43:8555/evrokino/index.m3u8
 #EXTINF:-1 group-title="ICN",Кинеко HD
@@ -364,15 +352,11 @@ http://45.11.139.43:8555/atv/index.m3u8
 http://45.11.139.43:8555/h1/index.m3u8
 #EXTINF:-1 group-title="ICN",Nor Hayastan
 http://45.11.139.43:8555/norhayastan/index.m3u8
-#EXTINF:-1 group-title="ICN",Мир
-http://45.11.139.43:8555/mir/index.m3u8
 #EXTINF:-1 group-title="ICN",Мир 24
 http://45.11.139.43:8555/mir24/index.m3u8
 #EXTINF:-1 group-title="ICN",Чё
 http://45.11.139.43:8555/perez/index.m3u8
-#EXTINF:-1 group-title="ICN",Победа
-http://45.11.139.43:8555/pobeda/index.m3u8
-#EXTINF:-1 group-title="ICN" tvg-id="piatnica-int" ,Пятница International     
+#EXTINF:-1 group-title="ICN" tvg-id="piatnica-int" ,Пятница International   
 http://45.11.139.43:8555/pyatnica/index.m3u8
 #EXTINF:-1 group-title="ICN",РБК
 http://45.11.139.43:8555/rbk/index.m3u8
@@ -388,7 +372,6 @@ http://45.11.139.43:8555/tvcentr/index.m3u8
 http://45.11.139.43:8555/zvezda/index.m3u8
 #EXTINF:-1 group-title="ICN",Матч! Арена
 http://45.11.139.43:8555/matcharena/index.m3u8
-
 
 
 
