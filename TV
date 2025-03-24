@@ -107,6 +107,24 @@ http://95.67.12.82:9046
 http://95.67.12.82:9086/
 #EXTINF:-1 group-title="TEST ⓵",Love Nature
 http://95.67.12.82:9098
+#EXTINF:-1 group-title="TEST ⓵",Ocean TV
+http://45.11.139.43:8555/ocean/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵",atv
+http://45.11.139.43:8555/atv/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵",h1 HD
+http://45.11.139.43:8555/h1/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Nor Hayastan
+http://45.11.139.43:8555/norhayastan/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Че
+http://45.11.139.43:8555/perez/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵",РБК
+http://45.11.139.43:8555/rbk/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Телекафе
+http://45.11.139.43:8555/telekafe/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵",ТВ3
+http://45.11.139.43:8555/tv3/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Матч! Арена
+http://45.11.139.43:8555/matcharena/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Ретро
 http://194.158.218.123:8880/Retrotv/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Усадьба
@@ -395,304 +413,6 @@ http://213.91.178.133:8000/play/a05n
 
 
 
-#EXTINF:-1 group-title="Stichting Blijf Groep",Первый HD
-http://193.35.224.154/8150/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Первый канал
-http://193.35.224.154/8001/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",НТВ HD
-http://193.35.224.154/8156/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",НТВ
-http://193.35.224.154/8003/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Россия 1 HD
-http://193.35.224.154/8152/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Россия 1
-http://193.35.224.154/8002/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Россия 24
-http://193.35.224.154/8125/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",ТНТ
-http://193.35.224.154/8007/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",НТВ-Мир
-http://193.35.224.154/8011/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",ТНТ4
-http://193.35.224.154/8058/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Планета РТР
-http://193.35.224.154/8121/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Россия 1
-http://193.35.224.154/8102/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Россия К
-http://193.35.224.154/8072/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",РЕН ТВ
-http://193.35.224.154/8004/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Моя планета
-http://193.35.224.154/8154/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Оружие
-http://193.35.224.154/8203/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Animal Planet HD
-http://193.35.224.154/8075/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Terra
-http://193.35.224.154/8078/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",RTG HD
-http://193.35.224.154/8173/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",RTG TV
-http://193.35.224.154/8151/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Investigation Discovery
-http://193.35.224.154/8074/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",История
-http://193.35.224.154/8082/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Наука
-http://193.35.224.154/8104/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Nat Geo Wild HD
-http://193.35.224.154/8079/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",National Geographic HD
-http://193.35.224.154/8080/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Travel Channel HD
-http://193.35.224.154/8083/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Travel+Adventure HD
-http://193.35.224.154/8170/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Нано ТВ HD
-http://193.35.224.154/8181/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Viasat Nature
-http://193.35.224.154/8087/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Viasat Explore HD
-http://193.35.224.154/8085/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Viasat History HD
-http://193.35.224.154/8086/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Ocean TV
-http://193.35.224.154/8069/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Точка РФ
-http://193.35.224.154/8175/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",СТС
-http://193.35.224.154/8005/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",СТС Love
-http://193.35.224.154/8174/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Comedy Central
-http://193.35.224.154/8171/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Animal Planet HD
-http://193.35.224.154/8167/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Fox HD
-http://193.35.224.154/8168/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Че
-http://193.35.224.154/8008/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",ТВЦ
-http://193.35.224.154/8006/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",РБК HD
-http://193.35.224.154/8197/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",ТБН HD
-http://193.35.224.154/8200/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Пятый канал
-http://193.35.224.154/8009/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Время
-http://193.35.224.154/8012/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Страшное HD
-http://193.35.224.154/8198/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Иллюзион+
-http://193.35.224.154/8134/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Русский иллюзион
-http://193.35.224.154/8132/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Русский роман
-http://193.35.224.154/8010/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Русский детектив
-http://193.35.224.154/8161/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Русский бестселлер
-http://193.35.224.154/8162/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Сарафан
-http://193.35.224.154/8020/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Русский Экстрим
-http://193.35.224.154/8026/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Усадьба
-http://193.35.224.154/8017/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Звезда
-http://193.35.224.154/8037/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Еврокино
-http://193.35.224.154/8034/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Остросюжетное HD
-http://193.35.224.154/8184/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Индийское кино
-http://193.35.224.154/8038/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Родное кино
-http://193.35.224.154/8096/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Киносвидание HD
-http://193.35.224.154/8041/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Кинохит HD
-http://193.35.224.154/8039/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Кинокомедия
-http://193.35.224.154/8042/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Киносерия HD
-http://193.35.224.154/8043/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Киносемья HD
-http://193.35.224.154/8047/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Наше новое кино
-http://193.35.224.154/8044/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Киномикс
-http://193.35.224.154/8040/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Ностальгия
-http://193.35.224.154/8046/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",2x2
-http://193.35.224.154/8045/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Amedia Hit HD
-http://193.35.224.154/8159/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Amedia 1
-http://193.35.224.154/8035/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Вопросы и ответы
-http://193.35.224.154/8053/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Fox Life
-http://193.35.224.154/8052/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Fox
-http://193.35.224.154/8051/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",TLC
-http://193.35.224.154/8060/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Еда
-http://193.35.224.154/8140/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Беларусь 24
-http://193.35.224.154/8144/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Kinoliving
-http://193.35.224.154/8148/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Здоровое ТВ
-http://193.35.224.154/8164/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Живи
-http://193.35.224.154/8187/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Домашний
-http://193.35.224.154/8062/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Дом кино
-http://193.35.224.154/8136/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Кинопоказ HD
-http://193.35.224.154/8139/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",ОТР
-http://193.35.224.154/8146/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Индия
-http://193.35.224.154/8155/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",НСТ
-http://193.35.224.154/8165/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Охота и рыбалка
-http://193.35.224.154/8065/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",365 дней
-http://193.35.224.154/8068/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Пятница HD
-http://193.35.224.154/8066/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Top Secret
-http://193.35.224.154/8073/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Мужское кино
-http://193.35.224.154/8070/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Інтер HD
-http://193.35.224.154/8089/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",ICTV
-http://193.35.224.154/8092/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",ICTV 2
-http://193.35.224.154/8077/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Новый канал
-http://193.35.224.154/8130/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Мега HD
-http://193.35.224.154/8100/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",ТЕТ
-http://193.35.224.154/8138/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",1+1
-http://193.35.224.154/8116/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",2+2
-http://193.35.224.154/8117/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",СТБ
-http://193.35.224.154/8090/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Телекафе
-http://193.35.224.154/8094/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Ю
-http://193.35.224.154/8099/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Кухня ТВ
-http://193.35.224.154/8063/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Кто есть кто
-http://193.35.224.154/8105/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Vip Comedy
-http://193.35.224.154/8108/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Vip Megahit
-http://193.35.224.154/8109/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Vip Premiere
-http://193.35.224.154/8119/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",ТВ3
-http://193.35.224.154/8114/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",RTVI
-http://193.35.224.154/8118/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",.Sci-Fi
-http://193.35.224.154/8115/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Здоровое ТВ
-http://193.35.224.154/8127/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Шансон ТВ
-http://193.35.224.154/8126/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Ля-Минор
-http://193.35.224.154/8101/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",RU.TV
-http://193.35.224.154/8185/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Музыка первого
-http://193.35.224.154/8135/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Russian Music Box
-http://193.35.224.154/8189/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",MTV Live
-http://193.35.224.154/8177/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",MTV 80s
-http://193.35.224.154/8137/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",MTV 00s
-http://193.35.224.154/8032/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Европа плюс ТВ
-http://193.35.224.154/8033/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Mezzo Live HD
-http://193.35.224.154/8031/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Tiji
-http://193.35.224.154/8110/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Gulli Girl
-http://193.35.224.154/8097/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Nick jr
-http://193.35.224.154/8153/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Мульт
-http://193.35.224.154/8157/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Мама
-http://193.35.224.154/8158/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",В гостях у сказки
-http://193.35.224.154/8133/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Da Vinci
-http://193.35.224.154/8088/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Cartoon Network
-http://193.35.224.154/8064/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Уникум
-http://193.35.224.154/8067/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Бобёр
-http://193.35.224.154/8172/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Nickelodeon
-http://193.35.224.154/8055/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Солнце
-http://193.35.224.154/8054/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Карусель
-http://193.35.224.154/8057/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Мультиландия
-http://193.35.224.154/8056/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Матч Премьер
-http://193.35.224.154/8023/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Матч ТВ
-http://193.35.224.154/8016/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Eurosport 1 HD
-http://193.35.224.154/8013/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Eurosport 2 HD
-http://193.35.224.154/8014/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Матч! Футбол 1
-http://193.35.224.154/8021/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Матч! Футбол 2
-http://193.35.224.154/8022/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Матч! Футбол 3
-http://193.35.224.154/8029/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Матч! Боец
-http://193.35.224.154/8027/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Матч! Арена
-http://193.35.224.154/8018/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Матч! Страна
-http://193.35.224.154/8019/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Матч! Игра
-http://193.35.224.154/8024/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Бокс ТВ
-http://193.35.224.154/8201/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",KHL
-http://193.35.224.154/8025/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Футбол
-http://193.35.224.154/8147/index.m3u8?token=panda
-#EXTINF:-1 group-title="Stichting Blijf Groep",Viasat Sport
-http://193.35.224.154/8015/index.m3u8?token=panda
-
-
 
 
 
@@ -854,25 +574,6 @@ http://91.205.199.3/matchtvhd/index.m3u8
 
 
 
-
-#EXTINF:-1 group-title="ICN",Ocean TV
-http://45.11.139.43:8555/ocean/index.m3u8
-#EXTINF:-1 group-title="ICN",atv
-http://45.11.139.43:8555/atv/index.m3u8
-#EXTINF:-1 group-title="ICN",h1 HD
-http://45.11.139.43:8555/h1/index.m3u8
-#EXTINF:-1 group-title="ICN",Nor Hayastan
-http://45.11.139.43:8555/norhayastan/index.m3u8
-#EXTINF:-1 group-title="ICN",Чё
-http://45.11.139.43:8555/perez/index.m3u8
-#EXTINF:-1 group-title="ICN",РБК
-http://45.11.139.43:8555/rbk/index.m3u8
-#EXTINF:-1 group-title="ICN",Телекафе
-http://45.11.139.43:8555/telekafe/index.m3u8
-#EXTINF:-1 group-title="ICN",ТВ3
-http://45.11.139.43:8555/tv3/index.m3u8
-#EXTINF:-1 group-title="ICN",Матч! Арена
-http://45.11.139.43:8555/matcharena/index.m3u8
 
 
 
