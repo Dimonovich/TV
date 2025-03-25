@@ -5204,6 +5204,50 @@ http://arbiter.bolshoe.tv/?path=abr1/futbol/71/copy/playlist.m3u8&wmsAuthSign=c2
 http://arbiter.bolshoe.tv/?path=abr2/viasat_sport_hd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDI1IDg6MDY6MDIgQU0maGFzaF92YWx1ZT0rWFlPcHFhVkJPUXA3T1Z3NlhKL0pnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 
+#EXTINF:-1 group-title="Movielab", Discovery Channel
+https://tv.movielab.pro/147/video.m3u8?token=091cf3f0c48f0c1e878c5e008b0af97d9c951bb7-de6243e526df900bbe7172ae11ce8509-1742976311-1742889911
+#EXTINF:-1 group-title="Movielab", Eurosport 1
+https://tv.movielab.pro/145/video.m3u8?token=7c4c78b9dc3cb34ff200993883f35a648c9dddb4-3158c1158f686231dfaed3c41d8b92bc-1742976311-1742889911
+#EXTINF:-1 group-title="Movielab", KHL Prime
+https://tv.movielab.pro/177/video.m3u8?token=1413c082083446a3f831fc2d147e2fc0fd2424e5-2078185843edc02f0ce71acd6248bc97-1742976311-1742889911
+#EXTINF:-1 group-title="Movielab", Kinoshka Kids HD
+https://tv.movielab.pro/9993/video.m3u8?token=1c876c42a90e28652c4d7ae7186ee9610342a0be-50a37ab7170e73b9d1e3855457015492-1742976311-1742889911
+#EXTINF:-1 group-title="Movielab", NBA TV HD
+https://tv.movielab.pro/9984/video.m3u8?token=1dc51457372766b6072c3e65efb40393db6ccafc-816e2d6e241727118b0ddae1c2e91f9f-1742976311-1742889911
+#EXTINF:-1 group-title="Movielab", Nat Geo Wild
+https://tv.movielab.pro/162/video.m3u8?token=8c8f6b492442397ecac902f53fd8b48e5235d2dd-35c139e38fb5a0ead59796c3c41a2959-1742976311-1742889911
+#EXTINF:-1 group-title="Movielab", National Geographic
+https://tv.movielab.pro/143/video.m3u8?token=2f76db72c38ccfb23eff93b01dcd8de8b0b6b00b-5cdd727aebf4a77b49e8ecef091d74ea-1742976311-1742889911
+#EXTINF:-1 group-title="Movielab", Nickelodeon
+https://tv.movielab.pro/174/video.m3u8?token=2d09f66fdf4ac62381d44fbe8762219f76de99c6-0aa6d902298663244e31c67ddfc16424-1742976311-1742889911
+#EXTINF:-1 group-title="Movielab", Nicktoons
+https://tv.movielab.pro/9941/video.m3u8?token=47536ef5ddd090c56a01810465d88a4f1de35276-6be6107cae3292ddc3416a81262189f1-1742976311-1742889911
+#EXTINF:-1 group-title="Movielab", Setanta Sports 1
+https://tv.movielab.pro/942/video.m3u8?token=3550487635569075792418a2d0e8c697a1ef2cfb-1552105f92b35ad407218fc7304a484e-1742976311-1742889911
+#EXTINF:-1 group-title="Movielab", Setanta Sports 2
+https://tv.movielab.pro/943/video.m3u8?token=d058edf5c1b1b83b7d687407f6e5cb5a9f7ed7ed-68f83e335d87428115b19ad81f3f7123-1742976311-1742889911
+#EXTINF:-1 group-title="Movielab", Setanta Казахстан
+https://tv.movielab.pro/5094/video.m3u8?token=e9d9fe1f30d03273960f0268ff2479fa7b2b2bb2-57a4b6a8ce24a90efc2a1e0dd0df7613-1742976311-1742889911
+#EXTINF:-1 group-title="Movielab", Детский мир
+https://tv.movielab.pro/32/video.m3u8?token=0e1179d40bc7c2b415a2c700afb8034c4daf5a4f-6ccf633f936cd3a99c20308c38f4e2e5-1742976311-1742889911
+#EXTINF:-1 group-title="Movielab", Матч! HD
+https://tv.movielab.pro/397/video.m3u8?token=b574365d71d8bccc26b89a857abaf24afbe5ba43-14783b111d93c66cc4f21c2492f7d64e-1742976311-1742889911
+#EXTINF:-1 group-title="Movielab", Матч! Арена HD
+https://tv.movielab.pro/146/video.m3u8?token=17b674aaa25b4c4a6a455d30e17ac2812f6937ca-8feb52aff26923fb63a64fe5e2e20ded-1742976311-1742889911
+#EXTINF:-1 group-title="Movielab", Матч! Игра HD
+https://tv.movielab.pro/268/video.m3u8?token=d8ee5eeacad065baf46769bdd346bcc41d88a75f-d085da386b65cff13bc57715d1596974-1742976311-1742889911
+#EXTINF:-1 group-title="Movielab", Матч! Премьер HD
+https://tv.movielab.pro/250/video.m3u8?token=7786e29657be82298739b628706dd442415a05ab-2c8f881212a58635e0a07750d5e0846f-1742976311-1742889911
+#EXTINF:-1 group-title="Movielab", Матч! Футбол 1 HD
+https://tv.movielab.pro/260/video.m3u8?token=b69b06471b09218877baf20bed6d071ce4094776-ed2e033e3b7e37bb68fe3a251b4002bc-1742976311-1742889911
+#EXTINF:-1 group-title="Movielab", Матч! Футбол 2 HD
+https://tv.movielab.pro/271/video.m3u8?token=e1cae8f98ca5ebeea44be7a84d85a0ee2c40d3b5-1bf58f6fbae483cf3d2f349b2ca51f49-1742976311-1742889911
+#EXTINF:-1 group-title="Movielab", Матч! Футбол 3 HD
+https://tv.movielab.pro/329/video.m3u8?token=79cbab09329e3c34eca3129e09e9456d16c47cc8-394fc8f4851fc3d8946821b8330ec109-1742976311-1742889911
+#EXTINF:-1 group-title="Movielab", Удар
+https://tv.movielab.pro/4111/video.m3u8?token=aabf036d62c399844b61713c217594f61682193e-b67419a5cda4bc59fd5d4724ffedcce4-1742976311-1742889911
+#EXTINF:-1 group-title="Movielab", Футбол
+https://tv.movielab.pro/3920/video.m3u8?token=2152dc791ecd0ef0c3f43ee53af9e8e1422ddb83-eabf7cbf0c6cf9e15cc61c02d9ece1db-1742976311-1742889911
 
 
 
