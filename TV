@@ -7381,7 +7381,9 @@ https://hls.goodgame.ru/hls/206355.m3u8
 
 
 
-
+#EXTINF:-1 group-title="Game Stream 🎮 Not 24/7" tvg-logo="https://dl.dropbox.com/s/3l38w595m1kt26k/logopit_1652914443716.jpg" ,GRAND IPTV TV
+#EXTVLCOPT:http-user-agent=SmartTV
+https://hls.goodgame.ru/hls/215088.m3u8
 #EXTINF:-1 group-title="Game Stream 🎮 Not 24/7" tvg-logo="https://goodgame.ru/files/avatars/av_1566003_uo4m.jpg",НОСТАЛЬЖИ!
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/199415.m3u8
