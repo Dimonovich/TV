@@ -1117,16 +1117,6 @@ http://213.91.178.133:8000/play/a0ar
 http://213.91.178.133:8000/play/a05n
 
 
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 group-title="Белтелеком_2",RTG TV
 http://178.124.152.238:8088/rtg
 #EXTINF:-1 group-title="Белтелеком_2",Наука 2.0
@@ -1151,14 +1141,20 @@ http://178.124.152.238:8088/perec
 http://178.124.152.238:8088/sony
 #EXTINF:-1 group-title="Белтелеком_2",Совершенно Секретно
 http://178.124.152.238:8088/sovsec
+#EXTINF:-1 group-title="Белтелеком_2",Кинопремьера HD
+http://178.124.179.122:8088/Kinopremiera/index.m3u8
+#EXTINF:-1 group-title="Белтелеком_2",.Sci-Fi
+http://178.124.179.122:8088/Sci-Fi/index.m3u8
+#EXTINF:-1 group-title="Белтелеком_2",Союз
+http://178.124.179.122:8088/Souz/index.m3u8
+#EXTINF:-1 group-title="Белтелеком_2",Супергерои
+http://178.124.179.122:8088/Malish/index.m3u8
 #EXTINF:-1 group-title="Белтелеком_2",Шансон ТВ
 http://178.124.152.238:8088/shanson
+#EXTINF:-1 group-title="Белтелеком_2",МузТВ
+http://178.124.179.122:8088/MuzTV/index.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",КХЛ
 http://178.124.152.238:8088/khl
-
-
-
-
 
 
 #EXTINF:-1 group-title="Hetzner Online",Россия К
