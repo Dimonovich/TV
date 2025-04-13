@@ -1,9 +1,9 @@
 [
    
   {
-    "server": "165.22.28.136",
+    "server": "207.154.232.206",
     "server_port": 8443,
-    "password": "hp21n3HI0Wouj/PPZGN93hPollL+OyPEsxg0I5XRykQ=",
+    "password": "DsKmLMOrwqDCjcO1w6bCjMKyRsOJUMOpw4tMOUbCmXPDrcOjdkgkXBsFwojDqMORFg==",
     "method": "aes-256-gcm",
     "remarks": "🇫🇷 Франция (Android TV + Free TV)",
     "route": "all",
@@ -16,9 +16,9 @@
     "udpdns": false
   },
   {
-    "server": "159.89.106.182",
+    "server": "206.81.19.127",
     "server_port": 8443,
-    "password": "2b3f6797-b593-4667-9904-be45576b9fad",
+    "password": "c761b97a-9a1f-43c5-ba04-6161d9a9b7ea",
     "method": "aes-256-gcm",
     "remarks": "🇫🇷 Франция 2 (Android TV + Free TV)",
     "route": "all",
@@ -29,26 +29,11 @@
       "enabled": false
     },
     "udpdns": false
-  },  
+  },
   {
-    "server": "138.68.80.148",
+    "server": "134.122.83.73",
     "server_port": 8443,
-    "password": "72bae7d5-03f5-418b-adde-c7b6b72c200f",
-    "method": "aes-256-gcm",
-    "remarks": "🇪🇸 Испания 2 (Android TV + Free TV)",
-    "route": "all",
-    "remote_dns": "one.one.one.one",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },    
-  {
-    "server": "206.189.50.143",
-    "server_port": 8443,
-    "password": "54f33976-05db-4a49-a63d-67f308034111",
+    "password": "w45hwqtjwqbDtDcLfkkTcMOJw4PCv0HCt2rCrsK7VsK4SjkEw4fDtTRgWsOJZg==",
     "method": "aes-256-gcm",
     "remarks": "🇩🇪 Германия (Android TV + Free TV)",
     "route": "all",
@@ -61,9 +46,9 @@
     "udpdns": false
   },
   {
-    "server": "167.172.56.234",
+    "server": "209.97.178.68",
     "server_port": 8443,
-    "password": "0KvogE9yp8F7IRuDCFh8wsgGa/CLCzkM530XSOQkPiA=",
+    "password": "wqMkSCE4bj0Jw6HCvEAqworDll1WwrLCqx9Xw6NqUcOowpDDrzIOw7pXMVA=",
     "method": "aes-256-gcm",
     "remarks": "🇬🇧 Великобритания (Android TV + Free TV)",
     "route": "all",
@@ -76,9 +61,9 @@
     "udpdns": false
   },  
   {
-    "server": "206.189.17.198",
+    "server": "165.232.35.66",
     "server_port": 8443,
-    "password": "70669719-a3ec-4739-bbb5-655c23d19791",
+    "password": "c2222924-9548-42d0-a7da-587586e7fb6f",
     "method": "aes-256-gcm",
     "remarks": "🇬🇧 Великобритания 2 (Android TV + Free TV)",
     "route": "all",
@@ -91,9 +76,9 @@
     "udpdns": false
   },
   {
-    "server": "188.119.112.242",
+    "server": "206.189.3.116",
     "server_port": 8443,
-    "password": "e6db9fd7-535a-4792-b8ec-3a62d732eb65",
+    "password": "w6AeVTvDjhDClsKxPUXCvMKlR8OaKFQpHsKuZcO0w6V6IDHCqcOGT23Dm8OODA==",
     "method": "aes-256-gcm",
     "remarks": "🇳🇱 Нидерланды 2 NEW (Android TV + Free TV)",
     "route": "all",
