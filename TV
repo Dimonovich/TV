@@ -173,20 +173,8 @@ http://cdn-01.bonus-tv.ru:80/Kaleidoskop_edge/index.m3u8
 http://cdn-01.bonus-tv.ru:80/kriktv_edge/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",Просвещение
 http://cdn-01.bonus-tv.ru:80/prosveschenie_edge/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",Вместе-РФ
-http://cdn-01.bonus-tv.ru:80/vmesterf/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",Arirang Korea
 https://cdn-01.bonus-tv.ru/arirang_edge/playlist.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",ТНТ MUSIC
-http://cdn-01.bonus-tv.ru/tntmusic/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",Ю
-http://cdn-01.bonus-tv.ru/u/playlist.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",E TV
-http://cdn-01.bonus-tv.ru/gsl/playlist.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",Russia Today
-http://cdn-01.bonus-tv.ru/RussiaToday/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",RT Doc
-http://cdn-01.bonus-tv.ru:80/rtdoc/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",9 ВОЛНА
 http://185.46.48.18:80/asvtv/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",Cinema
