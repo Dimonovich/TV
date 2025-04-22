@@ -29,6 +29,14 @@ https://stream.sunset-media.org:443/AfBrazXsUK/J9hGT3vYuv/5.m3u8
 https://stream.sunset-media.org/AfBrazXsUK/J9hGT3vYuv/8.m3u8
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://sunset-media.org/assets/img/serial.png" ,Sunset Serial
 https://stream.sunset-media.org/AfBrazXsUK/J9hGT3vYuv/9.m3u8
+#EXTINF:-1 group-title="TEST ⓵"  tvg-logo="https://static.mar.tv/logos/320/100.png",HD КИНО
+https://live6.mar.tv/d9a9062cff19d355bcad180662d76d9a9314ca6011670f154e240c0e7fec1999/hdkinoo/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵"  tvg-logo="https://static.mar.tv/logos/320/101.png",HD Kids
+https://live6.mar.tv/d9a9062cff19d355bcad180662d76d9a9314ca6011670f154e240c0e7fec1999/hdkids/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵"  tvg-logo="https://static.mar.tv/logos/320/102.png",HD Comedy
+https://live6.mar.tv/d9a9062cff19d355bcad180662d76d9a9314ca6011670f154e240c0e7fec1999/hdcomedy/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵",TV1000 Русское кино
+https://live1.mar.tv/d9a9062cff19d355bcad180662d76d9a9314ca6011670f154e240c0e7fec1999/117e/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Nat Geo Wild HD
 http://188.237.47.212:6005
 #EXTINF:-1 group-title="TEST ⓵",Fox Life HD
