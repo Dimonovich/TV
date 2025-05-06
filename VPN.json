@@ -31,6 +31,21 @@
     "udpdns": false
   },
   {
+    "server": "64.226.104.248",
+    "server_port": 8443,
+    "password": "1716b2bc-988e-47cc-852c-19fbc3df1733",
+    "method": "aes-256-gcm",
+    "remarks": "🇸🇪 Швеция (Android TV + Free TV)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },  
+  {
     "server": "161.35.197.11",
     "server_port": 8443,
     "password": "a9df33b6-d5d2-46fe-ae42-489ebdc09d1c",
