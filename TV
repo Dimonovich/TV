@@ -2609,7 +2609,6 @@ http://92.53.64.197:5050/okko_sport_hd/video.m3u8?token=m3VIth-Rou_bM1
 http://92.53.64.197:5050/dubai_sports_2hd/video.m3u8?token=m3VIth-Rou_bM1
 
 
-
 #EXTINF:-1 tvg-id="105 group-title="Lime (VPN 🇷🇺)", Первый канал
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://mhd128.iptv2022.com/p/lbizWp4MHk7g5M2hx1gvPw,1746824402/streaming/1kanalott/324/1/tracks-v5a1/mono.m3u8
@@ -2745,10 +2744,10 @@ https://mhd128.iptv2022.com/p/D7euhamL5sqdAQUuG5K-qg,1746824403/streaming/channe
 #EXTINF:-1 catchup="default" group-title="Lime (VPN 🇷🇺)", Пятый канал (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://mhd128.iptv2022.com/p/3a0hiknsO3km-cpxVlZxLw,1746824404/streaming/5kanalplus2/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 catchup="default" group-title="Lime (VPN 🇷🇺)", Пятый канал (+4)
+#EXTINF:-1 catchup="default" group-title="Lime (VPN 🇷🇺)", Пятый канал +2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://mhd128.iptv2022.com/p/RHbYL-bh-G5sq8B5OnqOQQ,1746824404/streaming/5kanalplus4/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 catchup="default" group-title="Lime (VPN 🇷🇺)", Пятый канал (+7)
+#EXTINF:-1 catchup="default" group-title="Lime (VPN 🇷🇺)", Пятый канал +7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://mhd128.iptv2022.com/p/m85uwQuBg9iA4soFDuwAsg,1746824404/streaming/5kanalplus7/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 catchup="default" group-title="Lime (VPN 🇷🇺)", Домашний +2
@@ -2832,10 +2831,10 @@ https://mhd128.iptv2022.com/p/LpZS3YpVmXRo_ZrDZbgT3Q,1746824405/streaming/cheplu
 #EXTINF:-1 catchup="default" group-title="Lime (VPN 🇷🇺)", Че! (+7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://mhd128.iptv2022.com/p/2gHpC7EdxbY-MuoFTRCAUA,1746824405/streaming/cheplus7/324/1/index.m3u8
-#EXTINF:-1 catchup="default" group-title="Lime (VPN 🇷🇺)", 2х2 (+2)
+#EXTINF:-1 catchup="default" group-title="Lime (VPN 🇷🇺)", 2x2 (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://mhd128.iptv2022.com/p/G0uDr7FpZsfyiM8ArpINcw,1746824405/streaming/2x2plus2/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 catchup="default" group-title="Lime (VPN 🇷🇺)", 2х2 (+4)
+#EXTINF:-1 catchup="default" group-title="Lime (VPN 🇷🇺)", 2x2 (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://mhd128.iptv2022.com/p/HYLVWTsFIvIkIUDe8ah2kA,1746824405/streaming/2x2plus4/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 catchup="default" group-title="Lime (VPN 🇷🇺)", Карусель (+2)
@@ -4458,6 +4457,7 @@ https://mhd128.iptv2022.com/p/7haRBrcLJLaEbtSdwUbJbA,1746824420/streaming/sila/3
 #EXTINF:-1 tvg-id="30696 group-title="Lime (VPN 🇷🇺)", Sumiko
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://mhd128.iptv2022.com/p/_y5MXtORQ4K9J5FveczWzg,1746824420/streaming/sumiko/324/1/tracks-v5a1/mono.m3u8
+
 
 
 
