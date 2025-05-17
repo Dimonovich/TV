@@ -104,7 +104,22 @@
       "enabled": false
     },
     "udpdns": false
-  },  
+  },
+  {
+    "server": "95.164.116.35",
+    "server_port": 8443,
+    "password": "81057e70-b589-4e6b-bdc0-8aaa430883e6",
+    "method": "aes-256-gcm",
+    "remarks": "🇹🇷 Турция (Android TV + Free TV)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },    
   {
     "server": "188.119.112.242",
     "server_port": 8443,
