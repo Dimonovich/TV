@@ -1960,10 +1960,14 @@ http://185.50.148.2:7703/ViasatHistory/index.m3u8
 http://185.50.148.2:7703/OhotaiRibalka/index.m3u8
 #EXTINF:-1 group-title="Andial Ltd (VPN)",Усадьба
 http://185.50.148.2:7703/PSIHOLOGIYA21/index.m3u8
-#EXTINF:-1 group-title="Andial Ltd (VPN)",Аппетитный HD
+#EXTINF:-1 group-title="Andial Ltd (VPN)",Живи
 http://185.50.148.2:7703/Motorsport/index.m3u8
-#EXTINF:-1 group-title="Andial Ltd (VPN)",Кино Без Границ
+#EXTINF:-1 group-title="Andial Ltd (VPN)",Amedia 1
 http://185.50.148.2:7703/Detskiy/index.m3u8
+#EXTINF:-1 group-title="Andial Ltd (VPN)",Amedia 2
+http://185.50.148.2:7703/Fox/index.m3u8
+#EXTINF:-1 group-title="Andial Ltd (VPN)",Amedia Hit
+http://185.50.148.2:7703/Mama/index.m3u8
 #EXTINF:-1 group-title="Andial Ltd (VPN)",TV1000
 http://185.50.148.2:7703/TV1000/index.m3u8
 #EXTINF:-1 group-title="Andial Ltd (VPN)",TV1000 Action
@@ -1980,11 +1984,11 @@ http://185.50.148.2:7711/Kinomiks/index.m3u8
 http://185.50.148.2:7711/Kinohit/index.m3u8
 #EXTINF:-1 group-title="Andial Ltd (VPN)",Дом Кино
 http://185.50.148.2:7707/DomKino/index.m3u8
-#EXTINF:-1 group-title="Andial Ltd (VPN)",Amedia 1
+#EXTINF:-1 group-title="Andial Ltd (VPN)",.black
 http://185.50.148.2:7707/A1/index.m3u8
-#EXTINF:-1 group-title="Andial Ltd (VPN)",Amedia 2
+#EXTINF:-1 group-title="Andial Ltd (VPN)",.Sci-Fi
 http://185.50.148.2:7707/A2/index.m3u8
-#EXTINF:-1 group-title="Andial Ltd (VPN)",Amedia Premium HD
+#EXTINF:-1 group-title="Andial Ltd (VPN)",Shot TV
 http://185.50.148.2:7707/AmediaPremium/index.m3u8
 #EXTINF:-1 group-title="Andial Ltd (VPN)",Mосфильм. Золотая коллекция
 http://185.50.148.2:7706/Mosfilm/index.m3u8
@@ -1994,14 +1998,8 @@ http://185.50.148.2:7707/Pobeda/index.m3u8
 http://185.50.148.2:7709/Evrokino/index.m3u8
 #EXTINF:-1 group-title="Andial Ltd (VPN)",Flix Snip
 http://185.50.148.2:7703/FlixSnip/index.m3u8
-#EXTINF:-1 group-title="Andial Ltd (VPN)",.Sci-Fi
+#EXTINF:-1 group-title="Andial Ltd (VPN)",Русский иллюзион
 http://185.50.148.2:7703/Sony_Sci-Fi/index.m3u8
-#EXTINF:-1 group-title="Andial Ltd (VPN)",.Black
-http://185.50.148.2:7703/Sony_Turbo/index.m3u8
-#EXTINF:-1 group-title="Andial Ltd (VPN)",Fox
-http://185.50.148.2:7703/Fox/index.m3u8
-#EXTINF:-1 group-title="Andial Ltd (VPN)",Мама
-http://185.50.148.2:7703/Mama/index.m3u8
 #EXTINF:-1 group-title="Andial Ltd (VPN)",ЧЕ
 http://185.50.148.2:7702/Che/index.m3u8
 #EXTINF:-1 group-title="Andial Ltd (VPN)",ОТР
@@ -2012,7 +2010,9 @@ http://185.50.148.2:7706/Sarafan/index.m3u8
 http://185.50.148.2:7706/STSLove/index.m3u8
 #EXTINF:-1 group-title="Andial Ltd (VPN)",Мультимузыка
 http://185.50.148.2:7706/Multimuzika/index.m3u8
-#EXTINF:-1 group-title="Andial Ltd (VPN)",МУЛЬТИМАНИЯ
+#EXTINF:-1 group-title="Andial Ltd (VPN)",В гостях у сказки
+http://185.50.148.2:7703/Sony_Turbo/index.m3u8
+#EXTINF:-1 group-title="Andial Ltd (VPN)",Мультиландия
 http://185.50.148.2:7706/Multimania/index.m3u8
 #EXTINF:-1 group-title="Andial Ltd (VPN)",Мульт
 http://185.50.148.2:7706/Mult/index.m3u8
