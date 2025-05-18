@@ -358,7 +358,7 @@ http://109.248.236.51/rossia_24/tracks-v1a1/mono.m3u8
 http://109.248.236.51/rossia_k/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Uplink",НТВ-Мир
 http://109.248.236.51/ntv_mir/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Uplink",Рен International
+#EXTINF:-1 group-title="Uplink",Рен ТВ international
 http://109.248.236.51/ren/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Uplink",National Geographic
 http://109.248.236.51/black/tracks-v1a1/mono.m3u8
@@ -408,6 +408,8 @@ http://109.248.236.51/kinokomedia/tracks-v1a1/mono.m3u8
 http://109.248.236.51/kinomix/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Uplink",Кинопремьера HD
 http://109.248.236.51/kinopremiera_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Uplink",Родное кино
+http://109.248.236.51/rodnoe_kino/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Uplink",Киносемья
 http://109.248.236.51/kinosemya/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Uplink",Киносерия
@@ -418,13 +420,15 @@ http://109.248.236.51/kinosvidanie/tracks-v1a1/mono.m3u8
 http://109.248.236.51/muzhskoe_kino/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Uplink",Наше новое кино
 http://109.248.236.51/nashe_novoe_kino/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Uplink",ktk
+#EXTINF:-1 group-title="Uplink",КТК
 http://109.248.236.51/ktk/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Uplink",НТК
+http://109.248.236.51/ntk/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Uplink",Astana TV
 http://109.248.236.51/astana/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Uplink",Atameken
 http://109.248.236.51/atameken/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Uplink",Balapan
+#EXTINF:-1 group-title="Uplink" tvg-id="balapan",Balapan   
 http://109.248.236.51/balapan/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Uplink",Кухня ТВ
 http://109.248.236.51/kuhnya_tv/tracks-v1a1/mono.m3u8
@@ -442,9 +446,7 @@ http://109.248.236.51/nostalgia/tracks-v1a1/mono.m3u8
 http://109.248.236.51/novoe_tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Uplink",НСТ
 http://109.248.236.51/nstv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Uplink",НТК
-http://109.248.236.51/ntk/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Uplink",o2tv
+#EXTINF:-1 group-title="Uplink" tvg-id="o2tv",o2tv
 http://109.248.236.51/o2tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Uplink",Оружие
 http://109.248.236.51/oruzhie/tracks-v1a1/mono.m3u8
@@ -456,8 +458,6 @@ http://109.248.236.51/pobeda/tracks-v1a1/mono.m3u8
 http://109.248.236.51/poehali/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Uplink",Fox HD
 http://109.248.236.51/red/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Uplink",Родное кино
-http://109.248.236.51/rodnoe_kino/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Uplink",Русский иллюзион
 http://109.248.236.51/russkiy_illusion/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Uplink",СТС
