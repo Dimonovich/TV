@@ -7864,7 +7864,9 @@ https://v2.catcast.tv/content/40546/index.m3u8
 
 
 
-
+#EXTINF:-1 group-title="Good Game" Not 24/7" tvg-logo="https://i.postimg.cc/3NttxH7R/1.png" ,VHDV TV 
+#EXTVLCOPT:http-user-agent=SmartTV
+https://hls.goodgame.ru/hls/214536.m3u8
 #EXTINF:-1 group-title="Good Game" Not 24/7" tvg-logo="https://dl.dropbox.com/s/3l38w595m1kt26k/logopit_1652914443716.jpg" ,GRAND IPTV TV
 #EXTVLCOPT:http-user-agent=SmartTV
 https://hls.goodgame.ru/hls/215088.m3u8
