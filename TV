@@ -49,6 +49,10 @@ http://92.53.64.197:5050/IPTVPLAYMultSkazki.tv/video.m3u8?token=m3VIth-Rou_bM1
 http://95.46.208.8:24432/skif
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://cvy.okis.ru/file/cvy/9.gif",Релакс
 http://185.57.68.33/232/mpegts
+#EXTINF:-1 group-title="TEST ⓵",Загородная жизнь
+http://185.57.68.33/40/mpegts
+#EXTINF:-1 group-title="TEST ⓵",МАТЧ! Футбол 3
+http://185.57.68.33/110/mpegts
 #EXTINF:-1 group-title="TEST ⓵",OstWest
 http://95.67.12.82:9077
 #EXTINF:-1 group-title="TEST ⓵",Continent E
