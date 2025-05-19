@@ -366,6 +366,8 @@ http://109.248.236.51/black/tracks-v1a1/mono.m3u8
 http://109.248.236.51/Discovery/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Uplink",Animal Planet HD
 http://109.248.236.51/animal_planet_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Uplink",Точка РФ
+http://109.248.236.51/hdl/mono.m3u8
 #EXTINF:-1 group-title="Uplink",Travelxp
 http://109.248.236.51/discovery_channel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Uplink",365 дней
@@ -376,6 +378,8 @@ http://109.248.236.51/nat_geo_wild_hd/tracks-v1a1/mono.m3u8
 http://109.248.236.51/tehno_24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Uplink",Моя планета
 http://109.248.236.51/moya_planeta/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Uplink",Viasat Explore
+http://109.248.236.51/viju_explore/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Uplink",Viasat History
 http://109.248.236.51/viju_history/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Uplink",Viasat Nature
@@ -386,6 +390,8 @@ http://109.248.236.51/amedia_hit_hd/tracks-v1a1/mono.m3u8
 http://109.248.236.51/amedia_premium_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Uplink",Авто 24
 http://109.248.236.51/avto24/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Uplink",Индия
+http://109.248.236.51/india/mono.m3u8
 #EXTINF:-1 group-title="Uplink",Авто плюс
 http://109.248.236.51/avtoplus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Uplink",Дом кино
@@ -402,6 +408,8 @@ http://109.248.236.51/hdl/tracks-v1a1/mono.m3u8
 http://109.248.236.51/ID/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Uplink",Кинохит
 http://109.248.236.51/kinohit/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Uplink",Индийское кино
+http://109.248.236.51/indiyskoe_kino/mono.m3u8
 #EXTINF:-1 group-title="Uplink",Кинокомедия
 http://109.248.236.51/kinokomedia/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Uplink",Киномикс
