@@ -420,6 +420,12 @@ http://109.248.236.51/kinosvidanie/tracks-v1a1/mono.m3u8
 http://109.248.236.51/muzhskoe_kino/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Uplink",Наше новое кино
 http://109.248.236.51/nashe_novoe_kino/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Uplink",TV1000 Русское кино
+http://109.248.236.51/viju_tv1000_russkoe/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Uplink",TV1000 Action
+http://109.248.236.51/viju_tv1000_action/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Uplink",TV1000
+http://109.248.236.51/viju_tv1000/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Uplink",КТК
 http://109.248.236.51/ktk/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Uplink",НТК
