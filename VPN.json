@@ -18,7 +18,7 @@
   {
     "server": "68.183.213.232",
     "server_port": 8443,
-    "password": "2efd1a41-c1bd-4e60-bcc9-a93f74396891",
+    "password": "735fd4f4-bc55-400a-9f1c-2b91089c9200",
     "method": "aes-256-gcm",
     "remarks": "🇫🇷 Франция 2 (Android TV + Free TV)",
     "route": "all",
@@ -33,7 +33,7 @@
   {
     "server": "167.172.177.240",
     "server_port": 8443,
-    "password": "14b7fa74-d4a9-4006-bf7d-4f30b464f443",
+    "password": "e61085be-4330-467a-a9e2-83ffb47be5e5",
     "method": "aes-256-gcm",
     "remarks": "🇸🇪 Швеция (Android TV + Free TV)",
     "route": "all",
@@ -48,7 +48,7 @@
   {
     "server": "139.59.208.184",
     "server_port": 8443,
-    "password": "4187a472-c27c-4180-9ed3-a0c11f5c36bb",
+    "password": "7713650c-919d-4dfc-8382-0806d3c9a713",
     "method": "aes-256-gcm",
     "remarks": "🇩🇪 Германия 2 (Android TV + Free TV)",
     "route": "all",
@@ -78,7 +78,7 @@
   {
     "server": "144.126.199.156",
     "server_port": 8443,
-    "password": "99f44ac1-81d1-43c4-85ad-3f44e48858aa",
+    "password": "54234bb0-5682-4d5e-b3c0-899409b332b5",
     "method": "aes-256-gcm",
     "remarks": "🇬🇧 Великобритания 2 (Android TV + Free TV)",
     "route": "all",
@@ -108,7 +108,7 @@
   {
     "server": "95.164.116.35",
     "server_port": 8443,
-    "password": "81057e70-b589-4e6b-bdc0-8aaa430883e6",
+    "password": "e9055257-e75c-4f89-9bb1-653d2e1f62be",
     "method": "aes-256-gcm",
     "remarks": "🇹🇷 Турция (Android TV + Free TV)",
     "route": "all",
@@ -121,9 +121,9 @@
     "udpdns": false
   },    
   {
-    "server": "206.189.10.249",
+    "server": "188.119.112.242",
     "server_port": 8443,
-    "password": "UcOfw4jDhMO4w5fCsMORL1Z7NCd5w6DDkDHCs8OCw7nDk8Odw4xEwqTCpsOcwpptwqZ9wrY=",
+    "password": "b84e66fb-5146-48b5-9264-d6acdd158081",
     "method": "aes-256-gcm",
     "remarks": "🇳🇱 Нидерланды 2 NEW (Android TV + Free TV)",
     "route": "all",
