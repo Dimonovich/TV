@@ -1,7 +1,7 @@
 [
    
   {
-    "server": "46.101.124.97",
+    "server": "51.178.43.237",
     "server_port": 8443,
     "password": "wprDgsKPdcK6UnotVsKCQywZEGzCsC/DtBTDhsO6wo/Cn3gZw7xUwp43ARHDqg==",
     "method": "aes-256-gcm",
@@ -16,9 +16,9 @@
     "udpdns": false
   },
   {
-    "server": "68.183.213.232",
+    "server": "51.178.41.178",
     "server_port": 8443,
-    "password": "dc7cbcc0-8a80-4aa6-922c-d7a2dd00994f",
+    "password": "7cbd03ea-00d4-43eb-b4e2-1b4f2275d6b5",
     "method": "aes-256-gcm",
     "remarks": "🇫🇷 Франция 2 (Android TV + Free TV)",
     "route": "all",
