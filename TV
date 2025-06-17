@@ -26,13 +26,13 @@ http://188.237.47.212:6005
 #EXTINF:-1 group-title="TEST ⓵",Fox Life HD
 http://188.237.47.212:6008
 #EXTINF:-1 group-title="TEST ⓵", TV1000 HD
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=zSBAVt_5cUi0sDorrBgN6g&e=1750042656&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=N2Dc3_4qYjLLejkZLZMgXA&e=1751139610&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 group-title="TEST ⓵", TV1000 Action
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=6HKhbL-XPZ9gmBg1YRtf5Q&e=1750042720&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=TxXAXzEOq-uVyD5gRBGCFg&e=1751139577&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 group-title="TEST ⓵",viju TV1000 новелла
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Novella_HD.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=9Qczw2zRJLTahDPtRz9Cjw&e=1750042751&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 group-title="TEST ⓵",viju TV1000 romantica
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=D6ZvAOIiRxaaukKmEdN2IQ&e=1750042690&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=4xV0Ir0Z2_TdRbsNRTpDxw&e=1751139643&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/J4wRwcQn/i-TV-Cinema-Logo.png",ITV Cinema
 https://iptv.itv.uz/hls/live/t/UAcSEExX5UamlFqFOIaXIA/e/1767191403/4000/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/MTbNhVZc/i-TV-Music-Logo.png",ITV Music
@@ -2045,75 +2045,6 @@ http://178.212.71.253:8000/play/118/index.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Старт
 http://178.212.71.253:8000/play/81/index.m3u8
 
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="Крэлком (VPN)",Big Planet
-http://109.200.130.123:7537/play/a03j
-#EXTINF:-1 group-title="Крэлком (VPN)",Viasat Explore
-http://109.200.130.123:7537/play/a037
-#EXTINF:-1 group-title="Крэлком (VPN)",Viasat History
-http://109.200.130.123:7537/play/a038
-#EXTINF:-1 group-title="Крэлком (VPN)",Viasat Nature
-http://109.200.130.123:7537/play/a03a
-#EXTINF:-1 group-title="Крэлком (VPN)",Мой Мир
-http://109.200.130.123:7537/play/a036
-#EXTINF:-1 group-title="Крэлком (VPN)",Моя стихия
-http://109.200.130.123:7537/play/a03f
-#EXTINF:-1 group-title="Крэлком (VPN)",FlixSnip
-http://109.200.130.123:7537/play/a03s
-#EXTINF:-1 group-title="Крэлком (VPN)",Hollywood
-http://109.200.130.123:7537/play/a03g
-#EXTINF:-1 group-title="Крэлком (VPN)",KinoLiving
-http://109.200.130.123:7537/play/a03k
-#EXTINF:-1 group-title="Крэлком (VPN)",Women's Magazine
-http://109.200.130.123:7537/play/a03q
-#EXTINF:-1 group-title="Крэлком (VPN)",АРМЕНИЯ ТВ
-http://109.200.130.123:7537/play/a035
-#EXTINF:-1 group-title="Крэлком (VPN)",Время
-http://109.200.130.123:7537/play/a03r
-#EXTINF:-1 group-title="Крэлком (VPN)",Дом Кино
-http://109.200.130.123:7537/play/a03d
-#EXTINF:-1 group-title="Крэлком (VPN)",Дорама
-http://109.200.130.123:7537/play/a03n
-#EXTINF:-1 group-title="Крэлком (VPN)",ЕвроКино
-http://109.200.130.123:7537/play/a030
-#EXTINF:-1 group-title="Крэлком (VPN)",ЖАРА
-http://109.200.130.123:7537/play/a03u
-#EXTINF:-1 group-title="Крэлком (VPN)",TV1000
-http://109.200.130.123:7537/play/a03i
-#EXTINF:-1 group-title="Крэлком (VPN)",TV1000 action
-http://109.200.130.123:7537/play/a03h
-#EXTINF:-1 group-title="Крэлком (VPN)",КИНОУЖАС
-http://109.200.130.123:7537/play/a031
-#EXTINF:-1 group-title="Крэлком (VPN)",ПОБЕДА
-http://109.200.130.123:7537/play/a03t
-#EXTINF:-1 group-title="Крэлком (VPN)",Русский Иллюзион
-http://109.200.130.123:7537/play/a033
-#EXTINF:-1 group-title="Крэлком (VPN)",Танцуй!
-http://109.200.130.123:7537/play/a03l
-#EXTINF:-1 group-title="Крэлком (VPN)",Точка отрыва
-http://109.200.130.123:7537/play/a032
-#EXTINF:-1 group-title="Крэлком (VPN)",ТНТ Music
-http://109.200.130.123:7537/play/a03o
-#EXTINF:-1 group-title="Крэлком (VPN)",MCM Top
-http://109.200.130.123:7537/play/a039
-#EXTINF:-1 group-title="Крэлком (VPN)",Duck TV
-http://109.200.130.123:7537/play/a03e
-#EXTINF:-1 group-title="Крэлком (VPN)",Радость моя
-http://109.200.130.123:7537/play/a034
-#EXTINF:-1 group-title="Крэлком (VPN)",БОБЁР
-http://109.200.130.123:7537/play/a03c
-#EXTINF:-1 group-title="Крэлком (VPN)",В гостях у сказки
-http://109.200.130.123:7537/play/a03m
-#EXTINF:-1 group-title="Крэлком (VPN)",Extreme Sports
-http://109.200.130.123:7537/play/a03p
-#EXTINF:-1 group-title="Крэлком (VPN)",Viasat Sport
-http://109.200.130.123:7537/play/a03b
 
 
 
