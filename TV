@@ -1335,7 +1335,7 @@ https://live-sovsec-ref.cdnvideo.ru/sovsec/sovsec.smil/playlist.m3u8?zoid=sref
 #EXTINF:-1 group-title="С сайтов",Беларусь 24
 https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/chunklist_w1008231497_b5160000_sleng.m3u8
 #EXTINF:-1 group-title="С сайтов" tvg-id="stv-by", СТВ
-https://ngtrk.dc.beltelecom.by/ctv/ctv.stream/chunklist.m3u8
+https://edge53.dc.beltelecom.by/ctv/_definst_/ctv.stream/chunklist_w1093126388.m3u8
 #EXTINF:-1 group-title="С сайтов" tvg-logo="https://novoetv.kz/wp-content/uploads/2023/03/logo_novoetv_white.png",Новое Телевидение
 https://live.zhanafm.kz:8181/memfs/fd715789-382f-4ec6-b4ba-d8e2fde59c7b.m3u8
 #EXTINF:-1 group-title="С сайтов" tvg-logo="https://i.postimg.cc/L5209XbZ/download.png",Сфера ТВ
@@ -1345,7 +1345,7 @@ https://osnmedia.servicecdn.ru/streams/17603_88089/1080n/index.m3u8
 #EXTINF:-1 group-title="С сайтов", Silk Way
 https://ikomg-kazakh.akamaized.net/kazakh/kazakh.m3u8
 #EXTINF:-1 group-title="С сайтов" ,Дождь HD
-https://wl.tvrain.tv/transcode/ngrp:ses_all/chunklist_b5909690.m3u8
+https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
 #EXTINF:-1 group-title="С сайтов" tvg-logo="http://epg.it999.ru/img/2142.png",Настоящее время
 https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
 #EXTINF:-1 group-title="С сайтов" tvg-logo="https://i.postimg.cc/nLwPZgX2/image.jpg",ТСВ
