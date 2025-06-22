@@ -81,6 +81,24 @@ http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
 https://api.alpaca.t62a.com/hls/9104/stream0.m3u8
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://meineinkauf.ch/fileadmin/_processed_/0/9/csm_44035_KaufBei_2018_b95f89bcc7.png",Kaufbei TV
 http://api.alpaca.t62a.com/hls/9112/stream0.m3u8
+#EXTINF:-1 group-title="TEST ⓵", Київ HD
+https://api-tv.ipnet.ua/api/v1/manifest/1293296300.m3u8
+#EXTINF:-1 group-title="TEST ⓵", 5 Канал HD
+https://api-tv.ipnet.ua/api/v1/manifest/2118742539.m3u8
+#EXTINF:-1 group-title="TEST ⓵", Еспресо HD
+https://api-tv.ipnet.ua/api/v1/manifest/2118742594.m3u8
+#EXTINF:-1 group-title="TEST ⓵", Deutsche Welle
+https://api-tv.ipnet.ua/api/v1/manifest/2118742360.m3u8
+#EXTINF:-1 group-title="TEST ⓵", France 24
+https://api-tv.ipnet.ua/api/v1/manifest/1311962630.m3u8
+#EXTINF:-1 group-title="TEST ⓵", Рада
+https://api-tv.ipnet.ua/api/v1/manifest/1312714970.m3u8
+#EXTINF:-1 group-title="TEST ⓵", UA: ПЕРШИЙ HD
+https://api-tv.ipnet.ua/api/v1/manifest/2118742505.m3u8
+#EXTINF:-1 group-title="TEST ⓵", МИ - УКРАЇНА HD
+https://api-tv.ipnet.ua/api/v1/manifest/2118742680.m3u8
+#EXTINF:-1 group-title="TEST ⓵", Армія ТБ
+https://api-tv.ipnet.ua/api/v1/manifest/2118742632.m3u
 #EXTINF:-1 group-title="TEST ⓵",4K travel 
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/1967b0de-bf90-4339-a563-a5d06bba32ed/2.m3u8
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="http://ottpink.network/picons/loupe4k.png",Loupe 4K
