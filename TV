@@ -19,8 +19,6 @@ http://194.26.229.213/chdtv_rock/index.m3u8
 http://194.26.229.213/souzmultfilm/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/BvqS8HVV/1.png",Чип и Дейл
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵",МультКазки
-http://filmtvgroup.hopto.org:8080/FILM_TV_GROUP_multkazki/index.m3u8?token=FILM_TV_GROUP
 #EXTINF:-1 group-title="TEST ⓵",Nat Geo Wild HD
 http://188.237.47.212:6005
 #EXTINF:-1 group-title="TEST ⓵",Fox Life HD
@@ -37,16 +35,6 @@ https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-
 https://iptv.itv.uz/hls/live/t/UAcSEExX5UamlFqFOIaXIA/e/1767191403/4000/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/MTbNhVZc/i-TV-Music-Logo.png",ITV Music
 https://iptv.itv.uz/hls/live/t/IDvfbmZ5Ibmqs0plMhNejg/e/1767191403/4001/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵",IPTVPLAY ФАНТАСТИКА HD
-http://92.53.64.197:5050/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="TEST ⓵",IPTVPLAY ПАМЯТЬ HD
-http://92.53.64.197:5050/IPTVPLAYPAMYAT.tv/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="TEST ⓵",IPTVPLAY УЖАСТИК HD
-http://92.53.64.197:5050/IPTVPLAYUZHASTIK.tv/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="TEST ⓵",IPTVPLAY PROMO HD
-http://92.53.64.197:5050/IPTVPLAYPROMO.tv/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="TEST ⓵",IPTVPLAY МультСказки HD
-http://92.53.64.197:5050/IPTVPLAYMultSkazki.tv/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 group-title="TEST ⓵" tvg-id="skif-vitebsk",Скиф ТВ
 http://95.46.208.8:24432/skif
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://cvy.okis.ru/file/cvy/9.gif",Релакс
@@ -320,199 +308,6 @@ https://river-1.rutube.ru/hls-vod/WbdDZ9GNNsSJDvYJgrlXQQ/1751831857/1788/0x5000c
 https://river-1.rutube.ru/hls-vod/YN7OqXS1K3dK2R6_W1a8qw/1751831858/1846/0x5000c500c921884f/3a14e22cc0b24da0b4c9994cfbbfff0a.mp4.m3u8?i=3840x2160_15561
 
 
-
-#EXTINF:-1 group-title="Netka Telekom",Первый Канал HD
-https://vod.splay.uz/live_splay/original/Perviy_Kanal/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",Россия 1
-https://vod.splay.uz/live_splay/original/Rossiya1/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",Россия 24
-https://vod.splay.uz/live_splay/original/Rossiya24/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",Россия К
-https://vod.splay.uz/live_splay/original/RossiyaK/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",Рен ТВ
-https://vod.splay.uz/live_splay/original/Ren_TV/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",НТВ-Мир
-https://vod.splay.uz/live_splay/original/NTV_MIR/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",ТНТ
-https://vod.splay.uz/live_splay/original/TNT/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",НТВ
-https://vod.splay.uz/live_splay/original/NTV/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",Viasat explore
-https://vod.splay.uz/live_splay/original/Viasat_Explorer/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",Viasat History
-https://vod.splay.uz/live_splay/original/Viasat_History/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",Viasat Nature
-https://vod.splay.uz/live_splay/original/Viasat_Nature/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",Discovery Channel
-https://vod.splay.uz/live_splay/original/Discovery_Channel/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",HD Life
-https://vod.splay.uz/live_splay/original/HDL_HD/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",Дикий
-https://vod.splay.uz/live_splay/original/Dikiy/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",History HD
-https://vod.splay.uz/live_splay/original/History/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",Живая природа
-https://vod.splay.uz/live_splay/original/JivayaPrirodaHD/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",Моя планета HD
-https://vod.splay.uz/live_splay/original/MoyaPlanetaHD/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",Nat Geo Wild HD
-https://vod.splay.uz/live_splay/original/Nat_Geo_Wild_HD/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",National Geographic HD
-https://vod.splay.uz/live_splay/original/National_Geographic/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",Техно 24
-https://vod.splay.uz/live_splay/original/Tehno_24/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",Animal Planet
-https://vod.splay.uz/live_splay/original/Animal_Planet/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",Охота и Рыбалка
-https://vod.splay.uz/live_splay/original/Ohota_Ribalka/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",Galaxy
-https://vod.splay.uz/live_splay/original/TayniGalaktiki/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",Мир
-https://vod.splay.uz/live_splay/original/Mir/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",Мир 24
-https://vod.splay.uz/live_splay/original/Mir24/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",Домашний
-https://vod.splay.uz/live_splay/original/Domashniy/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",Телекафе
-https://vod.splay.uz/live_splay/original/Telekafe/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",Кухня ТВ
-https://vod.splay.uz/live_splay/original/KuxnyaTV/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",АВТО ПЛЮС
-https://vod.splay.uz/live_splay/original/Avto_Plus/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",Доктор
-https://vod.splay.uz/live_splay/original/DoktorHD/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",ТВ3
-https://vod.splay.uz/live_splay/original/TV3/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",TV1000
-https://vod.splay.uz/live_splay/original/TV1000/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",TV1000 Русское кино
-https://vod.splay.uz/live_splay/original/TV1000rus/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",TV1000 Action
-https://vod.splay.uz/live_splay/original/vijuTV1000action/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",Кинопремьера
-https://vod.splay.uz/live_splay/original/Kinopremera/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",Киносерия
-https://vod.splay.uz/live_splay/original/Kinoseriya/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",Кинохит
-https://vod.splay.uz/live_splay/original/Kinoxit/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",Киносемья
-https://vod.splay.uz/live_splay/original/Kinosemya/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",Киномикс
-https://vod.splay.uz/live_splay/original/KinomiksHD/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",Мужское кино
-https://vod.splay.uz/live_splay/original/Mujskoe-KinoHD/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",Родное Кино
-https://vod.splay.uz/live_splay/original/Rodnoe_Kino/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",Наше новое кино
-https://vod.splay.uz/live_splay/original/Nashe_novoe_kino/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",Киносвидание
-https://vod.splay.uz/live_splay/original/Kinosvidanie/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",Кинокомедия
-https://vod.splay.uz/live_splay/original/Kinokomediya/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",Индийское Кино
-https://vod.splay.uz/live_splay/original/Indiyskoe_Kino/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",Ретро
-https://vod.splay.uz/live_splay/original/Retro/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",Русский бестселлер
-https://vod.splay.uz/live_splay/original/RusskiyBesteler/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",Русский детектив
-https://vod.splay.uz/live_splay/original/RusskiyDetektiv/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",Star Cinema
-https://vod.splay.uz/live_splay/original/Star_Cinema/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",Cinema HD
-https://vod.splay.uz/live_splay/original/CinemaHD/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",Дорама
-https://vod.splay.uz/live_splay/original/Dorama/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",365 дней
-https://vod.splay.uz/live_splay/original/365Dney/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",8 канал
-https://vod.splay.uz/live_splay/original/8Kanal/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",Авто 24
-https://vod.splay.uz/live_splay/original/Avto24/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",Дом кино
-https://vod.splay.uz/live_splay/original/Dom_Kino/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",Euronews
-https://vod.splay.uz/live_splay/original/Euronews/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",Qazaqstan
-https://vod.splay.uz/live_splay/original/Qazaqstan/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",СТС
-https://vod.splay.uz/live_splay/original/STS/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",Зоопарк
-https://vod.splay.uz/live_splay/original/ZooPark/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",Звезда
-https://vod.splay.uz/live_splay/original/Zvezda/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",Ozbekiston
-https://vod.splay.uz/live_splay/original/Uzbekiston/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",Yoshlar HD
-https://vod.splay.uz/live_splay/original/YoshlarHD/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",Toshkent
-https://vod.splay.uz/live_splay/original/Toshkent/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",Dunyo bo`ylab UZ
-https://vod.splay.uz/live_splay/original/Dunyoboylab_HD/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",Ozbekiston Tarixi HD UZ
-https://vod.splay.uz/live_splay/original/Uzbekiston-TarixiHD/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",Kinoteatr
-https://vod.splay.uz/live_splay/original/Kinoteatr_HD/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",Navo
-https://vod.splay.uz/live_splay/original/Navo/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",Mahalla UZ
-https://vod.splay.uz/live_splay/original/Mahalla/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",Bolajon
-https://vod.splay.uz/live_splay/original/Bolajon/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",FTV
-https://vod.splay.uz/live_splay/original/FTVHD/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",Муз-ТВ (O'zbekiston)
-https://vod.splay.uz/live_splay/original/Muz_TV/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",Zo'r TV HD UZ
-https://vod.splay.uz/live_splay/original/Zor_TVHD/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",Milliy TV UZ
-https://vod.splay.uz/live_splay/original/Milly_TVHD/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",My5 UZ
-https://vod.splay.uz/live_splay/original/Mening_YurtimHD/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",Dasturxon TV UZ
-https://vod.splay.uz/live_splay/original/DasturxonTV/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",MyDayTV
-https://vod.splay.uz/live_splay/original/Myday/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",Lux TV
-https://vod.splay.uz/live_splay/original/LuxTV/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",Renessans TV UZ
-https://vod.splay.uz/live_splay/original/Renessans_TV/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",Travel-tv (O'zbekiston)
-https://fl.biztv.media/TabiatTV_1080/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Netka Telekom",Biznes TV
-https://fl.biztv.media/BiznesTV_1080/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Netka Telekom",Bridge TV Classic
-https://vod.splay.uz/live_splay/original/Bridge_TV/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",Мульт HD
-https://vod.splay.uz/live_splay/original/MultHD/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",Мама
-https://vod.splay.uz/live_splay/original/Mama/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",Детский мир
-https://vod.splay.uz/live_splay/original/DetskiyMir/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",СТС Kids
-https://vod.splay.uz/live_splay/original/STSkids/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",Уникум
-https://vod.splay.uz/live_splay/original/Detskiy/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",Бобёр
-https://vod.splay.uz/live_splay/original/Bober/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",Карусель
-https://vod.splay.uz/live_splay/original/Karusel/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",Da vinci
-https://vod.splay.uz/live_splay/original/Davinci/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",Sport Uz
-https://vod.splay.uz/live_splay/original/Sport-UZ/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",Futbol TV
-https://vod.splay.uz/live_splay/original/FutbolTV/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",Setanta Sports 1 HD
-https://vod.splay.uz/live_splay/original/Setanta1HD/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",Setanta Sports 2 HD
-https://vod.splay.uz/live_splay/original/Setanta2HD/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",Eurosport 1 HD
-https://vod.splay.uz/live_splay/original/Eurosport/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",MMA-TV.COM
-https://vod.splay.uz/live_splay/original/MMA-TV.comHD/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Netka Telekom",Viasat Sport
-https://vod.splay.uz/live_splay/original/Viasat_Sport/tracks-v1a1/mono.ts.m3u8
 
 
 
@@ -7337,7 +7132,13 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunk
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Dubai Sports 3
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1300000.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Dubai Racing
-https://dmisdracta.cdn.mgmlcdn.com/events/smil:events.stream.smil/chunklist_b4000000.m3u8
+https://dmisdracta.cdn.mgmlcdn.com/events/smil:events.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Dubai Racing 2
+https://dmithrvllta.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Dubai Racing 3
+https://dmithrvllta.cdn.mgmlcdn.com/dubaimubasher/smil:dubaimubasher.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Fifa+
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Sharjah Sports
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4sportspublish/smc4tv_720p/chunks.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Horse and Country TV
