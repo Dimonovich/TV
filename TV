@@ -321,16 +321,6 @@ https://river-1.rutube.ru/hls-vod/nEYOP_hJrhUCdDuRkw9YPg/1754150259/1846/0x5000c
 
 
 
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 group-title="ОСС",Рен ТВ HD
 http://178.217.72.66:8080/REN_TV/index.m3u8
 #EXTINF:-1 group-title="ОСС",Россия 1 HD
@@ -411,14 +401,14 @@ http://178.217.72.66:8080/Zagorodnaya_Zhizn/index.m3u8
 http://178.217.72.66:8080/Black/index.m3u8
 #EXTINF:-1 group-title="ОСС",2x2
 http://178.217.72.66:8080/2x2/index.m3u8
-#EXTINF:-1 group-title="ОСС",Amedia 2 HD
-http://178.217.72.66:8080/A2/index.m3u8
 #EXTINF:-1 group-title="ОСС",Amedia Hit HD
 http://178.217.72.66:8080/Amedia_Hit/index.m3u8
 #EXTINF:-1 group-title="ОСС",Amedia Premium HD
 http://178.217.72.66:8080/Amedia_Premium_HD/index.m3u8
-#EXTINF:-1 group-title="ОСС",Amedia1 HD
+#EXTINF:-1 group-title="ОСС",Amedia 1 HD
 http://178.217.72.66:8080/A1/index.m3u8
+#EXTINF:-1 group-title="ОСС",Amedia 2 HD
+http://178.217.72.66:8080/A2/index.m3u8
 #EXTINF:-1 group-title="ОСС",BCU Action HD
 http://178.217.72.66:8080/BCUActionHD/index.m3u8
 #EXTINF:-1 group-title="ОСС",BCU Catastrophe HD
@@ -511,7 +501,7 @@ http://178.217.72.66:8080/kineko/index.m3u8
 http://178.217.72.66:8080/Kino_TV/index.m3u8
 #EXTINF:-1 group-title="ОСС",Кинопоказ HD
 http://178.217.72.66:8080/kinopokazhd/index.m3u8
-#EXTINF:-1 group-title="ОСС",Кинопремиум HD
+#EXTINF:-1 group-title="ОСС",Премиальное HD
 http://178.217.72.66:8080/kinopremium/index.m3u8
 #EXTINF:-1 group-title="ОСС",Кинокомедия
 http://178.217.72.66:8080/Kinokomediya/index.m3u8
@@ -527,7 +517,7 @@ http://178.217.72.66:8080/kinoujas/index.m3u8
 http://178.217.72.66:8080/Nashe_Novoe_Kino/index.m3u8
 #EXTINF:-1 group-title="ОСС",Кинохит
 http://178.217.72.66:8080/Kinokhit/index.m3u8
-#EXTINF:-1 group-title="ОСС",Кинсемья
+#EXTINF:-1 group-title="ОСС",Киносемья
 http://178.217.72.66:8080/Kinosemya/index.m3u8
 #EXTINF:-1 group-title="ОСС",Комедийное HD
 http://178.217.72.66:8080/komediynoe/index.m3u8
@@ -585,7 +575,7 @@ http://178.217.72.66:8080/super/index.m3u8
 http://178.217.72.66:8080/TV3/index.m3u8
 #EXTINF:-1 group-title="ОСС",Телекафе
 http://178.217.72.66:8080/Telekafe/index.m3u8
-#EXTINF:-1 group-title="ОСС",Тонус
+#EXTINF:-1 group-title="ОСС",Тонус ТВ
 http://178.217.72.66:8080/tonus/index.m3u8
 #EXTINF:-1 group-title="ОСС",Точка ТВ
 http://178.217.72.66:8080/Tochka_TV/index.m3u8
@@ -621,7 +611,7 @@ http://178.217.72.66:8080/Mult/index.m3u8
 http://178.217.72.66:8080/Multimuzyka/index.m3u8
 #EXTINF:-1 group-title="ОСС",TiJi
 http://178.217.72.66:8080/TiJi/index.m3u8
-#EXTINF:-1 group-title="ОСС",Супергегрои
+#EXTINF:-1 group-title="ОСС",Супергерои
 http://178.217.72.66:8080/Malysh/index.m3u8
 #EXTINF:-1 group-title="ОСС",Bridge HD
 http://178.217.72.66:8080/Bridge_HD/index.m3u8
