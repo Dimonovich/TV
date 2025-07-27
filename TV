@@ -147,6 +147,10 @@ https://132544.edgevideo.ru/streams/132544_730983/1325441080/index.m3u8
 https://132544.edgevideo.ru/streams/132544_713325/1325441080/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://img.catcast.tv/uploads/27032025/logos/43064-67e592cc0c172.png",Малдер Всё ТВ
 https://132544.edgevideo.ru/streams/132544_902681/132544720/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Про бизнес
+http://176.107.219.20:9000/play/a003/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Светлое ТВ
+http://176.107.219.20:9000/play/a009/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",8 канал
 http://cdn-01.bonus-tv.ru:80/8kanal/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",Крик-ТВ
