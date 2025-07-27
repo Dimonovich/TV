@@ -19,6 +19,14 @@ http://194.26.229.213/chdtv_rock/index.m3u8
 http://194.26.229.213/souzmultfilm/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/BvqS8HVV/1.png",Чип и Дейл
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵",ТНТ4 International
+https://cdn4.skygo.mn/live/disk1/TNT4/HLSv3-FTA/TNT4.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Рен ТВ International
+https://cdn2.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Пятница! International
+https://cdn4.skygo.mn/live/disk1/Friday/HLSv3-FTA/Friday.m3u8
+#EXTINF:-1 group-title="TEST ⓵",СТС International
+https://cdn4.skygo.mn/live/disk1/Domashniy/HLSv3-FTA/Domashniy.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Nat Geo Wild HD
 http://188.237.47.212:6005
 #EXTINF:-1 group-title="TEST ⓵",Fox Life HD
