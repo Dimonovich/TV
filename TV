@@ -3536,6 +3536,12 @@ http://194.143.148.28:8080/U/mpegts
 http://194.143.148.28:8080/Mir24/mpegts
 #EXTINF:-1 group-title="Байкал-Телеком (VPN)",RT Doc
 http://194.143.148.28:8080/RTD_HD/mpegts
+#EXTINF:-1 group-title="Байкал-Телеком (VPN)",СТС Love
+http://194.143.148.28:8080/CTC_LOVE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Байкал-Телеком (VPN)",Кинеко
+http://194.143.148.28:8080/KINEKO/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Байкал-Телеком (VPN)",MCM HD
+http://194.143.148.28:8080/MCM/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Байкал-Телеком (VPN)",Студия Радио MCM - Иркутск HD
 http://194.143.148.28:8080/MCM/mpegts
 #EXTINF:-1 group-title="Байкал-Телеком (VPN)",НТС
