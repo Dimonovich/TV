@@ -135,6 +135,28 @@ http://195.18.23.20:8000/play/10/index.m3u8
 http://195.18.23.20:8000/play/1/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",Тамыр
 http://195.18.23.20:8000/play/2/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Приключения HD
+http://tvip.btk.teleos.ru:8081/chid142/tracks-v1a1/mono.m3u8   
+#EXTINF:-1 group-title="TEST (VPN)",Вкус
+http://tvip.btk.teleos.ru:8081/chid515/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="TEST (VPN)" tvg-id="lapki-live",Лапки LIVE
+http://tvip.btk.teleos.ru:8081/chid514/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Дорама
+http://tvip.btk.teleos.ru:8081/chid516/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Киносемья
+http://tvip.btk.teleos.ru:8081/chid517/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Кинопремьера HD
+http://tvip.btk.teleos.ru:8081/chid518/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Киносвидание
+http://tvip.btk.teleos.ru:8081/chid521/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Bridge HD
+http://tvip.btk.teleos.ru:8081/chid519/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="TEST (VPN)" tvg-id="bridge-tv-etno",Bridge TV Этно
+http://tvip.btk.teleos.ru:8081/chid520/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Спас
+http://tvip.btk.teleos.ru:8081/chid7/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",БСТ 24
+http://tvip.btk.teleos.ru:8081/chid20/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",Молдова 24
 https://132544.edgevideo.ru/streams/132544_782268/1325441080/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",Вектор 24
