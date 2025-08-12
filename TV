@@ -383,7 +383,7 @@ https://45.159.74.22/365Dney/mono.m3u8
 https://45.159.74.22/InvestigationDiscovery/mono.m3u8
 #EXTINF:-1 group-title="Virusnet",Discovery Channel HD
 https://45.159.74.22/DiscoveryChannel/mono.m3u8\
-#EXTINF:-1 group-title="Virusnet",National Gepgraphic
+#EXTINF:-1 group-title="Virusnet",National Geographic
 https://45.159.74.22/NationalGeographic/mono.m3u8
 #EXTINF:-1 group-title="Virusnet",Nat Geo Wild
 https://45.159.74.22/NatGeoWild/mono.m3u8
@@ -461,7 +461,7 @@ https://45.159.74.22/Kinosemya/mono.m3u8
 https://45.159.74.22/Boomerang/mono.m3u8
 #EXTINF:-1 group-title="Virusnet",Детский мир
 https://45.159.74.22/CartoonNetwork/mono.m3u8
-#EXTINF:-1 group-title="Virusnet",Бокс ТВ
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Бокс ТВ
 https://45.159.74.22/BoksTv/mono.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Eurosport 1 HD
 https://45.159.74.22/Eurosport/mono.m3u8
@@ -475,7 +475,7 @@ https://45.159.74.22/MatchPlaneta/mono.m3u8
 
 
 
-#EXTINF:-1 group-title="Servers com",Дождь ТВ
+#EXTINF:-1 group-title="Servers com",Дождь
 http://str6.oxtve.live:8080/dojdhd/mpegts
 #EXTINF:-1 group-title="Servers com",H2 HD
 http://str6.oxtve.live:8080/h2hd/mpegts
@@ -2593,6 +2593,10 @@ http://178.219.160.169:8880/85/index.m3u8
 http://178.219.160.169:8880/11/index.m3u8
 #EXTINF:-1 group-title="Сайфер (VPN)",РЕН ТВ HD
 http://178.219.160.169:8880/203/index.m3u8
+#EXTINF:-1 group-title="Сайфер (VPN)",Точка РФ
+http://178.219.160.169:8880/59/index.m3u8
+#EXTINF:-1 group-title="Сайфер (VPN)",Viju+ Planet HD
+http://178.219.160.169:8880/178/index.m3u8
 #EXTINF:-1 group-title="Сайфер (VPN)",Дикая охота
 http://178.219.160.169:8880/70/index.m3u8
 #EXTINF:-1 group-title="Сайфер (VPN)",Дикая рыбалка HD
@@ -2633,8 +2637,6 @@ http://178.219.160.169:8880/92/index.m3u8
 http://178.219.160.169:8880/94/index.m3u8
 #EXTINF:-1 group-title="Сайфер (VPN)",VHS-ка HD
 http://178.219.160.169:8880/118/index.m3u8
-#EXTINF:-1 group-title="Сайфер (VPN)",Viju+ Planet HD
-http://178.219.160.169:8880/178/index.m3u8
 #EXTINF:-1 group-title="Сайфер (VPN)",VIP Comedy HD
 http://178.219.160.169:8880/103/index.m3u8
 #EXTINF:-1 group-title="Сайфер (VPN)",VIP Megahit HD
@@ -2661,12 +2663,12 @@ http://178.219.160.169:8880/79/index.m3u8
 http://178.219.160.169:8880/17/index.m3u8
 #EXTINF:-1 group-title="Сайфер (VPN)",Иллюзион+
 http://178.219.160.169:8880/107/index.m3u8
-#EXTINF:-1 group-title="Сайфер (VPN)",Индийское кино
-http://178.219.160.169:8880/112/index.m3u8
 #EXTINF:-1 group-title="Сайфер (VPN)",Карусель
 http://178.219.160.169:8880/8/index.m3u8
 #EXTINF:-1 group-title="Сайфер (VPN)",Кино ТВ
 http://178.219.160.169:8880/84/index.m3u8
+#EXTINF:-1 group-title="Сайфер (VPN)",Индийское кино
+http://178.219.160.169:8880/112/index.m3u8
 #EXTINF:-1 group-title="Сайфер (VPN)",Кинокомедия
 http://178.219.160.169:8880/91/index.m3u8
 #EXTINF:-1 group-title="Сайфер (VPN)",Киноман
@@ -2683,6 +2685,12 @@ http://178.219.160.169:8880/99/index.m3u8
 http://178.219.160.169:8880/97/index.m3u8
 #EXTINF:-1 group-title="Сайфер (VPN)",Киносерия
 http://178.219.160.169:8880/86/index.m3u8
+#EXTINF:-1 group-title="Сайфер (VPN)",Родное кино
+http://178.219.160.169:8880/96/index.m3u8
+#EXTINF:-1 group-title="Сайфер (VPN)",Мужское кино
+http://178.219.160.169:8880/82/index.m3u8
+#EXTINF:-1 group-title="Сайфер (VPN)",Мужское кино HD
+http://178.219.160.169:8880/198/index.m3u8
 #EXTINF:-1 group-title="Сайфер (VPN)",Киноужас
 http://178.219.160.169:8880/147/index.m3u8
 #EXTINF:-1 group-title="Сайфер (VPN)",Наше новое кино
@@ -2697,20 +2705,14 @@ http://178.219.160.169:8880/21/index.m3u8
 http://178.219.160.169:8880/56/index.m3u8
 #EXTINF:-1 group-title="Сайфер (VPN)",Любимое кино
 http://178.219.160.169:8880/42/index.m3u8
-#EXTINF:-1 group-title="Сайфер (VPN)",Мама
-http://178.219.160.169:8880/123/index.m3u8
 #EXTINF:-1 group-title="Сайфер (VPN)",МИР
 http://178.219.160.169:8880/18/index.m3u8
 #EXTINF:-1 group-title="Сайфер (VPN)",Мир сериала
 http://178.219.160.169:8880/115/index.m3u8
 #EXTINF:-1 group-title="Сайфер (VPN)",Москва Доверие
 http://178.219.160.169:8880/143/index.m3u8
-#EXTINF:-1 group-title="Сайфер (VPN)",Мосфильи. Золотая коллекция
+#EXTINF:-1 group-title="Сайфер (VPN)",Мосфильм. Золотая коллекция
 http://178.219.160.169:8880/146/index.m3u8
-#EXTINF:-1 group-title="Сайфер (VPN)",Мужское кино
-http://178.219.160.169:8880/82/index.m3u8
-#EXTINF:-1 group-title="Сайфер (VPN)",Мужское кино HD
-http://178.219.160.169:8880/198/index.m3u8
 #EXTINF:-1 group-title="Сайфер (VPN)",Мужской
 http://178.219.160.169:8880/49/index.m3u8
 #EXTINF:-1 group-title="Сайфер (VPN)",НСТ
@@ -2729,8 +2731,6 @@ http://178.219.160.169:8880/16/index.m3u8
 http://178.219.160.169:8880/152/index.m3u8
 #EXTINF:-1 group-title="Сайфер (VPN)",Реклама HD
 http://178.219.160.169:8880/206/index.m3u8
-#EXTINF:-1 group-title="Сайфер (VPN)",Родное кино
-http://178.219.160.169:8880/96/index.m3u8
 #EXTINF:-1 group-title="Сайфер (VPN)",Русский бестселлер
 http://178.219.160.169:8880/88/index.m3u8
 #EXTINF:-1 group-title="Сайфер (VPN)",Русский детектив
@@ -2757,12 +2757,12 @@ http://178.219.160.169:8880/15/index.m3u8
 http://178.219.160.169:8880/10/index.m3u8
 #EXTINF:-1 group-title="Сайфер (VPN)",Телекафе
 http://178.219.160.169:8880/78/index.m3u8
-#EXTINF:-1 group-title="Сайфер (VPN)",Точка-РФ
-http://178.219.160.169:8880/59/index.m3u8
 #EXTINF:-1 group-title="Сайфер (VPN)",Усадьба
 http://178.219.160.169:8880/39/index.m3u8
 #EXTINF:-1 group-title="Сайфер (VPN)",Ю
 http://178.219.160.169:8880/77/index.m3u8
+#EXTINF:-1 group-title="Сайфер (VPN)",Мама
+http://178.219.160.169:8880/123/index.m3u8
 #EXTINF:-1 group-title="Сайфер (VPN)",Солнце
 http://178.219.160.169:8880/132/index.m3u8
 #EXTINF:-1 group-title="Сайфер (VPN)",Мульт
