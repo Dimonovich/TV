@@ -2,7 +2,12 @@
 
 
 
-
+#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://epg.it999.ru/img/983.png",Первый канал HD
+https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1 group-title="С сайтов (VPN)" ,Неизвестная Россия
+https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)", Россия 1 HD
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1 group-title="Музыкальные 🎶",NR1 DANCE HD
 http://sonymax.org:8080/aGbnACSRPH/g5cteHSdS8/439284
 #EXTINF:-1 group-title="Музыкальные 🎶",NR1 DANCE HD
