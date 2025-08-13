@@ -3,19 +3,10 @@
 
 #EXTINF:-1 group-title="Rutube (VPN)",Rutube TV
 https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=5JOW6kQzH4T9ko84QUk8UA&e=1755112684&scheme=https
-#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://epg.it999.ru/img/983.png",Первый канал HD
-https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-#EXTINF:-1 group-title="С сайтов (VPN)" ,Неизвестная Россия
-https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)", Россия 1 HD
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)",НТВ HD
-https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
-
-
-
-
-
+#EXTINF:-1 group-title="Rutube (VPN)",Первый канал HD
+https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=tHr48DtNKXiBRym0u0tzHw&e=1755112685&scheme=https
+#EXTINF:-1 group-title="Rutube (VPN)",НТВ HD
+https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=q_JBIgWJhHtk6OzGnMkymQ&e=1755112686&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",ТНТ HD
 https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=xV96k5UGiZ1zCtn4jeVZaQ&e=1755112686&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",ТНТ4
@@ -30,6 +21,8 @@ https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?s=PD
 https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=HmLXfQdIpD0rSZmxiy6INA&e=1755112691&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Ю
 https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?s=xw5nzxLn4zGWYLaBgLrXdQ&e=1755112692&scheme=https
+#EXTINF:-1 group-title="Rutube (VPN)",Большая азия
+https://bl.rutube.ru/livestream/495ab964b755baa2c9fc7481a2e40f7d/index.m3u8?s=EGZxzAts_bMvRWsIi7bzPg&e=1755112692&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Охотник и рыболов
 https://bl.rutube.ru/livestream/1da5d92af8c55b16241f1eb12a27f00c/index.m3u8?s=_KGYD_WovwwPbE5Ih_iN2A&e=1755112693&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Загородный International
@@ -274,6 +267,7 @@ https://bl.rutube.ru/livestream/eac1e371fbb6ab680d0176d472c04089/index.m3u8?s=dd
 https://bl.rutube.ru/livestream/efc2833169ec20a3ea61197714bea6ab/index.m3u8?s=9WUfXUx39e8sKdeGAVw1vA&e=1755112771&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",WORLD FISHING NETWORK
 https://bl.rutube.ru/livestream/88860091dc5125b1b5cd266988d5be74/index.m3u8?s=HNlLbWv7VM6XpidbCDCy3g&e=1755112772&scheme=https
+
 
 
 #EXTINF:-1 group-title="С сайтов (VPN)" ,Кавказ 24
