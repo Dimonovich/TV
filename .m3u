@@ -9,15 +9,15 @@ https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=Ry
 https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=v4o3UlY5sn3gPeXt77D5tw&e=1755185087&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",ТНТ HD
 https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=axIr3YdpD3EdqWohQGRKSA&e=1755185087&scheme=https
-#EXTINF:-1 group-title="Rutube (VPN)",ТНТ4 HD
+#EXTINF:-1 group-title="Rutube (VPN)",ТНТ4
 https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=BXekyqJoMjJYeA9keK1IIg&e=1755185088&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Пятница HD
 https://bl.rutube.ru/livestream/9f87a9a0cecbe773be6fddcbd93585ac/index.m3u8?s=ZKJ9TI80RXFAR4DHnMC4Tg&e=1755185089&scheme=https
-#EXTINF:-1 group-title="Rutube (VPN)",ТВ3 HD
+#EXTINF:-1 group-title="Rutube (VPN)",ТВ3
 https://bl.rutube.ru/livestream/7bf12d9c050f9a7ef3728db5730432ae/index.m3u8?s=RghY9UQouzvbq8qUpnh1PQ&e=1755185090&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",2x2
 https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?s=j8-ow_XDdyyI3wA7GLDHhg&e=1755185091&scheme=https
-#EXTINF:-1 group-title="Rutube (VPN)",Суббота
+#EXTINF:-1 group-title="Rutube (VPN)",Суббота!
 https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=kB4mbXdxj0wXzWUmQvS1DA&e=1755185092&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Ю
 https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?s=80cPZ0n1EhkugotTXDV7Ww&e=1755185093&scheme=https
@@ -270,24 +270,6 @@ https://bl.rutube.ru/livestream/88860091dc5125b1b5cd266988d5be74/index.m3u8?s=G6
 
 
 
-#EXTINF:-1 group-title="С сайтов (VPN)" ,Кавказ 24
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" ,Запад 24
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/zapad24-hd/index.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" ,Восток 24
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladivostok/vostok24-hd/index.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" ,Сибирь 24
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/sibir24-hd/index.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" ,Башкортостан 24
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/bashkortostan24-hd/index.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" ,Урал 24
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/ural24-hd/index.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" ,Нижний Новгород 24
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/nigniynovgorod24-hd/index.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" ,Краснодар
-https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" ,Арктика 24
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/arktika24-hd/index.m3u8
 
 #EXTINF:-1 group-title="Музыкальные 🎶" tvg-id="city-tv-bg",City TV
 https://tv.city.bg/play/tshls/citytv/2.m3u8
