@@ -2,6 +2,8 @@
 
 
 
+
+
 #EXTINF:-1 group-title="Rutube (VPN)",Rutube TV
 https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=99O-5xFlHoCiCDr4Q9BfJw&e=1755456972&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Первый канал HD
@@ -268,6 +270,88 @@ https://bl.rutube.ru/livestream/eac1e371fbb6ab680d0176d472c04089/index.m3u8?s=k7
 https://bl.rutube.ru/livestream/efc2833169ec20a3ea61197714bea6ab/index.m3u8?s=Sv31MjfSPSkRo6vNlCc6_w&e=1755457043&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",WORLD FISHING NETWORK
 https://bl.rutube.ru/livestream/88860091dc5125b1b5cd266988d5be74/index.m3u8?s=F8l-U-QFhOLcFwMMWbMcLA&e=1755457044&scheme=https
+
+
+
+
+
+#EXTINF:-1 group-title="С сайтов (VPN)" ,Кавказ 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" ,Запад 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/zapad24-hd/index.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" ,Восток 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladivostok/vostok24-hd/index.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" ,Сибирь 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/sibir24-hd/index.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" ,Башкортостан 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/bashkortostan24-hd/index.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" ,Урал 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/ural24-hd/index.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" ,Нижний Новгород 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/nigniynovgorod24-hd/index.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" ,Краснодар
+https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" ,Арктика 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/arktika24-hd/index.m3u8
+
+#EXTINF:-1 group-title="Музыкальные 🎶" tvg-id="city-tv-bg",City TV
+https://tv.city.bg/play/tshls/citytv/2.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://sat.kharkiv.ua/images/Strani/evropa/north%20macedonia/sky%20folk%20tv.jpg",SKY Folk TV
+http://eu.live.skyfolk.mk/live.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://www.radio-banovina.hr/wp-content/uploads/2015/01/logo-120_00000.png",Banovina TV
+http://video.radio-banovina.hr:1935/live/myStream/chunklist_w1164976177.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://i.postimg.cc/JzrfFnQw/2024-02-24-182647787.png",OF-TV
+https://5864df9ceac85.streamlock.net/germanpictures-live/_definst_/mp4:streamschedule/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎶" ,AFN Music
+https://bozztv.com/1gbw5/tintv2/tintv2/chunklist.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://www.aparatchi.com/images/TV/7xmusic.png",7X MUSIC
+https://stream.e2is.in/hls/7xMusic.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://euroindiemusic.info/wp-content/uploads/2021/06/Aqua-Play-Icon-Personal-Logo-700x700.png",Euro Indie Music Chart TV
+http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎶" ,Qello Concerts by Stingray
+https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎶" ,Stingray Classic Rock
+https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎶" ,Stingray Classica
+https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎶" ,Stingray CMusic
+https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎶" ,Stingray DJAZZ
+https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎶" ,Stingray Easy Listening
+https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎶" ,Stingray Flashback 70s
+https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎶" ,Stingray Hit List
+https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎶" ,Stingray Holiday Hits
+https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎶" ,Stingray Hot Country
+https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎶" ,Stingray Karaoke
+https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎶" ,Stingray Nothin' But 90s
+https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎶" ,Stingray Pop Adult
+https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎶" ,Stingray Remember the 80s
+https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎶" ,Stingray Rock Alternative
+https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎶" ,Stingray Romance Latino
+https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎶" ,Stingray Smooth Jazz
+https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎶" ,Stingray Soul Storm
+https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎶" ,Stingray The Spa
+https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎶" ,Stingray Today's KPOP
+https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎶" ,Stingray Today's Latin Pop
+https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎶" ,Stingray Urban Beat
+https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
 
 
 
