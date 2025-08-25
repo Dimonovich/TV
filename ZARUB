@@ -1629,12 +1629,82 @@ http://jmc-live.ercdn.net/alistiqama/alistiqama_576p.m3u8
 https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8
 #EXTINF:-1 group-title="Пакистан 🇵🇰",98 News UK
 https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8
-#EXTINF:-1 group-title="Перу 🇵🇪",BHtv
-http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/media_w554966584.m3u8
-#EXTINF:-1 group-title="Перу 🇵🇪" tvg-logo="https://graph.facebook.com/ovacionperu/picture?width=320&height=320",Ovación TV [Not 24/7]
-https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m3u8
-#EXTINF:-1 group-title="Перу 🇵🇪" tvg-logo="https://graph.facebook.com/radiosanborja/picture?width=320&height=320",Radio San Borja TV [Not 24/7]
-https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
+#EXTINF:-1 group-title="Перу 🇵🇪",Angienet TV
+https://servilive.com:3624/stream/play.m3u8
+#EXTINF:-1 group-title="Перу 🇵🇪" ,Autentica Television
+https://live.obslivestream.com/autenticatvmux/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Перу 🇵🇪" ,Asiri TV
+https://video2.lhdserver.es/asiritv/live.m3u8
+#EXTINF:-1 group-title="Перу 🇵🇪" ,Bethel TV
+https://alfa.betheltv.tv/srt/3_abr/playlist.m3u8
+#EXTINF:-1 group-title="Перу 🇵🇪" ,Canal 8 Catacoas
+https://live.obslivestream.com/canal8/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Перу 🇵🇪" ,Controversia TV
+https://live.obslivestream.com/controversiatv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Перу 🇵🇪" ,CR Television Moyobamba
+https://live.obslivestream.com/crtvmux/index.m3u8
+#EXTINF:-1 group-title="Перу 🇵🇪" ,DMJ Cuzco
+https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/chunklist_w1426833766.m3u8
+#EXTINF:-1 group-title="Перу 🇵🇪" ,Hechicera TV
+https://video.misistemareseller.com/corporationhc/corporationhc/playlist.m3u8
+#EXTINF:-1 group-title="Перу 🇵🇪" ,Impacto Television
+https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
+#EXTINF:-1 group-title="Перу 🇵🇪" ,Intuitivo TV
+https://video2.lhdserver.es/cableperu/live.m3u8
+#EXTINF:-1 group-title="Перу 🇵🇪" ,JN 19
+https://servilive.com:3028/live/jntv19live.m3u8
+#EXTINF:-1 group-title="Перу 🇵🇪" ,JN 19 TV2
+https://servilive.com:3224/live/jn19tv2live.m3u8
+#EXTINF:-1 group-title="Перу 🇵🇪" ,JNE TV
+https://live20.bozztv.com/akamaissh101/ssh101/jnetv/playlist.m3u8
+#EXTINF:-1 group-title="Перу 🇵🇪" ,Mega TV Jaen
+https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
+#EXTINF:-1 group-title="Перу 🇵🇪" ,Miel TV
+https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8
+#EXTINF:-1 group-title="Перу 🇵🇪" ,Milenial TV
+https://www.milenial.news/salida/milenial.m3u8
+#EXTINF:-1 group-title="Перу 🇵🇪" ,MO Channel
+https://cloudvideo.servers10.com:8081/8070/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Перу 🇵🇪" ,Nativa TV
+https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
+#EXTINF:-1 group-title="Перу 🇵🇪" ,Onda Digital
+https://tv.ondadigital.pe/ondadigital/index.m3u8
+#EXTINF:-1 group-title="Перу 🇵🇪" ,Panc TV
+https://panel.host-live.com:19360/20000/20000.m3u8
+#EXTINF:-1 group-title="Перу 🇵🇪" ,Planeta TV
+https://live.obslivestream.com/planetatv/index.m3u8
+#EXTINF:-1 group-title="Перу 🇵🇪" ,Radio Master
+https://videoserver.tmcreativos.com:19360/radiomaster/radiomaster.m3u8
+#EXTINF:-1 group-title="Перу 🇵🇪" ,Region TV Callao
+https://servilive.com:3757/live/regiontvlive.m3u8
+#EXTINF:-1 group-title="Перу 🇵🇪" ,RN television
+https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8
+#EXTINF:-1 group-title="Перу 🇵🇪" ,Rselva TV
+https://live.obslivestream.com/selvatv/index.m3u8
+#EXTINF:-1 group-title="Перу 🇵🇪" ,Senal Peru TV
+https://livestream.perucast.com/hls/stream.m3u8
+#EXTINF:-1 group-title="Перу 🇵🇪" ,Sol TV
+https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8
+#EXTINF:-1 group-title="Перу 🇵🇪" ,Super Canal Yurimagaus
+https://live.obslivestream.com/supercanal/index.m3u8
+#EXTINF:-1 group-title="Перу 🇵🇪" ,Telecolor Yurimagaus
+https://live.obslivestream.com/telecolormux/index.m3u8
+#EXTINF:-1 group-title="Перу 🇵🇪" ,Trivu
+https://www.chasquirouter.com/salida/sd/trivu.m3u8
+#EXTINF:-1 group-title="Перу 🇵🇪" ,TV Sistemas Cuzco
+https://stmv1.voxhdnet.com/sistemascusco/sistemascusco/playlist.m3u8
+#EXTINF:-1 group-title="Перу 🇵🇪" ,TVUNO
+https://streamtv.onliv3.online:1936/karibtv/karibtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Перу 🇵🇪" ,Unife TV
+https://cdn.mycloudstream.io/hls/live/broadcast/ic1frrzz/index.m3u8
+#EXTINF:-1 group-title="Перу 🇵🇪" ,Unitel TV
+https://play.agenciastreaming.com:8081/uniteltv/index.m3u8
+#EXTINF:-1 group-title="Перу 🇵🇪" ,Uranio TV
+https://live.obslivestream.com/uraniotv/index.m3u8
+#EXTINF:-1 group-title="Перу 🇵🇪" ,Via Altomayo
+https://live.obslivestream.com/viaaltomayomux/index.m3u8
+#EXTINF:-1 group-title="Перу 🇵🇪" ,VNP
+https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
 #EXTINF:-1 group-title="Польша 🇵🇱",TV Regionalna
 https://tvreg.klemit.net/regionalna/stream/index.m3u8
 #EXTINF:-1 group-title="Польша 🇵🇱",4fun TV
