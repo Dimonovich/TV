@@ -1,8 +1,12 @@
 #EXTM3U
+
+
 #EXTINF:-1 group-title="🔺 INFO 🔺" tvg-logo="https://i.postimg.cc/4dN8WqGS/GIF.gif",Обновление:22.08.2024
 http://194.26.229.213/zastavka/index.m3u8
 #EXTINF:-1 group-title="🔺 INFO 🔺" tvg-logo="https://i.postimg.cc/jjkkG8Pc/Imagem-Telegram-Logo-PNG-Preto.png",Android TV + Free TV
 http://194.26.229.213/intro/index.m3u8
+
+
 
 #EXTINF:-1 group-title="Австралия 🇦🇺",Ausbiz Tv
 https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
@@ -12,6 +16,26 @@ https://d1k6kax80wecy5.cloudfront.net/RLnAKY/program_mid/stream.m3u8
 https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8
 #EXTINF:-1 group-title="Австралия 🇦🇺",Horse and Country
 https://hncfree-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Австралия 🇦🇺",3AW Melbourne
+https://3awlive.akamaized.net/hls/live/2032295-b/3AW/3AW720B/chunklist.m3u8
+#EXTINF:-1 group-title="Австралия 🇦🇺",Ausbiz TV
+https://d9quh89lh7dtw.cloudfront.net/public-output/index_768x432_1500k.m3u8
+#EXTINF:-1 group-title="Австралия 🇦🇺",C31 Melbourne
+https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
+#EXTINF:-1 group-title="Австралия 🇦🇺",CTB Perth
+https://live.ctbperth.net.au/hls/0/stream.m3u8
+#EXTINF:-1 group-title="Австралия 🇦🇺",CTB Perth News
+https://news.ctbperth.net.au/hls/0/stream.m3u8
+#EXTINF:-1 group-title="Австралия 🇦🇺",Expo Channel
+https://tvsnhlslivetest.akamaized.net/hls/live/2034711/EXPO-MSL4/master.m3u8
+#EXTINF:-1 group-title="Австралия 🇦🇺",Indo OZ TV
+https://stream.e2is.in/hls/indoztv.m3u8
+#EXTINF:-1 group-title="Австралия 🇦🇺",Sky News Extra 1
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+#EXTINF:-1 group-title="Австралия 🇦🇺",Sky News Extra 2
+https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
+#EXTINF:-1 group-title="Австралия 🇦🇺",TVSN
+https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8
 #EXTINF:-1 group-title="Австрия 🇦🇹",FS1 Salzburg
 http://stream.fs1.tv:8080/hls/webstream.m3u8
 #EXTINF:-1 group-title="Австрия 🇦🇹",K-TV
@@ -100,30 +124,8 @@ https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
 https://songtv.hls.iptvdc.com/web-armenia/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Армения 🇦🇲" tvg-logo="https://i.ibb.co/1KDxsXR/SGN-05-01-2022-1651413983093.png",USArmenia TV
 http://livestream.usatv.com/hls/m3u8/USARMENIA_NET1080.m3u8
-#EXTINF:-1 ,like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s83/index.m3u8
-#EXTINF:-1 ,like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s22/index.m3u8
-#EXTINF:-1 ,like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s42/index.m3u8
-#EXTINF:-1 ,like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s32/index.m3u8
-#EXTINF:-1 ,like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s46/index.m3u8
-#EXTINF:-1 ,like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s66/index.m3u8
 #EXTINF:-1 group-title="Армения 🇦🇲" tvg-logo="https://www.artn.tv/assets/5ba5a4abe66dd.png",ARTN TV
 https://streamer1.connectto.com/ARTN_mobile/index.m3u8
-#EXTINF:-1 ,like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s8/index.m3u8
-#EXTINF:-1 ,like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s53/index.m3u8
-#EXTINF:-1 ,like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s74/index.m3u8
-#EXTINF:-1 ,like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s73/index.m3u8
-#EXTINF:-1 ,like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s48/index.m3u8
 #EXTINF:-1 group-title="Армения 🇦🇲" tvg-logo="https://i.imgur.com/yigw9dr.png",5-րդ ալիք
 http://ott-cdn.ucom.am/s6/index.m3u8
 #EXTINF:-1 group-title="Армения 🇦🇲" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/21_TV_Armenia_logo.svg/785px-21_TV_Armenia_logo.svg.png",21TV
@@ -226,130 +228,58 @@ https://streamer103.neterra.tv/tiankov-folk/tiankov-folk_SD.m3u8
 https://cdn2.invivo.bg/Codefashion_5500/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Болгария 🇧🇬",V2Beat TV
 https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
-#EXTINF:-1 group-title="Болгария 🇧🇬",Tiankov Folk
-https://streamer103.neterra.tv/tiankov-folk/tiankov-folk_LQ.m3u8
-#EXTINF:-1 group-title="Болгария 🇧🇬",Tiankov Orient Folk
-https://streamer103.neterra.tv/tiankov-orient/tiankov-orient_SD.m3u8
 #EXTINF:-1 group-title="Болгария 🇧🇬",The Voice TV
 https://bss1.neterra.tv/thevoice/stream_1.m3u8
 #EXTINF:-1 group-title="Болгария 🇧🇬",Magic TV
 https://bss1.neterra.tv/magictv/stream_1.m3u8
-#EXTINF:-1 group-title="Болгария 🇧🇬",Hope Channel Bulgaria
-https://hc2.hopetv.bg/live/hopetv_all.smil/manifest_w1688405763.mpd
 #EXTINF:-1 group-title="Болгария 🇧🇬",DSTV
 http://46.249.95.140:8081/hls/data.m3u8
 #EXTINF:-1 group-title="Болгария 🇧🇬",RIMEX TV
 https://transcoder1.bitcare.eu/streaming/rimextv/rmtv.m3u8
-#EXTINF:-1 group-title="Болгария 🇧🇬",ТВ 1
-https://obs.friendshipchurch.eu//tvn/mystream.m3u8
 #EXTINF:-1 group-title="Болгария 🇧🇬",Евроком
 https://live.ecomservice.bg/hls/stream.m3u8
 #EXTINF:-1 group-title="Болгария 🇧🇬",Пловдивска Православна ТВ
 http://78.130.149.196:1935/live/pptv.stream/playlist.m3u8
-#EXTINF:-1 group-title="Боливия 🇧🇴",F10 HD
-https://video.live.com.bo:3099/live/f10hdlive.m3u8
 #EXTINF:-1 group-title="Боливия 🇧🇴",Ceacom
 https://eu1.servers10.com:8081/ceacom/index.m3u8
 #EXTINF:-1 group-title="Боливия 🇧🇴",UPP TV
 https://alba-bo-bolivision-upptv.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 group-title="Боливия 🇧🇴",PTV
-https://glb.bozztv.com/glb/ssh101/centralptv/index.m3u8
-#EXTINF:-1 group-title="Боливия 🇧🇴",TVU
-https://video.live.com.bo:3003/live/tvuumsalive.m3u8
-#EXTINF:-1 group-title="Боливия 🇧🇴",Fortaleza TV Cueto
-https://glb.bozztv.com/glb/ssh101/fortalezacueto/index.m3u8
-#EXTINF:-1 group-title="Боливия 🇧🇴",TDT Multimedia
-https://video01.kshost.com.br:4443/juan6318/juan6318/playlist.m3u8
-#EXTINF:-1 group-title="Боливия 🇧🇴",Siglo XXI TV
-https://stmvideo3.livecastv.com/sigloxxi/sigloxxi/playlist.m3u8
 #EXTINF:-1 group-title="Боливия 🇧🇴",VTV Canal 17
 https://solo.disfrutaenlared.com:1936/vtvcanal/vtvcanal/playlist.m3u8
-#EXTINF:-1 group-title="Боливия 🇧🇴",Radio Uno PST
-https://master.tucableip.com/pstbolivia/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Боливия 🇧🇴",Atesur
-https://video2.getstreamhosting.com:19360/8038/8038.m3u8
-#EXTINF:-1 group-title="Боливия 🇧🇴",Television Cristal
-https://srv5.elittehosting.com:3369/live/cristaltvlive.m3u8
 #EXTINF:-1 group-title="Боливия 🇧🇴",Red CCTV
 https://solo.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8
-#EXTINF:-1 group-title="Боливия 🇧🇴",Marvision TV
-https://vdo.grupolimalive.com:3631/live/marvisionlive.m3u8
-#EXTINF:-1 group-title="Боливия 🇧🇴",TV Latina
-https://fl1002.bozztv.com/ssh101/tvlatinared/index.m3u8
-#EXTINF:-1 group-title="Боливия 🇧🇴",Imperial TV
-https://vdo.grupolimalive.com:3162/live/imperialtvlive.m3u8
-#EXTINF:-1 group-title="Боливия 🇧🇴",GTV
-https://solo.disfrutaenlared.com:1936/guadalupetv/guadalupetv/chunklist_w1833640318.m3u8
 #EXTINF:-1 group-title="Боливия 🇧🇴",Coral TV
 https://tv.mediacp.eu:8081/coraltv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Боливия 🇧🇴",PAT Santa Cruz
-https://w8.redpat.tv:7777/play/110/14481020.m3u8
-#EXTINF:-1 group-title="Боливия 🇧🇴",Red America TV
-https://videostream.shockmedia.com.ar:19360/redamericatv/redamericatv.m3u8
 #EXTINF:-1 group-title="Боливия 🇧🇴",ATB
 http://186.121.206.197/live/daniel/index.m3u8
-#EXTINF:-1 group-title="Боливия 🇧🇴",Mega TV
-https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/playlist.m3u8
-#EXTINF:-1 group-title="Боливия 🇧🇴",Abya Yala TV
-https://master.tucableip.com/abyayalatv/playlist.m3u8
-#EXTINF:-1 group-title="Боливия 🇧🇴",FTV
-https://master.tucableip.com/ftv/index.m3u8
 #EXTINF:-1 group-title="Боливия 🇧🇴",Bolivia TV
 http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Боливия 🇧🇴",Bolivia TV 7.2
 https://video1.getstreamhosting.com:1936/8224/8224/chunklist_w1684483949.m3u8
-#EXTINF:-1 group-title="Боливия 🇧🇴",France 24 Español
-https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 #EXTINF:-1 group-title="Боливия 🇧🇴",Red ADVenir
 https://streamer1.streamhost.org/salive/GMIredadvenirm/chunklist.m3u8
-#EXTINF:-1 group-title="Бразилия 🇧🇷",Anime TV
-https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
-#EXTINF:-1 group-title="Бразилия 🇧🇷",IMPD TV HD
-https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
 #EXTINF:-1 group-title="Бразилия 🇧🇷",Nova Era TV HD
 http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
 #EXTINF:-1 group-title="Бразилия 🇧🇷",Novo Tempo
 http://stream.novotempo.com:1935/tv/tvnovotempo.smil/live.m3u8
-#EXTINF:-1 group-title="Бразилия 🇧🇷",RBC
-http://rbc.directradios.com:1935/rbc/rbc/live.m3u8
 #EXTINF:-1 group-title="Бразилия 🇧🇷",Santa Cecilia TV
 http://flash1.crossdigital.com.br/2063/2063/playlist.m3u8
 #EXTINF:-1 group-title="Бразилия 🇧🇷",SBT
 http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Бразилия 🇧🇷",TV Cidade Canal 9
-https://59f1cbe63db89.streamlock.net:1443/tvcidade/_definst_/tvcidade/playlist.m3u8
-#EXTINF:-1 group-title="Бразилия 🇧🇷",TV Educativa de Porto Alegre HD
-http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
 #EXTINF:-1 group-title="Бразилия 🇧🇷",TV Metrópole
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
-#EXTINF:-1 group-title="Бразилия 🇧🇷",TV Pai Eterno
-https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8
-#EXTINF:-1 group-title="Бразилия 🇧🇷",TV UFSC
-http://150.162.188.10:8080/hls/1.m3u8
-#EXTINF:-1 group-title="Бразилия 🇧🇷",TVN Brasil
-http://wz3.dnip.com.br/tvnbrasil/tvnbrasil.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Великобритания 🇬🇧",Comedy Channel
-https://uksono1-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Великобритания 🇬🇧",Time Line
 https://timeline-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Великобритания 🇬🇧",Tennis Channel
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Великобритания 🇬🇧",The Tennis Channel
-https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Великобритания 🇬🇧",Afrobeats 247
 https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Великобритания 🇬🇧",Inwonder
-https://inwonder-samsung-uk.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Великобритания 🇬🇧",Inwild
-https://inwild-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Великобритания 🇬🇧",Insight
 https://insighttv-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Великобритания 🇬🇧",Horse and Country
 https://hncfree-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Великобритания 🇬🇧",V2BEAT
 https://de1se01.v2beat.live/playlist.m3u8
-#EXTINF:-1 group-title="Великобритания 🇬🇧",Ski TV
-https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-Zee/193.m3u8
 #EXTINF:-1 group-title="Великобритания 🇬🇧",V2BEAT
 https://abr.de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 group-title="Венгрия 🇭🇺",DTV
@@ -368,10 +298,6 @@ https://cloudfront44.lexanetwork.com:1344/freerelay/zegtv.sdp/playlist.m3u8
 https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Венгрия 🇭🇺",TV Eger
 http://stream.tveger.hu:8010/live.m3u8
-#EXTINF:-1 group-title="Венгрия 🇭🇺",Miskolc TV
-https://video.mhzrt.hu/live/mitv/playlist.m3u8
-#EXTINF:-1 group-title="Вьетнам 🇻🇳" tvg-logo="https://wwitv.com/tvlogos/b6806.jpg",ANTV
-http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
 #EXTINF:-1 group-title="Вьетнам 🇻🇳",QRT
 http://113.161.6.157:8081/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
 #EXTINF:-1 group-title="Вьетнам 🇻🇳" tvg-logo="https://i.imgur.com/zG1WNgU.jpg",Brian TV
@@ -380,8 +306,6 @@ https://livefta.malimarcdn.com/ftaedge00/briantv.sdp/playlist.m3u8
 http://tv.ctvcamau.vn/live/tv/tv.m3u8
 #EXTINF:-1 group-title="Вьетнам 🇻🇳" tvg-logo="https://i.imgur.com/duM548G.png",City of Oakland
 https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/oakland/G0219_002/playlist.m3u8
-#EXTINF:-1 group-title="Вьетнам 🇻🇳" tvg-logo="https://i.imgur.com/TWJgMuE.jpg",Dhammasapha TV
-https://livefta.malimarcdn.com/ftaedge00/dhammasapha.stream/playlist.m3u8
 #EXTINF:-1 group-title="Вьетнам 🇻🇳" tvg-logo="https://i.imgur.com/IoIXiw9.png",Đồng Nai 1
 http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8
 #EXTINF:-1 group-title="Вьетнам 🇻🇳" tvg-logo="https://i.imgur.com/Qsz0RHH.png",Đồng Nai 2
@@ -420,18 +344,18 @@ https://5dcab9aed5331.streamlock.net/mrcompas1/livestream/playlist.m3u8
 https://uni01rtmp.tulix.tv/4vehtv/4vehtv-firetv/playlist.m3u8
 #EXTINF:-1 group-title="Гаити 🇻🇳",Kajou TV
 https://video1.getstreamhosting.com:1936/8055/8055/playlist.m3u8
-#EXTINF:-1 group-title="Гватемала 🇬🇹",Canal TV Radio Maya
-https://stream.oursnetworktv.com/latin/radioTGBAgtm/playlist.m3u8
-#EXTINF:-1 group-title="Гватемала 🇬🇹",Fe Viviente
-https://stream.oursnetworktv.com/latin/feVivienteGtm/playlist.m3u8
+#EXTINF:-1 group-title="Гаити 🇻🇳",Canal+ Haiti
+https://vdo.pro-fhi.net:3605/live/dgenlcpmlive.m3u8
+#EXTINF:-1 group-title="Гаити 🇻🇳",Metropole
+https://dvrfl03.bozztv.com/hdirect/hdirect-telemetrolple2/index.m3u8
+#EXTINF:-1 group-title="Гаити 🇻🇳",Netalkole TV
+https://watch.haitilive.net/naktvhd/index.m3u8
+#EXTINF:-1 group-title="Гаити 🇻🇳",TNH
+https://dvrfl03.bozztv.com/hdirect/hdirect-tnhtv2/index.m3u8
 #EXTINF:-1 group-title="Гватемала 🇬🇹",Iglesia Del Camino
 http://streamingcontrol.com:1935/ectv/ectv/playlist.m3u8
-#EXTINF:-1 group-title="Гватемала 🇬🇹",Presencia TV
-https://stream.oursnetworktv.com/latin/remaPresencia/playlist.m3u8
 #EXTINF:-1 group-title="Германия 🇩🇪",1-2-3 TV
 http://123tv.cdn.ses-ps.com/index.m3u8
-#EXTINF:-1 group-title="Германия 🇩🇪",Alex Berlin
-https://alex-stream.rosebud-media.de/live/alexlivetv40.smil/playlist.m3u8
 #EXTINF:-1 group-title="Германия 🇩🇪",Anixe HD
 https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
 #EXTINF:-1 group-title="Германия 🇩🇪",Baden TV
@@ -444,14 +368,10 @@ http://livestreams.br.de/i/bfsnord_germany@119898/master.m3u8
 https://derste247livede.akamaized.net/hls/live/658317/daserste_de/master.m3u8
 #EXTINF:-1 group-title="Германия 🇩🇪",DE-Baden-TV+
 http://badentv-stream2.siebnich.info/rtplive/btv.stream/chunklist_w555673922.m3u8
-#EXTINF:-1 group-title="Германия 🇩🇪",Hauptstadt.TV
-https://stream04.welocal.stream/stream/fhd-hauptstadttv_107073/ngrp:stream_all/chunklist_b3628000.m3u8
 #EXTINF:-1 group-title="Германия 🇩🇪",hr-fernsehen
 https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
 #EXTINF:-1 group-title="Германия 🇩🇪",HSE24
 https://hse24.akamaized.net/hls/live/2006663/hse24/master_1080p25.m3u8
-#EXTINF:-1 group-title="Германия 🇩🇪",Inwonder TV
-https://inwonder-samsung-de.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Германия 🇩🇪",Light Channel
 http://streamer1.streamhost.org:1935/salive/lctvde/playlist.m3u8
 #EXTINF:-1 group-title="Германия 🇩🇪",OF-TV Offenbach
@@ -464,8 +384,6 @@ http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/ok-stendal_high/pla
 http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/punktum_high/playlist.m3u8
 #EXTINF:-1 group-title="Германия 🇩🇪",Radio Weser TV Bremen
 https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8
-#EXTINF:-1 group-title="Германия 🇩🇪",rheinmaintv
-https://586fb512206e4.streamlock.net/rheinmaintv-live/_definst_/mp4:livestream/chunklist.m3u8
 #EXTINF:-1 group-title="Германия 🇩🇪",Sonnenklar.TV
 http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8
 #EXTINF:-1 group-title="Германия 🇩🇪",Sonus FM
@@ -516,14 +434,8 @@ https://s.emisoras.tv:8081/telerayo/index.m3u8
 https://s.emisoras.tv:8081/metrotv/index.m3u8
 #EXTINF:-1 group-title="Гондурас 🇭🇳",Girasol TV
 https://video.misistemareseller.com/Girasoltv/Girasoltv/playlist.m3u8
-#EXTINF:-1 group-title="Гондурас 🇭🇳",Canal 15 DTP
-https://s.emisoras.tv:8081/dtp/index.m3u8
-#EXTINF:-1 group-title="Гондурас 🇭🇳",504 TV
-https://mediacp.us:8081/504tvhn/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Гондурас 🇭🇳",EDN TV
 https://60417ddeaf0d9.streamlock.net/edntv/videoedntv/playlist.m3u8
-#EXTINF:-1 group-title="Гондурас 🇭🇳",Tele Danli
-https://cloud2.streaminglivehd.com:1936/8224/8224/playlist.m3u8
 #EXTINF:-1 group-title="Гондурас 🇭🇳",LTV
 https://5e85d90130e77.streamlock.net/6022/6022/playlist.m3u8
 #EXTINF:-1 group-title="Греция 🇬🇷",Groovy
@@ -550,26 +462,18 @@ https://itv.streams.ovh/corfuchannel/corfuchannel/playlist.m3u8
 http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
 #EXTINF:-1 group-title="Греция 🇬🇷",DELTA TV
 http://81.171.10.42:554/liveD/DStream.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Греция 🇬🇷",DIKTYO TV
-https://5d00db0e0fcd5.streamlock.net/7322/7322/playlist.m3u8
 #EXTINF:-1 group-title="Греция 🇬🇷",ERT WORLD
 http://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_worldmedium.m3u8
-#EXTINF:-1 group-title="Греция 🇬🇷",GREEK TV LONDON
-https://vdo3.alphaserver.gr:3466/live/greektvlondonlive.m3u8
 #EXTINF:-1 group-title="Греция 🇬🇷",HELLENIC TV
 https://l5.cloudskep.com/hellenictv/htv/playlist.m3u8
 #EXTINF:-1 group-title="Греция 🇬🇷",IONIAN CHANNEL
 https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8
 #EXTINF:-1 group-title="Греция 🇬🇷",KONTRA
 http://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
-#EXTINF:-1 group-title="Греция 🇬🇷",Magic TV
-https://itv.streams.ovh/magictv/magictv/playlist.m3u8
 #EXTINF:-1 group-title="Греция 🇬🇷",NEA TV
 https://live.neatv.gr:8888/hls/neatv.m3u8
 #EXTINF:-1 group-title="Греция 🇬🇷",Nea TV
 https://live.neatv.gr:8888/hls/neatv_high/index.m3u8
-#EXTINF:-1 group-title="Греция 🇬🇷",NETMAX TV
-http://live.netmaxtv.com:8080/live/live/playlist.m3u8
 #EXTINF:-1 group-title="Греция 🇬🇷",PELLA TV
 https://video.streams.ovh:1936/pellatv/pellatv/master.m3u8
 #EXTINF:-1 group-title="Греция 🇬🇷",SIGMA CY
@@ -598,90 +502,10 @@ http://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/mono.m3u8
 http://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Грузия 🇬🇪 (GEO)",ფორმულა
 http://c4635.cdn.xsg.ge/c4635/TVFormula/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Грузия 🇬🇪 (GEO)",Tok TV
-https://tbs01-edge11.itdc.ge/toktv/tracks-v1a1/mono.m3u8?token=52eg5OhNpgs2kQsKsyBI3LJ9HKBslbre9-lVrcXbjVyRGojqWKHSC4teeVSyQD3aCRzngQT49-CkptyOMhZEucKFiFG78jzWfO1PfEmPUzSRfp3-p5cwnM40tImnHQ_AY1xkouSPzHtRAAQlTsnkGN1TdY6VdqhLaAIeku2NfwCEOR5VrBcaBZfpA2ibZ1Mx2nIeoumD4ogQnHQ3fi58mhHuTatbTX8WmDXuSYaJv1r4SakIqTCwHXi0KBGJufID6jH-LpQWNnCOFJyjq8YL5L-GDygNI5eXc_amRQN-mHTpMms7qEiykqUyJuqFq_2v
-#EXTINF:-1 group-title="Грузия 🇬🇪 (GEO)",GMS
-https://tbs01-edge11.itdc.ge/gms/tracks-v1a1/mono.m3u8?token=KE02kG3qIl8Bfiy648sOuauC3VbWJZZl2kDNtSogbzFeBUptTtJZfsXQHFqMaUI-ojUbkZ_RajqhJXacVCn9AKGBmF_GBrhLldZDif2FW7JgEgqB1ms86IlG7mMK8_ZGP-8RGSzQjf9op5m6D3_elsXMbP2TTBKC7-fd8kUMuEEqfzVLN2fcZ7v9khDOobAyXgCeTnM4BuOHqZ6QaRIqiqByS7idZarfzq9h8X-TGrSjOehy_i1llc5zQZ7xF_JnY30H160nkFfj1trPavCLH9klVL1S0iVLlpZhJqvXNN_i1LqJt8aKWpQP3RsPxZJp
-#EXTINF:-1 group-title="Грузия 🇬🇪 (GEO)",ბასტი-ბუბუ
-https://tbs01-edge11.itdc.ge/bbb/tracks-v1a1/mono.m3u8?token=VLvzZ94PBrGYJIGr46Fif_sXgcmPa45X4FRHYfTvTVK3Vs0kzdKwYP10rOVivRgmcOXBOnUxcD6nsgSpFJCVoZzlyNOGvm8r99FVNkc-sdhXp0-5BK2Xh5JhVPm4k6UweyZI0zUWySt6Q8dkihzY5hKk1tv12u-WLXMEdD8VY8wbssxXdfvMygpfdVaiH0MEify7AzSUniDG-T-auApZ3v97aAS8kwKIsJbNrH9TnAuSrw-Fafvuo9eHEfDDLap4fhnz_L-tsDqGCfDbSkSOE6bBy1_owA2iD5bOUukeCFpATeu2a9TgkPr7rONrucu-
-#EXTINF:-1 group-title="Грузия 🇬🇪 (GEO)",ენკი-ბენკი
-https://tbs01-edge11.itdc.ge/enkibenki/tracks-v1a1/mono.m3u8?token=8Q-UdNpNZyMReRZey8YbMZlF3_KjPJJa_XqBR8hDOTwIXWf0YHkej5woWu4VFzpA8z_KIbCs6gLiTJPWcq6FA_ksVTajfLaYr59WVlj_URbNfaw69OTXbphofXL3RHmiiFxIuWyRqCnw4xHkRsHHLo7QRqtMPmuyyrHltWxT2hpBXiy84d-EObK3-szsCE2jTP9a_7wmBQ0gzbuwqO5iMqFSawTvMQ15uGzIK0K4gUMaeLZpBYIQWjAAFl6fDTUb-Fz4jyN63D72gqpCyJ072Yv7Wl9w5taYp-c9wRQpqXBtLwvMXQWvkbFAETSMoxZw
-#EXTINF:-1 group-title="Грузия 🇬🇪 (GEO)",ერთსულოვნება
-https://tbs01-edge11.itdc.ge/ertsulovneba/tracks-v1a1/mono.m3u8?token=EDhtfLJMropGAuSGw2xXJ7DWEVCHx1X6lZIu6wJcjAczr9JwnQNfuNDu8mVl5IR_N1oxcsLmJkpllxtcQtcOQO74UxEmsJG_VNTIjTh07GFJMCYvePf1g0zU11O20t4zthSDu4Zmd_4sHk5jVcL-2C49SzJhNBGPqb6y27XJERAdSjK_ZYvIrl_mTeRIxa0UXh7iAd_NhbAcCCa0vx8kjDn-P6JWoCBsxVkcXIg4C5Vt4fLFLTFlGk7f5wRQvslys1za5V4wIhOWLxQQ5a80gFOD2f9EiTDbdyQ5E8FEaiTa3SruHJbmf97Ys9vFy22A
-#EXTINF:-1 group-title="Грузия 🇬🇪 (GEO)",ქართული არხი
-https://tbs01-edge11.itdc.ge/kartuliarkhi/tracks-v2a1/mono.m3u8?token=rdHXUnpu56bFpAM644pYWTHAciQ3v_GFcDyGoQWWgCSeOsO6CAiyrWlE-IMV1Vm018CAoyok4_ZNd3Dg1JOcFdZPk96UA0eD2mV68Vux424nvuJizBbG0zChdHqHIWRcwP5ttDHfWppbZoF-upyaHpGc2z37hkX7Eu5bXKyglovDhIEWnrOtHy4TAiWx0E9bmo3qzrCJD4l9823S78rzPGRc8qHtEgZwP0fcXZwiVqH5bdKl_wX2zDNzi1qAbBNrxMJckpWcm6NRrcZif8j0yNttJN1olmsQ05UhRiw606g4AgSSl2e23lQhRJ040PzF
-#EXTINF:-1 group-title="Грузия 🇬🇪 (GEO)",PK TV
-https://tbs01-edge11.itdc.ge/pktv/tracks-v1a1/mono.m3u8?token=czOud9pzTftAiMTcJAAXlWSHhadV2UPmsVrBNGERny4bpNuls7IR9q9Buni95EMV6bC4L6GB8X6Ec-Z5-tRrXyhEyhnaN5PI8UHOIRRb2i_IajJW5VMnJrjGGerDozQVSIlg-uHpveKT1JNZuIrMM6wVlwgthW6cO1sOlV1V276oQva7N51_Vcoxjo-tGMyIifhNPP7GkL9dsmtv5bll69708X0COQOhjefTdMDWq74gmCsCp5omaGSkdvD3vgVJ35oXxmGfs2y-6pIb8Spern382djiBDFEtOFahhhiO91bxmJ412gmnMFqDvZQ_ZfU
-#EXTINF:-1 group-title="Грузия 🇬🇪 (GEO)",Мega TV
-https://tbs01-edge11.itdc.ge/megatv/tracks-v1a1/mono.m3u8?token=dIeQJLGtX8bjcSrEryZ862HCeXvfy_P-b5_w8yhU5qMWX-Nxzs0Hmv0b9yzn-qpm6eUy7km2XmjBGx_NpvchFJ536mQo2Rddcc9ffLOfelLuTWOnVNzvfXz-UDW9fxSoDtpy7JJo2oZaEpcLvc92ujcNUX3iuN-M71nZ9Q_PSZASjKi5z77EfE5E3siumyd4cVu9_lb-VR6dNnTCSqhkZ-0NMTgNp7Gh8beiHfU10uC4WMnlAmZDbmTHWyfve3lcBYANHLAEr95U10OifHZ8xy-xKr0yRY2BnjTrr2l8rbCYkyMTVJSdQM7DNCf585sv
-#EXTINF:-1 group-title="Грузия 🇬🇪 (GEO)",არგო TV
-https://tbs01-edge11.itdc.ge/argotv/tracks-v1a1/mono.m3u8?token=vARjir4U7Jjqq6r1I-QEx0DtJdzJzNfW4f2efKgQVaLWKZMa48B695sWLxAYMr2BpNfGua4a0RQjvPmnrn2ZTS2IpeUSXF8iKphySJ6E9MBMZ-bzvuD2ClJiYY9PJm6HHEL5mgFdhZHEqeZoIOHLFq1A08rz1I_10hJte3fHCLXKTy8ZUDeyS1We9gkoVB3mK018M8X91YwUmTxyiXx2pJp1OfCF9EwR5Hyu-emAKzPwMWRlhXASNahgafr6A4GVffkGGfmWAE4EXsSRiSLXJdw_ivNbQICTzaorGDF1cPpC9gSTZDNX7RVGaS5KR7PO
-#EXTINF:-1 group-title="Грузия 🇬🇪 (GEO)",ბათუმი TV
-https://tbs01-edge11.itdc.ge/batumitv/tracks-v1a1/mono.m3u8?token=TP8FiVrVONN58Al21BDsbmjZxEgl6sg9z8PfciskcLD0XOqS7i2Sx0KX57t0dO80wnOO7CF8IoiwbhEzYFmV0fh-M9inPaToyGNZ2ld6nWfWlgklisNgNTOSVJ2T0ekMKaSmmA_6gOzDQbS8Rf1huXLeP_ks8VeA3pvkQeY18NISd9I74-4BTm4QFkFFuwoBaprSK8-i58ZKfZe-hU_h0tdlBRQ7bwhk32_bdpWs3TsnbQDjjlAjEpcGOe4IvXjQu2eVyZyHCB5bm3DnvxxizMk_aYka0faWpNALTtec_7y-HMAN8TskxKy1o8jk3INI
-#EXTINF:-1 group-title="Грузия 🇬🇪 (GEO)",ეგრისი TV
-https://tbs01-edge11.itdc.ge/egrisitv/tracks-v1a1/mono.m3u8?token=1V1jOw9TkJ_kNfWpxQ-e_LCWSdMfrnI_KsfAupYyCqf8mnk8fRf4EWXUNMoz4t7GdHQAFePWdpWMMEhN9inTSubI27A7AZDImAvYtTXlV2OgXyRJe_VZ080ynYxNQ_Ygutgh7oFMNXsyAJfOv28G1MWf9H1npNsehoXwbt6N0dARmfbxTUmUrxMt3ow8sbCCVY-yegzRt-K2h6zdWbB7VQbVjvOWjSNQdJEKU2o5qhOsVu6PJKlO0nbfkdB5QTESA32lgrENr-eol1mczpNqr87SWHH0Ljuh-n0SMvrQlkH1H3zVHpTR3CArhrFzjHRc
-#EXTINF:-1 group-title="Грузия 🇬🇪 (GEO)",TV 4
-https://tbs01-edge11.itdc.ge/qvemoqartli/tracks-v1a1/mono.m3u8?token=XmjE73VpaY2-Oc8O3kBkFiM0QMGL1hPhnL_AQ9k85MwAN05dzyjaoxP_UQXrV8iYxSgxthAIkgacrAf--tcGChpLSKszw4LjZd-I5kAGIM5REgM2_cgONIH-DULCf_tGZ-oRzQQS8qSh2SuvA0dH6Ft4I9fMPEMvwvA7YAAcSuRoRGJVXivMNRZUkHLlkoJGBTQNaP2EzoUZwlX-3OJZbWb_KE5TUGGd6ImBMX-fJJZUSJLtGtoBdNj_8bOWUaqBCcK0Mcn-4IlX6oQKB8n1nPNbQe3fzIdOs2p5mLGCrt6hKVJ9Drsy4Mz-vq3fxOSg
-#EXTINF:-1 group-title="Грузия 🇬🇪 (GEO)",გურია TV
-https://tbs01-edge11.itdc.ge/guriatv/tracks-v1a1/mono.m3u8?token=HyUfGFfvuv3SkBXjO128LyXbGnaCNJowS4RMrr4gpTqApq3I1rVZHvNgonBloNuJFq9C_pclADDg1-DFqpTqk9GMOVB6aRSc76aBF9rbfd57fgt0Ogk0yBgZaGRD6bTZit91InA_r2kMm3QCKVXwrH-SuiT7RQ1vT7vvO-SBFX_3LB4zsAPtZySrV-6dwG71IWi_iVdTkYOZq2EbN_ptqEYpCkYaS_oE-Z_41Z8wKaiIcK_oM0pUVgOLS5dSZyBE9hKJNOdquHPGSoxA_w2_vCFprDwVduhOWIZlzWzoiBZKTwG7anRWh4e0F2XVQHZe
-#EXTINF:-1 group-title="Грузия 🇬🇪 (GEO)",ბორჯომი TV
-https://tbs01-edge11.itdc.ge/borjomitv/tracks-v1a1/mono.m3u8?token=QB61Ecaf09TItWS_Jk3J1QVp7dbug1NcP_es1k9-H6axfZGW6n4dmp3d2kZ00rLfB97F44jysFqWSUJDfjnAouYYYiYBeBb-HStJ4Jhp2SWWeK1P4BzT_8HR9mKz0g3mSXe2ThvGcggNpC7JPDJALPiWEwr68plxNKk9iau9ITIXyWgLx4AM-IjraLgPEPXjPgyLdezOtWJVaW98nGAPd-9Oxwh33IbxWUSPvXRZABHCoVXXldX1OzxqaAr9mkkw-1pXjnGvRhqtI7cG0Szwd75k-Q5DaKebiHKf_fPq84W_ho_Mz-GJRggUhLsVl7Rm
-#EXTINF:-1 group-title="Грузия 🇬🇪 (GEO)",თანამგზავრი
-https://tbs01-edge11.itdc.ge/tanamgzavri/tracks-v1a1/mono.m3u8?token=EeXX9EF9qFi2e4mNi9ZUeZfoSvlxIrRkb9LwcMy-_1nOApq83cxUYJRgvjMt9O7-qAXdpDmuNNJvMfCX8Fu9GnPNUqwm9PfWvf8WXpDjesNRHlobrCwz3EAuLUCO6hRpYAE0NLcQXTwxfyeTivobwRlSGdaCcD97dhHIt29QyRp86_VIx7QzeQdB19RMaU2fB24Hn7bd2akDjIkrdTtAf3I-uDPEEACgoTCJnT6pyDlT9ODZhwra1AQhgjvfbKJ4Ma3VKHX9lubljU6fAkgu6yLl8SD1yuHsyIb86keu0a6Fw0zM-iL7rzmRV5IDyVVi
-#EXTINF:-1 group-title="Грузия 🇬🇪 (GEO)",Dia TV
-https://tbs01-edge11.itdc.ge/diatv/tracks-v1a1/mono.m3u8?token=p3e1I2q1lBG7T5GOMPHnAOIqi5MYct8P5gSUoZC0AogixJ06mX6ZHOGsi017DyGMRifuJ-axZ3Kas1wJTNsxLaGF6K8_136jB9nAgkbkW8wUv0DXQSREg4O_AaeiQLXJfhh23unOu4CCWFobre9Zy7T4-9gB97ajP8pe_AmVsEQRI2O3VfVtcw5fuph0NFBIgDPtBabGmtYG1hPClaJYF6dvmxfwHfV-rvg65T1-YOH-HoHw6JDkf1b6WEb91y6T_n0_VtqC1EFXkZzTcbmPmDXS32yORkP2PiUFoA3jCQwLCa4Ao4XfgKil2jhiDq0f
-#EXTINF:-1 group-title="Грузия 🇬🇪 (GEO)",მარნეული
-https://tbs01-edge11.itdc.ge/marneulitv/tracks-v1a1/mono.m3u8?token=-oCmVBuY4BAiUNj40auUW2CHd-J7YB6HiLrAglk_mntm5h30JgzIIxYMMXfzab6H1pg9YyxL5MOdY-yYRC80XdVBj2AdWINnhz9E2dbAOASsLPpM3pdpaoatNE4XyMkGbJJFWBShoodBfrmqMwS70G7Ne0bM2tD25_-piCM6hdQ_1_MwRUNMcTa-IuZp81a2C3yz5GTfGwJDlrTAE9p33DhqQcOu5B-_HRriuNUiqQkZvOTUszGtq_oUkjeh8Nq0cRfJi2v-iFrjwAyUQHzmqIWeTPFu3I5EaOZJRQMhIfPmXbJ0-YpiVRGeazX9_RTI
-#EXTINF:-1 group-title="Грузия 🇬🇪 (GEO)",TAFU TV
-https://tbs01-edge11.itdc.ge/tafutv/tracks-v1a1/mono.m3u8?token=fILFmd7aVtaRMpiLUGtQfzHv8yDJyyWWjnCz2ctDGuvdCTxXMZAfxyaU6GxrTLzZCvQfFxVizweBFEet0403LQbtcEYhJS2QRf6_XDDsFcBkNwVIFgsexkUbYs54z-XF38MNOxQPFV6fA3ey2wdBwkuF3q7LVH2idd77QKGK1spRe54e8Bl72MzFkLmNwBsujZhvAjKyrPlNw9YiNsc0n7y2E6j5MuafHRZmau4p72tiH1ee4qwHX5IEMNatGGGD64cQE2PiS2sxbn4_KJl9avvhnBNHRBEAJeDJhuPUC1jFCus6-bePDGeaPBDPcF9L
-#EXTINF:-1 group-title="Грузия 🇬🇪 (GEO)",You TV
-https://tbs01-edge11.itdc.ge/youtv/tracks-v1a1/mono.m3u8?token=BPxHxdYqv7fbSgiwCUxgV1R3mXX4TLvCOSjNNSXTNh1WQdKNwqdzw6V6f0C2cOf4cwHWZjuLhuP6N-To_qMCLU92UNAapgmHnqJ4tTrkYDQxhYWkx2ABfANSKoTV_8E0zTXM1sSWOOZ7GQRCBj8hKGb5vL0SJJ-C5nDD_adaPT0Y3OfKXHliI4tEdfLksNtEIiBqc4NMqzLDPAwJLlSmp5jd8Idr3OHlnOTCfnxoNcHlnH2_ffaMCqtqy0Os-nA9MixQZKalCQk7wO8cnxuexa0qa4PQ71Di2I5alPmoj4HEkLhCDpQmEShuKTJJnDJm
-#EXTINF:-1 group-title="Грузия 🇬🇪 (GEO)",Universe HD Channel
-https://tbs01-edge11.itdc.ge/universehd/tracks-v1a1/mono.m3u8?token=xkFfsjFSFoqafVhNKdf92UYd8sZarkJypSaZegJadvvx6MiLfX2jxRWKn08KSbM59JcR8nW1DjoXp3Xm1vsAef0wGqqLKpf1n9WBANQTlyqyqhzYJhEbUClo7gVHJMfX9FNc2OSMLFFSelDgZq865wGx6GeEtwVhv0uL-ScuO6ZMCUGbvw94Il0z1OShgKSNUljCPB4ZvEpnDNOqt32hnRu3BdhXSHjRTudheQDT-DfcGfCEhDvYfxdsQZM-xCnD60EM0GaQHeGgZWAWok2ycfkeaUcnuc7OQymrscBnxdSOyp4RnBOMyN8vWJi5zd-v
-#EXTINF:-1 group-title="Грузия 🇬🇪 (GEO)",მეხუთე არხი
-https://tbs01-edge11.itdc.ge/tv5geo/tracks-v1a1/mono.m3u8?token=n3VS6t3Na94oM8NWywoGf-MD-yTlYaKA0BlLt-5_r-VarlLVAxOjYQ3oEmP4R_MYXlX3iM5e-YfgGMLyRPFavasrJYwuwyJf88yU8dIr6juYjEErUDnvNwd1Xy4DccUQLhRpmff8vPs9H4s1asggkPTTiOVTVs3khNGtjzUEXeUTjKMuelgD-NAS1R-_JS2ExbaED5Nua21DhiJ8TyqME_7rBusM-9mqoxZ75nAwY_3eRLEh-3Z-MfstkdGIG0dj8AwNT2ZeL8a8IctFgG4h9l7CA6JpY2_nSZ07RcmMMgHEwycuRgM-Mrb52MgJM0Ww
-#EXTINF:-1 group-title="Грузия 🇬🇪 (GEO)",სდასუ
-https://tbs01-edge11.itdc.ge/sdasutv/tracks-v1a1/mono.m3u8?token=0P9s92hNIWRy3aBHVWmcLqc6yOeZ8efsZI8qKC3sSz6JhjnClVVZ_1PpKAKCoNfuw1cKbf_ZrpLfJ0B6fe-lYh3wbZAKymo46seLkrNNdN37i13TdRU_D_fpdsL1IPV9ZruHvobz80UDsWFea0WyIvGCyDboDEAIX7gpAEma_R-eGg2D6Z-P5I3aLz2Ia56igZlJczhqCzlMNhwV3W_C7OyMkUPkPI2OQZjCI5eptYwiSMayiElNagWlAsxPVmLjLtiAutJXB1nflBosCU9V9AmjwoAmMCiZHzJVuoCimpGOMCk9X3fklrCHchyiL1-g
-#EXTINF:-1 group-title="Грузия 🇬🇪 (GEO)",GTTV
-https://tbs01-edge11.itdc.ge/gttv/tracks-v1a1/mono.m3u8?token=o5H6rvns1o4Ewxb58M0Rb9sqQ5iqnWgQhrtRxYK50ajRmmXsz8XiSZrmD9cokbEWyf2w3OJnEj_T_OoXmzvjqJv_FERIFTDz4HEAaa9Rz7mpP30DI908nQcPcRfHZd9GOHCkQ8LuniaEXe5-dRd_uSRQx_mO1ZDkHqehM5E_OKxBGB2SUEOypyRmfmzpZs2Hb6XgFrL_Vsz9SY7Pco1alyWWx2IS16CBeD85DzooeIjUUfgXOMJ8emCLZptVxnF1fEJwnqkydmpS9jLsCxzKawE0ADBrXoOqPdUcBSlN3zVRYFyLC1ljmC-jtaxi8x5G
-#EXTINF:-1 group-title="Грузия 🇬🇪 (GEO)",TV 12
-https://tbs01-edge11.itdc.ge/tv12/tracks-v1a1/mono.m3u8?token=0WP-JXmI2dEoUsMqkGfnnlB5-Duoq6rtwX592-jZ8kyGuB01wP_RtI3vIZDAJq2A_os-T4R4sJVknlWWDjnpxB4sLYsDdSSvj_ynpU12hko5le1LX9qSD04ZZMNs_43n2KjXDQGNVcXEjfR0mKEjoKH6QxImCGJYGEesL2zOrSqQRMRpSj0Iu1-C6sqf928WTe5XjX45RCIcmBPyBvwt_scv0csKV1x_Ei1qYP3YqiTn-cDK2xM9YRZ6OyaqwJ29Km25CvBIdNWcBNPxp345a76l6ss1jqJ_LHaMqY640xgeJ5tmL0xLUfipw5-ROjYN
-#EXTINF:-1 group-title="Грузия 🇬🇪 (GEO)",EuroNews Georgia
-https://tbs01-edge11.itdc.ge/euronewsgeorgia/tracks-v1a1/mono.m3u8?token=ckQMO6jw9KgWKCmqKFjQ32JKH_sF5vz9V9kYsaRW1YoU4gUEOwol3k-yAffJyptBTga5khc35Nya20CAadapdi3Owg3TQzhO_NgbFJ7AoCPAlUD3XJopYEE4N8O9ppnBQQa5kQd6hzlYL6JlRAay3uPY2iUK3_wdbOabud3uYMSaPRA3PJOQn-qyZ3dTcD-2pNfkjBiaw7fEOiBpY5xYSMuKMIyEsSjpSG09ppK0rwEmxnoBuUc_VMQLP7zqA2mcYVELKseI0vKneLZMHVr7rGYmf1VW8YZnlAEyfD0F9l2s6AkgfTwNZpCxNwzFtVXt
-#EXTINF:-1 group-title="Грузия 🇬🇪 (GEO)",SmartNet TV
-https://tbs01-edge11.itdc.ge/smartnet/tracks-v1a1/mono.m3u8?token=QV1vf4s1-FQJdk2vBOMwEIwPKqPFR_9722ALuFsE1ncoASw4Ff4BpqP7VXoX31Cz2x6ozqGgNfIhhDQ2hz6vpOPvPnFtuCRpiUX4BvdPCu-LjYvSiv7iKpwfHYkdHzVzHDlOvTQHqRGaLYsaoucWcjPubACYg7OB2WW26eGSLSZNReuL7iK-W5Kyh9U7-5mSr5pa9NcW9p3rwLsxxv_X04WdK3xbffoa1ICHLNAB9Iw4wzM-rsVY69n8t8k9Gk5D8fnNs1pKni5ieOto8HoGfxX_TDCEbkxDjqOM23trornFKl62tDQgR3m3HTXxHCuK
-#EXTINF:-1 group-title="Грузия 🇬🇪 (GEO)",SHONI TV
-https://tbs01-edge11.itdc.ge/shonitv/tracks-v1a1/mono.m3u8?token=lT7Ekvin-rbxOVtgN5wJsVSeNAVR4wkFN8zfVHlRKtc9kH6fwr2y_0dQDfodMnstahHWrbyqF16diZiRNHdEI8RANYT7C6rWiqS1-9JREPn9hSXCJK2Ghom37Gy3ccUzs1AHHQ-bkIu3lcn1UKSvSKHMMT8uOedieFi2KMuFomxaow_4BCqDGnxwgbJtIXoFIjOqhvD5xvcuEO1TyodXNtI5MGidcvJ1j9aC70In8f0iDTEJNbgUxD-8T-3LcJl0ShdnJkooZykV_q5Q4WR5JSSXq4AlOWM-6lSfkBgSNCYwcOI9KaBegm3S8EtrOZGW
-#EXTINF:-1 group-title="Грузия 🇬🇪 (GEO)",Med TV
-https://tbs01-edge11.itdc.ge/medtv/tracks-v1a1/mono.m3u8?token=ifJX0Wpc6HSqK0xuaGqwXEYOZQliVdL17j77RlLLsAy0jMbVYQSWQ4y2Quxac8qkp2EDincJUcik558nck58kPuYVcZZy7MPgnZrlrjmOeu4MTuufXwJ-xFOeXPlD9ZxiRzTQrNolq8mDabs2Wucs8ZCZijoUeIr_VAANnqhWsKMqfWbjbCYVPpbdb7fHQOAbTtl5P4-XgKnrbgGkbr3HQZJWP_PX64hfsC6WdhB2_U8ahhuIrLg8byCidarsYAPuolOomgyAZslDK2yL55U410kkblMvCFa10MSI5g2rO24wMrK-FjsaAXNw
-#EXTINF:-1 group-title="Грузия 🇬🇪 (GEO)",TV MAX
-https://tbs01-edge11.itdc.ge/tvmax/tracks-v1a1/mono.m3u8?token=WxWH_InKxxImuVnkFsNlrmTDRIZqYR5fYCOS-VuZy5e_66YedErH9QnrRfsesi0VEGQL_JG47_mwCD1TNURQFR8-8pgtI2pOJ-Igb0zK95btsEvK82lnZWjwPMYbaccF4db0QgqQkCnxBZhAzQXEOx6pvf7vfjpxozD89jRhncTw1xfBHp4b_rGZT2tSG0W1zHkV1b4fBAWveEL7vx8PXPGiOsmoaskR-vPSyMVjhh3NAwUsMaI7BtqfZtPyDVkLOsRflWGnUoerrSC07-m5Hj61FMy1a3cjDef6xF7ygspwZcJf4KSNirveR0fQcrLB
-#EXTINF:-1 group-title="Грузия 🇬🇪 (GEO)",გირჩი TV
-https://tbs01-edge11.itdc.ge/girchitv/index.m3u8?token=Y3HC0p-gmGas_gTcBEdoKWcOkVaSsKuLbvVVUgAdWUdw4oP0GjbHgqbnAIkrVZGACqEerlGIASdC2g3mxSho0Hkyh4eDURxRnT0S3YJzrTHw8asfEtMj9J718RUBWex6RLuAbj6jSrxMaS_OEFEpPNkfB-z8ozJ8tGp4y4AaZGgiJtdx4lhQrdY3z7c_ONa_siWzL_flN2p4-8odArW3QuKwXN0AF0Cartk171iqYsEv83Ijz3nNDZsWop-JToEaxn14OJJ14jBlqZLyLegGM52r7lopY1txruxyCcWBFZJpgisIqpJ-E1lOQtux3XAp
-#EXTINF:-1 group-title="Грузия 🇬🇪 (GEO)",ეგრისი
-https://tbs01-edge11.itdc.ge/egrisitv/index.m3u8?token=fKT4lZlmhHa8HwxeIZhK7jJjikBg08H-wb-nYsxcaLXDk8hPnPnnEynWjWFSRnOtLNbrYZB6YTzcdkdsvGZjUASi9GqtM-N5-clohD-dJoMANiLm_PBX5mblAn71zqiprFSrkcu4o1-re5_UnV-fqsCK1fzZVV3PeuIL6nhj9qlEw1miCTZ7DqBjQ1ZqzVGuYYZzvzDpVw6oi3jhMYxIuAPnP2bMhq6xcBLAuwYTrxexlu3XjXwn5udcrfQ_VEk5DW54a5LL2xvbmZifb15V5zsyoqghIGX64ImaZW30Rnaw9B_DSOiCnwzgNRsOdSOE
-#EXTINF:-1 group-title="Грузия 🇬🇪 (GEO)",არგო
-https://tbs01-edge11.itdc.ge/argotv/index.m3u8?token=jSezyOAqBYB2vYUjin5ZRJYSTTDhUho1ZW8NA27OqHUPPrbmaYBJL4n1bfhFvsPg-s0B-GbuQICflF73UqxtaqY6QoI0BcXRrhjLIiXHgZvRRA8AItB_sk7b3k3KPz4p8e0fw1KSKpSBrfY8yp6Tw-QVPriejCkAO2M5KesIj5tvhdI1me_ENZZhPVU3SxHF03s8CNi-zeM4k8tQCfZljtPTbNtGOecVUOC3ksCsAEDod8YPPa7pLm34Fc3azmTCA3SXlIm1SPsaY0VCwBQDvRuqL4bk-vIcoMOLEoKZHS1giShex-j0yjhFUyxV5G4G
-#EXTINF:-1 group-title="Грузия 🇬🇪 (GEO)",GMTV
-https://tbs01-edge11.itdc.ge/gmtv/index.m3u8?token=TQ1zDXnAFpg9zOWWT-VfcXsUsFx0yiu4aw3OIbJL1t5sztfhGnXrZ5mFp6FVR7IFMZU1JoxhpQvKYlUcdpjgHPl5twUHnfMYJhBNSt3_CKXJySYGDQv_HTmgjlYHJNaVapXKnG4iK3DYQ3SnAiGRQ37Q-5IEBZQ-0PsnP1HKKOtOYb5x5uXQ0yF890-xPb1scePXqVpdLAdME6OptwsfCBUiBY8Tc97KrtN5B23juKJPjpXukM-9jgL_wSs_6LX0gYg06tRFrZqwExhrGiayV7hKrRsv-vjdjlSnDBG-6rYW17Q38qnvg8YXYLV_pQT7
-#EXTINF:-1 group-title="Грузия 🇬🇪 (GEO)",კოლხეთი 89
-https://tbs01-edge11.itdc.ge/kolkheti89/index.m3u8?token=eUDXcLmxYqoxGXDvI7Xccq5oRJtbkvIuMpx5WDtIJYaPalQYzKEPK5k2GBkqekIo5UysPfj7wMMb2gbUUIxG3MslLcUIXQqMUKtH2OhqJBtz_DFZfM6sW-b1YNyDBpblOlkSV5v-qcxeFZr_WUOEg0WP46v8NtCpoe-8uIRah3vNDqlpUzQeiEG9g5Cw9ews40yE0SwBSITvMxL6PzeYSJLVI0KW2jadQc8WiFCOm4PBDbEV-CXhLOwynzdstNMbQ1VbZJKh8pkzVOg1_ITlX7WiDQ2zad02zhgcuVK4ManwF-jBn_k3EJ_1aBuovBWW
-#EXTINF:-1 group-title="Грузия 🇬🇪 (GEO)",GREEN TV
-https://tbs01-edge11.itdc.ge/greentv/index.m3u8?token=dInvQ6cCtXgFfP6F01nlP8ocjzrPEK5Ia0bAx_zli-vI9XkTrZKsPsjc0eRyNIEpyKGd5LRgaeYvP9mka4HYAOsHEc4t1aPuGsz398LEgHZSPsaLCuQyK-JpAdKATvDH6HjQPSpPFkqhCgeOqVza3I--2xs9EI7A-lUp0akvj8VqDnsYcZbZiy590RCUqRnzzz6bxWzETG_gh-OqgWhVPXpaBXlXfXKP3eOO8LAUrx9zdUEvxye-pAi7QBeIfD4t3IYJHUlqvmtFOW1iA2r6gYD8sAb573yCQ-6j6bIZk8SLvBSW-6b_r389tpgPSVgB
-#EXTINF:-1 group-title="Грузия 🇬🇪 (GEO)",ბორჯომი TV
-https://tbs01-edge11.itdc.ge/borjomitv/index.m3u8?token=PTIee4AeZKbMCGGNJ0CgNjZlWcaDwjMvryR6r1zrHyoDwI0YdJQOvcbUaTF1mVdhCucpXAvBiChij9IxSgGXhRblpBhknuAGvwtprZ_KFfK9iZLWxONrTOPR74fTyq-qkc2ZSKNPeZxucQ7qM47ZrzWuyjaS4kB6q4qVMd8B3ATI0zr8FnXzkWRp1zugVyrDTKjOVJwAKI7OdY1PBG6eD3HaMfgDbDT0YWur72oQb97SO7BbbG6XmF1al80eW-Q8fU4oCn8LpRcA_M84t4Q-0bq3gX8uTzbseIKQgaXVBn7WQf23lhRn9QuZWfi-94EP
-#EXTINF:-1 group-title="Грузия 🇬🇪 (GEO)",ოდიში TV
-https://tbs01-edge11.itdc.ge/odishi/index.m3u8?token=l6KAmIPhOZ3gy-8mYjE7ErxOsHZvfPRxmrPobhIXj_gWsE12WffjfHbw4QoxqhH1Jr9ofTEqE_0Pmy3UdfzPCkcYGTaptWRtiE1ecr5i_7qseE99d926lVr2QgjcUKEKogZIkRjpb3xfYT8jpTwEHgo8ZK5_1KE0qgmcQ59n7enoKZ5lP4WSHK3917yBTPI4g3wAL_Rl5a9u9wtYByT8FaL78VDkMt07E1r7XoRa4Js8S6BfASY8cT4D1flkWo-VsHXGF3tJHVGoLGNmf02-9nEQ0wP-F9EbsRbNzdg8QfOe5DdgQwyNo2XfG4IZSCot
-#EXTINF:-1 group-title="Грузия 🇬🇪 (GEO)",მეცხრე ტალღა
-https://tbs01-edge11.itdc.ge/nwbctv/index.m3u8?token=0LRiHgpkLiF6-V4SF_y5syGavkP-MZyqYGi9pIR6KPQjE-JByELCVCuSr4Lq2lM0iYnyD0QY0nkly-gSgx-R0-yqVbVPQrTj_eShf3MKJizKlK9qZeoxbHmgliKp_ZkJeJwxHIRBxTJCvHHlF2cJ5vsVa23pMJMF0Mf5KCuQz1muq5FGLHHs-iXbhSBP9aZm3Pn0ZEeUYxzVQ8qw6TT0FBCwhln5P-D2Oq66z0RdmhKyOY_2zTmWTyj_Bm8XyiEa2QMad3_h1ouXfFeplZW9KTQ56YwaNwLPDJmn8ucLIjI0TvzHp5awUPY4Cd4fRYJK
-#EXTINF:-1 group-title="Грузия 🇬🇪 (GEO)",TV 9
-https://tbs01-edge11.itdc.ge/tv9/index.m3u8?token=5TeIkOQhrhKToqUOeQ5quBQPe-qh9gONBY1Yjy69KHwJeNPMs4BoLRkl7UqUdeloIegVeHcFpISE8eUD1s71GLsirBjiKWzdeCEPy5vkcDGiCMYl34hCY2dnM1yz0q_mipA3dsNU-s3JxhLmTODF3Tnx7yNXOdv3kW8lyfMkEQxQiku6iUmlyG2tW9nbiCyvAc4NVuXn1yKdk8PigDBwiLkxnSQbfUKo6rLpxTgTLjOvLX9OEcRKGQK6J_UVSkX8oG5EZSxtULtVVcfxzycMIAfyDfIUZKARGsIdx7LdpXfOFcS6twOGn8U5gocI1MBn
-#EXTINF:-1 group-title="Грузия 🇬🇪 (GEO)",TV მონიტორინგი
-https://tbs01-edge11.itdc.ge/tvmonitoring/index.m3u8?token=7-37uZzzUnVX0bE2B7ua055Gx4DEJOLgoOr4ZrfZnr2vM5IXopNjm8KpyvQnXBB0s1Vr3kdqOGRg3ilcp6XVCqeysQjhR3Ad8DnbZldPMk9MXU6GpVSp_DMkAyS9WLcH9a4E-2LeGlIpcskdrD495ksdgFhJ8JvsxEJy8EB6XK-hRMUP8-gBZ0UptyeAIPZ3DWsyj8B6SbBHaRiPJ_c-KNZM3jcCY3ey3Dp4c86YJ6oZDRkjPdFsmx3xQ-DxcQ6hm3zDXelROnwipmI1v90Vt2jO0qNyZjW0ZElf1GCil-XFivtYQLN_6DkzHFMQUgqO
-#EXTINF:-1 group-title="Грузия 🇬🇪 (GEO)",CTV
-https://tbs01-edge11.itdc.ge/ctv/index.m3u8?token=8UhSCgE0XFO3WdiLE94BRS1eX44coL6yi18ZmShwtvybok35yiQAj1TNb9o2do6yMCPK1NxR0se1xNndZZaJUxhZMMdCTTR49o8AlgvGQfW2J5SBnB10jaVCn939a8oAByS36FTfb7-CGPtH1Fc4TfokjliMwj7jPVgoZB358OKPqlDC8d2bT1eYkpRiAP684_LyCXK0gdrznfQSbFJPUWsZjEra7is8bDH_78iuFZ33l1--s2a6hPvc0DPRi3LOU07Laeps6wGTQViE9Rm1ZdkRo2BMR6VKJFNggzQXAxe8vMnP45I7bjbPQhcft3Ak
-#EXTINF:-1 group-title="Грузия 🇬🇪 (GEO)",სეზონი TV
-https://tbs01-edge11.itdc.ge/sezonitv/index.m3u8?token=dUqxDMtqCa6v4ieWL0UyVAQG_7DSgbKZ_wOg0ARffr7svdcu0MPU210pqtE4_0j-RMOQYqRQ2QGd99G3qeQRLIlc30J-el_4mtZqpYrKIv83RGYpz_Ms9yVuklXb4b0R5rVSlH_63OfDg_me8nAu_cO0kR9TbSnWk0AjK6PpLXLtyHKasGCMppUqZqt3YDcbbUnniEqwjXlCIivWuTJLVJLgvyMdK80XYSi1-C26pDUvOa457NITRm_tME59K_RqdKZqzfatOg_vYlli1-sfuxKwhNT2LjA0CCK7K0qEaV_7plq1i9UiEze79sCpk0fx
+#EXTINF:-1 group-title="Грузия 🇬🇪 (GEO)",Ertsulovneba
+https://stream.sstv.ge/live/sstv/playlist.m3u8
+#EXTINF:-1 group-title="Грузия 🇬🇪 (GEO)",Imedi
+https://tv.cdn.xsg.ge/imedihd/index.m3u8
 #EXTINF:-1 group-title="Доминиканская Республика 🇩🇴" tvg-logo="https://3.bp.blogspot.com/-1P8ozDYekaw/XbBkLrf0Q4I/AAAAAAAAodQ/5qTLYC9km6YVHW8E1WoELvFneAUm1U7bwCPcBGAYYCw/s200/Teleunion%2B%25281%2529.png",Teleunion
 http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8
 #EXTINF:-1 group-title="Доминиканская Республика 🇩🇴",RNN
@@ -1828,8 +1652,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-failarmy/CDN/1280x720_5000000/ind
 http://video.oct.dc.gov/out/u/DCN.m3u8
 #EXTINF:-1 group-title="США 🇺🇸",DC COUNCIL CHANNEL
 http://video.oct.dc.gov/out/u/15_12.m3u8
-#EXTINF:-1 group-title="США 🇺🇸",Daytona Beach TV
-http://oflash.dfw.swagit.com/live/daytonabeachfl/smil:std-4x3-1-a/chucklist.m3u8
 #EXTINF:-1 group-title="США 🇺🇸",Darcizzle Offshore
 http://30a-tv.com/darcizzle.m3u8
 #EXTINF:-1 group-title="США 🇺🇸",CTNI ES | SD (US)
@@ -2030,36 +1852,18 @@ http://stream.taksimbilisim.com:1935/tuncerciftci/smil:tuncerciftci.smil/iptvdel
 http://cdn1-gurbet24.yayin.com.tr/gurbet24/ngrp:gurbet24/playlist.m3u8
 #EXTINF:-1 group-title="Турция 🇹🇷",Haber 61 TV
 http://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/iptvdelisi.m3u8
-#EXTINF:-1 group-title="Турция 🇹🇷",IBB TV
-http://wowza.istweb.tv:1935/webtv/webtv_wowza1/playlist.m3u8
-#EXTINF:-1 group-title="Турция 🇹🇷",iCEL TV YEDEK
-http://stream.taksimbilisim.com:1935/iceltv/bant1/playlist.m3u8
-#EXTINF:-1 group-title="Турция 🇹🇷",KANAL 33
-http://stream.taksimbilisim.com:1935/kanal33/bant1/chunklist.m3u8
-#EXTINF:-1 group-title="Турция 🇹🇷",KANAL 56
-https://cdn-kanal56tv.yayin.com.tr/kanal56tv/kanal56tv/chunklist_w559405215.m3u8
-#EXTINF:-1 group-title="Турция 🇹🇷",KANAL 7 AVRUPA
-https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
-#EXTINF:-1 group-title="Турция 🇹🇷",KANAL URFA
-http://stream.taksimbilisim.com:1935/kanalurfa/smil:kanalurfa.smil/iptvdelisi.m3u8
 #EXTINF:-1 group-title="Турция 🇹🇷",KRAL POP
 http://dygvideo.dygdigital.com/live/hls/kralpop?m3u8
 #EXTINF:-1 group-title="Турция 🇹🇷",KRAL TV
 http://dygvideo.dygdigital.com/live/hls/kraltv?m3u8
-#EXTINF:-1 group-title="Турция 🇹🇷",LALEGÜL TV
-http://lalegultv.netmedya.net/hls/lalegultv.m3u8
 #EXTINF:-1 group-title="Турция 🇹🇷",Luys TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91c5ac96898.smil/playlist.m3u8
-#EXTINF:-1 group-title="Турция 🇹🇷",MARMARiS TV WEB TV
-https://cdn-marmariswebtv.yayin.com.tr/marmariswebtv/marmariswebtv/playlist.m3u8
 #EXTINF:-1 group-title="Турция 🇹🇷",NUMBER ONE TÜRK ASK
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
 #EXTINF:-1 group-title="Турция 🇹🇷",NUMBER ONE TÜRK DAMAR
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
 #EXTINF:-1 group-title="Турция 🇹🇷",NUMBER ONE TÜRK DANCE
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
-#EXTINF:-1 group-title="Турция 🇹🇷",OGUN TV
-https://s01.vpis.io/ogun/ogun.m3u8
 #EXTINF:-1 group-title="Турция 🇹🇷",ORDU BEL TV
 https://cdn1-ordubeltv.yayin.com.tr/ordubeltv/ordubeltv/playlist.m3u8
 #EXTINF:-1 group-title="Турция 🇹🇷",POWER DANCE
@@ -2086,10 +1890,6 @@ http://s01.vpis.io/sinopyildiz/sinopyildiz.m3u8
 https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8
 #EXTINF:-1 group-title="Турция 🇹🇷",TGRT HABER
 https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8
-#EXTINF:-1 group-title="Турция 🇹🇷",TRT 2
-http://167.114.115.233:8080/trt2fhd/index.m3u8
-#EXTINF:-1 group-title="Турция 🇹🇷",TRT BELGESEL
-http://tv-trtbelgesel.live.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="Турция 🇹🇷",TRT DİYANET
 https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
 #EXTINF:-1 group-title="Турция 🇹🇷",TURHAL WEB TV
@@ -2112,26 +1912,14 @@ http://canli.tvden.com.tr/hls/live.m3u8
 https://edge1.socialsmart.tv/urfanatiktv/bant1/chunks.m3u8
 #EXTINF:-1 group-title="Турция 🇹🇷",VIYANA TV
 http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
-#EXTINF:-1 group-title="Турция 🇹🇷",WOMAN KADIN TV
-https://s01.vpis.io/wmtv/wmtv.m3u8
-#EXTINF:-1 group-title="Турция 🇹🇷",YUSUFELi BELEDiYE TV
-http://85.10.207.237/yusufelibeltrtv/ngrp:yusufelibeltrtv/chunklist_b1596000.m3u8
-#EXTINF:-1 group-title="Узбекистан 🇺🇿",BIZ TV
-https://st.biztv.uz/hls/stream_mid/index.m3u8
-#EXTINF:-1 group-title="Узбекистан 🇺🇿",BIZ Cinema
-https://st.biztv.uz/hls/c_mid/index.m3u8
-#EXTINF:-1 group-title="Узбекистан 🇺🇿",Biz Music
-https://st.biztv.uz/hls/m_mid/index.m3u8
-#EXTINF:-1 group-title="Узбекистан 🇺🇿",CHEKSIZ TV
-https://st.biztv.uz/hls/cheksiztvsd/index.m3u8
+#EXTINF:-1 group-title="Узбекистан 🇺🇿",MY5
+https://st.my5.media/hls/hd/index.m3u8
 #EXTINF:-1 group-title="Украина 🇺🇦" tvg-logo="https://cdn.teleon.tv/logo/100-news-ua.jpg",100% News (Одесса)
 http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
 #EXTINF:-1 group-title="Украина 🇺🇦",24 канал
 http://streamvideol.luxnet.ua/news24/news24.stream_720p/playlist.m3u8
 #EXTINF:-1 group-title="Украина 🇺🇦",7 канал
 http://cdn10.live-tv.od.ua:8081/7tvod/7tvod/playlist.m3u8
-#EXTINF:-1 group-title="Украина 🇺🇦",Bambarbia TV
-http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-720p/playlist.m3u8
 #EXTINF:-1 group-title="Украина 🇺🇦",ITV (Ровно)
 http://cdn10.live-tv.od.ua:8081/itvrv/720p/playlist.m3u8
 #EXTINF:-1 group-title="Украина 🇺🇦",Prime Time
@@ -2142,40 +1930,24 @@ http://85.238.112.40:8810/hls_sec/239.33.116.26-.m3u8
 https://avers.pp.ua/hls/efir.m3u8
 #EXTINF:-1 group-title="Украина 🇺🇦",Балта ТВ HD
 http://194.50.51.34/playlist.m3u8
+#EXTINF:-1 group-title="Украина 🇺🇦",Тюсо
+https://tuso.cdn-01.cosmonova.net.ua/hls/tuso_ua_mid/index.m3u8
+#EXTINF:-1 group-title="Украина 🇺🇦",Сфера ТВ
+https://cdn10.live-tv.cloud/sferarv/sferarv-abr/playlist.m3u8
 #EXTINF:-1 group-title="Украина 🇺🇦",Глас
 http://85.238.112.69:8811/hls_sec/239.0.4.18-.m3u8
-#EXTINF:-1 group-title="Украина 🇺🇦" tvg-logo="https://konkurent.ua/media/uploads/prev/2018/12/21/17/47/07/47683535_2265803340098664_7251765740552847360_n.png",Громадське інтерактивне телебачення (Луцьк)
-https://stream.uagit.tv/gittv.m3u8
-#EXTINF:-1 group-title="Украина 🇺🇦",Думская ТВ
-http://cdn1.live-tv.od.ua:8081/dumska/dumska720p/playlist.m3u8
 #EXTINF:-1 group-title="Украина 🇺🇦",Измаил ТВ
 http://cdn10.live-tv.od.ua:8081/izod/izod/playlist.m3u8
-#EXTINF:-1 group-title="Украина 🇺🇦",ИТ3
-http://cdn10.live-tv.od.ua:8081/it3od/720p/playlist.m3u8
 #EXTINF:-1 group-title="Украина 🇺🇦" tvg-logo="http://epg.it999.ru/img/2226.png",Круг (Одесса)
 http://cdn1.live-tv.od.ua:8081/krugod/krugod-abr-lq/playlist.m3u8
-#EXTINF:-1 group-title="Украина 🇺🇦",Ника ТВ
-http://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Украина 🇺🇦" tvg-logo="https://i.imgur.com/eJxIRwX.png",НТК Коломия
 https://stream.ntktv.ua/s/ntk/ntk.m3u8
-#EXTINF:-1 group-title="Украина 🇺🇦",Одесса int.
-http://85.238.112.69:8811/hls_sec/239.4.228.28-.m3u8
 #EXTINF:-1 group-title="Украина 🇺🇦",ОНТ
 http://85.238.112.40:8810/hls_sec/239.1.75.33-.m3u8
 #EXTINF:-1 group-title="Украина 🇺🇦" tvg-logo="https://api.hmara.tv/images/saved/afc3320db956883ee9753fd538d04c26.png",ОНТ Одесса
 http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
-#EXTINF:-1 group-title="Украина 🇺🇦",Первый Городской (Кривой Рог)
-http://cdn1.live-tv.od.ua:8081/1tvkr/1tvkr/playlist.m3u8
-#EXTINF:-1 group-title="Украина 🇺🇦",Первый Городской (Одесса)
-http://cdn1.live-tv.od.ua:8081/1tvod/1tvod/playlist.m3u8
 #EXTINF:-1 group-title="Украина 🇺🇦",Плюс
 http://85.238.112.69:8811/hls_sec/239.0.14.15-.m3u8
-#EXTINF:-1 group-title="Украина 🇺🇦",Правда ТУТ HD (Киев)
-http://pravdatytkievshina-hls2.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8
-#EXTINF:-1 group-title="Украина 🇺🇦",Прямый
-http://prm-hls1.cosmonova.net.ua/hls/prm_ua_hi/index.m3u8
-#EXTINF:-1 group-title="Украина 🇺🇦",Сварожичи ТВ
-http://tv.tv-project.com:1935/live/live1/playlist.m3u8
 #EXTINF:-1 group-title="Украина 🇺🇦",СК1
 http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt720p/playlist.m3u8
 #EXTINF:-1 group-title="Украина 🇺🇦",ТВА
@@ -2194,38 +1966,20 @@ https://biptv.tv/live/biptvstream_orig/index.m3u8
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Франция 🇫🇷",MDL
 http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
-#EXTINF:-1 group-title="Франция 🇫🇷",TVR
-https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/master.m3u8
 #EXTINF:-1 group-title="Франция 🇫🇷",A2i Music
 https://stream.sen-gt.com/A2iMusic/myStream/chunklist_w652109108.m3u8
 #EXTINF:-1 group-title="Франция 🇫🇷" tvg-logo="https://i.imgur.com/YWIJdai.png",Africa 24
 https://edge12.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
-#EXTINF:-1 group-title="Франция 🇫🇷" tvg-logo="https://i.imgur.com/090tCQ5.png",Alpe d’Huez TV
-https://edge.vedge.infomaniak.com/livecast/ik:adhtv/chunklist.m3u8
-#EXTINF:-1 group-title="Франция 🇫🇷",BBC Doctor Who
-https://bbceu-doctorwho-3-fr.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Франция 🇫🇷" tvg-logo="https://i.imgur.com/EQZPSZx.png",BBC Drama
-https://bbceu-bbcdrama-1-fr.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Франция 🇫🇷" tvg-logo="https://i.imgur.com/YQjm4U5.png",BIP TV
 http://biptv.tv/live/biptvstream_orig/index.m3u8
-#EXTINF:-1 group-title="Франция 🇫🇷" tvg-logo="https://i.imgur.com/RgKaoe4.png",Caillou
-https://dhx-caillou-2-fr.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Франция 🇫🇷" tvg-logo="https://i.imgur.com/lAsE6kN.png",Canal 32
-https://edge13.vedge.infomaniak.com/livecast/ik:canal32/manifest.m3u8
 #EXTINF:-1 group-title="Франция 🇫🇷" tvg-logo="https://i.imgur.com/ab6p2SW.png",DBM TV
 http://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8
 #EXTINF:-1 group-title="Франция 🇫🇷" tvg-logo="https://i.imgur.com/utMKPpl.png",Ère TV
 https://mn-nl.mncdn.com/awraastv/awraastv_hd.smil/playlist.m3u8
-#EXTINF:-1 group-title="Франция 🇫🇷" tvg-logo="https://i.imgur.com/8t9mdg9.png",Euronews Français
-https://euronews-euronews-french-3-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Франция 🇫🇷" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png",Fashion TV
 https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Франция 🇫🇷" tvg-logo="https://i.imgur.com/vQuyyWO.png",Fashion TV UHD
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Франция 🇫🇷" tvg-logo="https://i.imgur.com/DTRPV6B.png",Filmstream
-https://spi-filmstream-1-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Франция 🇫🇷" tvg-logo="https://i.imgur.com/NgBrDMe.png",Generations TV
-https://edge.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
 #EXTINF:-1 group-title="Франция 🇫🇷" tvg-logo="https://i.imgur.com/fVhrJHK.png",ILTV
 http://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Франция 🇫🇷" tvg-logo="https://i.imgur.com/m5lO27j.png",Juste pour Rire
@@ -2292,100 +2046,22 @@ https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
 http://tv.ulagos.cl/web/live.m3u8
 #EXTINF:-1 group-title="Швейцария 🇨🇭",Canal Alpha Jura HD
 https://canalalphaju.vedge.infomaniak.com/livecast/canalalphaju/playlist.m3u8
+#EXTINF:-1 group-title="Швейцария 🇨🇭",QS 24 TV
+https://h030.video-stream-hosting.de/quantisana-live/_definst_/smil:livestream.smil/playlist.m3u8
+#EXTINF:-1 group-title="Швейцария 🇨🇭",Radio 3i
+https://vstream-cdn.ch/hls/radio3i_720p/index.m3u8
 #EXTINF:-1 group-title="Швейцария 🇨🇭",La Télé HD
 https://latele.vedge.infomaniak.com/livecast/latele/playlist.m3u8
-#EXTINF:-1 group-title="Швейцария 🇨🇭",Pluto TV Action
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed1ff5c39700007e2204a/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
-#EXTINF:-1 group-title="Швейцария 🇨🇭",Pluto TV Animé All Day
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed52a62fa750007733239/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
-#EXTINF:-1 group-title="Швейцария 🇨🇭",Pluto TV BET CLASSICS Pluto TV
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f92b5ba040eaa0007074d0a/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
-#EXTINF:-1 group-title="Швейцария 🇨🇭",Pluto TV Bob l'éponge
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ffc8c345822750007e167de/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
-#EXTINF:-1 group-title="Швейцария 🇨🇭",Pluto TV Catfish
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8eb66537867f0007146953/master.m3u8?appName=androidmobile&appVersion=5.4.0&architecture=mobile&buildVersion=5.4.0-917c0e6072&deviceDNT=0&deviceId=071492b1-cafd-427b-81d4-f532808c8397_d6a39913ac3adbd2&deviceMake=samsung&deviceModel=SM-N976N&deviceType=android%2Csamsung%2Cmobile&deviceVersion=7.1.2_25&marketingRegion=FR&sid=b90a2c1a-a2ce-4601-a02d-abe734775341
-#EXTINF:-1 group-title="Швейцария 🇨🇭",Pluto TV CATFISH TV
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8eb66537867f0007146953/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
-#EXTINF:-1 group-title="Швейцария 🇨🇭",Pluto TV Ciné
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed0f17564a300082b676a/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
-#EXTINF:-1 group-title="Швейцария 🇨🇭",Pluto TV Ciné Rétro
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed168f72fcd0007e56269/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
-#EXTINF:-1 group-title="Швейцария 🇨🇭",Pluto TV Cinéma
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed0f17564a300082b676a/master.m3u8?deviceDNT=0&deviceId=071492b1-cafd-427b-81d4-f532808c8397_d6a39913ac3adbd2&deviceMake=samsung&deviceModel=SM-N976N&deviceType=android%2Csamsung%2Cmobile&deviceVersion=7.1.2_25&marketingRegion=FR&sid=b90a2c1a-a2ce-4601-a02d-abe73477534&appVersion=5.4.0
-#EXTINF:-1 group-title="Швейцария 🇨🇭",Pluto TV Comédie
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8eb91bb9b9e7000817e67f/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
-#EXTINF:-1 group-title="Швейцария 🇨🇭",Pluto TV Crime
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed4dbf6bb0800071ffbcb/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
-#EXTINF:-1 group-title="Швейцария 🇨🇭",Pluto TV Cuisine
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed48146ba9e00078424b6/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
-#EXTINF:-1 group-title="Швейцария 🇨🇭",Pluto TV Dora TV
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ecb9524419b0007365a1c/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
-#EXTINF:-1 group-title="Швейцария 🇨🇭",Pluto TV Dossiers FBI
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8edad922b10b000753bc37/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
-#EXTINF:-1 group-title="Швейцария 🇨🇭",Pluto TV Drama
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed2d1c34c2300073bf02c/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
-#EXTINF:-1 group-title="Швейцария 🇨🇭",Pluto TV Extrême
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed327f9e9b0000761141e/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
-#EXTINF:-1 group-title="Швейцария 🇨🇭",Pluto TV FailArmy
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ecd9169d2d4000864a974/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
-#EXTINF:-1 group-title="Швейцария 🇨🇭",Pluto TV Gaming TV
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8eccd81062c300078a11df/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
-#EXTINF:-1 group-title="Швейцария 🇨🇭",Pluto TV iCarly TV
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ecc7aa44d9c00081fca29/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
-#EXTINF:-1 group-title="Швейцария 🇨🇭",Pluto TV IGN
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ecee24576bc0007a13b79/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
-#EXTINF:-1 group-title="Швейцария 🇨🇭",Pluto TV Inside
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed3892ed7bb000741a1d2/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
-#EXTINF:-1 group-title="Швейцария 🇨🇭",Pluto TV Investigation
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f914f4b36d67d0007a91a04/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
-#EXTINF:-1 group-title="Швейцария 🇨🇭",Pluto TV Junior
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ecb336537e8000764a17f/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
-#EXTINF:-1 group-title="Швейцария 🇨🇭",Pluto TV Kids Animation
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8eba14a4ffb8000764e950/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
-#EXTINF:-1 group-title="Швейцария 🇨🇭",Pluto TV Kids Collection
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f92b625c1ffbc0007e60c37/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
-#EXTINF:-1 group-title="Швейцария 🇨🇭",Pluto TV Kids Collection
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f92b625c1ffbc0007e60c37/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 group-title="Швейцария 🇨🇭",Pluto TV Kids Séries
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8eb99ff17815000784a3b0/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
-#EXTINF:-1 group-title="Швейцария 🇨🇭",Pluto TV Les Cordier
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed80fa09f120007c8daa5/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
-#EXTINF:-1 group-title="Швейцария 🇨🇭",Pluto TV Les Nouveaux Detectives
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8edb6df1ebb800072edf10/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
-#EXTINF:-1 group-title="Швейцария 🇨🇭",Pluto TV Louis La Brocante
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed6d569d2d4000864a976/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
-#EXTINF:-1 group-title="Швейцария 🇨🇭",Pluto TV MTV CLASSICS
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f92b56a367e170007cd43f4/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
-#EXTINF:-1 group-title="Швейцария 🇨🇭",Pluto TV Nature
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed58b2db26f0007b4aa73/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
-#EXTINF:-1 group-title="Швейцария 🇨🇭",Pluto TV Paranormal
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed9461b35690007a0bc3a/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
-#EXTINF:-1 group-title="Швейцария 🇨🇭",Pluto TV People are Awesome
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed0720dc198000728f9d3/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
-#EXTINF:-1 group-title="Швейцария 🇨🇭",Pluto TV Plus Belle La Vie
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed5fba4ffb8000764ea01/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
-#EXTINF:-1 group-title="Швейцария 🇨🇭",Pluto TV TEEN SERIES
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8eb7e3d2ed18000746d09a/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
-#EXTINF:-1 group-title="Швейцария 🇨🇭",Pluto TV Telenovela
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f914f9dccb4de0007df8bc4/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
-#EXTINF:-1 group-title="Швейцария 🇨🇭",Pluto TV The Pet Collective
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ecd336d64c9000754cdf1/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
-#EXTINF:-1 group-title="Швейцария 🇨🇭",Pluto TV Tortues Ninja TV
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ecc1b37867f00071469e9/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
-#EXTINF:-1 group-title="Швейцария 🇨🇭",Pluto TV TROLL TV
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8eb8a8b2619a000710605c/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
-#EXTINF:-1 group-title="Швейцария 🇨🇭",Pluto TV TROLL TV
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8eb8a8b2619a000710605c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 group-title="Швейцария 🇨🇭",Pluto TV WPT
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ecfb9db6c180007a6d1b0/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
 #EXTINF:-1 group-title="Швейцария 🇨🇭",Rouge TV
 https://rougetv.vedge.infomaniak.com/livecast/rougetv/playlist.m3u8
+#EXTINF:-1 group-title="Швейцария 🇨🇭",TeleTecino
+https://vstream-cdn.ch/hls/teleticino.m3u8
+#EXTINF:-1 group-title="Швейцария 🇨🇭",TeleBielingue
+https://edge20.vedge.infomaniak.com/livecast/ik:telebielinguech/manifest.m3u8
 #EXTINF:-1 group-title="Шри-Ланка 🇱🇰",Sooriyan TV
 https://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8
 #EXTINF:-1 group-title="Эфиопия 🇪🇹",Addis TV
 https://rrsatrtmp.tulix.tv/addis1/addis1multi.smil/playlist.m3u8
-#EXTINF:-1 group-title="Эквадор 🇪🇨",INTI TV
-https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/.m3u8
 #EXTINF:-1 group-title="Эквадор 🇪🇨",CANAL NORTVISION
 https://plataformavideo.com/live/nortvision.m3u8
 #EXTINF:-1 group-title="Эквадор 🇪🇨",ASOMAVISION TV
@@ -2398,18 +2074,8 @@ https://video2.makrodigital.com/wuanplus/wuanplus/playlist.m3u8
 https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
 #EXTINF:-1 group-title="Эквадор 🇪🇨",FM MUNDO TV
 https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8
-#EXTINF:-1 group-title="Эквадор 🇪🇨",MULTICANAL CATAMAYO
-https://multicanal.streamseguro.com/hls/streaming.m3u8
 #EXTINF:-1 group-title="Эквадор 🇪🇨",PURUWA TV
 https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/playlist.m3u8
-#EXTINF:-1 group-title="Эквадор 🇪🇨",ZARACAY TV
-https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8
-#EXTINF:-1 group-title="Эквадор 🇪🇨",RADIO IMPACTO 2 TV
-https://sv72.ecuaradiotv.net/impacto2tv/live/playlist.m3u8
-#EXTINF:-1 group-title="Эквадор 🇪🇨",Ecotel TV
-https://ecotel.streamseguro.com/hls/ecoteltv.m3u8
-#EXTINF:-1 group-title="Эквадор 🇪🇨",El Sol Network TV
-https://rctvhd.net:8081/elsol105fm/index.m3u8
 #EXTINF:-1 group-title="Япония 🇯🇵",QVC
 http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 #EXTINF:-1 group-title="Япония 🇯🇵",Shop Channel
