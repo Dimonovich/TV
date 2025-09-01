@@ -32,11 +32,11 @@ http://188.237.47.212:6005
 #EXTINF:-1 group-title="TEST ⓵",Fox Life HD
 http://188.237.47.212:6008
 #EXTINF:-1 group-title="TEST ⓵", TV1000 HD
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=9npQX4Woayc5otwaOAE2JA&e=1756484004&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=wwgEgowl0vEqCC2YBR2fuA&e=1757568952&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 group-title="TEST ⓵", TV1000 Action
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=s3gG_fey0DlnJxddsgtX0Q&e=1756483974&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=278lqe6hFjzHTYjY1qbZ7g&e=1757568976&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 group-title="TEST ⓵",viju TV1000 romantica
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=JXG7I7RArS4n5KstoFDc7A&e=1756483785&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=L0hpgFleY_wtocqdq5lb4Q&e=1757568992&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/J4wRwcQn/i-TV-Cinema-Logo.png",ITV Cinema
 https://iptv.itv.uz/hls/live/t/UAcSEExX5UamlFqFOIaXIA/e/1767191403/4000/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/MTbNhVZc/i-TV-Music-Logo.png",ITV Music
@@ -367,64 +367,6 @@ https://river-1.rutube.ru/hls-vod/k9I-RH4MRhCckwh_N1N75Q/1757170970/1846/0x5000c
 
 
 
-#EXTINF:-1 group-title="KABELNET",Россия 24
-http://87.246.54.249:8085/Rossia24/index.m3u8
-#EXTINF:-1 group-title="KABELNET",Россия 1
-http://87.246.54.249:8085/RTR_Planeta/index.m3u8
-#EXTINF:-1 group-title="KABELNET",Terra HD
-http://87.246.54.249:8085/TerraHD/index.m3u8
-#EXTINF:-1 group-title="KABELNET",ТНТ4
-http://87.246.54.249:8085/THT4/index.m3u8
-#EXTINF:-1 group-title="KABELNET",ТНТ HD
-http://87.246.54.249:8085/THT/index.m3u8
-#EXTINF:-1 group-title="KABELNET",НТВ HD
-http://87.246.54.249:8085/HTB/index.m3u8
-#EXTINF:-1 group-title="KABELNET",Техно 24
-http://87.246.54.249:8085/24Tehno/index.m3u8
-#EXTINF:-1 group-title="KABELNET",Animal Planet
-http://87.246.54.249:8085/AnimalPlanet/index.m3u8
-#EXTINF:-1 group-title="KABELNET",Точка РФ
-http://87.246.54.249:8085/HDL/index.m3u8
-#EXTINF:-1 group-title="KABELNET",Авто плюс
-http://87.246.54.249:8085/AvtoPlus/index.m3u8
-#EXTINF:-1 group-title="KABELNET",СТС HD
-http://87.246.54.249:8085/CTC/index.m3u8
-#EXTINF:-1 group-title="KABELNET",Еспресо TV
-http://87.246.54.249:8085/espressotv/index.m3u8
-#EXTINF:-1 group-title="KABELNET",TV1000
-http://87.246.54.249:8085/TV1000/index.m3u8
-#EXTINF:-1 group-title="KABELNET",Кинохит HD
-http://87.246.54.249:8085/KinoHit/index.m3u8
-#EXTINF:-1 group-title="KABELNET",Киномикс HD
-http://87.246.54.249:8085/Kinomiks/index.m3u8
-#EXTINF:-1 group-title="KABELNET",Киносемья HD
-http://87.246.54.249:8085/kinosemia/index.m3u8
-#EXTINF:-1 group-title="KABELNET",Мир сериала
-http://87.246.54.249:8085/MirSeriala/index.m3u8
-#EXTINF:-1 group-title="KABELNET",Наше новое кино
-http://87.246.54.249:8085/NasheKino/index.m3u8
-#EXTINF:-1 group-title="KABELNET",Пятница
-http://87.246.54.249:8085/piatnica/index.m3u8
-#EXTINF:-1 group-title="KABELNET",Победа
-http://87.246.54.249:8085/Pobeda/index.m3u8
-#EXTINF:-1 group-title="KABELNET",TLC HD
-http://87.246.54.249:8085/TLC/index.m3u8
-#EXTINF:-1 group-title="KABELNET",ТНТ Music
-http://87.246.54.249:8085/THT_Music/index.m3u8
-#EXTINF:-1 group-title="KABELNET",СТС Kids
-http://87.246.54.249:8085/CTC_Kids/index.m3u8
-#EXTINF:-1 group-title="KABELNET",Детский мир
-http://87.246.54.249:8085/DetskiMir/index.m3u8
-#EXTINF:-1 group-title="KABELNET",Карусель
-http://87.246.54.249:8085/Karusel/index.m3u8
-#EXTINF:-1 group-title="KABELNET",Удар
-http://87.246.54.249:8085/UDAR/index.m3u8
-#EXTINF:-1 group-title="KABELNET",KHL HD
-http://87.246.54.249:8085/KHL/index.m3u8
-#EXTINF:-1 group-title="KABELNET",MMA-TV.COM
-http://87.246.54.249:8085/MMATV/index.m3u8
-#EXTINF:-1 group-title="KABELNET",Viasat Nature
-http://87.246.54.249:8085/ViasatNature/index.m3u8
 
 
 
