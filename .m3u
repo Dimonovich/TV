@@ -1,7 +1,7 @@
 #EXTM3U
 
-
-
+#EXTINF:-1,Terra
+https://livetv.mylifeisgood.net.ru/channels/terra.m3u8
 #EXTINF:-1 group-title="Rutube (VPN)",Rutube TV
 https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=cdM9svBCgSEDQyX8iWDR0A&e=1757188269&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Первый канал HD
