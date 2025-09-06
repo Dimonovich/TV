@@ -240,6 +240,18 @@ https://bl.rutube.ru/livestream/eac1e371fbb6ab680d0176d472c04089/index.m3u8?s=Dq
 #EXTINF:-1,Terra
 https://livetv.mylifeisgood.net.ru/channels/terra.m3u8
 
+#EXTINF:-1 group-title="TEST (VPN)", Матч! Футбол 1
+http://45.11.139.43:8555/fut1/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)", Матч! Футбол 2
+http://45.11.139.43:8555/fut1/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)", 365 дней
+http://45.11.139.43:8555/365dney/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Ocean TV
+http://45.11.139.43:8555/ocean/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Телекафе
+http://45.11.139.43:8555/telekafe/index.m3u8
+
+
 
 #EXTINF:-1 group-title="С сайтов (VPN)" ,Кавказ 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8
