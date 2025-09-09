@@ -105,6 +105,8 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 
 #EXTINF:-1 group-title="TEST (VPN)" tvg-logo="http://194.26.229.4/live/pda.png",OnlineTV
 http://185.221.213.254:8080/Okko/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)", Матч Премьер
+http://levshanov.tlkf.ru/iptv/nashfootballhd/16/h1080/playlist.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",Amedia Premium HD
 http://195.18.23.20:8000/play/3/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",Известия
