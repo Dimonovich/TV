@@ -1,8 +1,8 @@
 #EXTM3U
 
 
-
-
+#EXTINF:-1,111
+http://194.26.229.4:4444/channel/65b58d08/index.m3u8?q=2de1b979c58c57752726e1cc6203bf5b
 #EXTINF:-1 group-title="Rutube (VPN)",Rutube TV
 https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=lgExuv0Nl32RzQM4-uV1cA&e=1757530298&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Первый канал HD
