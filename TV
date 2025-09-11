@@ -32,11 +32,11 @@ http://188.237.47.212:6005
 #EXTINF:-1 group-title="TEST ⓵",Fox Life HD
 http://188.237.47.212:6008
 #EXTINF:-1 group-title="TEST ⓵", TV1000 HD
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=wwgEgowl0vEqCC2YBR2fuA&e=1757568952&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=5eYFM3jx6EiNptQn4G2ufA&e=1758610049&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 group-title="TEST ⓵", TV1000 Action
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=278lqe6hFjzHTYjY1qbZ7g&e=1757568976&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=mZWKt-wCsYQisYhIbIRIPw&e=1758610086&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 group-title="TEST ⓵",viju TV1000 romantica
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=L0hpgFleY_wtocqdq5lb4Q&e=1757568992&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=ISN5M7THxSG1NAcIbOq5mg&e=1758610117&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/J4wRwcQn/i-TV-Cinema-Logo.png",ITV Cinema
 https://iptv.itv.uz/hls/live/t/UAcSEExX5UamlFqFOIaXIA/e/1767191403/4000/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/MTbNhVZc/i-TV-Music-Logo.png",ITV Music
@@ -69,12 +69,6 @@ http://95.67.12.82:9084
 http://fl5.moveonjoy.com/MTV/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵",CGTN Русский
 https://english-livetx.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802_hd.m3u8
-#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://bem-media.de/wp-content/uploads/Kulinar.png",Кулинар ТВ
-http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
-#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.ytimg.com/an/23MIFU9IMsNtE2K6FfBBCQ/featured_channel.jpg",Russischer Jahrmarkt
-https://api.alpaca.t62a.com/hls/9104/stream0.m3u8
-#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://meineinkauf.ch/fileadmin/_processed_/0/9/csm_44035_KaufBei_2018_b95f89bcc7.png",Kaufbei TV
-http://api.alpaca.t62a.com/hls/9112/stream0.m3u8
 #EXTINF:-1 group-title="TEST ⓵", Київ HD
 https://api-tv.ipnet.ua/api/v1/manifest/1293296300.m3u8
 #EXTINF:-1 group-title="TEST ⓵", 5 Канал HD
@@ -499,117 +493,6 @@ http://93.125.121.61:8383/play/a00q
 http://93.125.121.61:8383/play/a00d
 #EXTINF:-1 group-title="ЛНТ",Extreme Sports Channel
 http://93.125.121.61:8383/play/a02a
-
-
-#EXTINF:-1 group-title="Virusnet",Первый канал
-https://45.159.74.22/PerviyKanal/mono.m3u8
-#EXTINF:-1 group-title="Virusnet",Россия HD
-https://45.159.74.22/Rossia1/mono.m3u8
-#EXTINF:-1 group-title="Virusnet",Россия 24
-https://45.159.74.22/Rossia24/mono.m3u8
-#EXTINF:-1 group-title="Virusnet",РТР Планета
-https://45.159.74.22/RTRPlaneta/mono.m3u8
-#EXTINF:-1 group-title="Virusnet",НТВ Право
-https://45.159.74.22/ParamountChannel/mono.m3u8
-#EXTINF:-1 group-title="Virusnet",НТВ-Мир
-https://45.159.74.22/HTB/mono.m3u8
-#EXTINF:-1 group-title="Virusnet",Первый космический
-https://45.159.74.22/Evrika/mono.m3u8
-#EXTINF:-1 group-title="Virusnet",Моя планета HD
-https://45.159.74.22/365Dney/mono.m3u8
-#EXTINF:-1 group-title="Virusnet",Investigation Discovery HD
-https://45.159.74.22/InvestigationDiscovery/mono.m3u8
-#EXTINF:-1 group-title="Virusnet",Discovery Channel HD
-https://45.159.74.22/DiscoveryChannel/mono.m3u8\
-#EXTINF:-1 group-title="Virusnet",National Geographic
-https://45.159.74.22/NationalGeographic/mono.m3u8
-#EXTINF:-1 group-title="Virusnet",Nat Geo Wild
-https://45.159.74.22/NatGeoWild/mono.m3u8
-#EXTINF:-1 group-title="Virusnet",Animal Planet HD
-https://45.159.74.22/AnimalPlanet/mono.m3u8
-#EXTINF:-1 group-title="Virusnet",История
-https://45.159.74.22/Istoria/mono.m3u8
-#EXTINF:-1 group-title="Virusnet",Загородный
-https://45.159.74.22/DTX/mono.m3u8
-#EXTINF:-1 group-title="Virusnet",КВН ТВ
-https://45.159.74.22/Bober/mono.m3u8
-#EXTINF:-1 group-title="Virusnet",Дом кино
-https://45.159.74.22/DomKino/mono.m3u8
-#EXTINF:-1 group-title="Virusnet",Fox
-https://45.159.74.22/Fox/mono.m3u8
-#EXTINF:-1 group-title="Virusnet",TLC HD
-https://45.159.74.22/TLC/mono.m3u8
-#EXTINF:-1 group-title="Virusnet",Дом Кино Премиум
-https://45.159.74.22/THT/mono.m3u8
-#EXTINF:-1 group-title="Virusnet",Amedia Premium
-https://45.159.74.22/AmediaPremium/mono.m3u8
-#EXTINF:-1 group-title="Virusnet",Amedia Hit
-https://45.159.74.22/Nauka/mono.m3u8
-#EXTINF:-1 group-title="Virusnet",Amedia 2
-https://45.159.74.22/Zagorodniy/mono.m3u8
-#EXTINF:-1 group-title="Virusnet",Индия
-https://45.159.74.22/ZeeTV/mono.m3u8
-#EXTINF:-1 group-title="Virusnet",Кинохит
-https://45.159.74.22/Kinokhit/mono.m3u8
-#EXTINF:-1 group-title="Virusnet",Киносемья
-https://45.159.74.22/Kinosemya/mono.m3u8
-#EXTINF:-1 group-title="Virusnet",Кинопремьера HD
-https://45.159.74.22/Kinopremera/mono.m3u8
-#EXTINF:-1 group-title="Virusnet",Кинокомедия HD
-https://45.159.74.22/Kinokomedia/mono.m3u8
-#EXTINF:-1 group-title="Virusnet",.Sci-fi
-https://45.159.74.22/Kinoseriya/mono.m3u8
-#EXTINF:-1 group-title="Virusnet",Мужское кино
-https://45.159.74.22/MujskoeKino/mono.m3u8
-#EXTINF:-1 group-title="Virusnet",СТС
-https://45.159.74.22/CTC/mono.m3u8
-#EXTINF:-1 group-title="Virusnet",Перец
-https://45.159.74.22/Perec/mono.m3u8
-#EXTINF:-1 group-title="Virusnet",Пятница
-https://45.159.74.22/Pyatnica/mono.m3u8
-#EXTINF:-1 group-title="Virusnet",Домашний
-https://45.159.74.22/Domashniy/mono.m3u8
-#EXTINF:-1 group-title="Virusnet",РБК
-https://45.159.74.22/Shop24/mono.m3u8
-#EXTINF:-1 group-title="Virusnet",Мир
-https://45.159.74.22/Mir/mono.m3u8
-#EXTINF:-1 group-title="Virusnet",Телекафе
-https://45.159.74.22/Telekafe/mono.m3u8
-#EXTINF:-1 group-title="Virusnet",TLC
-https://45.159.74.22/TLC/mono.m3u8
-#EXTINF:-1 group-title="Virusnet",21 TV
-https://45.159.74.22/21TV/mono.m3u8
-#EXTINF:-1 group-title="Virusnet",Звезда
-https://45.159.74.22/Zvezda/mono.m3u8
-#EXTINF:-1 group-title="Virusnet",Муз ТВ
-https://45.159.74.22/MuzTv/mono.m3u8
-#EXTINF:-1 group-title="Virusnet",Tiji
-https://45.159.74.22/Tiji/mono.m3u8
-#EXTINF:-1 group-title="Virusnet",Мама
-https://45.159.74.22/Mama/mono.m3u8
-#EXTINF:-1 group-title="Virusnet",Карусель
-https://45.159.74.22/Karusel/mono.m3u8
-#EXTINF:-1 group-title="Virusnet",СТС Kids
-https://45.159.74.22/DisneyChannel/mono.m3u8
-#EXTINF:-1 group-title="Virusnet",Мульт HD
-https://45.159.74.22/Mult/mono.m3u8
-#EXTINF:-1 group-title="Virusnet",Cartoon Network
-https://45.159.74.22/Kinosemya/mono.m3u8
-#EXTINF:-1 group-title="Virusnet",Nicktoons
-https://45.159.74.22/Boomerang/mono.m3u8
-#EXTINF:-1 group-title="Virusnet",Детский мир
-https://45.159.74.22/CartoonNetwork/mono.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Бокс ТВ
-https://45.159.74.22/BoksTv/mono.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Eurosport 1 HD
-https://45.159.74.22/Eurosport/mono.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Fightbox HD
-https://45.159.74.22/Fightbox/mono.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Viasat Sport
-https://45.159.74.22/AutoPlus/mono.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Планета
-https://45.159.74.22/MatchPlaneta/mono.m3u8
-
 
 
 
