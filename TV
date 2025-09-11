@@ -31,6 +31,10 @@ https://cdn4.skygo.mn/live/disk1/STS/HLSv3-FTA/STS.m3u8
 http://188.237.47.212:6005
 #EXTINF:-1 group-title="TEST ⓵",Fox Life HD
 http://188.237.47.212:6008
+#EXTINF:-1 group-title="TEST ⓵",.Sci-Fi
+http://188.237.47.212:6001
+#EXTINF:-1 group-title="TEST ⓵",.Black
+http://188.237.47.212:6007
 #EXTINF:-1 group-title="TEST ⓵", TV1000 HD
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=5eYFM3jx6EiNptQn4G2ufA&e=1758610049&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 group-title="TEST ⓵", TV1000 Action
