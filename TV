@@ -27,6 +27,10 @@ https://cdn2.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
 https://cdn4.skygo.mn/live/disk1/Friday/HLSv3-FTA/Friday.m3u8
 #EXTINF:-1 group-title="TEST ⓵",СТС International
 https://cdn4.skygo.mn/live/disk1/STS/HLSv3-FTA/STS.m3u8
+#EXTINF:-1 group-title="TEST ⓵",.Sci-Fi
+http://188.237.47.212:6001
+#EXTINF:-1 group-title="TEST ⓵",.Black
+http://188.237.47.212:6007
 #EXTINF:-1 group-title="TEST ⓵",Nat Geo Wild HD
 http://188.237.47.212:6005
 #EXTINF:-1 group-title="TEST ⓵",Fox Life HD
