@@ -27,6 +27,14 @@ https://cdn2.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
 https://cdn4.skygo.mn/live/disk1/Friday/HLSv3-FTA/Friday.m3u8
 #EXTINF:-1 group-title="TEST ⓵",СТС International
 https://cdn4.skygo.mn/live/disk1/STS/HLSv3-FTA/STS.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Bollywood HD
+http://193.27.209.122/bollywood/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Дорама HD
+http://193.27.209.122/dorama/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵",mcm top
+http://193.27.209.122/mcm_top/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Tiji
+http://193.27.209.122/tiji/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Nat Geo Wild HD
 http://188.237.47.212:6005
 #EXTINF:-1 group-title="TEST ⓵",Fox Life HD
