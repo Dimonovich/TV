@@ -175,34 +175,12 @@ http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
 https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 #EXTINF:-1 group-title="TEST (VPN)", Детский телеканал Мультимания
 http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",Приключения HD
-http://tvip.btk.teleos.ru:8081/chid142/tracks-v1a1/mono.m3u8   
-#EXTINF:-1 group-title="TEST (VPN)",Вкус
-http://tvip.btk.teleos.ru:8081/chid515/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="TEST (VPN)" tvg-id="lapki-live",Лапки LIVE
-http://tvip.btk.teleos.ru:8081/chid514/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",Про любовь
 https://vod.stb.tvime.ru/Pro_Lubov_HD/tracks-v1a1/mono.m3u8?token=billing_wfc4fdIM3ow=
 #EXTINF:-1 group-title="TEST (VPN)",Остросюжетное HD
 https://vs6.cdn.mrf.tvime.ru/Ostrosugetnor_HD/tracks-v1a1/mono.m3u8?token=billing_wfc4fdIM3ow=
 #EXTINF:-1 group-title="TEST (VPN)",Премиальное HD
 https://vs6.cdn.mrf.tvime.ru/Premialnoe_HD/tracks-v1a1/mono.m3u8?token=billing_wfc4fdIM3ow=
-#EXTINF:-1 group-title="TEST (VPN)",Дорама
-http://tvip.btk.teleos.ru:8081/chid516/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",Киносемья
-http://tvip.btk.teleos.ru:8081/chid517/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",Кинопремьера HD
-http://tvip.btk.teleos.ru:8081/chid518/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",Киносвидание
-http://tvip.btk.teleos.ru:8081/chid521/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",Bridge HD
-http://tvip.btk.teleos.ru:8081/chid519/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="TEST (VPN)" tvg-id="bridge-tv-etno",Bridge TV Этно
-http://tvip.btk.teleos.ru:8081/chid520/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",Спас
-http://tvip.btk.teleos.ru:8081/chid7/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",БСТ 24
-http://tvip.btk.teleos.ru:8081/chid20/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",Про бизнес
 http://176.107.219.20:9000/play/a003/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",Светлое ТВ
