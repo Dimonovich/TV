@@ -175,16 +175,6 @@ http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
 https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 #EXTINF:-1 group-title="TEST (VPN)", Детский телеканал Мультимания
 http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",Про любовь
-https://vod.stb.tvime.ru/Pro_Lubov_HD/tracks-v1a1/mono.m3u8?token=billing_wfc4fdIM3ow=
-#EXTINF:-1 group-title="TEST (VPN)",Остросюжетное HD
-https://vs6.cdn.mrf.tvime.ru/Ostrosugetnor_HD/tracks-v1a1/mono.m3u8?token=billing_wfc4fdIM3ow=
-#EXTINF:-1 group-title="TEST (VPN)",Премиальное HD
-https://vs6.cdn.mrf.tvime.ru/Premialnoe_HD/tracks-v1a1/mono.m3u8?token=billing_wfc4fdIM3ow=
-#EXTINF:-1 group-title="TEST (VPN)",Fox HD
-https://vod.stb.tvime.ru/Fox_HD/tracks-v1a1/mono.m3u8?token=billing_wfc4fdIM3ow=
-#EXTINF:-1 group-title="TEST (VPN)",Eurosport 2 HD
-https://vod.stb.tvime.ru/eurosport_2/tracks-v1a1/mono.m3u8?token=billing_wfc4fdIM3ow=
 #EXTINF:-1 group-title="TEST (VPN)",Про бизнес
 http://176.107.219.20:9000/play/a003/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",Светлое ТВ
@@ -1889,6 +1879,55 @@ https://simf.1tvcrimea.ru/simferopol24.m3u8
 https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/qazaqstantv/qazaqstantv_720/chunks.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://www.samru.ru/content/Image/News/logo/gis_logo1.jpg",Телеканал ГИС Самара
 https://tvsamaragis.tk/new/new/tracks-v1a1/mono.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="Селектел (VPN)",РЕН ТВ
+https://vs6.cdn.mrf.tvime.ru/rentvhd_MSK/tracks-v1a1/mono.m3u8?token=billing_wfc4fdIM3ow=
+#EXTINF:-1 group-title="Селектел (VPN)",Россия К
+https://vs6.cdn.mrf.tvime.ru/rossiiak_MSK/tracks-v1a1/mono.m3u8?token=billing_wfc4fdIM3ow=
+#EXTINF:-1 group-title="Селектел (VPN)",Че
+https://vs6.cdn.mrf.tvime.ru/che/tracks-v1a1/mono.m3u8?token=billing_wfc4fdIM3ow=
+#EXTINF:-1 group-title="Селектел (VPN)",СТС HD
+https://vs6.cdn.mrf.tvime.ru/stshd/tracks-v1a1/mono.m3u8?token=billing_wfc4fdIM3ow=
+#EXTINF:-1 group-title="Селектел (VPN)",СТС Love
+https://vs6.cdn.mrf.tvime.ru/stslove/tracks-v1a1/mono.m3u8?token=billing_wfc4fdIM3ow=
+#EXTINF:-1 group-title="Селектел (VPN)",Bollywood HD
+https://vs6.cdn.mrf.tvime.ru/Bollywood_HD/tracks-v1a1/mono.m3u8?token=billing_wfc4fdIM3ow=
+#EXTINF:-1 group-title="Селектел (VPN)",Остросюжетное HD
+https://vs6.cdn.mrf.tvime.ru/Ostrosugetnor_HD/tracks-v1a1/mono.m3u8?token=billing_wfc4fdIM3ow=
+#EXTINF:-1 group-title="Селектел (VPN)",Премиальное HD
+https://vs6.cdn.mrf.tvime.ru/Premialnoe_HD/tracks-v1a1/mono.m3u8?token=billing_wfc4fdIM3ow=
+#EXTINF:-1 group-title="Селектел (VPN)",Cinema
+https://vs6.cdn.mrf.tvime.ru/Cinema/tracks-v1a1/mono.m3u8?token=billing_wfc4fdIM3ow=
+#EXTINF:-1 group-title="Селектел (VPN)",.Red
+https://vs6.cdn.mrf.tvime.ru/red/tracks-v1a1/mono.m3u8?token=billing_wfc4fdIM3ow=
+#EXTINF:-1 group-title="Селектел (VPN)",Романтичное HD
+https://vs6.cdn.mrf.tvime.ru/Romantichnoe_HD/tracks-v1a1/mono.m3u8?token=billing_wfc4fdIM3ow=
+#EXTINF:-1 group-title="Селектел (VPN)",Fox HD
+https://vod.stb.tvime.ru/Fox_HD/tracks-v1a1/mono.m3u8?token=billing_wfc4fdIM3ow=
+#EXTINF:-1 group-title="Селектел (VPN)",TV XXI
+https://vs6.cdn.mrf.tvime.ru/tvxxi/tracks-v1a1/mono.m3u8?token=billing_wfc4fdIM3ow=
+#EXTINF:-1 group-title="Селектел (VPN)",Da Vinci
+https://vs6.cdn.mrf.tvime.ru/Da_Vinci/tracks-v1a1/mono.m3u8?token=billing_wfc4fdIM3ow=
+#EXTINF:-1 group-title="Селектел (VPN)",СТС Kids
+https://vs6.cdn.mrf.tvime.ru/stskidshd/tracks-v1a1/mono.m3u8?token=billing_wfc4fdIM3ow=
+#EXTINF:-1 group-title="Селектел (VPN)",Tiji
+https://vs6.cdn.mrf.tvime.ru/tiji/tracks-v1a1/mono.m3u8?token=billing_wfc4fdIM3ow=
+#EXTINF:-1 group-title="Селектел (VPN)",Мульт
+https://vs6.cdn.mrf.tvime.ru/mult/tracks-v1a1/mono.m3u8?token=billing_wfc4fdIM3ow=
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Футбол 1 HD
+https://vs6.cdn.mrf.tvime.ru/matchfutbol1hd/tracks-v1a1/mono.m3u8?token=billing_wfc4fdIM3ow=
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Футбол 2 HD
+https://vs6.cdn.mrf.tvime.ru/matchfutbol3hd/tracks-v1a1/mono.m3u8?token=billing_wfc4fdIM3ow=
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Футбол 3 HD
+https://vs6.cdn.mrf.tvime.ru/matchfutbol2hd/tracks-v1a1/mono.m3u8?token=billing_wfc4fdIM3ow=
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Eurosport 2 HD
+https://vod.stb.tvime.ru/eurosport_2/tracks-v1a1/mono.m3u8?token=billing_wfc4fdIM3ow=
+
+
 
 
 
