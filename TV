@@ -181,6 +181,10 @@ https://vod.stb.tvime.ru/Pro_Lubov_HD/tracks-v1a1/mono.m3u8?token=billing_wfc4fd
 https://vs6.cdn.mrf.tvime.ru/Ostrosugetnor_HD/tracks-v1a1/mono.m3u8?token=billing_wfc4fdIM3ow=
 #EXTINF:-1 group-title="TEST (VPN)",Премиальное HD
 https://vs6.cdn.mrf.tvime.ru/Premialnoe_HD/tracks-v1a1/mono.m3u8?token=billing_wfc4fdIM3ow=
+#EXTINF:-1 group-title="TEST (VPN)",Fox HD
+https://vod.stb.tvime.ru/Fox_HD/tracks-v1a1/mono.m3u8?token=billing_wfc4fdIM3ow=
+#EXTINF:-1 group-title="TEST (VPN)",Eurosport 2 HD
+https://vod.stb.tvime.ru/eurosport_2/tracks-v1a1/mono.m3u8?token=billing_wfc4fdIM3ow=
 #EXTINF:-1 group-title="TEST (VPN)",Про бизнес
 http://176.107.219.20:9000/play/a003/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",Светлое ТВ
