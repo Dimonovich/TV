@@ -117,60 +117,22 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 http://185.221.213.254:8080/Okko/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)", Матч Премьер
 http://levshanov.tlkf.ru/iptv/nashfootballhd/16/h1080/playlist.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",Amedia Premium HD
-http://195.18.23.20:8000/play/3/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",Известия
-http://195.18.23.20:8000/play/51/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",Курай ТВ
-http://195.18.23.20:8000/play/207/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",Живи
-http://195.18.23.20:8000/play/10/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)" tvg-id="salam",Салям
-http://195.18.23.20:8000/play/9/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",Тамыр
-http://195.18.23.20:8000/play/2/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",Baby Time
 http://185.221.213.254/live/stream3.php?q=OWWGT5_z5DqjdLW9cndeOmc5aO6pnRbuSajO28AMNZlvQmeXQ_iWHp0Fz7MTnr3Oug7p6sHgeRtqTpR_WNEipjpEyv53G58Wj1Rgv9ETCR2JV3w3LyhyhHvewwSEDBXT&token=MjIyMjoyMjIyMjI=
 #EXTINF:-1 group-title="TEST (VPN)",Вкус
 http://185.221.213.254/live/stream3.php?q=OWWGT5_z5DqjdLW9cndeOmc5aO6pnRbuSajO28AMNZnFb4iJ1Qqz9GhIHTeL4yM1l2znOI0P3E3qK6ZJZpdLTxJI2L3yFRy96n1gw-7mc-c3-houtWFSgQ0Blyh5QuU6&token=MjIyMjoyMjIyMjI=
-#EXTINF:-1 group-title="TEST (VPN)",Бобёр
-http://195.18.23.20:8000/play/1/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",Матур HD
-http://195.18.23.20:8000/play/6/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)" tvg-id="solovjinypomiot",Соловьёв Live
-http://195.18.23.20:8000/play/333/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",Матч HD
 https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",Матч ТВ
 http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="TEST (VPN)", Матч! Футбол 1
-http://45.11.139.43:8555/fut1/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)", Матч! Футбол 2
-http://45.11.139.43:8555/fut2/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)", 365 дней
 http://45.11.139.43:8555/365dney/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",Ocean TV
-http://45.11.139.43:8555/ocean/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",Пятница
-http://45.11.139.43:8555/pyatnica/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",РБК
 http://45.11.139.43:8555/rbk/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",Телекафе
 http://45.11.139.43:8555/telekafe/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",TERRA HD
-http://45.11.139.43:8555/terra/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",Cinema
 http://catchup.videoline.ru/cinema/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",Матур ТВ
-http://195.18.23.20:8000/play/6/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",Салям
-http://195.18.23.20:8000/play/9/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",Живи
-http://195.18.23.20:8000/play/10/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",Тамыр
-http://195.18.23.20:8000/play/2/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",Бобёр
-http://195.18.23.20:8000/play/1/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)", Пингвин Лоло
 http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TEST (VPN)", Мамонтёнок
