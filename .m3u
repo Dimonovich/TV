@@ -252,16 +252,49 @@ https://vod.splay.uz/live_splay/original/Kinokomediya/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Наше новое кино
 https://vod.splay.uz/live_splay/original/Nashe_novoe_kino/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 ,Техно 24
+https://vod.splay.uz/live_splay/original/Tehno_24/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Animal Planet HD
+https://vod.splay.uz/live_splay/original/Animal_Planet/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Nat Geo Wild HD
+https://vod.splay.uz/live_splay/original/Nat_Geo_Wild_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,National Geographic HD
+https://vod.splay.uz/live_splay/original/National_Geographic/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Viasat Explore HD
+https://vod.splay.uz/live_splay/original/Viasat_Explorer/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Viasat History HD
+https://vod.splay.uz/live_splay/original/Viasat_History/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Viasat Nature HD
+https://vod.splay.uz/live_splay/original/Viasat_Nature/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Дикий
+https://vod.splay.uz/live_splay/original/Dikiy/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Точка РФ
+https://vod.splay.uz/live_splay/original/HDL_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,История
+https://vod.splay.uz/live_splay/original/History/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Моя планета
+https://vod.splay.uz/live_splay/original/MoyaPlanetaHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Живая природа
+https://vod.splay.uz/live_splay/original/JivayaPrirodaHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,Terra
 https://livetv.mylifeisgood.net.ru/channels/terra.m3u8
 
+#EXTINF:-1 ,Eurosport 1 HD
+https://vod.splay.uz/live_splay/original/Eurosport/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Eurosport 2 HD
+https://vod.splay.uz/live_splay/original/Eurosport2HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,MMA-TV.COM
+https://vod.splay.uz/live_splay/original/MMA-TV.comHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Viasat Sport HD
+https://vod.splay.uz/live_splay/original/Viasat_Sport/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="TEST (VPN)", Матч! Футбол 1
-http://45.11.139.43:8555/fut1/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)", Матч! Футбол 2
-http://45.11.139.43:8555/fut2/index.m3u8
-
+#EXTINF:-1,МАТЧ! АРЕНА 
+http://193.111.244.35:7474/matcharena/index.m3u8
+#EXTINF:-1,Матч! Футбол 1
+http://193.111.244.35:7474/matchfut1hd/index.m3u8
+#EXTINF:-1,Матч! Футбол 2
+http://193.111.244.35:7474/matchfutbol2/index.m3u8
 
 #EXTINF:-1 group-title="С сайтов (VPN)" ,Кавказ 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8
