@@ -57,6 +57,26 @@ http://213.169.39.30:5241
 https://iptv.itv.uz/hls/live/t/UAcSEExX5UamlFqFOIaXIA/e/1767191403/4000/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/MTbNhVZc/i-TV-Music-Logo.png",ITV Music
 https://iptv.itv.uz/hls/live/t/IDvfbmZ5Ibmqs0plMhNejg/e/1767191403/4001/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Bolt HD
+http://84.245.224.71/BoltHD/mono.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Star Family HD
+http://84.245.224.71/StarFamilyHD/mono.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Star Cinema HD
+http://84.245.224.71/StarCinemaHD/mono.m3u8
+#EXTINF:-1 group-title="TEST ⓵",OTV HD
+http://84.245.224.71/OTV/mono.m3u8
+#EXTINF:-1 group-title="TEST ⓵",1+2
+http://84.245.224.71/1plus2/playlist.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Super Baltic HD
+http://84.245.224.71/SuperBaltic/mono.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Super Plus HD
+http://84.245.224.71/SuperPlus/mono.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Дача
+http://84.245.224.71/DachaHD/mono.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Fashion TV HD
+http://84.245.224.71/FashionTVHD/mono.m3u8
+#EXTINF:-1 group-title="TEST ⓵",KHL HD
+http://84.245.224.71/KHLHD/mono.m3u8
 #EXTINF:-1 group-title="TEST ⓵" tvg-id="skif-vitebsk",Скиф ТВ
 http://95.46.208.8:24432/skif
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://cvy.okis.ru/file/cvy/9.gif",Релакс
