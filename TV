@@ -1967,7 +1967,7 @@ http://185.78.112.17/zvezda_plus_hd/index.m3u8
 http://185.78.112.17/zoo_tv/index.m3u8
 #EXTINF:-1 group-title="Маяк Нетворк (VPN)",ИЗВЕСТИЯ HD
 http://185.78.112.17/izvestiya/index.m3u8
-#EXTINF:-1 group-title="Маяк Нетворк (VPN)",КАЛЕЙДОСКОП  ТВ
+#EXTINF:-1 group-title="Маяк Нетворк (VPN)",КАЛЕЙДОСКОП ТВ
 http://185.78.112.17/kaleydoskop/index.m3u8
 #EXTINF:-1 group-title="Маяк Нетворк (VPN)",КВН ТВ
 http://185.78.112.17/kvn_tv/index.m3u8
@@ -1979,6 +1979,8 @@ http://185.78.112.17/fox_hd/index.m3u8
 http://185.78.112.17/kino-tv/index.m3u8
 #EXTINF:-1 group-title="Маяк Нетворк (VPN)",КИНО ТВ HD
 http://185.78.112.17/kino_tv_hd/index.m3u8
+#EXTINF:-1 group-title="Маяк Нетворк (VPN)",КИНОПОКАЗ
+http://185.78.112.17/kinopokaz/index.m3u8
 #EXTINF:-1 group-title="Маяк Нетворк (VPN)",МУЖСКОЕ КИНО HD
 http://185.78.112.17/muzhskoe-kino_hd/index.m3u8
 #EXTINF:-1 group-title="Маяк Нетворк (VPN)",НАШЕ НОВОЕ КИНО HD
@@ -1989,8 +1991,6 @@ http://185.78.112.17/nashe-kino/index.m3u8
 http://185.78.112.17/indiya/index.m3u8
 #EXTINF:-1 group-title="Маяк Нетворк (VPN)",КИНОМИКС HD
 http://185.78.112.17/kinomix/index.m3u8
-#EXTINF:-1 group-title="Маяк Нетворк (VPN)",КИНОПОКАЗ
-http://185.78.112.17/kinopokaz/index.m3u8
 #EXTINF:-1 group-title="Маяк Нетворк (VPN)",КИНОПРЕМЬЕРА
 http://185.78.112.17/premiera/index.m3u8
 #EXTINF:-1 group-title="Маяк Нетворк (VPN)",КИНОСВИДАНИЕ
@@ -2011,13 +2011,13 @@ http://185.78.112.17/crimea24/index.m3u8
 http://185.78.112.17/ldpr/index.m3u8
 #EXTINF:-1 group-title="Маяк Нетворк (VPN)",ЛЕН ТВ 24
 http://185.78.112.17/lot/index.m3u8
-#EXTINF:-1 group-title="Маяк Нетворк (VPN)",МИР
+#EXTINF:-1 group-title="Маяк Нетворк (VPN)",Мир
 http://185.78.112.17/mir/index.m3u8
 #EXTINF:-1 group-title="Маяк Нетворк (VPN)",Москва 24
 http://185.78.112.17/moskva_24/index.m3u8
 #EXTINF:-1 group-title="Маяк Нетворк (VPN)",Москва Доверие
 http://185.78.112.17/russia-today/index.m3u8
-#EXTINF:-1 group-title="Маяк Нетворк (VPN)",Мосфильм.Золотая коллекция
+#EXTINF:-1 group-title="Маяк Нетворк (VPN)",Мосфильм. Золотая коллекция
 http://185.78.112.17/mosfilm/index.m3u8
 #EXTINF:-1 group-title="Маяк Нетворк (VPN)",НАША ТЕМА HD
 http://185.78.112.17/nasha_tema_hd/index.m3u8
@@ -2081,7 +2081,7 @@ http://185.78.112.17/tv3_hd/index.m3u8
 http://185.78.112.17/strk_hd/index.m3u8
 #EXTINF:-1 group-title="Маяк Нетворк (VPN)",ТЕЛЕДОМ HD
 http://185.78.112.17/teledom_hd/index.m3u8
-#EXTINF:-1 group-title="Маяк Нетворк (VPN)",ТОНУС
+#EXTINF:-1 group-title="Маяк Нетворк (VPN)",ТОНУС ТВ
 http://185.78.112.17/tonus/index.m3u8
 #EXTINF:-1 group-title="Маяк Нетворк (VPN)",Top Shop
 http://185.78.112.17/topshop/index.m3u8
@@ -2135,9 +2135,7 @@ http://185.78.112.17/topsong/video.m3u8
 http://185.78.112.17/bridge_hd/video.m3u8
 #EXTINF:-1 group-title="Маяк Нетворк (VPN)",BRIDGE HITS
 http://185.78.112.17/dange/index.m3u8
-#EXTINF:-1 group-title="Маяк Нетворк (VPN)",Bridge TV Русский Хит
-http://185.78.112.17/rusong/video.m3u8
-#EXTINF:-1 group-title="Маяк Нетворк (VPN)",BRIDGE TV РУССКИЙ ХИТ
+#EXTINF:-1 group-title="Маяк Нетворк (VPN)",Bridge TV РУССКИЙ ХИТ
 http://185.78.112.17/rusong/index.m3u8
 #EXTINF:-1 group-title="Маяк Нетворк (VPN)",RU.TV
 http://185.78.112.17/ru-tv/index.m3u8
