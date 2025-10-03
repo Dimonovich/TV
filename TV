@@ -2751,12 +2751,19 @@ https://132544.edgevideo.ru/streams/132544_797405/1325441080/index.m3u8
 
 
 
+
+
+
+#EXTINF:-1 group-title="AgroNet (VPN)",Первый Канал
+http://195.26.83.96:7013/play/12/index.m3u8
+#EXTINF:-1 group-title="AgroNet (VPN)",Россия 1
+http://195.26.83.96:7013/play/13/index.m3u8
 #EXTINF:-1 group-title="AgroNet (VPN)",Тайны Галактики
 http://195.26.83.96:7007/play/a00j/index.m3u8
+#EXTINF:-1 group-title="AgroNet (VPN)",Viasat Nature
+http://195.26.83.96:7013/play/37/index.m3u8
 #EXTINF:-1 group-title="AgroNet (VPN)",RTG TV
 http://195.26.83.96:7007/play/a00n/index.m3u8
-#EXTINF:-1 group-title="AgroNet (VPN)",Детский мир
-http://195.26.83.96:7007/play/14/index.m3u8
 #EXTINF:-1 group-title="AgroNet (VPN)",Загородная жизнь
 http://195.26.83.96:7007/play/10/index.m3u8
 #EXTINF:-1 group-title="AgroNet (VPN)",Известия
@@ -2769,20 +2776,41 @@ http://195.26.83.96:7007/play/a008/index.m3u8
 http://195.26.83.96:7007/play/11/index.m3u8
 #EXTINF:-1 group-title="AgroNet (VPN)",Русский Иллюзион
 http://195.26.83.96:7006/play/a00y/index.m3u8
-#EXTINF:-1 group-title="AgroNet (VPN)",СТС Kids
-http://195.26.83.96:7006/play/a00z/index.m3u8
 #EXTINF:-1 group-title="AgroNet (VPN)",Театр
 http://195.26.83.96:7005/play/16/index.m3u8
+#EXTINF:-1 group-title="AgroNet (VPN)",Суббота
+http://195.26.83.96:7013/play/a00e/index.m3u8
+#EXTINF:-1 group-title="AgroNet (VPN)",RT DOC HD
+http://195.26.83.96:7017/play/a00t/index.m3u8
+#EXTINF:-1 group-title="AgroNet (VPN)",555
+http://195.26.83.96:7029/play/a001
+#EXTINF:-1 group-title="AgroNet (VPN)",Соловьев Live
+http://195.26.83.96:7029/play/a003
+#EXTINF:-1 group-title="AgroNet (VPN)",Русский Экстрим
+http://195.26.83.96:7029/play/a008
+#EXTINF:-1 group-title="AgroNet (VPN)",Ялта ТВ
+http://195.26.83.96:7029/play/a006
+#EXTINF:-1 group-title="AgroNet (VPN)",Евпатория 24
+http://195.26.83.96:7029/play/a009
 #EXTINF:-1 group-title="AgroNet (VPN)",Че
 http://195.26.83.96:7009/play/89/index.m3u8
+#EXTINF:-1 group-title="AgroNet (VPN)",Детский мир
+http://195.26.83.96:7007/play/14/index.m3u8
+#EXTINF:-1 group-title="AgroNet (VPN)",СТС Kids
+http://195.26.83.96:7006/play/a00z/index.m3u8
 #EXTINF:-1 group-title="AgroNet (VPN)",O2TV
 http://195.26.83.96:7006/play/1/index.m3u8
 #EXTINF:-1 group-title="AgroNet (VPN)",Шансон ТВ
 http://195.26.83.96:7005/play/a00l/index.m3u8
 #EXTINF:-1 group-title="AgroNet (VPN)",BRIDGE TV
 http://195.26.83.96:7007/play/a00m/index.m3u8
+#EXTINF:-1 group-title="AgroNet (VPN)",ТНТ Music
+http://195.26.83.96:7029/play/9
 #EXTINF:-1 group-title="AgroNet (VPN)",КХЛ ТВ
 http://195.26.83.96:7007/play/4/index.m3u8
+#EXTINF:-1 group-title="AgroNet (VPN)",Viasat Sport
+http://195.26.83.96:7013/play/a00f/index.m3u8
+
 
 
 
