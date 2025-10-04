@@ -57,12 +57,36 @@ http://213.169.39.30:5241
 https://iptv.itv.uz/hls/live/t/UAcSEExX5UamlFqFOIaXIA/e/1767191403/4000/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/MTbNhVZc/i-TV-Music-Logo.png",ITV Music
 https://iptv.itv.uz/hls/live/t/IDvfbmZ5Ibmqs0plMhNejg/e/1767191403/4001/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Bolt HD
-http://84.245.224.71/BoltHD/mono.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Star Family HD
 http://84.245.224.71/StarFamilyHD/mono.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Star Cinema HD
 http://84.245.224.71/StarCinemaHD/mono.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Bolt HD
+http://84.245.224.71/BoltHD/mono.m3u8
+#EXTINF:-1 group-title="TEST ⓵", Уникум
+https://flussonic.salomtv.uz/Detskiy/video.m3u8
+#EXTINF:-1 group-title="TEST ⓵", Первый канал
+https://flussonic.salomtv.uz/perviy_kanal/video.m3u8
+#EXTINF:-1 group-title="TEST ⓵", Дом кино
+https://flussonic.salomtv.uz/domkino/video.m3u8
+#EXTINF:-1 group-title="TEST ⓵", EURONEWS
+https://flussonic.salomtv.uz/EURONEWS/video.m3u8
+#EXTINF:-1 group-title="TEST ⓵", Makon TV
+https://flussonic.salomtv.uz/Makon_TV/video.m3u8
+#EXTINF:-1 group-title="TEST ⓵", Русский детектив
+https://flussonic.salomtv.uz/russkiy_detektiv/video.m3u8
+#EXTINF:-1 group-title="TEST ⓵", RU.TV
+https://flussonic.salomtv.uz/rutv/video.m3u8
+#EXTINF:-1 group-title="TEST ⓵", Телекафе
+https://flussonic.salomtv.uz/telekafe/video.m3u8
+#EXTINF:-1 group-title="TEST ⓵", TV1000 Action
+https://flussonic.salomtv.uz/vijuTV1000action/video.m3u8
+#EXTINF:-1 group-title="TEST ⓵", Звезда
+https://flussonic.salomtv.uz/zvezda/video.m3u8
+#EXTINF:-1 group-title="TEST ⓵", Eurosport 2 HD
+https://flussonic.salomtv.uz/eurosport_2/video.m3u8
+#EXTINF:-1 group-title="TEST ⓵", Futbol TV
+https://flussonic.salomtv.uz/FutbolTV/video.m3u8
 #EXTINF:-1 group-title="TEST ⓵",OTV HD
 http://84.245.224.71/OTV/mono.m3u8
 #EXTINF:-1 group-title="TEST ⓵",1+2
