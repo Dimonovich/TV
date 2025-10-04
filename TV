@@ -177,6 +177,10 @@ http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
 http://185.46.48.18:80/iriston/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",МАТЧ ТВ
 http://185.46.48.18:80/match/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",43 канал HD
+http://sochinskayatrk.ru/hdtv/hls/43K_HD/playlist.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",CTPK HD
+http://sochinskayatrk.ru/hdtv/hls/CTPK_HD/playlist.m3u8
 #EXTINF:-1 group-title="TEST (VPN)" tvg-logo="http://epg.it999.ru/img2/5441.png",ТВОЕ ТВ HD
 http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://i.postimg.cc/m2FWVxW3/Background-Eraser-20230805-095630572.png",ТВОЕ ТВ HD - ЮМОР
