@@ -99,6 +99,8 @@ http://95.67.12.82:9086
 http://95.67.12.82:9098
 #EXTINF:-1 group-title="TEST ⓵" tvg-id="kinokazka",Киноказка       
 http://95.67.12.82:9084
+#EXTINF:-1 group-title="TEST ⓵",Загородная жизнь
+http://185.57.68.33/40/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵",CGTN Русский
 https://english-livetx.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802_hd.m3u8
 #EXTINF:-1 group-title="TEST ⓵", Київ HD
