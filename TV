@@ -201,6 +201,28 @@ http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
 http://185.46.48.18:80/iriston/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",МАТЧ ТВ
 http://185.46.48.18:80/match/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Матч ТВ
+http://tv.tuva.ru/machtv/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Звезда (+4)
+http://vod.tuva.ru/zvezda/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Пятница
+http://vod.tuva.ru/friday/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Русский Роман
+http://vod.tuva.ru/rusroman/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Kino TV
+http://vod.tuva.ru/kinotv/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",НСТ
+http://vod.tuva.ru/nst/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Еврокино
+http://vod.tuva.ru/eurokino/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",24 Тува
+http://vod.tuva.ru/tuva24/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Моя Планета
+http://vod.tuva.ru/myplanet/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Наука 2
+http://vod.tuva.ru/nauka2/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",OVAA TV
+http://vod.tuva.ru/ovaa/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",43 канал HD
 http://sochinskayatrk.ru/hdtv/hls/43K_HD/playlist.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",CTPK HD
