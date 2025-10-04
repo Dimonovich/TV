@@ -1965,7 +1965,9 @@ http://195.158.223.132:8006/Rossiya_K
 http://195.158.223.132:8005/Zhivaya_Planeta
 #EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",ЖИВАЯ ПРИРОДА
 http://195.158.223.132:8007/Zhivaya_Priroda
-#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",Загородняя Жизнь
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",Наука
+http://195.158.223.132:8006/Nauka
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",Загородная Жизнь
 http://195.158.223.132:8009/Zagorodnaya_Zhizn
 #EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",Моя Планета
 http://195.158.223.132:8006/Moya_Planeta
@@ -2003,12 +2005,16 @@ http://195.158.223.132:8000/Domashniy
 http://195.158.223.132:8010/Evrokino
 #EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",Кино тв
 http://195.158.223.132:8009/Kino_TV
-#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",Киномикс
-http://195.158.223.132:8007/Kinomiks
 #EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",Киносвидание
 http://195.158.223.132:8008/Kinosvidanie
 #EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",Кинохит
 http://195.158.223.132:8008/Kinohit
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",Родное Кино
+http://195.158.223.132:8008/Rodnoe_Kino
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",Киномикс
+http://195.158.223.132:8007/Kinomiks
+#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",Мужское Кино
+http://195.158.223.132:8006/Muzhskoe_Kino
 #EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",Курай ТВ
 http://195.158.223.132:8008/Kuraj_TV
 #EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",Кухня ТВ
@@ -2021,10 +2027,6 @@ http://195.158.223.132:8000/Mir_24
 http://195.158.223.132:8009/Mir_Seriala
 #EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",Москва 24
 http://195.158.223.132:8009/Moskva_24
-#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",Мужское Кино
-http://195.158.223.132:8006/Muzhskoe_Kino
-#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",Наука
-http://195.158.223.132:8006/Nauka
 #EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",НСТ
 http://195.158.223.132:8006/NST
 #EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",О!2
@@ -2033,8 +2035,6 @@ http://195.158.223.132:8010/O!2
 http://195.158.223.132:8011/OTR
 #EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",ПОБЕДА
 http://195.158.223.132:8011/Pobeda
-#EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",Родное Кино
-http://195.158.223.132:8008/Rodnoe_Kino
 #EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",Русский бестселлер
 http://195.158.223.132:8008/Russkiy_Bestseller
 #EXTINF:-1 group-title="ЗР-Телеком плюс (VPN)",Русский детектив
