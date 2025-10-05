@@ -78,14 +78,16 @@ https://flussonic.salomtv.uz/russkiy_detektiv/video.m3u8
 https://flussonic.salomtv.uz/rutv/video.m3u8
 #EXTINF:-1 group-title="TEST ⓵", Телекафе
 https://flussonic.salomtv.uz/telekafe/video.m3u8
-#EXTINF:-1 group-title="TEST ⓵", TV1000 Action
-https://flussonic.salomtv.uz/vijuTV1000action/video.m3u8
 #EXTINF:-1 group-title="TEST ⓵", Звезда
 https://flussonic.salomtv.uz/zvezda/video.m3u8
 #EXTINF:-1 group-title="TEST ⓵", Eurosport 2 HD
 https://flussonic.salomtv.uz/eurosport_2/video.m3u8
 #EXTINF:-1 group-title="TEST ⓵", Futbol TV
 https://flussonic.salomtv.uz/FutbolTV/video.m3u8
+#EXTINF:-1 group-title="TEST ⓵", TV1000 Action
+https://flussonic.salomtv.uz/vijuTV1000action/video.m3u8
+#EXTINF:-1 group-title="TEST ⓵", TV1000
+https://live-erostv.cdnvideo.ru/erostv/erostv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="TEST ⓵",OTV HD
 http://84.245.224.71/OTV/mono.m3u8
 #EXTINF:-1 group-title="TEST ⓵",1+2
