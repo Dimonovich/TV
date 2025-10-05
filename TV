@@ -9,6 +9,7 @@ http://194.26.229.213/intro/index.m3u8
 
 
 
+
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/25VcB58T/auto-x2-1.jpg",🔺 INFO 🔺Посмотри!!!
 https://github.com/Dimonovich/TV/releases/download/v1.0.0/1.mp4
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/3rkRjpjC/photo-2024-01-14-15-41-50.jpg",CHD-TV RU Rock HD
@@ -31,8 +32,6 @@ https://cdn4.skygo.mn/live/disk1/STS/HLSv3-FTA/STS.m3u8
 http://193.27.209.122/bollywood/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Дорама HD
 http://193.27.209.122/dorama/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵",mcm top
-http://193.27.209.122/mcm_top/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Tiji
 http://193.27.209.122/tiji/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Nat Geo Wild HD
@@ -57,12 +56,36 @@ http://213.169.39.30:5241
 https://iptv.itv.uz/hls/live/t/UAcSEExX5UamlFqFOIaXIA/e/1767191403/4000/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/MTbNhVZc/i-TV-Music-Logo.png",ITV Music
 https://iptv.itv.uz/hls/live/t/IDvfbmZ5Ibmqs0plMhNejg/e/1767191403/4001/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Bolt HD
-http://84.245.224.71/BoltHD/mono.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Star Family HD
 http://84.245.224.71/StarFamilyHD/mono.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Star Cinema HD
 http://84.245.224.71/StarCinemaHD/mono.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Bolt HD
+http://84.245.224.71/BoltHD/mono.m3u8
+#EXTINF:-1 group-title="TEST ⓵", Уникум
+https://flussonic.salomtv.uz/Detskiy/video.m3u8
+#EXTINF:-1 group-title="TEST ⓵", Первый канал
+https://flussonic.salomtv.uz/perviy_kanal/video.m3u8
+#EXTINF:-1 group-title="TEST ⓵", Дом кино
+https://flussonic.salomtv.uz/domkino/video.m3u8
+#EXTINF:-1 group-title="TEST ⓵", EURONEWS
+https://flussonic.salomtv.uz/EURONEWS/video.m3u8
+#EXTINF:-1 group-title="TEST ⓵", Makon TV
+https://flussonic.salomtv.uz/Makon_TV/video.m3u8
+#EXTINF:-1 group-title="TEST ⓵", Русский детектив
+https://flussonic.salomtv.uz/russkiy_detektiv/video.m3u8
+#EXTINF:-1 group-title="TEST ⓵", RU.TV
+https://flussonic.salomtv.uz/rutv/video.m3u8
+#EXTINF:-1 group-title="TEST ⓵", Телекафе
+https://flussonic.salomtv.uz/telekafe/video.m3u8
+#EXTINF:-1 group-title="TEST ⓵", TV1000 Action
+https://flussonic.salomtv.uz/vijuTV1000action/video.m3u8
+#EXTINF:-1 group-title="TEST ⓵", Звезда
+https://flussonic.salomtv.uz/zvezda/video.m3u8
+#EXTINF:-1 group-title="TEST ⓵", Eurosport 2 HD
+https://flussonic.salomtv.uz/eurosport_2/video.m3u8
+#EXTINF:-1 group-title="TEST ⓵", Futbol TV
+https://flussonic.salomtv.uz/FutbolTV/video.m3u8
 #EXTINF:-1 group-title="TEST ⓵",OTV HD
 http://84.245.224.71/OTV/mono.m3u8
 #EXTINF:-1 group-title="TEST ⓵",1+2
@@ -79,8 +102,6 @@ http://84.245.224.71/FashionTVHD/mono.m3u8
 http://84.245.224.71/KHLHD/mono.m3u8
 #EXTINF:-1 group-title="TEST ⓵" tvg-id="skif-vitebsk",Скиф ТВ
 http://95.46.208.8:24432/skif
-#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://cvy.okis.ru/file/cvy/9.gif",Релакс
-http://185.57.68.33/232/mpegts
 #EXTINF:-1 group-title="TEST ⓵",OstWest
 http://95.67.12.82:9077
 #EXTINF:-1 group-title="TEST ⓵",Continent E
@@ -101,6 +122,8 @@ http://95.67.12.82:9086
 http://95.67.12.82:9098
 #EXTINF:-1 group-title="TEST ⓵" tvg-id="kinokazka",Киноказка       
 http://95.67.12.82:9084
+#EXTINF:-1 group-title="TEST ⓵",Загородная жизнь
+http://185.57.68.33/40/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵",CGTN Русский
 https://english-livetx.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802_hd.m3u8
 #EXTINF:-1 group-title="TEST ⓵", Київ HD
@@ -123,8 +146,6 @@ https://api-tv.ipnet.ua/api/v1/manifest/2118742680.m3u8
 https://api-tv.ipnet.ua/api/v1/manifest/2118742632.m3u8
 #EXTINF:-1 group-title="TEST ⓵",4K travel 
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/1967b0de-bf90-4339-a563-a5d06bba32ed/2.m3u8
-
-
 
 
 
@@ -177,6 +198,32 @@ http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
 http://185.46.48.18:80/iriston/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",МАТЧ ТВ
 http://185.46.48.18:80/match/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Матч ТВ
+http://tv.tuva.ru/machtv/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Звезда (+4)
+http://vod.tuva.ru/zvezda/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Пятница
+http://vod.tuva.ru/friday/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Русский Роман
+http://vod.tuva.ru/rusroman/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Kino TV
+http://vod.tuva.ru/kinotv/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",НСТ
+http://vod.tuva.ru/nst/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Еврокино
+http://vod.tuva.ru/eurokino/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",24 Тува
+http://vod.tuva.ru/tuva24/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Моя Планета
+http://vod.tuva.ru/myplanet/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Наука 2
+http://vod.tuva.ru/nauka2/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",OVAA TV
+http://vod.tuva.ru/ovaa/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",43 канал HD
+http://sochinskayatrk.ru/hdtv/hls/43K_HD/playlist.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",CTPK HD
+http://sochinskayatrk.ru/hdtv/hls/CTPK_HD/playlist.m3u8
 #EXTINF:-1 group-title="TEST (VPN)" tvg-logo="http://epg.it999.ru/img2/5441.png",ТВОЕ ТВ HD
 http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://i.postimg.cc/m2FWVxW3/Background-Eraser-20230805-095630572.png",ТВОЕ ТВ HD - ЮМОР
@@ -187,7 +234,6 @@ http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist
 http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_EKB1/hls/1024x576@2024/playlist.m3u8
 #EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://assets.iptv2022.com/static/channel/10459/logo_128_1652790001.png",Прима
 http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1920x1080@4504/playlist.m3u8
-
 
 
 
