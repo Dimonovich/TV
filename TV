@@ -398,7 +398,36 @@ https://river-1.rutube.ru/hls-vod/_LiDaW-rWHfn0YEJUJFK-Q/1760198632/1788/0x5000c
 #EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rutube.ru/video/8a/8f/8a8fb71bed7423746a80654fc5ba541e.jpg", Лес В 4К
 https://river-1.rutube.ru/hls-vod/fnz3MqjszNDrpBEtqVvY9A/1760198634/1846/0x5000c500db17284f/3a14e22cc0b24da0b4c9994cfbbfff0a.mp4.m3u8?i=3840x2160_15561
 
-
+#EXTINF:-1 group-title="Unitary Services Enterprise",Россия К
+http://217.21.34.160:38007/kultura/index.m3u8
+#EXTINF:-1 group-title="Unitary Services Enterprise",Amedia Premium HD
+http://217.21.34.160:38007/amediapremium/index.m3u8
+#EXTINF:-1 group-title="Unitary Services Enterprise",RTG HD
+http://217.21.34.160:38007/rtghd/index.m3u8
+#EXTINF:-1 group-title="Unitary Services Enterprise",24 Техно
+http://217.21.34.160:38007/tehno24/index.m3u8
+#EXTINF:-1 group-title="Unitary Services Enterprise",Живая природа
+http://217.21.34.160:38007/zhivaya_priroda/index.m3u8
+#EXTINF:-1 group-title="Unitary Services Enterprise",Дикая охота HD
+http://217.21.34.160:38007/dikayaohotahd/index.m3u8
+#EXTINF:-1 group-title="Unitary Services Enterprise",Дикая рыбалка HD
+http://217.21.34.160:38007/dikayarybalkahd/index.m3u8
+#EXTINF:-1 group-title="Unitary Services Enterprise",Глазами туриста
+http://217.21.34.160:38007/glazami_turista/index.m3u8
+#EXTINF:-1 group-title="Unitary Services Enterprise",Любимое кино
+http://217.21.34.160:38007/lubimoekino/index.m3u8
+#EXTINF:-1 group-title="Unitary Services Enterprise",Мир сериала
+http://217.21.34.160:38007/mirseriala/index.m3u8
+#EXTINF:-1 group-title="Unitary Services Enterprise",Шансон ТВ
+http://217.21.34.160:38007/shanson/index.m3u8
+#EXTINF:-1 group-title="Unitary Services Enterprise",Top Secret
+http://217.21.34.160:38007/sovsek/index.m3u8
+#EXTINF:-1 group-title="Unitary Services Enterprise",СТС Kids
+http://217.21.34.160:38007/stskids/index.m3u8
+#EXTINF:-1 group-title="Unitary Services Enterprise",TV XXI
+http://217.21.34.160:38007/tv-xxi/index.m3u8
+#EXTINF:-1 group-title="Unitary Services Enterprise",Детский мир
+http://217.21.34.160:38007/detmir/index.m3u8
 
 
 #EXTINF:-1 group-title="Individual Entrepreneur",Первый HD
