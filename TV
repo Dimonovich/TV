@@ -162,6 +162,22 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 http://185.221.213.254:8080/Okko/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)", Матч Премьер
 http://levshanov.tlkf.ru/iptv/nashfootballhd/16/h1080/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i122.fastpic.org/big/2024/0112/65/b20ebb09af08ef55dbdffa919a047c65.png?md5=j6J6Ll7lDMFzkm2ymFC1LQ&expires=1735808400" group-title="TEST ⓵", IPTVPLAY МультСказки HD
+http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 tvg-logo="https://i123.fastpic.org/big/2024/0826/01/adbb4692281cf3cc6540f47f4460c701.png" group-title="TEST ⓵", IPTVPLAY ВЕДЬМАК
+http://5.188.158.65:4040/IPTVPLAYVEDMAK.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 tvg-logo="https://i123.fastpic.org/big/2024/0826/ac/f4f87b57a79f0fbc6381996811439dac.png" group-title="TEST ⓵", IPTVPLAY ДЕСЯТОЕ КОРОЛЕВСТВО
+http://5.188.158.65:4040/IPTVPLAY10KOROLEVSTVO.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 tvg-logo="https://i123.fastpic.org/big/2024/0826/ee/6d269a3701fd505b42ad593a52cd9eee.png" group-title="TEST ⓵", IPTVPLAY ИНТЕРНЫ
+http://5.188.158.65:4040/IPTVPLAYINTERNY.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pbxx3Sd/Fantastika.png" group-title="TEST ⓵"IPTVPLAY ФАНТАСТИКА
+http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7gj4dQM/Pamyat.png" group-title="TEST ⓵" IPTVPLAY ПАМЯТЬ
+http://5.188.158.65:4040/IPTVPLAYPAMYAT.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LZkQq0x/Uzhastik.png" group-title="TEST ⓵" IPTVPLAY УЖАСТИК
+http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/21102022/logos/39161-6352c0c04b9bd.png" group-title="TEST ⓵" IPTVPLAY Великая Отечественная HD
+http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1 group-title="TEST (VPN)",Baby Time
 http://185.221.213.254/live/stream3.php?q=OWWGT5_z5DqjdLW9cndeOmc5aO6pnRbuSajO28AMNZlvQmeXQ_iWHp0Fz7MTnr3Oug7p6sHgeRtqTpR_WNEipjpEyv53G58Wj1Rgv9ETCR2JV3w3LyhyhHvewwSEDBXT&token=MjIyMjoyMjIyMjI=
 #EXTINF:-1 group-title="TEST (VPN)",Вкус
@@ -2073,46 +2089,6 @@ https://tvsamaragis.tk/new/new/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i122.fastpic.org/big/2024/0112/65/b20ebb09af08ef55dbdffa919a047c65.png?md5=j6J6Ll7lDMFzkm2ymFC1LQ&expires=1735808400" group-title="Кинозалы (VPN)", IPTVPLAY МультСказки HD
-http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 tvg-logo="https://i123.fastpic.org/big/2024/0826/01/adbb4692281cf3cc6540f47f4460c701.png" group-title="Кинозалы (VPN)", IPTVPLAY ВЕДЬМАК
-http://5.188.158.65:4040/IPTVPLAYVEDMAK.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 tvg-logo="https://i123.fastpic.org/big/2024/0826/ac/f4f87b57a79f0fbc6381996811439dac.png" group-title="Кинозалы (VPN)", IPTVPLAY ДЕСЯТОЕ КОРОЛЕВСТВО
-http://5.188.158.65:4040/IPTVPLAY10KOROLEVSTVO.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 tvg-logo="https://i123.fastpic.org/big/2024/0826/ee/6d269a3701fd505b42ad593a52cd9eee.png" group-title="Кинозалы (VPN)", IPTVPLAY ИНТЕРНЫ
-http://5.188.158.65:4040/IPTVPLAYINTERNY.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pbxx3Sd/Fantastika.png"   group-title="Кинозалы (VPN)"IPTVPLAY ФАНТАСТИКА
-http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7gj4dQM/Pamyat.png" group-title="Кинозалы (VPN)" IPTVPLAY ПАМЯТЬ
-http://5.188.158.65:4040/IPTVPLAYPAMYAT.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LZkQq0x/Uzhastik.png" group-title="Кинозалы (VPN)" IPTVPLAY УЖАСТИК
-http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/21102022/logos/39161-6352c0c04b9bd.png" group-title="Кинозалы (VPN)" IPTVPLAY Великая Отечественная HD
-http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 tvg-logo="https://i123.fastpic.org/big/2024/0708/e8/025585d63ecd857a98e0cb11049e5ae8.png?md5=kyEN39AL3-denlMSJVjnXg&expires=1727773200" group-title="Кинозалы (VPN)", Сити Эдем - КиноЭкшен
-https://cityeden.catcast.tv/content/41333/index.m3u8?token=474cd86e39467c9dfaa93e4e49f4be69
-#EXTINF:-1 tvg-logo="https://i123.fastpic.org/big/2024/0707/b9/9c1ab9278c817afbb761a02a90048eb9.png?md5=1gxgzDjKv5FlVJUNUktbLA&expires=1727773200" group-title="Кинозалы (VPN)", Сити Эдем - КиноДетектив
-https://cityeden.catcast.tv/content/41327/index.m3u8?token=b4165148a2a733cb7ed075023297d583
-#EXTINF:-1 tvg-logo="https://i123.fastpic.org/big/2024/0707/ab/6d8bdad588de5a4a0b683ad4d2cd7bab.png?md5=3mITiES8iPpMoUvB_HoyEg&expires=1727773200" group-title="Кинозалы (VPN)", Сити Эдем - КиноМистика
-https://cityeden.catcast.tv/content/40783/index.m3u8?token=4553db048605eecf46c822b88833ce1d
-#EXTINF:-1 tvg-logo="https://i123.fastpic.org/big/2024/0708/8b/e5dd42ddad571125b365e5004157c38b.png?md5=Q-Vr19ryzpSKOQfwkwPmnQ&expires=1727773200" group-title="Кинозалы (VPN)", Сити Эдем - КиноКомедия
-https://cityeden.catcast.tv/content/41331/index.m3u8?token=8f96495eee510a33fb3017982ce61eac
-#EXTINF:-1 tvg-logo="https://i123.fastpic.org/big/2024/0707/8d/07172bb838000bcf26b24fa953d53c8d.png?md5=K7ruKF7nnNMiAAjZtsluWg&expires=1727773200" group-title="Кинозалы (VPN)", Сити Эдем - КиноКлассика
-https://cityeden.catcast.tv/content/34185/index.m3u8?token=eedcbaef9723990f462ed5ec343de5ca
-#EXTINF:-1 tvg-logo="https://i123.fastpic.org/big/2024/0707/af/e4ae33edca0e150e90c0f6b4494e9aaf.png?md5=kLpY1uGGkH0trfmazgJBCA&expires=1727773200" group-title="Кинозалы (VPN)", Сити Эдем - КиноСемья
-https://autopilot.catcast.tv/content/38128/index.m3u8?token=2c25bdb20383b2533f44f6073ddfa2b6
-#EXTINF:-1 tvg-logo="https://i123.fastpic.org/big/2024/0707/fe/90245379e74f15e531ae986e72b2dbfe.png?md5=Ygwh213-bP1m3NXE9Va0TA&expires=1730887200" group-title="Кинозалы (VPN)" ,Сити Эдем - КиноАрт
-https://cityeden.catcast.tv/content/38398/index.m3u8?token=8bf1c1fd44f97f9b58fab4a266a4567e
-#EXTINF:-1 tvg-logo="https://i123.fastpic.org/big/2024/0707/2f/6dafba57550b8f780842e575d927542f.png?md5=8LTGgUKGd-CnqxF1OSU2cw&expires=1730887200" group-title="Кинозалы (VPN)", Сити Эдем - КиноАзия
-https://cityeden.catcast.tv/content/34393/index.m3u8?token=dbf2611bd4f1aab379cb289c3e79d512
-#EXTINF:-1 tvg-logo="https://i123.fastpic.org/big/2024/0707/66/a4c30fc86117e97731b2aaacf346cf66.png?md5=7JnnPYcbSwF_wBoaT_IUMg&expires=1727773200" group-title="Кинозалы (VPN)", Сити Эдем - КиноФантастика
-https://cityeden.catcast.tv/content/45268/index.m3u8?token=83cbe0179bd863b7c1acb9894d7c7ba6
-#EXTINF:-1 tvg-logo="https://i123.fastpic.org/big/2024/0707/0a/9bdfb6276a238246f5d3c70f5939be0a.png?md5=GtC3Y1KVxR9ftQMKS64cVA&expires=1727773200" group-title="Кинозалы (VPN)", Сити Эдем - КиноДрама
-https://cityeden.catcast.tv/content/45269/index.m3u8?token=28470f31cea5990d1be54eb04a48514a
-#EXTINF:-1 tvg-logo="https://i123.fastpic.org/big/2024/0707/65/fbf0da54ae81671db61b3ec6cb71cd65.png?md5=LKi3wbIXy_YKTLwZ1rkpeg&expires=1730887200" group-title="Кинозалы (VPN)", Сити Эдем - ТелеНовелла
-https://cityeden.catcast.tv/content/46209/index.m3u8?token=085e0f93cd0d35977e08d1135585c6f5
-#EXTINF:-1 tvg-logo="https://i123.fastpic.org/big/2024/0707/b3/ffe9bcb9e22ba24237d5b55f2c916bb3.png?md5=Dk0MaXO4P5l3ihytmGAfMQ&expires=1737648000" group-title="Кинозалы (VPN)", Сити Эдем ТВ
-https://cityeden.catcast.tv/content/34246/index.m3u8?token=303bceb019d7b28644dd0682a2f5ce8f
 
 
 
