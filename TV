@@ -430,6 +430,10 @@ http://s1.merlive.am/ntvpravo/index.m3u8
 http://s1.merlive.am/ntvstil/index.m3u8
 #EXTINF:-1 group-title="Merlive",НТВ Хит
 http://s1.merlive.am/ntvxit/index.m3u8
+#EXTINF:-1 group-title="Merlive",Travel+Adventure HD
+http://s1.merlive.am/TravelAdventure/index.m3u8
+#EXTINF:-1 group-title="Merlive",Дикая охота HD
+http://s1.merlive.am/dikayaoxota/index.m3u8
 #EXTINF:-1 group-title="Merlive",National Geographic
 http://s1.merlive.am/NationalGeographic/index.m3u8
 #EXTINF:-1 group-title="Merlive",Живая Планета
@@ -492,6 +496,7 @@ http://s1.merlive.am/Karusel/index.m3u8
 http://s1.merlive.am/DaVinci/index.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Матч Премьер
 http://s1.merlive.am/matchpremier/index.m3u8
+
 
 
 
