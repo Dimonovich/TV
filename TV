@@ -448,6 +448,8 @@ http://s1.merlive.am/Amedia1/index.m3u8
 http://s1.merlive.am/Mir/index.m3u8
 #EXTINF:-1 group-title="Merlive",8 канал
 http://s1.merlive.am:80/8Kanal/index.m3u8
+#EXTINF:-1 group-title="Merlive",Filmzon
+http://s1.merlive.am/Filmzon/index.m3u8
 #EXTINF:-1 group-title="Merlive",Дом кино
 http://s1.merlive.am/Domkino/index.m3u8
 #EXTINF:-1 group-title="Merlive",Еврокино
