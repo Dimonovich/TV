@@ -2798,10 +2798,10 @@ http://91.194.191.241:8081/chid67/tracks-v1a1/mono.m3u8
 http://91.194.191.241:8081/chid415/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)",Fashion TV
 http://91.194.191.241:8081/chid169/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)",Соловьев Live
+http://91.194.191.241:8081/chid38/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)",FAN
 http://91.194.191.241:8081/chid439/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)",Da Vinci
-http://91.194.191.241:8081/chid426/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)",CТС
 http://91.194.191.241:8081/chid219/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)",Cinema
@@ -2826,6 +2826,8 @@ http://91.194.191.241:8081/chid77/tracks-v1a1/mono.m3u8
 http://91.194.191.241:8081/chid85/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)",.Black
 http://91.194.191.241:8081/chid408/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)",Da Vinci
+http://91.194.191.241:8081/chid426/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)",Baby Time
 http://91.194.191.241:8081/chid273/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)",Gulli Girl
@@ -2914,8 +2916,6 @@ http://91.194.191.241:8081/chid51/tracks-v1a1/mono.m3u8
 http://91.194.191.241:8081/chid105/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",VIASAT Explore
 http://91.194.191.241:8081/chid106/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",SAN PORTO
-http://91.194.191.241:8081/chid38/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",KHL
 http://91.194.191.241:8081/chid55/tracks-v1a1/mono.m3u8
 
