@@ -162,21 +162,47 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 http://185.221.213.254:8080/Okko/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)", Матч Премьер
 http://levshanov.tlkf.ru/iptv/nashfootballhd/16/h1080/playlist.m3u8
-#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://i122.fastpic.org/big/2024/0112/65/b20ebb09af08ef55dbdffa919a047c65.png", IPTVPLAY МультСказки HD
+#EXTINF:-1 group-title="TEST (VPN)", Матч! Страна
+http://95.163.85.128/streams/media/match-strana_720x576/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)", Россия К
+http://95.163.85.128/streams/media/kultura_720x576/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)", НТВ
+http://95.163.85.128/streams/media/ntv_720x576/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)", Рен ТВ
+http://95.163.85.128/streams/media/ren-tv_720x576/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)", ТНТ
+http://95.163.85.128/streams/media/tnt_720x576/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",НСТ
+http://80.77.52.3/streams/media/nstv_720x576/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",TV1000 action
+http://80.77.52.3/streams/media/tv1000action_720x576/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",TV25 GE
+http://80.77.52.3/streams/media/tv-25_720x576/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)", a2
+http://95.163.85.128/streams/media/a2_720x576/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)", СТС
+http://95.163.85.128/streams/media/ctc_720x576/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)", Карусель
+http://95.163.85.128/streams/media/karusel_720x576/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)", Музыка Первого
+http://95.163.85.128/streams/media/muzyka-pervogo_720x576/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)", ТВЦ
+http://95.163.85.128/streams/media/tv-centr_720x576/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://i.postimg.cc/Rh516HVw/1.png", IPTVPLAY МультСказки HD
 http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://i123.fastpic.org/big/2024/0826/01/adbb4692281cf3cc6540f47f4460c701.png", IPTVPLAY ВЕДЬМАК
+#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://i.postimg.cc/mDMCsgNL/1.png", IPTVPLAY ВЕДЬМАК
 http://5.188.158.65:4040/IPTVPLAYVEDMAK.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://i123.fastpic.org/big/2024/0826/ac/f4f87b57a79f0fbc6381996811439dac.png", IPTVPLAY ДЕСЯТОЕ КОРОЛЕВСТВО
+#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://i.postimg.cc/D06WvJWn/1.png", IPTVPLAY ДЕСЯТОЕ КОРОЛЕВСТВО
 http://5.188.158.65:4040/IPTVPLAY10KOROLEVSTVO.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 group-title="TEST (VPN)"  tvg-logo="https://i123.fastpic.org/big/2024/0826/ee/6d269a3701fd505b42ad593a52cd9eee.png", IPTVPLAY ИНТЕРНЫ
+#EXTINF:-1 group-title="TEST (VPN)"  tvg-logo="https://i.postimg.cc/3N8Rc8tq/1.png", IPTVPLAY ИНТЕРНЫ
 http://5.188.158.65:4040/IPTVPLAYINTERNY.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pbxx3Sd/Fantastika.png" group-title="TEST (VPN)" ,IPTVPLAY ФАНТАСТИКА
+#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://i.ibb.co/pbxx3Sd/Fantastika.png", IPTVPLAY ФАНТАСТИКА
 http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7gj4dQM/Pamyat.png" group-title="TEST (VPN)" ,IPTVPLAY ПАМЯТЬ
+#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://i.ibb.co/7gj4dQM/Pamyat.png", IPTVPLAY ПАМЯТЬ
 http://5.188.158.65:4040/IPTVPLAYPAMYAT.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LZkQq0x/Uzhastik.png" group-title="TEST (VPN)" ,IPTVPLAY УЖАСТИК
+#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://i.ibb.co/LZkQq0x/Uzhastik.png", IPTVPLAY УЖАСТИК
 http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/21102022/logos/39161-6352c0c04b9bd.png" group-title="TEST (VPN)", IPTVPLAY Великая Отечественная HD
+#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://i.postimg.cc/v8KFj826/1.png", IPTVPLAY Великая Отечественная HD
 http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1 group-title="TEST (VPN)",Baby Time
 http://185.221.213.254/live/stream3.php?q=OWWGT5_z5DqjdLW9cndeOmc5aO6pnRbuSajO28AMNZlvQmeXQ_iWHp0Fz7MTnr3Oug7p6sHgeRtqTpR_WNEipjpEyv53G58Wj1Rgv9ETCR2JV3w3LyhyhHvewwSEDBXT&token=MjIyMjoyMjIyMjI=
