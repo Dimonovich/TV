@@ -88,6 +88,14 @@ https://flussonic.salomtv.uz/FutbolTV/video.m3u8
 https://flussonic.salomtv.uz/vijuTV1000action/video.m3u8
 #EXTINF:-1 group-title="TEST ⓵", TV1000
 https://live-erostv.cdnvideo.ru/erostv/erostv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Дом Кино Премиум
+http://85.11.144.6:6060/play/a07v/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵",MTV
+http://85.11.144.6:6060/play/a08w/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵",MTV 00s
+http://85.11.144.6:6060/play/a07g/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵",MTV 90s
+http://85.11.144.6:6060/play/a09o/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵",OTV HD
 http://84.245.224.71/OTV/mono.m3u8
 #EXTINF:-1 group-title="TEST ⓵",1+2
