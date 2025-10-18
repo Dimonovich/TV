@@ -2448,6 +2448,173 @@ http://192.162.64.99:5000/play/a02g/index.m3u8
 http://192.162.64.99:5000/play/a02i/index.m3u8
 
 
+#EXTINF:-1 group-title="DELTA_2 (VPN)",Первый канал
+http://192.162.64.99:4000/play/a00e/index.m3u8
+#EXTINF:-1 group-title="DELTA_2 (VPN)",Россия 1
+http://192.162.64.99:4000/play/a00f/index.m3u8
+#EXTINF:-1 group-title="DELTA_2 (VPN)",Россия HD
+http://192.162.64.99:4000/play/a06n/index.m3u8
+#EXTINF:-1 group-title="DELTA_2 (VPN)",Россия К
+http://192.162.64.99:4000/play/a053/index.m3u8
+#EXTINF:-1 group-title="DELTA_2 (VPN)",РЕН ТВ
+http://192.162.64.99:4000/play/a00q/index.m3u8
+#EXTINF:-1 group-title="DELTA_2 (VPN)",ТНТ
+http://192.162.64.99:4000/play/a01n/index.m3u8
+#EXTINF:-1 group-title="DELTA_2 (VPN)",Россия 24
+http://192.162.64.99:4000/play/a013/index.m3u8
+#EXTINF:-1 group-title="DELTA_2 (VPN)",ТНТ4
+http://192.162.64.99:4000/play/a00y/index.m3u8
+#EXTINF:-1 group-title="DELTA_2 (VPN)",НТВ
+http://192.162.64.99:4000/play/a011/index.m3u8
+#EXTINF:-1 group-title="DELTA_2 (VPN)",НТВ-мир
+http://192.162.64.99:4000/play/a06l/index.m3u8
+#EXTINF:-1 group-title="DELTA_2 (VPN)",Нано ТВ
+http://192.162.64.99:4000/play/a00z/index.m3u8
+#EXTINF:-1 group-title="DELTA_2 (VPN)",РТР-Планета
+http://192.162.64.99:4000/play/a00g/index.m3u8
+#EXTINF:-1 group-title="DELTA_2 (VPN)",Открытый мир
+http://192.162.64.99:4000/play/a06m/index.m3u8
+#EXTINF:-1 group-title="DELTA_2 (VPN)",ТНТ-International
+http://192.162.64.99:4000/play/a00h/index.m3u8
+#EXTINF:-1 group-title="DELTA_2 (VPN)",5 канал International
+http://192.162.64.99:4000/play/a05e/index.m3u8
+#EXTINF:-1 group-title="DELTA_2 (VPN)",РенТВ International
+http://192.162.64.99:4000/play/a05f/index.m3u8
+#EXTINF:-1 group-title="DELTA_2 (VPN)",Перец International
+http://192.162.64.99:4000/play/a05g/index.m3u8
+#EXTINF:-1 group-title="DELTA_2 (VPN)",СТС International
+http://192.162.64.99:4000/play/a05h/index.m3u8
+#EXTINF:-1 group-title="DELTA_2 (VPN)",Пятый канал
+http://192.162.64.99:4000/play/a00j/index.m3u8
+#EXTINF:-1 group-title="DELTA_2 (VPN)",ОТР
+http://192.162.64.99:4000/play/a03t/index.m3u8
+#EXTINF:-1 group-title="DELTA_2 (VPN)",ТВЦ
+http://192.162.64.99:4000/play/a00i/index.m3u8
+#EXTINF:-1 group-title="DELTA_2 (VPN)",Спас
+http://192.162.64.99:4000/play/a05c/index.m3u8
+#EXTINF:-1 group-title="DELTA_2 (VPN)",СТС
+http://192.162.64.99:4000/play/a00s/index.m3u8
+#EXTINF:-1 group-title="DELTA_2 (VPN)",Домашний
+http://192.162.64.99:4000/play/a00v/index.m3u8
+#EXTINF:-1 group-title="DELTA_2 (VPN)",ТВ3
+http://192.162.64.99:4000/play/a051/index.m3u8
+#EXTINF:-1 group-title="DELTA_2 (VPN)",Пятница
+http://192.162.64.99:4000/play/a027/index.m3u8
+#EXTINF:-1 group-title="DELTA_2 (VPN)",Звезда
+http://192.162.64.99:4000/play/a00o/index.m3u8
+#EXTINF:-1 group-title="DELTA_2 (VPN)",Мир
+http://192.162.64.99:4000/play/a05d/index.m3u8
+#EXTINF:-1 group-title="DELTA_2 (VPN)",Луганск 24
+http://192.162.64.99:4000/play/a00k/index.m3u8
+#EXTINF:-1 group-title="DELTA_2 (VPN)",РБК
+http://192.162.64.99:4000/play/a015/index.m3u8
+#EXTINF:-1 group-title="DELTA_2 (VPN)",Мир 24
+http://192.162.64.99:4000/play/a014/index.m3u8
+#EXTINF:-1 group-title="DELTA_2 (VPN)",Москва 24
+http://192.162.64.99:4000/play/a05j/index.m3u8
+#EXTINF:-1 group-title="DELTA_2 (VPN)",Москва Доверие
+http://192.162.64.99:4000/play/a03v/index.m3u8
+#EXTINF:-1 group-title="DELTA_2 (VPN)",360° НОВОСТИ
+http://192.162.64.99:4000/play/a00b/index.m3u8
+#EXTINF:-1 group-title="DELTA_2 (VPN)",360° Подмосковье
+http://192.162.64.99:4000/play/a05k/index.m3u8
+#EXTINF:-1 group-title="DELTA_2 (VPN)",Вместе-РФ
+http://192.162.64.99:4000/play/a04l/index.m3u8
+#EXTINF:-1 group-title="DELTA_2 (VPN)",Известия
+http://192.162.64.99:4000/play/a06a/index.m3u8
+#EXTINF:-1 group-title="DELTA_2 (VPN)",Соловьев.Live
+http://192.162.64.99:4000/play/a06d/index.m3u8
+#EXTINF:-1 group-title="DELTA_2 (VPN)",Союз
+http://192.162.64.99:4000/play/a056/index.m3u8
+#EXTINF:-1 group-title="DELTA_2 (VPN)",Продвижение
+http://192.162.64.99:4000/play/a06i/index.m3u8
+#EXTINF:-1 group-title="DELTA_2 (VPN)",Центральное телевидение
+http://192.162.64.99:4000/play/a05y/index.m3u8
+#EXTINF:-1 group-title="DELTA_2 (VPN)",Победа
+http://192.162.64.99:4000/play/a00p/index.m3u8
+#EXTINF:-1 group-title="DELTA_2 (VPN)",Суббота
+http://192.162.64.99:4000/play/a00w/index.m3u8
+#EXTINF:-1 group-title="DELTA_2 (VPN)",Ю
+http://192.162.64.99:4000/play/a00u/index.m3u8
+#EXTINF:-1 group-title="DELTA_2 (VPN)",СТС Love
+http://192.162.64.99:4000/play/a00t/index.m3u8
+#EXTINF:-1 group-title="DELTA_2 (VPN)",Че
+http://192.162.64.99:4000/play/a00r/index.m3u8
+#EXTINF:-1 group-title="DELTA_2 (VPN)",8 канал
+http://192.162.64.99:4000/play/a010/index.m3u8
+#EXTINF:-1 group-title="DELTA_2 (VPN)",Калейдоскоп ТВ
+http://192.162.64.99:4000/play/a03u/index.m3u8
+#EXTINF:-1 group-title="DELTA_2 (VPN)",Красная линия
+http://192.162.64.99:4000/play/a062/index.m3u8
+#EXTINF:-1 group-title="DELTA_2 (VPN)",ЛДПР ТВ
+http://192.162.64.99:4000/play/a061/index.m3u8
+#EXTINF:-1 group-title="DELTA_2 (VPN)",Точка ТВ
+http://192.162.64.99:4000/play/a06p/index.m3u8
+#EXTINF:-1 group-title="DELTA_2 (VPN)",Домашний
+http://192.162.64.99:4000/play/a05i/index.m3u8
+#EXTINF:-1 group-title="DELTA_2 (VPN)",Беларусь 24
+http://192.162.64.99:4000/play/a00n/index.m3u8
+#EXTINF:-1 group-title="DELTA_2 (VPN)",БелРос
+http://192.162.64.99:4000/play/a01l/index.m3u8
+#EXTINF:-1 group-title="DELTA_2 (VPN)",Первый Республиканский
+http://192.162.64.99:4000/play/a06q/index.m3u8
+#EXTINF:-1 group-title="DELTA_2 (VPN)",ОПЛОТ ТВ
+http://192.162.64.99:4000/play/a06k/index.m3u8
+#EXTINF:-1 group-title="DELTA_2 (VPN)",Крым 24
+http://192.162.64.99:4000/play/a069/index.m3u8
+#EXTINF:-1 group-title="DELTA_2 (VPN)",Первый крымский
+http://192.162.64.99:4000/play/a068/index.m3u8
+#EXTINF:-1 group-title="DELTA_2 (VPN)",Мир Белогорья
+http://192.162.64.99:4000/play/a06j/index.m3u8
+#EXTINF:-1 group-title="DELTA_2 (VPN)",Енисей
+http://192.162.64.99:4000/play/a06s/index.m3u8
+#EXTINF:-1 group-title="DELTA_2 (VPN)",2x2
+http://192.162.64.99:4000/play/a028/index.m3u8
+#EXTINF:-1 group-title="DELTA_2 (VPN)",Мульт
+http://192.162.64.99:4000/play/a026/index.m3u8
+#EXTINF:-1 group-title="DELTA_2 (VPN)",Карусель
+http://192.162.64.99:4000/play/a05b/index.m3u8
+#EXTINF:-1 group-title="DELTA_2 (VPN)",Детский мир
+http://192.162.64.99:4000/play/a06e/index.m3u8
+#EXTINF:-1 group-title="DELTA_2 (VPN)",Солнце
+http://192.162.64.99:4000/play/a057/index.m3u8
+#EXTINF:-1 group-title="DELTA_2 (VPN)",Уникум
+http://192.162.64.99:4000/play/a06f/index.m3u8
+#EXTINF:-1 group-title="DELTA_2 (VPN)",СТС Kids
+http://192.162.64.99:4000/play/a05q/index.m3u8
+#EXTINF:-1 group-title="DELTA_2 (VPN)",Жара
+http://192.162.64.99:4000/play/a06h/index.m3u8
+#EXTINF:-1 group-title="DELTA_2 (VPN)",МузСоюз
+http://192.162.64.99:4000/play/a05l/index.m3u8
+#EXTINF:-1 group-title="DELTA_2 (VPN)",МузТВ
+http://192.162.64.99:4000/play/a029/index.m3u8
+#EXTINF:-1 group-title="DELTA_2 (VPN)",ТНТ music
+http://192.162.64.99:4000/play/a058/index.m3u8
+#EXTINF:-1 group-title="DELTA_2 (VPN)",RU.TV
+http://192.162.64.99:4000/play/a05v/index.m3u8
+#EXTINF:-1 group-title="DELTA_2 (VPN)",Bridge TV
+http://192.162.64.99:4000/play/a03n/index.m3u8
+#EXTINF:-1 group-title="DELTA_2 (VPN)",Bridge TV hits
+http://192.162.64.99:4000/play/a05o/index.m3u8
+#EXTINF:-1 group-title="DELTA_2 (VPN)",Bridge TV Русский Хит
+http://192.162.64.99:4000/play/a05p/index.m3u8
+#EXTINF:-1 group-title="DELTA_2 (VPN)",Bridge TV Шлягер
+http://192.162.64.99:4000/play/a05r/index.m3u8
+#EXTINF:-1 group-title="DELTA_2 (VPN)",Bridge TV Fresh
+http://192.162.64.99:4000/play/a06r/index.m3u8
+#EXTINF:-1 group-title="DELTA_2 (VPN)",Bridge TV Classic
+http://192.162.64.99:4000/play/a05s/index.m3u8
+#EXTINF:-1 group-title="DELTA_2 (VPN)",Bridge TV Rock
+http://192.162.64.99:4000/play/a05t/index.m3u8
+#EXTINF:-1 group-title="DELTA_2 (VPN)",Baby Time
+http://192.162.64.99:4000/play/a05u/index.m3u8
+#EXTINF:-1 group-title="DELTA_2 (VPN)",Шансон TB
+http://192.162.64.99:4000/play/a067/index.m3u8
+#EXTINF:-1 group-title="DELTA_2 (VPN)",Страна FM
+http://192.162.64.99:4000/play/a06g/index.m3u8
+#EXTINF:-1 group-title="DELTA_2 (VPN)",Матч ТВ
+http://192.162.64.99:4000/play/a01j/index.m3u8
+
 
 
 #EXTINF:-1 group-title="АСАРТА (VPN)",Первый канал
