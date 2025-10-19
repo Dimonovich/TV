@@ -2474,7 +2474,7 @@ http://192.162.64.99:4000/play/a00z/index.m3u8
 http://192.162.64.99:4000/play/a00g/index.m3u8
 #EXTINF:-1 group-title="DELTA_2 (VPN)",Открытый мир
 http://192.162.64.99:4000/play/a06m/index.m3u8
-#EXTINF:-1 group-title="DELTA_2 (VPN)",ТНТ-International
+#EXTINF:-1 group-title="DELTA_2 (VPN)",ТНТ4 International
 http://192.162.64.99:4000/play/a00h/index.m3u8
 #EXTINF:-1 group-title="DELTA_2 (VPN)",5 канал International
 http://192.162.64.99:4000/play/a05e/index.m3u8
@@ -2566,7 +2566,7 @@ http://192.162.64.99:4000/play/a069/index.m3u8
 http://192.162.64.99:4000/play/a068/index.m3u8
 #EXTINF:-1 group-title="DELTA_2 (VPN)",Мир Белогорья
 http://192.162.64.99:4000/play/a06j/index.m3u8
-#EXTINF:-1 group-title="DELTA_2 (VPN)",Енисей
+#EXTINF:-1 group-title="DELTA_2 (VPN)" tvg-id="enisey-region",Енисей HD
 http://192.162.64.99:4000/play/a06s/index.m3u8
 #EXTINF:-1 group-title="DELTA_2 (VPN)",2x2
 http://192.162.64.99:4000/play/a028/index.m3u8
@@ -2608,10 +2608,8 @@ http://192.162.64.99:4000/play/a05s/index.m3u8
 http://192.162.64.99:4000/play/a05t/index.m3u8
 #EXTINF:-1 group-title="DELTA_2 (VPN)",Baby Time
 http://192.162.64.99:4000/play/a05u/index.m3u8
-#EXTINF:-1 group-title="DELTA_2 (VPN)",Шансон TB
+#EXTINF:-1 group-title="DELTA_2 (VPN)",Шансон ТВ
 http://192.162.64.99:4000/play/a067/index.m3u8
-#EXTINF:-1 group-title="DELTA_2 (VPN)",Страна FM
-http://192.162.64.99:4000/play/a06g/index.m3u8
 #EXTINF:-1 group-title="DELTA_2 (VPN)",Матч ТВ
 http://192.162.64.99:4000/play/a01j/index.m3u8
 
