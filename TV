@@ -450,6 +450,33 @@ https://river-1.rutube.ru/hls-vod/hdmi7D_BTNl1xJewbY94eQ/1761412872/1846/0x5000c
 
 
 
+#EXTINF:-1 group-title="Индиго Таджикистан", Animal_Planet
+http://109.75.59.241:8017/Animal_Planet/index.m3u8
+#EXTINF:-1 group-title="Индиго Таджикистан", Big Planet
+http://109.75.59.241:8017/BigPlanet/index.m3u8
+#EXTINF:-1 group-title="Индиго Таджикистан", Investigation Discovery
+http://109.75.59.241:8017/ID/index.m3u8
+#EXTINF:-1 group-title="Индиго Таджикистан", Discovery Channel
+http://109.75.59.241:8017/Discovery/index.m3u8
+#EXTINF:-1 group-title="Индиго Таджикистан", Дом Кино Премиум
+http://109.75.59.241:8017/Domkino/index.m3u8
+#EXTINF:-1 group-title="Индиго Таджикистан", Дорама
+http://109.75.59.241:8017/Dorama/index.m3u8
+#EXTINF:-1 group-title="Индиго Таджикистан", Кинокомедия
+http://109.75.59.241:8017/Kinokomediya/index.m3u8
+#EXTINF:-1 group-title="Индиго Таджикистан", Киносерия
+http://109.75.59.241:8017/Kinoseriya/index.m3u8
+#EXTINF:-1 group-title="Индиго Таджикистан", Киноужас
+http://109.75.59.241:8017/Kinouzhas/index.m3u8
+#EXTINF:-1 group-title="Индиго Таджикистан", TLC
+http://109.75.59.241:8017/TLC/index.m3u8
+#EXTINF:-1 group-title="Индиго Таджикистан", Удар
+http://109.75.59.241:8017/Udar/index.m3u8
+#EXTINF:-1 group-title="Индиго Таджикистан", Бокс ТВ
+http://109.75.59.241:8017/Boks/index.m3u8
+
+
+
 
 #EXTINF:-1 group-title="Маяк Нетворк",Первый канал HD
 http://iptv46.mcx-ix.ru:8077/ort_hd/index.m3u8
