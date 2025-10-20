@@ -4,6 +4,8 @@
 
 #EXTINF:-1, Россия 1
 http://levshanov.tlkf.ru/iptv/rossija/16/tvrecw/playlist.m3u8
+#EXTINF:-1,РЕН-ТВ
+http://levshanov.tlkf.ru/iptv/rentv/16/g2500/playlist.m3u8
 
 #EXTINF:-1 group-title="Rutube (VPN)",Rutube TV
 https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=wa-nKpMWW9o994GMTKPmKA&e=1761029509&scheme=https
