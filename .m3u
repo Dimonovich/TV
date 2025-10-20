@@ -2,6 +2,10 @@
 
 
 
+#EXT-INETRA-CHANNEL-INF: channel-id=123495273 age-restriction=16 territory-id=16
+#EXT-INETRA-STREAM-INF: id=4282 aspect-ratio=16:9 provider-id=2 audio-language="ru" subtitles-language="ru"
+#EXTINF:-1 cn-id=123495273 group-title="Познавательный", Большая Азия
+http://levshanov.tlkf.ru/iptv/bolshaya_aziya/16/tvrecw/playlist.m3u8
 
 #EXTINF:-1 group-title="Rutube (VPN)",Rutube TV
 https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=wa-nKpMWW9o994GMTKPmKA&e=1761029509&scheme=https
