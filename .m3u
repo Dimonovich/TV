@@ -6,6 +6,12 @@
 http://levshanov.tlkf.ru/iptv/rossija/16/tvrecw/playlist.m3u8
 #EXTINF:-1,РЕН-ТВ
 http://levshanov.tlkf.ru/iptv/rentv/16/g2500/playlist.m3u8
+#EXTINF:-1, НТВ-Право
+http://levshanov.tlkf.ru/iptv/ntv_pravo/16/tvrecw/playlist.m3u8
+#EXTINF:-1, НТВ-Стиль
+http://levshanov.tlkf.ru/iptv/ntv_stil/16/copy/playlist.m3u8
+#EXTINF:-1, НТВ-Сериал
+http://levshanov.tlkf.ru/iptv/ntv_serial/16/tvrecw/playlist.m3u8
 
 #EXTINF:-1 group-title="Rutube (VPN)",Rutube TV
 https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=wa-nKpMWW9o994GMTKPmKA&e=1761029509&scheme=https
@@ -13,17 +19,17 @@ https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=wa
 https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=yM6k_FyodEqFJMd2jtsCXQ&e=1761029510&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",НТВ HD
 https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=vYmrA7JKuLlm-ir1PHxUjQ&e=1761029511&scheme=https
-#EXTINF:-1 group-title="Rutube (VPN)",ТНТ HD
+#EXTINF:-1 group-title="Rutube (VPN)",ТНТ
 https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=yrZvDCQ1zEwq73gREOKQSg&e=1761029512&scheme=https
-#EXTINF:-1 group-title="Rutube (VPN)",ТНТ4 HD
+#EXTINF:-1 group-title="Rutube (VPN)",ТНТ4
 https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=5cbBaYW9EJDC_vhxSxAzwA&e=1761029513&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Пятница HD
 https://bl.rutube.ru/livestream/9f87a9a0cecbe773be6fddcbd93585ac/index.m3u8?s=_WXjXFxyXNPXTTYq-A0a8A&e=1761029514&scheme=https
-#EXTINF:-1 group-title="Rutube (VPN)",ТВ3 HD
+#EXTINF:-1 group-title="Rutube (VPN)",ТВ3
 https://bl.rutube.ru/livestream/7bf12d9c050f9a7ef3728db5730432ae/index.m3u8?s=8ARgH6A__-r5WmNSyLs5Gg&e=1761029514&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",2x2
 https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?s=ydLFUKHE52YGTOj17T9Y5A&e=1761029515&scheme=https
-#EXTINF:-1 group-title="Rutube (VPN)",Суббота
+#EXTINF:-1 group-title="Rutube (VPN)",Суббота!
 https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=4_rL_lYEZshPL-t4sKzXBg&e=1761029516&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Ю
 https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?s=SxpXm_6TQ3cSgcrcpc2oxQ&e=1761029517&scheme=https
@@ -261,6 +267,8 @@ https://vod.splay.uz/live_splay/original/Kinokomediya/tracks-v1a1/mono.m3u8
 https://vod.splay.uz/live_splay/original/Nashe_novoe_kino/tracks-v1a1/mono.m3u8
 
 
+#EXTINF:-1, Silk Way Cinema
+http://levshanov.tlkf.ru/iptv/silk_way_cinema/16/copy_a/playlist.m3u8
 #EXTINF:-1, black
 http://levshanov.tlkf.ru/iptv/sony_turbo/16/tvrecw/playlist.m3u8
 #EXTINF:-1, red
@@ -268,7 +276,12 @@ http://levshanov.tlkf.ru/iptv/set/16/tvrecw/playlist.m3u8
 #EXTINF:-1, sci-fi
 http://levshanov.tlkf.ru/iptv/sonyscifi/16/gvh1w/playlist.m3u8
 
-EXTINF:-1 ,Квадро HD
+
+#EXTINF:-1 ,Наша Сибирь
+http://levshanov.tlkf.ru/iptv/nasha_sibir/16/copy_a/playlist.m3u8
+#EXTINF:-1 ,АРТ ТВ
+http://levshanov.tlkf.ru/iptv/art_tv/16/copy_a/playlist.m3u8
+#EXTINF:-1 ,Квадро HD
 http://levshanov.tlkf.ru/iptv/kvadro_hd/16/copy_a/playlist.m3u8
 #EXTINF:-1 ,The Explorers
 http://levshanov.tlkf.ru/iptv/the_explorers/16/tvrecw/playlist.m3u8
