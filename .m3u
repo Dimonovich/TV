@@ -233,6 +233,14 @@ https://bl.rutube.ru/livestream/e1f44e12c1a91dc164828923dee24ae0/index.m3u8?s=0K
 https://bl.rutube.ru/livestream/eac1e371fbb6ab680d0176d472c04089/index.m3u8?s=bBqLagSrXVm3xNzn9_l89w&e=1761029582&scheme=https
 
 
+#EXTINF:-1, BRIDGE
+http://levshanov.tlkf.ru/iptv/bridge/16/tvrecw/playlist.m3u8
+#EXTINF:-1, BRIDGE РУССКИЙ ХИТ
+http://levshanov.tlkf.ru/iptv/rusong_tv/16/vh1/playlist.m3u8
+#EXTINF:-1, BRIDGE HITS
+http://levshanov.tlkf.ru/iptv/dange_tv/16/tvrecw/playlist.m3u8
+
+
 #EXTINF:-1 ,Кинопремьера
 https://vod.splay.uz/live_splay/original/Kinopremera/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Киносемья
@@ -251,6 +259,14 @@ https://vod.splay.uz/live_splay/original/KinomiksHD/tracks-v1a1/mono.m3u8
 https://vod.splay.uz/live_splay/original/Kinokomediya/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Наше новое кино
 https://vod.splay.uz/live_splay/original/Nashe_novoe_kino/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1, black
+http://levshanov.tlkf.ru/iptv/sony_turbo/16/tvrecw/playlist.m3u8
+#EXTINF:-1, red
+http://levshanov.tlkf.ru/iptv/set/16/tvrecw/playlist.m3u8
+#EXTINF:-1, sci-fi
+http://levshanov.tlkf.ru/iptv/sonyscifi/16/gvh1w/playlist.m3u8
 
 EXTINF:-1 ,Квадро HD
 http://levshanov.tlkf.ru/iptv/kvadro_hd/16/copy_a/playlist.m3u8
