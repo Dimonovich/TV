@@ -3,7 +3,7 @@
   {
     "server": "51.178.43.237",
     "server_port": 8443,
-    "password": "Fey/aXC89V7N17C6aqFDQTvXvACMwpBV58Y06+M7DXw=",
+    "password": "xL2z55pQG3Ol8us7hiTOxSkzD6vm3BlbsgymBrcnmwA=",
     "method": "aes-256-gcm",
     "remarks": "🇫🇷 Франция (Android TV + Free TV)",
     "route": "all",
@@ -33,7 +33,7 @@
   {
     "server": "57.128.219.94",
     "server_port": 8443,
-    "password": "GKoYODwwbSEz18DsVoOvrNITrkNjTWgU8GANLgbe3GY=",
+    "password": "ySVl4V4lgSQYVutWFKQUm2IdI7JD6MYKkRBbKq9DgWk=",
     "method": "aes-256-gcm",
     "remarks": "🇵🇱 Польша 2 (Android TV + Free TV)",
     "route": "all",
@@ -63,7 +63,7 @@
   {
     "server": "51.195.101.239",
     "server_port": 8443,
-    "password": "XAxsFBAYw7nCk8OSw4p5KHMvwrhawodbw7TDvkxFeDxjUsKVUjZcYcKU",
+    "password": "bMKowpvCpk7DtsK+woUyLCFSMsOdw59xwrnDpUHCoDpYw4bDtcKmasOxKmdRNh8=",
     "method": "aes-256-gcm",
     "remarks": "🇩🇪 Германия (Android TV + Free TV)",
     "route": "all",
@@ -78,7 +78,7 @@
   {
     "server": "54.36.162.84",
     "server_port": 8443,
-    "password": "RsKMfsKOcMOpw5vDiDsxScKXbcKgYcKvwoBCSMK4wpoHw5DCqkvDg0Z2w7xkw4XCsQ==",
+    "password": "e8K+wr/CpHhfaMKUeMKOCW5mBy7CkcKtw5DDvsO8csKjw6XDnE/CoAPDmMOGGic+",
     "method": "aes-256-gcm",
     "remarks": "🇬🇧 Великобритания (Android TV + Free TV)",
     "route": "all",
@@ -93,7 +93,7 @@
   {
     "server": "51.195.202.129",
     "server_port": 8443,
-    "password": "c71d954d-1229-4d4e-8795-a50235077741",
+    "password": "3843020d-3ad2-4419-adf5-b78ba85e0615",
     "method": "aes-256-gcm",
     "remarks": "🇬🇧 Великобритания 2 (Android TV + Free TV)",
     "route": "all",
@@ -106,10 +106,10 @@
     "udpdns": false
   },
   {
-    "server": "164.90.202.94",
-    "server_port": 8443,
-    "password": "XniDH0WEQ5Av5+TfCRT0BkEurxVYTAuNiGNwBXYtr0U=",
-    "method": "aes-256-gcm",
+    "server": "193.29.139.157",
+    "server_port": 8080,
+    "password": "4a2rfixophdjffa8KVA4Aa",
+    "method": "chacha20-ietf-poly1305",
     "remarks": "🇳🇱 Нидерланды 2 NEW (Android TV + Free TV)",
     "route": "all",
     "remote_dns": "one.one.one.one",
