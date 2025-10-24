@@ -198,6 +198,28 @@ http://95.163.85.128/streams/media/karusel_720x576/index.m3u8
 http://95.163.85.128/streams/media/muzyka-pervogo_720x576/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)", ТВЦ
 http://95.163.85.128/streams/media/tv-centr_720x576/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Kernel TV Буба
+http://87.228.29.202:8095/KERNEL_BUBA/index.m3u8?token=kernelhome
+#EXTINF:-1 group-title="TEST (VPN)",Kernel TV Утиные истории
+http://87.228.29.202:8095/KERNEL_DUCTLES/index.m3u8?token=kernelhome
+#EXTINF:-1 group-title="TEST (VPN)",Kernel TV Интерны
+http://87.228.29.202:8095/KERNEL_INTERNY/index.m3u8?token=kernelhome
+#EXTINF:-1 group-title="TEST (VPN)",Kernel TV Лунтик
+http://87.228.29.202:8095/KERNEL_LUNTIK/index.m3u8?token=kernelhome
+#EXTINF:-1 group-title="TEST (VPN)",Kernel TV Ми-ми-мишки
+http://87.228.29.202:8095/KERNEL_MIMIMIHKI/index.m3u8?token=kernelhome
+#EXTINF:-1 group-title="TEST (VPN)",Kernel TV Сваты
+http://87.228.29.202:8095/KERNEL_SVATY/index.m3u8?token=kernelhome
+#EXTINF:-1 group-title="TEST (VPN)",SkyCam Catastrophe
+http://87.228.29.202:8095/SKYCAM_CATASTROPHE/index.m3u8?token=kernelhome
+#EXTINF:-1 group-title="TEST (VPN)",SkyCam Horrors
+http://87.228.29.202:8095/SKYCAM_HORRORS/index.m3u8?token=kernelhome
+#EXTINF:-1 group-title="TEST (VPN)",SkyCam Relax
+http://87.228.29.202:8095/SKYCAM_RELAX/index.m3u8?token=kernelhome
+#EXTINF:-1 group-title="TEST (VPN)",SkyCam Romantic
+http://87.228.29.202:8095/SKYCAM_ROMANTIC/index.m3u8?token=kernelhome
+#EXTINF:-1 group-title="TEST (VPN)",SkyCam Victory
+http://87.228.29.202:8095/SKYCAM_VICTORY/index.m3u8?token=kernelhome
 #EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://i.postimg.cc/Rh516HVw/1.png", IPTVPLAY МультСказки HD
 http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://i.postimg.cc/mDMCsgNL/1.png", IPTVPLAY ВЕДЬМАК
