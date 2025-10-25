@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="🔺 INFO 🔺" tvg-logo="https://i.postimg.cc/50Wp1JKc/433d83f7e481f35245f8c6bb7c7591d8.gif",19.10.2025
+#EXTINF:-1 group-title="🔺 INFO 🔺" tvg-logo="https://i.postimg.cc/50Wp1JKc/433d83f7e481f35245f8c6bb7c7591d8.gif",25.10.2025
 http://194.26.229.213/zastavka/index.m3u8
 #EXTINF:-1 group-title="🔺 INFO 🔺" tvg-logo="https://i.postimg.cc/nrj0J6Dj/1.png",Android TV + Free TV
 http://194.26.229.213/intro/index.m3u8
@@ -12,346 +12,336 @@ https://github.com/Dimonovich/TV/releases/download/v1.0.0/1.mp4
 
 
 
+#EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-10-20/f4/c4/f4c4534ec8e32c0356ba75bc54d9e44a.jpg", Кей-поп-охотницы на демонов (2025)
+https://river-1.rutube.ru/hls-vod/iX_P30AKXuoFsf_6kRqXYQ/1762011294/3338/0x5000c500e9ec2fd8/5b1fe16625544065944cc1252baf1202.mp4.m3u8?i=1920x1080_2126
+#EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-10-21/7f/b1/7fb186f04d0946e2c149ae9eb9a5d2e2.jpg", Супруги Роуз (2025)
+https://river-1.rutube.ru/hls-vod/ikoqSOKUfnAntZhslp9fYw/1762011296/2223/0x5000c500c97ca33c/53e01ed5d2094248822d56b92903fae2.mp4.m3u8?i=1920x1040_2862
+#EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-10-19/cc/2c/cc2c8fa90679e0cf404e2783d9f36fd8.jpg", Зверь войны (2025)
+https://river-1.rutube.ru/hls-vod/-V_gEisbrkRYyoDj0nR45Q/1762011297/3302/0x5000c500e9cf55ba/f313b7c9b1cd44f9afff46d7c6257479.mp4.m3u8?i=848x352_410
+#EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-10-19/fc/55/fc551030455a504614ba139e279a0b4e.jpg", Свинтусы (2025)
+https://river-1.rutube.ru/hls-vod/saL9Yte5ur63j4MFN-wI9A/1762011298/3276/0x5000c500fa774e82/0208a058cc8a4213a4c717d6a9513700.mp4.m3u8?i=1920x1080_3245
+#EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-10-19/50/28/5028b8dd6de8061a433094431debfe7c.jpg", Хорошие новости (2025)
+https://river-1.rutube.ru/hls-vod/NlRqFHtCnR0Eqa6l_WnYYw/1762011299/2730/0x5000039ce868901d/1f4526d8ebc54a1f947d8a71e99d2ea9.mp4.m3u8?i=1920x1080_2612
+#EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-10-19/5f/6d/5f6d6b076d580f174ba0257d77991910.jpg", Наша вина (2025)
+https://river-1.rutube.ru/hls-vod/pIis7g9RJnJKxeNwww8Krg/1762011300/3350/0x5000c500e9ebbd13/948f68aaeaf542eca2ca306dc83a8cf7.mp4.m3u8?i=1920x960_3360
+#EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-10-20/c4/8a/c48a9c77779b5a28d0bbc93bd3e27487.jpg", Неукротимый (2025)
+https://river-1.rutube.ru/hls-vod/1dYzAh2x6TWUHzEM6vCasw/1762011301/3368/0x5000c500fa6e8d63/3417726637394d54a0850f6c67604e0a.mp4.m3u8?i=848x456_573
+#EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-10-21/2c/3c/2c3c530ef4df4646e11cbdfaf324145f.jpg", Моя дочь – зомби (2025)
+https://river-1.rutube.ru/hls-vod/16DzG8H6h1q1aCua3tyOHA/1762011302/2672/0x5000039ce838b4d1/ab83038a4e49453bbdba731ebb686b2a.mp4.m3u8?i=1920x1080_2181
+#EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-10-21/51/fd/51fd32b9c085edf769388b3b3321c99e.jpg", Игра с призраком (2025)
+https://river-1.rutube.ru/hls-vod/aoUr5E4guiwTeD3UOj8WjA/1762011302/3322/0x5000c500e9cf5484/4ce5d39b7d9d44eb96c25f854705cfcf.mp4.m3u8?i=1920x1080_1362
+#EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-10-21/de/da/dedabc1083cc14009540571ceb90e676.jpg", Поехавший (2025)
+https://river-1.rutube.ru/hls-vod/4TAVm_8fg4JbCTwRQkfAAQ/1762011303/2686/0x5000039ce83bf4b1/07c1d1bc95ee4d9cbf00c70463be7bb0.mp4.m3u8?i=1920x800_3071
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-10-13/1b/51/1b51c0d1c7503d744670560d785517b6.jpg", Девушка из каюты №10 (2025)
-https://river-1.rutube.ru/hls-vod/Y2477X6hCMNTDCB_yAajMQ/1761412459/3348/0x5000c500fa77ecb4/91ac76e041c64cc4b6dc39c22ed6efc3.mp4.m3u8?i=3840x2160_3577
+https://river-1.rutube.ru/hls-vod/5t5Kyzp6VZ-EuCVqfchnNw/1762011304/3362/0x5000c500fa6ffed8/91ac76e041c64cc4b6dc39c22ed6efc3.mp4.m3u8?i=3840x2160_3577
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-10-13/22/3e/223e720a4dbc4cef890353a4f6a5cb52.jpg", Французский любовник (2025)
-https://river-1.rutube.ru/hls-vod/MLTc-w5pyXae0vxIt_NhlA/1761412460/2688/0x5000039ce839a22d/38ed8de7ec274c149ebc0abdae6b96e4.mp4.m3u8?i=1920x1080_2846
+https://river-1.rutube.ru/hls-vod/4mYStRjuQdBJhktnLRRfbQ/1762011305/3398/0x5000c500fa783af6/38ed8de7ec274c149ebc0abdae6b96e4.mp4.m3u8?i=1920x1080_2846
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-10-13/70/c9/70c92de4f3589849aa144f1cdff18c9f.jpg", Останься (2025)
-https://river-1.rutube.ru/hls-vod/DmVzr1Wm3d3hfgTDHRWmuw/1761412461/3360/0x5000c500fa6e91f4/17c0f8e77d9b48a891f23cd8a75d7d0a.mp4.m3u8?i=3840x2160_5838
+https://river-1.rutube.ru/hls-vod/F-t5AYlFKqwRkLtzboOepQ/1762011306/3360/0x5000c500fa6e91f4/17c0f8e77d9b48a891f23cd8a75d7d0a.mp4.m3u8?i=3840x2160_5838
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-10-13/21/b5/21b59f64b0b1c4ab95f4a23215e28b06.jpg", То что ты убиваешь (2025)
-https://river-1.rutube.ru/hls-vod/8Q5MMn4Mi-wh0WmaYLPLCg/1761412462/2716/0x5000039ce863c3fd/4a73ec3e705b43d7aaa9a959d8257cea.mp4.m3u8?i=848x456_600
+https://river-1.rutube.ru/hls-vod/AXS49GniM-tadyI1pXOsAQ/1762011307/2716/0x5000039ce863c3fd/4a73ec3e705b43d7aaa9a959d8257cea.mp4.m3u8?i=848x456_600
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-10-14/18/10/18107017370d4490b38d2dee80787860.jpg", Другая (2025)
-https://river-1.rutube.ru/hls-vod/PXlQV1Dmzf88Pe1KxmFZZw/1761412463/2690/0x5000039ce8694141/324f80b9cce8445d8edb20fcde8364f1.mp4.m3u8?i=1280x536_1070
+https://river-1.rutube.ru/hls-vod/TZjoAUL8AycrB0ZMgRjXJA/1762011308/2690/0x5000039ce8694141/324f80b9cce8445d8edb20fcde8364f1.mp4.m3u8?i=1280x536_1070
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-10-14/61/e0/61e08dd572b93dd2c7ab662e078d74f3.jpg", Большое смелое красивое путешествие (2025)
-https://river-1.rutube.ru/hls-vod/EsOVsMtGxEWBMVu-RASyMg/1761412464/3356/0x5000c500fa778c43/396410e234f74ece83614aa8b89e2647.mp4.m3u8?i=1280x640_932
-#EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-10-17/f3/38/f338db42cd194fa9fd1ffe44506d4650.jpg", Машина времени в текиле (2025)
-https://river-1.rutube.ru/hls-vod/CHG3KvAwG72EyNE2rqj9tw/1761412464/3268/0x5000c500c7ae5677/31b10236bcd14f478557e0677f70de44.mp4.m3u8?i=1920x1080_1844
+https://river-1.rutube.ru/hls-vod/TIQ5H65qroGRpcf_iXtmvw/1762011309/3332/0x5000c500e9e37670/396410e234f74ece83614aa8b89e2647.mp4.m3u8?i=1280x640_932
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-10-11/47/15/47152a23384637ab7f4e5495f63ea9f9.jpg", Карамело (2025)
-https://river-1.rutube.ru/hls-vod/RIkOkmYjeuJzA1SDFP51cg/1761412466/3344/0x5000c500e9cf3067/1f6a6a0c32b04f31a7364fae2f278505.mp4.m3u8?i=1920x1080_2715
+https://river-1.rutube.ru/hls-vod/EyGSwce99Y_O1QzJvrd4KA/1762011311/3344/0x5000c500e9cf3067/1f6a6a0c32b04f31a7364fae2f278505.mp4.m3u8?i=1920x1080_2715
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-10-08/35/9f/359f2c3af4110ffcf7783fc37b8c7047.jpg", Без близнеца (2025)
-https://river-1.rutube.ru/hls-vod/PuQJGJCq-z7smZIUupaBPw/1761412466/3298/0x5000c500e9cf2e73/ae447cbd7edf406e80206263bf9d2440.mp4.m3u8?i=1920x1040_3118
+https://river-1.rutube.ru/hls-vod/Nw0Eac6AdByrt0xBcYIBwA/1762011312/2724/0x5000039ce8635c85/ae447cbd7edf406e80206263bf9d2440.mp4.m3u8?i=1920x1040_3118
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-10-09/9c/82/9c8247d9eadf1a84725a0b39f7719a6f.jpg", З/Л/О: Хэллоуин (2025)
-https://river-1.rutube.ru/hls-vod/uUZF5fJ84vNuNQx1VC_42w/1761412467/3400/0x5000c500fa779a8b/c238a6a746d54a668268883a6a5dbbd0.mp4.m3u8?i=1920x1080_4459
+https://river-1.rutube.ru/hls-vod/mrQ-3MIRzxfTFJD1ldQuvA/1762011313/3300/0x5000c500e9ec2cfd/c238a6a746d54a668268883a6a5dbbd0.mp4.m3u8?i=1920x1080_4459
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-10-10/68/33/68330d92723f84c0c1c24e2dc747a58e.jpg", Чудаки из Балтимора (2025)
-https://river-1.rutube.ru/hls-vod/Idey9F0GZN3wUo1xN2beBQ/1761412468/2710/0x5000039ce839b50d/ffb57fe27b3e4ceca01c4288e852ec85.mp4.m3u8?i=1920x1080_3072
+https://river-1.rutube.ru/hls-vod/MbR0zTh2pe78lYxZADmyWA/1762011314/2710/0x5000039ce839b50d/ffb57fe27b3e4ceca01c4288e852ec85.mp4.m3u8?i=1920x1080_3072
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-10-10/26/14/2614b1d1179f7e302b6bfb6ed6c6e177.jpg", Требуется ремонт (2025)
-https://river-1.rutube.ru/hls-vod/U-cOtQxyO6yWgj7p33sqsA/1761412469/3258/0x5000c500e9ebf060/0f16c19d4d854e33a7fc3eca640e77ff.mp4.m3u8?i=848x352_835
+https://river-1.rutube.ru/hls-vod/vlmG4dnc7q4VbetSCxw31Q/1762011315/3356/0x5000c500fa77ce40/0f16c19d4d854e33a7fc3eca640e77ff.mp4.m3u8?i=848x352_835
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-10-11/b6/ba/b6bade5f2326d31fa444c3c2b3af4c33.jpg", Порочный круг (2025)
-https://river-1.rutube.ru/hls-vod/SZstvymTc6_XsWwXQsa-UQ/1761412470/1871/0x5000c500e51166de/335a44d8f61e4b26afbe83e89ba6a9fd.mp4.m3u8?i=1920x1080_1149
+https://river-1.rutube.ru/hls-vod/_JNfpurafIK_3ICxQR49RQ/1762011316/1871/0x5000c500e51166de/335a44d8f61e4b26afbe83e89ba6a9fd.mp4.m3u8?i=1920x1080_1149
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-10-11/cb/63/cb636e490f2a5da3422c7fb7eec113a7.jpg", Девушка из каюты №10 (2025)
-https://river-1.rutube.ru/hls-vod/2mR3jWX0IX93nOrOBT8tmw/1761412471/3314/0x5000c50074475c5d/8bae6dfac5094401a31e437485ffe09c.mp4.m3u8?i=1920x1080_1897
+https://river-1.rutube.ru/hls-vod/u_HQvX9FyVOQKg9BqzxwOQ/1762011317/1840/0x5000c500dc59a639/8bae6dfac5094401a31e437485ffe09c.mp4.m3u8?i=1920x1080_1897
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-10-11/b8/f2/b8f23e0a03e0ef114f102051cf6a1753.jpg", Проклятие пустоши (2025)
-https://river-1.rutube.ru/hls-vod/u0izSK-dj8wL0unZixU1pw/1761412472/3398/0x5000c500fa6e41ea/2b30d926e70344e8ac16558e7ff4885d.mp4.m3u8?i=1920x1040_1953
+https://river-1.rutube.ru/hls-vod/4JTzd3e2p4SMvx3PJeBGxg/1762011318/3398/0x5000c500fa6e41ea/2b30d926e70344e8ac16558e7ff4885d.mp4.m3u8?i=1920x1040_1953
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-10-05/f8/7c/f87ce408ea9db3631d6ac5327f9d38cc.jpg", Аббатство Даунтон 3 (2025)
-https://river-1.rutube.ru/hls-vod/ob6iJqZV31XzHTNNbvrs5g/1761412473/3334/0x5000c500e9e3784c/d463256c152a4a4fa3dbc1b93cbd7439.mp4.m3u8?i=2560x1072_2699
+https://river-1.rutube.ru/hls-vod/ImyCQZFYbCLVi2B3uUM1lQ/1762011319/3334/0x5000c500e9e3784c/d463256c152a4a4fa3dbc1b93cbd7439.mp4.m3u8?i=2560x1072_2699
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-10-06/e6/d7/e6d715da47139a39e5d64bbc96cc8bfb.jpg", Стив (2025)
-https://river-1.rutube.ru/hls-vod/AG1rAfSi_J1peIeDL9l87A/1761412474/1863/0x5000c500e5394d4c/c5a3b535749f41c596dec72c7703fbff.mp4.m3u8?i=1920x1080_4000
+https://river-1.rutube.ru/hls-vod/Vj5BSvMcSwgDyB5Pi6VCvg/1762011320/3356/0x5000c500fa77ce40/c5a3b535749f41c596dec72c7703fbff.mp4.m3u8?i=1920x1080_4000
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-10-06/c6/90/c690a90871ce8c0278c4a26e7133b0d0.jpg", Код 3 (2025)
-https://river-1.rutube.ru/hls-vod/FBey2XbMgRB_Ikkc5k25vg/1761412475/3394/0x5000c500fa6e76a3/1eae7572ba2b45b186862b3d5088bb83.mp4.m3u8?i=1920x800_2400
+https://river-1.rutube.ru/hls-vod/97x1rXEvINNR5JgCyc42Gw/1762011321/3394/0x5000c500fa6e76a3/1eae7572ba2b45b186862b3d5088bb83.mp4.m3u8?i=1920x800_2400
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-10-07/37/3d/373d912bd31f159f895884f100afbed9.jpg", Заклятие 4: Последний обряд (2025)
-https://river-1.rutube.ru/hls-vod/qRVqrESUAZyuXdXgJ8ZPwA/1761412476/3266/0x5000c500e9d00623/65b6e0d082fb4b4892482dcf62f46bb8.mp4.m3u8?i=3840x1600_9308
+https://river-1.rutube.ru/hls-vod/W-dhPgH93Jh73c_PO_1ong/1762011322/3266/0x5000c500e9d00623/65b6e0d082fb4b4892482dcf62f46bb8.mp4.m3u8?i=3840x1600_9308
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-10-08/c4/8f/c48f59c6a65700cef9fb8f7c1750a34c.jpg", Чумовая пятница 2 (2025)
-https://river-1.rutube.ru/hls-vod/M_B_D0pWbOfeS9u40i29rQ/1761412477/3276/0x5000c500fa776f6b/b60255b806ba4e2f91431da5994994da.mp4.m3u8?i=3840x1608_8812
+https://river-1.rutube.ru/hls-vod/6T7BsoK_1gGvwATiZ-4J3g/1762011323/3300/0x5000c500e9c4e891/936ec3c6a4224f6da48428a06e4f9113.mp4.m3u8?i=2560x1072_4796
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-10-08/42/63/4263545a3b4da8a8fdfea9b1e54a2f66.jpg", Влечение (2025)
-https://river-1.rutube.ru/hls-vod/NcNnFqMmakkSUgIcfLh0Mw/1761412478/2700/0x5000039ce838d1e1/d5732961ddc54e629baf722929713d2c.mp4.m3u8?i=1920x800_3067
+https://river-1.rutube.ru/hls-vod/6kv7gTQFRKdqXJnyNCNS6A/1762011324/3280/0x5000c500fa776b4e/d5732961ddc54e629baf722929713d2c.mp4.m3u8?i=1920x800_3067
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-10-09/8c/47/8c474adb5f424ad2b8207aed3013bcbd.jpg", Тот самый (2025)
-https://river-1.rutube.ru/hls-vod/CkVIVvmys0IPZ4hyJJ50UA/1761412478/3404/0x5000c500c827e1b1/0a08b41a943746879b25e346a618e074.mp4.m3u8?i=3840x2160_7835
+https://river-1.rutube.ru/hls-vod/4XQPlfOMFU9JPQ04zwQU4A/1762011325/3320/0x5000c500e9ebd96f/67167a18e94547eeb70138ee1fb96936.mp4.m3u8?i=1920x1080_2018
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-09-21/bd/85/bd85453f304f23df4edbb0d5a40afc14.jpg", Военнопленный (2025)
-https://river-1.rutube.ru/hls-vod/-CP5JW5SKKfbXIdaNG8soQ/1761412479/3344/0x5000c500e9cf5500/587efc180fec444a81cad31014c6d3c1.mp4.m3u8?i=1920x800_2778
+https://river-1.rutube.ru/hls-vod/Aw7yj4CfNZm4M2NECHb-mQ/1762011326/3344/0x5000c500e9cf5500/587efc180fec444a81cad31014c6d3c1.mp4.m3u8?i=1920x800_2778
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-09-27/62/2a/622af778f0d0e884138a3c96fe98b760.jpg", Все дьяволы здесь (2025)
-https://river-1.rutube.ru/hls-vod/dsYoh1z1aMO2MCqgccoWzg/1761412480/3276/0x5000c500fa77795d/812b41fed4344dd6bea359d25d359223.mp4.m3u8?i=1920x1080_915
+https://river-1.rutube.ru/hls-vod/7z31VtZT9SkaAxVcca1FAQ/1762011327/3276/0x5000c500fa77795d/812b41fed4344dd6bea359d25d359223.mp4.m3u8?i=1920x1080_915
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-09-27/2c/2b/2c2bc82a8e730d21c0f6d9fe121a9207.jpg", Мужчина у меня в подвале (2025)
-https://river-1.rutube.ru/hls-vod/29LMcWZ4c4_fsKfgSH5-Dg/1761412481/2710/0x5000039ce8382ebd/5a3bf01d534f46ccb3c4276de6e7b3a7.mp4.m3u8?i=1920x1080_1532
+https://river-1.rutube.ru/hls-vod/RAdHgWL0GshsJxTv7XyMHQ/1762011328/3354/0x5000c500e9cdd94e/5a3bf01d534f46ccb3c4276de6e7b3a7.mp4.m3u8?i=1920x1080_1532
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-10-02/d2/a9/d2a9b3a42c5d79e290f51f372db6ecc0.jpg", Грязная игра (2025)
-https://river-1.rutube.ru/hls-vod/Uvwo8gDf44B5gOMz_w6hpQ/1761412482/3288/0x5000c500fa77fd5c/72d20a5311114a09991f12c08c59e0c1.mp4.m3u8?i=1920x800_2529
+https://river-1.rutube.ru/hls-vod/GJvCHje4deSpKL9tdIodtg/1762011329/3288/0x5000c500fa77fd5c/72d20a5311114a09991f12c08c59e0c1.mp4.m3u8?i=1920x800_2529
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-10-02/5a/47/5a47d018aa469c5197005ba58255e74b.jpg", Пойман с поличным (2025)
-https://river-1.rutube.ru/hls-vod/TClfbYWuQbCOUPSCf61r_w/1761412483/2662/0x5000039ce840181d/9921048e926148f8842733ba61b1a71f.mp4.m3u8?i=3840x2072_8551
+https://river-1.rutube.ru/hls-vod/RetYd3VWCmaHzU5DS9ChzA/1762011330/3304/0x5000c500e9cfb86d/9921048e926148f8842733ba61b1a71f.mp4.m3u8?i=3840x2072_8551
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-10-03/79/ac/79ac0d3f906b7079f604a5f51d71ffc1.jpg", Влюбись в меня до безумия (2025)
-https://river-1.rutube.ru/hls-vod/7msKtdMFL_vKuNlesUhfAw/1761412484/3296/0x5000c500e9ebd2f4/2420a218f3c94e9fa570d9e1e8ed4204.mp4.m3u8?i=1920x1080_3941
+https://river-1.rutube.ru/hls-vod/xuSgcVLh_lAdSVMqq0CXbw/1762011331/3290/0x5000c500fa776366/2420a218f3c94e9fa570d9e1e8ed4204.mp4.m3u8?i=1920x1080_3941
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-10-04/e7/86/e786f5ba54fbc791d248429bd0018f45.jpg", Школьный автобус (2025)
-https://river-1.rutube.ru/hls-vod/YGTbAcJnn7ZtyIklSiSHzA/1761412485/3348/0x5000c500e9ebf5cd/bc71a7ddf1904a4a9c037924ce229826.mp4.m3u8?i=1280x536_1498
+https://river-1.rutube.ru/hls-vod/BbbA0odo1r9kpc3IU7hLbQ/1762011331/3348/0x5000c500e9ebf5cd/bc71a7ddf1904a4a9c037924ce229826.mp4.m3u8?i=1280x536_1498
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-09-22/3c/7d/3c7def00df60cc68f20bdfae0f4911b4.jpg", Ограбление (2025)
-https://river-1.rutube.ru/hls-vod/uZSbsjr-EOFjK-i3u1eKMA/1761412486/3336/0x5000c500e9ebf14d/9e11dfb145814b7795c269e35938967b.mp4.m3u8?i=3840x1920_9498
+https://river-1.rutube.ru/hls-vod/f2iMNnpqE-0oUP0OUb0XMA/1762011332/2652/0x5000039ce869a539/26813e79b76a4080b6614c15362554cb.mp4.m3u8?i=1920x960_3082
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-09-26/17/a8/17a8bdf3b962946f78ed29fffc0f822f.jpg", Лучшие дни (2025)
-https://river-1.rutube.ru/hls-vod/ZOszy9V-kByc2PW_MKf6OQ/1761412487/3328/0x5000c500e9e5b29e/7537281955fa41a2938053481b0c26a6.mp4.m3u8?i=1920x800_2138
+https://river-1.rutube.ru/hls-vod/RCJ8M9aHOZ6yyj9WbZ6HFw/1762011333/3364/0x5000c500fa77821c/7537281955fa41a2938053481b0c26a6.mp4.m3u8?i=1920x800_2138
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-09-12/72/45/7245d86b3bd2ac78fb17e8474b4ae61d.jpg", Наследный принц (2025)
-https://river-1.rutube.ru/hls-vod/vKQrRQZWr98YUXS1PNJjqg/1761412489/3396/0x5000c500fa77681c/09e6bd9436bf47fb84e263f18f717b0c.mp4.m3u8?i=1920x1080_2022
+https://river-1.rutube.ru/hls-vod/5TJ4Cwbtk12QXQOLG2hjvw/1762011334/3304/0x5000c500e9cfbaa0/09e6bd9436bf47fb84e263f18f717b0c.mp4.m3u8?i=1920x1080_2022
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-09-21/66/32/6632c632fd7e4296849ec1b00dd3ebae.jpg", Военнопленный (2025)
-https://river-1.rutube.ru/hls-vod/oPOUmhaE4fNetzkQ3CaOQA/1761412490/3328/0x5000c500e9cdb6ec/0f9f3b03413b4bf0ab76ccbfdce64a8f.mp4.m3u8?i=1920x800_2778
+https://river-1.rutube.ru/hls-vod/kALPPVE0ce3QQSkTARwo7w/1762011335/1762/0x5000c500e6d7a9ab/0f9f3b03413b4bf0ab76ccbfdce64a8f.mp4.m3u8?i=1920x800_2778
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-09-22/a1/77/a177b71896f24b8a3b9613b237f2fe7a.jpg", Американская кабала (2025)
-https://river-1.rutube.ru/hls-vod/Hr_NqqBoCWvy2LwAPRnqnA/1761412491/2658/0x5000039ce8639461/4171bc8c1b5c4b77a86e4e9e1c65389e.mp4.m3u8?i=1920x800_1890
+https://river-1.rutube.ru/hls-vod/Daj2TMt_aWXFnZHwxl5t4g/1762011336/3394/0x5000c500fa6e76a3/4171bc8c1b5c4b77a86e4e9e1c65389e.mp4.m3u8?i=1920x800_1890
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-09-23/d0/09/d009e314b16bdf647bfb42b1ea680429.jpg", И явилась дьяволица (2025)
-https://river-1.rutube.ru/hls-vod/stfVjE1TXWpic4tI7Dunyw/1761412492/3374/0x5000c500fa7758e7/d9446b8cddfd484f885c0c226ba44ddf.mp4.m3u8?i=1920x1080_2502
+https://river-1.rutube.ru/hls-vod/voTMDratR7EE2LO8C-pWSg/1762011337/3330/0x5000c500e9cf30eb/d9446b8cddfd484f885c0c226ba44ddf.mp4.m3u8?i=1920x1080_2502
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-09-26/56/ab/56abf903736615791f0365dec31ebbd0.jpg", Bono: История примирения (2025)
-https://river-1.rutube.ru/hls-vod/NMm1C11POP1tiWtJaq14EQ/1761412493/3348/0x5000c500e9eedf85/ecc1e50b066d4a4ea9d54d24a3404440.mp4.m3u8?i=1920x800_2001
+https://river-1.rutube.ru/hls-vod/RKkNQvjXX0O3L4UDgqACwg/1762011338/3348/0x5000c500e9eedf85/ecc1e50b066d4a4ea9d54d24a3404440.mp4.m3u8?i=1920x800_2001
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-09-26/a7/05/a705969d54d4435d5dd5121d927b420d.jpg", Ацтекский Бэтмен: Столкновение империй (2025)
-https://river-1.rutube.ru/hls-vod/yQ6mq5_c9b7HH5z-YKqJrQ/1761412493/3344/0x5000c500e9cf5439/a72fe7966b5e49eea5c2d4c30b2e7f2e.mp4.m3u8?i=1920x1080_2326
+https://river-1.rutube.ru/hls-vod/qpcEMMC3IpgRUQhnpN7rBQ/1762011339/3390/0x5000c500fa77cf08/a72fe7966b5e49eea5c2d4c30b2e7f2e.mp4.m3u8?i=1920x1080_2326
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-09-27/91/6a/916aa8004210d341e10a466e80e48fc1.jpg", Богомол (2025)
-https://river-1.rutube.ru/hls-vod/xBFABk-aDadPLxl6yIIJtg/1761412494/3272/0x5000c500e9ea3caf/d5a15a14ec7f4981a23e275e2d7b50ca.mp4.m3u8?i=1920x1080_1860
+https://river-1.rutube.ru/hls-vod/rjeLzx7yMDf7g0K7BK0p6g/1762011340/1867/0x5000c500e53984a1/d5a15a14ec7f4981a23e275e2d7b50ca.mp4.m3u8?i=1920x1080_1860
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-09-23/dd/03/dd035b3b8406a892a20badbf6f0296bb.jpg", Она сказала может быть (2025)
-https://river-1.rutube.ru/hls-vod/9ucAy07okcJuCtRI0J1nPQ/1761412496/3338/0x5000c500e9ebc4f7/53d60487b3a44fda933d3c8e117995ee.mp4.m3u8?i=1920x1080_3224
+https://river-1.rutube.ru/hls-vod/5qwU82gQs4Y23UOD3T3JIQ/1762011341/3338/0x5000c500e9ebc4f7/53d60487b3a44fda933d3c8e117995ee.mp4.m3u8?i=1920x1080_3224
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-09-23/31/25/31255c50087a12f915ab216895489c2b.jpg", Фантастическая четвёрка: Первые шаги (2025)
-https://river-1.rutube.ru/hls-vod/lkXcnX3BbTiR06s_xQn77Q/1761412497/3374/0x5000c500fa6fff8f/5a2d8d7078c94b76b64d47013867fb22.mp4.m3u8?i=1280x536_1538
+https://river-1.rutube.ru/hls-vod/tTflCt3OIRoatuSAze6CtQ/1762011342/3308/0x5000c500e9e3788a/5a2d8d7078c94b76b64d47013867fb22.mp4.m3u8?i=1280x536_1538
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-09-14/73/c9/73c9fff072fdfedaa13cd4fd9739de97.jpg", Грузчик (2025)
-https://river-1.rutube.ru/hls-vod/-8haJ0b1Cq3dk9IVyEfQLQ/1761412497/3338/0x5000c500e9ed57b2/5b6325ca4a3a426d8c61ec9aeb6ef640.mp4.m3u8?i=1920x800_2467
+https://river-1.rutube.ru/hls-vod/ygmJZKVnfYrzu6chxEPXFA/1762011343/2724/0x5000039ce83820b1/5b6325ca4a3a426d8c61ec9aeb6ef640.mp4.m3u8?i=1920x800_2467
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-09-16/b9/8d/b98dad18dee636ad686243bfc01e49f3.jpg", Я убью тебя (2025)
-https://river-1.rutube.ru/hls-vod/cb7YzKtS5eWgdwE1sowpBg/1761412499/3314/0x5000c50074476fef/96a9d129f14347f1882da782a7d8953f.mp4.m3u8?i=1920x1080_2193
+https://river-1.rutube.ru/hls-vod/Z32YFqjx6cMrzhhqMW6A0g/1762011344/3314/0x5000c50074476fef/96a9d129f14347f1882da782a7d8953f.mp4.m3u8?i=1920x1080_2193
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-09-16/49/97/499799b9956394c99ecbaea7eee01176.jpg", Тегеран (2025)
-https://river-1.rutube.ru/hls-vod/LkEe-KYQdSw3cZghg6r9_g/1761412499/3410/0x5000c500dbb7796f/b384c624d07f448b899dcf732f75a934.mp4.m3u8?i=1920x800_1771
+https://river-1.rutube.ru/hls-vod/BdBqTyhRGjw1IrqufMTq1g/1762011345/3316/0x5000c500e9ee0624/b384c624d07f448b899dcf732f75a934.mp4.m3u8?i=1920x800_1771
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-09-18/db/a6/dba68644b4c9a24828604b14b3912418.jpg", Не тот Париж (2025)
-https://river-1.rutube.ru/hls-vod/0RIGlxcDCPSA3Ur82kZTPw/1761412500/3380/0x5000c500fa778217/eb02d56eac994e55a989b4dd14ba54b6.mp4.m3u8?i=1920x1080_3059
+https://river-1.rutube.ru/hls-vod/qbcXG6n6fiVypXoU2EsOLw/1762011346/3380/0x5000c500fa778217/eb02d56eac994e55a989b4dd14ba54b6.mp4.m3u8?i=1920x1080_3059
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-09-19/f4/d6/f4d64b16fb11d02b58a873750c6153e4.jpg", Самая красивая девушка в мире (2025)
-https://river-1.rutube.ru/hls-vod/2NwJ0sKSZ_aC5mxMT0k-gA/1761412501/2710/0x5000039ce839b78d/b6895eb204544052a0d3ab8c60cc5911.mp4.m3u8?i=1920x1080_1915
+https://river-1.rutube.ru/hls-vod/BoeyPjSaKFng7IZulusDLA/1762011346/2700/0x5000039ce869aa0d/b6895eb204544052a0d3ab8c60cc5911.mp4.m3u8?i=1920x1080_1915
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-09-19/c0/71/c071a6baa974093148e06c199dcaf23e.jpg", Код 3 (2025)
-https://river-1.rutube.ru/hls-vod/hEjwpW8HfYJ5_EQ1wXHmjA/1761412503/2696/0x5000039ce8403c0d/2bac26c38d23439886c1c6fee2a0a0f1.mp4.m3u8?i=1280x536_1327
-#EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-09-20/0c/94/0c94fe0dc1369446ad3905a9b4cd686b.jpg", Свайпнуть (2025)
-https://river-1.rutube.ru/hls-vod/MyDpZXa1LszL1ChKL7rzhA/1761412503/1875/0x5000c500e538a7ea/84f64582c744471b9a897e73480398ef.mp4.m3u8?i=1920x1080_2969
-#EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-09-10/ab/dc/abdcf68ede4169680b7ac3b42ed8c35d.jpg", Сверху вниз (2025)
-https://river-1.rutube.ru/hls-vod/_w3SxIUXxhNcuUr9RM7-6A/1761412504/1863/0x5000c500e5399a34/97ee7114ee1848389703772a4fff6892.mp4.m3u8?i=1280x536_1503
-#EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-09-06/c5/16/c5169f01419b2759b9b8f6ac8771d3b7.jpg", Рай и ад (2025)
-https://river-1.rutube.ru/hls-vod/4j5sVax5zDDfYV1Ti-G6KA/1761412505/3328/0x5000c500e9cf1f80/b0108795689f4421beb369df2b328d39.mp4.m3u8?i=1280x536_1502
-#EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-09-08/0f/f1/0ff13ac5e6781bd13309e1593d16c35c.jpg", Нас погубил фэнтези-футбол (2025)
-https://river-1.rutube.ru/hls-vod/BQyFmKktCkSCy3p-iRGDUw/1761412506/2670/0x5000039ce8401bf5/ddc2f08577b14988b3930b67980d2241.mp4.m3u8?i=1920x1080_2525
-#EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-09-10/10/4b/104b85c61855a66bdc11bcd70de0918a.jpg", Хани не надо! (2025)
-https://river-1.rutube.ru/hls-vod/rEBqNx1RX6zs6moBfys7eQ/1761412507/3268/0x5000c500c7ae5677/df53ba7b7d544c93a78e19f109dd2968.mp4.m3u8?i=1920x1080_2650
-#EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-09-10/78/47/7847b3d4c52a84b67bcb0c4dcbd6c927.jpg", Орудия (2025)
-https://river-1.rutube.ru/hls-vod/Iu48ESM2TnH_LZvNI6-yRg/1761412508/1846/0x5000c500c33e5344/387490adc25e4a02ac11b6dcc06f4b1d.mp4.m3u8?i=1920x1080_2047
-#EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-09-04/99/2f/992ff87cb3f68d791f4ae39c4099bedd.jpg", Неверный путь (2025)
-https://river-1.rutube.ru/hls-vod/68PhY4TQLK9972H5YFY1ZQ/1761412509/3328/0x5000c500e9e5b29e/1b63012a18e44605bb25157be53441cc.mp4.m3u8?i=1920x1080_3166
-#EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-09-04/27/d8/27d82e0b21d9a4445b32e691b79ceacf.jpg", Детка на драйве (2025)
-https://river-1.rutube.ru/hls-vod/Fde1h1j3TT4q5q3CXDfBtQ/1761412510/2233/0x5000c500f7bd19fe/398ccc0663cb49a9978192ad4c2ba5b4.mp4.m3u8?i=3840x1600_28856
-#EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-08-31/5a/c8/5ac8fabfc964a250ae5d4c8a88be89e5.jpg", Дом в Эдеме (2025)
-https://river-1.rutube.ru/hls-vod/AbjAAeKMbQiLC_ah7UuQeg/1761412511/1846/0x5000c500dc5efc87/2f4cc0edd0e844f58063ab8b2b2e09b3.mp4.m3u8?i=1920x1040_3139
-#EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-08-31/24/c0/24c0d37218de9bfd3286e46b5ee53998.jpg", О привет (2025)
-https://river-1.rutube.ru/hls-vod/Ru94xn21IYbtGzDtoXJctA/1761412512/3306/0x5000c5007447600d/ff6d69c952c44bf29178ea82aea828b1.mp4.m3u8?i=1920x1040_1796
+https://river-1.rutube.ru/hls-vod/HpFQic9xAaFtO1Ar9MV0LA/1762011347/2696/0x5000039ce8403c0d/2bac26c38d23439886c1c6fee2a0a0f1.mp4.m3u8?i=1280x536_1327
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2024-11-05/04/ea/04eace5d34b1ce1775d75ae9da787593.jpg", Полицейский из Беверли-Хиллз: Аксель Фоули (2024)
-https://river-1.rutube.ru/hls-vod/8Khx5VJRhriZOYL5gnsW4g/1761412513/2163/0x5000c500e6847b34/92918fd27f1a469897b0b9ab2c46c6eb.mp4.m3u8?i=1920x800_6374
+https://river-1.rutube.ru/hls-vod/dMmkpT8CiSjYqqvgb8Hfuw/1762011348/2211/0x5000c500e7516238/92918fd27f1a469897b0b9ab2c46c6eb.mp4.m3u8?i=1920x800_6374
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/0b/71/0b71b82068ed65a8eddb8586216af076.jpg", Властелин колец: Братство Кольца | Режиссёрская версия (2001)
-https://river-1.rutube.ru/hls-vod/aSEZPsK9vMod7UdzTSv3yw/1761412521/2088/0x5000c500f1d65693/39a841bc94a1467480fe1e7475986612.mp4.m3u8?i=1920x800_3030
+https://river-1.rutube.ru/hls-vod/llNSgQZdQTvbUWTSSSCAog/1762011349/2088/0x5000c500f1d65693/39a841bc94a1467480fe1e7475986612.mp4.m3u8?i=1920x800_3030
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/71/ba/71babe2ceb2b44fb320410d5ed1bc055.jpg", Властелин колец: Две крепости | Режиссёрская версия (2002)
-https://river-1.rutube.ru/hls-vod/IL7ioAYKvOpr0XI9eogUDg/1761412522/2088/0x5000c500f1df1883/d0f2431fa0514c18a922acc12c11863a.mp4.m3u8?i=1920x800_4143
+https://river-1.rutube.ru/hls-vod/EWLWu8YxNaxMBuDOH9BMKA/1762011350/2088/0x5000c500f1df1883/d0f2431fa0514c18a922acc12c11863a.mp4.m3u8?i=1920x800_4143
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/5a/25/5a25a8d38e22801b808b794e9aea016a.jpg", Властелин колец: Возвращение короля | Режиссёрская версия (2003)
-https://river-1.rutube.ru/hls-vod/m4-biYrtRzORKs0HVhZOLw/1761412523/2078/0x5000c500f1e07275/0a24ef3899be43119b61835e67788fd9.mp4.m3u8?i=1920x792_4355
+https://river-1.rutube.ru/hls-vod/YCvvolXxkzbEjAx0tJttOg/1762011350/2092/0x5000c500f1dc587c/0a24ef3899be43119b61835e67788fd9.mp4.m3u8?i=1920x792_4355
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/47/f4/47f4ad22f5bd2daacffc56be4603428c.jpg", Бэтмен (1989)
-https://river-1.rutube.ru/hls-vod/__aWLyTNDPIyhinVLiY1tg/1761412525/2090/0x5000c500f1dece2c/36a7874b57634ef2ac1e1e72d4c152b8.mp4.m3u8?i=1920x1080_3401
+https://river-1.rutube.ru/hls-vod/b-8EuwXp2DJsTvQAJaMpgQ/1762011351/2090/0x5000c500f1dece2c/36a7874b57634ef2ac1e1e72d4c152b8.mp4.m3u8?i=1920x1080_3401
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/5e/4f/5e4f6a1496112ebf58f7e3a6bc1c846d.jpg", Бэтмен Возвращается (1992)
-https://river-1.rutube.ru/hls-vod/XCp37hEW_YG6w--ogk9otA/1761412526/2088/0x5000c500f1e58f7d/0cf08fee2f814713b1d8ba60ad0ad505.mp4.m3u8?i=1920x1080_5059
+https://river-1.rutube.ru/hls-vod/GSFi1mtVAcAIMVLkH4TZzQ/1762011352/2088/0x5000c500f1e58f7d/0cf08fee2f814713b1d8ba60ad0ad505.mp4.m3u8?i=1920x1080_5059
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/05/76/05766873f73a3a810d30a8e4db8c7b62.jpg", Бэтмен Навсегда (1995)
-https://river-1.rutube.ru/hls-vod/V11PkAKWGnJO4-8vzT4lXQ/1761412527/2092/0x5000c500f1dcd48c/384306e8b72e4734ac3656e6a6c10440.mp4.m3u8?i=1920x1080_3754
+https://river-1.rutube.ru/hls-vod/YXQUVf8VM52Lcf3W33KlFg/1762011353/2092/0x5000c500f1dcd48c/384306e8b72e4734ac3656e6a6c10440.mp4.m3u8?i=1920x1080_3754
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/b3/86/b3863a80c055bb3d51591ba2684f2861.jpg", Бэтмен и Робин (1997)
-https://river-1.rutube.ru/hls-vod/S63U32gctX342fN1XmGPow/1761412528/2088/0x5000c500f1e58f7d/45a2f783a0564d9f90769a0d920c4890.mp4.m3u8?i=1920x1080_4413
+https://river-1.rutube.ru/hls-vod/ZOjTCa72CbQK0EKnx9DuYw/1762011354/2088/0x5000c500f1e58f7d/45a2f783a0564d9f90769a0d920c4890.mp4.m3u8?i=1920x1080_4413
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/a7/57/a757c72e223b514ba1373600689841be.jpg", Бэтмен: Начало (2005)
-https://river-1.rutube.ru/hls-vod/YQDMtFLOqFAkWUf06QIRVg/1761412530/2088/0x5000c500f1e4fc47/dac0e519b6da4660bb8a8b475923691b.mp4.m3u8?i=1920x800_2262
+https://river-1.rutube.ru/hls-vod/ziC7FL46F4iZTZkkUdSYOQ/1762011355/2088/0x5000c500f1e4fc47/dac0e519b6da4660bb8a8b475923691b.mp4.m3u8?i=1920x800_2262
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/1a/99/1a9953fefa5c722099499648fb29bf70.jpg", Темный рыцарь (2008)
-https://river-1.rutube.ru/hls-vod/hhZBgQtTocNb4Fj7XLrprA/1761412531/2080/0x5000c500f1da748a/d5263d18a7804f0ca327eef990f75fc0.mp4.m3u8?i=1920x1080_3481
+https://river-1.rutube.ru/hls-vod/epL6bCKAaZDkyKdnNnhk-A/1762011356/2080/0x5000c500f1da748a/d5263d18a7804f0ca327eef990f75fc0.mp4.m3u8?i=1920x1080_3481
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/a0/31/a03168784b8fb3e50596a9127b0a5a54.jpg", Темный рыцарь: Возрождение легенды (2012)
-https://river-1.rutube.ru/hls-vod/vQ2_sxh6_wIQuwXDMxgG_A/1761412532/1879/0x5000c500e535567a/5e4f2e2be93f4b2f8dc7a76ff8a0eb95.mp4.m3u8?i=1920x1080_4336
+https://river-1.rutube.ru/hls-vod/2mFhGiDAAgaiyQw7RgkaGQ/1762011357/1879/0x5000c500e535567a/5e4f2e2be93f4b2f8dc7a76ff8a0eb95.mp4.m3u8?i=1920x1080_4336
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/cd/d6/cdd6a943c56cb91acb29eef176a235bf.jpg", Бэтмен (2022)
-https://river-1.rutube.ru/hls-vod/zn6_Wqffmf6KWpKKfTrUuQ/1761412533/2086/0x5000c500f1e56de3/9de2911dea204690ac0b1188951639ca.mp4.m3u8?i=1920x808_1744
+https://river-1.rutube.ru/hls-vod/pVskHL9vOejBw5ISMSFbOw/1762011357/2086/0x5000c500f1e56de3/9de2911dea204690ac0b1188951639ca.mp4.m3u8?i=1920x808_1744
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/fc/91/fc91c05aee140f8480be3d13d7c4291a.jpg", Бэтмен против Супермена: На заре справедливости (2024)
-https://river-1.rutube.ru/hls-vod/IM0jgL_fyIZ3cC757_DK8A/1761412533/2074/0x5000c500f1da6e43/57645a3242bc4249b4a911fb85a7f290.mp4.m3u8?i=1920x800_2235
+https://river-1.rutube.ru/hls-vod/GVar7mK7OPfcPAWBBQEuaA/1762011358/2074/0x5000c500f1da6e43/57645a3242bc4249b4a911fb85a7f290.mp4.m3u8?i=1920x800_2235
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/ef/6b/ef6b1dbbb66a58f5b8d288e9fb80457e.jpg", Индиана Джонс: В поисках утраченного ковчега (1981)
-https://river-1.rutube.ru/hls-vod/pgfLv5Uz03xXqw_xXfjBkQ/1761412534/2094/0x5000c500f1e3ff75/c52ff8bb90904a49b0d272ac65e2f496.mp4.m3u8?i=1920x816_4502
+https://river-1.rutube.ru/hls-vod/J0WjRc0J7Xx7Z9oetoQucQ/1762011359/2094/0x5000c500f1e3ff75/c52ff8bb90904a49b0d272ac65e2f496.mp4.m3u8?i=1920x816_4502
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/e7/28/e728a99cc0c3d14734727f5591b48817.jpg", Индиана Джонс и Храм Судьбы (1984)
-https://river-1.rutube.ru/hls-vod/FHsyKL-dyDBc590KrSOdMw/1761412536/2076/0x5000c500f1e52299/1533f43905004dc8ae06e74af4e9e9fd.mp4.m3u8?i=1920x816_6669
+https://river-1.rutube.ru/hls-vod/L0ng2Un55wd_tweuR1fERQ/1762011360/2088/0x5000c500f1e14287/1533f43905004dc8ae06e74af4e9e9fd.mp4.m3u8?i=1920x816_6669
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/91/1a/911ab7e6cea9c7b3b52ce6313c5b92b1.jpg", Индиана Джонс и последний крестовый поход (1989)
-https://river-1.rutube.ru/hls-vod/SDsk2QWQiXoVPA36rU6f_w/1761412536/2076/0x5000c500f1e52299/f599e848539a4da195a2220ec603b38b.mp4.m3u8?i=1920x816_10173
+https://river-1.rutube.ru/hls-vod/DJRHpn2ejWacBczOGIjQlg/1762011361/2076/0x5000c500f1e52299/f599e848539a4da195a2220ec603b38b.mp4.m3u8?i=1920x816_10173
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/a8/04/a8043ef5fb7650aa4287646e3535c146.jpg", Индиана Джонс и Королевство хрустального черепа (2008)
-https://river-1.rutube.ru/hls-vod/ULlYwwZENfJDFoI5NbvdMQ/1761412537/2086/0x5000c500f1e563e5/3e0ceb5ffaad405b8f09c6b5a30e46f9.mp4.m3u8?i=1920x800_4764
+https://river-1.rutube.ru/hls-vod/qBzjlYi23jEPZQp-Y_tsHg/1762011362/2086/0x5000c500f1e563e5/3e0ceb5ffaad405b8f09c6b5a30e46f9.mp4.m3u8?i=1920x800_4764
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/60/5f/605f07a36213699a71be34788e261981.jpg", Индиана Джонс и колесо судьбы (2023)
-https://river-1.rutube.ru/hls-vod/eg5zAdLuYOnwaW8DUwF__g/1761412539/2094/0x5000c500f1e373ab/6b6697d524144fe4a099b16ef6a7d590.mp4.m3u8?i=1920x800_3131
+https://river-1.rutube.ru/hls-vod/K1QTKQH3nzNFfsVzu_mNKA/1762011363/2094/0x5000c500f1e373ab/6b6697d524144fe4a099b16ef6a7d590.mp4.m3u8?i=1920x800_3131
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-08-13/81/cc/81ccedec12f0773638cb12df14174e38.jpg", Назад в будущее (1985)
-https://river-1.rutube.ru/hls-vod/c9dtmSwWzKDBn_o0-dNLkQ/1761412540/1784/0x5000c500dc5d9c67/fae2976bf53f4554846adbdb96f8e0a7.mp4.m3u8?i=1920x1040_4457
+https://river-1.rutube.ru/hls-vod/NgSo3yRJ2HT45WS1NXpcJw/1762011363/1784/0x5000c500dc5d9c67/fae2976bf53f4554846adbdb96f8e0a7.mp4.m3u8?i=1920x1040_4457
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-08-13/29/db/29dbf4c552210960bb39264b3f18f1a7.jpg", Назад в будущее 2 (1989)
-https://river-1.rutube.ru/hls-vod/N9PcMX0kZ444mEO2i02U4A/1761412541/3300/0x5000c500e93c95b3/9a55d76d977643f390d2d0530a5c88e2.mp4.m3u8?i=1920x1040_3885
+https://river-1.rutube.ru/hls-vod/ZDMUx5otjoEoKnkr4uEqWA/1762011364/3300/0x5000c500e93c95b3/9a55d76d977643f390d2d0530a5c88e2.mp4.m3u8?i=1920x1040_3885
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-08-13/da/1c/da1cd279a6fdaaa5bd61cc46838a9948.jpg", Назад в будущее 3 (1990)
-https://river-1.rutube.ru/hls-vod/cdTdMyxZkh-bz6pPXfMfmw/1761412542/3358/0x5000c500fa77c05c/b5bad3c84ff049b9ada617ab09b85799.mp4.m3u8?i=1920x1040_4342
+https://river-1.rutube.ru/hls-vod/Zosom47jmykbxJhr5aLDsQ/1762011365/3318/0x5000c500e9dae7d8/b5bad3c84ff049b9ada617ab09b85799.mp4.m3u8?i=1920x1040_4342
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/82/06/8206bf25a441e4c2bac79dea9ed52074.jpg", Кровавый алмаз (2006)
-https://river-1.rutube.ru/hls-vod/oG4gB4drL2MuBu9rJDCscg/1761412542/2084/0x5000c500f1e5abcf/a373f1095d4f459f840d8bb603ce594f.mp4.m3u8?i=1920x792_3772
+https://river-1.rutube.ru/hls-vod/SahE9L7FtpjplN7hJeBTEw/1762011366/2084/0x5000c500f1e5abcf/a373f1095d4f459f840d8bb603ce594f.mp4.m3u8?i=1920x792_3772
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/ae/96/ae967a3688ae726d15f5ea01cc73c855.jpg", Лига выдающихся джентльменов (2003)
-https://river-1.rutube.ru/hls-vod/ZxxhMXSh8jAoNMdFNJBFRQ/1761412543/2189/0x5000c500e65678c9/77bba4322c02486f922690a587c089c1.mp4.m3u8?i=1920x808_3115
+https://river-1.rutube.ru/hls-vod/Be53EGHD5A6bQgun8a4FSw/1762011367/2211/0x5000c500e752644d/77bba4322c02486f922690a587c089c1.mp4.m3u8?i=1920x808_3115
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/a8/d8/a8d8cb9c34da8064875014f105129d95.jpg", Блэйд (1998)
-https://river-1.rutube.ru/hls-vod/OeM9sB-V85WgvChoOXwFEA/1761412544/2082/0x5000c500f1db4f74/77930ec2cb98415689e265c5c1d99f40.mp4.m3u8?i=1920x808_3370
+https://river-1.rutube.ru/hls-vod/ARndT1M7MeXM3R2_vac9Dw/1762011368/2082/0x5000c500f1db4f74/77930ec2cb98415689e265c5c1d99f40.mp4.m3u8?i=1920x808_3370
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/86/64/8664f8a0ff2259b701acb498bad1a2e3.jpg", Блэйд 2 (2002)
-https://river-1.rutube.ru/hls-vod/9LRzLK9fTwaUNt6Hk3CVCA/1761412545/2078/0x5000c500f1dd51ae/27419ebf67ba468cb8dde37e95a3f61c.mp4.m3u8?i=1920x1080_3246
+https://river-1.rutube.ru/hls-vod/RXgSm8uMLi1eW7pFxUgYgw/1762011368/2092/0x5000c500f1dc6662/27419ebf67ba468cb8dde37e95a3f61c.mp4.m3u8?i=1920x1080_3246
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/b2/72/b272a4e0a0d2d5211e61fd162ce9f76e.jpg", Блэйд 3 (2004)
-https://river-1.rutube.ru/hls-vod/r_UfX4t5bI8Mwgdvizib0A/1761412546/2092/0x5000c500f1e2a661/6d6c325d5f2448ecb6d766a7b3306cb5.mp4.m3u8?i=1920x816_2862
+https://river-1.rutube.ru/hls-vod/Z99woc3q6aEUf70gOV_7Xw/1762011369/2092/0x5000c500f1e2a661/6d6c325d5f2448ecb6d766a7b3306cb5.mp4.m3u8?i=1920x816_2862
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/c0/a4/c0a413d8798f37a59828943a7c0b563c.jpg", Робокоп (1987)
-https://river-1.rutube.ru/hls-vod/nGOJM5ELxdvZ2BsbnG8DzQ/1761412547/2086/0x5000c500f1e579b3/b7236552664a4a8dae918093c2ce013f.mp4.m3u8?i=1920x1040_5794
+https://river-1.rutube.ru/hls-vod/hRsy4PBL9CSrAwoqmUTeCA/1762011370/2086/0x5000c500f1e579b3/b7236552664a4a8dae918093c2ce013f.mp4.m3u8?i=1920x1040_5794
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/34/bc/34bc4a61f719e39cae726d4c7e1df7c1.jpg", Робокоп 2 (1990)
-https://river-1.rutube.ru/hls-vod/jaEcY1Y8d0VkZZb8IF_P5A/1761412549/2078/0x5000c500f1e59b02/c5e81bd24deb4eff9589b0d79f0b9bc4.mp4.m3u8?i=1920x1040_3800
+https://river-1.rutube.ru/hls-vod/yCam7IzidT-qtO98lAlqFA/1762011371/2078/0x5000c500f1e59b02/c5e81bd24deb4eff9589b0d79f0b9bc4.mp4.m3u8?i=1920x1040_3800
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/43/15/431577ddd04e2f8cecf714daab2e7c3e.jpg", Робокоп 3 (1992)
-https://river-1.rutube.ru/hls-vod/zaW7GXc2aKueg_u9QZhnmQ/1761412549/2096/0x5000c500f1e59a45/cec8171628cd44858da5e5e8c08731fb.mp4.m3u8?i=1920x1040_3042
+https://river-1.rutube.ru/hls-vod/4nfBylAFckwFiE_XwNo2mA/1762011372/2096/0x5000c500f1e59a45/cec8171628cd44858da5e5e8c08731fb.mp4.m3u8?i=1920x1040_3042
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/5b/0c/5b0cf95b728de333cfba7d1f9e685f4f.jpg", Обитель зла (2002)
-https://river-1.rutube.ru/hls-vod/ti_GzHIYqQeNqL1d-XzYNA/1761412550/2076/0x5000c500f1d3b626/5b6ce3dbdf634277b00fae168c74a541.mp4.m3u8?i=1920x1040_3775
+https://river-1.rutube.ru/hls-vod/YwYUKWL_r0V07rhXOqAyPw/1762011373/2076/0x5000c500f1d3b626/5b6ce3dbdf634277b00fae168c74a541.mp4.m3u8?i=1920x1040_3775
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/0a/d5/0ad5a42e00a6b32effd2235b04d2dbcc.jpg", Обитель зла 2: Апокалипсис (2004)
-https://river-1.rutube.ru/hls-vod/TxJ7MihG7jxSCjbyO62e5g/1761412551/2076/0x5000c500f1e405ef/aeb8795f6f5c4d8e929a461e7028bf26.mp4.m3u8?i=1920x792_4058
+https://river-1.rutube.ru/hls-vod/nF7zQKCJHyLO3_M-sYRpZg/1762011374/2090/0x5000c500f1e5bb9c/aeb8795f6f5c4d8e929a461e7028bf26.mp4.m3u8?i=1920x792_4058
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/47/9d/479d3e5529773d965e4f08a9f5c5a87e.jpg", Обитель зла 3 (2007)
-https://river-1.rutube.ru/hls-vod/ZMs3hQ-NygpWtDOiqmGIgA/1761412552/2094/0x5000c500f1dc3e7f/8aeb9ea933534391ae8695f37e00ca81.mp4.m3u8?i=1920x800_4510
+https://river-1.rutube.ru/hls-vod/WCaAN2pc1SEuKcYAV5Gl0g/1762011375/2094/0x5000c500f1dc3e7f/8aeb9ea933534391ae8695f37e00ca81.mp4.m3u8?i=1920x800_4510
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2b/53/2b533e8ecbff8e2336908608ce748395.jpg", Обитель зла 4: Жизнь после смерти (2010)
-https://river-1.rutube.ru/hls-vod/lDr_oc6P5cTWRdeYzXQAZA/1761412553/2088/0x5000c500f1e58f7d/07657c479fec47d69474a2638db9ebbe.mp4.m3u8?i=1920x800_4046
+https://river-1.rutube.ru/hls-vod/GzOQ2E7OK3PusXxCwtrfIw/1762011376/2088/0x5000c500f1e58f7d/07657c479fec47d69474a2638db9ebbe.mp4.m3u8?i=1920x800_4046
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/1f/f2/1ff221182cf4a55b95a6b623c878adec.jpg", Обитель Зла: Возмездие (2012)
-https://river-1.rutube.ru/hls-vod/XVV83ktx7DUhMdQxtThvQA/1761412554/2094/0x5000c500f1e5b4c4/b563a3f7a16f4c4485d963abe4098a89.mp4.m3u8?i=1920x800_7683
+https://river-1.rutube.ru/hls-vod/hpY4tN6gG-N8a-z3qS4NFg/1762011377/2074/0x5000c500f1dbe294/b563a3f7a16f4c4485d963abe4098a89.mp4.m3u8?i=1920x800_7683
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/73/50/73505682c824e3a91b567a07b7a38938.jpg", Обитель зла: Последняя глава (2016)
-https://river-1.rutube.ru/hls-vod/HmJliLK9bzF_6FCFP3SSsg/1761412555/2086/0x5000c500f1e550f1/083a5dd97c6747489ef3698d875f7b62.mp4.m3u8?i=1920x800_2958
+https://river-1.rutube.ru/hls-vod/EQ8EJ46jwAfIPbAVdY2sFQ/1762011378/2076/0x5000c500f1e31400/083a5dd97c6747489ef3698d875f7b62.mp4.m3u8?i=1920x800_2958
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/85/b7/85b75134c7b23c1df45732018fdf1556.jpg", Терминатор 2: Судный день (1991)
-https://river-1.rutube.ru/hls-vod/RqASYJuRjHr7cSwM161hTw/1761412556/2078/0x5000c500f1dde16d/f8c016d4d0ef453293eea58a2615a842.mp4.m3u8?i=1920x1040_5058
+https://river-1.rutube.ru/hls-vod/u5tGGtbJ5UkEB1thU7eCnw/1762011379/2078/0x5000c500f1dde16d/f8c016d4d0ef453293eea58a2615a842.mp4.m3u8?i=1920x1040_5058
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2024-11-05/90/73/9073297c9a3ed329bf8c2a2891bd9f45.jpg", Терминатор 3: Восстание машин 60 fps (2003)
-https://river-1.rutube.ru/hls-vod/O8tpbXhVjllSExI_uPTRrw/1761412557/2460/0x5000c500e8839ffe/ba92cb112ca240ccaa80e325b8ee50a1.mp4.m3u8?i=1920x784_8583
+https://river-1.rutube.ru/hls-vod/NLJKAdj51wq0f7ZTyLZtkg/1762011379/2460/0x5000c500e8839ffe/ba92cb112ca240ccaa80e325b8ee50a1.mp4.m3u8?i=1920x784_8583
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2a/e6/2ae62fa4e0a0ae33b1dcbe4e45bf05c6.jpg", Терминатор 4: Да прийдет спаситель (2009)
-https://river-1.rutube.ru/hls-vod/HrkkeanVXEE_OB4kAhuyCA/1761412557/2080/0x5000c500f1e56224/1d3b3734284f473fbcd923f9ddc2d817.mp4.m3u8?i=1920x800_3637
+https://river-1.rutube.ru/hls-vod/adu0a_L9_9u7KQHF9LvV6w/1762011380/2094/0x5000c500f1db122f/1d3b3734284f473fbcd923f9ddc2d817.mp4.m3u8?i=1920x800_3637
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/b6/bb/b6bb9eb90c61172c7fe0ee64d8489d99.jpg", Люди в черном (1997)
-https://river-1.rutube.ru/hls-vod/2ILPAbY5XeCfHzg763EK0Q/1761412558/1861/0x5000c500e53c916b/0f27da6c54774499be1c5cc4691734a3.mp4.m3u8?i=1920x1032_10882
+https://river-1.rutube.ru/hls-vod/mSGrxhQFa8Ayhw-QxXHo9Q/1762011381/1861/0x5000c500e53c916b/0f27da6c54774499be1c5cc4691734a3.mp4.m3u8?i=1920x1032_10882
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/4b/06/4b06cb6ef3c6426cf417908452638a28.jpg", Матрица (1999)
-https://river-1.rutube.ru/hls-vod/oBd9QTR7W4_108oK7Xq4hQ/1761412559/2092/0x5000c500f1db0e75/2cfaad81a8dc452b92c9f0a99d35f0e9.mp4.m3u8?i=1920x800_3057
+https://river-1.rutube.ru/hls-vod/rWPUfiLfb2yyMl9k1rNyyw/1762011382/2092/0x5000c500f1db0e75/2cfaad81a8dc452b92c9f0a99d35f0e9.mp4.m3u8?i=1920x800_3057
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/8c/15/8c157f869113d619f81e7ab0e9aa98c2.jpg", Матрица: Перезагрузка (2003)
-https://river-1.rutube.ru/hls-vod/QQkhNa96vcre0wrPevmk6g/1761412560/2096/0x5000c500f1d6b600/e198f30b21ba41fda5038630ace6030c.mp4.m3u8?i=1920x800_2965
+https://river-1.rutube.ru/hls-vod/gGvFQoaGPDicI2dJpmnE4A/1762011383/2096/0x5000c500f1d6b600/e198f30b21ba41fda5038630ace6030c.mp4.m3u8?i=1920x800_2965
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/72/35/72352bf2ab14f352dd59028e8fa88cba.jpg", Матрица: Революция (2003)
-https://river-1.rutube.ru/hls-vod/iXT7WSECq3SKIJF6N5Aogg/1761412562/2084/0x5000c500f1dad1c3/a7bb4b89a5ae48a293f77d27baf276f9.mp4.m3u8?i=1920x800_3406
+https://river-1.rutube.ru/hls-vod/k3HrasCfZkeuxW7W4pKglA/1762011384/2086/0x5000c500f1d8b72b/a7bb4b89a5ae48a293f77d27baf276f9.mp4.m3u8?i=1920x800_3406
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/52/6e/526eff8fe10ab2210d8eccd7b1301650.jpg", Матрица: Воскрешение (2021)
-https://river-1.rutube.ru/hls-vod/m0BZ0MYBNt27xtm_EVh6VQ/1761412566/2090/0x5000c500f1e363b1/3d2c7b8be89044ffb958d07906b4f592.mp4.m3u8?i=1920x800_2781
+https://river-1.rutube.ru/hls-vod/AM4NU3HeMAQlQIRiQWQB3w/1762011385/2090/0x5000c500f1e363b1/3d2c7b8be89044ffb958d07906b4f592.mp4.m3u8?i=1920x800_2781
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/7f/a6/7fa6ee03564a66ddd37676c7cd6e2912.jpg", Смертельное оружие 1 (1987)
-https://river-1.rutube.ru/hls-vod/8VWGDGqYCmiPHC0fRUL7NA/1761412566/2078/0x5000c500f1dd70fe/4e75229a5c424a98b18e9acf1eaafa6d.mp4.m3u8?i=1920x1080_7279
+https://river-1.rutube.ru/hls-vod/LL4cu263o0NzJRO366nYkg/1762011386/2078/0x5000c500f1dd70fe/4e75229a5c424a98b18e9acf1eaafa6d.mp4.m3u8?i=1920x1080_7279
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/8d/8b/8d8bd68d4691310f46248f5badb9c0df.jpg", Смертельное оружие 2 (1989)
-https://river-1.rutube.ru/hls-vod/9fhutLLpyzmJ-AJ9cmIVHA/1761412567/2096/0x5000c500f1e57289/8e00639e9be74efe821523ef944f4163.mp4.m3u8?i=1920x800_2559
+https://river-1.rutube.ru/hls-vod/ECdGOp6fHv04yXcet6uocg/1762011387/2096/0x5000c500f1e57289/8e00639e9be74efe821523ef944f4163.mp4.m3u8?i=1920x800_2559
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/f0/b0/f0b0014c0b4abc1f524db4f624f3cd39.jpg", Смертельное оружие 3 (1992)
-https://river-1.rutube.ru/hls-vod/6FgRMn4iX-6xAJ-K_YdkPw/1761412568/2080/0x5000c500f1d9b395/f5639425e4ff4ff2b4dac49ef2f99428.mp4.m3u8?i=1920x792_3095
+https://river-1.rutube.ru/hls-vod/jmre5VZgARRg5ecNTZoQ0Q/1762011388/2080/0x5000c500f1d9b395/f5639425e4ff4ff2b4dac49ef2f99428.mp4.m3u8?i=1920x792_3095
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/86/12/86122cb3b2d801870e6549eca72f636e.jpg", Смертельное оружие 4 (1998)
-https://river-1.rutube.ru/hls-vod/R6KWLWNF79AiLfJuIEYAXw/1761412570/2084/0x5000c500f1db3beb/6573729710e74f9ca0f7b3336a10b85a.mp4.m3u8?i=1920x800_3130
+https://river-1.rutube.ru/hls-vod/wwA_1PMq07HFOQ5EPO1DLQ/1762011389/2084/0x5000c500f1db3beb/6573729710e74f9ca0f7b3336a10b85a.mp4.m3u8?i=1920x800_3130
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/53/17/5317052db30ce9e38adbc49a21918df5.jpg", Крепкий орешек 2 (1990)
-https://river-1.rutube.ru/hls-vod/gmAPPQwu2Xlc-JiGFhUA7Q/1761412571/2094/0x5000c500f1e373ab/58c8c5f7b0294431a70f9f3269a55c2a.mp4.m3u8?i=1920x808_2656
+https://river-1.rutube.ru/hls-vod/ArszRjIiMf9YVqFL4FQ6qA/1762011390/2094/0x5000c500f1e373ab/58c8c5f7b0294431a70f9f3269a55c2a.mp4.m3u8?i=1920x808_2656
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/b8/2b/b82b12445a8e681f2f10d0c8424e4a46.jpg", Крепкий орешек 3: Возмездие (1995)
-https://river-1.rutube.ru/hls-vod/V2lx7CP-fQtHMQ05innZ1A/1761412573/2086/0x5000c500f1e56de3/63095003d0344536a133943c076a361b.mp4.m3u8?i=1920x816_5140
+https://river-1.rutube.ru/hls-vod/FdRUpx-dCnsFz38-l4Fw0Q/1762011391/2086/0x5000c500f1e56de3/63095003d0344536a133943c076a361b.mp4.m3u8?i=1920x816_5140
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/05/4b/054b62ae2251c54fb2276f1a8907f996.jpg", Крепкий орешек 4.0 (2007)
-https://river-1.rutube.ru/hls-vod/AzJIrLqiMOeWAO1wiqbg4w/1761412574/2096/0x5000c500f1ddd63f/d40201d85254411688b481ea8c6e5cc4.mp4.m3u8?i=1920x800_4010
+https://river-1.rutube.ru/hls-vod/PBsr-8vco3aD0IhQIEVwOA/1762011392/2076/0x5000c500f1df1a2d/d40201d85254411688b481ea8c6e5cc4.mp4.m3u8?i=1920x800_4010
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/0b/5f/0b5f577cfcc881737deea91ad8517731.jpg", Крепкий орешек: Хороший день чтобы умереть (2013)
-https://river-1.rutube.ru/hls-vod/l1A2yccm1dI8XlbaoORG7A/1761412575/2074/0x5000c500f1e5bcb3/7f025662e55f448a84e4525daa024f1e.mp4.m3u8?i=1920x1040_6334
+https://river-1.rutube.ru/hls-vod/nNj4Gf9vcRwuSoaLN6EIcg/1762011392/2074/0x5000c500f1e5bcb3/7f025662e55f448a84e4525daa024f1e.mp4.m3u8?i=1920x1040_6334
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2024-11-07/fe/ba/febad2a293776e460eff411e04d4f40c.jpg", Голый пистолет (1988)
-https://river-1.rutube.ru/hls-vod/XOWY38uevTY8GIpa6tiSBA/1761412576/2722/0x5000039ce83a19a1/65c2d1794041468184173eb9b2a2a343.mp4.m3u8?i=1920x1080_9545
+https://river-1.rutube.ru/hls-vod/ubrwhk3x3pINraMwsrznEQ/1762011395/2462/0x5000c500e883978e/65c2d1794041468184173eb9b2a2a343.mp4.m3u8?i=1920x1080_9545
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/f3/39/f339f168247ca35cab03446e15a918b9.jpg", Голый пистолет 2 1/2: Запах страха (1991)
-https://river-1.rutube.ru/hls-vod/d__LkZAx-sNDOnhTiBCRlA/1761412578/2177/0x5000c500e74f56e4/389d8de069f742acba88730f981d509e.mp4.m3u8?i=1920x1080_17617
+https://river-1.rutube.ru/hls-vod/oNMcXjpsVJi6SLXAGSB5HA/1762011396/2199/0x5000c500e74e8332/389d8de069f742acba88730f981d509e.mp4.m3u8?i=1920x1080_17617
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/fb/fe/fbfe21ad28f5f4f470759c6049e45125.jpg", Голый пистолет 33 1/3: Последний выпад (1994)
-https://river-1.rutube.ru/hls-vod/352oTa3HJcQQj4IIN99QDg/1761412578/2084/0x5000c500f1e56cb7/1c3a5ddc4fbb4c89a69270e74da7b80b.mp4.m3u8?i=1920x1080_5164
+https://river-1.rutube.ru/hls-vod/DuOMZAImLpoQzeijZl5Awg/1762011399/2084/0x5000c500f1e56cb7/1c3a5ddc4fbb4c89a69270e74da7b80b.mp4.m3u8?i=1920x1080_5164
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/0e/24/0e24e3ebb01ddc1c89d67ca6d5e31d94.jpg", Роман с камнем (1984)
-https://river-1.rutube.ru/hls-vod/vv72aevXrsT2TwmQA2y2mg/1761412579/2088/0x5000c500f1e528b2/01a622d6ece446518bf60e650fbd6d48.mp4.m3u8?i=1920x808_4126
+https://river-1.rutube.ru/hls-vod/uNUXVyE01hu7lOuYkqTlvg/1762011400/2088/0x5000c500f1e528b2/01a622d6ece446518bf60e650fbd6d48.mp4.m3u8?i=1920x808_4126
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-01-26/71/5c/715ca4d5769efa0a306b8484a11543a0.jpg", Сонная Лощина (1999)
-https://river-1.rutube.ru/hls-vod/uJkyADOHGTiJF09ZqT6rGA/1761412580/2594/0x5000039ce8611dd1/0df93f3df7924f5f839ed787966429dd.mp4.m3u8?i=1920x1040_8141
+https://river-1.rutube.ru/hls-vod/qfWSPzi8XP93WImKwARWwQ/1762011401/2594/0x5000039ce8611dd1/0df93f3df7924f5f839ed787966429dd.mp4.m3u8?i=1920x1040_8141
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/66/7e/667e2edd51783fa39d3b04dd90171279.jpg", Эдвард руки-ножницы (1990)
-https://river-1.rutube.ru/hls-vod/bKznTX00gWXxoZ2tXNi8bw/1761412581/2088/0x5000c500f1e58e4e/4a39ec11a1db471398cf5f861a484f56.mp4.m3u8?i=1920x1040_3623
-#EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2024-11-17/8d/d3/8dd3efd1571ad3088a04ff6bd57ce75d.jpg", Суини Тодд демон-парикмахер с Флит-стрит (2007)
-https://river-1.rutube.ru/hls-vod/wZmppmMNaX8xBeCCnjt4sQ/1761412582/2084/0x5000c500f1d6eb4f/f34f9a60442644ff8945ab40cdec10cd.mp4.m3u8?i=1920x1080_4521
+https://river-1.rutube.ru/hls-vod/h--kg4Ek5hmUKsfRO5esoA/1762011402/2088/0x5000c500f1e58e4e/4a39ec11a1db471398cf5f861a484f56.mp4.m3u8?i=1920x1040_3623
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/ea/a4/eaa459f67510076ba72d4cb504259317.jpg", Бегущий по лезвию (1982)
-https://river-1.rutube.ru/hls-vod/ekz7Vj3gaO2u3b_gnbhhaQ/1761412584/2094/0x5000c500f1e56b86/a4b73c567f7c4008a015d195501e1322.mp4.m3u8?i=1920x800_4439
+https://river-1.rutube.ru/hls-vod/ChXpuaZOjCg_iFgWmagpMQ/1762011411/2094/0x5000c500f1e56b86/a4b73c567f7c4008a015d195501e1322.mp4.m3u8?i=1920x800_4439
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/e5/b4/e5b4184bbe7d82a5f1886f443599e835.jpg", Побег из Шоушенка (1994)
-https://river-1.rutube.ru/hls-vod/fY_9Vs3e3013TGM02zZHxg/1761412586/2090/0x5000c500f1e53ed1/fb597d78a4664d439e00bece9987f52a.mp4.m3u8?i=1920x1080_3158
+https://river-1.rutube.ru/hls-vod/L_1yINSKjnXzg67hkizfdw/1762011412/2090/0x5000c500f1e53ed1/fb597d78a4664d439e00bece9987f52a.mp4.m3u8?i=1920x1080_3158
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-05-17/fc/8a/fc8af4fb3c97f80f0bf46da7e6624b3d.jpg", Плохие парни (1995)
-https://river-1.rutube.ru/hls-vod/-yXgusMbsTMEH8E833qung/1761412587/2678/0x5000039ce8708905/ec44be3452214b1eb9557e766abde4fb.mp4.m3u8?i=1920x1040_3684
+https://river-1.rutube.ru/hls-vod/bNglkSGQfKJBWBDL-nRlOw/1762011414/2520/0x5000039ce83829cd/ec44be3452214b1eb9557e766abde4fb.mp4.m3u8?i=1920x1040_3684
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2024-12-05/64/31/6431e9a43225355059b06b03e4083b0b.jpg", Плохие парни 2 (2003)
-https://river-1.rutube.ru/hls-vod/Mv6TCeIf7lpt_IH_AegC5Q/1761412588/2468/0x5000c500e8838060/cf66e7867bf74f71ba202baa13b4264a.mp4.m3u8?i=1920x1080_7181
+https://river-1.rutube.ru/hls-vod/jlDXC_7Roug7zI33yqoePg/1762011415/2666/0x5000039ce83a1539/cf66e7867bf74f71ba202baa13b4264a.mp4.m3u8?i=1920x1080_7181
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2024-11-05/31/17/311720c151ce7b883eb8610422de777a.jpg", Плохие парни навсегда (2020)
-https://river-1.rutube.ru/hls-vod/0rfe2w7VEfCsPkK3s62Hug/1761412589/2458/0x5000c500e8840df8/41b238f863414ee69f8e4c3706695c24.mp4.m3u8?i=1920x800_5410
+https://river-1.rutube.ru/hls-vod/A3ZI_t7KKBC4FMHKenf-qA/1762011416/3318/0x5000c500e970f1eb/41b238f863414ee69f8e4c3706695c24.mp4.m3u8?i=1920x800_5410
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2024-11-05/45/0e/450eeae1f7086b72f90bf80251d93f91.jpg", Плохие парни до конца (2024)
-https://river-1.rutube.ru/hls-vod/rA2jwboPtavNqROSCb7YiQ/1761412590/2195/0x5000c500e68dd46b/7709893a9127431b8d2e3542d508e7c5.mp4.m3u8?i=1920x800_4154
+https://river-1.rutube.ru/hls-vod/pVWRUsaEraMAgmXtQ9KyAg/1762011417/2195/0x5000c500e68dd46b/7709893a9127431b8d2e3542d508e7c5.mp4.m3u8?i=1920x800_4154
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/ef/ac/efac2db779f26a11e3b40820ff79e6b9.jpg", Хищник 1 (1987)
-https://river-1.rutube.ru/hls-vod/3_sHEwOjszwYR8dUKKNNWw/1761412591/2080/0x5000c500f1e52678/e610d9ec709a46d188a7eb884048687a.mp4.m3u8?i=1920x1040_3276
+https://river-1.rutube.ru/hls-vod/iP8zgdvyLck6skUsKp6AoA/1762011419/2080/0x5000c500f1e52678/e610d9ec709a46d188a7eb884048687a.mp4.m3u8?i=1920x1040_3276
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/89/b9/89b99a75e054b014b6f923beb3ca5330.jpg", Хищник 2 (1990)
-https://river-1.rutube.ru/hls-vod/bPkL9DUV3CGgTsOBamUaKA/1761412592/2084/0x5000c500f1d96f55/b401b1bbd15444f1920801e8644d0fa5.mp4.m3u8?i=1920x1040_3463
+https://river-1.rutube.ru/hls-vod/l0SQpM0PkTbbJfAjKZyOoQ/1762011420/2086/0x5000c500f1e563e5/b401b1bbd15444f1920801e8644d0fa5.mp4.m3u8?i=1920x1040_3463
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2024-11-08/07/78/077803ed7756ebca48ccc4c154614e5e.jpg", Харли Дэвидсон и ковбой Мальборо (1991)
-https://river-1.rutube.ru/hls-vod/c687exRmojupddd85rHMwQ/1761412593/2446/0x5000c500e883eb8a/2c4ba25009c54ceead8b309c1e5a427d.mp4.m3u8?i=1920x1080_10607
+https://river-1.rutube.ru/hls-vod/lwXrUCQxMOMBi8UAA2kocw/1762011422/2446/0x5000c500e883eb8a/2c4ba25009c54ceead8b309c1e5a427d.mp4.m3u8?i=1920x1080_10607
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/b1/c9/b1c970b015d0b81fe294403795f07d2c.jpg", Хищники (2010)
-https://river-1.rutube.ru/hls-vod/C5dcjrZwygCMSbNnLuhW2Q/1761412594/2080/0x5000c500f1db1d10/6b8948b8aa3b4bf3a94ca30f983aa630.mp4.m3u8?i=1920x816_4261
+https://river-1.rutube.ru/hls-vod/5BeMdCYaJv5ofYEmAgUZlw/1762011423/2080/0x5000c500f1db1d10/6b8948b8aa3b4bf3a94ca30f983aa630.mp4.m3u8?i=1920x816_4261
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/61/30/61309ef7b5f0bd9b55fd7d72020b4644.jpg", Братство волка (2001)
-https://river-1.rutube.ru/hls-vod/JziIX9_5iAxu6KoTJ0PkIw/1761412595/2550/0x5000039ce8405fc1/1bf6eca24e114ec7a641745355d4193c.mp4.m3u8?i=1920x824_3319
+https://river-1.rutube.ru/hls-vod/3mfoMPKTOBz_KhjulDpTCw/1762011424/2096/0x5000c500f1e5ac99/1bf6eca24e114ec7a641745355d4193c.mp4.m3u8?i=1920x824_3319
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/55/69/5569b8af0d772a65f3e5a95e6f2a02b1.jpg", Патриот (2000)
-https://river-1.rutube.ru/hls-vod/o5EVaO8kMiTAV8deSXCEzw/1761412596/2094/0x5000c500f1e5251e/5fd295c49670408b99e8c6adb60685c3.mp4.m3u8?i=1920x800_3418
+https://river-1.rutube.ru/hls-vod/7MhsPc1nh_QO6JDDxpVGCg/1762011425/2094/0x5000c500f1e5251e/5fd295c49670408b99e8c6adb60685c3.mp4.m3u8?i=1920x800_3418
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/bf/a3/bfa336835233d6d8118c79116e0ea85e.jpg", Багровые реки 2: Ангелы апокалипсиса (2001)
-https://river-1.rutube.ru/hls-vod/QaO4QT18_SvhIY3_B9qk2A/1761412597/2088/0x5000c500f1e5b4c9/0998d790978e4a9f8fe6d3a3afa18eac.mp4.m3u8?i=1920x808_2711
+https://river-1.rutube.ru/hls-vod/VNlVTVFC_iSRk3STGV6SJA/1762011426/2088/0x5000c500f1e5b4c9/0998d790978e4a9f8fe6d3a3afa18eac.mp4.m3u8?i=1920x808_2711
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-02-24/eb/78/eb786970635d0b0fb89cdd86f19b6633.jpg", Труп невесты (2005)
-https://river-1.rutube.ru/hls-vod/A-wKv9APJWtoy3AuIdgEzA/1761412598/1879/0x5000c500e5355ac6/e93b2fbb82534cdb92846a7f46211646.mp4.m3u8?i=1920x1080_3238
+https://river-1.rutube.ru/hls-vod/D3OSkotKInAJv-lmK0Up3Q/1762011427/1879/0x5000c500e5355ac6/e93b2fbb82534cdb92846a7f46211646.mp4.m3u8?i=1920x1080_3238
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/1f/e8/1fe805cefa7284ff7c6f4ec05757c59d.jpg", Шрек (2001)
-https://river-1.rutube.ru/hls-vod/8rZZl_f0zbmmD6d-gzFE6g/1761412599/2084/0x5000c500f1e37576/2ca2b39ebe46452ea52a78ff68e899de.mp4.m3u8?i=1920x1080_4155
+https://river-1.rutube.ru/hls-vod/4rwXU9dnfcFkh_kf-UNVaQ/1762011428/2084/0x5000c500f1e37576/2ca2b39ebe46452ea52a78ff68e899de.mp4.m3u8?i=1920x1080_4155
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/ea/a1/eaa11f59cda6e74713dd3f4c7da79aa5.jpg", Сияние (1980)
-https://river-1.rutube.ru/hls-vod/2Tw3vY0x5RL8TBmJTf_8zQ/1761412599/2086/0x5000c500f1dd737a/61778e2f29b24b0f9b08e2a5ac789cd8.mp4.m3u8?i=1920x1080_2531
+https://river-1.rutube.ru/hls-vod/BhDPO_VyfZKFUsgi2gyP7g/1762011429/2086/0x5000c500f1dd737a/61778e2f29b24b0f9b08e2a5ac789cd8.mp4.m3u8?i=1920x1080_2531
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/78/dc/78dc88e1e056b469739d037a5914ad8d.jpg", Девятые врата (1999)
-https://river-1.rutube.ru/hls-vod/53T5mDSwurRe-AS-ULB-bg/1761412600/2740/0x5000c500e931280c/eec2312992094d108e2bd5fa628aad0b.mp4.m3u8?i=1920x816_1648
+https://river-1.rutube.ru/hls-vod/k5M_fBBuLJhhwtqucf5n1A/1762011430/3088/0x5000c500e98e7de8/eec2312992094d108e2bd5fa628aad0b.mp4.m3u8?i=1920x816_1648
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2024-10-04/21/5c/215c446173b38ed2ae45da1e9dae7c24.jpg", Человек тьмы 4K (1990)
-https://river-1.rutube.ru/hls-vod/VWoUyqevmVJ9aWcIJDsQnQ/1761412602/3324/0x5000c500e9ebd6e3/8de341325a954ce294d71aea60cf3878.mp4.m3u8?i=3840x2160_16011
+https://river-1.rutube.ru/hls-vod/_mGOGgiZlYArW-1_nURgeA/1762011431/3374/0x5000c500fa77d06c/8de341325a954ce294d71aea60cf3878.mp4.m3u8?i=3840x2160_16011
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/94/a4/94a4d87ab55fd46c1537a77873f3fc11.jpg", Тень (1994)
-https://river-1.rutube.ru/hls-vod/exW8RVEYKLYqPV3ut5VkqA/1761412602/2080/0x5000c500f1e579e7/63c7983d4528474a81ee35790eb7ba8c.mp4.m3u8?i=1920x1080_16172
+https://river-1.rutube.ru/hls-vod/mg5l8xcZQSxbQtAxZF3QqQ/1762011432/2080/0x5000c500f1e579e7/63c7983d4528474a81ee35790eb7ba8c.mp4.m3u8?i=1920x1080_16172
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2024-12-01/ed/05/ed058741960331f0cd924afe4e1d171a.jpg", Дракула (1992)
-https://river-1.rutube.ru/hls-vod/pCjiKOv1DAY8Zm7GbZcYTA/1761412603/2454/0x5000c500e883918f/afae75fe6b404565af920e8a9b22c941.mp4.m3u8?i=1920x1040_9349
+https://river-1.rutube.ru/hls-vod/ewrTmhxuCzAqJHi00iFJFg/1762011434/2454/0x5000c500e883918f/afae75fe6b404565af920e8a9b22c941.mp4.m3u8?i=1920x1040_9349
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-04-24/39/ae/39ae56e47088d060ad47922e475520f1.jpg", Храброе сердце (1995)
-https://river-1.rutube.ru/hls-vod/G4u0jV1muoJS-lFtYtHuXA/1761412604/1861/0x5000c500e53c94a5/7567e5ba9b4b4e4e8b9d898f943a5b39.mp4.m3u8?i=1920x816_5758
+https://river-1.rutube.ru/hls-vod/yfDOqdj8SXZKk93BViakdQ/1762011436/1861/0x5000c500e53c94a5/7567e5ba9b4b4e4e8b9d898f943a5b39.mp4.m3u8?i=1920x816_5758
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/6d/46/6d46850282f89899148d7d3dca30a429.jpg", Троя (2004)
-https://river-1.rutube.ru/hls-vod/ET8W1zw72WIK8Gm4fCy__Q/1761412605/2090/0x5000c500f1e53ed1/90a9e35084074e7e9064af7cb873b067.mp4.m3u8?i=1920x792_3570
+https://river-1.rutube.ru/hls-vod/erDyQL9C77GBDQ6_LVlmgQ/1762011438/2090/0x5000c500f1e53ed1/90a9e35084074e7e9064af7cb873b067.mp4.m3u8?i=1920x792_3570
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2024-11-25/9c/45/9c45158432862c952a116179da709f36.jpg", Гремлины 2: Новенькая партия (1990)
-https://river-1.rutube.ru/hls-vod/RQ8Ffmd-9jr76at9nLM04Q/1761412606/2468/0x5000c500e883962b/7c69a78d37c144d09a1a2343c2a5744c.mp4.m3u8?i=1920x1080_5455
+https://river-1.rutube.ru/hls-vod/Nc-sxPbHX2mnSrJhM6vwXQ/1762011439/3392/0x5000c500fa776bc1/7c69a78d37c144d09a1a2343c2a5744c.mp4.m3u8?i=1920x1080_5455
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/bb/91/bb91626da8833229a77238edc23e8bea.jpg", Царство небесное (2005)
-https://river-1.rutube.ru/hls-vod/g1suUZvYp62bnVWxGCJ_KA/1761412607/2076/0x5000c500f1e4c974/bf7a0e2b30444d00a7c9ddb5af4642fc.mp4.m3u8?i=1920x816_3352
+https://river-1.rutube.ru/hls-vod/ASqP-dJNtoMT_RsYxv8Tcw/1762011442/2076/0x5000c500f1e4c974/bf7a0e2b30444d00a7c9ddb5af4642fc.mp4.m3u8?i=1920x816_3352
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/b8/41/b841f26da9c610e80793de9f7440f1da.jpg", Один дома (1990)
-https://river-1.rutube.ru/hls-vod/5Odf8pGLtv2WjniKrLJ2hA/1761412608/1877/0x5000c500e5110dfc/d0618f08c897472f9c4de21f44ff781f.mp4.m3u8?i=1920x1032_15816
+https://river-1.rutube.ru/hls-vod/GMrFNCR3GNG5f3EPlClFeA/1762011453/1877/0x5000c500e5110dfc/d0618f08c897472f9c4de21f44ff781f.mp4.m3u8?i=1920x1032_15816
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2024-11-29/03/2d/032d1df370100c7433eda7257f8ad046.jpg", Один дома 2: Затерянный в Нью-Йорке (2010)
-https://river-1.rutube.ru/hls-vod/N3R130Vq0YDH3A_FYXgMDQ/1761412609/1867/0x5000c500e53d02d1/4f87990c33ba494c8d6398fd965f5eaf.mp4.m3u8?i=1920x1040_8282
+https://river-1.rutube.ru/hls-vod/RBoFkXLGDmV3YdBmIuhsIQ/1762011463/1867/0x5000c500e53d02d1/4f87990c33ba494c8d6398fd965f5eaf.mp4.m3u8?i=1920x1040_8282
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/e8/f1/e8f1672324eeffd484884fd87445c294.jpg", Принц Персии: Пески времени (2010)
-https://river-1.rutube.ru/hls-vod/ffrfxD5i3Kwzry_lb8NUPQ/1761412610/2092/0x5000c500f1dd30a7/139d7acc71564a8a994a7d7d2c59ddb8.mp4.m3u8?i=1920x800_4812
+https://river-1.rutube.ru/hls-vod/Xy2-PgbQlGkv3sNQUrYKCQ/1762011469/2092/0x5000c500f1dd30a7/139d7acc71564a8a994a7d7d2c59ddb8.mp4.m3u8?i=1920x800_4812
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/69/50/6950900d717abc493d434448087e6a2a.jpg", Ван Хельсинг (2004)
-https://river-1.rutube.ru/hls-vod/80WMsI4TmbyEcImBYtRjlA/1761412611/1865/0x5000c500e53917a7/0840331647944eb3868994c2f1617540.mp4.m3u8?i=1920x1040_6471
+https://river-1.rutube.ru/hls-vod/KGEj72t6ArRMpsVDuD_-Eg/1762011480/1772/0x5000c500c45cabe9/0840331647944eb3868994c2f1617540.mp4.m3u8?i=1920x1040_6471
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2024-11-17/38/68/386800ff6f12f8871226eeda58919d4b.jpg", Сайлент Хилл (2006)
-https://river-1.rutube.ru/hls-vod/EIMZE_8nftDDw1hdlcaRzg/1761412612/1867/0x5000c500e53c8763/9fcfcfb520ed436894e63e3e9436bf81.mp4.m3u8?i=1920x816_4945
+https://river-1.rutube.ru/hls-vod/N9lS3oWyzSRVzVLIs0fs4A/1762011482/1867/0x5000c500e53c8763/9fcfcfb520ed436894e63e3e9436bf81.mp4.m3u8?i=1920x816_4945
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2024-11-17/bd/9d/bd9dbf656c5f422bfa6da726f8b3c533.jpg", Сайлент Хилл 2 (2012)
-https://river-1.rutube.ru/hls-vod/9A_kojioTtBqHfcHnKGApw/1761412613/2088/0x5000c500f1dd5272/09b0fc7833db4a258833f29562cd954b.mp4.m3u8?i=1920x800_4027
+https://river-1.rutube.ru/hls-vod/xzj3mmFZs301G10EAhGgzg/1762011483/2088/0x5000c500f1dd5272/09b0fc7833db4a258833f29562cd954b.mp4.m3u8?i=1920x800_4027
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/6c/a4/6ca4609018c4df3c6c67261090675444.jpg", Спасти рядового Райана (1998)
-https://river-1.rutube.ru/hls-vod/g2-wRJ5WIJC8QHNMoMMLTg/1761412614/2092/0x5000c500f1d0a129/bb4ac6697dc2407287174dd499373df9.mp4.m3u8?i=1920x1032_7893
+https://river-1.rutube.ru/hls-vod/hTVYcjWJ-zBpEEswgMGBRQ/1762011484/2092/0x5000c500f1d0a129/bb4ac6697dc2407287174dd499373df9.mp4.m3u8?i=1920x1032_7893
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/c9/dd/c9ddf7b982fe7022dae957099ba3b186.jpg", Перл-Харбор (2001)
-https://river-1.rutube.ru/hls-vod/Au9psd9SNqrfu5V2aJJTWQ/1761412615/2094/0x5000c500f1e522dc/a3f8cba0c03e45a893390662dabd7339.mp4.m3u8?i=1920x800_3629
+https://river-1.rutube.ru/hls-vod/RXKN9SGX3pzKkWbuGFnwlg/1762011485/2094/0x5000c500f1e522dc/a3f8cba0c03e45a893390662dabd7339.mp4.m3u8?i=1920x800_3629
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/25/42/25428afd7226e67cda3c552fc233e92c.jpg", Армагеддон (1998)
-https://river-1.rutube.ru/hls-vod/9sNMLb_yayUlDDF98LXjoQ/1761412616/1877/0x5000c500e539cbb9/f877b0389ecd41e0b5b6daa253a1d9f8.mp4.m3u8?i=1920x800_7584
+https://river-1.rutube.ru/hls-vod/RseYQw_D4oNk089tgUxcuA/1762011486/1877/0x5000c500e539cbb9/f877b0389ecd41e0b5b6daa253a1d9f8.mp4.m3u8?i=1920x800_7584
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/ea/b1/eab16c487b80e0398f42f0ec74f3b6a1.jpg", Бегущий человек (1987)
-https://river-1.rutube.ru/hls-vod/8p5FKqX5rnjmWIU8qk6WlQ/1761412617/1871/0x5000c500e4db1142/10aab125431544c7acc2aff36ceb78ba.mp4.m3u8?i=848x480_1508
+https://river-1.rutube.ru/hls-vod/Sts8aLT4-wyBBUvxh4xlTg/1762011487/1871/0x5000c500e4db1142/10aab125431544c7acc2aff36ceb78ba.mp4.m3u8?i=848x480_1508
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/56/1a/561ac5e8a1a2e0932f136d70676c8576.jpg", Эффект бабочки (2004)
-https://river-1.rutube.ru/hls-vod/Bv0EVW6i_j6OAkQ_FyAccg/1761412618/2167/0x5000c500e6685066/6b719a4751b844ad92096509569d9787.mp4.m3u8?i=1920x1080_7681
+https://river-1.rutube.ru/hls-vod/zcnQbbBsWc5NFnSX2jiQmQ/1762011488/2167/0x5000c500e6685066/6b719a4751b844ad92096509569d9787.mp4.m3u8?i=1920x1080_7681
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/99/35/9935ee154f88f1f3380793a42fbdbe80.jpg", Пираты Карибского моря. Проклятие Черной жемчужины (2003)
-https://river-1.rutube.ru/hls-vod/lGjW6qS_nW812xMNUy7yyw/1761412620/1861/0x5000c500e539f074/143b42bb4ee242dd9d660f01c2b8925c.mp4.m3u8?i=1920x1080_6473
+https://river-1.rutube.ru/hls-vod/HTq6wMdzD-xcKUSRQPSYIg/1762011489/1861/0x5000c500e539f074/143b42bb4ee242dd9d660f01c2b8925c.mp4.m3u8?i=1920x1080_6473
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/40/cd/40cd7ae19d10c729471cd57ef0ce361b.png", Пираты Карибского моря: Сундук мертвеца (2006)
-https://river-1.rutube.ru/hls-vod/mWXDHklhfO_eUrwWU-m2-Q/1761412620/2090/0x5000c500f1e5b45d/0d4ca73a35cb4e70becf7254f9549a03.mp4.m3u8?i=1920x800_3894
+https://river-1.rutube.ru/hls-vod/VvMUc7g61XQtJ3bcd18uaw/1762011490/2090/0x5000c500f1e5b45d/0d4ca73a35cb4e70becf7254f9549a03.mp4.m3u8?i=1920x800_3894
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/b5/54/b5548a4b2b607155de33784fe24c9292.png", Пираты Карибского моря: На краю Света (2007)
-https://river-1.rutube.ru/hls-vod/M8oxwewfUcMots0xM61IOw/1761412621/2086/0x5000c500f1e2773b/213d02ad10ab45e19cb295e105c758f3.mp4.m3u8?i=1920x800_3784
+https://river-1.rutube.ru/hls-vod/R1qf2TvedVuMjklrL0z9-g/1762011491/2086/0x5000c500f1e2773b/213d02ad10ab45e19cb295e105c758f3.mp4.m3u8?i=1920x800_3784
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/99/c7/99c71f487486ee6409ac7606deda8ef1.jpg", Пираты Карибского моря: На странных берегах (2011)
-https://river-1.rutube.ru/hls-vod/9QfTEO3BNzXlQS1pXcUC9Q/1761412622/2096/0x5000c500f1e53214/605bd8c592134555b0f053cffb26c179.mp4.m3u8?i=1920x800_3839
+https://river-1.rutube.ru/hls-vod/i72fdWyPvh9ACCIRtWp2ag/1762011492/2096/0x5000c500f1e53214/605bd8c592134555b0f053cffb26c179.mp4.m3u8?i=1920x800_3839
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/f8/74/f874ad56bd477eb295cbf9e769f36d7b.jpg", Пираты Карибского моря: Мертвецы не рассказывают сказки (2017)
-https://river-1.rutube.ru/hls-vod/IIZVovSmd831INs63B09Kg/1761412623/2086/0x5000c500f1e48a51/4a3cdd98a15645b48d857b137ba1ff68.mp4.m3u8?i=1920x800_4645
+https://river-1.rutube.ru/hls-vod/WEZarIeMwoREj_CPrK4S7w/1762011493/2086/0x5000c500f1e48a51/4a3cdd98a15645b48d857b137ba1ff68.mp4.m3u8?i=1920x800_4645
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/9a/56/9a563328673ebfda5de3087bbae8867a.jpg", Остров головорезов (1995)
-https://river-1.rutube.ru/hls-vod/JSMi83RWUmTRcHkIhA7k2Q/1761412624/2179/0x5000c500e74e8867/830f26601914454fba826cb33aa9cb28.mp4.m3u8?i=1920x816_3512
+https://river-1.rutube.ru/hls-vod/aHbffEs6n-WdY931B6aWzA/1762011494/2179/0x5000c500e74e8867/830f26601914454fba826cb33aa9cb28.mp4.m3u8?i=1920x816_3512
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/86/be/86beb602079c3abfe1adcaac41d64588.jpg", Разрушитель (1993)
-https://river-1.rutube.ru/hls-vod/_rVF8WIcDzY-ugcCot3ZIA/1761412625/2084/0x5000c500f1e5bc16/f787157213a94061aa65e4082c73f37e.mp4.m3u8?i=1920x800_2579
+https://river-1.rutube.ru/hls-vod/h4QecmzLf2ZbPej1fziJng/1762011494/2084/0x5000c500f1e5bc16/f787157213a94061aa65e4082c73f37e.mp4.m3u8?i=1920x800_2579
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2024-11-07/be/69/be6997951212b273c3aed5b0e6fe3300.jpg", Судья Дредд (1995)
-https://river-1.rutube.ru/hls-vod/rPA6FO6CguFh35pPVrJxew/1761412626/2094/0x5000c500f1e5b4c4/a057446b03a44dad81482c771ec41efd.mp4.m3u8?i=1904x1080_9316
+https://river-1.rutube.ru/hls-vod/PhLurBm590IanFaTGutykg/1762011496/2094/0x5000c500f1e5b4c4/a057446b03a44dad81482c771ec41efd.mp4.m3u8?i=1904x1080_9316
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/52/e4/52e4fad6bcd89234c114381f8fbd3f8e.jpg", Звездный десант (1997)
-https://river-1.rutube.ru/hls-vod/sI_Y3ZjhevIYr2dKY68lRQ/1761412627/2096/0x5000c500f1e5ac51/35797a988b1c405f8dae381e1c52843a.mp4.m3u8?i=1920x1040_5893
+https://river-1.rutube.ru/hls-vod/4PgxRRW3OKx_UoSU0Llp4g/1762011497/2096/0x5000c500f1e5ac51/35797a988b1c405f8dae381e1c52843a.mp4.m3u8?i=1920x1040_5893
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/b6/86/b68605f298d8abaf72de57f85c7ce2b6.jpg", Маска (1994)
-https://river-1.rutube.ru/hls-vod/TZUgS6A1GpoICAiFd_14xg/1761412628/2088/0x5000c500f1e50207/2a73d46b6ead4b469a0f23b9f124ab3a.mp4.m3u8?i=1920x1080_2964
-#EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/4a/f9/4af9c547d5b8f17be3b8707e91c44590.jpg", Форрест Гамп (1994)
-https://river-1.rutube.ru/hls-vod/tzu15pt-9Z2_EVwVwiuwKg/1761412629/2080/0x5000c500f1e4ee8f/98def6ae0af54c518a5792673792e81f.mp4.m3u8?i=1920x816_7406
-#EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/a4/e7/a4e7fc51713fe07a7e74d68f3f3067dd.jpg", К-9: (Собачья работа 1989)
-https://river-1.rutube.ru/hls-vod/sYIaNnwmxIZxtOYHRyHBdw/1761412630/1881/0x5000c500e539f380/6114d6a8726d468d9b20d97a867fe9a2.mp4.m3u8?i=1920x1040_14461
+https://river-1.rutube.ru/hls-vod/8ovq2EVkDnzcm-R8iukCyw/1762011498/2088/0x5000c500f1e50207/2a73d46b6ead4b469a0f23b9f124ab3a.mp4.m3u8?i=1920x1080_2964
+#EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-10-21/ab/5d/ab5d12ebc557ff38b33c024b20337efd.jpg", К-9: (Собачья работа 1989)
+https://river-1.rutube.ru/hls-vod/9qJDF3MLWN2Sd-Sjc0F9AQ/1762011500/1881/0x5000c500e539f380/6114d6a8726d468d9b20d97a867fe9a2.mp4.m3u8?i=1920x1040_14461
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/ba/4a/ba4a7cff1ae434162855e089994696bb.jpg", Чужой (1979)
-https://river-1.rutube.ru/hls-vod/HCmBSM3WJrSLaqILDu7DWg/1761412631/1869/0x5000c500e53c0ba6/c159441ba24c4270b832f2ccf6b4c638.mp4.m3u8?i=1920x816_3577
+https://river-1.rutube.ru/hls-vod/EI0hGRckPoSV-t0xGo4k5w/1762011502/1869/0x5000c500e53c0ba6/c159441ba24c4270b832f2ccf6b4c638.mp4.m3u8?i=1920x816_3577
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/f6/4e/f64e6150976bae41d4f82e8affdef8fc.jpg", Чужие (1986)
-https://river-1.rutube.ru/hls-vod/9908YBzzjV4ndkPWVg1JEQ/1761412632/2084/0x5000c500f1e565cc/720238d9fbdd432099836d93b4f02e9c.mp4.m3u8?i=1920x1080_4495
+https://river-1.rutube.ru/hls-vod/Q-TsUu0OUGhSngEJ6Br7PQ/1762011502/2084/0x5000c500f1e565cc/720238d9fbdd432099836d93b4f02e9c.mp4.m3u8?i=1920x1080_4495
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/51/ce/51ce5c9e08b75677efde118767fdd56a.png", Чужой 3 (1992)
-https://river-1.rutube.ru/hls-vod/vO2Q4oryO5YTqfa3vjYCXw/1761412633/2088/0x5000c500f1e5bbdf/6e1acd4f84504a119ac1a7eb2808ad9f.mp4.m3u8?i=1920x808_2837
+https://river-1.rutube.ru/hls-vod/tjbCObijx2jhg6F8JMei8w/1762011503/2088/0x5000c500f1e5bbdf/6e1acd4f84504a119ac1a7eb2808ad9f.mp4.m3u8?i=1920x808_2837
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/f0/c3/f0c33f8970b44e497da4cc1156f8ee7b.jpg", Чужой 4: Воскрешение (1997)
-https://river-1.rutube.ru/hls-vod/jwZ4MUt-TwH5ypS98E8g8g/1761412634/2096/0x5000c500f1e50966/157552c816314567b0bee921d4490b54.mp4.m3u8?i=1920x816_4061
+https://river-1.rutube.ru/hls-vod/AyUcTM5AzwV-otHkqJxUhg/1762011504/2096/0x5000c500f1e50966/157552c816314567b0bee921d4490b54.mp4.m3u8?i=1920x816_4061
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2024-11-05/2d/d3/2dd3e19e26244f931d6fe972ce33da5a.jpg", Чужой: Завет (2017)
-https://river-1.rutube.ru/hls-vod/sb-ELOoXgebljfd3GgSV3A/1761412635/2506/0x5000039ce839b529/6a7a7e0db6ad474e9731b3eb6ce4f8e6.mp4.m3u8?i=1920x800_9695
+https://river-1.rutube.ru/hls-vod/zn3Lt0KIoiCmZ1aHDQ0s4A/1762011505/2506/0x5000039ce839b529/6a7a7e0db6ad474e9731b3eb6ce4f8e6.mp4.m3u8?i=1920x800_9695
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2024-10-14/d2/69/d269d7107dca7c61c3ee9ae6db2ecf4a.jpg", Чужой: Ромул (2024)
-https://river-1.rutube.ru/hls-vod/ilLbq9w_o_S6S05K464lgQ/1761412636/2460/0x5000c500e8834c2e/055d2b9eb61d40f2a2997f82d7f460c8.mp4.m3u8?i=2560x1064_3046
+https://river-1.rutube.ru/hls-vod/ZaYe2hqbRUeAGDJn22CSxw/1762011506/2460/0x5000c500e8834c2e/055d2b9eb61d40f2a2997f82d7f460c8.mp4.m3u8?i=2560x1064_3046
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2024-09-27/1c/d0/1cd0f257e09ef914172373f7c2bb3ec2.jpg", Бешеные псы (1991)
-https://river-1.rutube.ru/hls-vod/srUOwV6HI15wYutpZdEFuQ/1761412637/2417/0x5000c500f2b4a9bb/c09d0b20afc94057b1c502381e64d5af.mp4.m3u8?i=1920x1080_5179
-
-
-
-
+https://river-1.rutube.ru/hls-vod/AtFI-COeW5lp7q309p30xQ/1762011507/2417/0x5000c500f2b4a9bb/c09d0b20afc94057b1c502381e64d5af.mp4.m3u8?i=1920x1080_5179
 
 
 
