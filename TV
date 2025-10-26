@@ -500,6 +500,8 @@ https://blueberry.uvs.onlinetv.link/cdn_origin2/1plus1/chunks.m3u8
 https://blueberry.uvs.onlinetv.link/cdn_origin2/stb/chunks.m3u8
 #EXTINF:-1 group-title="Uvensys GmbH", ICTV HD
 https://blueberry.uvs.onlinetv.link/cdn_origin2/ictv/chunks.m3u8
+#EXTINF:-1 group-title="Uvensys GmbH", Мега
+https://blueberry.uvs.onlinetv.link/cdn_origin2/mega_ua/chunks.m3u8
 #EXTINF:-1 group-title="Uvensys GmbH", Інтер
 https://blueberry.uvs.onlinetv.link/cdn_origin2/inter/chunks.m3u8
 #EXTINF:-1 group-title="Uvensys GmbH", 360
@@ -546,8 +548,6 @@ https://blueberry.uvs.onlinetv.link/cdn_origin2/kto_est_kto/chunks.m3u8
 https://blueberry.uvs.onlinetv.link/cdn_origin2/kuhnya_tv/chunks.m3u8
 #EXTINF:-1 group-title="Uvensys GmbH", Любимое кино
 https://blueberry.uvs.onlinetv.link/cdn_origin2/lubimoekino/chunks.m3u8
-#EXTINF:-1 group-title="Uvensys GmbH", Mega
-https://blueberry.uvs.onlinetv.link/cdn_origin2/mega_ua/chunks.m3u8
 #EXTINF:-1 group-title="Uvensys GmbH", Мир сериала
 https://blueberry.uvs.onlinetv.link/cdn_origin2/mir_seriala/chunks.m3u8
 #EXTINF:-1 group-title="Uvensys GmbH", НСТ
