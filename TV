@@ -458,6 +458,7 @@ https://river-1.rutube.ru/hls-vod/OGO1RCGT-kXTBvNZJA9Plg/1762011960/1846/0x5000c
 
 
 
+
 #EXTINF:-1 group-title="StarNet",ТНТ4
 http://139.28.255.188:8080/tnt4/index.m3u8
 #EXTINF:-1 group-title="StarNet",РЕН ТВ HD
@@ -3656,6 +3657,106 @@ https://simf.1tvcrimea.ru/simferopol24.m3u8
 https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/qazaqstantv/qazaqstantv_720/chunks.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://www.samru.ru/content/Image/News/logo/gis_logo1.jpg",Телеканал ГИС Самара
 https://tvsamaragis.tk/new/new/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 group-title="Primak Evgenii (VPN)", ТНТ HD
+http://188.190.222.53/THT_HD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Primak Evgenii (VPN)", ТНТ4
+http://188.190.222.53/TNT4/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Primak Evgenii (VPN)", HTB HD
+http://188.190.222.53/HTB_HD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Primak Evgenii (VPN)", History
+http://188.190.222.53/History/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Primak Evgenii (VPN)", Insight UHD
+http://188.190.222.53/InsightUHD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Primak Evgenii (VPN)", RTG TV
+http://188.190.222.53/RTG_TV/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Primak Evgenii (VPN)", Viasat Explore
+http://188.190.222.53/Viasat_Explore/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Primak Evgenii (VPN)", Viasat History
+http://188.190.222.53/Viasat_History/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Primak Evgenii (VPN)", 5 канал
+http://188.190.222.53/5_kanal/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Primak Evgenii (VPN)", 8 канал
+http://188.190.222.53/8kanal/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Primak Evgenii (VPN)", Amedia 1
+http://188.190.222.53/Amedia_1/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Primak Evgenii (VPN)", Че
+http://188.190.222.53/Che/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Primak Evgenii (VPN)", VIP Comedy HD
+http://188.190.222.53/ComedyHD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Primak Evgenii (VPN)", VIP Megahit HD
+http://188.190.222.53/MegahitHD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Primak Evgenii (VPN)", VIP Premiere HD
+http://188.190.222.53/PremiereHD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Primak Evgenii (VPN)", СТС
+http://188.190.222.53/CTC/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Primak Evgenii (VPN)", СТС Love
+http://188.190.222.53/CTC_Love/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Primak Evgenii (VPN)", СТС HD
+http://188.190.222.53/CTC_HD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Primak Evgenii (VPN)", День победы
+http://188.190.222.53/Den_pobedy_hd/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Primak Evgenii (VPN)", Дикий
+http://188.190.222.53/Dikiy/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Primak Evgenii (VPN)", Домашний
+http://188.190.222.53/Domashniy/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Primak Evgenii (VPN)", Еврокино
+http://188.190.222.53/Evrokino/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Primak Evgenii (VPN)", Иллюзион+
+http://188.190.222.53/Illuzion+/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Primak Evgenii (VPN)", Кино Премиум HD
+http://188.190.222.53/Kino_Premium_HD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Primak Evgenii (VPN)", Кино ТВ
+http://188.190.222.53/Kino_TV_HD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Primak Evgenii (VPN)", Комедийное HD
+http://188.190.222.53/Kinopokaz_HD2/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Primak Evgenii (VPN)", Мир сериала
+http://188.190.222.53/Mir_seriala/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Primak Evgenii (VPN)", Мосфильм. Золотая коллекция
+http://188.190.222.53/Mosfilm/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Primak Evgenii (VPN)", Остросюжетное HD
+http://188.190.222.53/Ostrosugetnoe_HD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Primak Evgenii (VPN)", .Red
+http://188.190.222.53/Sony_ET/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Primak Evgenii (VPN)", TV1000 Русское кино
+http://188.190.222.53/TV1000_Russkoe_kino/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Primak Evgenii (VPN)", Москва 24
+http://188.190.222.53/Moskva_24/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Primak Evgenii (VPN)", Мир
+http://188.190.222.53/Mir/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Primak Evgenii (VPN)", Наша тема
+http://188.190.222.53/Nasha_tema/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Primak Evgenii (VPN)", Ностальгия
+http://188.190.222.53/Nostalgia/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Primak Evgenii (VPN)", Суббота
+http://188.190.222.53/Super/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Primak Evgenii (VPN)", Успех
+http://188.190.222.53/Uspeh/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Primak Evgenii (VPN)", Bridge TV
+http://188.190.222.53/BridgeTV/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Primak Evgenii (VPN)", TiJi
+http://188.190.222.53/TiJi/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Primak Evgenii (VPN)", Карусель
+http://188.190.222.53/Karusel/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Primak Evgenii (VPN)", Мама
+http://188.190.222.53/Mama/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Primak Evgenii (VPN)", Мульт
+http://188.190.222.53/Mult/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Primak Evgenii (VPN)", Gulli Girl
+http://188.190.222.53/Gulli_Girl/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆", Матч! Футбол 1
+http://188.190.222.53/Match_Futbol_1/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆", Матч! Футбол 2
+http://188.190.222.53/Match_Futbol_2/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆", Матч! Футбол 3
+http://188.190.222.53/Match_Futbol_3/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆", Футбол
+http://188.190.222.53/Football/tracks-v1a1/mono.ts.m3u8
+
+
+
 
 
 
