@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG,http://epg.one/epg2.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz"
 
 
-#EXTINF:-1 group-title="🔺 INFO 🔺" tvg-logo="https://i.postimg.cc/76BWD3tc/1.gif",Обновление:🎃 30.10.2025
+#EXTINF:-1 group-title="🔺 INFO 🔺" tvg-logo="https://i.postimg.cc/76BWD3tc/1.gif",Обновление:🎃30.10.2025
 http://194.26.229.213/zastavka/index.m3u8
 #EXTINF:-1 group-title="🔺 INFO 🔺" tvg-logo="https://i.postimg.cc/nrj0J6Dj/1.png",Android TV + Free TV
 http://194.26.229.213/intro/index.m3u8
@@ -44,7 +44,7 @@ http://188.237.47.212:6001
 http://188.237.47.212:6007
 #EXTINF:-1 group-title="TEST ⓵",Start World
 http://109.248.236.51/start_world_hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="TEST ⓵,VIASAT Kino Comedy HD
+#EXTINF:-1 group-title="TEST ⓵",VIASAT Kino Comedy HD
 http://ukr2.ukrainske.tv/493/video.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Мужское кино
 http://157.90.0.245:8070/muzhskoe_kino/index.m3u8
