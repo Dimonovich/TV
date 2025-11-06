@@ -118,6 +118,8 @@ http://ukr.ukrainske.tv/134/keytvainua/video.m3u8
 http://ukr.ukrainske.tv/493/keytvainua/video.m3u8
 #EXTINF:-1 group-title="TEST ⓵",1+1 Марафон UA
 http://ukr.ukrainske.tv/399/keytvainua/video.m3u8
+#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://provider-static.plex.tv/3/epg/channels/logos/gracenote/38945a2afcb8ce8ae6b5fe557e908b2f.png",Cirque du Soleil
+https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-67642f277c5e3b38af72dcdb.m3u8
 #EXTINF:-1 group-title="TEST ⓵" tvg-id="skif-vitebsk",Скиф ТВ
 http://95.46.208.8:24432/skif
 #EXTINF:-1 group-title="TEST ⓵",OstWest
@@ -214,10 +216,6 @@ http://5.188.158.65:4040/IPTVPLAYPAMYAT.tv/video.m3u8?token=lqRGka5-YwwqF0
 http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://i.postimg.cc/v8KFj826/1.png", IPTVPLAY Великая Отечественная HD
 http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 group-title="TEST (VPN)",Baby Time
-http://185.221.213.254/live/stream3.php?q=OWWGT5_z5DqjdLW9cndeOmc5aO6pnRbuSajO28AMNZlvQmeXQ_iWHp0Fz7MTnr3Oug7p6sHgeRtqTpR_WNEipjpEyv53G58Wj1Rgv9ETCR2JV3w3LyhyhHvewwSEDBXT&token=MjIyMjoyMjIyMjI=
-#EXTINF:-1 group-title="TEST (VPN)",Вкус
-http://185.221.213.254/live/stream3.php?q=OWWGT5_z5DqjdLW9cndeOmc5aO6pnRbuSajO28AMNZnFb4iJ1Qqz9GhIHTeL4yM1l2znOI0P3E3qK6ZJZpdLTxJI2L3yFRy96n1gw-7mc-c3-houtWFSgQ0Blyh5QuU6&token=MjIyMjoyMjIyMjI=
 #EXTINF:-1 group-title="TEST (VPN)",Матч HD
 https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",Матч ТВ
@@ -1686,27 +1684,6 @@ https://d27toxk63drks3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 
 
-
-
-
-#EXTINF:-1 group-title="Музыкальные 🎶",Bridge TV
-http://185.221.213.254/live/stream3.php?q=OWWGT5_z5DqjdLW9cndeOmc5aO6pnRbuSajO28AMNZlOcAq-6fDwxzS8gzJQ7TOMNVoeunvCR5A7TSzzyQYAKiz3DrvkB9WMul0IO4wMy-2Fl9Wkosll8jogJh5C05VN&token=MjIyMjoyMjIyMjI=
-#EXTINF:-1 group-title="Музыкальные 🎶",Bridge TV Русский хит
-http://185.221.213.254/live/stream3.php?q=OWWGT5_z5DqjdLW9cndeOmc5aO6pnRbuSajO28AMNZn8iDnUIaFv2T0YWAxtB6cVqx9QtpYgTnSpeASqpTzrUsWfdCvxHOLx7h5yNaRg5PnfkMH8Hs9uKasoIK7tPYa2&token=MjIyMjoyMjIyMjI=
-#EXTINF:-1 group-title="Музыкальные 🎶",Bridge HD
-http://185.221.213.254/live/stream3.php?q=OWWGT5_z5DqjdLW9cndeOmc5aO6pnRbuSajO28AMNZn5qltO_FAMcnsnmZVkMDczfI9tRRMrY9t4hqCq_kSDa6kpN-uQOfUUYiB6IlwBGY-bg-QCp3EZFB2d1lIRrmcj&token=MjIyMjoyMjIyMjI=
-#EXTINF:-1 group-title="Музыкальные 🎶",Bridge TV Hits
-http://185.221.213.254/live/stream3.php?q=OWWGT5_z5DqjdLW9cndeOmc5aO6pnRbuSajO28AMNZmI26YDzy3y7LORVY3mhx5IeVeCspPexSZgT_T2H_2COToBIm-S4_bKpr-MmB7NFBnIilEx-6WhuWdw6qGSYm-L&token=MjIyMjoyMjIyMjI=
-#EXTINF:-1 group-title="Музыкальные 🎶",Bridge TV Classic
-http://185.221.213.254/live/stream3.php?q=OWWGT5_z5DqjdLW9cndeOmc5aO6pnRbuSajO28AMNZnecugN-JUJwyYkU-m3S68TzuFRsXCfyY1DQ3jQc_CnIHGTkJyMCOUYsW7zOl_UwUSgN3cU6N-lRWoGub1HKbyc&token=MjIyMjoyMjIyMjI=
-#EXTINF:-1 group-title="Музыкальные 🎶",Bridge TV Шлягер
-http://185.221.213.254/live/stream3.php?q=OWWGT5_z5DqjdLW9cndeOmc5aO6pnRbuSajO28AMNZnRkDRcRhYI_OzRWe8Lehz5jM_n1UpH13pEN83pPmPMA3wjeuoeO0GyGQBYCykgUlXpTiWmKRqk_ILuYh4GjVMu&token=MjIyMjoyMjIyMjI=
-#EXTINF:-1 group-title="Музыкальные 🎶",Bridge TV Fresh
-http://185.221.213.254/live/stream3.php?q=OWWGT5_z5DqjdLW9cndeOmc5aO6pnRbuSajO28AMNZmg5GFnFDgGTMtv1DO7OIoV1AUW1Wgu4XlmPEn1iTGUXi6kqEFyD8jjwLtPoEVLspGfL1yxtnxjv-bqoNHc9yfX&token=MjIyMjoyMjIyMjI=
-#EXTINF:-1 group-title="Музыкальные 🎶",Bridge TV Rock
-http://185.221.213.254/live/stream3.php?q=OWWGT5_z5DqjdLW9cndeOmc5aO6pnRbuSajO28AMNZnVBZjvV94pnvQd0kOy4QfUGRVbj_8XOcR-2kAXG9tbReUYx_HleepRh6TkmvxjPxVgkABLmEkzgkegwoiwlGKu&token=MjIyMjoyMjIyMjI=
-#EXTINF:-1 group-title="Музыкальные 🎶",Bridge TV Этно
-http://185.221.213.254/live/stream3.php?q=OWWGT5_z5DqjdLW9cndeOmc5aO6pnRbuSajO28AMNZmEURbvn3K0a0wdScC-_G_Nzg04FoSIk_12foHZ50sA5EDw1E4AXuzI6M5oZkkyqf0wYhgh5P5n8Zb85ZOEzAOK&token=MjIyMjoyMjIyMjI=
 #EXTINF:-1 group-title="Музыкальные 🎶",ZeeTV Music Party
 http://thksmom.shop/zp1247/index.m3u8
 #EXTINF:-1 group-title="Музыкальные 🎶",Hind Hits
