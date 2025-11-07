@@ -3,7 +3,7 @@
   {
     "server": "51.178.43.237",
     "server_port": 8443,
-    "password": "xL2z55pQG3Ol8us7hiTOxSkzD6vm3BlbsgymBrcnmwA=",
+    "password": "I+TVO9aM2Bi+ga2Zu8sH36KnfYm5FRSYPZ4rcHYW20g=",
     "method": "aes-256-gcm",
     "remarks": "🇫🇷 Франция (Android TV + Free TV)",
     "route": "all",
@@ -16,24 +16,9 @@
     "udpdns": false
   },
   {
-    "server": "37.59.112.70",
+    "server": "57.128.219.105",
     "server_port": 8443,
-    "password": "YV7DnMKzBElXw5oaX8O3SsOIYcKQwrt0ZR0gRRDDrwvCqH15wr3Dhw4QBA==",
-    "method": "aes-256-gcm",
-    "remarks": "🇫🇷 Франция 3 (Android TV + Free TV)",
-    "route": "all",
-    "remote_dns": "one.one.one.one",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },  
-  {
-    "server": "57.128.219.94",
-    "server_port": 8443,
-    "password": "ySVl4V4lgSQYVutWFKQUm2IdI7JD6MYKkRBbKq9DgWk=",
+    "password": "5411e366-5e81-40cf-b63b-1241770ae005",
     "method": "aes-256-gcm",
     "remarks": "🇵🇱 Польша 2 (Android TV + Free TV)",
     "route": "all",
@@ -48,7 +33,7 @@
   {
     "server": "5.253.43.89",
     "server_port": 8443,
-    "password": "FGhPvx2cOdhhg/dTZh/jkW+/L27i2FOLLuXlpkRqyEY=",
+    "password": "Uazwux+tOPNgrXU5ymGPEVGdL76pZGrfCyUwOVV+LO0=",
     "method": "aes-256-gcm",
     "remarks": "🇮🇹 Италия (Android TV + Free TV)",
     "route": "all",
@@ -63,7 +48,7 @@
   {
     "server": "51.195.101.239",
     "server_port": 8443,
-    "password": "bMKowpvCpk7DtsK+woUyLCFSMsOdw59xwrnDpUHCoDpYw4bDtcKmasOxKmdRNh8=",
+    "password": "w6VjwrrCh8KiTsOZw4PCncOdF8OSw6LCuzjClEIuI8KTw7fDhMO1OcKCw7LDjjZkbcOZw7I=",
     "method": "aes-256-gcm",
     "remarks": "🇩🇪 Германия (Android TV + Free TV)",
     "route": "all",
@@ -78,7 +63,7 @@
   {
     "server": "54.36.162.84",
     "server_port": 8443,
-    "password": "e8K+wr/CpHhfaMKUeMKOCW5mBy7CkcKtw5DDvsO8csKjw6XDnE/CoAPDmMOGGic+",
+    "password": "CSdkCcO6QF/DkcKqUAobBBlAUDMuS2bDtT/ClhnDpMOaw7nDthLDhsK1Fw==",
     "method": "aes-256-gcm",
     "remarks": "🇬🇧 Великобритания (Android TV + Free TV)",
     "route": "all",
