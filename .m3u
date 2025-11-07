@@ -9,15 +9,6 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:-1, Россия 1
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 
-#EXTINF:-1,РЕН-ТВ
-http://levshanov.tlkf.ru/iptv/rentv/16/g2500/playlist.m3u8
-#EXTINF:-1, НТВ-Право
-http://levshanov.tlkf.ru/iptv/ntv_pravo/16/tvrecw/playlist.m3u8
-#EXTINF:-1, НТВ-Стиль
-http://levshanov.tlkf.ru/iptv/ntv_stil/16/copy/playlist.m3u8
-#EXTINF:-1, НТВ-Сериал
-http://levshanov.tlkf.ru/iptv/ntv_serial/16/tvrecw/playlist.m3u8
-
 
 
 
@@ -249,9 +240,6 @@ https://bl.rutube.ru/livestream/eac1e371fbb6ab680d0176d472c04089/index.m3u8?s=vl
 
 
 
-
-#EXTINF:-1, BRIDGE
-http://levshanov.tlkf.ru/iptv/bridge/16/tvrecw/playlist.m3u8
 #EXTINF:-1, BRIDGE РУССКИЙ ХИТ
 http://levshanov.tlkf.ru/iptv/rusong_tv/16/vh1/playlist.m3u8
 #EXTINF:-1, BRIDGE HITS
@@ -297,6 +285,10 @@ http://levshanov.tlkf.ru/iptv/kvadro_hd/16/copy_a/playlist.m3u8
 #EXTINF:-1 ,The Explorers
 http://levshanov.tlkf.ru/iptv/the_explorers/16/tvrecw/playlist.m3u8
 
+
+#EXTINF:-1 ,Travel+Adventure
+http://levshanov.tlkf.ru/iptv/travad/16/tvrecw/playlist.m3u8
+
 #EXTINF:-1 ,Техно 24
 https://vod.splay.uz/live_splay/original/Tehno_24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Animal Planet HD
@@ -333,6 +325,11 @@ https://vod.splay.uz/live_splay/original/Eurosport2HD/tracks-v1a1/mono.m3u8
 https://vod.splay.uz/live_splay/original/MMA-TV.comHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Viasat Sport HD
 https://vod.splay.uz/live_splay/original/Viasat_Sport/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1, Матч Премьер
+http://levshanov.tlkf.ru/iptv/nashfootballhd/16/h1080/playlist.m3u8
+
 
 #EXTINF:-1,МАТЧ! АРЕНА 
 http://193.111.244.35:7474/matcharena/index.m3u8
