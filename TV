@@ -22,8 +22,6 @@ http://194.26.229.213/souzmultfilm/index.m3u8
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵",ТНТ4 International
 https://cdn4.skygo.mn/live/disk1/TNT4/HLSv3-FTA/TNT4.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Рен ТВ International
-https://cdn2.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Пятница! International
 https://cdn4.skygo.mn/live/disk1/Friday/HLSv3-FTA/Friday.m3u8
 #EXTINF:-1 group-title="TEST ⓵",СТС International
@@ -38,10 +36,6 @@ http://193.27.209.122/tiji/index.m3u8
 http://188.237.47.212:6005
 #EXTINF:-1 group-title="TEST ⓵",Fox Life HD
 http://188.237.47.212:6008
-#EXTINF:-1 group-title="TEST ⓵",.Sci-Fi
-http://188.237.47.212:6001
-#EXTINF:-1 group-title="TEST ⓵",.Black
-http://188.237.47.212:6007
 #EXTINF:-1 group-title="TEST ⓵",Start World
 http://109.248.236.51/start_world_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Мужское кино
@@ -52,6 +46,16 @@ https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/tracks-v1a
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=7LD_JOXopYIG1lmi7o5rwA&e=1762891764&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 group-title="TEST ⓵",viju TV1000 romantica
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=2Pd93dKx18RAyAJzNfyycA&e=1762891815&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:-1 group-title="TEST ⓵",Fightbox
+https://stream2.somon.tv/Fightbox/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵",VIP Comedy HD
+https://stream2.somon.tv/vipcomedy/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵",VIP Megahit HD
+https://stream2.somon.tv/vipmegahit/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵",VIP Premiere HD
+https://stream2.somon.tv/vippremiera/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵",VIP Serial HD
+https://stream2.somon.tv/vipserial/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵",TV1000 Русское кино
 http://213.169.39.30:5006
 #EXTINF:-1 group-title="TEST ⓵",Настоящее время
