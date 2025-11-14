@@ -20,6 +20,22 @@ http://194.26.229.213/chdtv_rock/index.m3u8
 http://194.26.229.213/souzmultfilm/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/BvqS8HVV/1.png",Чип и Дейл
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.ibb.co/FbRDGTB9/tv4hd.png",TV4 HD
+https://dvr3.vokkavideo.xyz/TV4HD/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.ibb.co/FbRDGTB9/tv4sd.png",TV4 SD
+https://dvr3.vokkavideo.xyz/TV4SD/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.ibb.co/dwc9xqbb/htvhd.png",HTV HD
+https://dvr3.vokkavideo.xyz/HTVHD/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.ibb.co/dwdXtmV5/alphacinemahd.png",alpha Cinema
+https://dvr3.vokkavideo.xyz/ALPHACINEMAHD/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.ibb.co/k62yvqx6/alphamoretimehd.png",alpha Moretime
+https://dvr3.vokkavideo.xyz/ALPHAMORETIMEHD/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.ibb.co/TB1NPyM6/alphafunnyhd.png",alpha Funny
+https://dvr3.vokkavideo.xyz/ALPHAFUNNYHD/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.ibb.co/NgJPp94D/15plusmusichd.png",15+ Music
+https://dvr3.vokkavideo.xyz/CRINGETVHD/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.ibb.co/3y89szkh/newrussianhd.png",Новый Русский
+https://dvr3.vokkavideo.xyz/NEWRUSSIAHD/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵",ТНТ4 International
 https://cdn4.skygo.mn/live/disk1/TNT4/HLSv3-FTA/TNT4.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Пятница! International
