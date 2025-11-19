@@ -322,7 +322,7 @@ https://vod.splay.uz/live_splay/original/Eurosport/tracks-v1a1/mono.m3u8
 https://vod.splay.uz/live_splay/original/Eurosport2HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,MMA-TV.COM
 https://vod.splay.uz/live_splay/original/MMA-TV.comHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Viasat Sport HD
+#EXTINF:-1 ,Viasat Sport
 https://vod.splay.uz/live_splay/original/Viasat_Sport/tracks-v1a1/mono.m3u8
 
 
@@ -346,8 +346,6 @@ http://50.7.28.226/8236/index.m3u8
 http://50.7.28.226/8237/index.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Футбол 3
 http://50.7.28.226/8029/index.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Viasat Sport
-http://50.7.28.226/8015/index.m3u8
 
 #EXTINF:-1 group-title="С сайтов (VPN)" ,Кавказ 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8
