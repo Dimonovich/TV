@@ -7202,6 +7202,59 @@ https://streaming.televizor-24-tochka.ru/live/6-req_offset_28000000-req_window_0
 
 
 
+#EXTINF:-1 group-title="Webhost (VPN 🇷🇺)",Россия 1
+#EXTVLCOPT:http-user-agent=SmartTV
+http://uiptv.do.am/1ufc/000000002/playlist.m3u8
+#EXTINF:-1 group-title="Webhost (VPN 🇷🇺)",Россия 24
+#EXTVLCOPT:http-user-agent=SmartTV
+http://uiptv.do.am/1ufc/000000006/playlist.m3u8
+#EXTINF:-1 group-title="Webhost (VPN 🇷🇺)",ОТР
+#EXTVLCOPT:http-user-agent=SmartTV
+http://uiptv.do.am/1ufc/000000008/playlist.m3u8
+#EXTINF:-1 group-title="Webhost (VPN 🇷🇺)" ,Моя планета
+#EXTVLCOPT:http-user-agent=SmartTV
+http://uiptv.do.am/1ufc/312275719/playlist.m3u8
+#EXTINF:-1 group-title="Webhost (VPN 🇷🇺)",Домашний
+#EXTVLCOPT:http-user-agent=SmartTV
+http://uiptv.do.am/1ufc/104487210/playlist.m3u8
+#EXTINF:-1 group-title="Webhost (VPN 🇷🇺)",РБК
+#EXTVLCOPT:http-user-agent=SmartTV
+http://uiptv.do.am/1ufc/701293058/playlist.m3u8
+#EXTINF:-1 group-title="Webhost (VPN 🇷🇺)",Russia Today HD
+#EXTVLCOPT:http-user-agent=SmartTV
+http://uiptv.do.am/1ufc/702424953/playlist.m3u8
+#EXTINF:-1 group-title="Webhost (VPN 🇷🇺)",Мир 24
+#EXTVLCOPT:http-user-agent=SmartTV
+http://uiptv.do.am/1ufc/112234126/playlist.m3u8
+#EXTINF:-1 group-title="Webhost (VPN 🇷🇺)",ТРО
+#EXTVLCOPT:http-user-agent=SmartTV
+http://uiptv.do.am/1ufc/116316122/playlist.m3u8
+#EXTINF:-1 group-title="Webhost (VPN 🇷🇺)",Мир
+#EXTVLCOPT:http-user-agent=SmartTV
+http://uiptv.do.am/1ufc/113500247/playlist.m3u8
+#EXTINF:-1 group-title="Webhost (VPN 🇷🇺)",Че
+#EXTVLCOPT:http-user-agent=SmartTV
+http://uiptv.do.am/1ufc/109121273/playlist.m3u8
+#EXTINF:-1 group-title="Webhost (VPN 🇷🇺)",Звезда
+#EXTVLCOPT:http-user-agent=SmartTV
+http://uiptv.do.am/1ufc/115312670/playlist.m3u8
+#EXTINF:-1 group-title="Webhost (VPN 🇷🇺)",Шансон ТВ
+#EXTVLCOPT:http-user-agent=SmartTV
+http://uiptv.do.am/1ufc/602079679/playlist.m3u8
+#EXTINF:-1 group-title="Webhost (VPN 🇷🇺)",ТНТ Music
+#EXTVLCOPT:http-user-agent=SmartTV
+http://uiptv.do.am/1ufc/603282189/playlist.m3u8
+#EXTINF:-1 group-title="Webhost (VPN 🇷🇺)",Муз ТВ
+#EXTVLCOPT:http-user-agent=SmartTV
+http://uiptv.do.am/1ufc/612327787/playlist.m3u8
+#EXTINF:-1 group-title="Webhost (VPN 🇷🇺)",Мир
+#EXTVLCOPT:http-user-agent=SmartTV
+http://uiptv.do.am/1ufc/113500247/playlist.m3u8
+
+
+
+
+
 #EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Первый HD
 https://livetv.mylifeisgood.net.ru/channels/perviytest.m3u8
 #EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Россия 1
