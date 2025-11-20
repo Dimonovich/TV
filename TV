@@ -80,6 +80,28 @@ http://213.169.39.30:5241
 https://iptv.itv.uz/hls/live/t/UAcSEExX5UamlFqFOIaXIA/e/1767191403/4000/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/MTbNhVZc/i-TV-Music-Logo.png",ITV Music
 https://iptv.itv.uz/hls/live/t/IDvfbmZ5Ibmqs0plMhNejg/e/1767191403/4001/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Мир 24
+https://streamer1.connectto.com/409/mono.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Русский бестселлер
+https://streamer1.connectto.com/464/mono.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Русский роман
+https://streamer1.connectto.com/466/mono.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Русский детектив
+https://streamer1.connectto.com/467/mono.m3u8
+#EXTINF:-1 group-title="TEST ⓵",СТС Love
+https://streamer1.connectto.com/471/mono.m3u8
+#EXTINF:-1 group-title="TEST ⓵",В мире животных
+https://streamer1.connectto.com/513/mono.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Комедия
+https://streamer1.connectto.com/516/mono.m3u8
+#EXTINF:-1 group-title="TEST ⓵",ТВЦ
+https://streamer3.connectto.com/300/mono.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Мультимузыка
+https://streamer3.connectto.com/372/mono.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Премиальное HD
+https://streamer3.connectto.com/373/mono.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Супергерои
+https://streamer3.connectto.com/374/mono.m3u8
 #EXTINF:-1 group-title="TEST ⓵", Уникум
 https://flussonic.salomtv.uz/Detskiy/video.m3u8
 #EXTINF:-1 group-title="TEST ⓵", Первый канал
