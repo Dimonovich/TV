@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG,http://epg.one/epg2.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz"
 
 
-#EXTINF:-1 group-title="🔺 INFO 🔺" tvg-logo="https://i.postimg.cc/76BWD3tc/1.gif",Обновление:🍁 20.11.2025
+#EXTINF:-1 group-title="🔺 INFO 🔺" tvg-logo="https://i.postimg.cc/76BWD3tc/1.gif",Обновление:20.11.2025
 http://194.26.229.213/zastavka/index.m3u8
 #EXTINF:-1 group-title="🔺 INFO 🔺" tvg-logo="https://i.postimg.cc/nrj0J6Dj/1.png",Android TV + Free TV
 http://194.26.229.213/intro/index.m3u8
@@ -2983,6 +2983,204 @@ https://tvsamaragis.tk/new/new/tracks-v1a1/mono.m3u8
 
 
 
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Первый канал HD
+http://77.232.131.211/PerviyKanalHD/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Первый канал
+http://77.232.131.211/PerviyKanal/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",РОССИЯ 24
+http://77.232.131.211/Rossiya24/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",ТНТ
+http://77.232.131.211/TNT/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",ТНТ HD
+http://77.232.131.211/TNTHD/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",НТВ HD
+http://77.232.131.211/NTV/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",РЕН ТВ
+http://77.232.131.211/RenTV/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",ТНТ 4
+http://77.232.131.211/TNT4/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",НТВ Сериал
+http://77.232.131.211/NTVSerial/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",НТВ СТИЛЬ
+http://77.232.131.211/NTVStil/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",НТВ ПРАВО
+http://77.232.131.211/NTVPravo/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",МОСКВА 24
+http://77.232.131.211/Moskva24/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Техно 24
+http://77.232.131.211/T24/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",МОЯ ПЛАНЕТА
+http://77.232.131.211/MoyaPlaneta/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Travel+Adventure HD
+http://77.232.131.211/TravelAdventureHD/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Моя планета
+http://77.232.131.211/MoyaPlanetaHD/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",CGTN
+http://77.232.131.211/CGTN/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Большая Азия
+http://77.232.131.211/BolshayaAziya/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Поехали!
+http://77.232.131.211/Poekhali/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Загородный
+http://77.232.131.211/Zagorodniy/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Еда
+http://77.232.131.211/Eda/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",ИСТОРИЯ
+http://77.232.131.211/Istoriya/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",НАУКА
+http://77.232.131.211/Nauka/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",ЖИВАЯ ПЛАНЕТА
+http://77.232.131.211/ZhivayaPlaneta/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",ТЕЛЕПУТЕШЕСТВИЯ
+http://77.232.131.211/Teleputeshestviya/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Зоо ТВ
+http://77.232.131.211/ZooTV/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Cinema
+http://77.232.131.211/Cinema/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Комедия
+http://77.232.131.211/Komediya/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Русский бестселлер
+http://77.232.131.211/RusskiyBestseller/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Русский детектив
+http://77.232.131.211/RusskiyDetektiv/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Кино ТВ
+http://77.232.131.211/KinoTV/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Кинеко
+http://77.232.131.211/Kineko/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Дом Кино Премиум
+http://77.232.131.211/DomKinoPremium/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Время
+http://77.232.131.211/Vremya/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",TVM Channel
+http://77.232.131.211/TVMChannel/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",ПОБЕДА
+http://77.232.131.211/Pobeda/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Блокбастер HD
+http://77.232.131.211/BlokbasterHD/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",День победы HD
+http://77.232.131.211/DenPobedyHD/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Дорама
+http://77.232.131.211/Dorama/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Душевное HD
+http://77.232.131.211/DushevnoeHD/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Камеди HD
+http://77.232.131.211/KamediHD/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Кинопоказ HD
+http://77.232.131.211/KinopokazHD/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Премиальное HD
+http://77.232.131.211/PremialnoeHD/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Кино ТВ
+http://77.232.131.211/KinoTVHD/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",КИНОПОКАЗ
+http://77.232.131.211/Kinopokaz/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",НСТ
+http://77.232.131.211/NST/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",БелРос
+http://77.232.131.211/BelRos/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Сарафан
+http://77.232.131.211/Sarafan/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Телекафе
+http://77.232.131.211/Telekafe/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",БСТ
+http://77.232.131.211/BST/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Анекдот ТВ
+http://77.232.131.211/AnekdotTV/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Арсенал HD
+http://77.232.131.211/ArsenalHD/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Че
+http://77.232.131.211/CHE/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Енисей
+http://77.232.131.211/Enisey/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",FAN HD
+http://77.232.131.211/FANHD/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Food Time HD
+http://77.232.131.211/FoodTimeHD/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",FlixSnip
+http://77.232.131.211/FlixSnip/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Gags Network
+http://77.232.131.211/Gagsnetwork/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Maydan
+http://77.232.131.211/Maydan/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Наша тема
+http://77.232.131.211/NashaTema/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Нано ТВ
+http://77.232.131.211/NanoHD/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Наше HD
+http://77.232.131.211/NasheHD/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Оружие
+http://77.232.131.211/Oruzhie/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Пятница
+http://77.232.131.211/Pyatnitsa/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Тонус
+http://77.232.131.211/Tonus/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",ОТР HD
+http://77.232.131.211/OTR/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Спас
+http://77.232.131.211/Spas/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",СТС
+http://77.232.131.211/STS/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Домашний
+http://77.232.131.211/Domashniy/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",ТВ3
+http://77.232.131.211/TV3/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Звезда
+http://77.232.131.211/Zvezda/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Мир HD
+http://77.232.131.211/MIR/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",РБК
+http://77.232.131.211/RBK/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Ю
+http://77.232.131.211/Yu/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",СТС LOVE
+http://77.232.131.211/STSLove/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Мир белогорья
+http://77.232.131.211/MirBelogorya/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Доктор
+http://77.232.131.211/Doktor/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Продвижение
+http://77.232.131.211/Prodvizhenie/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",RT
+http://77.232.131.211/RT/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Центральное телевидение
+http://77.232.131.211/CentralnoeTelevidenie/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",O2TV
+http://77.232.131.211/O2TV/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Музыка Первого
+http://77.232.131.211/MuzikaPervogo/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",AIVA
+http://77.232.131.211/AIVA/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Bridge TV Classic
+http://77.232.131.211/BridgeClassic/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Bridge TV Hits
+http://77.232.131.211/BridgeHits/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Bridge TV Русский Хит
+http://77.232.131.211/BridgeRusskiyHit/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Mezzo Live HD
+http://77.232.131.211/MezzoLiveHD/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Шансон ТВ
+http://77.232.131.211/ShansonTV/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",RU.TV
+http://77.232.131.211/RUTV/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",МузТВ
+http://77.232.131.211/MuzTV/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",РАДОСТЬ МОЯ
+http://77.232.131.211/RadostMoya/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",МАМА
+http://77.232.131.211/Mama/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Суббота HD
+http://77.232.131.211/Subbota/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",БОБЕР
+http://77.232.131.211/Bober/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Солнце
+http://77.232.131.211/Solnce/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Карусель
+http://77.232.131.211/Karusel/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Старт HD
+http://77.232.131.211/StartHD/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",MMA-TV.COM
+http://77.232.131.211/MMATV/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Матч HD
+http://77.232.131.211/MatchTV/index.m3u8
 
 
 #EXTINF:-1 group-title="ДВ-Ком_2 (VPN)",Первый канал HD
