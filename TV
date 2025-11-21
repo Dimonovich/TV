@@ -3061,7 +3061,7 @@ http://s1.iptvcinema.ru/kbc_koshmarnoe/index.m3u8
 http://s1.iptvcinema.ru/kbc_legendary/index.m3u8
 #EXTINF:-1 group-title="KBC (VPN)",KBC-Вестерн 
 http://s1.iptvcinema.ru/kbc_western/index.m3u8
-#EXTINF:-1 group-title="KBC (VPN)",KBC-Аниме HD
+#EXTINF:-1 group-title="KBC (VPN)"  tvg-id="kbc-anime",KBC-Аниме HD
 http://s1.iptvcinema.ru/kbc_anime/index.m3u8
 #EXTINF:-1 group-title="KBC (VPN)",KBC-Видак HD
 http://s1.iptvcinema.ru/kbc_vidak/index.m3u8
@@ -3077,7 +3077,7 @@ http://s1.iptvcinema.ru/kbc_dramatic/index.m3u8
 http://s1.iptvcinema.ru/kbc_goblin/index.m3u8
 #EXTINF:-1 group-title="KBC (VPN)",KBC-MusKino HD
 http://s1.iptvcinema.ru/kbc_muskino/index.m3u8
-#EXTINF:-1 group-title="KBC (VPN)" tvg-id="	kbc-nash-rock",KBC-Наш рок HD
+#EXTINF:-1 group-title="KBC (VPN)" tvg-id="kbc-nash-rock",KBC-Наш рок HD
 http://s1.iptvcinema.ru/kbc_nashrock/index.m3u8
 #EXTINF:-1 group-title="KBC (VPN)",KBC-Вестерн HD
 http://s1.iptvcinema.ru/kbc_western/index.m3u8
