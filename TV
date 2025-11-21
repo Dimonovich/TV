@@ -3039,11 +3039,11 @@ https://tvsamaragis.tk/new/new/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 group-title="KBC (VPN)",KBC-В.О.В
+#EXTINF:-1 group-title="KBC (VPN)",KBC-В.О.В. HD
 http://s1.iptvcinema.ru/kbc_bob/index.m3u8
 #EXTINF:-1 group-title="KBC (VPN)",KBC-Comics
 http://s1.iptvcinema.ru/kbc_comics/index.m3u8
-#EXTINF:-1 group-title="KBC (VPN)",KBC-Драма tic
+#EXTINF:-1 group-title="KBC (VPN)",KBC-ДрамаTic HD
 http://s1.iptvcinema.ru/kbc_dramatic/index.m3u8
 #EXTINF:-1 group-title="KBC (VPN)",KBC-Elite comedys
 http://s1.iptvcinema.ru/kbc_elitecomedy/index.m3u8
@@ -3061,7 +3061,7 @@ http://s1.iptvcinema.ru/kbc_koshmarnoe/index.m3u8
 http://s1.iptvcinema.ru/kbc_legendary/index.m3u8
 #EXTINF:-1 group-title="KBC (VPN)",KBC-Вестерн 
 http://s1.iptvcinema.ru/kbc_western/index.m3u8
-#EXTINF:-1 group-title="KBC (VPN)",KBC-Anime 
+#EXTINF:-1 group-title="KBC (VPN)",KBC-Аниме HD
 http://s1.iptvcinema.ru/kbc_anime/index.m3u8
 #EXTINF:-1 group-title="KBC (VPN)",KBC-Видак HD
 http://s1.iptvcinema.ru/kbc_vidak/index.m3u8
@@ -3073,7 +3073,7 @@ http://s1.iptvcinema.ru/kbc_muskino/index.m3u8
 http://s1.iptvcinema.ru/kbc_animals/index.m3u8
 #EXTINF:-1 group-title="KBC (VPN)",KBC-ДрамаTic HD
 http://s1.iptvcinema.ru/kbc_dramatic/index.m3u8
-#EXTINF:-1 group-title="KBC (VPN)",KBC-Гоблин HD
+#EXTINF:-1 group-title="KBC (VPN)" tvg-id="kbc-goblin",KBC-Гоблин HD
 http://s1.iptvcinema.ru/kbc_goblin/index.m3u8
 #EXTINF:-1 group-title="KBC (VPN)",KBC-MusKino HD
 http://s1.iptvcinema.ru/kbc_muskino/index.m3u8
@@ -3081,7 +3081,7 @@ http://s1.iptvcinema.ru/kbc_muskino/index.m3u8
 http://s1.iptvcinema.ru/kbc_nashrock/index.m3u8
 #EXTINF:-1 group-title="KBC (VPN)",KBC-Вестерн HD
 http://s1.iptvcinema.ru/kbc_western/index.m3u8
-#EXTINF:-1 group-title="KBC (VPN)",KBC-World HD
+#EXTINF:-1 group-title="KBC (VPN)" tvg-id="kbs-world",KBC-World HD
 http://s1.iptvcinema.ru/kbc_world/index.m3u8
 
 
