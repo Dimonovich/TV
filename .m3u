@@ -330,22 +330,31 @@ https://vod.splay.uz/live_splay/original/Viasat_Sport/tracks-v1a1/mono.m3u8
 http://levshanov.tlkf.ru/iptv/nashfootballhd/16/h1080/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч HD
-http://50.7.28.226/8179/index.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч Боец
-http://50.7.28.226/8671/index.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч ТВ
-http://50.7.28.226/8016/index.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆" ,Матч! Арена
-http://50.7.28.226/8018/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",МАТЧ! HD
+http://91.207.115.228:5000/c101
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Футбол
+http://91.207.115.228:5000/c102
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Планета
-http://50.7.28.226/8549/index.m3u8
+http://91.207.115.228:5000/c156
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Арена
+http://91.207.115.228:5000/c103
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Игра HD
+http://91.207.115.228:5000/c104
+#EXTINF:-1 group-title="Спорткомплекс 🏆",МАТЧ! СТРАНА HD
+http://91.207.115.228:5000/c106
+#EXTINF:-1 group-title="Спорткомплекс 🏆",МАТЧ! БОЕЦ
+http://91.207.115.228:5000/c107
+#EXTINF:-1 group-title="Спорткомплекс 🏆",KHL
+http://91.207.115.228:5000/c108
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Extreme Sports
+http://91.207.115.228:5000/c112
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Футбол 1 HD
-http://50.7.28.226/8236/index.m3u8
+http://91.207.115.228:5000/c114
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Футбол 2 HD
-http://50.7.28.226/8237/index.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Футбол 3
-http://50.7.28.226/8029/index.m3u8
+http://91.207.115.228:5000/c115
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Футбол 3 HD
+http://91.207.115.228:5000/c116
+
 
 #EXTINF:-1 group-title="С сайтов (VPN)" ,Кавказ 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8
