@@ -166,6 +166,24 @@ http://84.245.224.71/DachaHD/mono.m3u8
 http://84.245.224.71/FashionTVHD/mono.m3u8
 #EXTINF:-1 group-title="TEST ⓵",KHL HD
 http://84.245.224.71/KHLHD/mono.m3u8
+#EXTINF:-1 group-title="TEST ⓵", Беларусь 1
+http://88.99.215.227/Belarus1/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵", Беларусь 2
+http://88.99.215.227/Belarus2/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵", Беларусь 3
+http://88.99.215.227/Belarus3/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵", Беларусь 5
+http://88.99.215.227/Belarus5/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵" ,Film UA Drama
+http://88.99.215.227/FilmUADrama/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵", Fresh TV
+http://88.99.215.227/FreshTV/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵", Nicktoons HD
+http://88.99.215.227/NicktoonsHD/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵", Cinema
+http://catchup.videoline.ru/cinema/playlist.m3u8
+#EXTINF:-1 group-title="TEST ⓵", Матч ТВ
+http://catchup.videoline.ru/match/playlist.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Матч! Страна
 http://ukr.ukrainske.tv/134/keytvainua/video.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Viasat Kino Comedy
