@@ -72,10 +72,6 @@ https://stream2.somon.tv/vipmegahit/index.m3u8
 https://stream2.somon.tv/vippremiera/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵",VIP Serial HD
 https://stream2.somon.tv/vipserial/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵",TV1000 Русское кино
-http://213.169.39.30:5006
-#EXTINF:-1 group-title="TEST ⓵",Настоящее время
-http://213.169.39.30:5241
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/J4wRwcQn/i-TV-Cinema-Logo.png",ITV Cinema
 https://iptv.itv.uz/hls/live/t/UAcSEExX5UamlFqFOIaXIA/e/1767191403/4000/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/MTbNhVZc/i-TV-Music-Logo.png",ITV Music
@@ -166,14 +162,6 @@ http://84.245.224.71/DachaHD/mono.m3u8
 http://84.245.224.71/FashionTVHD/mono.m3u8
 #EXTINF:-1 group-title="TEST ⓵",KHL HD
 http://84.245.224.71/KHLHD/mono.m3u8
-#EXTINF:-1 group-title="TEST ⓵", Беларусь 1
-http://88.99.215.227/Belarus1/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵", Беларусь 2
-http://88.99.215.227/Belarus2/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵", Беларусь 3
-http://88.99.215.227/Belarus3/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵", Беларусь 5
-http://88.99.215.227/Belarus5/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵" ,Film UA Drama
 http://88.99.215.227/FilmUADrama/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵", Fresh TV
@@ -216,6 +204,14 @@ http://95.67.12.82:9098
 http://95.67.12.82:9084
 #EXTINF:-1 group-title="TEST ⓵",Загородная жизнь
 http://185.57.68.33/40/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Димград
+http://live-3.otcnet.ru/dimgrad/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Наша тема
+http://live-3.otcnet.ru/nashatema/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Первый Асковский
+http://live-3.otcnet.ru/pskov/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Спортивный
+http://live-3.otcnet.ru/sportivny/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵",CGTN Русский
 https://english-livetx.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802_hd.m3u8
 #EXTINF:-1 group-title="TEST ⓵", Київ HD
