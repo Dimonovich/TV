@@ -2760,6 +2760,42 @@ https://tvsamaragis.tk/new/new/tracks-v1a1/mono.m3u8
 
 
 
+#EXTINF:-1 group-title="Таттелеком (VPN)",Первый канал
+http://89.232.68.194:8080/1kanal/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Таттелеком (VPN)",НТВ
+http://89.232.68.194:8080/ntv/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Таттелеком (VPN)",ТНТ
+http://89.232.68.194:8080/tnt/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Таттелеком (VPN)",Рен ТВ
+http://89.232.68.194:8080/rentv/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Таттелеком (VPN)",Россия 1
+http://89.232.68.194:8080/rossiya1/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Таттелеком (VPN)",Россия К
+http://89.232.68.194:8080/rossiyak/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Таттелеком (VPN)",Viasat History
+http://89.232.68.194:8080/HISTORY/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Таттелеком (VPN)",Пятый канал
+http://89.232.68.194:8080/5kanal/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Таттелеком (VPN)",2x2
+http://89.232.68.194:8080/2x2/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Таттелеком (VPN)",VIP Comedy HD
+http://89.232.68.194:8080/ComedyHD/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Таттелеком (VPN)",Кинопоказ
+http://89.232.68.194:8080/kinopokaz/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Таттелеком (VPN)",Пятница
+http://89.232.68.194:8080/pyatnitsa/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Таттелеком (VPN)",СТС
+http://89.232.68.194:8080/sts/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Таттелеком (VPN)",TMTV
+http://89.232.68.194:8080/tmtv/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Таттелеком (VPN)",ТНВ-Татарстан
+http://89.232.68.194:8080/tnv/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Таттелеком (VPN)",ТВ3
+http://89.232.68.194:8080/tv3/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Таттелеком (VPN)",Карусель
+http://89.232.68.194:8080/karusel/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Таттелеком (VPN)",Матч Премьер
+http://89.232.68.194:8080/matchpremier/tracks-v3a1/index.m3u8
 
 
 #EXTINF:-1 group-title="ВЛАДИНФО (VPN)", Первый HD
