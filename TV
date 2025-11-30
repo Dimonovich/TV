@@ -2421,8 +2421,6 @@ http://bigteisti2.kfc.lifeyosso.fun:56374/CHE/video.m3u8
 https://bigteisti6.streaming-elbrus.su:5671/cinema_HD/video.m3u8
 #EXTINF:-1 group-title="ТаймВэб (VPN)",C-Marvel HD
 http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-C-MARVEL/video.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",COMEDY HD
-http://bigteisti6.cdn.lifeyosso.fun:56371/COMEDY/video.m3u8
 #EXTINF:-1 group-title="ТаймВэб (VPN)",СТС Love
 http://bigteisti2.cdn.lifeyosso.fun:32144/CTCLOVE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ТаймВэб (VPN)",DocuBox
@@ -2467,24 +2465,12 @@ http://bigteisti6.cdn.lifeyosso.fun:56371/k1/video.m3u8
 http://bigteisti6.cdn.lifeyosso.fun:56371/k2/video.m3u8
 #EXTINF:-1 group-title="ТаймВэб (VPN)",Kino 24
 https://bigteisti2.streaming-elbrus.su:9304/KINO24/video.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Кинохит HD
-http://bigteisti2.kfc.lifeyosso.fun:56374/kinohit/video.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Киномикс HD
-http://bigteisti2.cdn.lifeyosso.fun:32144/KINOMIKS/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Киносвидание HD
-http://bigteisti2.cdn.lifeyosso.fun:32144/KINOSVIDANIE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Киносемья HD
-http://bigteisti2.cdn.lifeyosso.fun:32144/KINOSEMYA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ТаймВэб (VPN)",Мир сериала
 http://bigteisti2.kfc.lifeyosso.fun:56374/MIRSERIALA/video.m3u8
 #EXTINF:-1 group-title="ТаймВэб (VPN)",Мосфильм. Золотая коллекция
 http://bigteisti2.kfc.lifeyosso.fun:56374/mosfilmhd/video.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Матч Премьер HD
-http://bigteisti2.kfc.lifeyosso.fun:56374/MPREMIER/video.m3u8
 #EXTINF:-1 group-title="ТаймВэб (VPN)",Бигуди
 http://bigteisti6.cdn.lifeyosso.fun:56371/bigudi/video.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Мужское кино HD
-http://bigteisti2.kfc.lifeyosso.fun:56374/muzhskoekino/video.m3u8
 #EXTINF:-1 group-title="ТаймВэб (VPN)",Мужской
 http://bigteisti2.kfc.lifeyosso.fun:56374/muzhskoy/video.m3u8
 #EXTINF:-1 group-title="ТаймВэб (VPN)",Наше мужское HD
@@ -2591,14 +2577,20 @@ https://bigteisti2.streaming-elbrus.su:9304/KINOJAM1/video.m3u8
 http://bigteisti8.cdn.lifeyosso.fun:4399/kinopokaz/video.m3u8
 #EXTINF:-1 group-title="ТаймВэб (VPN)",Киносат
 https://bigteisti2.streaming-elbrus.su:9304/a2lub3NhdA/video.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Киносемья
-https://bigteisti2.streaming-elbrus.su:9304/kinosemya_sd/video.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Кинохит HD
+http://bigteisti2.kfc.lifeyosso.fun:56374/kinohit/video.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Киномикс HD
+http://bigteisti2.cdn.lifeyosso.fun:32144/KINOMIKS/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Киносвидание HD
+http://bigteisti2.cdn.lifeyosso.fun:32144/KINOSVIDANIE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Мужское кино HD
+http://bigteisti2.kfc.lifeyosso.fun:56374/muzhskoekino/video.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Киносемья HD
+http://bigteisti2.cdn.lifeyosso.fun:32144/KINOSEMYA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ТаймВэб (VPN)",КИНОСЕРИЯ HD
 http://bigteisti6.cdn.lifeyosso.fun:56371/kinoseriya/video.m3u8
 #EXTINF:-1 group-title="ТаймВэб (VPN)",Киноужас HD
 https://bigteisti2.streaming-elbrus.su:9304/KinoUzas/video.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",КИНОХИТ HD
-http://bigteisti2.cdn.lifeyosso.fun:32144/kinohit/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ТаймВэб (VPN)",Родное кино
 http://bigteisti2.kfc.lifeyosso.fun:56374/rodnoe_kino/video.m3u8
 #EXTINF:-1 group-title="ТаймВэб (VPN)",Классика Кино
@@ -2619,8 +2611,6 @@ https://bigteisti2.streaming-elbrus.su:9304/MIRSERIALA/video.m3u8
 http://bigteisti6.cdn.lifeyosso.fun:56371/MIRSERIALA/video.m3u8
 #EXTINF:-1 group-title="ТаймВэб (VPN)",Мосфильм. Золотая коллекция HD
 https://bigteisti2.streaming-elbrus.su:9304/mosfilmhd/video.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Мужское кино HD
-https://bigteisti2.streaming-elbrus.su:9304/muzhskoekino/video.m3u8
 #EXTINF:-1 group-title="ТаймВэб (VPN)",Наш Кинопоказ HD
 https://bigteisti2.streaming-elbrus.su:9304/nashkinopokaz/video.m3u8
 #EXTINF:-1 group-title="ТаймВэб (VPN)",Любимое кино
@@ -2721,6 +2711,8 @@ http://bigteisti2.cdn.lifeyosso.fun:32144/BRIDGETV/tracks-v1a1/mono.m3u8
 http://bigteisti2.kfc.lifeyosso.fun:56374/BRIDGEHITS/video.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Беларусь 5 HD
 http://bigteisti2.cdn.lifeyosso.fun:32144/BELARUS5/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆,Матч Премьер HD
+http://bigteisti2.kfc.lifeyosso.fun:56374/MPREMIER/video.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",UFC HD
 http://bigteisti2.kfc.lifeyosso.fun:56374/UFC/video.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",MАТЧ HD
