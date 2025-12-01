@@ -2381,8 +2381,6 @@ http://bigteisti2.cdn.lifeyosso.fun:32144/NATIONALGEOGRAPHIC/tracks-v1a1/mono.m3
 http://bigteisti2.kfc.lifeyosso.fun:56374/tehno24/video.m3u8
 #EXTINF:-1 group-title="ТаймВэб (VPN)",HGTV HD
 http://bigteisti2.cdn.lifeyosso.fun:32144/HGTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",History HD
-http://bigteisti8.cdn.lifeyosso.fun:4399/HistoryHD/video.m3u8
 #EXTINF:-1 group-title="ТаймВэб (VPN)",Ocean TV
 http://bigteisti2.cdn.lifeyosso.fun:32144/OCEANTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ТаймВэб (VPN)",Поехали!
@@ -2419,8 +2417,6 @@ http://bigteisti2.kfc.lifeyosso.fun:56374/BOOMERANG/video.m3u8
 http://bigteisti2.kfc.lifeyosso.fun:56374/CHE/video.m3u8
 #EXTINF:-1 group-title="ТаймВэб (VPN)",Cinema
 https://bigteisti6.streaming-elbrus.su:5671/cinema_HD/video.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",C-Marvel HD
-http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-C-MARVEL/video.m3u8
 #EXTINF:-1 group-title="ТаймВэб (VPN)",СТС Love
 http://bigteisti2.cdn.lifeyosso.fun:32144/CTCLOVE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ТаймВэб (VPN)",DocuBox
@@ -2435,8 +2431,6 @@ http://bigteisti6.cdn.lifeyosso.fun:56371/enter_film/video.m3u8
 https://bigteisti6.streaming-elbrus.su:5671/epic_drama_hd/video.m3u8
 #EXTINF:-1 group-title="ТаймВэб (VPN)",Euronews HD
 http://bigteisti2.kfc.lifeyosso.fun:56374/euronews/video.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",FAN HD
-http://bigteisti8.cdn.lifeyosso.fun:4399/fan_hd/video.m3u8
 #EXTINF:-1 group-title="ТаймВэб (VPN)",Filmbox
 https://bigteisti6.streaming-elbrus.su:5671/FilmBox/video.m3u8
 #EXTINF:-1 group-title="ТаймВэб (VPN)",Filmbox Arthouse
@@ -2515,42 +2509,6 @@ https://bigteisti2.streaming-elbrus.su:9304/VIPMEGAHIT/video.m3u8
 http://bigteisti6.cdn.lifeyosso.fun:56371/VIPPREMIERE/video.m3u8
 #EXTINF:-1 group-title="ТаймВэб (VPN)",ViP Serial HD
 https://bigteisti2.streaming-elbrus.su:9304/VIPSERIAL/video.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Yosso TV Ковбойское
-http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-KOWBOY/video.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Yosso TV Adrenaline
-http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-ADRENALINE/video.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Yosso TV Adventure
-http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-ADVENTURE/video.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Yosso TV BEST
-http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-BEST/video.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Yosso TV Disney
-http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-DISNEY/video.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Yosso TV Grand
-http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-GRAND/video.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Yosso TV Kids
-http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-KIDS/video.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Yosso TV Music Hits
-http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-MUSIC-HITS/video.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Yosso TV Netflix
-http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-NETFLIX/video.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Yosso TV NEW Кино
-http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-NEW/video.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Yosso TV Oblivion
-http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-OBLIVION/video.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Yosso TV VHS
-http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-VHS/video.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Yosso TV Забавное
-http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-ZABAVNOE/video.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Yosso TV Наше Детское
-http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-DETSKOE/video.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Yosso TV Русские фильмы
-http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-RUS/video.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Yosso TV Советские фильмы
-http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-SSSR/video.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Yosso TV Союзмульт
-http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-MULT/video.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Yosso TV Трагичное
-http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-TRAGIC/video.m3u8
 #EXTINF:-1 group-title="ТаймВэб (VPN)",АВТО 24
 http://bigteisti2.cdn.lifeyosso.fun:32144/AVTO24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ТаймВэб (VPN)",Amedia 1 HD
@@ -2677,8 +2635,6 @@ http://bigteisti1.cdn.lifeyosso.fun:56373/MULT/video.m3u8
 http://bigteisti2.kfc.lifeyosso.fun:56374/GULLI/video.m3u8
 #EXTINF:-1 group-title="ТаймВэб (VPN)",Da Vinci
 http://bigteisti6.cdn.lifeyosso.fun:56371/Da_Vinci/video.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",CARTOON NETWORK
-http://bigteisti2.cdn.lifeyosso.fun:32144/CARTOONNETWORK/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ТаймВэб (VPN)",Baby Time
 http://bigteisti2.kfc.lifeyosso.fun:56374/babytime/video.m3u8
 #EXTINF:-1 group-title="ТаймВэб (VPN)",JIM JAM
