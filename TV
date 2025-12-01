@@ -566,6 +566,8 @@ http://185.78.112.57:8077/dom_kino/index.m3u8
 http://185.78.112.57:8077/domashniy/index.m3u8
 #EXTINF:-1 group-title="Маяк Нетворк",Дорама
 http://185.78.112.57:8077/Dorama/index.m3u8
+#EXTINF:-1 group-title="Маяк Нетворк",Русский Иллюзион
+http://185.78.112.57:8077/RusskiyIllusion/index.m3u8
 #EXTINF:-1 group-title="Маяк Нетворк",Иллюзион+
 http://185.78.112.57:8077/illusion_plus_hd/index.m3u8
 #EXTINF:-1 group-title="Маяк Нетворк",Ингушетия
@@ -586,8 +588,6 @@ http://185.78.112.57:8077/priboy_tv/index.m3u8
 http://185.78.112.57:8077/priboy_tv_hd/index.m3u8
 #EXTINF:-1 group-title="Маяк Нетворк",Пятница
 http://185.78.112.57:8077/Pyatnica/index.m3u8
-#EXTINF:-1 group-title="Маяк Нетворк",Русский Иллюзион
-http://185.78.112.57:8077/RusskiyIllusion/index.m3u8
 #EXTINF:-1 group-title="Маяк Нетворк",Сапфир HD
 http://185.78.112.57:8077/fox_life_hd/index.m3u8
 #EXTINF:-1 group-title="Маяк Нетворк",Спас
