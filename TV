@@ -564,6 +564,10 @@ http://185.78.112.57:8077/viju_nature_hd/index.m3u8
 http://185.78.112.57:8077/DikayaRybalkaHD/index.m3u8
 #EXTINF:-1 group-title="Маяк Нетворк",Ocean TV
 http://185.78.112.57:8077/OceanTV/index.m3u8
+#EXTINF:-1 group-title="Маяк Нетворк",Мир вокруг
+http://185.78.112.57:8077/MirVokrugHD/index.m3u8
+#EXTINF:-1 group-title="Маяк Нетворк",Дикая охота
+http://185.78.112.57:8077/DikayaOxotaHD/index.m3u8
 #EXTINF:-1 group-title="Маяк Нетворк",Рыболов
 http://185.78.112.57:8077/ohotnik/index.m3u8
 #EXTINF:-1 group-title="Маяк Нетворк",Загородный
@@ -592,6 +596,8 @@ http://185.78.112.57:8077/home4k/index.m3u8
 http://185.78.112.57:8077/Insight_UHD/index.m3u8
 #EXTINF:-1 group-title="Маяк Нетворк",Ultra HD Cinema
 http://185.78.112.57:8077/ultra_cinema_4k/index.m3u8
+#EXTINF:-1 group-title="Маяк Нетворк",Quadro 4K
+http://185.78.112.57:8077/Quadro4K/index.m3u8
 #EXTINF:-1 group-title="Маяк Нетворк",Киносат
 http://185.78.112.57:8077/kinosat/index.m3u8
 #EXTINF:-1 group-title="Маяк Нетворк",Любимое кино
