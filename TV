@@ -236,14 +236,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 http://185.221.213.254:8080/Okko/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)", Матч Премьер
 http://levshanov.tlkf.ru/iptv/nashfootballhd/16/h1080/playlist.m3u8
-#EXTINF:-1 group-title="TEST (VPN)", Матч! Страна
-http://95.163.85.128/streams/media/match-strana_720x576/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)", Россия К
-http://95.163.85.128/streams/media/kultura_720x576/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)", НТВ
-http://95.163.85.128/streams/media/ntv_720x576/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)", Рен ТВ
-http://95.163.85.128/streams/media/ren-tv_720x576/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)", ТНТ
 http://95.163.85.128/streams/media/tnt_720x576/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",НСТ
@@ -254,16 +246,26 @@ http://80.77.52.3/streams/media/tv1000action_720x576/index.m3u8
 http://80.77.52.3/streams/media/tv-25_720x576/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)", a2
 http://95.163.85.128/streams/media/a2_720x576/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)", СТС
-http://95.163.85.128/streams/media/ctc_720x576/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)", Карусель
-http://95.163.85.128/streams/media/karusel_720x576/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)", Музыка Первого
-http://95.163.85.128/streams/media/muzyka-pervogo_720x576/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)", ТВЦ
 http://95.163.85.128/streams/media/tv-centr_720x576/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)" tvg-id="rus-hualiang-tv" ,Китай ТВ HD
 https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",NEXT Blaze
+http://cdn.iptvcinema.ru/nextblaze/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",NEXT Volt
+http://cdn.iptvcinema.ru/nextvolt/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",NEXT Spark
+http://cdn.iptvcinema.ru/nextspark/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",NEXT Mythic
+http://cdn.iptvcinema.ru/nextmythic/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",NEXT Shadow
+http://cdn.iptvcinema.ru/nextshadow/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",YOSSO TV Music Hits
+http://cdn.iptvcinema.ru/yosso_musichits/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Comedy
+http://cdn.iptvcinema.ru/comedy/index.m3u8
+#EXTINF:-1 group-title="" tvg-logo="", magic_family
+http://cdn.iptvcinema.ru/magic_family/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://i.postimg.cc/Rh516HVw/1.png", IPTVPLAY МультСказки HD
 http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://i.postimg.cc/mDMCsgNL/1.png", IPTVPLAY ВЕДЬМАК
