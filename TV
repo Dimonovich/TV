@@ -248,6 +248,30 @@ http://80.77.52.3/streams/media/tv-25_720x576/index.m3u8
 http://95.163.85.128/streams/media/a2_720x576/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)", ТВЦ
 http://95.163.85.128/streams/media/tv-centr_720x576/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",ТНТ
+http://85.192.10.173/TNT/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",НТВ
+http://85.192.10.173/NTV/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",РЕН ТВ
+http://85.192.10.173/tv4/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Карусель
+http://85.192.10.173/Karusel/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",ОТР
+http://85.192.10.173/OTR/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",ТВ3
+http://85.192.10.173/tv3/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Звезда
+http://85.192.10.173/Zvezda/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Мир
+http://85.192.10.173/Mir/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Спас
+http://85.192.10.173/Spas/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",ТВЦ
+http://85.192.10.173/tvci/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",МузТВ
+http://85.192.10.173/MuzTV/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Матч ТВ
+http://85.192.10.173/MatchTV/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)" tvg-id="rus-hualiang-tv" ,Китай ТВ HD
 https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",NEXT Blaze
@@ -318,10 +342,6 @@ http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
 https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 #EXTINF:-1 group-title="TEST (VPN)", Детский телеканал Мультимания
 http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",Про бизнес
-http://176.107.219.20:9000/play/a003/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",Светлое ТВ
-http://176.107.219.20:9000/play/a009/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",8 канал
 http://cdn-01.bonus-tv.ru:80/8kanal/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",Крик-ТВ
