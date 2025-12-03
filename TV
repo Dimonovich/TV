@@ -332,7 +332,7 @@ http://5.8.11.96:8099/mosfilmhd/index.m3u8
 http://catchup.videoline.ru/cinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TEST (VPN)", Пингвин Лоло
 http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="TEST (VPN)", Мамонтёнок
+#EXTINF:-1 group-title="TEST (VPN)" tvg-id="mamonttv", Мамонтёнок
 http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TEST (VPN)" tvg-id="pro100", Про100 ТВ
 https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
@@ -2364,7 +2364,7 @@ http://85.192.10.131/hls/Kino24Ru/playlist.m3u8
 http://85.192.10.131/hls/OTR/playlist.m3u8
 #EXTINF:-1 group-title="Диджитал Нетворк (VPN)",Пятница
 http://85.192.10.131/hls/pjatnica/playlist.m3u8
-#EXTINF:-1 group-title="Диджитал Нетворк (VPN)",Про 100 ТВ
+#EXTINF:-1 group-title="Диджитал Нетворк (VPN)" tvg-id="pro100", Про100 ТВ
 http://85.192.10.131/hls/Pro100tvRu/playlist.m3u8
 #EXTINF:-1 group-title="Диджитал Нетворк (VPN)",ТВ3
 http://85.192.10.131/hls/tv3/playlist.m3u8
@@ -2372,7 +2372,7 @@ http://85.192.10.131/hls/tv3/playlist.m3u8
 http://85.192.10.131/hls/TvciRu/playlist.m3u8
 #EXTINF:-1 group-title="Диджитал Нетворк (VPN)",Звезда
 http://85.192.10.131/hls/zvezda/playlist.m3u8
-#EXTINF:-1 group-title="Диджитал Нетворк (VPN)",Мамонтенок ТВ
+#EXTINF:-1 group-title="Диджитал Нетворк (VPN) "tvg-id="mamonttv", Мамонтёнок
 http://85.192.10.131/hls/MamonRu/playlist.m3u8
 #EXTINF:-1 group-title="Диджитал Нетворк (VPN)",Мультимания
 http://85.192.10.131/hls/MultimaniaRu/playlist.m3u8
