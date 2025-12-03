@@ -268,30 +268,6 @@ http://80.77.52.3/streams/media/tv-25_720x576/index.m3u8
 http://95.163.85.128/streams/media/a2_720x576/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)", ТВЦ
 http://95.163.85.128/streams/media/tv-centr_720x576/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",ТНТ
-http://85.192.10.173/TNT/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",НТВ
-http://85.192.10.173/NTV/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",РЕН ТВ
-http://85.192.10.173/tv4/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",Карусель
-http://85.192.10.173/Karusel/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",ОТР
-http://85.192.10.173/OTR/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",ТВ3
-http://85.192.10.173/tv3/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",Звезда
-http://85.192.10.173/Zvezda/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",Мир
-http://85.192.10.173/Mir/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",Спас
-http://85.192.10.173/Spas/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",ТВЦ
-http://85.192.10.173/tvci/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",МузТВ
-http://85.192.10.173/MuzTV/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",Матч ТВ
-http://85.192.10.173/MatchTV/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)" tvg-id="rus-hualiang-tv" ,Китай ТВ HD
 https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",NEXT Blaze
@@ -2368,6 +2344,44 @@ https://tvsamaragis.tk/new/new/tracks-v1a1/mono.m3u8
 
 
 
+#EXTINF:-1 group-title="Диджитал Нетворк (VPN)",Россия 24
+http://85.192.10.131/hls/ortrum9/playlist.m3u8
+#EXTINF:-1 group-title="Диджитал Нетворк (VPN)",РЕН ТВ
+http://85.192.10.131/hls/rentv/playlist.m3u8
+#EXTINF:-1 group-title="Диджитал Нетворк (VPN)",Россия К
+http://85.192.10.131/hls/kultura/playlist.m3u8
+#EXTINF:-1 group-title="Диджитал Нетворк (VPN)",Россия 1
+http://85.192.10.131/hls/RossijaM9/playlist.m3u8
+#EXTINF:-1 group-title="Диджитал Нетворк (VPN)",ТНТ
+http://85.192.10.131/hls/tnt/playlist.m3u8
+#EXTINF:-1 group-title="Диджитал Нетворк (VPN)",НТВ
+http://85.192.10.131/hls/NtvRuM9/playlist.m3u8
+#EXTINF:-1 group-title="Диджитал Нетворк (VPN)",Пятый канал
+http://85.192.10.131/hls/5kanal/playlist.m3u8
+#EXTINF:-1 group-title="Диджитал Нетворк (VPN)",Кино 24
+http://85.192.10.131/hls/Kino24Ru/playlist.m3u8
+#EXTINF:-1 group-title="Диджитал Нетворк (VPN)",ОТР
+http://85.192.10.131/hls/OTR/playlist.m3u8
+#EXTINF:-1 group-title="Диджитал Нетворк (VPN)",Пятница
+http://85.192.10.131/hls/pjatnica/playlist.m3u8
+#EXTINF:-1 group-title="Диджитал Нетворк (VPN)",Про 100 ТВ
+http://85.192.10.131/hls/Pro100tvRu/playlist.m3u8
+#EXTINF:-1 group-title="Диджитал Нетворк (VPN)",ТВ3
+http://85.192.10.131/hls/tv3/playlist.m3u8
+#EXTINF:-1 group-title="Диджитал Нетворк (VPN)",ТВЦ
+http://85.192.10.131/hls/TvciRu/playlist.m3u8
+#EXTINF:-1 group-title="Диджитал Нетворк (VPN)",Звезда
+http://85.192.10.131/hls/zvezda/playlist.m3u8
+#EXTINF:-1 group-title="Диджитал Нетворк (VPN)",Мамонтенок ТВ
+http://85.192.10.131/hls/MamonRu/playlist.m3u8
+#EXTINF:-1 group-title="Диджитал Нетворк (VPN)",Мультимания
+http://85.192.10.131/hls/MultimaniaRu/playlist.m3u8
+#EXTINF:-1 group-title="Диджитал Нетворк (VPN)",Карусель
+http://85.192.10.131/hls/Karusel/playlist.m3u8
+#EXTINF:-1 group-title="Диджитал Нетворк (VPN)",Пингвин Лоло
+http://85.192.10.131/hls/pingvinru/playlist.m3u8
+#EXTINF:-1 group-title="Диджитал Нетворк (VPN)",МАТЧ ТВ
+http://85.192.10.131/hls/matchtvrum9/playlist.m3u8
 
 
 
