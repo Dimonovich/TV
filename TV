@@ -116,8 +116,8 @@ http://86.57.209.210/KHL_HD/index.m3u8
 http://86.57.209.210/Fenix/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Россия К
 http://86.57.209.210/Kultura/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵", Первый канал
-https://flussonic.salomtv.uz/perviy_kanal/video.m3u8
+#EXTINF:-1 group-title="TEST ⓵", Россия 24
+https://flussonic.salomtv.uz/ROSSIYA_24/video.m3u8
 #EXTINF:-1 group-title="TEST ⓵", Дом кино
 https://flussonic.salomtv.uz/domkino/video.m3u8
 #EXTINF:-1 group-title="TEST ⓵", EURONEWS
@@ -132,8 +132,12 @@ https://flussonic.salomtv.uz/rutv/video.m3u8
 https://flussonic.salomtv.uz/telekafe/video.m3u8
 #EXTINF:-1 group-title="TEST ⓵", Звезда
 https://flussonic.salomtv.uz/zvezda/video.m3u8
+#EXTINF:-1 group-title="TEST ⓵", Fashion TV
+https://flussonic.salomtv.uz/fashiontv/video.m3u8
 #EXTINF:-1 group-title="TEST ⓵", TV1000 Action
 https://flussonic.salomtv.uz/vijuTV1000action/video.m3u8
+#EXTINF:-1 group-title="TEST ⓵", Уникум
+https://flussonic.salomtv.uz/Detskiy/video.m3u8
 #EXTINF:-1 group-title="TEST ⓵", Eurosport 2 HD
 https://flussonic.salomtv.uz/eurosport_2/video.m3u8
 #EXTINF:-1 group-title="TEST ⓵", Futbol TV
