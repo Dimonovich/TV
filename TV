@@ -72,28 +72,6 @@ https://stream2.somon.tv/vipserial/index.m3u8
 https://iptv.itv.uz/hls/live/t/UAcSEExX5UamlFqFOIaXIA/e/1767191403/4000/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/MTbNhVZc/i-TV-Music-Logo.png",ITV Music
 https://iptv.itv.uz/hls/live/t/IDvfbmZ5Ibmqs0plMhNejg/e/1767191403/4001/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Мир 24
-https://streamer1.connectto.com/409/mono.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Русский бестселлер
-https://streamer1.connectto.com/464/mono.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Русский роман
-https://streamer1.connectto.com/466/mono.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Русский детектив
-https://streamer1.connectto.com/467/mono.m3u8
-#EXTINF:-1 group-title="TEST ⓵",СТС Love
-https://streamer1.connectto.com/471/mono.m3u8
-#EXTINF:-1 group-title="TEST ⓵",В мире животных
-https://streamer1.connectto.com/513/mono.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Комедия
-https://streamer1.connectto.com/516/mono.m3u8
-#EXTINF:-1 group-title="TEST ⓵",ТВЦ
-https://streamer3.connectto.com/300/mono.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Мультимузыка
-https://streamer3.connectto.com/372/mono.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Премиальное HD
-https://streamer3.connectto.com/373/mono.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Супергерои
-https://streamer3.connectto.com/374/mono.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Уникум
 https://flussonic.salomtv.uz/Detskiy/video.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Супергерои
@@ -146,8 +124,6 @@ https://flussonic.salomtv.uz/FutbolTV/video.m3u8
 http://157.90.0.245:8070/minimax-sport/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵", HOLLYWOOD HD
 http://157.90.0.245:8070/HOLLYWOOD_HD/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵", Кинопремьера HD
-http://157.90.0.245:8070/KINOPREMIERA/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵", Мужское кино
 http://157.90.0.245:8070/muzhskoe_kino/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵", НТВ-Мир
@@ -160,28 +136,6 @@ https://live-erostv.cdnvideo.ru/erostv/erostv.sdp/playlist.m3u8
 http://85.11.144.6:6060/play/a07v/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵",MTV
 http://85.11.144.6:6060/play/a08w/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵",MTV 00s
-http://85.11.144.6:6060/play/a07g/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵",MTV 90s
-http://85.11.144.6:6060/play/a09o/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵",OTV HD
-http://84.245.224.71/OTV/mono.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Star Family HD
-http://84.245.224.71/StarFamilyHD/mono.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Star Cinema HD
-http://84.245.224.71/StarCinemaHD/mono.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Bolt HD
-http://84.245.224.71/BoltHD/mono.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Super Baltic HD
-http://84.245.224.71/SuperBaltic/mono.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Super Plus HD
-http://84.245.224.71/SuperPlus/mono.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Дача
-http://84.245.224.71/DachaHD/mono.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Fashion TV HD
-http://84.245.224.71/FashionTVHD/mono.m3u8
-#EXTINF:-1 group-title="TEST ⓵",KHL HD
-http://84.245.224.71/KHLHD/mono.m3u8
 #EXTINF:-1 group-title="TEST ⓵" ,Film UA Drama
 http://88.99.215.227/FilmUADrama/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵", Nicktoons HD
@@ -198,8 +152,6 @@ http://ukr.ukrainske.tv/493/keytvainua/video.m3u8
 http://ukr.ukrainske.tv/399/keytvainua/video.m3u8
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://provider-static.plex.tv/3/epg/channels/logos/gracenote/38945a2afcb8ce8ae6b5fe557e908b2f.png",Cirque du Soleil
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-67642f277c5e3b38af72dcdb.m3u8
-#EXTINF:-1 group-title="TEST ⓵" tvg-id="skif-vitebsk",Скиф ТВ
-http://95.46.208.8:24432/skif
 #EXTINF:-1 group-title="TEST ⓵",OstWest
 http://95.67.12.82:9077
 #EXTINF:-1 group-title="TEST ⓵",Continent E
@@ -214,8 +166,6 @@ http://95.67.12.82:9088
 http://95.67.12.82:9069
 #EXTINF:-1 group-title="TEST ⓵",Дорама
 http://95.67.12.82:9046
-#EXTINF:-1 group-title="TEST ⓵",TravelXp 4K
-http://95.67.12.82:9086
 #EXTINF:-1 group-title="TEST ⓵",Love Nature
 http://95.67.12.82:9098
 #EXTINF:-1 group-title="TEST ⓵" tvg-id="kinokazka",Киноказка       
@@ -290,6 +240,28 @@ http://cdn.iptvcinema.ru/yosso_musichits/index.m3u8
 http://cdn.iptvcinema.ru/comedy/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="", magic_family
 http://cdn.iptvcinema.ru/magic_family/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Мир 24
+https://streamer1.connectto.com/409/mono.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Русский бестселлер
+https://streamer1.connectto.com/464/mono.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Русский роман
+https://streamer1.connectto.com/466/mono.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Русский детектив
+https://streamer1.connectto.com/467/mono.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",СТС Love
+https://streamer1.connectto.com/471/mono.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",В мире животных
+https://streamer1.connectto.com/513/mono.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Комедия
+https://streamer1.connectto.com/516/mono.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",ТВЦ
+https://streamer3.connectto.com/300/mono.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Мультимузыка
+https://streamer3.connectto.com/372/mono.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Премиальное HD
+https://streamer3.connectto.com/373/mono.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Супергерои
+https://streamer3.connectto.com/374/mono.m3u8
 #EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://i.postimg.cc/Rh516HVw/1.png", IPTVPLAY МультСказки HD
 http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://i.postimg.cc/mDMCsgNL/1.png", IPTVPLAY ВЕДЬМАК
