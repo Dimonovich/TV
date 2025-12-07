@@ -224,16 +224,6 @@ http://95.163.85.128/streams/media/a2_720x576/index.m3u8
 http://95.163.85.128/streams/media/tv-centr_720x576/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)" tvg-id="rus-hualiang-tv" ,Китай ТВ HD
 https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",NEXT Blaze
-http://cdn.iptvcinema.ru/nextblaze/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",NEXT Volt
-http://cdn.iptvcinema.ru/nextvolt/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",NEXT Spark
-http://cdn.iptvcinema.ru/nextspark/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",NEXT Mythic
-http://cdn.iptvcinema.ru/nextmythic/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",NEXT Shadow
-http://cdn.iptvcinema.ru/nextshadow/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",РОССИЯ 24
 http://77.232.131.211/Rossiya24/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",Travel+Adventure HD
@@ -248,11 +238,7 @@ http://77.232.131.211/O2TV/index.m3u8
 http://77.232.131.211/RUTV/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",Карусель
 http://77.232.131.211/Karusel/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",YOSSO TV Music Hits
-http://cdn.iptvcinema.ru/yosso_musichits/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",Comedy
-http://cdn.iptvcinema.ru/comedy/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="", magic_family
+#EXTINF:-1 group-title="TEST (VPN)",Magic family
 http://cdn.iptvcinema.ru/magic_family/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",Мир 24
 https://streamer1.connectto.com/409/mono.m3u8
@@ -308,8 +294,6 @@ https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/rewind-240.ts.m3u8
 https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",Матч HD
 https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",Матч ТВ
-http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TEST (VPN)", 365 дней
 http://45.11.139.43:8555/365dney/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",РБК
@@ -318,8 +302,6 @@ http://45.11.139.43:8555/rbk/index.m3u8
 http://45.11.139.43:8555/telekafe/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",Мосфильм. Золотая коллекция
 http://5.8.11.96:8099/mosfilmhd/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",Cinema
-http://catchup.videoline.ru/cinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TEST (VPN)", Пингвин Лоло
 http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TEST (VPN)" tvg-id="mamonttv", Мамонтёнок
@@ -336,14 +318,6 @@ http://cdn-01.bonus-tv.ru:80/kriktv_edge/index.m3u8
 http://cdn-01.bonus-tv.ru:80/prosveschenie_edge/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",Arirang Korea
 https://cdn-01.bonus-tv.ru/arirang_edge/playlist.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",9 ВОЛНА
-http://185.46.48.18:80/asvtv/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",Cinema
-http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",Осетия Иристон
-http://185.46.48.18:80/iriston/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",МАТЧ ТВ
-http://185.46.48.18:80/match/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",Матч ТВ
 http://tv.tuva.ru/machtv/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",Звезда (+4)
