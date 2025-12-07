@@ -234,6 +234,20 @@ http://cdn.iptvcinema.ru/nextspark/index.m3u8
 http://cdn.iptvcinema.ru/nextmythic/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",NEXT Shadow
 http://cdn.iptvcinema.ru/nextshadow/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",РОССИЯ 24
+http://77.232.131.211/Rossiya24/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Travel+Adventure HD
+http://77.232.131.211/TravelAdventureHD/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Maydan
+http://77.232.131.211/Maydan/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Спас
+http://77.232.131.211/Spas/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",O2TV
+http://77.232.131.211/O2TV/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",RU.TV
+http://77.232.131.211/RUTV/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Карусель
+http://77.232.131.211/Karusel/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",YOSSO TV Music Hits
 http://cdn.iptvcinema.ru/yosso_musichits/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",Comedy
