@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG,http://epg.one/epg2.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz,https://ry7wpjhjwylg7u7.vxdgroup-84jzo19.xyz/tv4epg.xml"
+#EXTM3U url-tvg="https://iptvx.one/EPG,http://epg.one/epg2.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz,https://ry7wpjhjwylg7u7.vxdgroup-84jzo19.xyz/tv4epg.xml,https://ry7wpjhjwylg7u7.vxdgroup-84jzo19.xyz/tv4ru.xml"
 
 
 #EXTINF:-1 group-title="🔺 INFO 🔺" tvg-logo="https://i.postimg.cc/76BWD3tc/1.gif",Обновление:08.12.2025
@@ -619,7 +619,7 @@ http://185.223.125.136:8005/vn?token=test
 http://185.223.125.136:8005/vh?token=test
 #EXTINF:-1 group-title="Interlink",Viasat Explore
 http://185.223.125.136:8005/ve?token=test
-#EXTINF:-1 group-title="Interlink",Терра
+#EXTINF:-1 group-title="Interlink",Terra
 http://185.223.125.136:8005/ng?token=test
 #EXTINF:-1 group-title="Interlink",Телекафе
 http://185.223.125.136:8005/krik?token=test
