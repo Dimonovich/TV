@@ -686,7 +686,7 @@ http://188.225.31.197/bpk-tv/000007818/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000003747/tve/index.m3u8
 #EXTINF:-1 group-title="ТаймВэб",TV1000 action HD
 http://188.225.31.197/bpk-tv/000003910/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб",TV1000 русское HD
+#EXTINF:-1 group-title="ТаймВэб",TV1000 русское кино
 http://188.225.31.197/bpk-tv/000003748/tve/index.m3u8
 #EXTINF:-1 group-title="ТаймВэб",ПЕРЕЦ
 http://188.225.31.197/bpk-tv/000001248/tve/index.m3u8
@@ -724,6 +724,57 @@ http://188.225.31.197/bpk-tv/000001514/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000000286/tve/index.m3u8
 
 
+
+#EXTINF:-1 group-title="Netka Telekom",Загородный
+https://stream11.itv.uz/1410/index.m3u8
+#EXTINF:-1 group-title="Netka Telekom",Приключения HD
+https://stream11.itv.uz/1420/index.m3u8
+#EXTINF:-1 group-title="Netka Telekom",Драйв
+https://stream11.itv.uz/1421/index.m3u8
+#EXTINF:-1 group-title="Netka Telekom",Первый космический HD
+https://stream11.itv.uz/1415/index.m3u8
+#EXTINF:-1 group-title="Netka Telekom",Insight TV HD
+https://stream11.itv.uz/1416/index.m3u8
+#EXTINF:-1 group-title="Netka Telekom",Глазами Туриста HD
+https://stream11.itv.uz/1423/index.m3u8
+#EXTINF:-1 group-title="Netka Telekom",Наша Сибирь HD
+https://stream11.itv.uz/1424/index.m3u8
+#EXTINF:-1 group-title="Netka Telekom",Охотник и Рыболов
+https://stream11.itv.uz/1413/index.m3u8
+#EXTINF:-1 group-title="Netka Telekom",Арсенал HD
+https://stream11.itv.uz/1414/index.m3u8
+#EXTINF:-1 group-title="Netka Telekom",В Мире Животных HD
+https://stream11.itv.uz/1404/index.m3u8
+#EXTINF:-1 group-title="Netka Telekom",Зоопарк
+https://stream11.itv.uz/1417/index.m3u8
+#EXTINF:-1 group-title="Netka Telekom",Живи
+https://stream11.itv.uz/1419/index.m3u8
+#EXTINF:-1 group-title="Netka Telekom",Домашние Животные
+https://stream11.itv.uz/1426/index.m3u8
+#EXTINF:-1 group-title="Netka Telekom",Усадьба
+https://stream11.itv.uz/1427/index.m3u8
+#EXTINF:-1 group-title="Netka Telekom",Капитан Фантастика HD
+https://stream11.itv.uz/1406/index.m3u8
+#EXTINF:-1 group-title="Netka Telekom",ТВ3
+https://stream11.itv.uz/1435/index.m3u8
+#EXTINF:-1 group-title="Netka Telekom",Домашний
+https://stream11.itv.uz/1436/index.m3u8
+#EXTINF:-1 group-title="Netka Telekom",РБК
+https://stream11.itv.uz/1438/index.m3u8
+#EXTINF:-1 group-title="Netka Telekom",DW HD
+https://stream11.itv.uz/1418/index.m3u8
+#EXTINF:-1 group-title="Netka Telekom",Aljazeera HD
+https://stream11.itv.uz/1432/index.m3u8
+#EXTINF:-1 group-title="Netka Telekom",Qazaqstan
+https://stream11.itv.uz/1431/index.m3u8
+#EXTINF:-1 group-title="Netka Telekom",Хабар 24
+https://stream11.itv.uz/1408/index.m3u8
+#EXTINF:-1 group-title="Netka Telekom",Рыжий
+https://stream11.itv.uz/1407/index.m3u8
+#EXTINF:-1 group-title="Netka Telekom",Мультиландия
+https://stream11.itv.uz/1440/index.m3u8
+#EXTINF:-1 group-title="Netka Telekom",Eurosport 1 HD
+https://stream11.itv.uz/1439/index.m3u8
 
 
 
