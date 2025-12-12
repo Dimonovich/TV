@@ -7204,7 +7204,18 @@ https://v2.catcast.tv/content/40546/index.m3u8
 
 
 
-
+#EXTINF:-1 group-title="Good Game Not 24/7" tvg-logo="https://static.goodgame.ru/files/avatars/av_avatar_sint.png" ,Rus Brony TV
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/156945.m3u8
+#EXTINF:-1 group-title="Good Game Not 24/7" , Kinoteka
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/146065.m3u8
+#EXTINF:-1 group-title="Good Game Not 24/7" tvg-logo="https://static.goodgame.ru/files/avatars/av_avatar_eva.png" ,Fantastic Mistyc 1
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/187741.m3u8
+#EXTINF:-1 group-title="Good Game Not 24/7" tvg-logo="https://static.goodgame.ru/files/avatars/av_1643154_P8Jo.jpg" ,Dimpon HD
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/210470.m3u8
 #EXTINF:-1 group-title="Good Game Not 24/7" tvg-logo="https://static.goodgame.ru/files/avatars/av_1676704_9wc1.jpg" ,Moviee Toper
 #EXTVLCOPT:http-user-agent=SmartTV
 http://195.9.195.3:8080/hls/214749.m3u8
