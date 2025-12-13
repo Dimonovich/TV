@@ -531,8 +531,6 @@ https://river-5-550.rtbcdn.ru/hls-vod/N-nHloRLRAOSfY3KwHijEw/1766246654/1846/0x5
 
 
 
-
-
 #EXTINF:-1 group-title="Сундук ТВ",Первый HD
 http://tmptv.sunduk.tv/CH125/index.m3u8
 #EXTINF:-1 group-title="Сундук ТВ",Первый канал
@@ -551,6 +549,8 @@ http://tmptv.sunduk.tv/CH71/index.m3u8
 http://tmptv.sunduk.tv/CH13/index.m3u8
 #EXTINF:-1 group-title="Сундук ТВ",НТВ
 http://tmptv.sunduk.tv/CH7/index.m3u8
+#EXTINF:-1 group-title="Сундук ТВ",НТВ-Мир
+http://tmptv.sunduk.tv/CH761/index.m3u8
 #EXTINF:-1 group-title="Сундук ТВ",Animal Planet
 http://tmptv.sunduk.tv/CH33/index.m3u8
 #EXTINF:-1 group-title="Сундук ТВ",History
@@ -579,6 +579,26 @@ http://tmptv.sunduk.tv/CH273/index.m3u8
 http://tmptv.sunduk.tv/CH233/index.m3u8
 #EXTINF:-1 group-title="Сундук ТВ",Точка РФ
 http://tmptv.sunduk.tv/CH237/index.m3u8
+#EXTINF:-1 group-title="Сундук ТВ",Рыболов
+http://tmptv.sunduk.tv/CH389/index.m3u8
+#EXTINF:-1 group-title="Сундук ТВ",Телепутешествия
+http://tmptv.sunduk.tv/CH391/index.m3u8
+#EXTINF:-1 group-title="Сундук ТВ",История
+http://tmptv.sunduk.tv/CH423/index.m3u8
+#EXTINF:-1 group-title="Сундук ТВ",Galaxy
+http://tmptv.sunduk.tv/CH445/index.m3u8
+#EXTINF:-1 group-title="Сундук ТВ",Загородная жизнь
+http://tmptv.sunduk.tv/CH469/index.m3u8
+#EXTINF:-1 group-title="Сундук ТВ",Живая природа
+http://tmptv.sunduk.tv/CH497/index.m3u8
+#EXTINF:-1 group-title="Сундук ТВ",Оружие
+http://tmptv.sunduk.tv/CH543/index.m3u8
+#EXTINF:-1 group-title="Сундук ТВ",Первый космический
+http://tmptv.sunduk.tv/CH557/index.m3u8
+#EXTINF:-1 group-title="Сундук ТВ",Загородный
+http://tmptv.sunduk.tv/CH563/index.m3u8
+#EXTINF:-1 group-title="Сундук ТВ",Зоо ТВ
+http://tmptv.sunduk.tv/CH565/index.m3u8
 #EXTINF:-1 group-title="Сундук ТВ",.red
 http://tmptv.sunduk.tv/CH147/index.m3u8
 #EXTINF:-1 group-title="Сундук ТВ",.Sci-Fi
@@ -653,6 +673,8 @@ http://tmptv.sunduk.tv/CH299/index.m3u8
 http://tmptv.sunduk.tv/CH21/index.m3u8
 #EXTINF:-1 group-title="Сундук ТВ",Наше новое кино
 http://tmptv.sunduk.tv/CH61/index.m3u8
+#EXTINF:-1 group-title="Сундук ТВ",Киноужас
+http://tmptv.sunduk.tv/CH409/index.m3u8
 #EXTINF:-1 group-title="Сундук ТВ",Киносемья
 http://tmptv.sunduk.tv/CH25/index.m3u8
 #EXTINF:-1 group-title="Сундук ТВ",Кинохит
@@ -673,6 +695,66 @@ http://tmptv.sunduk.tv/CH201/index.m3u8
 http://tmptv.sunduk.tv/CH157/index.m3u8
 #EXTINF:-1 group-title="Сундук ТВ",ОТР
 http://tmptv.sunduk.tv/CH317/index.m3u8
+#EXTINF:-1 group-title="Сундук ТВ",Иллюзион+
+http://tmptv.sunduk.tv/CH323/index.m3u8
+#EXTINF:-1 group-title="Сундук ТВ",Феникс+Кино
+http://tmptv.sunduk.tv/CH327/index.m3u8
+#EXTINF:-1 group-title="Сундук ТВ",Ностальгия
+http://tmptv.sunduk.tv/CH331/index.m3u8
+#EXTINF:-1 group-title="Сундук ТВ",365 дней
+http://tmptv.sunduk.tv/CH333/index.m3u8
+#EXTINF:-1 group-title="Сундук ТВ",Успех
+http://tmptv.sunduk.tv/CH337/index.m3u8
+#EXTINF:-1 group-title="Сундук ТВ",Кто есть кто
+http://tmptv.sunduk.tv/CH343/index.m3u8
+#EXTINF:-1 group-title="Сундук ТВ",Top Secret
+http://tmptv.sunduk.tv/CH357/index.m3u8
+#EXTINF:-1 group-title="Сундук ТВ",Cinema
+http://tmptv.sunduk.tv/CH355/index.m3u8
+#EXTINF:-1 group-title="Сундук ТВ",Еда
+http://tmptv.sunduk.tv/CH381/index.m3u8
+#EXTINF:-1 group-title="Сундук ТВ",Авто 24
+http://tmptv.sunduk.tv/CH405/index.m3u8
+#EXTINF:-1 group-title="Сундук ТВ",Amedia 2
+http://tmptv.sunduk.tv/CH411/index.m3u8
+#EXTINF:-1 group-title="Сундук ТВ",Мир сериала
+http://tmptv.sunduk.tv/CH451/index.m3u8
+#EXTINF:-1 group-title="Сундук ТВ",Русский детектив
+http://tmptv.sunduk.tv/CH437/index.m3u8
+#EXTINF:-1 group-title="Сундук ТВ",СТС Love
+http://tmptv.sunduk.tv/CH441/index.m3u8
+#EXTINF:-1 group-title="Сундук ТВ",.Red HD
+http://tmptv.sunduk.tv/CH453/index.m3u8
+#EXTINF:-1 group-title="Сундук ТВ",Вместе РФ
+http://tmptv.sunduk.tv/CH495/index.m3u8
+#EXTINF:-1 group-title="Сундук ТВ",ТВЦ
+http://tmptv.sunduk.tv/CH5/index.m3u8
+#EXTINF:-1 group-title="Сундук ТВ",Театр
+http://tmptv.sunduk.tv/CH505/index.m3u8
+#EXTINF:-1 group-title="Сундук ТВ",Первый вегетарианский
+http://tmptv.sunduk.tv/CH509/index.m3u8
+#EXTINF:-1 group-title="Сундук ТВ",Беларусь 24
+http://tmptv.sunduk.tv/CH519/index.m3u8
+#EXTINF:-1 group-title="Сундук ТВ",Любимое кино
+http://tmptv.sunduk.tv/CH521/index.m3u8
+#EXTINF:-1 group-title="Сундук ТВ",RTVI
+http://tmptv.sunduk.tv/CH541/index.m3u8
+#EXTINF:-1 group-title="Сундук ТВ",Премиальное HD
+http://tmptv.sunduk.tv/CH545/index.m3u8
+#EXTINF:-1 group-title="Сундук ТВ",Остросюжетное HD
+http://tmptv.sunduk.tv/CH547/index.m3u8
+#EXTINF:-1 group-title="Сундук ТВ",Наше кино
+http://tmptv.sunduk.tv/CH551/index.m3u8
+#EXTINF:-1 group-title="Сундук ТВ",Кино ТВ
+http://tmptv.sunduk.tv/CH559/index.m3u8
+#EXTINF:-1 group-title="Сундук ТВ",Капитан фантастика
+http://tmptv.sunduk.tv/CH561/index.m3u8
+#EXTINF:-1 group-title="Сундук ТВ",Арсенал HD
+http://tmptv.sunduk.tv/CH567/index.m3u8
+#EXTINF:-1 group-title="Сундук ТВ",Наше любимое HD
+http://tmptv.sunduk.tv/CH717/index.m3u8
+#EXTINF:-1 group-title="Сундук ТВ",Ultra HD Cinema
+http://tmptv.sunduk.tv/CH885/index.m3u8
 #EXTINF:-1 group-title="Сундук ТВ",Психология 21
 http://tmptv.sunduk.tv/CH209/index.m3u8
 #EXTINF:-1 group-title="Сундук ТВ",Пятница
@@ -693,14 +775,36 @@ http://tmptv.sunduk.tv/CH105/index.m3u8
 http://tmptv.sunduk.tv/CH15/index.m3u8
 #EXTINF:-1 group-title="Сундук ТВ",ТВ3
 http://tmptv.sunduk.tv/CH113/index.m3u8
-#EXTINF:-1 group-title="Сундук ТВ",ТВЦ
-http://tmptv.sunduk.tv/CH5/index.m3u8
 #EXTINF:-1 group-title="Сундук ТВ",Телекафе
 http://tmptv.sunduk.tv/CH193/index.m3u8
 #EXTINF:-1 group-title="Сундук ТВ",Усадьба
 http://tmptv.sunduk.tv/CH137/index.m3u8
 #EXTINF:-1 group-title="Сундук ТВ",Че
 http://tmptv.sunduk.tv/CH185/index.m3u8
+#EXTINF:-1 group-title="Сундук ТВ",1+1
+http://tmptv.sunduk.tv/CH583/index.m3u8
+#EXTINF:-1 group-title="Сундук ТВ",НТН
+http://tmptv.sunduk.tv/CH587/index.m3u8
+#EXTINF:-1 group-title="Сундук ТВ",Iнтер
+http://tmptv.sunduk.tv/CH589/index.m3u8
+#EXTINF:-1 group-title="Сундук ТВ",Тет
+http://tmptv.sunduk.tv/CH591/index.m3u8
+#EXTINF:-1 group-title="Сундук ТВ",Amedia Hit
+http://tmptv.sunduk.tv/CH763/index.m3u8
+#EXTINF:-1 group-title="Сундук ТВ",Сонце
+http://tmptv.sunduk.tv/CH769/index.m3u8
+#EXTINF:-1 group-title="Сундук ТВ",ICTV
+http://tmptv.sunduk.tv/CH779/index.m3u8
+#EXTINF:-1 group-title="Сундук ТВ",Enter-фільм
+http://tmptv.sunduk.tv/CH781/index.m3u8
+#EXTINF:-1 group-title="Сундук ТВ",Новий Канал
+http://tmptv.sunduk.tv/CH785/index.m3u8
+#EXTINF:-1 group-title="Сундук ТВ",Мега
+http://tmptv.sunduk.tv/CH791/index.m3u8
+#EXTINF:-1 group-title="Сундук ТВ",2+2 UA
+http://tmptv.sunduk.tv/CH795/index.m3u8
+#EXTINF:-1 group-title="Сундук ТВ",1+1 International
+http://tmptv.sunduk.tv/CH797/index.m3u8
 #EXTINF:-1 group-title="Сундук ТВ",Уникум
 http://tmptv.sunduk.tv/CH167/index.m3u8
 #EXTINF:-1 group-title="Сундук ТВ",О!
@@ -723,8 +827,20 @@ http://tmptv.sunduk.tv/CH309/index.m3u8
 http://tmptv.sunduk.tv/CH277/index.m3u8
 #EXTINF:-1 group-title="Сундук ТВ",Солнце
 http://tmptv.sunduk.tv/CH99/index.m3u8
+#EXTINF:-1 group-title="Сундук ТВ",Супергерои
+http://tmptv.sunduk.tv/CH877/index.m3u8
 #EXTINF:-1 group-title="Сундук ТВ",Шансон ТВ
 http://tmptv.sunduk.tv/CH115/index.m3u8
+#EXTINF:-1 group-title="Сундук ТВ",СТС Kids
+http://tmptv.sunduk.tv/CH729/index.m3u8
+#EXTINF:-1 group-title="Сундук ТВ",Cartoonito
+http://tmptv.sunduk.tv/CH443/index.m3u8
+#EXTINF:-1 group-title="Сундук ТВ",Tiji
+http://tmptv.sunduk.tv/CH349/index.m3u8
+#EXTINF:-1 group-title="Сундук ТВ",Gulli Girl
+http://tmptv.sunduk.tv/CH347/index.m3u8
+#EXTINF:-1 group-title="Сундук ТВ",Бобёр
+http://tmptv.sunduk.tv/CH579/index.m3u8
 #EXTINF:-1 group-title="Сундук ТВ",ТНТ Music
 http://tmptv.sunduk.tv/CH121/index.m3u8
 #EXTINF:-1 group-title="Сундук ТВ",МузТВ
@@ -741,6 +857,8 @@ http://tmptv.sunduk.tv/CH275/index.m3u8
 http://tmptv.sunduk.tv/CH257/index.m3u8
 #EXTINF:-1 group-title="Сундук ТВ",MTV Live
 http://tmptv.sunduk.tv/CH241/index.m3u8
+#EXTINF:-1 group-title="Сундук ТВ",MTV 90s
+http://tmptv.sunduk.tv/CH377/index.m3u8
 #EXTINF:-1 group-title="Сундук ТВ",Nickelodeon
 http://tmptv.sunduk.tv/CH37/index.m3u8
 #EXTINF:-1 group-title="Сундук ТВ",Russian Music Box
@@ -773,8 +891,18 @@ http://tmptv.sunduk.tv/CH27/index.m3u8
 http://tmptv.sunduk.tv/CH223/index.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Футбол 1
 http://tmptv.sunduk.tv/CH95/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Футбол 2
+http://tmptv.sunduk.tv/CH329/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Футбол 3
+http://tmptv.sunduk.tv/CH407/index.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Футбол
 http://tmptv.sunduk.tv/CH287/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Конный мир
+http://tmptv.sunduk.tv/CH577/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Бокс ТВ
+http://tmptv.sunduk.tv/CH707/index.m3u8
+
+
 
 
 
