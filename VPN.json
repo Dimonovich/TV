@@ -16,11 +16,11 @@
     "udpdns": false
   },
   {
-    "server": "57.128.219.105",
+    "server": "57.128.219.94",
     "server_port": 8443,
-    "password": "0b3e9eec-bbae-4449-b182-86239f67b16b",
+    "password": "zOqWZGg4gonBf1gyNvXK9Txh9BK4H/csNgNQlC5Q0oA=",
     "method": "aes-256-gcm",
-    "remarks": "🇵🇱 Польша 2 (Android TV + Free TV)",
+    "remarks": "🇵🇱 Польша  (Android TV + Free TV)",
     "route": "all",
     "remote_dns": "one.one.one.one",
     "ipv6": false,
@@ -63,7 +63,7 @@
   {
     "server": "54.36.162.84",
     "server_port": 8443,
-    "password": "w5/CgsOWeDgRejV4OnoWw4QawpZAw67DpcOmVsKjwqdPw64yJW3DhMKCdsOKwrY=",
+    "password": "fHbDkl0Wd8K1wrrCs8O8w5XCp8OywrfDv8KKUSpxw6zCu8KSRcOBUHvDsMOLw6J3w40Q",
     "method": "aes-256-gcm",
     "remarks": "🇬🇧 Великобритания (Android TV + Free TV)",
     "route": "all",
