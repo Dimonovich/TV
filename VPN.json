@@ -16,9 +16,24 @@
     "udpdns": false
   },
   {
+    "server": "51.178.43.237",
+    "server_port": 8443,
+    "password": "tEerfUnp47xDe86215QhDVlZBVDyTnIMAwF7Znlw74c=",
+    "method": "aes-256-gcm",
+    "remarks": "🇫🇷 Франция (Android TV + Free TV)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },  
+  {
     "server": "57.128.219.94",
     "server_port": 8443,
-    "password": "zOqWZGg4gonBf1gyNvXK9Txh9BK4H/csNgNQlC5Q0oA=",
+    "password": "bPBSMKucoMIZ9aja/u/m4NWRgcHaTwhMYoxKOSImWSo=",
     "method": "aes-256-gcm",
     "remarks": "🇵🇱 Польша  (Android TV + Free TV)",
     "route": "all",
@@ -33,7 +48,7 @@
   {
     "server": "5.253.43.89",
     "server_port": 8443,
-    "password": "2GL4xLvvDNh5a4VnAIRqWXXRbwMZdV+4vZfbtO3hgRA=",
+    "password": "TQUWk89cv5ZSDQuLnZ/wgE1wY/ptHX/gFTS2ruCeVzs=",
     "method": "aes-256-gcm",
     "remarks": "🇮🇹 Италия 2 (Android TV + Free TV)",
     "route": "all",
@@ -48,7 +63,7 @@
   {
     "server": "51.195.101.239",
     "server_port": 8443,
-    "password": "S8KmQQ/CvsKmdcKIPAnDt8OqwoMCf3cawqrCv3/CinXDocKNY14Sfz9rw4p4",
+    "password": "MTfDtsOxwojCsAzDvMO/wr3DiiZRXsKNUMOtw4vChsOTNBzCslwTw4bDt8Oyw4PCvkrDgw==",
     "method": "aes-256-gcm",
     "remarks": "🇩🇪 Германия (Android TV + Free TV)",
     "route": "all",
@@ -63,24 +78,9 @@
   {
     "server": "54.36.162.84",
     "server_port": 8443,
-    "password": "fHbDkl0Wd8K1wrrCs8O8w5XCp8OywrfDv8KKUSpxw6zCu8KSRcOBUHvDsMOLw6J3w40Q",
+    "password": "w5LDocKdwqzCrsKqwofCoMKgw7vCjVDDmMOgIcOLXcKiGyAaYjRkw5HDn8OiwpllfsKQwrA=",
     "method": "aes-256-gcm",
     "remarks": "🇬🇧 Великобритания (Android TV + Free TV)",
-    "route": "all",
-    "remote_dns": "one.one.one.one",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },  
-  {
-    "server": "51.195.202.129",
-    "server_port": 8443,
-    "password": "6f562082-8961-4606-bd43-161d2c4a9588",
-    "method": "aes-256-gcm",
-    "remarks": "🇬🇧 Великобритания 2 (Android TV + Free TV)",
     "route": "all",
     "remote_dns": "one.one.one.one",
     "ipv6": false,
