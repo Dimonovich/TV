@@ -62,26 +62,12 @@ http://193.27.209.122/tiji/index.m3u8
 http://188.237.47.212:6005
 #EXTINF:-1 group-title="TEST ⓵",Fox Life HD
 http://188.237.47.212:6008
-#EXTINF:-1 group-title="TEST ⓵",Start World
-http://109.248.236.51/start_world_hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Мужское кино
-http://157.90.0.245:8070/muzhskoe_kino/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵", TV1000 HD
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=skwCBBPQc1VqswPDggBfkQ&e=1767154362&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 group-title="TEST ⓵", TV1000 Action
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=s8scj1W5-PtgnXWR2rsHzg&e=1767154400&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 group-title="TEST ⓵",viju TV1000 romantica
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=9PI3tRhit90hplIXfoTJ9g&e=1767154334&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
-#EXTINF:-1 group-title="TEST ⓵",Fightbox
-https://stream2.somon.tv/Fightbox/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵",VIP Comedy HD
-https://stream2.somon.tv/vipcomedy/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵",VIP Megahit HD
-https://stream2.somon.tv/vipmegahit/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵",VIP Premiere HD
-https://stream2.somon.tv/vippremiera/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵",VIP Serial HD
-https://stream2.somon.tv/vipserial/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/J4wRwcQn/i-TV-Cinema-Logo.png",ITV Cinema
 https://iptv.itv.uz/hls/live/t/UAcSEExX5UamlFqFOIaXIA/e/1767191403/4000/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/MTbNhVZc/i-TV-Music-Logo.png",ITV Music
@@ -144,8 +130,6 @@ http://157.90.0.245:8070/muzhskoe_kino/index.m3u8
 http://157.90.0.245:8070/ntvmir/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵", Trash HD
 http://157.90.0.245:8070/Trash_HD/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵", TV1000
-https://live-erostv.cdnvideo.ru/erostv/erostv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Дом Кино Премиум
 http://85.11.144.6:6060/play/a07v/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵",MTV
@@ -166,24 +150,6 @@ http://ukr.ukrainske.tv/493/keytvainua/video.m3u8
 http://ukr.ukrainske.tv/399/keytvainua/video.m3u8
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://provider-static.plex.tv/3/epg/channels/logos/gracenote/38945a2afcb8ce8ae6b5fe557e908b2f.png",Cirque du Soleil
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-67642f277c5e3b38af72dcdb.m3u8
-#EXTINF:-1 group-title="TEST ⓵",OstWest
-http://95.67.12.82:9077
-#EXTINF:-1 group-title="TEST ⓵",Continent E
-http://95.67.12.82:9083
-#EXTINF:-1 group-title="TEST ⓵",Trace Urban HD
-http://95.67.12.82:9068
-#EXTINF:-1 group-title="TEST ⓵",Trace Sport Stars HD
-http://95.67.12.82:9067
-#EXTINF:-1 group-title="TEST ⓵",One Planet
-http://95.67.12.82:9088
-#EXTINF:-1 group-title="TEST ⓵",Gags Network HD
-http://95.67.12.82:9069
-#EXTINF:-1 group-title="TEST ⓵",Дорама
-http://95.67.12.82:9046
-#EXTINF:-1 group-title="TEST ⓵",Love Nature
-http://95.67.12.82:9098
-#EXTINF:-1 group-title="TEST ⓵" tvg-id="kinokazka",Киноказка       
-http://95.67.12.82:9084
 #EXTINF:-1 group-title="TEST ⓵",Загородная жизнь
 http://185.57.68.33/40/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵",ДимГрад 24
