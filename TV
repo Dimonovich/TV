@@ -90,7 +90,7 @@ http://86.57.209.210/Ocean/index.m3u8
 http://86.57.209.210/Belarus24/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Шансон ТВ
 http://86.57.209.210/Shanson/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵",ТВ3
+#EXTINF:-1 group-title="TEST ⓵" tvg-id="tv3-by",ТВ3
 http://86.57.209.210/TB-3/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵",KHL HD
 http://86.57.209.210/KHL_HD/index.m3u8
