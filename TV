@@ -222,30 +222,6 @@ http://77.232.131.211/O2TV/index.m3u8
 http://77.232.131.211/RUTV/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",Карусель
 http://77.232.131.211/Karusel/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",Magic family
-http://cdn.iptvcinema.ru/magic_family/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",Мир 24
-https://streamer1.connectto.com/409/mono.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",Русский бестселлер
-https://streamer1.connectto.com/464/mono.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",Русский роман
-https://streamer1.connectto.com/466/mono.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",Русский детектив
-https://streamer1.connectto.com/467/mono.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",СТС Love
-https://streamer1.connectto.com/471/mono.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",В мире животных
-https://streamer1.connectto.com/513/mono.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",Комедия
-https://streamer1.connectto.com/516/mono.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",ТВЦ
-https://streamer3.connectto.com/300/mono.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",Мультимузыка
-https://streamer3.connectto.com/372/mono.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",Премиальное HD
-https://streamer3.connectto.com/373/mono.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",Супергерои
-https://streamer3.connectto.com/374/mono.m3u8
 #EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://i.postimg.cc/Rh516HVw/1.png", IPTVPLAY МультСказки HD
 http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://i.postimg.cc/mDMCsgNL/1.png", IPTVPLAY ВЕДЬМАК
