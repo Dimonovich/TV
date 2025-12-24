@@ -782,57 +782,6 @@ http://2.57.217.85:8000/play/a0a0/index.m3u8
 
 
 
-#EXTINF:-1 group-title="IP Petrosyan",РЕН ТВ
-http://95.47.156.60:8000/play/11/index.m3u8
-#EXTINF:-1 group-title="IP Petrosyan",РОССИЯ К
-http://95.47.156.60:8000/play/6/index.m3u8
-#EXTINF:-1 group-title="IP Petrosyan",ТНТ
-http://95.47.156.60:8000/play/19/index.m3u8
-#EXTINF:-1 group-title="IP Petrosyan",НТВ
-http://95.47.156.60:8000/play/4/index.m3u8
-#EXTINF:-1 group-title="IP Petrosyan",ПЯТЫЙ КАНАЛ
-http://95.47.156.60:8000/play/5/index.m3u8
-#EXTINF:-1 group-title="IP Petrosyan"tvg-id="art-tv" ,ART-ТВ   
-http://95.47.156.60:8000/play/a011/index.m3u8
-#EXTINF:-1 group-title="IP Petrosyan",Архыз 24
-http://95.47.156.60:8000/play/a00w/index.m3u8
-#EXTINF:-1 group-title="IP Petrosyan",Домашний
-http://95.47.156.60:8000/play/14/index.m3u8
-#EXTINF:-1 group-title="IP Petrosyan",Звезда
-http://95.47.156.60:8000/play/17/index.m3u8
-#EXTINF:-1 group-title="IP Petrosyan",МИР
-http://95.47.156.60:8000/play/18/index.m3u8
-#EXTINF:-1 group-title="IP Petrosyan",ММТВ
-http://95.47.156.60:8000/play/a014/index.m3u8
-#EXTINF:-1 group-title="IP Petrosyan",ПРНК
-http://95.47.156.60:8000/play/a013/index.m3u8
-#EXTINF:-1 group-title="IP Petrosyan",Пятница
-http://95.47.156.60:8000/play/16/index.m3u8
-#EXTINF:-1 group-title="IP Petrosyan",Резонанс ТВ
-http://95.47.156.60:8000/play/a015/index.m3u8
-#EXTINF:-1 group-title="IP Petrosyan",СТС
-http://95.47.156.60:8000/play/13/index.m3u8
-#EXTINF:-1 group-title="IP Petrosyan",Своё ТВ
-http://95.47.156.60:8000/play/21/index.m3u8
-#EXTINF:-1 group-title="IP Petrosyan",Спас
-http://95.47.156.60:8000/play/12/index.m3u8
-#EXTINF:-1 group-title="IP Petrosyan",ТБВ
-http://95.47.156.60:8000/play/a012/index.m3u8
-#EXTINF:-1 group-title="IP Petrosyan",ТВЦ
-http://95.47.156.60:8000/play/10/index.m3u8
-#EXTINF:-1 group-title="IP Petrosyan",ТВ3
-http://95.47.156.60:8000/play/15/index.m3u8
-#EXTINF:-1 group-title="IP Petrosyan",КАРУСЕЛЬ
-http://95.47.156.60:8000/play/8/index.m3u8
-#EXTINF:-1 group-title="IP Petrosyan",МузТВ
-http://95.47.156.60:8000/play/20/index.m3u8
-#EXTINF:-1 group-title="IP Petrosyan",МАТЧ ТВ
-http://95.47.156.60:8000/play/3/index.m3u8
-
-
-
-
-
 
 
 #EXTINF:-1 catchup="default" catchup-days="6" catchup-source="https://ext.cdn.nashnet.tv/228.0.2.45/${start}-${end}/index.m3u8" group-title="НашНет 🇺🇦" , UA:Перший
@@ -1797,120 +1746,53 @@ https://tvsamaragis.tk/new/new/tracks-v1a1/mono.m3u8
 
 
 
+#EXTINF:-1 group-title="IP Petrosyan (VPN)",РЕН ТВ
+http://95.47.156.60:8000/play/11/index.m3u8
+#EXTINF:-1 group-title="IP Petrosyan (VPN)",РОССИЯ К
+http://95.47.156.60:8000/play/6/index.m3u8
+#EXTINF:-1 group-title="IP Petrosyan (VPN)",ТНТ
+http://95.47.156.60:8000/play/19/index.m3u8
+#EXTINF:-1 group-title="IP Petrosyan (VPN)",НТВ
+http://95.47.156.60:8000/play/4/index.m3u8
+#EXTINF:-1 group-title="IP Petrosyan (VPN)",ПЯТЫЙ КАНАЛ
+http://95.47.156.60:8000/play/5/index.m3u8
+#EXTINF:-1 group-title="IP Petrosyan (VPN)"tvg-id="art-tv" ,ART-ТВ   
+http://95.47.156.60:8000/play/a011/index.m3u8
+#EXTINF:-1 group-title="IP Petrosyan (VPN)",Архыз 24
+http://95.47.156.60:8000/play/a00w/index.m3u8
+#EXTINF:-1 group-title="IP Petrosyan (VPN)",Домашний
+http://95.47.156.60:8000/play/14/index.m3u8
+#EXTINF:-1 group-title="IP Petrosyan (VPN)",Звезда
+http://95.47.156.60:8000/play/17/index.m3u8
+#EXTINF:-1 group-title="IP Petrosyan (VPN)",МИР
+http://95.47.156.60:8000/play/18/index.m3u8
+#EXTINF:-1 group-title="IP Petrosyan (VPN)",ММТВ
+http://95.47.156.60:8000/play/a014/index.m3u8
+#EXTINF:-1 group-title="IP Petrosyan (VPN)",ПРНК
+http://95.47.156.60:8000/play/a013/index.m3u8
+#EXTINF:-1 group-title="IP Petrosyan (VPN)",Пятница
+http://95.47.156.60:8000/play/16/index.m3u8
+#EXTINF:-1 group-title="IP Petrosyan (VPN)",Резонанс ТВ
+http://95.47.156.60:8000/play/a015/index.m3u8
+#EXTINF:-1 group-title="IP Petrosyan (VPN)",СТС
+http://95.47.156.60:8000/play/13/index.m3u8
+#EXTINF:-1 group-title="IP Petrosyan (VPN)",Своё ТВ
+http://95.47.156.60:8000/play/21/index.m3u8
+#EXTINF:-1 group-title="IP Petrosyan (VPN)",Спас
+http://95.47.156.60:8000/play/12/index.m3u8
+#EXTINF:-1 group-title="IP Petrosyan (VPN)",ТБВ
+http://95.47.156.60:8000/play/a012/index.m3u8
+#EXTINF:-1 group-title="IP Petrosyan (VPN)",ТВЦ
+http://95.47.156.60:8000/play/10/index.m3u8
+#EXTINF:-1 group-title="IP Petrosyan (VPN)",ТВ3
+http://95.47.156.60:8000/play/15/index.m3u8
+#EXTINF:-1 group-title="IP Petrosyan (VPN)",КАРУСЕЛЬ
+http://95.47.156.60:8000/play/8/index.m3u8
+#EXTINF:-1 group-title="IP Petrosyan (VPN)",МузТВ
+http://95.47.156.60:8000/play/20/index.m3u8
+#EXTINF:-1 group-title="IP Petrosyan (VPN)",МАТЧ ТВ
+http://95.47.156.60:8000/play/3/index.m3u8
 
-
-
-
-#EXTINF:-1 group-title="KIM-RAY (VPN)",Рен ТВ
-http://31.47.199.45:1401/rentv/index.m3u8
-#EXTINF:-1 group-title="KIM-RAY (VPN)",ТНТ
-http://31.47.199.45:1401/tnt/index.m3u8
-#EXTINF:-1 group-title="KIM-RAY (VPN)",НТВ
-http://31.47.199.45:1401/ntvmir/index.m3u8
-#EXTINF:-1 group-title="KIM-RAY (VPN)",ТНТ4
-http://31.47.199.45:1401/tnt4/index.m3u8
-#EXTINF:-1 group-title="KIM-RAY (VPN)",РТР Планета
-http://31.47.199.45:1401/rtrplaneta/index.m3u8
-#EXTINF:-1 group-title="KIM-RAY (VPN)",Россия К
-http://31.47.199.45:1400/kultura/index.m3u8
-#EXTINF:-1 group-title="KIM-RAY (VPN)",National Geographic
-http://31.47.199.45:1402/nationalgeographic/index.m3u8
-#EXTINF:-1 group-title="KIM-RAY (VPN)",Nat Geo Wild
-http://31.47.199.45:1402/natgeowild/index.m3u8
-#EXTINF:-1 group-title="KIM-RAY (VPN)",Hedu HD
-http://31.47.199.45:1402/hedu/index.m3u8
-#EXTINF:-1 group-title="KIM-RAY (VPN)",Ocean TV
-http://31.47.199.45:1401/okean/index.m3u8
-#EXTINF:-1 group-title="KIM-RAY (VPN)",Живая Планета
-http://31.47.199.45:1402/jivayaplaneta/index.m3u8
-#EXTINF:-1 group-title="KIM-RAY (VPN)",История
-http://31.47.199.45:1402/istoriya/index.m3u8
-#EXTINF:-1 group-title="KIM-RAY (VPN)",Киномикс
-http://31.47.199.45:1402/kinomiks/index.m3u8
-#EXTINF:-1 group-title="KIM-RAY (VPN)",Индийское Кино
-http://31.47.199.45:1402/indiskoekino/index.m3u8
-#EXTINF:-1 group-title="KIM-RAY (VPN)",Мужское Кино
-http://31.47.199.45:1402/mujskoekino/index.m3u8
-#EXTINF:-1 group-title="KIM-RAY (VPN)",Перец
-http://31.47.199.45:1401/perec/index.m3u8
-#EXTINF:-1 group-title="KIM-RAY (VPN)",СТС
-http://31.47.199.45:1401/sts/index.m3u8
-#EXTINF:-1 group-title="KIM-RAY (VPN)",СТС Love
-http://31.47.199.45:1401/stslove/index.m3u8
-#EXTINF:-1 group-title="KIM-RAY (VPN)",Звезда
-http://31.47.199.45:1401/zvezda/index.m3u8
-#EXTINF:-1 group-title="KIM-RAY (VPN)",ТВ3
-http://31.47.199.45:1401/tv3/index.m3u8
-#EXTINF:-1 group-title="KIM-RAY (VPN)",8 Канал
-http://31.47.199.45:1401/8kanal/index.m3u8
-#EXTINF:-1 group-title="KIM-RAY (VPN)",Ю
-http://31.47.199.45:1401/utv/index.m3u8
-#EXTINF:-1 group-title="KIM-RAY (VPN)",Мир
-http://31.47.199.45:1400/mir/index.m3u8
-#EXTINF:-1 group-title="KIM-RAY (VPN)",ATV Kinoman HD
-http://31.47.199.45:1402/kinoman/index.m3u8
-#EXTINF:-1 group-title="KIM-RAY (VPN)",ATV Bazmoc TV HD
-http://31.47.199.45:1402/bazmoctv/index.m3u8
-#EXTINF:-1 group-title="KIM-RAY (VPN)",ATV Xaxaliq HD
-http://31.47.199.45:1402/xaxaliq/index.m3u8
-#EXTINF:-1 group-title="KIM-RAY (VPN)",ATV Tava TV HD Кухня
-http://31.47.199.45:1402/tavatv/index.m3u8
-#EXTINF:-1 group-title="KIM-RAY (VPN)",ATV Hay TV HD Музыка
-http://31.47.199.45:1402/haytv/index.m3u8
-#EXTINF:-1 group-title="KIM-RAY (VPN)",ATV Muzzone HD
-http://31.47.199.45:1402/muzzon/index.m3u8
-#EXTINF:-1 group-title="KIM-RAY (VPN)",Kentron HD AM
-http://31.47.199.45:1400/kentron/index.m3u8
-#EXTINF:-1 group-title="KIM-RAY (VPN)",Nor Hayastan HD AM
-http://31.47.199.45:1400/norhayastan/index.m3u8
-#EXTINF:-1 group-title="KIM-RAY (VPN)",Nur TV HD AM
-http://31.47.199.45:1400/nur/index.m3u8
-#EXTINF:-1 group-title="KIM-RAY (VPN)",Shant HD AM
-http://31.47.199.45:1400/shant/index.m3u8
-#EXTINF:-1 group-title="KIM-RAY (VPN)",Shoghakat TV AM
-http://31.47.199.45:1400/shoghakat/index.m3u8
-#EXTINF:-1 group-title="KIM-RAY (VPN)",21TV AM
-http://31.47.199.45:1400/21tv/index.m3u8
-#EXTINF:-1 group-title="KIM-RAY (VPN)",5TV HD AM
-http://31.47.199.45:1400/5tv/index.m3u8
-#EXTINF:-1 group-title="KIM-RAY (VPN)",Armenia TV HD AM
-http://31.47.199.45:1400/armenia/index.m3u8
-#EXTINF:-1 group-title="KIM-RAY (VPN)",ATV HD
-http://31.47.199.45:1400/atv/index.m3u8
-#EXTINF:-1 group-title="KIM-RAY (VPN)",FreeNews HD AM
-http://31.47.199.45:1400/freenews/index.m3u8
-#EXTINF:-1 group-title="KIM-RAY (VPN)",H1 HD AM
-http://31.47.199.45:1400/h1/index.m3u8
-#EXTINF:-1 group-title="KIM-RAY (VPN)",H2 HD AM
-http://31.47.199.45:1400/h2/index.m3u8
-#EXTINF:-1 group-title="KIM-RAY (VPN)",Bun TV
-http://31.47.199.45:1400/bun/index.m3u8
-#EXTINF:-1 group-title="KIM-RAY (VPN)",Amedia 2
-http://31.47.199.45:1401/amedia2/index.m3u8
-#EXTINF:-1 group-title="KIM-RAY (VPN)",Авто 24
-http://31.47.199.45:1402/avto24/index.m3u8
-#EXTINF:-1 group-title="KIM-RAY (VPN)",.RED
-http://31.47.199.45:1401/red/index.m3u8
-#EXTINF:-1 group-title="KIM-RAY (VPN)",.Black
-http://31.47.199.45:1401/black/index.m3u8
-#EXTINF:-1 group-title="KIM-RAY (VPN)",.Sci-Fi
-http://31.47.199.45:1401/scifi/index.m3u8
-#EXTINF:-1 group-title="KIM-RAY (VPN)",ЗВЕЗДА ПЛЮС HD
-http://31.47.199.45:1402/zvezdaplus/index.m3u8
-#EXTINF:-1 group-title="KIM-RAY (VPN)",ANI
-http://31.47.199.45:1401/ani/index.m3u8
-#EXTINF:-1 group-title="KIM-RAY (VPN)",Карусель
-http://31.47.199.45:1401/karusel/index.m3u8
-#EXTINF:-1 group-title="KIM-RAY (VPN)",Солнце
-http://31.47.199.45:1401/solnce/index.m3u8
-#EXTINF:-1 group-title="KIM-RAY (VPN)",Европа Плюс ТВ
-http://31.47.199.45:1401/europaplus/index.m3u8
-#EXTINF:-1 group-title="KIM-RAY (VPN)",ТНТ Music
-http://31.47.199.45:1401/tntmusic/index.m3u8
-#EXTINF:-1 group-title="KIM-RAY (VPN)",RU.TV
-http://31.47.199.45:1401/rutv/index.m3u8
-#EXTINF:-1 group-title="KIM-RAY (VPN)",МузТВ
-http://31.47.199.45:1401/muztv/index.m3u8
 
 
 
