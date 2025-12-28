@@ -323,7 +323,7 @@ http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1920x1080@4504/playl
 http://62.89.220.15/streams/media/rossiya-k_720x576/index.m3u8
 #EXTINF:-1 group-title="ТТ мобайл",ТНТ
 http://62.89.220.15/streams/media/tnt-4_720x576/index.m3u8
-#EXTINF:-1 group-title="ТТ мобайл",THT4
+#EXTINF:-1 group-title="ТТ мобайл",ТНТ4
 http://62.89.220.15/streams/media/tnt4_720x576/index.m3u8
 #EXTINF:-1 group-title="ТТ мобайл",НТВ ПРАВО
 http://62.89.220.15/streams/media/ntv-pravo_720x576/index.m3u8
@@ -335,7 +335,7 @@ http://62.89.220.15/streams/media/nashe-novoe-kino_720x576/index.m3u8
 http://62.89.220.15/streams/media/rodnoe-kino_720x576/index.m3u8
 #EXTINF:-1 group-title="ТТ мобайл",Победа
 http://62.89.220.15/streams/media/pobeda_720x576/index.m3u8
-#EXTINF:-1 group-title="ТТ мобайл",Мир Cериала
+#EXTINF:-1 group-title="ТТ мобайл",Мир Сериала
 http://62.89.220.15/streams/media/mir-seriala_720x576/index.m3u8
 #EXTINF:-1 group-title="ТТ мобайл",Русский Роман
 http://62.89.220.15/streams/media/russkiy-roman_720x576/index.m3u8
@@ -389,7 +389,7 @@ http://62.89.220.15/streams/media/sts-kids_720x576/index.m3u8
 http://62.89.220.15/streams/media/multimuzyka_720x576/index.m3u8
 #EXTINF:-1 group-title="ТТ мобайл",Bridge TV
 http://62.89.220.15/streams/media/bridge-tv_720x576/index.m3u8
-#EXTINF:-1 group-title="ТТ мобайл",Шансон
+#EXTINF:-1 group-title="ТТ мобайл",Шансон ТВ
 http://62.89.220.15/streams/media/shanson-tv_720x576/index.m3u8
 #EXTINF:-1 group-title="ТТ мобайл",RU.TV
 http://62.89.220.15/streams/media/ru-tv_720x576/index.m3u8
