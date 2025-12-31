@@ -171,28 +171,18 @@ https://api-tv.ipnet.ua/api/v1/manifest/2118742632.m3u8
 http://185.221.213.254:8080/Okko/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)", Матч Премьер
 http://levshanov.tlkf.ru/iptv/nashfootballhd/16/h1080/playlist.m3u8
-#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://i.postimg.cc/CL0v8vNT/avatar.png", Kinowalk TV
-https://kinowalk.hopto.org/kinowalk_live
-#EXTINF:-1 group-title="TEST (VPN)", ТНТ
-http://95.163.85.128/streams/media/tnt_720x576/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",НСТ
 http://80.77.52.3/streams/media/nstv_720x576/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",TV1000 action
 http://80.77.52.3/streams/media/tv1000action_720x576/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",TV25 GE
 http://80.77.52.3/streams/media/tv-25_720x576/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)", a2
-http://95.163.85.128/streams/media/a2_720x576/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)", ТВЦ
-http://95.163.85.128/streams/media/tv-centr_720x576/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)" tvg-id="rus-hualiang-tv" ,Китай ТВ HD
 https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",РОССИЯ 24
 http://77.232.131.211/Rossiya24/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",Travel+Adventure HD
 http://77.232.131.211/TravelAdventureHD/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",Maydan
-http://77.232.131.211/Maydan/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",Спас
 http://77.232.131.211/Spas/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",O2TV
@@ -7841,4 +7831,3 @@ http://127.0.0.1:6878/ace/getstream?infohash=ab4f0c0791a41b00cf45e26e3a783314750
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",[magenta] Sport 11 - myTeamTV
 http://127.0.0.1:6878/ace/getstream?infohash=348ef293fa3338b18559c37f96b7ce1861fa4f11
  
-.
