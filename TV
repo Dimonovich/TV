@@ -42,18 +42,6 @@ https://dvr3.vokkavideo.xyz/ALPHAFUNNYHD/index.m3u8
 https://dvr3.vokkavideo.xyz/CRINGETVHD/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.ibb.co/3y89szkh/newrussianhd.png",Новый Русский
 https://dvr3.vokkavideo.xyz/NEWRUSSIAHD/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Киножелезо
-http://188.208.197.173/kinojelezo/video.m3u8?token=tvon
-#EXTINF:-1 group-title="TEST ⓵",Кинолаффка
-http://188.208.197.173/kinolafka/video.m3u8?token=tvon
-#EXTINF:-1 group-title="TEST ⓵",Кино и жизнь
-http://188.208.197.173/kinojizn/video.m3u8?token=Rblztg5NZwI9x2
-#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.ibb.co/FbRDGTB9/tv4hd.png",tv4
-http://188.208.197.173/tv4/video.m3u8?token=tvon
-#EXTINF:-1 group-title="TEST ⓵",Viasat Explore
-http://188.208.197.173/viasat-explore/video.m3u8?token=tvon
-#EXTINF:-1 group-title="TEST ⓵", Viasat Nature
-http://188.208.197.173/viasat-nature/video.m3u8?token=tvon
 #EXTINF:-1 group-title="TEST ⓵",DTR Zona 1
 https://kino-stream.online/hls/DTRZONA1.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Bollywood HD
@@ -67,11 +55,11 @@ http://188.237.47.212:6005
 #EXTINF:-1 group-title="TEST ⓵",Fox Life HD
 http://188.237.47.212:6008
 #EXTINF:-1 group-title="TEST ⓵", TV1000 HD
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=skwCBBPQc1VqswPDggBfkQ&e=1767154362&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=uvExutPkbf3-bl5Tz8feIA&e=1768216059&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 group-title="TEST ⓵", TV1000 Action
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=s8scj1W5-PtgnXWR2rsHzg&e=1767154400&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=g3a_GVQQWGx7BJjQCKghfA&e=1768216084&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 group-title="TEST ⓵",viju TV1000 romantica
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=9PI3tRhit90hplIXfoTJ9g&e=1767154334&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=Ned7ek8tbGcQkuE1EvW30w&e=1768216028&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/J4wRwcQn/i-TV-Cinema-Logo.png",ITV Cinema
 https://iptv.itv.uz/hls/live/t/UAcSEExX5UamlFqFOIaXIA/e/1767191403/4000/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/MTbNhVZc/i-TV-Music-Logo.png",ITV Music
@@ -124,16 +112,6 @@ https://flussonic.salomtv.uz/Detskiy/video.m3u8
 https://flussonic.salomtv.uz/eurosport_2/video.m3u8
 #EXTINF:-1 group-title="TEST ⓵", Futbol TV
 https://flussonic.salomtv.uz/FutbolTV/video.m3u8
-#EXTINF:-1 group-title="TEST ⓵", MM Спорт HD
-http://157.90.0.245:8070/minimax-sport/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵", HOLLYWOOD HD
-http://157.90.0.245:8070/HOLLYWOOD_HD/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵", Мужское кино
-http://157.90.0.245:8070/muzhskoe_kino/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵", НТВ-Мир
-http://157.90.0.245:8070/ntvmir/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵", Trash HD
-http://157.90.0.245:8070/Trash_HD/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Дом Кино Премиум
 http://85.11.144.6:6060/play/a07v/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵",MTV
@@ -184,8 +162,7 @@ https://api-tv.ipnet.ua/api/v1/manifest/2118742505.m3u8
 https://api-tv.ipnet.ua/api/v1/manifest/2118742680.m3u8
 #EXTINF:-1 group-title="TEST ⓵", Армія ТБ
 https://api-tv.ipnet.ua/api/v1/manifest/2118742632.m3u8
-#EXTINF:-1 group-title="TEST ⓵",4K travel 
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/1967b0de-bf90-4339-a563-a5d06bba32ed/2.m3u8
+
 
 
 
@@ -7864,3 +7841,4 @@ http://127.0.0.1:6878/ace/getstream?infohash=ab4f0c0791a41b00cf45e26e3a783314750
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",[magenta] Sport 11 - myTeamTV
 http://127.0.0.1:6878/ace/getstream?infohash=348ef293fa3338b18559c37f96b7ce1861fa4f11
  
+.
