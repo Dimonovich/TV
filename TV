@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG,http://epg.one/epg2.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz,https://ry7wpjhjwylg7u7.vxdgroup-84jzo19.xyz/tv4epg.xml,https://ry7wpjhjwylg7u7.vxdgroup-84jzo19.xyz/tv4ru.xml"
+#EXTM3U url-tvg="https://iptvx.one/EPG,http://epg.one/epg2.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz"
 
 
 #EXTINF:-1 group-title="🔺 INFO 🔺" tvg-logo="https://i.postimg.cc/76BWD3tc/1.gif",Обновление:🎄2.01.2026
@@ -20,28 +20,6 @@ http://194.26.229.213/chdtv_rock/index.m3u8
 http://194.26.229.213/souzmultfilm/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/BvqS8HVV/1.png",Чип и Дейл
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.ibb.co/hFh1nDmg/tv4relax.png",TV4 Relax HD
-https://dvr3.vokkavideo.xyz/TV4RELAXHD/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.ibb.co/9m5hWZtm/tv4music.png",TV4 Hits HD
-https://dvr3.vokkavideo.xyz/TV4HITSHD/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.ibb.co/mVR1d4qx/hdlogo.png" tvg-id="TV4RU",TV4 Русское Кино HD
-https://dvr3.vokkavideo.xyz/TV4RUKINO/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.ibb.co/FbRDGTB9/tv4hd.png",TV4 HD
-https://dvr3.vokkavideo.xyz/TV4HD/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.ibb.co/FbRDGTB9/tv4sd.png",TV4 SD
-https://dvr3.vokkavideo.xyz/TV4SD/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.ibb.co/dwc9xqbb/htvhd.png",HTV HD
-https://dvr3.vokkavideo.xyz/HTVHD/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.ibb.co/dwdXtmV5/alphacinemahd.png",alpha Cinema
-https://dvr3.vokkavideo.xyz/ALPHACINEMAHD/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.ibb.co/k62yvqx6/alphamoretimehd.png",alpha Moretime
-https://dvr3.vokkavideo.xyz/ALPHAMORETIMEHD/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.ibb.co/TB1NPyM6/alphafunnyhd.png",alpha Funny
-https://dvr3.vokkavideo.xyz/ALPHAFUNNYHD/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.ibb.co/NgJPp94D/15plusmusichd.png",15+ Music
-https://dvr3.vokkavideo.xyz/CRINGETVHD/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.ibb.co/3y89szkh/newrussianhd.png",Новый Русский
-https://dvr3.vokkavideo.xyz/NEWRUSSIAHD/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵",DTR Zona 1
 https://kino-stream.online/hls/DTRZONA1.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Bollywood HD
