@@ -479,7 +479,7 @@ http://176.118.197.101/Cinema/index.m3u8
 http://176.118.197.101/Dom_kino/index.m3u8
 #EXTINF:-1 group-title="Internet42 LLC", Еврокино
 http://176.118.197.101/Evrokino/index.m3u8
-#EXTINF:-1 group-title="Internet42 LLC", HCT
+#EXTINF:-1 group-title="Internet42 LLC", НСТ
 http://176.118.197.101/HCT/index.m3u8
 #EXTINF:-1 group-title="Internet42 LLC", Иллюзион+
 http://176.118.197.101/Illuzion+/index.m3u8
@@ -487,6 +487,8 @@ http://176.118.197.101/Illuzion+/index.m3u8
 http://176.118.197.101/Kinokomediya/index.m3u8
 #EXTINF:-1 group-title="Internet42 LLC", Киномикс
 http://176.118.197.101/Kinomix/index.m3u8
+#EXTINF:-1 group-title="Internet42 LLC", Родное кино
+http://176.118.197.101/RodnoeKino/index.m3u8
 #EXTINF:-1 group-title="Internet42 LLC", Кинопоказ
 http://176.118.197.101/Kinopokaz/index.m3u8
 #EXTINF:-1 group-title="Internet42 LLC", Киносерия
@@ -531,8 +533,6 @@ http://176.118.197.101/Nostalgiya/index.m3u8
 http://176.118.197.101/RBK/index.m3u8
 #EXTINF:-1 group-title="Internet42 LLC", Ретро
 http://176.118.197.101/Retro/index.m3u8
-#EXTINF:-1 group-title="Internet42 LLC", Родное кино
-http://176.118.197.101/RodnoeKino/index.m3u8
 #EXTINF:-1 group-title="Internet42 LLC", Театр
 http://176.118.197.101/Teatr/index.m3u8
 #EXTINF:-1 group-title="Internet42 LLC", Телекафе
