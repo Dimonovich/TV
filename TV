@@ -930,67 +930,6 @@ http://2.57.217.85:8000/play/a0a0/index.m3u8
 
 
 
-
-
-
-#EXTINF:-1 catchup="default" catchup-days="6" catchup-source="https://ext.cdn.nashnet.tv/228.0.2.45/${start}-${end}/index.m3u8" group-title="НашНет 🇺🇦" , UA:Перший
-https://ext.cdn.nashnet.tv/228.0.2.45/index.m3u8
-#EXTINF:-1 catchup="default" catchup-days="6" catchup-source="https://ext.cdn.nashnet.tv/228.0.0.122/${start}-${end}/index.m3u8" group-title="НашНет 🇺🇦" , Прямий HD
-https://ext.cdn.nashnet.tv/228.0.0.122/index.m3u8
-#EXTINF:-1 catchup="default" catchup-days="6" catchup-source="https://ext.cdn.nashnet.tv/228.0.0.15/${start}-${end}/index.m3u8" group-title="НашНет 🇺🇦" , Київ ТБ HD
-https://ext.cdn.nashnet.tv/228.0.0.15/index.m3u8
-#EXTINF:-1 catchup="default" catchup-days="6" catchup-source="https://ext.cdn.nashnet.tv/228.0.4.26/${start}-${end}/index.m3u8" group-title="НашНет 🇺🇦" , 5 Канал HD
-https://ext.cdn.nashnet.tv/228.0.4.26/index.m3u8
-#EXTINF:-1 catchup="default" catchup-days="6" catchup-source="https://ext.cdn.nashnet.tv/228.0.0.24/${start}-${end}/index.m3u8" group-title="НашНет 🇺🇦" , Рада HD
-https://ext.cdn.nashnet.tv/228.0.0.24/index.m3u8
-#EXTINF:-1 catchup="default" catchup-days="6" catchup-source="https://ext.cdn.nashnet.tv/228.0.0.41/${start}-${end}/index.m3u8" group-title="НашНет 🇺🇦" , Суспільне Київ
-https://ext.cdn.nashnet.tv/228.0.0.41/index.m3u8
-#EXTINF:-1 catchup="default" catchup-days="6" catchup-source="https://ext.cdn.nashnet.tv/228.0.0.71/${start}-${end}/index.m3u8" group-title="НашНет 🇺🇦" , Суспільне Крим
-https://ext.cdn.nashnet.tv/228.0.0.71/index.m3u8
-#EXTINF:-1 catchup="default" catchup-days="6" catchup-source="https://ext.cdn.nashnet.tv/228.0.0.141/${start}-${end}/index.m3u8" group-title="НашНет 🇺🇦" , Суспільне Культура
-https://ext.cdn.nashnet.tv/228.0.0.141/index.m3u8
-#EXTINF:-1 catchup="default" catchup-days="6" catchup-source="https://ext.cdn.nashnet.tv/228.0.0.138/${start}-${end}/index.m3u8" group-title="НашНет 🇺🇦" , 8 Канал UA HD
-https://ext.cdn.nashnet.tv/228.0.0.138/index.m3u8
-#EXTINF:-1 catchup="default" catchup-days="6" catchup-source="https://ext.cdn.nashnet.tv/228.0.0.33/${start}-${end}/index.m3u8" group-title="НашНет 🇺🇦" , 24 Канал UA
-https://ext.cdn.nashnet.tv/228.0.0.33/index.m3u8
-#EXTINF:-1 catchup="default" catchup-days="6" catchup-source="https://ext.cdn.nashnet.tv/228.0.0.140/${start}-${end}/index.m3u8" group-title="НашНет 🇺🇦" , Наталі
-https://ext.cdn.nashnet.tv/228.0.0.140/index.m3u8
-#EXTINF:-1 catchup="default" catchup-days="6" catchup-source="https://ext.cdn.nashnet.tv/228.0.1.60/${start}-${end}/index.m3u8" group-title="НашНет 🇺🇦" , ЕКО–ТВ UA
-https://ext.cdn.nashnet.tv/228.0.1.60/index.m3u8
-#EXTINF:-1 catchup="default" catchup-days="6" catchup-source="https://ext.cdn.nashnet.tv/228.0.0.136/${start}-${end}/index.m3u8" group-title="НашНет 🇺🇦" , Чорноморська ТРК
-https://ext.cdn.nashnet.tv/228.0.0.136/index.m3u8
-#EXTINF:-1 catchup="default" catchup-days="6" catchup-source="https://ext.cdn.nashnet.tv/228.0.0.75/${start}-${end}/index.m3u8" group-title="НашНет 🇺🇦" , CNN
-https://ext.cdn.nashnet.tv/228.0.0.75/index.m3u8
-#EXTINF:-1 catchup="default" catchup-days="6" catchup-source="https://ext.cdn.nashnet.tv/228.0.0.172/${start}-${end}/index.m3u8" group-title="НашНет 🇺🇦" , Надiя ТВ
-https://ext.cdn.nashnet.tv/228.0.0.172/index.m3u8
-#EXTINF:-1 catchup="default" catchup-days="6" catchup-source="https://ext.cdn.nashnet.tv/228.0.0.162/${start}-${end}/index.m3u8" group-title="НашНет 🇺🇦" , Перший західний HD
-https://ext.cdn.nashnet.tv/228.0.0.162/index.m3u8
-#EXTINF:-1 catchup="default" catchup-days="6" catchup-source="https://ext.cdn.nashnet.tv/228.0.0.165/${start}-${end}/index.m3u8" group-title="НашНет 🇺🇦" , Сонце
-https://ext.cdn.nashnet.tv/228.0.0.165/index.m3u8
-#EXTINF:-1 catchup="default" catchup-days="6" catchup-source="https://ext.cdn.nashnet.tv/228.0.0.191/${start}-${end}/index.m3u8" group-title="НашНет 🇺🇦" , Еспресо TV HD
-https://ext.cdn.nashnet.tv/228.0.0.191/index.m3u8
-#EXTINF:-1 catchup="default" catchup-days="6" catchup-source="https://ext.cdn.nashnet.tv/228.0.0.49/${start}-${end}/index.m3u8" group-title="НашНет 🇺🇦" , ATR HD
-https://ext.cdn.nashnet.tv/228.0.0.49/index.m3u8
-#EXTINF:-1 catchup="default" catchup-days="6" catchup-source="https://ext.cdn.nashnet.tv/228.0.0.50/${start}-${end}/index.m3u8" group-title="НашНет 🇺🇦" , Lale HD
-https://ext.cdn.nashnet.tv/228.0.0.50/index.m3u8
-#EXTINF:-1 catchup="default" catchup-days="6" catchup-source="https://ext.cdn.nashnet.tv/228.0.1.45/${start}-${end}/index.m3u8" group-title="НашНет 🇺🇦" , Milady television
-https://ext.cdn.nashnet.tv/228.0.1.45/index.m3u8
-#EXTINF:-1 catchup="default" catchup-days="6" catchup-source="https://ext.cdn.nashnet.tv/228.0.2.30/${start}-${end}/index.m3u8" group-title="НашНет 🇺🇦" , КАРАВАН-ТВ UA
-https://ext.cdn.nashnet.tv/228.0.2.30/index.m3u8
-#EXTINF:-1 catchup="default" catchup-days="6" catchup-source="https://ext.cdn.nashnet.tv/228.0.0.148/${start}-${end}/index.m3u8" group-title="НашНет 🇺🇦" , Обозреватель HD
-https://ext.cdn.nashnet.tv/228.0.0.148/index.m3u8
-#EXTINF:-1 catchup="default" catchup-days="6" catchup-source="https://ext.cdn.nashnet.tv/228.0.2.214/${start}-${end}/index.m3u8" group-title="НашНет 🇺🇦" , Megogo live HD
-https://ext.cdn.nashnet.tv/228.0.2.214/index.m3u8
-#EXTINF:-1 catchup="default" catchup-days="6" catchup-source="https://ext.cdn.nashnet.tv/228.0.2.165/${start}-${end}/index.m3u8" group-title="НашНет 🇺🇦" , Апостроф TV HD
-https://ext.cdn.nashnet.tv/228.0.2.165/index.m3u8
-#EXTINF:-1 catchup="default" catchup-days="6" catchup-source="https://ext.cdn.nashnet.tv/228.0.3.231/${start}-${end}/index.m3u8" group-title="НашНет 🇺🇦" , Ісландія HD
-https://ext.cdn.nashnet.tv/228.0.3.231/index.m3u8
-
-
-
-
-
-
 #EXTINF:-1 group-title="📺 Usba TV" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg",Доктор Достоевский
 https://fl1001.bozztv.com/ushba3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Usba TV" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Star Media
