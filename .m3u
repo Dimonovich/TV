@@ -393,15 +393,6 @@ https://bl.rutube.ru/livestream/afc3073ec3efc6cb70c88ce6acaf4344/index.m3u8?s=5k
 https://bl.rutube.ru/livestream/9d751116af89fd3a94b79927de49699b/index.m3u8?s=1T80ZuzlY9xk4qhinopsVA&e=2068593371&scheme=https
 
 
-
-
-
-#EXTINF:-1, BRIDGE РУССКИЙ ХИТ
-http://levshanov.tlkf.ru/iptv/rusong_tv/16/vh1/playlist.m3u8
-#EXTINF:-1, BRIDGE HITS
-http://levshanov.tlkf.ru/iptv/dange_tv/16/tvrecw/playlist.m3u8
-
-
 #EXTINF:-1 ,Кинопремьера
 https://vod.splay.uz/live_splay/original/Kinopremera/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Киносемья
@@ -422,28 +413,6 @@ https://vod.splay.uz/live_splay/original/Kinokomediya/tracks-v1a1/mono.m3u8
 https://vod.splay.uz/live_splay/original/Nashe_novoe_kino/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1, Silk Way Cinema
-http://levshanov.tlkf.ru/iptv/silk_way_cinema/16/copy_a/playlist.m3u8
-#EXTINF:-1, black
-http://levshanov.tlkf.ru/iptv/sony_turbo/16/tvrecw/playlist.m3u8
-#EXTINF:-1, red
-http://levshanov.tlkf.ru/iptv/set/16/tvrecw/playlist.m3u8
-#EXTINF:-1, sci-fi
-http://levshanov.tlkf.ru/iptv/sonyscifi/16/gvh1w/playlist.m3u8
-
-
-#EXTINF:-1 ,Наша Сибирь
-http://levshanov.tlkf.ru/iptv/nasha_sibir/16/copy_a/playlist.m3u8
-#EXTINF:-1 ,АРТ ТВ
-http://levshanov.tlkf.ru/iptv/art_tv/16/copy_a/playlist.m3u8
-#EXTINF:-1 ,Квадро HD
-http://levshanov.tlkf.ru/iptv/kvadro_hd/16/copy_a/playlist.m3u8
-#EXTINF:-1 ,The Explorers
-http://levshanov.tlkf.ru/iptv/the_explorers/16/tvrecw/playlist.m3u8
-
-
-#EXTINF:-1 ,Travel+Adventure
-http://levshanov.tlkf.ru/iptv/travad/16/tvrecw/playlist.m3u8
 
 #EXTINF:-1 ,Техно 24
 https://vod.splay.uz/live_splay/original/Tehno_24/tracks-v1a1/mono.m3u8
@@ -484,36 +453,6 @@ https://vod.splay.uz/live_splay/original/Viasat_Sport/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 ,Бокс ТВ
 https://a3285272783-s80718.cdn.ngenix.net/hls/CH_BOKS_TVHD/video_1920x1080_avc1/playlist.m3u8
-
-#EXTINF:-1, Матч Премьер
-http://levshanov.tlkf.ru/iptv/nashfootballhd/16/h1080/playlist.m3u8
-
-
-#EXTINF:-1 group-title="Спорткомплекс 🏆",МАТЧ! HD
-http://91.207.115.228:5000/c101
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Футбол
-http://91.207.115.228:5000/c102
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Планета
-http://91.207.115.228:5000/c156
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Арена
-http://91.207.115.228:5000/c103
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Игра HD
-http://91.207.115.228:5000/c104
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Страна
-http://91.207.115.228:5000/c106
-#EXTINF:-1 group-title="Спорткомплекс 🏆",МАТЧ! БОЕЦ
-http://91.207.115.228:5000/c107
-#EXTINF:-1 group-title="Спорткомплекс 🏆",KHL
-http://91.207.115.228:5000/c108
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Extreme Sports
-http://91.207.115.228:5000/c112
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Футбол 1 HD
-http://91.207.115.228:5000/c114
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Футбол 2 HD
-http://91.207.115.228:5000/c115
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Футбол 3 HD
-http://91.207.115.228:5000/c116
-
 
 #EXTINF:-1 group-title="С сайтов (VPN)" ,Кавказ 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8
