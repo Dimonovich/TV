@@ -164,10 +164,6 @@ https://api-tv.ipnet.ua/api/v1/manifest/2118742632.m3u8
 
 
 
-#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="http://194.26.229.4/live/pda.png",OnlineTV
-http://185.221.213.254:8080/Okko/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)", Матч Премьер
-http://levshanov.tlkf.ru/iptv/nashfootballhd/16/h1080/playlist.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",НСТ
 http://80.77.52.3/streams/media/nstv_720x576/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",TV1000 action
@@ -220,12 +216,6 @@ https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/rewind-240.ts.m3u8
 https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",Матч HD
 https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
-#EXTINF:-1 group-title="TEST (VPN)", 365 дней
-http://45.11.139.43:8555/365dney/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",РБК
-http://45.11.139.43:8555/rbk/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",Телекафе
-http://45.11.139.43:8555/telekafe/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",Мосфильм. Золотая коллекция
 http://5.8.11.96:8099/mosfilmhd/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)", Пингвин Лоло
