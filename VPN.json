@@ -46,11 +46,11 @@
     "udpdns": false
   },  
   {
-    "server": "57.131.38.151",
+    "server": "57.131.38.150",
     "server_port": 8443,
-    "password": "XvMSqDdMNf4+KgJ1CwVuJSblZX4N/5rmRbHl1agCokk=",
+    "password": "e66bd289-ceeb-47fc-9433-a7f17a6f0c1d",
     "method": "aes-256-gcm",
-    "remarks": "🇮🇹 Италия (Android TV + Free TV)",
+    "remarks": "🇮🇹 Италия 2 (Android TV + Free TV)",
     "route": "all",
     "remote_dns": "one.one.one.one",
     "ipv6": false,
