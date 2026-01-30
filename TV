@@ -160,12 +160,6 @@ https://api-tv.ipnet.ua/api/v1/manifest/2118742632.m3u8
 
 
 
-#EXTINF:-1 group-title="TEST (VPN)",НСТ
-http://80.77.52.3/streams/media/nstv_720x576/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",TV1000 action
-http://80.77.52.3/streams/media/tv1000action_720x576/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",TV25 GE
-http://80.77.52.3/streams/media/tv-25_720x576/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)" tvg-id="rus-hualiang-tv" ,Китай ТВ HD
 https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",РОССИЯ 24
