@@ -397,11 +397,11 @@ https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=RP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/efc2833169ec20a3ea61197714bea6ab/index.m3u8?s=-Wx8SBgEJDa5ofprHom6mw&e=2070450972&scheme=https
 
-#EXTINF:-1, TV1000 HD
+#EXTINF:-1, TV1000
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=_aBqwCTRXONCpEsN4LAr5Q&e=1771430203&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1, TV1000 Action
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=ewtcNnsFTR_vxha6tIH9KQ&e=1771430220&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
-#EXTINF:-1,viju TV1000 romantica
+#EXTINF:-1, TV1000 Romantica
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=Jy92bbDWgVxWGx_xRkv4Dw&e=1771430177&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 
 #EXTINF:-1,Terra
