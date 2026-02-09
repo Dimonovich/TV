@@ -772,69 +772,6 @@ http://87.76.32.36:8001/bokstv
 
 
 
-#EXTINF:-1 group-title="Merlive",Россия 1
-http://s7.merlive.am/Rossia1/index.m3u8
-#EXTINF:-1 group-title="Merlive",ТНТ HD
-http://s7.merlive.am/tnthd/index.m3u8
-#EXTINF:-1 group-title="Merlive",НТВ HD
-http://s7.merlive.am/ntvhd/index.m3u8
-#EXTINF:-1 group-title="Merlive",НТВ Право
-http://s7.merlive.am/ntvpravo/index.m3u8
-#EXTINF:-1 group-title="Merlive",НТВ стиль
-http://s7.merlive.am/ntvstil/index.m3u8
-#EXTINF:-1 group-title="Merlive",НТВ Хит
-http://s7.merlive.am/ntvxit/index.m3u8
-#EXTINF:-1 group-title="Merlive",Дикая охота HD
-http://s7.merlive.am/dikayaoxota/index.m3u8
-#EXTINF:-1 group-title="Merlive",National Geographic
-http://s7.merlive.am/NationalGeographic/index.m3u8
-#EXTINF:-1 group-title="Merlive",Живая Планета
-http://s7.merlive.am/jivayaplaneta/index.m3u8
-#EXTINF:-1 group-title="Merlive",RTG HD
-http://s7.merlive.am/rtgtv/index.m3u8
-#EXTINF:-1 group-title="Merlive",2x2
-http://s7.merlive.am/2x2/index.m3u8
-#EXTINF:-1 group-title="Merlive",.Black
-http://s7.merlive.am/Amedia1/index.m3u8
-#EXTINF:-1 group-title="Merlive",Мир
-http://s7.merlive.am/Mir/index.m3u8
-#EXTINF:-1 group-title="Merlive",8 канал
-http://s7.merlive.am:80/8Kanal/index.m3u8
-#EXTINF:-1 group-title="Merlive",Дом кино
-http://s7.merlive.am/Domkino/index.m3u8
-#EXTINF:-1 group-title="Merlive",Еврокино
-http://s7.merlive.am/eurokino/index.m3u8
-#EXTINF:-1 group-title="Merlive",Кинеко
-http://s7.merlive.am/kineko/index.m3u8
-#EXTINF:-1 group-title="Merlive",Kinoman HD
-http://s7.merlive.am/Kinoman/index.m3u8
-#EXTINF:-1 group-title="Merlive",Родное кино
-http://s7.merlive.am/rodnoekino/index.m3u8
-#EXTINF:-1 group-title="Merlive",Киноужас
-http://s7.merlive.am/Kinoujas/index.m3u8
-#EXTINF:-1 group-title="Merlive",Мир 24
-http://s7.merlive.am/Mir24/index.m3u8
-#EXTINF:-1 group-title="Merlive",Победа
-http://s7.merlive.am/pobeda/index.m3u8
-#EXTINF:-1 group-title="Merlive",Пятница
-http://s7.merlive.am/Pyatnica/index.m3u8
-#EXTINF:-1 group-title="Merlive",РБК
-http://s7.merlive.am/RBK/index.m3u8
-#EXTINF:-1 group-title="Merlive",.Sci-Fi
-http://s7.merlive.am/Sci-Fi/index.m3u8
-#EXTINF:-1 group-title="Merlive",СТС Love
-http://s7.merlive.am/stslove/index.m3u8
-#EXTINF:-1 group-title="Merlive",МузТВ
-http://s7.merlive.am/muztv/index.m3u8
-#EXTINF:-1 group-title="Merlive",СТС Kids
-http://s7.merlive.am/STSkids/index.m3u8
-#EXTINF:-1 group-title="Merlive",Карусель
-http://s7.merlive.am/Karusel/index.m3u8
-#EXTINF:-1 group-title="Merlive",Da Vinci
-http://s7.merlive.am/DaVinci/index.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч Премьер
-http://s7.merlive.am/matchpremier/index.m3u8
-
 
 #EXTINF:-1 group-title="Инет",Россия К
 http://185.46.16.239:8000/Rossiya_K
