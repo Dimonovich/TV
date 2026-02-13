@@ -1,11 +1,11 @@
 [
    
   {
-    "server": "94.131.123.236",
+    "server": "57.131.38.151",
     "server_port": 8443,
-    "password": "42ca6d66-13fd-4608-99ad-5a2b7c606b24",
+    "password": "+zFL0Y7sYQ6BRrYIJ7dXG8sUqbv2HzbRt1ZDcsvUZFs=",
     "method": "aes-256-gcm",
-    "remarks": "🇹🇷 Турция (Android TV + Free TV)",
+    "remarks": "🇮🇹 Италия (Android TV + Free TV)",
     "route": "all",
     "remote_dns": "one.one.one.one",
     "ipv6": false,
@@ -61,11 +61,11 @@
     "udpdns": false
   },  
   {
-    "server": "51.75.69.164",
+    "server": "57.129.121.229",
     "server_port": 8443,
-    "password": "4146e04d-c21f-4b75-8d86-bc52754c6308",
+    "password": "kCHOUaspeIEGOd8BN3cN8Yy9aygvyrBB53Ebr2ybcc4=",
     "method": "aes-256-gcm",
-    "remarks": "🇩🇪 Германия 2 (Android TV + Free TV)",
+    "remarks": "🇩🇪 Германия (Android TV + Free TV)",
     "route": "all",
     "remote_dns": "one.one.one.one",
     "ipv6": false,
