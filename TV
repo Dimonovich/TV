@@ -4016,8 +4016,7 @@ https://bl.rutube.ru/livestream/efc2833169ec20a3ea61197714bea6ab/index.m3u8?s=Ku
 
 
 
-#EXTINF:-1 group-title="Квант-Телеком (VPN 🇷🇺)",ПЕРВЫЙ HD
-http://31.210.208.171:8080/1_HD/index.m3u8?token=+W2MSER
+
 #EXTINF:-1 group-title="Квант-Телеком (VPN 🇷🇺)",ПЕРВЫЙ КАНАЛ
 http://31.210.208.171:8080/1kanal/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Квант-Телеком (VPN 🇷🇺)",РЕН ТВ
@@ -4050,7 +4049,7 @@ http://31.210.208.171:8080/zagorodnaya_zhizn/index.m3u8?token=+W2MSER
 http://31.210.208.171:8080/zhivaya_planeta/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Квант-Телеком (VPN 🇷🇺)",2x2
 http://31.210.208.171:8080/2x2/index.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="Квант-Телеком (VPN 🇷🇺)",5 КАНАЛ
+#EXTINF:-1 group-title="Квант-Телеком (VPN 🇷🇺)",Пятый канал
 http://31.210.208.171:8080/5kanal/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Квант-Телеком (VPN 🇷🇺)",FAN
 http://31.210.208.171:8080/fan/index.m3u8?token=+W2MSER
