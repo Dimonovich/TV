@@ -94,6 +94,16 @@ http://live-3.otcnet.ru/pskov/index.m3u8
 http://live-3.otcnet.ru/sportivny/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵",CGTN Русский
 https://english-livetx.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802_hd.m3u8
+#EXTINF:-1 group-title="TEST ⓵",9 волна
+http://185.46.48.18:80/asvtv/mono.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Cinema
+http://185.46.48.18:80/cinema/mono.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Осетия Иристон
+http://185.46.48.18:80/iriston/mono.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Матч ТВ
+http://185.46.48.18:80/match/mono.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Шансон ТВ
+http://185.46.48.18:80/shanson/mono.m3u8
 #EXTINF:-1 group-title="TEST ⓵", Київ HD
 https://api-tv.ipnet.ua/api/v1/manifest/1293296300.m3u8
 #EXTINF:-1 group-title="TEST ⓵", 5 Канал HD
