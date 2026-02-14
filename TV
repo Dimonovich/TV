@@ -1839,12 +1839,6 @@ https://ikomg-kazakh.akamaized.net/kazakh/kazakh.m3u8
 https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
 #EXTINF:-1 group-title="С сайтов" tvg-logo="http://epg.it999.ru/img/2142.png",Настоящее время
 https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
-#EXTINF:-1 group-title="С сайтов" tvg-logo="https://i.postimg.cc/nLwPZgX2/image.jpg",ТСВ
-https://iptv-hls.idc.md/hls/2/live1.m3u8
-#EXTINF:-1 group-title="С сайтов" tvg-logo="https://tv7plus.com/wp-content/uploads/2022/03/cropped-tv7_500h500-180x180.jpg",ТВ7+
-https://tv7plus.com/hls/tv7_site.m3u8
-#EXTINF:-1 group-title="С сайтов" tvg-logo="https://i.postimg.cc/GtKZ2wHT/unnamed.jpg",ГІТ
-https://stream.uagit.tv/gittv.m3u8
 #EXTINF:-1 group-title="С сайтов" tvg-logo="https://www.ntktv.ua/bitrix/templates/ntk_copy/images/logo.png",НТК ТВ
 https://stream.ntktv.ua/s/ntk/ntk.m3u8
 #EXTINF:-1 group-title="С сайтов" tvg-logo="https://tvmtm.online/wp-content/themes/tv-z/img/mtm-logo.png",МТМ
@@ -1869,8 +1863,6 @@ https://brodilo.tv/brodilotv.m3u
 https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8
 #EXTINF:-1 group-title="С сайтов" tvg-logo="http://www.tbnbaltia.eu/img/tbn-baltia-2-white-trans.png",TBN BALTIA
 http://dc.tbnbaltia.eu:8088/dvr/tracks-v1a1/rewind-21600.m3u8
-#EXTINF:-1 group-title="С сайтов" tvg-logo="https://i.postimg.cc/bwsLzK5M/213s.jpg",Небеса ТВ7
-https://vod.tv7.fi/tv7-ru/_definst_/smil:tv7-ru.smil/chunklist_w802965519_b946000_slru.m3u8
 #EXTINF:-1 group-title="С сайтов" tvg-logo="https://hd.traveltv.bg/wp-content/uploads/sites/3/2018/12/ThisIsBG.HDTV_.TV_-500x73.png",This is Bulgaria HD
 https://streamer103.neterra.tv/thisisbulgaria/thisisbulgaria_HD.m3u8
 
