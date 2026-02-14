@@ -2411,10 +2411,14 @@ http://5.188.221.43:8080/play/ntv
 http://5.188.221.43:8080/play/ren-tv
 #EXTINF:-1 group-title="АСАРТА (VPN)",Моя планета
 http://5.188.221.43:8080/play/moya_planeta
+#EXTINF:-1 group-title="АСАРТА (VPN)",Discovery HD
+http://5.188.159.128:8070/DiscoveryChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="АСАРТА (VPN)",5 канал
 http://5.188.221.43:8080/play/5_kanal
 #EXTINF:-1 group-title="АСАРТА (VPN)",ТВЦ
 http://5.188.221.43:8080/play/tv-centr
+#EXTINF:-1 group-title="АСАРТА (VPN)",Киносвидание
+http://5.188.159.128:8070/kinosvidanie/index.m3u8
 #EXTINF:-1 group-title="АСАРТА (VPN)",СТС
 http://5.188.221.43:8080/play/sts
 #EXTINF:-1 group-title="АСАРТА (VPN)",Домашний
@@ -2447,6 +2451,8 @@ http://5.188.221.43:8080/play/disney
 http://5.188.221.43:8080/play/karusel
 #EXTINF:-1 group-title="АСАРТА (VPN)",МузТВ
 http://5.188.221.43:8080/play/muz_tv
+#EXTINF:-1 group-title="АСАРТА (VPN)",Bridge TV
+http://5.188.221.43:8080/play/bridge-tv
 #EXTINF:-1 group-title="АСАРТА (VPN)",Матч ТВ
 http://5.188.221.43:8080/play/match
 
