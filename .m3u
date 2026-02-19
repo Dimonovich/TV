@@ -382,6 +382,12 @@ https://bl.rutube.ru/livestream/efc2833169ec20a3ea61197714bea6ab/index.m3u8?s=SD
 
 #EXTINF:-1, Vip Premiere
 https://minsk-cache07t.voka.tv/live/6001-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1, Vip Megahit
+https://minsk-cache07t.voka.tv/live/6002-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1, Vip Comedy
+https://minsk-cache07t.voka.tv/live/6003-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1, Vip Serial
+https://minsk-cache07t.voka.tv/live/6004-req_offset_28000000-req_window_0-1k_v5.m3u8
 
 
 #EXTINF:-1, TV1000
@@ -418,6 +424,10 @@ https://stream8.cinerama.uz/1423/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1429/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,В Мире Животных
 https://stream8.cinerama.uz/1404/tracks-v1a1/mono.m3u8
+
+EXTINF:-1,Viju+ Planet
+https://minsk-cache07t.voka.tv/live/6006-req_offset_28000000-req_window_0-1k_v5.m3u8
+
 #EXTINF:-1 ,viju Nature
 https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,viju History
@@ -466,6 +476,10 @@ https://stream8.cinerama.uz/1060/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Капитан Фантастика HD
 https://stream8.cinerama.uz/1406/tracks-v1a1/mono.m3u8
 
+
+EXTINF:-1,Нст
+https://minsk-cache07t.voka.tv/live/6008-req_offset_28000000-req_window_0-1k_v5.m3u8
+
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Trace Sport Stars HD
 https://stream8.cinerama.uz/1274/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Uzreport HD
@@ -481,7 +495,8 @@ https://stream8.cinerama.uz/1028/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Планета
 https://stream8.cinerama.uz/1049/tracks-v1a1/mono.m3u8
 
-
+EXTINF:-1,Viasat Sport
+https://minsk-cache07t.voka.tv/live/6005-req_offset_28000000-req_window_0-1k_v5.m3u8
 
 #EXTINF:-1 ,Бокс ТВ
 https://a3285272783-s80718.cdn.ngenix.net/hls/CH_BOKS_TVHD/video_1920x1080_avc1/playlist.m3u8
