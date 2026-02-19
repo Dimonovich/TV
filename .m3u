@@ -425,7 +425,7 @@ https://stream8.cinerama.uz/1429/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,В Мире Животных
 https://stream8.cinerama.uz/1404/tracks-v1a1/mono.m3u8
 
-EXTINF:-1,Viju+ Planet
+#EXTINF:-1,Viju+ Planet
 https://minsk-cache07t.voka.tv/live/6006-req_offset_28000000-req_window_0-1k_v5.m3u8
 
 #EXTINF:-1 ,viju Nature
@@ -477,7 +477,7 @@ https://stream8.cinerama.uz/1060/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1406/tracks-v1a1/mono.m3u8
 
 
-EXTINF:-1,Нст
+#EXTINF:-1,Нст
 https://minsk-cache07t.voka.tv/live/6008-req_offset_28000000-req_window_0-1k_v5.m3u8
 
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Trace Sport Stars HD
@@ -495,7 +495,7 @@ https://stream8.cinerama.uz/1028/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Планета
 https://stream8.cinerama.uz/1049/tracks-v1a1/mono.m3u8
 
-EXTINF:-1,Viasat Sport
+#EXTINF:-1,Viasat Sport
 https://minsk-cache07t.voka.tv/live/6005-req_offset_28000000-req_window_0-1k_v5.m3u8
 
 #EXTINF:-1 ,Бокс ТВ
