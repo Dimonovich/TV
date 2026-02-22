@@ -1,6 +1,6 @@
 ﻿#EXTM3U
 
-#EXTINF:-1 group-title="🔺 INFO 🔺" tvg-logo="https://i.postimg.cc/50Wp1JKc/433d83f7e481f35245f8c6bb7c7591d8.gif",21.02.2026
+#EXTINF:-1 group-title="🔺 INFO 🔺" tvg-logo="https://i.postimg.cc/50Wp1JKc/433d83f7e481f35245f8c6bb7c7591d8.gif",22.02.2026
 http://194.26.229.213/zastavka/index.m3u8
 #EXTINF:-1 group-title="🔺 INFO 🔺" tvg-logo="https://i.postimg.cc/nrj0J6Dj/1.png",Android TV + Free TV
 http://194.26.229.213/intro/index.m3u8
@@ -215,178 +215,330 @@ https://river-1.rutube.ru/hls-vod/cZX9RwmWUV4xZQ56NDntTg/1772302198/3268/0x5000c
 
 
 
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-12-05/56/47/5647848bf9c3f543fb6f73ac05f90660.jpg",Клаус (2025) [4K 3840x2160]
-https://river-3-383.rtbcdn.ru/hls-vod/QjF6tGCwiOuYV0toBWLUGQ/1772301580/1873/0x5000c500e53a26ee/48563908de1c480eb812476afd54314c.mp4.m3u8?i=3840x2160_9518
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-12-09/47/f9/47f9606f5a9e98751782f9e334f80c87.jpg",Мой тайный Санта (2025) [4K 3840x2160]
-https://river-5-523.rtbcdn.ru/hls-vod/tXBtfZXVGyOVFFPjiZFL1g/1772301582/3312/0x5000c500e9ebfe74/5d563db70a144e1db5f4fbe462dc8bc1.mp4.m3u8?i=3840x2160_8567
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-12-15/a3/79/a37991029e4d9fd5e345e022d0ea1a60.jpg",Турбулентность (2025) [1600p]
-https://river-3-343.rtbcdn.ru/hls-vod/Sk8a0BWwBJ6GGsKbly4JYQ/1772301585/2181/0x5000c500e6d37b11/5234b02502094d049b6bc05f689c8c2b.mp4.m3u8?i=3840x1600_13478
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/05/ab/05abbf64efbe4668e4adcc6e9d5f132b.jpg",Гарри Поттер и философский камень (2001) [1600p]
-https://river-5-540.rtbcdn.ru/hls-vod/jC5uOUybtmm5M4iWkqU8cA/1772301588/3276/0x5000c500fa776155/c2d2d00a8cde4590834cec9bb0ee593b.mp4.m3u8?i=3840x1600_7554
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/48/e7/48e780da4172dedf04410af305185b86.jpg",Гарри Поттер и узник Азкабана (2004) [1600p]
-https://river-5-540.rtbcdn.ru/hls-vod/AjJPCZLsR-9rXTjt9AxP3g/1772301591/3334/0x5000c500fa782ba0/3cfb64b8ae9646619aa032c186fe60fd.mp4.m3u8?i=3840x1600_7091
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/26/41/2641d889d4bddd91bad8ed0454566e3e.jpg",Гарри Поттер и Орден Феникса (2007) [1600p]
-https://river-3-344.rtbcdn.ru/hls-vod/FWlmYuUzNzKzHg6lrh2cSQ/1772301594/2648/0x5000039ce83b9de5/a5d0bba2ca554006a22a60f395002428.mp4.m3u8?i=3840x1600_5175
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2026-01-13/a5/6d/a56dc7b7bda0d62470d65b8960558544.jpg",Всемирный потоп (2025) [4K 3840x2160]
-https://river-5-540.rtbcdn.ru/hls-vod/omjBBvI8ZBCPedVVKOxUTQ/1772301596/3366/0x5000c500fa786c68/e3360d66d954432ba0e087b9ba7a2f00.mp4.m3u8?i=3840x2160_13176
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2026-01-13/3e/27/3e27a7401115b959bbb016bde1dd2a0a.jpg",Проблемы с шампанским (2025) [4K 3840x2160]
-https://river-3-390.rtbcdn.ru/hls-vod/c5oqcERnMFk4oLKNgpr5_Q/1772301598/3372/0x5000c500fa6e80ae/745d28fd4363401ba59eafb6561ca1e6.mp4.m3u8?i=3840x2160_5042
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-11-21/b2/60/b260b3d64a7da321a20dd8fdace013f0.jpg",Злая Часть 2 (2025) [1608p]
-https://river-3-344.rtbcdn.ru/hls-vod/vzlkPrVJ-ukK0J6enrQidw/1772301601/3372/0x5000c500fa6e59db/69304e990b6c4244bb83eb36263a267e.mp4.m3u8?i=3840x1608_6193
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2026-01-19/00/1e/001eb8ea1920f3d970f49cd823886ca7.jpg",Лакомый кусок (2025) [4K 3840x2160]
-https://river-3-348.rtbcdn.ru/hls-vod/-kzFeD80ekL3qZap8YC-ng/1772301602/2560/0x5000039ce86356a5/7ad85d37dc25468b9d6ba1ea7dfccf64.mp4.m3u8?i=3840x2160_8294
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2026-01-30/7c/1c/7c1c714cc9590b6f5b0a6c8d7174fd7e.jpg",Простая случайность (2025) [2072p]
-https://river-3-348.rtbcdn.ru/hls-vod/iMPqqHZ726TEg2ms4lJA0A/1772301605/2456/0x5000c500e8838e52/6204bf9360204401a7a364b745c8acfe.mp4.m3u8?i=3840x2072_6025
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2026-01-30/39/52/3952977958e8b1f722f4cd22a4ffd4cf.jpg",Опасный дуэт (2025) [1600p]
-https://river-5-558.rtbcdn.ru/hls-vod/TybXx-ABzuydiCPVPK69BA/1772301608/2598/0x5000039ce83aa9dd/a40699c39dc941fbb5ef3c6b487ae8f5.mp4.m3u8?i=3840x1600_25565
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2026-01-30/ab/88/ab88781a9c914347aab85ae53228f185.jpg",Безымянная романтическая история о вторжении в дом (2025) [1600p]
-https://river-5-558.rtbcdn.ru/hls-vod/bXLJRJ5nN9OyjvHkh4eR4w/1772301610/2542/0x5000039ce838317d/e5cde18d9cd8465787adc22712cc84d3.mp4.m3u8?i=3840x1600_8082
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2026-02-06/a2/8e/a28eb76b08039fe746bbf4eaf8dd819f.jpg",Голландец (2025) [1600p]
-https://river-3-329.rtbcdn.ru/hls-vod/D1oahQlKcgY7daXHxUs0Iw/1772301612/2191/0x5000c500e74ea6f9/683a22ddc13341cb821822072e7c9896.mp4.m3u8?i=3840x1600_7146
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2026-02-06/6c/a0/6ca0bfe2ffe1d13469077a2fae2ea68c.jpg",Цели в отношениях (2025) [2072p]
-https://river-5-558.rtbcdn.ru/hls-vod/JZqrC2brzKR86uTDmTb9bA/1772301615/3276/0x5000c500fa774642/3944a051488241bea78a62a39c950a04.mp4.m3u8?i=3840x2072_5877
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2026-02-11/30/ca/30ca909a2d063a99092e654f6304ede2.jpg",Бессмертный: Кровавая дорога домой (2025) [4K 3840x2160]
-https://river-m9-pitix-d3105.rtbcdn.ru/hls-vod/fASPn2GIRekFBhpmwO2yYQ/1772301618/2205/0x5000c500e74e839d/72e0b1917c474874ae133d2a394cd863.mp4.m3u8?i=3840x2160_10271
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2026-02-11/f1/93/f193082789a130a444faa9d050936e28.jpg",Элла Маккей (2025) [4K 3840x2160]
-https://river-m9-pitix-d3105.rtbcdn.ru/hls-vod/cp7MEYFbC1EY6AUlAs1vTg/1772301620/3408/0x5000c500c7e58d17/5a32398cd3f84289b71dcdb10a89dbdc.mp4.m3u8?i=3840x2160_5011
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2026-02-11/06/45/0645a841729e108dff70a480508daef1.jpg",Чума (2025) [1600p]
-https://river-5-514.rtbcdn.ru/hls-vod/Y9aUyZHvSiRGLjwFQUNOQg/1772301623/2872/0x5000c500e882d94d/d493170b89fc4c9b99af04432afe259f.mp4.m3u8?i=3840x1600_15321
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2026-02-12/43/69/4369a2284a4bbc8c3a313e3fb263555e.jpg",Первобытная война (2025) [1936p]
-https://river-4-416.rtbcdn.ru/hls-vod/QT0DrPz-e7ZwyfPsCHGdIg/1772301625/3336/0x5000c500e9ebe92a/7d0f0bd5687c44a4aaa7fa14881888f1.mp4.m3u8?i=3840x1936_6460
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2026-02-12/ab/93/ab931c731d5b73570e3e1aca6f96b2de.jpg",Путешественники (2025) [4K 3840x2160]
-https://river-4-416.rtbcdn.ru/hls-vod/3QTndeYSlDz5nxG_hAy2Yw/1772301629/2606/0x5000039ce83b9e79/fb2a488e04f1413e8c789c51dd2ed266.mp4.m3u8?i=3840x2160_4337
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2026-02-16/82/22/82229ddacc61e4b3ecee2175a5feeac6.jpg",Стажировка (2026) [1600p]
-https://river-4-416.rtbcdn.ru/hls-vod/SpN8-AfKIFK9-Bd7V260aA/1772301630/2209/0x5000c5007446b40e/0d69847d73ba4b7199349b26dba116c4.mp4.m3u8?i=3840x1600_16600
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2026-02-16/7a/92/7a92760c814a955593619da001a3196b.jpg",Безжалостная (2025) [2072p]
-https://river-3-345.rtbcdn.ru/hls-vod/Y1ZAVBP4TRVF83KKuyAmnA/1772301638/1863/0x5000c500e539a7a1/c9eba34199ea4d939f82f57d24fdb485.mp4.m3u8?i=3840x2072_20836
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2026-02-17/fa/97/fa973ab777d41534e8f809783af0b08d.jpg",Примат (2025) [1600p]
-https://river-5-557.rtbcdn.ru/hls-vod/SqrSO3_7ZH7VTwsdzKGQKA/1772301641/1846/0x5000c500c9224fc5/c57e7fb32b9e45118091eb4f1bfbcc98.mp4.m3u8?i=3840x1600_4685
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2026-02-18/8b/bd/8bbd6c42462ef861aaed5318bfd252e5.jpg",Адское пламя (2025) [1920p]
-https://river-3-345.rtbcdn.ru/hls-vod/2yNaQQPxFq-RgFfXd74Ctg/1772301644/2606/0x5000039ce868eaf9/e4660125a6ad4647822e7b3a6b2f463f.mp4.m3u8?i=3840x1920_13920
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2026-02-18/7b/f5/7bf5cd25322683eb506a095982b97358.jpg",Казнить нельзя помиловать (2026) [1744p]
-https://river-3-383.rtbcdn.ru/hls-vod/nmYz13rMoARLrdKH-OQ1vw/1772301646/3292/0x5000c500fa777cbe/9f8f7213abba418aa93782fd56d5b91e.mp4.m3u8?i=3840x1744_8745
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2026-02-19/68/4b/684b61c1e4c88862c016a62288bd5cc7.jpg",Наш мистер Шанкара Вара Прасад (2026) [4K 3840x2160]
-https://river-5-554.rtbcdn.ru/hls-vod/u82SaHAjL3O6ysBVpvGkhw/1772301648/3312/0x5000c500e9ebfc28/d356c8edafa047e3bf0180a03024333a.mp4.m3u8?i=3840x2160_9640
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2026-02-20/e2/fa/e2fac2f7ecf5e0f617c8b3cc4f910a23.jpg",Эликсир молодости (2025) [4K 3840x2160]
-https://river-5-558.rtbcdn.ru/hls-vod/BmoFp_r6OwUDGqDaXNsSIw/1772301650/2614/0x5000039ce868a279/344442db387f4e2b92c77cf09b4cfa54.mp4.m3u8?i=3840x2160_6550
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2026-02-20/47/84/4784ca2f4bd72aa6ef23ef1d91e4d0bf.jpg",Она сказала Может быть (2025) [1920p]
-https://river-5-556.rtbcdn.ru/hls-vod/NpJc9UnhVckwyxsl9qlEZA/1772301653/1764/0x5000c500e34dbb37/d870a8212ac74c129f815b94c88b5a88.mp4.m3u8?i=3840x1920_8463
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2026-02-13/63/ff/63ff8752fc9f8cbaf6fdd72c2bf22d5d.jpg",Эта штука работает? (2025) [1440p]
-https://river-4-406.rtbcdn.ru/hls-vod/qyy0T0SN71Gkvmrw0VWg_g/1772301656/2606/0x5000039ce8690385/f1fde28e02054e3d81e1a7133b4b1140.mp4.m3u8?i=2392x1440_2425
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2026-02-10/14/14/14147c7127fcc1331a023b3ba176eda0.jpg",Раджа (2026) [4K 3840x2160]
-https://river-5-551.rtbcdn.ru/hls-vod/G41kJajBxeb8ZkboN6MNvA/1772301658/2554/0x5000039ce8401855/cc843fa315ef457ab5dd06014e153625.mp4.m3u8?i=3840x2160_8352
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2026-02-01/29/5d/295d4aeb1b4901a358ece8891978afc8.jpg",Великая Элеанор (2025) [2080p]
-https://river-4-424.rtbcdn.ru/hls-vod/seqWgp4UfYsPzKUUK5gP3A/1772301660/2610/0x5000039ce83a26f1/04883c6b659e4ef098368211fdb0eacd.mp4.m3u8?i=3840x2080_10401
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2026-02-04/63/cb/63cbc14e28c1bd60424b0d0d46a3c463.jpg",Простая случайность (2025) [2072p]
-https://river-3-347.rtbcdn.ru/hls-vod/g9qkp0X7Y-XrhEsIU6sNmA/1772301663/2472/0x5000c500e882ea91/67302328a7704ed49686f6f82d249ceb.mp4.m3u8?i=3840x2072_6025
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2026-02-04/ba/e0/bae01cdb862db8bf9a73109283732397.jpg",Шальная пуля 3 (2025) [4K 3840x2160]
-https://river-3-329.rtbcdn.ru/hls-vod/l1N84W9f1_C1trqw_ptUnA/1772301666/2738/0x5000039ce83b9efd/5c73185930be45e0b2387af0eb065077.mp4.m3u8?i=3840x2160_9283
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2026-01-28/6d/9e/6d9ee0cff79f412a602017fe9d15c205.jpg",Безымянная романтическая история о вторжении в дом (2025) [1600p]
-https://river-4-419.rtbcdn.ru/hls-vod/l0fiDFwXaJiGqO7Mnhovgw/1772301668/2508/0x5000039ce8636b61/43cd6f7f9c8f40779e327fdddae13ba3.mp4.m3u8?i=3840x1600_8082
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2026-01-30/54/61/546143a5abfae8565a3d63dce62d85ee.jpg",Бастион 36 (2025) [4K 3840x2160]
-https://river-3-362.rtbcdn.ru/hls-vod/TmD1U0Fh-8td1OIZt4Mhcw/1772301671/2724/0x5000039ce861bbd1/69536eeb0d1e425689d57c6d2e864f50.mp4.m3u8?i=3840x2160_4046
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2026-01-18/78/ea/78eab9ff9189e9fd5b7aa1abdff02685.jpg",Из пепла (2025) [2072p]
-https://river-5-512.rtbcdn.ru/hls-vod/J2clFOAGeg7Qcl6dOZCRpw/1772301674/3316/0x5000c500e9cf3dae/973afd424d3b411cb58322c8f3a71360.mp4.m3u8?i=3840x2072_9899
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2026-01-22/12/28/122838e815feb500c9a2c13df11a0ceb.jpg",Мы едем едем едем (2025) [4K 3840x2160]
-https://river-3-371.rtbcdn.ru/hls-vod/93VFvjT3Wg0puaHbS0mmnw/1772301677/2650/0x5000039ce863ec5d/e7c3de731d434b79ba7444a0948abccd.mp4.m3u8?i=3840x2160_20744
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2026-01-13/6f/01/6f01a935cd285ee2489bf4bea488914d.jpg",Следуй за моим голосом (2025) [2080p]
-https://river-m9-pitix-d3105.rtbcdn.ru/hls-vod/h2ZCGUSIgyI5cih5az1kHw/1772301679/2165/0x5000c500f7c32a3e/0209181cadd64798adf862d97f4dbbee.mp4.m3u8?i=3840x2080_9778
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-03-14/1b/fc/1bfc36fe3ef096446945187445bcdae0.jpg",Микки 17 (2025) [2072p]
-https://river-5-522.rtbcdn.ru/hls-vod/hYtUBVyAzR0aGdXgJZBYPw/1772301683/2666/0x5000039ce868ff45/634e78c91a5646a8a6fcd9d48984a1ec.mp4.m3u8?i=3840x2072_6831
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-04-28/3c/b6/3cb6b60bd48c992bd5d19d947e84c137.jpg",Особо опасный пассажир (2025) [1600p]
-https://river-m9-pitix-d3105.rtbcdn.ru/hls-vod/9X6XPvsweBOuq8fm42WvGQ/1772301686/2680/0x5000039ce818dcb5/2ffe10cea0f34bfbb562329385424d3c.mp4.m3u8?i=3840x1600_13772
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-04-29/93/68/93682d7ad4ec2b1e10b31d7de3a6dd69.jpg",Пепел (2025) [1600p]
-https://river-5-540.rtbcdn.ru/hls-vod/IacMAIKwBXlx0LOIQQHp6g/1772301689/2678/0x5000039ce868edf5/a4a038bac1054671bb5f00f4c6fe889c.mp4.m3u8?i=3840x1600_7507
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-05-05/0f/ba/0fba038c19a3be9908b38aaab09f0f06.jpg",Ещё одна простая просьба (2025) [1920p]
-https://river-3-330.rtbcdn.ru/hls-vod/U-2rUllwpnQMCOM0xPKnoQ/1772301690/2702/0x5000039ce86942d1/cf58f904a8b14ff49a7a46cd0458dd7b.mp4.m3u8?i=3840x1920_9915
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-05-13/06/2b/062bc57610cf8e44813e44867c6be7f2.jpg",Minecraft в кино (2025) [2072p]
-https://river-3-352.rtbcdn.ru/hls-vod/Ugcd-97KjAemxqNATQgDYA/1772301692/2704/0x5000039ce8635c3d/505cc6825b274c5caffbff15d7609c04.mp4.m3u8?i=3840x2072_11779
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-05-15/d9/2d/d92d71e09e5fa0a7fc3d758349b9f025.jpg",Дыхание шторма (2025) [1600p]
-https://river-5-556.rtbcdn.ru/hls-vod/NxZ1PlvboWSAoA-DgkXzng/1772301695/2736/0x5000039ce863f7a5/700dbdbfd17a4a3d964dc3feebe1b36a.mp4.m3u8?i=3840x1600_7570
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-05-16/98/8d/988dc59ab70dbbe6d65580d64ceb122a.jpg",Бабули (2025) [4K 3840x2160]
-https://river-5-557.rtbcdn.ru/hls-vod/HuctxcibsTivesgQ2Am_Tg/1772301698/2720/0x5000039ce83bf921/a326c60568f849f8b2b5068a4e779e48.mp4.m3u8?i=3840x2160_4844
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-05-29/d4/32/d432b28edb77e097e76df72129128078.jpg",Грешники (2025) [4K 3840x2160]
-https://river-5-517.rtbcdn.ru/hls-vod/x0LC0qkk3Bb4swME0t_GVA/1772301701/2560/0x5000039ce8401ac9/dfe0453219734b518944a7b223ef3c35.mp4.m3u8?i=3840x2160_5600
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-06-17/19/9e/199ea11e5f1962d1c26caddb025a305d.jpg",Под прикрытием (2025) [4K 3840x2160]
-https://river-3-347.rtbcdn.ru/hls-vod/_gqIZpAKwvmIviDXLZTxXA/1772301704/2668/0x5000039ce8401659/e0728b94859641cca1f21f1a71c71153.mp4.m3u8?i=3840x2160_9449
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-06-17/9f/d0/9fd014c3b4c13c98e926190144a6694d.jpg",Долина эха (2025) [1608p]
-https://river-3-312.rtbcdn.ru/hls-vod/iJTJteQ7NQ6mxL2u02OpFQ/1772301708/2706/0x5000039ce869aab1/bc3b083a878442e8b2b814386adac353.mp4.m3u8?i=3840x1608_4521
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-06-18/36/62/36621414dd914335d816659f8feec67a.jpg",Расплата 2 (2025) [1600p]
-https://river-4-440.rtbcdn.ru/hls-vod/IZwCHekB5ZSqV8yVzYKKVA/1772301710/2704/0x5000039ce8686589/e43e99ed1a8341d9a632e9e74a520122.mp4.m3u8?i=3840x1600_9219
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-06-25/ee/da/eeda046926fd723ff0474f26b9ac6924.jpg",Финикийская схема (2025) [4K 3840x2160]
-https://river-3-314.rtbcdn.ru/hls-vod/C_n85hse3drW_XfRkT-Bhg/1772301713/2668/0x5000039ce83b9cf9/d480df982da34599b75b382b8ca13f1c.mp4.m3u8?i=3840x2160_13705
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-07-10/bd/44/bd443c46e1941daadd59a8880f7b60f5.jpg",Каратэ-пацан - Легенды (2025) [2072p]
-https://river-3-347.rtbcdn.ru/hls-vod/hLaYf5WwRni9dP44dNAing/1772301715/2694/0x5000039ce8703779/c657b5e7ebf24269b843264f60afbf66.mp4.m3u8?i=3840x2072_11620
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-07-29/dd/66/dd6650e04217d1cc963b04fca90d43ed.jpg",Счастливчик Гилмор 2 (2025) [4K 3840x2160]
-https://river-3-348.rtbcdn.ru/hls-vod/FTJwWZB1fU_x4_LZY-X0xA/1772301717/3258/0x5000c500e9cfb492/5272e0649f734bd48563906871e6bced.mp4.m3u8?i=3840x2160_15291
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-05-13/00/09/00099d5a5577cf6f9b67ed6ed3482a8e.jpg",Белоснежка (2025) [1608p]
-https://river-5-548.rtbcdn.ru/hls-vod/DXYPvJKc-jxt7MbzaDN0_A/1772301720/2223/0x5000c500e74e84a7/8aed0a26d5804f9ab69027e89278e209.mp4.m3u8?i=3840x1608_6134
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2026-01-06/ed/54/ed542aab0eb2246cacf28feb8c213718.jpg",Злая Часть 2 (2025) [1608p]
-https://river-4-434.rtbcdn.ru/hls-vod/bs3-d-LRGKc-rebeTwHMHw/1772301722/3324/0x5000c500e9cf52aa/ae9b21953427405394fe2d34c8f6e274.mp4.m3u8?i=3840x1608_6194
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2026-01-07/53/fa/53fa2f2f9b8f1e3eacc588ee087a1a4b.jpg",Блюхер (2025) [1608p]
-https://river-3-340.rtbcdn.ru/hls-vod/b2WIZcqBnIXL85k_m4KqIg/1772301725/3406/0x5000c500e9308954/c11b83e98248401b8edfedd736b87a26.mp4.m3u8?i=3840x1608_5806
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-12-23/b8/f0/b8f0527bc12d362ccdde024ec7be4fc3.jpg",Бессмертный: Кровавая дорога домой (2025) [1608p]
-https://river-5-544.rtbcdn.ru/hls-vod/4sEtGy5U7rn9ct2P1KbYcQ/1772301727/3386/0x5000c500e874f1f9/d31d657b928c45ac83c4ce53d932d4d9.mp4.m3u8?i=3840x1608_9973
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-12-23/4e/ac/4eac83a49f47219d5439a26ea4896e7d.jpg",Подготовка к следующей жизни (2025) [4K 3840x2160]
-https://river-5-543.rtbcdn.ru/hls-vod/z5XRnMkLkakNXGtOMtmTLg/1772301730/3306/0x5000c500e9be7a48/7adfc4ecb5dc4dfcb7f4cc92ffce2fb0.mp4.m3u8?i=3840x2160_10383
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-12-06/2b/9f/2b9fddd021aeee4e40a92fb054b9dedf.jpg",Пять ночей с Фредди 2 (2025) [4K 3840x2160]
-https://river-m9-pitix-d3105.rtbcdn.ru/hls-vod/5VsXGuax9vsIlpjWis24Nw/1772301733/3366/0x5000c500fa78baf1/567d61a412fc44d7827fe3c5f48df184.mp4.m3u8?i=3840x2160_4685
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-12-12/c6/01/c601cc5fd7ea4423829a0dba23f14978.jpg",Мерв (2025) [1744p]
-https://river-4-430.rtbcdn.ru/hls-vod/FpAwg7TAAVqx6q5e1DQqYw/1772301735/3330/0x5000c500e970f1dd/93d680c40363437b85b920c147c45e7c.mp4.m3u8?i=3840x1744_4307
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-12-20/98/0a/980a97c3547354addcba3866d477834b.jpg",Дерзкий (2025) [4K 3840x2160]
-https://river-m9-pitix-d3105.rtbcdn.ru/hls-vod/CiBgzGIPRfuFtq7zR7_sRg/1772301738/3400/0x5000c500fa77cf09/66266a9b6dfe4dbb847fb9df0b3818d2.mp4.m3u8?i=3840x2160_9870
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-12-10/80/61/8061471841e1f476fad25e0223ca9cf5.jpg",Джей Келли (2025) [4K 3840x2160]
-https://river-3-314.rtbcdn.ru/hls-vod/W-Eg7pxou4RefEOhWrUnlQ/1772301741/3292/0x5000c500fa775e43/5c62375e9c5b479c9c9a141cdf80e055.mp4.m3u8?i=3840x2160_13779
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-12-12/6e/83/6e834ecd36ea363adfb1edbc165436c3.jpg",Боже Как Смешно (2025) [4K 3840x2160]
-https://river-3-3106.rtbcdn.ru/hls-vod/fJIZGBybmMDxk4t0hTzKdQ/1772301743/3260/0x5000c500e9ea6892/15d935f4c4c5485590a9b6bec7c6a5f9.mp4.m3u8?i=3840x2160_31692
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-12-02/8f/9d/8f9d12dbbc1c0f0ff5d73e69c472d01c.jpg",Рождество с бывшим (2025) [4K 3840x2160]
-https://river-3-367.rtbcdn.ru/hls-vod/0DpXQuoVCIfC9RepiEaVvw/1772301746/3262/0x5000c500e9ea68f8/655f8d3de9b240eab67ad749d25ee49f.mp4.m3u8?i=3840x2160_9116
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-12-04/9c/b2/9cb2766452b19f94b68fc92223493c14.jpg",Как можно лучше (2025) [4K 3840x2160]
-https://river-4-431.rtbcdn.ru/hls-vod/8zfm-dp652MhnqCLoOmw-Q/1772301750/3328/0x5000c500e9cc1eae/0ab36ecb882a4784a57f6b58cd2cd4b7.mp4.m3u8?i=3840x2160_22526
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-12-02/f9/24/f924cf4ca1cc3af15a2852146a2bb6dc.jpg",Рождественское ограбление (2025) [4K 3840x2160]
-https://river-3-358.rtbcdn.ru/hls-vod/kGrD4jIgoWkjlMiiLCUrUA/1772301752/3408/0x5000c500e9789d09/7e2f37c8935547ff8a3bd55278f0fd80.mp4.m3u8?i=3840x2160_4726
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-10-11/8a/0f/8a0f33fed31ede17acbee356b66d938e.jpg",Трон: Арес (2025) [1608p]
-https://river-3-329.rtbcdn.ru/hls-vod/FUxkcDt9HBZWgvhPkWcpqw/1772301754/2724/0x5000039ce839826d/a1a4000dee7c48d9aa12ca532872bed2.mp4.m3u8?i=3840x1608_8471
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-11-11/4d/69/4d698ebd070e49cce378dc9c255c5d47.jpg",Баллада о маленьком игроке (2025) [4K 3840x2160]
-https://river-4-424.rtbcdn.ru/hls-vod/VDbFj9tIAEbYz1aefID16w/1772301755/3354/0x5000c500e9cf23d8/8b92bd2a77ef4a7e8399ba4ee54b9f48.mp4.m3u8?i=3840x2160_13188
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-09-28/1a/44/1a44f1d8e2ce264f141426acae8e5746.jpg",Битва за битвой (2025) [4K 3840x2160]
-https://river-4-430.rtbcdn.ru/hls-vod/MwYBv6OXZ-x7ehgKC5DzQg/1772301758/3326/0x5000c500e9d373f0/28254b2c5b584c42b6b752da2a528dfc.mp4.m3u8?i=3840x2160_10070
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-10-27/0f/a0/0fa050716822d4177ea38aefed2f424d.jpg",Точка замерзания (2025) [1600p]
-https://river-3-346.rtbcdn.ru/hls-vod/hP2GtGxMki-Qgh-4-k0bbg/1772301760/2716/0x5000039ce863f289/ff48e2ce9d844c8892a8efc8db7dae94.mp4.m3u8?i=3840x1600_5696
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-05-20/71/ea/71eac18bfa2442989b711b883c83f55f.jpg",Миссия невыполнима: Финальная расплата (2025) [2072p]
-https://river-3-346.rtbcdn.ru/hls-vod/Q17ViS2QpcBRlq-9BW-Ygw/1772301762/2656/0x5000039ce833b3b9/1e347766d0874d20954643ce2ae6572b.mp4.m3u8?i=3840x2072_16241
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-09-10/26/49/264965ddbc958091070c64671644b6a8.jpg",Орудия (2025) [1600p]
-https://river-3-348.rtbcdn.ru/hls-vod/LjiuWN9RsXHWuyrO31zeHw/1772301764/3284/0x5000c500fa6e7da5/37c60d8c70c04165b8b4893afd26ff1f.mp4.m3u8?i=3840x1600_6574
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-06-06/96/ba/96ba0a5122081aae3d2c9487d0a018c4.jpg",Сахара (2005) [1600p]
-https://river-5-517.rtbcdn.ru/hls-vod/ILZq0RP6tmV9hoec9m4HKw/1772301766/2684/0x5000039ce8694e49/849cddccec8845a48d4949222dcdd249.mp4.m3u8?i=3840x1600_7480
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-12-15/cb/cd/cbcde15d8a115fb2217febbc2e397780.jpg",Вдохновитель (2025) [1440p]
-https://river-4-406.rtbcdn.ru/hls-vod/y8oxV3x6MqKL74f0aUec2g/1772301769/3308/0x5000c500e9edffe0/cf28717f9d5842559af489627eeaaea1.mp4.m3u8?i=2560x1440_3566
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-12-03/d9/94/d99487e69fd463609f6c73d5ac5e8ed7.jpg",Тролль 2 (2025) [4K 3840x2160]
-https://river-3-312.rtbcdn.ru/hls-vod/Bf0PBCJC9Ozt2A1Z6oSZDg/1772301772/3276/0x5000c500fa77ac00/0f8f20716c0d40a59e9a1b2eb71b4b36.mp4.m3u8?i=3840x2160_6808
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-11-26/13/08/1308317ce2e8bdb73d82c36dac867a9e.jpg",Женщина во дворе (2025) [1600p]
-https://river-5-517.rtbcdn.ru/hls-vod/bz2ZxTaFCtdqJdgc_GlRJA/1772301775/3386/0x5000c500e875152e/6fa67cc3ec464de2a43ac630b5e35d53.mp4.m3u8?i=3840x1600_2269
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-12-02/e8/36/e8365711bdc9c3ecf9da1d0e59f3226c.jpg",Голубая луна (2025) [1600p]
-https://river-5-550.rtbcdn.ru/hls-vod/hyvqmDtcfwq3IvmhJxcOlw/1772301777/3294/0x5000c500fa6e8d5d/bb1e3d1374e0477586851753f351886e.mp4.m3u8?i=3840x1600_4928
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-12-02/00/de/00de38dd3fcf32defa8d732da27ae9d0.jpg",Вкуснятина (2025) [4K 3840x2160]
-https://river-4-425.rtbcdn.ru/hls-vod/WTJE9Eo_KES2CbFU0O9BOg/1772301780/3262/0x5000c500e9ebea30/b311e4c97ac740419f7cf770d4a428f0.mp4.m3u8?i=3840x2160_4856
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-12-03/2a/7f/2a7f59770bc6a3e98840674d5035d51e.jpg",Манго (2025) [4K 3840x2160]
-https://river-4-416.rtbcdn.ru/hls-vod/6waHSzHkCqvm71MkNzrupw/1772301784/3270/0x5000c500e9cc3272/8bdb67ab2fec4c578e7daa605e26650b.mp4.m3u8?i=3840x2160_5982
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-12-03/aa/25/aa25e838605d4635670520ead1e1d85b.jpg",Хэллоуин: Последствия (2025) [1600p]
-https://river-5-512.rtbcdn.ru/hls-vod/7yojbqR8aDv0x9cWU6rg8A/1772301785/3376/0x5000c500fa6e57d1/72ea8690abc34895a042336f31230447.mp4.m3u8?i=3840x1600_2623
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/7a/64/7a642e613abcd382eb5ca1e5e534a084.jpg",Пес-призрак: Путь самурая (2005) [1440p]
-https://river-4-437.rtbcdn.ru/hls-vod/SHRR5CKety65XLOSbLXV-Q/1772301788/2235/0x5000c5007446d3cc/0867e5cb17bc4fdebeac237f25046526.mp4.m3u8?i=2560x1440_4563
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/02/bb/02bbb57c604ba3d1aac4840ca9d90330.jpg",Гладиатор (2000) [4K 1752x2160]
-https://river-3-351.rtbcdn.ru/hls-vod/k9ffupMvtjqrrehqFbNWgQ/1772301790/1879/0x5000c500e5356445/94e65dc9e80548d798e190883ba4bd9c.mp4.m3u8?i=1752x2160_14760
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-06-25/f7/7d/f77db83accceb5d8cc95c71daa3a81df.jpg",Максимальный риск (1996) [4K 3840x2160]
-https://river-3-387.rtbcdn.ru/hls-vod/JhL2VaFeJDiQiWDggSMrOg/1772301793/2626/0x5000039ce869a595/6aaff2e6e1434b6dab2a220f20c40ef8.mp4.m3u8?i=3840x2160_7246
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-05-23/8b/19/8b194d90e3e9658578c335f18968b98f.jpg",Обратная тяга (1991) [4K 3840x2160]
-https://river-3-340.rtbcdn.ru/hls-vod/Hbm8JZ27CRpOVfwta64gzA/1772301795/2732/0x5000039ce8690209/ec106b03586a48a3a0bf166be1284daf.mp4.m3u8?i=3840x2160_5427
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-07-09/ba/c6/bac672e3b270858d4b2ad28c59def41e.jpg",Старикам тут не место (2007) [4K 3840x2160]
-https://river-3-382.rtbcdn.ru/hls-vod/OGwa2r20qWkLG9NBlG1cWg/1772301797/2622/0x5000039ce8382b0d/71d288f9b71a405383c59187bca01a30.mp4.m3u8?i=3840x2160_7032
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-05-22/ef/81/ef8158414b9f696eda63f2741fe1ed4d.jpg",Мышиная охота (1997) [2080p]
-https://river-5-512.rtbcdn.ru/hls-vod/NQby0QnkO7x_CrWDc9jcow/1772301799/2648/0x5000039ce861e005/72103dc6044f4ac8b1a2719d5f960e24.mp4.m3u8?i=3840x2080_12410
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-06-12/92/3d/923d02ec744710d2fdbd5683f8d7a3c3.jpg",Трудная мишень (1993) [4K 3840x2160]
-https://river-5-512.rtbcdn.ru/hls-vod/gU_5aIDLOko4mnSj1dLN_Q/1772301801/2726/0x5000039ce868f779/b40ac16b786a4eb48f20513577281a1e.mp4.m3u8?i=3840x2160_15400
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-08-20/f6/92/f692337dad0103b7f7616e62882eb1c9.jpg",Элио (2025)
+https://river-4-440.rtbcdn.ru/hls-vod/789ooeMH5U1Gz8rlh56hAQ/1772382149/3346/0x5000c500e9cf2ed0/2b8a23b4264a4b66aa3b288faa9aa4e9.mp4.m3u8?i=3840x1608_7682
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-08-20/4d/66/4d665a6cf0504841f4495c1fad260352.jpg",Ночь всегда приходит (2025)
+https://river-3-344.rtbcdn.ru/hls-vod/yzcyCTXDrr-_hs5cgr5Ihw/1772382152/3272/0x5000c500e9daa497/dc7e2414e189429d8480cd5149790f70.mp4.m3u8?i=3840x2160_3668
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-06-30/e0/22/e022a4f3e1767d3f56adea5c6e18a0bf.jpg",Ф1: Фильм (2025)
+https://river-4-417.rtbcdn.ru/hls-vod/PsWd3bJ2pxoJXlYS2EGkPw/1772382155/2680/0x5000039ce839b5d1/1eb8bc886cea4f0a94463bc2259fd473.mp4.m3u8?i=3840x1600_7165
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-06-27/e1/9e/e19ed427ca39604b50fcd34a9924a7fb.jpg",Дитя человеческое (2006)
+https://river-5-554.rtbcdn.ru/hls-vod/qbI3sFhLzFZtmIH-xnpPVQ/1772382158/2592/0x5000039ce8694d69/8d25ecb32d3b4e4ebfae65e4f145acac.mp4.m3u8?i=3840x2080_11979
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-08-27/8f/9e/8f9e30b809ee8a66ae800b0bc4db0c38.jpg",Эники-Беники (2025)
+https://river-4-417.rtbcdn.ru/hls-vod/lrKL5D2vXFBn1q1uIXwSIw/1772382160/3344/0x5000c500e9cf3e73/02d1f0d2096d47f5998bce2886eeabd9.mp4.m3u8?i=3840x2160_8089
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-08-29/a0/b4/a0b4e8a4e0c79125c2791a3f9146163f.jpg",Детка на драйве (2025)
+https://river-4-417.rtbcdn.ru/hls-vod/zimnUwk5kVBmS-ftyLa1Bw/1772382163/3312/0x5000c500e9ebfb32/ea530475ce07454facaa5a4a54221916.mp4.m3u8?i=3840x1600_28856
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-07-03/51/6c/516c02ef65b737583b7d4f4f67836e53.jpg",Роми и Мишель на встрече выпускников (1997)
+https://river-4-403.rtbcdn.ru/hls-vod/m08nf7p6eGHXM5bo4ZlC0A/1772382165/2650/0x5000039ce81bfa19/46af706bd0034053b94194dc42e71d30.mp4.m3u8?i=3840x2160_9185
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-09-01/10/79/107966a79ae73d1a4f11b9ef9de28605.jpg",Эдем (2024)
+https://river-3-353.rtbcdn.ru/hls-vod/j6bvMlJzbYQBVTTJBDjofQ/1772382167/3406/0x5000c500dbb2e31b/2208c05b4d904658a5b6b339a35221bf.mp4.m3u8?i=3840x1600_8056
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-09-01/07/50/07508fea4f1544012d4e7ac8fd2f554e.jpg",Я знаю что вы сделали прошлым летом (2025)
+https://river-3-389.rtbcdn.ru/hls-vod/ZDafw3oXzggM174A3u1FGQ/1772382169/3356/0x5000c500fa6e5993/0a3eb292d8f24fd8aa903afb96a36e5d.mp4.m3u8?i=3840x1600_6422
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-07-07/e6/17/e617a51854cf5fbd143bc061e2fd132d.jpg",Шрэк (2001)
+https://river-3-353.rtbcdn.ru/hls-vod/CgUVshJmFdl4mimI0A4eTQ/1772382172/2642/0x5000039ce83ba035/d8aad4d5124c470ea12bc89efb14a532.mp4.m3u8?i=3840x2160_8424
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-07-07/c5/fb/c5fbd0c7950af41e7d0dae63a431911c.jpg",Шрэк 2 (2004)
+https://river-5-548.rtbcdn.ru/hls-vod/CnXHHwqpsQkN8UH03-PyRw/1772382175/2183/0x5000c500e7502fdd/d07cfcdc801e48148822923f087ac595.mp4.m3u8?i=3840x2064_7584
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-07-07/22/e3/22e3cd3199b92eb78ff9b70fa43a1894.jpg",Шрэк Третий (2007)
+https://river-3-348.rtbcdn.ru/hls-vod/maAgEhcV5F48EuXFbs-Ljg/1772382177/2710/0x5000039ce8382835/bcc9791d32ce48889b295820bce9c836.mp4.m3u8?i=3840x2160_4902
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-07-07/2d/97/2d9795b13d42ae4580cdabdf1cde243a.jpg",Шрэк навсегда (2010)
+https://river-3-350.rtbcdn.ru/hls-vod/P8y-CeH-aXep_zeQk9t1TQ/1772382179/2732/0x5000039ce868fd45/fcd292145ce14b4cb8ba647edeec8236.mp4.m3u8?i=3840x2160_5333
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-07-08/cb/cb/cbcbbc218018747d89b55d9f4319ac10.jpg",Вечное сияние чистого разума (2004)
+https://river-3-363.rtbcdn.ru/hls-vod/QZ3v3OnzTAdbWLngVGv7lg/1772382181/2622/0x5000039ce8383031/a463a6366bbb4c0798db423c1d40f942.mp4.m3u8?i=3840x2080_7945
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-09-02/4a/8e/4a8e1451c293a7e23a50d6b8022e4d73.jpg",Никто 2 (2025)
+https://river-3-317.rtbcdn.ru/hls-vod/5fHEwka6IlAoWF3JDBu-pg/1772382183/3404/0x5000c500e882ff18/d264d4aa98c144219214b9b5b0030d44.mp4.m3u8?i=3840x1600_7090
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-09-02/af/f9/aff9d100d19df6e8266a5769873f7c10.jpg",Голый пистолет (2025)
+https://river-3-317.rtbcdn.ru/hls-vod/MKTyfteNWu1dAn3XyA2xzA/1772382187/3332/0x5000c500e9cf3148/a26170d8c6734890ad774c8f31bfbf37.mp4.m3u8?i=3840x1600_15095
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-07-10/37/14/371488f62ae07d3bcbab0bdf71b4ed79.jpg",Человек года (2006)
+https://river-5-549.rtbcdn.ru/hls-vod/20zBvW-rKgHWfnf1UA6_yw/1772382189/2734/0x5000039ce86353dd/f21a755ec3604dd0b422852b4153b78b.mp4.m3u8?i=3840x1632_11673
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-07-15/a8/55/a85540a040ed1251f057c61b53ec0ab4.jpg",Мост через озеро (2022)
+https://river-3-347.rtbcdn.ru/hls-vod/a2wZJwE2PFWxkVOgihReiw/1772382192/2650/0x5000039ce863eac1/4540fb7bc3e441b1b8fc4b43b43a5fcd.mp4.m3u8?i=3840x2080_5708
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-05-03/c2/68/c268d7f12342b9f390bc187eb8a50df8.jpg",Успеть за 30 минут (2011)
+https://river-5-514.rtbcdn.ru/hls-vod/LSfaZB7VSwtqlkDl73xm6Q/1772382194/2704/0x5000039ce863378d/d0946717931749f08350ca07858f8296.mp4.m3u8?i=3840x2160_11046
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-05-03/79/5d/795db5fb0c235e7a379780a42b525815.jpg",Комната страха (2002)
+https://river-5-558.rtbcdn.ru/hls-vod/AlMEik8xN4rDR9ZZRSYQnQ/1772382196/2704/0x5000039ce85bddbd/3c59d04f13874eaaaebb00b18b93e7cc.mp4.m3u8?i=3840x2160_7952
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-09-20/f3/69/f369f6da420add69bfd0ff9162a9d00d.jpg",Невероятный Халк (2008)
+https://river-3-349.rtbcdn.ru/hls-vod/KF78TD7X9xS40CNnq0LN6A/1772382198/3316/0x5000c500e9cf3dae/e5781013cfa74ef3a38d25c16e273b0e.mp4.m3u8?i=3840x1632_6489
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-09-20/70/dd/70dddc54a5cee998166e1fb51a9336e9.jpg",Халк (2003)
+https://river-5-540.rtbcdn.ru/hls-vod/vqQCMrtGe9zhpjBZhBhoFA/1772382200/2708/0x5000039ce8695741/4ddb4c0e19ce449190c8a32d095d42c8.mp4.m3u8?i=3840x2160_6420
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-09-20/45/33/45330f55fd48ee0bbda46b583ba64fc5.jpg",Чёрная Пантера (2018)
+https://river-3-349.rtbcdn.ru/hls-vod/W6n_aSViOWZH7SDXdJnZgw/1772382203/3340/0x5000c500e9cc1713/72b4a6e834c0462d8600ff939c95f52e.mp4.m3u8?i=3840x2160_11427
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-07-26/4b/e5/4be5422dece07fecfaa854dae57d797a.jpg",Фантастическая четвёрка: Первые шаги (2025)
+https://river-5-546.rtbcdn.ru/hls-vod/SuEl9a0OId0CUt0DGgg2EQ/1772382206/2702/0x5000039ce85afd31/fdcc800947be4ac3a345bac4006e4df4.mp4.m3u8?i=3840x1608_5828
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-05-09/dd/2d/dd2d7e58e3ad8652a0a2c23b35e9c87e.jpg",Миссия Серенити (2005)
+https://river-5-540.rtbcdn.ru/hls-vod/YAaCja7Ii3osFOyZ2hGDvQ/1772382209/2700/0x5000039ce869a99d/0b741d9608814ac899bd89cda3bbf462.mp4.m3u8?i=3840x2160_7676
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-05-09/2e/09/2e0943834a13e83517559ecc9929383e.jpg",Аквариум (2009)
+https://river-3-369.rtbcdn.ru/hls-vod/BeynDLMwISYqzNAjdYGv2w/1772382212/2678/0x5000039ce868edf5/b6751036ba6748a2bd0cc09aff3eb450.mp4.m3u8?i=3840x2160_7026
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-10-02/5a/47/5a47d018aa469c5197005ba58255e74b.jpg",Пойман с поличным (2025)
+https://river-3-382.rtbcdn.ru/hls-vod/_cHe7eI8ZVERvXQyqynbjA/1772382214/2662/0x5000039ce840181d/9921048e926148f8842733ba61b1a71f.mp4.m3u8?i=3840x2072_8551
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-10-06/3d/70/3d70abfc84c544c10fa0cfbf7150a2ee.jpg",Грязная игра (2025)
+https://river-3-355.rtbcdn.ru/hls-vod/zbA9p-PlJwY-pPOkgEU7hA/1772382217/2686/0x5000039ce838d7f1/ec08e6eb08e741a4bf240dad5c69dc1c.mp4.m3u8?i=3840x1600_8932
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-10-06/da/73/da7311067cc475daab578a2353cd60ea.jpg",Школьный автобус (2025)
+https://river-5-547.rtbcdn.ru/hls-vod/007Twh63tKC_8izsqgwvDQ/1772382220/3268/0x5000c500e35d9936/0c15d221b41d4f979e8bcd2e239b4cc2.mp4.m3u8?i=3840x1608_8193
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-10-08/c4/8f/c48f59c6a65700cef9fb8f7c1750a34c.jpg",Чумовая пятница 2 (2025)
+https://river-3-342.rtbcdn.ru/hls-vod/WJmNt4GInZeVR5jxUX-jiQ/1772382222/3276/0x5000c500fa776f6b/b60255b806ba4e2f91431da5994994da.mp4.m3u8?i=3840x1608_8812
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-10-09/8c/47/8c474adb5f424ad2b8207aed3013bcbd.jpg",Тот самый (2025)
+https://river-3-343.rtbcdn.ru/hls-vod/ETy2sOApwckfkEpx79hthg/1772382224/3350/0x5000c500e9ea4000/0a08b41a943746879b25e346a618e074.mp4.m3u8?i=3840x2160_7835
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-12-05/56/47/5647848bf9c3f543fb6f73ac05f90660.jpg",Клаус (2025)
+https://river-3-383.rtbcdn.ru/hls-vod/0qf_4dpzin1RWs3-OU0LmA/1772382226/1873/0x5000c500e53a26ee/48563908de1c480eb812476afd54314c.mp4.m3u8?i=3840x2160_9518
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-10-07/37/3d/373d912bd31f159f895884f100afbed9.jpg",Заклятие 4: Последний обряд (2025)
+https://river-4-412.rtbcdn.ru/hls-vod/dRHeMBPqWTOpqWyVhbwS4g/1772382229/3266/0x5000c500e9d00623/65b6e0d082fb4b4892482dcf62f46bb8.mp4.m3u8?i=3840x1600_9308
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-05-21/26/7f/267fa82e643be5ac650185720327f62a.jpg",Конкретный убийца (2023)
+https://river-3-371.rtbcdn.ru/hls-vod/VrguZfi6w2hKlAJqN3Yzqg/1772382233/2720/0x5000039ce83b9e15/cfec5981246d48a1895aac81aec90e70.mp4.m3u8?i=3840x1920_8650
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-05-21/2c/25/2c25171d4e63a9724c52e651b49a1ab6.jpg",Да здравствует Цезарь! (2016)
+https://river-5-512.rtbcdn.ru/hls-vod/k3f7erkX_GqZl5s23nbEWQ/1772382236/2734/0x5000039ce85379bd/1b83d7b022b049d8a828bddfb261bd3d.mp4.m3u8?i=3840x2080_13433
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-05-22/b2/94/b294eacd61f8f16991e66228d1dcc4ff.jpg",Счастливого нового дня смерти (2019)
+https://river-5-546.rtbcdn.ru/hls-vod/EkwroWAT6ONtW6H5g_v_cg/1772382238/2672/0x5000039ce839b4b5/0800a18403914c129e036fae874cb54f.mp4.m3u8?i=3840x1608_6834
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-05-22/8d/8a/8d8a9644fd6c54ffd8cdb6f88ddcc836.jpg",Мертвые не умирают (2025)
+https://river-3-344.rtbcdn.ru/hls-vod/7HTMidOlKHvb3LN73hMz2A/1772382241/2183/0x5000c500e7523e0d/cac2409c98af4374a6d3cf1ef346e9a9.mp4.m3u8?i=3840x2160_3279
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-05-22/06/62/0662c1670ce7db9dff21ca662e473bc9.jpg",Идеальный голос (2012)
+https://river-4-440.rtbcdn.ru/hls-vod/sZUYhezyeNqLdVWfBPiAzQ/1772382243/2640/0x5000039ce86387d9/8cada80ea213402380a7db93981b7752.mp4.m3u8?i=3840x2160_8789
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-05-22/dc/df/dcdf4bfc1e31e46e75ad6de24dd7df7f.jpg",Идеальный голос 2 (2015)
+https://river-3-344.rtbcdn.ru/hls-vod/d24lec_qmHzZG8lGbcFPdQ/1772382245/2678/0x5000039ce839a35d/98e3a7c882444d87a4d5d413cf16dc23.mp4.m3u8?i=3840x2160_11236
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-05-22/bc/65/bc653661e86184b76b7f554b13379266.jpg",Идеальный голос 3 (2017)
+https://river-5-558.rtbcdn.ru/hls-vod/siahpoIcDbVMoy182IleIw/1772382247/2652/0x5000039ce8703151/9832a757e1c1479482b359ebbe71ab30.mp4.m3u8?i=3840x2160_12239
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-05-22/b3/68/b368c9f58870ef92b1a2957ae7936e5b.jpg",Прорва (1986)
+https://river-5-534.rtbcdn.ru/hls-vod/WVeYbXZH5_hnGx-JpvSnRA/1772382251/2640/0x5000039ce8635e05/2d659011d19c4b64b885846e78323eed.mp4.m3u8?i=3840x2160_7035
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-05-15/06/0c/060c6cae2bdfea48ab1139785a5683d6.jpg",Прокол (1981)
+https://river-3-316.rtbcdn.ru/hls-vod/PKnMpdR9kcKkU7MghZ2SgA/1772382253/2606/0x5000039ce83ba2e9/edb94eafb37b42f186dd9a9d095c33a2.mp4.m3u8?i=3840x2160_5757
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-05-14/aa/98/aa98d56c2681cc8a8b49ebae0851733f.jpg",Молодые стрелки (1988)
+https://river-5-523.rtbcdn.ru/hls-vod/OVEZvv34oFoiLPSOcXf6pw/1772382256/2660/0x5000039ce8402485/fffa7a24c4cf462e87e0f8c413717ba5.mp4.m3u8?i=3840x2160_17380
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-05-23/d5/6e/d56eca52fa8a3123da5d239e689d97e3.jpg",Умереть во имя (1995)
+https://river-3-371.rtbcdn.ru/hls-vod/W2fYx03FfCdr6UPNURclLQ/1772382259/2676/0x5000039ce8403e79/ea5668fb94a54b50bab79711e6faf04e.mp4.m3u8?i=3840x2160_19561
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-05-15/ed/bd/edbde29f40f0f0d6513b15809e448913.jpg",Франкенштейн (1994)
+https://river-5-512.rtbcdn.ru/hls-vod/TSSa98pA5NrE2L753Q4tWA/1772382262/2698/0x5000039ce832fda1/1b7e8420287944758581cd4d6eb8c9ba.mp4.m3u8?i=3840x2160_18725
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-05-23/60/03/60030a4fe308a587d1ac84573a5b831d.jpg",Серебряная пуля (1985)
+https://river-5-514.rtbcdn.ru/hls-vod/lyR28Jb4VgaKcoXUFDpJjw/1772382266/2692/0x5000039ce833dbd5/b74d816a51f844ab917954799ce97a15.mp4.m3u8?i=3840x2160_15165
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-06-06/19/0f/190f100c9db198252d06d40dc7c4e5e6.jpg",Инопланетянин (1982)
+https://river-4-404.rtbcdn.ru/hls-vod/CFRTFW_2r6-4tssnMjxzHQ/1772382268/2600/0x5000039ce869fd3d/5c9054ca800b4b1797fec2313aa1fa00.mp4.m3u8?i=3840x2160_5635
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-06-06/28/f9/28f9829d5fc166c182b40aea6b94b610.jpg",Донни Браско (1997)
+https://river-m9-pitix-d3105.rtbcdn.ru/hls-vod/tW0qfKA28BDr76pJtDJw5Q/1772382274/2722/0x5000039ce8339e5d/dbd829afc01e4f958ac52f405c752ce3.mp4.m3u8?i=3840x1600_6012
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-07-17/00/bd/00bd7bf1e93c69e76c379ee2f8d610bf.jpg",Только сильнейшие (1993)
+https://river-3-347.rtbcdn.ru/hls-vod/I6vs3T0LTeHFLU-mIMpC6g/1772382277/2676/0x5000039ce8401cc1/01c97b0b421f4cbba47bb4e8ec96721d.mp4.m3u8?i=3840x2064_8167
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-07-16/30/46/30464fb5d03cca75ae2c35562c30742f.jpg",Князь тьмы (1987)
+https://river-4-421.rtbcdn.ru/hls-vod/pWX8DOvLMpAJHmtigJ18Rw/1772382279/2510/0x5000039ce83bf7f1/9ea76f812e3b4691a43e72763b51cb46.mp4.m3u8?i=3840x2160_16092
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-05-26/a9/16/a91698e6d45b7f4fbc834685d8d663d2.jpg",Чёрный дождь (1989)
+https://river-4-435.rtbcdn.ru/hls-vod/1SR5LzwyLIsTeDwdjWWDWw/1772382281/2690/0x5000039ce8406175/bee197979168419e84705cd804c256e6.mp4.m3u8?i=2560x1440_4393
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-05-09/5a/85/5a85f60eac5e002bf3b2fa127a0d8a1c.jpg",Солдат (1998)
+https://river-3-357.rtbcdn.ru/hls-vod/GPdV7ou38MrOqERFUMfrdQ/1772382282/2718/0x5000039ce840c349/669d92f7f9ab4fc9bf91c122e65cb70f.mp4.m3u8?i=3840x2160_7026
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-05-15/9b/9c/9b9c3f642e463cc812d4a34d5713197d.jpg",Внутреннее пространство (1987)
+https://river-5-546.rtbcdn.ru/hls-vod/DkQPWQ-u-4jhi0KiMTZ7QA/1772382284/2668/0x5000039ce868e821/350807c32e3a4081adecaeac69e2ad54.mp4.m3u8?i=3840x2160_9292
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-07-08/4b/88/4b88b8cbd81adc973c9a4c36e71a85c3.jpg",Назад в будущее (1985)
+https://river-3-311.rtbcdn.ru/hls-vod/BDaPRLGBrXsE6ARgXx1qHg/1772382287/2578/0x5000039ce85b0075/53ef7df458244d3ebd279d4a6f7faf30.mp4.m3u8?i=3840x2160_9492
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-07-08/00/0c/000c5978b3f56c51c26cece0aa6ad5c2.jpg",Назад в будущее 3 (1990)
+https://river-5-537.rtbcdn.ru/hls-vod/NXjWcZlmwqXkn_yzIkQGhw/1772382289/2670/0x5000039ce8401c71/bce876f5540544d9ba996e93e117d6f6.mp4.m3u8?i=3840x2160_10593
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-07-02/66/2a/662a581d2e299100830455cb363d40ba.jpg",Балбесы (1985)
+https://river-4-413.rtbcdn.ru/hls-vod/Crsu-XgIfxzMmTtJaEoOOQ/1772382291/2684/0x5000039ce839a271/59a2a5703a784f47b09093b282c61372.mp4.m3u8?i=3840x2160_8098
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-07-15/b0/b7/b0b77e867e3d791eed98e23e1a1ed698.jpg",187 (1997)
+https://river-5-549.rtbcdn.ru/hls-vod/9aBnO9bbyxbxorWOiP5AAA/1772382293/2614/0x5000039ce83bf5a5/35fc50728f19446f92b724ba989584bf.mp4.m3u8?i=3840x2160_9132
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-07-15/67/83/6783461096a2822459160520a1724732.jpg",Туман (1980)
+https://river-5-548.rtbcdn.ru/hls-vod/_LZmvi8EzUna58_dkF8OcQ/1772382297/2614/0x5000039ce84062e5/2593632427db44959794face5c6af501.mp4.m3u8?i=3840x2160_13227
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-07-08/49/fc/49fc532094e0d3f9cf22ea51b371bd23.jpg",Игра (1997)
+https://river-5-535.rtbcdn.ru/hls-vod/V2RIUVYODc8g4cIp0tTSZg/1772382301/2654/0x5000039ce8383029/a5c6fed088a14343ac411ab99d35f942.mp4.m3u8?i=3840x2160_5324
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-07-11/e8/64/e864655a3d9137fd77c4fcdc2219887f.jpg",Класс 1999 (1990)
+https://river-3-314.rtbcdn.ru/hls-vod/le94KaDHKiLECbXL9s7vaA/1772382303/2700/0x5000039ce86983fd/468057471f2042948dc330594b537225.mp4.m3u8?i=3840x2160_12372
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-07-11/fa/6a/fa6a945e44e29cc89d422a21f013e0f8.jpg",12 обезьян (1995)
+https://river-3-343.rtbcdn.ru/hls-vod/h4MJh-RU6ud15nZQlfz83A/1772382306/2518/0x5000039ce8694cb5/008dbc2ef4ef4baf8672469d2e01b979.mp4.m3u8?i=2560x1440_5217
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-07-07/17/53/175341650faa76b59f222768d6a8d6e0.jpg",Список Шиндлера (1993)
+https://river-3-330.rtbcdn.ru/hls-vod/XgmBTe6kLxNLrXBcRScVdw/1772382312/2652/0x5000039ce8690331/a0ae084ab9bb494bb93092965196e6ca.mp4.m3u8?i=2560x1440_6485
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-07-07/25/29/252989c67477f07284694a997b685465.jpg",Зеленая миля (1999)
+https://river-4-410.rtbcdn.ru/hls-vod/LyP6M6BLnJaOZIHrEZ3osQ/1772382314/2706/0x5000039ce869a68d/78c4949d21b749a8a1bffbd867ad086a.mp4.m3u8?i=3840x2160_7063
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-06-27/e2/c8/e2c83b4f54ebfa4d478659b90a672773.jpg",Ох уж эта наука! (1985)
+https://river-3-363.rtbcdn.ru/hls-vod/Qvg2yYBOSICwxNr0hKPAGA/1772382316/2652/0x5000039ce840d819/7a72add302a24433ac0e7db5176d7a5c.mp4.m3u8?i=3840x2160_27873
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-07-02/8f/ca/8fca2dcd46f43df122fa69fc1df7945e.jpg",Куджо (1983)
+https://river-5-545.rtbcdn.ru/hls-vod/gYxfo9MZywiax-0sC5GB4Q/1772382320/2217/0x5000c500e63e1cfc/5bf439b428344a5c95c64db2dd607a49.mp4.m3u8?i=3840x2160_14019
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-05-09/b9/06/b9064713c96e2c4dad3a773e14a9211a.jpg",Полет навигатора (1986)
+https://river-3-342.rtbcdn.ru/hls-vod/rpbiBNF9bQE8bPupdd5qWg/1772382323/2732/0x5000039ce868e38d/a87f3b0bd88143c1bfebb282345edd6c.mp4.m3u8?i=3840x2160_7207
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-05-09/83/e9/83e9fa1e51fb105f2d9332570bae4cb2.jpg",Ничего не вижу ничего не слышу (1989)
+https://river-3-353.rtbcdn.ru/hls-vod/-Bcyh2pKQLNVy4_SvxX2vg/1772382325/2730/0x5000039ce8708d09/971f027d89874ecb991c8ee9435fcb27.mp4.m3u8?i=3840x2160_11078
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-10-27/32/1b/321b56785e0680f43ec069fa87657c11.jpg",Рука качающая колыбель (2025)
+https://river-3-391.rtbcdn.ru/hls-vod/qTTxr3040cJqTxUbgenu8g/1772382327/3402/0x5000c500fa777c62/07df181bfe614d80acae29dca661186e.mp4.m3u8?i=3840x2160_11703
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-05-29/68/d0/68d0a30f24ddc273556bc1b68d9d9305.jpg",Возможно это навсегда (2019)
+https://river-3-330.rtbcdn.ru/hls-vod/vQ-X85FFlTWP_srSrOIRDg/1772382330/2704/0x5000039ce8686435/ff16df496f4046be863155ea15df1f18.mp4.m3u8?i=3840x2160_7014
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-11-10/72/44/72445b71c1a44189db0336bad8ddb581.jpg",Чёрный телефон 2 (2025)
+https://river-3-357.rtbcdn.ru/hls-vod/WXyKw01EIiRt8IHU8UlRmQ/1772382333/3300/0x5000c500e93c38f6/520936e24c4e44948734a0960a328f63.mp4.m3u8?i=3840x1608_8556
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-06-05/97/21/97219a78790f4af6e6efb9e1a1c4d3ef.jpg",Затащи меня в Ад (2009)
+https://river-3-387.rtbcdn.ru/hls-vod/0K4BSGzDb_JB2ACLHsL0GQ/1772382335/2702/0x5000039ce8400989/524fec1ae69d4cd7909d19791c7b13df.mp4.m3u8?i=3840x2160_12295
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-06-05/21/b3/21b38728354fda7709e92e14c4d9e097.jpg",13-й воин (1999)
+https://river-5-513.rtbcdn.ru/hls-vod/Z9fuHBWcyBRlm_YFANFzGQ/1772382339/2692/0x5000039ce833dbd5/75e51487fe04457e90552ecc8eb349d0.mp4.m3u8?i=3840x2160_7894
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-06-06/8f/a4/8fa4c862ae625ac0b65b21eda46a41af.jpg",Отрочество (2014)
+https://river-3-367.rtbcdn.ru/hls-vod/HTWVp1bfHkCI6uPjjHIJVg/1772382342/2223/0x5000c500e74e83c0/88d1effdfc4042ffad776896bfc2bd2d.mp4.m3u8?i=2560x1440_3416
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-07-17/70/2e/702e67ed2184e29e3a7cf1491929defd.jpg",Варкрафт (2016)
+https://river-3-387.rtbcdn.ru/hls-vod/osQI1t_kO0DCPCeJlwouaw/1772382345/2602/0x5000039ce86357a1/ec86a760f423483eaef4e18c39a14ce8.mp4.m3u8?i=3840x2160_7140
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-11-25/0b/79/0b7982e942bf71398d4df3f1210203c8.jpg",Семейный план 2 (2025)
+https://river-5-514.rtbcdn.ru/hls-vod/NdwjnPl4wU1T36q5mOngDw/1772382348/3392/0x5000c500fa77a296/e44e77e1f98a4e3e8eea50b19d40cb54.mp4.m3u8?i=3840x1608_6560
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-11-25/26/d7/26d710b7be900fa324ef22e9557e13c5.jpg",После охоты (2025)
+https://river-3-3103.rtbcdn.ru/hls-vod/nM2Ug09ZaBHwiSinsa_ctw/1772382350/3332/0x5000c500e9ebde06/3744a635068e4523a80f0cb9029b241d.mp4.m3u8?i=3840x2072_14874
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-11-28/84/d9/84d94748d10b4e83dc96531b23950277.jpg",Бугония (2025)
+https://river-3-360.rtbcdn.ru/hls-vod/jxO_7LbXX3bCVK6GbKM11w/1772382353/3304/0x5000c500e9cf73bc/7aabd70dcaed45bcba9feabf44fab6e2.mp4.m3u8?i=3840x2160_30492
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-12-09/47/f9/47f9606f5a9e98751782f9e334f80c87.jpg",Мой тайный Санта (2025)
+https://river-5-523.rtbcdn.ru/hls-vod/C5oYQhP8UbBPZAvs9Ce9gg/1772382356/3312/0x5000c500e9ebfe74/5d563db70a144e1db5f4fbe462dc8bc1.mp4.m3u8?i=3840x2160_8567
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-12-15/a3/79/a37991029e4d9fd5e345e022d0ea1a60.jpg",Турбулентность (2025)
+https://river-4-434.rtbcdn.ru/hls-vod/4JDp8u3CN0Q6S2yzRkjlPQ/1772382359/3270/0x5000c500e4370760/5234b02502094d049b6bc05f689c8c2b.mp4.m3u8?i=3840x1600_13478
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/05/ab/05abbf64efbe4668e4adcc6e9d5f132b.jpg",Гарри Поттер и философский камень (2001)
+https://river-5-557.rtbcdn.ru/hls-vod/8u2HKBcEC57lLGj_Y5PCDA/1772382362/3270/0x5000c500e3e0ad5e/c2d2d00a8cde4590834cec9bb0ee593b.mp4.m3u8?i=3840x1600_7554
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/48/e7/48e780da4172dedf04410af305185b86.jpg",Гарри Поттер и узник Азкабана (2004)
+https://river-3-312.rtbcdn.ru/hls-vod/WA3jqqRnpFuAWTPs3kiDfw/1772382364/3360/0x5000c500fa77b030/3cfb64b8ae9646619aa032c186fe60fd.mp4.m3u8?i=3840x1600_7091
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/26/41/2641d889d4bddd91bad8ed0454566e3e.jpg",Гарри Поттер и Орден Феникса (2007)
+https://river-3-317.rtbcdn.ru/hls-vod/6FJzjTy35I5dtKL0avxZdg/1772382366/3396/0x5000c500fa77646e/a5d0bba2ca554006a22a60f395002428.mp4.m3u8?i=3840x1600_5175
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2026-01-13/a5/6d/a56dc7b7bda0d62470d65b8960558544.jpg",Всемирный потоп (2025)
+https://river-4-412.rtbcdn.ru/hls-vod/iFOj3Xb9bSS-hSZdT_dWEA/1772382369/3262/0x5000c500e9cf2cf4/e3360d66d954432ba0e087b9ba7a2f00.mp4.m3u8?i=3840x2160_13176
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2026-01-13/3e/27/3e27a7401115b959bbb016bde1dd2a0a.jpg",Проблемы с шампанским (2025)
+https://river-3-390.rtbcdn.ru/hls-vod/OXoolAt7e6bJLKkbCTcQoA/1772382372/3298/0x5000c500e9ebeaf9/745d28fd4363401ba59eafb6561ca1e6.mp4.m3u8?i=3840x2160_5042
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-11-21/b2/60/b260b3d64a7da321a20dd8fdace013f0.jpg",Злая Часть 2 (2025)
+https://river-3-344.rtbcdn.ru/hls-vod/ob0DRAGnw_B3Rr0RR8fM8g/1772382375/3314/0x5000c50074475ffd/69304e990b6c4244bb83eb36263a267e.mp4.m3u8?i=3840x1608_6193
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2026-01-19/00/1e/001eb8ea1920f3d970f49cd823886ca7.jpg",Лакомый кусок (2025)
+https://river-3-348.rtbcdn.ru/hls-vod/61EYtlsUHOMGRVEhrrAQ6w/1772382377/2560/0x5000039ce86356a5/7ad85d37dc25468b9d6ba1ea7dfccf64.mp4.m3u8?i=3840x2160_8294
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2026-01-30/7c/1c/7c1c714cc9590b6f5b0a6c8d7174fd7e.jpg",Простая случайность (2025)
+https://river-3-344.rtbcdn.ru/hls-vod/Ao0lPJFArAX4GRngW_d7Hg/1772382379/2456/0x5000c500e8838e52/6204bf9360204401a7a364b745c8acfe.mp4.m3u8?i=3840x2072_6025
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2026-01-30/39/52/3952977958e8b1f722f4cd22a4ffd4cf.jpg",Опасный дуэт (2025)
+https://river-3-348.rtbcdn.ru/hls-vod/5bDXWK3LsZx2gf7CCBzvSQ/1772382381/3300/0x5000c500e9ebfe4f/a40699c39dc941fbb5ef3c6b487ae8f5.mp4.m3u8?i=3840x1600_25565
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2026-01-30/ab/88/ab88781a9c914347aab85ae53228f185.jpg",Безымянная романтическая история о вторжении в дом (2025)
+https://river-3-348.rtbcdn.ru/hls-vod/FsW-lbWA57G-8wo_3YkLGA/1772382387/2520/0x5000039ce8694e05/e5cde18d9cd8465787adc22712cc84d3.mp4.m3u8?i=3840x1600_8082
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2026-02-06/a2/8e/a28eb76b08039fe746bbf4eaf8dd819f.jpg",Голландец (2025)
+https://river-5-540.rtbcdn.ru/hls-vod/Xw0KMjhkQwFLdgZt81ECpg/1772382389/2191/0x5000c500e74ea6f9/683a22ddc13341cb821822072e7c9896.mp4.m3u8?i=3840x1600_7146
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2026-02-06/6c/a0/6ca0bfe2ffe1d13469077a2fae2ea68c.jpg",Цели в отношениях (2025)
+https://river-5-540.rtbcdn.ru/hls-vod/YnUHT84-GUKhGBrsco8Tfg/1772382391/2470/0x5000c500e883f2d5/3944a051488241bea78a62a39c950a04.mp4.m3u8?i=3840x2072_5877
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2026-02-11/30/ca/30ca909a2d063a99092e654f6304ede2.jpg",Бессмертный: Кровавая дорога домой (2025)
+https://river-5-544.rtbcdn.ru/hls-vod/M_6eUcTFLydIdMTc6cCzmA/1772382394/1802/0x5000c500c8b7fd7e/72e0b1917c474874ae133d2a394cd863.mp4.m3u8?i=3840x2160_10271
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2026-02-11/f1/93/f193082789a130a444faa9d050936e28.jpg",Элла Маккей (2025)
+https://river-5-540.rtbcdn.ru/hls-vod/aJGW_qMe_aVhvbtgCT6B6Q/1772382397/2690/0x5000039ce8687cb1/5a32398cd3f84289b71dcdb10a89dbdc.mp4.m3u8?i=3840x2160_5011
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2026-02-11/06/45/0645a841729e108dff70a480508daef1.jpg",Чума (2025)
+https://river-5-540.rtbcdn.ru/hls-vod/yNBQvNkttDnPMCiGJPEMvw/1772382400/2205/0x5000c500e74f8d5b/d493170b89fc4c9b99af04432afe259f.mp4.m3u8?i=3840x1600_15321
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2026-02-12/43/69/4369a2284a4bbc8c3a313e3fb263555e.jpg",Первобытная война (2025)
+https://river-3-329.rtbcdn.ru/hls-vod/mgGqwLS2VYGd2qLHJ2bQHA/1772382403/3336/0x5000c500e9ebe92a/7d0f0bd5687c44a4aaa7fa14881888f1.mp4.m3u8?i=3840x1936_6460
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2026-02-12/ab/93/ab931c731d5b73570e3e1aca6f96b2de.jpg",Путешественники (2025)
+https://river-5-549.rtbcdn.ru/hls-vod/MzW78MzfK8nIERK86hxPFQ/1772382405/3366/0x5000c500fa786c68/fb2a488e04f1413e8c789c51dd2ed266.mp4.m3u8?i=3840x2160_4337
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2026-02-16/82/22/82229ddacc61e4b3ecee2175a5feeac6.jpg",Стажировка (2026)
+https://river-5-549.rtbcdn.ru/hls-vod/AzpHMlatWsCkkTdNZdYeAw/1772382408/3400/0x5000c500fa776095/0d69847d73ba4b7199349b26dba116c4.mp4.m3u8?i=3840x1600_16600
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2026-02-16/7a/92/7a92760c814a955593619da001a3196b.jpg",Безжалостная (2025)
+https://river-5-532.rtbcdn.ru/hls-vod/OSinkFFdgGwpYDMUiUKgDw/1772382410/2468/0x5000c500e8837941/c9eba34199ea4d939f82f57d24fdb485.mp4.m3u8?i=3840x2072_20836
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2026-02-17/fa/97/fa973ab777d41534e8f809783af0b08d.jpg",Примат (2025)
+https://river-3-347.rtbcdn.ru/hls-vod/brmMaL9WSNGfh7sOLhu62A/1772382414/2504/0x5000039ce861e041/c57e7fb32b9e45118091eb4f1bfbcc98.mp4.m3u8?i=3840x1600_4685
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2026-02-18/8b/bd/8bbd6c42462ef861aaed5318bfd252e5.jpg",Адское пламя (2025)
+https://river-3-347.rtbcdn.ru/hls-vod/TgqB3CG2QwhDlvyPSASYiQ/1772382415/2080/0x5000c500f1e5b2cf/e4660125a6ad4647822e7b3a6b2f463f.mp4.m3u8?i=3840x1920_13920
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2026-02-18/7b/f5/7bf5cd25322683eb506a095982b97358.jpg",Казнить нельзя помиловать (2026)
+https://river-3-383.rtbcdn.ru/hls-vod/TXmV-sCxbwEX0ayvi9ea0Q/1772382418/3292/0x5000c500fa777cbe/9f8f7213abba418aa93782fd56d5b91e.mp4.m3u8?i=3840x1744_8745
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2026-02-19/68/4b/684b61c1e4c88862c016a62288bd5cc7.jpg",Наш мистер Шанкара Вара Прасад (2026)
+https://river-5-554.rtbcdn.ru/hls-vod/7udqaL-19NqbuA5XbgJAOQ/1772382420/2548/0x5000039ce86864d5/d356c8edafa047e3bf0180a03024333a.mp4.m3u8?i=3840x2160_9640
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2026-02-20/e2/fa/e2fac2f7ecf5e0f617c8b3cc4f910a23.jpg",Эликсир молодости (2025)
+https://river-5-558.rtbcdn.ru/hls-vod/RrtBPKyfPcD0dyhF-ksYIw/1772382422/2872/0x5000c500e8838f57/344442db387f4e2b92c77cf09b4cfa54.mp4.m3u8?i=3840x2160_6550
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2026-02-20/47/84/4784ca2f4bd72aa6ef23ef1d91e4d0bf.jpg",Она сказала Может быть (2025)
+https://river-5-556.rtbcdn.ru/hls-vod/nw8_cCGAKnESud6qHexPRg/1772382427/1764/0x5000c500e34dbb37/d870a8212ac74c129f815b94c88b5a88.mp4.m3u8?i=3840x1920_8463
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2026-02-13/63/ff/63ff8752fc9f8cbaf6fdd72c2bf22d5d.jpg",Эта штука работает? (2025)
+https://river-4-406.rtbcdn.ru/hls-vod/l0zvBW0UQA_yOQZ19veWFQ/1772382430/2606/0x5000039ce8690385/f1fde28e02054e3d81e1a7133b4b1140.mp4.m3u8?i=2392x1440_2425
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2026-02-10/14/14/14147c7127fcc1331a023b3ba176eda0.jpg",Раджа (2026)
+https://river-5-551.rtbcdn.ru/hls-vod/87SAWZVWqADt9_WuQqNaUQ/1772382433/2554/0x5000039ce8401855/cc843fa315ef457ab5dd06014e153625.mp4.m3u8?i=3840x2160_8352
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2026-02-01/29/5d/295d4aeb1b4901a358ece8891978afc8.jpg",Великая Элеанор (2025)
+https://river-4-424.rtbcdn.ru/hls-vod/vcyQFyV--HoqepbnY6S99g/1772382436/2610/0x5000039ce83a26f1/04883c6b659e4ef098368211fdb0eacd.mp4.m3u8?i=3840x2080_10401
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2026-02-04/63/cb/63cbc14e28c1bd60424b0d0d46a3c463.jpg",Простая случайность (2025)
+https://river-3-347.rtbcdn.ru/hls-vod/22-1VR_qpIQ4rbatJOvj6Q/1772382440/2472/0x5000c500e882ea91/67302328a7704ed49686f6f82d249ceb.mp4.m3u8?i=3840x2072_6025
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2026-02-04/ba/e0/bae01cdb862db8bf9a73109283732397.jpg",Шальная пуля 3 (2025)
+https://river-5-558.rtbcdn.ru/hls-vod/JTO-SOHxctxvSeweMvWX5w/1772382442/2738/0x5000039ce83b9efd/5c73185930be45e0b2387af0eb065077.mp4.m3u8?i=3840x2160_9283
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2026-01-28/6d/9e/6d9ee0cff79f412a602017fe9d15c205.jpg",Безымянная романтическая история о вторжении в дом (2025)
+https://river-4-419.rtbcdn.ru/hls-vod/Q_cQ0PlT59BQQT_Y7_Be3Q/1772382445/2508/0x5000039ce8636b61/43cd6f7f9c8f40779e327fdddae13ba3.mp4.m3u8?i=3840x1600_8082
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2026-01-30/54/61/546143a5abfae8565a3d63dce62d85ee.jpg",Бастион 36 (2025)
+https://river-3-362.rtbcdn.ru/hls-vod/LhSG-YLeDbW69BK6ydgA6Q/1772382448/2572/0x5000039ce8383949/69536eeb0d1e425689d57c6d2e864f50.mp4.m3u8?i=3840x2160_4046
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2026-01-18/78/ea/78eab9ff9189e9fd5b7aa1abdff02685.jpg",Из пепла (2025)
+https://river-3-367.rtbcdn.ru/hls-vod/g6PwVZKib1SJw0BlsNJmwA/1772382450/3360/0x5000c500fa6e91f4/973afd424d3b411cb58322c8f3a71360.mp4.m3u8?i=3840x2072_9899
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2026-01-22/12/28/122838e815feb500c9a2c13df11a0ceb.jpg",Мы едем едем едем (2025)
+https://river-3-371.rtbcdn.ru/hls-vod/GtDC5g4-hWPZOOxF2lE2Bw/1772382453/2650/0x5000039ce863ec5d/e7c3de731d434b79ba7444a0948abccd.mp4.m3u8?i=3840x2160_20744
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2026-01-13/6f/01/6f01a935cd285ee2489bf4bea488914d.jpg",Следуй за моим голосом (2025)
+https://river-3-374.rtbcdn.ru/hls-vod/_k4bEuUMEB1bvHnXXGz4Sg/1772382456/2165/0x5000c500f7c32a3e/0209181cadd64798adf862d97f4dbbee.mp4.m3u8?i=3840x2080_9778
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-03-14/1b/fc/1bfc36fe3ef096446945187445bcdae0.jpg",Микки 17 (2025)
+https://river-5-522.rtbcdn.ru/hls-vod/iXxmbQrQimVeO-bev4hZkA/1772382459/2666/0x5000039ce868ff45/634e78c91a5646a8a6fcd9d48984a1ec.mp4.m3u8?i=3840x2072_6831
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-04-28/3c/b6/3cb6b60bd48c992bd5d19d947e84c137.jpg",Особо опасный пассажир (2025)
+https://river-4-422.rtbcdn.ru/hls-vod/sqlkjWl8M09uGlVk0Tb3Ww/1772382461/2680/0x5000039ce818dcb5/2ffe10cea0f34bfbb562329385424d3c.mp4.m3u8?i=3840x1600_13772
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-04-29/93/68/93682d7ad4ec2b1e10b31d7de3a6dd69.jpg",Пепел (2025)
+https://river-5-548.rtbcdn.ru/hls-vod/h1cGmP5-f97KCL7-pwYcfg/1772382464/2640/0x5000039ce8635e05/a4a038bac1054671bb5f00f4c6fe889c.mp4.m3u8?i=3840x1600_7507
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-05-05/0f/ba/0fba038c19a3be9908b38aaab09f0f06.jpg",Ещё одна простая просьба (2025)
+https://river-3-330.rtbcdn.ru/hls-vod/_XOUP3RZrYjNMEiBQA5ypw/1772382466/2702/0x5000039ce86942d1/cf58f904a8b14ff49a7a46cd0458dd7b.mp4.m3u8?i=3840x1920_9915
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-05-13/06/2b/062bc57610cf8e44813e44867c6be7f2.jpg",Minecraft в кино (2025)
+https://river-5-548.rtbcdn.ru/hls-vod/5rzMD6eyvN8fYSzcTCA0Fg/1772382469/2704/0x5000039ce8635c3d/505cc6825b274c5caffbff15d7609c04.mp4.m3u8?i=3840x2072_11779
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-05-15/d9/2d/d92d71e09e5fa0a7fc3d758349b9f025.jpg",Дыхание шторма (2025)
+https://river-3-3103.rtbcdn.ru/hls-vod/-RvAstKtUqC28j1etEFIEA/1772382472/2704/0x5000039ce863f7d9/700dbdbfd17a4a3d964dc3feebe1b36a.mp4.m3u8?i=3840x1600_7570
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-05-16/98/8d/988dc59ab70dbbe6d65580d64ceb122a.jpg",Бабули (2025)
+https://river-5-557.rtbcdn.ru/hls-vod/pefZIkK-3wpcQKzxHa0Xrg/1772382475/2692/0x5000039ce83be8e9/a326c60568f849f8b2b5068a4e779e48.mp4.m3u8?i=3840x2160_4844
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-05-29/d4/32/d432b28edb77e097e76df72129128078.jpg",Грешники (2025)
+https://river-5-517.rtbcdn.ru/hls-vod/-rl2Q7sQY9BaWSX_XQJvYw/1772382479/2560/0x5000039ce8401ac9/dfe0453219734b518944a7b223ef3c35.mp4.m3u8?i=3840x2160_5600
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-06-17/19/9e/199ea11e5f1962d1c26caddb025a305d.jpg",Под прикрытием (2025)
+https://river-3-347.rtbcdn.ru/hls-vod/1Q32d6lxCV6gSD7K1q3l-A/1772382482/2668/0x5000039ce8401659/e0728b94859641cca1f21f1a71c71153.mp4.m3u8?i=3840x2160_9449
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-06-17/9f/d0/9fd014c3b4c13c98e926190144a6694d.jpg",Долина эха (2025)
+https://river-3-312.rtbcdn.ru/hls-vod/bCG7wb4-K-4Hn8WPnWU5XQ/1772382484/2730/0x5000039ce83a1469/bc3b083a878442e8b2b814386adac353.mp4.m3u8?i=3840x1608_4521
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-06-18/36/62/36621414dd914335d816659f8feec67a.jpg",Расплата 2 (2025)
+https://river-4-440.rtbcdn.ru/hls-vod/XbPjrkhOhLvo2_UM6bAhOw/1772382487/2704/0x5000039ce8686589/e43e99ed1a8341d9a632e9e74a520122.mp4.m3u8?i=3840x1600_9219
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-06-25/ee/da/eeda046926fd723ff0474f26b9ac6924.jpg",Финикийская схема (2025)
+https://river-3-314.rtbcdn.ru/hls-vod/n01Rdz27ZcOzA5m_ty6XFg/1772382488/2668/0x5000039ce83b9cf9/d480df982da34599b75b382b8ca13f1c.mp4.m3u8?i=3840x2160_13705
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-07-10/bd/44/bd443c46e1941daadd59a8880f7b60f5.jpg",Каратэ-пацан - Легенды (2025)
+https://river-3-347.rtbcdn.ru/hls-vod/kIZCAT-uQCL-nAumUtYPwg/1772382491/2712/0x5000039ce86357f9/c657b5e7ebf24269b843264f60afbf66.mp4.m3u8?i=3840x2072_11620
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-07-29/dd/66/dd6650e04217d1cc963b04fca90d43ed.jpg",Счастливчик Гилмор 2 (2025)
+https://river-3-348.rtbcdn.ru/hls-vod/pOZInNRCB9D01FaAp7WLVA/1772382495/3286/0x5000c500fa78394c/5272e0649f734bd48563906871e6bced.mp4.m3u8?i=3840x2160_15291
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-05-13/00/09/00099d5a5577cf6f9b67ed6ed3482a8e.jpg",Белоснежка (2025)
+https://river-3-343.rtbcdn.ru/hls-vod/DvWGYp1bPYWdpYBKeDHLiA/1772382497/2576/0x5000039ce832f8d5/8aed0a26d5804f9ab69027e89278e209.mp4.m3u8?i=3840x1608_6134
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2026-01-06/ed/54/ed542aab0eb2246cacf28feb8c213718.jpg",Злая Часть 2 (2025)
+https://river-5-512.rtbcdn.ru/hls-vod/mNh-jJO7rTgKBygGmWH7FA/1772382499/3324/0x5000c500e9cf52aa/ae9b21953427405394fe2d34c8f6e274.mp4.m3u8?i=3840x1608_6194
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2026-01-07/53/fa/53fa2f2f9b8f1e3eacc588ee087a1a4b.jpg",Блюхер (2025)
+https://river-5-558.rtbcdn.ru/hls-vod/0X0zwVwRSxwbZ7lWg8ag3w/1772382502/3406/0x5000c500e9308954/c11b83e98248401b8edfedd736b87a26.mp4.m3u8?i=3840x1608_5806
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-12-23/b8/f0/b8f0527bc12d362ccdde024ec7be4fc3.jpg",Бессмертный: Кровавая дорога домой (2025)
+https://river-5-544.rtbcdn.ru/hls-vod/UIL-nRH8deEaIfpQWRL1Vw/1772382506/3334/0x5000c500fa8032ab/d31d657b928c45ac83c4ce53d932d4d9.mp4.m3u8?i=3840x1608_9973
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-12-23/4e/ac/4eac83a49f47219d5439a26ea4896e7d.jpg",Подготовка к следующей жизни (2025)
+https://river-5-543.rtbcdn.ru/hls-vod/TN1j17RIEQFtXNC9I9kouw/1772382508/3306/0x5000c500e9be7a48/7adfc4ecb5dc4dfcb7f4cc92ffce2fb0.mp4.m3u8?i=3840x2160_10383
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-12-06/2b/9f/2b9fddd021aeee4e40a92fb054b9dedf.jpg",Пять ночей с Фредди 2 (2025)
+https://river-3-363.rtbcdn.ru/hls-vod/6j1a4ulrUhyBFGOFpznf5A/1772382510/3326/0x5000c500dc6e78e9/567d61a412fc44d7827fe3c5f48df184.mp4.m3u8?i=3840x2160_4685
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-12-12/c6/01/c601cc5fd7ea4423829a0dba23f14978.jpg",Мерв (2025)
+https://river-4-430.rtbcdn.ru/hls-vod/j6CanniLUjuBZQPPA_VdyA/1772382513/3330/0x5000c500e970f1dd/93d680c40363437b85b920c147c45e7c.mp4.m3u8?i=3840x1744_4307
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-12-20/98/0a/980a97c3547354addcba3866d477834b.jpg",Дерзкий (2025)
+https://river-4-412.rtbcdn.ru/hls-vod/zkvhwKZXxmPlwgA2rZI5Lg/1772382514/3308/0x5000c500e9cf52b3/66266a9b6dfe4dbb847fb9df0b3818d2.mp4.m3u8?i=3840x2160_9870
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-12-10/80/61/8061471841e1f476fad25e0223ca9cf5.jpg",Джей Келли (2025)
+https://river-3-314.rtbcdn.ru/hls-vod/FDWuZgVqHBrr2XOUUKuzpw/1772382516/3352/0x5000c500e9cf599a/5c62375e9c5b479c9c9a141cdf80e055.mp4.m3u8?i=3840x2160_13779
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-12-12/6e/83/6e834ecd36ea363adfb1edbc165436c3.jpg",Боже Как Смешно (2025)
+https://river-3-3106.rtbcdn.ru/hls-vod/yHnrdOlZlknNpzm6OJoBog/1772382520/3260/0x5000c500e9ea6892/15d935f4c4c5485590a9b6bec7c6a5f9.mp4.m3u8?i=3840x2160_31692
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-12-02/8f/9d/8f9d12dbbc1c0f0ff5d73e69c472d01c.jpg",Рождество с бывшим (2025)
+https://river-3-367.rtbcdn.ru/hls-vod/T7dUTZz5Mkpe3_aPadAEkg/1772382521/3388/0x5000c500e8730231/655f8d3de9b240eab67ad749d25ee49f.mp4.m3u8?i=3840x2160_9116
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-12-04/9c/b2/9cb2766452b19f94b68fc92223493c14.jpg",Как можно лучше (2025)
+https://river-4-431.rtbcdn.ru/hls-vod/LDAf2o1emUiaIssULwZVsA/1772382523/3328/0x5000c500e9cc1eae/0ab36ecb882a4784a57f6b58cd2cd4b7.mp4.m3u8?i=3840x2160_22526
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-12-02/f9/24/f924cf4ca1cc3af15a2852146a2bb6dc.jpg",Рождественское ограбление (2025)
+https://river-3-358.rtbcdn.ru/hls-vod/Oxkv14dBACsmPGd3ibb0xg/1772382525/3408/0x5000c500e9789d09/7e2f37c8935547ff8a3bd55278f0fd80.mp4.m3u8?i=3840x2160_4726
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-10-11/8a/0f/8a0f33fed31ede17acbee356b66d938e.jpg",Трон: Арес (2025)
+https://river-m9-pitix-d3105.rtbcdn.ru/hls-vod/ynX48GFXY-KtTPqSWsCPYw/1772382529/3326/0x5000c500e9d36d01/a1a4000dee7c48d9aa12ca532872bed2.mp4.m3u8?i=3840x1608_8471
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-11-11/4d/69/4d698ebd070e49cce378dc9c255c5d47.jpg",Баллада о маленьком игроке (2025)
+https://river-4-424.rtbcdn.ru/hls-vod/4_co9iLGrz0n36dauSqU0g/1772382560/3354/0x5000c500e9cf23d8/8b92bd2a77ef4a7e8399ba4ee54b9f48.mp4.m3u8?i=3840x2160_13188
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-09-28/1a/44/1a44f1d8e2ce264f141426acae8e5746.jpg",Битва за битвой (2025)
+https://river-3-329.rtbcdn.ru/hls-vod/a79dHHEC7jF5vopTCxwpHA/1772382589/2181/0x5000c500e64c9c21/28254b2c5b584c42b6b752da2a528dfc.mp4.m3u8?i=3840x2160_10070
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-10-27/0f/a0/0fa050716822d4177ea38aefed2f424d.jpg",Точка замерзания (2025)
+https://river-3-391.rtbcdn.ru/hls-vod/oijltwn_tujg0C6zyBUzVQ/1772382593/2716/0x5000039ce863f289/ff48e2ce9d844c8892a8efc8db7dae94.mp4.m3u8?i=3840x1600_5696
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-05-20/71/ea/71eac18bfa2442989b711b883c83f55f.jpg",Миссия невыполнима: Финальная расплата (2025)
+https://river-3-348.rtbcdn.ru/hls-vod/hlKtLsvrXj9Wq1-nehtsIA/1772382596/2656/0x5000039ce833b3b9/1e347766d0874d20954643ce2ae6572b.mp4.m3u8?i=3840x2072_16241
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-09-10/26/49/264965ddbc958091070c64671644b6a8.jpg",Орудия (2025)
+https://river-5-532.rtbcdn.ru/hls-vod/p1HeqvKE4vDhTttgWiCJFA/1772382599/3284/0x5000c500fa6e7da5/37c60d8c70c04165b8b4893afd26ff1f.mp4.m3u8?i=3840x1600_6574
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-06-06/96/ba/96ba0a5122081aae3d2c9487d0a018c4.jpg",Сахара (2005)
+https://river-5-517.rtbcdn.ru/hls-vod/6i7NfS5wf2pUXPmf2vX9YA/1772382602/2684/0x5000039ce8694e49/849cddccec8845a48d4949222dcdd249.mp4.m3u8?i=3840x1600_7480
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-12-15/cb/cd/cbcde15d8a115fb2217febbc2e397780.jpg",Вдохновитель (2025)
+https://river-4-406.rtbcdn.ru/hls-vod/dACDKUMVm95rcIo_SCZNpg/1772382605/3308/0x5000c500e9edffe0/cf28717f9d5842559af489627eeaaea1.mp4.m3u8?i=2560x1440_3566
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-12-03/d9/94/d99487e69fd463609f6c73d5ac5e8ed7.jpg",Тролль 2 (2025)
+https://river-3-312.rtbcdn.ru/hls-vod/I_s3qkwaT9oWDf3bCkyysw/1772382608/3342/0x5000c500e9ed3d87/0f8f20716c0d40a59e9a1b2eb71b4b36.mp4.m3u8?i=3840x2160_6808
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-11-26/13/08/1308317ce2e8bdb73d82c36dac867a9e.jpg",Женщина во дворе (2025)
+https://river-5-517.rtbcdn.ru/hls-vod/L_TulbMXc14fwRg2GbXQXg/1772382609/3320/0x5000c500e9ebff41/6fa67cc3ec464de2a43ac630b5e35d53.mp4.m3u8?i=3840x1600_2269
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-12-02/e8/36/e8365711bdc9c3ecf9da1d0e59f3226c.jpg",Голубая луна (2025)
+https://river-5-550.rtbcdn.ru/hls-vod/NA1xy_ENtNDrnibP2cfLGQ/1772382611/3294/0x5000c500fa6e8d5d/bb1e3d1374e0477586851753f351886e.mp4.m3u8?i=3840x1600_4928
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-12-02/00/de/00de38dd3fcf32defa8d732da27ae9d0.jpg",Вкуснятина (2025)
+https://river-4-425.rtbcdn.ru/hls-vod/EOMXdgzNUPgdjeobwvDbaA/1772382614/3262/0x5000c500e9ebea30/b311e4c97ac740419f7cf770d4a428f0.mp4.m3u8?i=3840x2160_4856
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-12-03/2a/7f/2a7f59770bc6a3e98840674d5035d51e.jpg",Манго (2025)
+https://river-4-416.rtbcdn.ru/hls-vod/rB6y1-2K37I6ZspdXBUSxw/1772382616/3270/0x5000c500e9cc3272/8bdb67ab2fec4c578e7daa605e26650b.mp4.m3u8?i=3840x2160_5982
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-12-03/aa/25/aa25e838605d4635670520ead1e1d85b.jpg",Хэллоуин: Последствия (2025)
+https://river-5-512.rtbcdn.ru/hls-vod/amKFv07G16GXNcDMqZHmDg/1772382618/3376/0x5000c500fa6e57d1/72ea8690abc34895a042336f31230447.mp4.m3u8?i=3840x1600_2623
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/7a/64/7a642e613abcd382eb5ca1e5e534a084.jpg",Пес-призрак: Путь самурая (2005)
+https://river-4-437.rtbcdn.ru/hls-vod/Vb5_F0SPpcqGArmtoUIZ7A/1772382622/2235/0x5000c5007446d3cc/0867e5cb17bc4fdebeac237f25046526.mp4.m3u8?i=2560x1440_4563
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/02/bb/02bbb57c604ba3d1aac4840ca9d90330.jpg",Гладиатор (2000)
+https://river-3-351.rtbcdn.ru/hls-vod/L0jkteffrNfuGJK9ZWm4rA/1772382624/1879/0x5000c500e5356445/94e65dc9e80548d798e190883ba4bd9c.mp4.m3u8?i=1752x2160_14760
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-06-25/f7/7d/f77db83accceb5d8cc95c71daa3a81df.jpg",Максимальный риск (1996)
+https://river-3-387.rtbcdn.ru/hls-vod/UXxDSem-2-m3A_hsDNH9fA/1772382626/2626/0x5000039ce869a595/6aaff2e6e1434b6dab2a220f20c40ef8.mp4.m3u8?i=3840x2160_7246
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-05-23/8b/19/8b194d90e3e9658578c335f18968b98f.jpg",Обратная тяга (1991)
+https://river-3-340.rtbcdn.ru/hls-vod/VQQ4FCneJSMFzxqyugVWeA/1772382628/2732/0x5000039ce8690209/ec106b03586a48a3a0bf166be1284daf.mp4.m3u8?i=3840x2160_5427
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-07-09/ba/c6/bac672e3b270858d4b2ad28c59def41e.jpg",Старикам тут не место (2007)
+https://river-5-514.rtbcdn.ru/hls-vod/ZHt0BXNdOTAeq4VDin2IkA/1772382630/2622/0x5000039ce8382b0d/71d288f9b71a405383c59187bca01a30.mp4.m3u8?i=3840x2160_7032
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-05-22/ef/81/ef8158414b9f696eda63f2741fe1ed4d.jpg",Мышиная охота (1997)
+https://river-3-349.rtbcdn.ru/hls-vod/ugLcfxRGTeAIrGnw0EhXKg/1772382632/2720/0x5000039ce86a08fd/72103dc6044f4ac8b1a2719d5f960e24.mp4.m3u8?i=3840x2080_12410
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-06-12/92/3d/923d02ec744710d2fdbd5683f8d7a3c3.jpg",Трудная мишень (1993)
+https://river-3-349.rtbcdn.ru/hls-vod/wBcFhqO_c4GNaR6NsXza-g/1772382635/2726/0x5000039ce868f779/b40ac16b786a4eb48f20513577281a1e.mp4.m3u8?i=3840x2160_15400
 
 
 
