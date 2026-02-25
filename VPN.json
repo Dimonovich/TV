@@ -3,7 +3,7 @@
   {
     "server": "57.131.38.151",
     "server_port": 8443,
-    "password": "SdtWyUlJdc7zGJRcEyaiAMd8EAG4G6HC60rmWe5wItw=",
+    "password": "kU3KD4AGzUpEgh+DrTox2ZxlcL0ynbflk5aSMyBVyoY=",
     "method": "aes-256-gcm",
     "remarks": "🇮🇹 Италия (Android TV + Free TV)",
     "route": "all",
@@ -18,7 +18,7 @@
   {
     "server": "51.254.142.162",
     "server_port": 8443,
-    "password": "9f74dfca-99f3-40a4-bbb3-8dfbca481ed5",
+    "password": "13750660-e8f3-4224-baab-aa3069ad0618",
     "method": "aes-256-gcm",
     "remarks": "🇫🇷 Франция 2 (Android TV + Free TV)",
     "route": "all",
@@ -33,7 +33,7 @@
   {
     "server": "51.75.69.164",
     "server_port": 8443,
-    "password": "92350554-5dbc-4068-8bc8-97065a3d240b",
+    "password": "5b2735e4-8e29-49cc-a000-db7d9693d0ea",
     "method": "aes-256-gcm",
     "remarks": "🇩🇪 Германия 2 (Android TV + Free TV)",
     "route": "all",
@@ -48,7 +48,7 @@
   {
     "server": "57.131.38.150",
     "server_port": 8443,
-    "password": "fa43a025-0682-4552-bfb8-6ae373568a61",
+    "password": "32595bce-24e6-4139-a728-dd0aea16ceb8",
     "method": "aes-256-gcm",
     "remarks": "🇮🇹 Италия 2 (Android TV + Free TV)",
     "route": "all",
@@ -78,7 +78,7 @@
   {
     "server": "54.36.162.84",
     "server_port": 8443,
-    "password": "2osoxbfF0cNSyU9T+MHxZj4skgZQkGWHTTklcX/ynxg=",
+    "password": "GRv2WjOtfM4efMF7YrQ9xlDg2z/76kZOEJRSumtkG4A=",
     "method": "aes-256-gcm",
     "remarks": "🇬🇧 Великобритания (Android TV + Free TV)",
     "route": "all",
@@ -90,6 +90,21 @@
     },
     "udpdns": false
   },
+  {
+    "server": "57.128.174.124",
+    "server_port": 8443,
+    "password": "60e1346c-8cad-4acc-a0a9-052ab32a791a",
+    "method": "aes-256-gcm",
+    "remarks": "🇬🇧 Великобритания 2 (Android TV + Free TV)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },  
   {
     "server": "193.29.139.251",
     "server_port": 8080,
