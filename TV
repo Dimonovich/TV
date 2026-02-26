@@ -2121,7 +2121,7 @@ http://185.234.59.200:8080/dikiy/index.m3u8
 http://185.234.59.200:8080/domashnie_zhivotnye/index.m3u8
 #EXTINF:-1 group-title="Инфолинк (VPN)",Home 4k
 http://185.234.59.200:8080/home_4k/index.m3u8
-#EXTINF:-1 group-title="Инфолинк (VPN)",Insight HD
+#EXTINF:-1 group-title="Инфолинк (VPN)" tvg-id="insight-ultra-hd",Insight UHD
 http://185.234.59.200:8080/insight_uhd/index.m3u8
 #EXTINF:-1 group-title="Инфолинк (VPN)",История
 http://185.234.59.200:8080/istoriya/index.m3u8
@@ -2191,7 +2191,7 @@ http://185.234.59.200:8080/dozhd_hd/index.m3u8
 http://185.234.59.200:8080/eda/index.m3u8
 #EXTINF:-1 group-title="Инфолинк (VPN)",Драйв
 http://185.234.59.200:8080/drayv/index.m3u8
-#EXTINF:-1 group-title="Инфолинк (VPN)",Food time HD
+#EXTINF:-1 group-title="Инфолинк (VPN)",Food Time
 http://185.234.59.200:8080/foodtime/index.m3u8
 #EXTINF:-1 group-title="Инфолинк (VPN)",Gags network
 http://185.234.59.200:8080/gags_network/index.m3u8
@@ -2217,7 +2217,7 @@ http://185.234.59.200:8080/sarafan/index.m3u8
 http://185.234.59.200:8080/sovershenno_sekretno/index.m3u8
 #EXTINF:-1 group-title="Инфолинк (VPN)",СТС HD
 http://185.234.59.200:8080/sts_hd/index.m3u8
-#EXTINF:-1 group-title="Инфолинк (VPN)",Тонус
+#EXTINF:-1 group-title="Инфолинк (VPN)",Тонус ТВ
 http://185.234.59.200:8080/tonus/index.m3u8
 #EXTINF:-1 group-title="Инфолинк (VPN)",ТВ3
 http://185.234.59.200:8080/tv3/index.m3u8
@@ -2237,13 +2237,13 @@ http://185.234.59.200:8080/nick_jr/index.m3u8
 http://185.234.59.200:8080/bobyor/index.m3u8
 #EXTINF:-1 group-title="Инфолинк (VPN)",Nickelodeon
 http://185.234.59.200:8080/nickelodeon/index.m3u8
-#EXTINF:-1 group-title="Инфолинк (VPN)",Mezzo HD
+#EXTINF:-1 group-title="Инфолинк (VPN)" tvg-id="mezzo",Mezzo HD
 http://185.234.59.200:8080/mezzo/index.m3u8
 #EXTINF:-1 group-title="Инфолинк (VPN)",1HD
 http://185.234.59.200:8080/1hd/index.m3u8
-#EXTINF:-1 group-title="Инфолинк (VPN)",KHL
+#EXTINF:-1 group-title="Спорткомплекс 🏆",KHL
 http://185.234.59.200:8080/khl/index.m3u8
-#EXTINF:-1 group-title="Инфолинк (VPN)",KHL Prime
+#EXTINF:-1 group-title="Спорткомплекс 🏆",KHL Prime
 http://185.234.59.200:8080/khl_prime_hd/index.m3u8
 
 
