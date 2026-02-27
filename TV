@@ -22,12 +22,6 @@ http://194.26.229.213/souzmultfilm/index.m3u8
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵",DTR Zona 1
 https://kino-stream.online/hls/DTRZONA1.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Bollywood HD
-http://193.27.209.122/bollywood/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Дорама HD
-http://193.27.209.122/dorama/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Tiji
-http://193.27.209.122/tiji/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵", .Sci-Fi
 http://188.237.47.212:6001
 #EXTINF:-1 group-title="TEST ⓵", .black
@@ -182,8 +176,6 @@ https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/rewind-240.ts.m3u8
 https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",Матч HD
 https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",Мосфильм. Золотая коллекция
-http://5.8.11.96:8099/mosfilmhd/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)", Киномикс
 http://93.170.254.17/Kinomiks/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)", Пингвин Лоло
