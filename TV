@@ -2199,6 +2199,30 @@ https://tv.samaragis.ru/new/new/tracks-v1a1/0/stream.m3u8
 
 
 
+#EXTINF:-1 group-title="Селектел (VPN)", Discovery Channel
+http://5.188.159.128:8070/DiscoveryChannel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Селектел (VPN)", HOLLYWOOD HD
+http://5.188.159.128:8070/HOLLYWOOD_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Селектел (VPN)", Кинопремьера
+http://5.188.159.128:8070/KINOPREMIERA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Селектел (VPN)", Киносвидание
+http://5.188.159.128:8070/kinosvidanie/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Селектел (VPN)", Мир 24
+http://5.188.159.128:8070/mir_24/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Селектел (VPN)", .red
+http://5.188.159.128:8070/RED/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Селектел (VPN)", RU.TV
+http://5.188.159.128:8070/rutv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Селектел (VPN)", Cartoon Network
+http://5.188.159.128:8070/Cartoon_Network/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Селектел (VPN)", Bridge TV Classic
+http://5.188.159.128:8070/Bridge_TV_Classic/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Селектел (VPN)", Bridge TV
+http://5.188.159.128:8070/bridgetv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Селектел (VPN)", Trash HD
+http://5.188.159.128:8070/Trash_HD/tracks-v1a1/mono.m3u8
+
+
 
 
 
