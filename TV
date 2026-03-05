@@ -395,7 +395,7 @@ https://river-4-430.rtbcdn.ru/hls-vod/8t55xPVsbrDg8bAqgW-TdQ/1772902144/1846/0x5
 
 #EXTINF:-1 group-title="Современные сетевые технологии", РЕН ТВ
 https://a3569457567-s70378.cdn.ngenix.net/ren_tv/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии", НТВ Поаво
+#EXTINF:-1 group-title="Современные сетевые технологии", НТВ Право
 https://a3569457567-s70378.cdn.ngenix.net/ntv_pravo/1/index.m3u8
 #EXTINF:-1 group-title="Современные сетевые технологии", НТВ Сериал
 https://a3569457567-s70378.cdn.ngenix.net/ntv_serial/1/index.m3u8
@@ -453,6 +453,10 @@ https://a3569457567-s70378.cdn.ngenix.net/sony_sci_fi/2/index.m3u8
 https://a3569457567-s70378.cdn.ngenix.net/sony_turbo/2/index.m3u8
 #EXTINF:-1 group-title="Современные сетевые технологии", Телекафе
 https://a3569457567-s70378.cdn.ngenix.net/telecafe/2/index.m3u8
+#EXTINF:-1 group-title="Современные сетевые технологии", Индийское кино 
+https://a3569457567-s70378.cdn.ngenix.net/india_tv/1/index.m3u8
+#EXTINF:-1 group-title="Современные сетевые технологии",Индия
+https://a3569457567-s70378.cdn.ngenix.net/zee_tv/2/index.m3u8
 #EXTINF:-1 group-title="Современные сетевые технологии", Наше новое кино
 https://a3569457567-s70378.cdn.ngenix.net/nashe_novoe_kino/1/index.m3u8
 #EXTINF:-1 group-title="Современные сетевые технологии", Киноужас
@@ -486,7 +490,7 @@ https://a3569457567-s70378.cdn.ngenix.net/euronews/1/index.m3u8
 https://a3569457567-s70378.cdn.ngenix.net/evrokino/1/index.m3u8
 #EXTINF:-1 group-title="Современные сетевые технологии", Мир сериала 
 https://a3569457567-s70378.cdn.ngenix.net/mir_seriala/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии", Fashion Box
+#EXTINF:-1 group-title="Современные сетевые технологии", FashionBox
 https://a3569457567-s70378.cdn.ngenix.net/fashion_box/1/index.m3u8
 #EXTINF:-1 group-title="Современные сетевые технологии", Filmbox
 https://a3569457567-s70378.cdn.ngenix.net/filmbox/1/index.m3u8
@@ -498,10 +502,6 @@ https://a3569457567-s70378.cdn.ngenix.net/flixsnip/1/index.m3u8
 https://a3569457567-s70378.cdn.ngenix.net/fox_life/1/index.m3u8
 #EXTINF:-1 group-title="Современные сетевые технологии", Иллюзион+
 https://a3569457567-s70378.cdn.ngenix.net/illusion_plus/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии", Индийское кино 
-https://a3569457567-s70378.cdn.ngenix.net/india_tv/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии",Индия
-https://a3569457567-s70378.cdn.ngenix.net/zee_tv/2/index.m3u8
 #EXTINF:-1 group-title="Современные сетевые технологии", Зоопарк
 https://a3569457567-s70378.cdn.ngenix.net/zoopark/2/index.m3u8
 #EXTINF:-1 group-title="Современные сетевые технологии", h1
@@ -550,7 +550,7 @@ https://a3569457567-s70378.cdn.ngenix.net/nickelodeon/1/index.m3u8
 https://a3569457567-s70378.cdn.ngenix.net/nicktoons/1/index.m3u8
 #EXTINF:-1 group-title="Современные сетевые технологии", Малыш
 https://a3569457567-s70378.cdn.ngenix.net/malish/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии",Gulli Giirl
+#EXTINF:-1 group-title="Современные сетевые технологии",Gulli Girl
 https://a3569457567-s70378.cdn.ngenix.net/gulli/1/index.m3u8
 #EXTINF:-1 group-title="Современные сетевые технологии", Карусель 
 https://a3569457567-s70378.cdn.ngenix.net/karusel/1/index.m3u8
@@ -8346,4 +8346,5 @@ http://127.0.0.1:6878/ace/getstream?infohash=ce9dfe7efa2fd304947f8b57554a524479b
 http://127.0.0.1:6878/ace/getstream?infohash=ab4f0c0791a41b00cf45e26e3a783314750481ac
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",[magenta] Sport 11 - myTeamTV
 http://127.0.0.1:6878/ace/getstream?infohash=348ef293fa3338b18559c37f96b7ce1861fa4f11
+ 
  
