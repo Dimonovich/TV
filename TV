@@ -24,7 +24,7 @@ http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 https://kino-stream.online/hls/DTRZONA1.m3u8
 #EXTINF:-1 group-title="TEST ⓵",DTR Zona 2
 https://kino-stream.online/hls/DTRZONA2.m3u8
-#EXTINF:-1 group-title="TEST ⓵",ОшТВ
+#EXTINF:-1 group-title="TEST ⓵" tvg-id="osh-tv-kg" ,ОшТВ
 http://212.42.117.34:8080/hls/OshTV.m3u8
 #EXTINF:-1 group-title="TEST ⓵", .Sci-Fi
 http://188.237.47.212:6001
@@ -150,9 +150,9 @@ http://194.143.148.28:8080/MCM/tracks-v1a1/mono.m3u8
 http://194.143.148.28:8080/Mir24/mpegts
 #EXTINF:-1 group-title="TEST (VPN)" tvg-id="aist",Аист ТВ
 http://194.143.148.28:8080/Aist/mpegts
-#EXTINF:-1 group-title="TEST (VPN)",PROMO
+#EXTINF:-1 group-title="TEST (VPN)",IPTVPLAY PROMO
 http://5.188.158.65:4040/IPTVPLAYPromo.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 group-title="TEST (VPN)",TEST
+#EXTINF:-1 group-title="TEST (VPN)",IPTVPLAY TEST
 http://5.188.158.65:4040/IPTVPLAYTEST.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://i.postimg.cc/Rh516HVw/1.png", IPTVPLAY МультСказки HD
 http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
