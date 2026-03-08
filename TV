@@ -24,6 +24,8 @@ http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 https://kino-stream.online/hls/DTRZONA1.m3u8
 #EXTINF:-1 group-title="TEST ⓵",DTR Zona 2
 https://kino-stream.online/hls/DTRZONA2.m3u8
+#EXTINF:-1 group-title="TEST ⓵",ОшТВ
+http://212.42.117.34:8080/hls/OshTV.m3u8
 #EXTINF:-1 group-title="TEST ⓵", .Sci-Fi
 http://188.237.47.212:6001
 #EXTINF:-1 group-title="TEST ⓵", .black
