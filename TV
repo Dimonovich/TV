@@ -399,23 +399,42 @@ https://river-4-430.rtbcdn.ru/hls-vod/gH2MLvLLNNbtrar2Xdw3ag/1773510455/1846/0x5
 
 
 
-
-#EXTINF:-1 group-title="Cloudflare_Inc!", Наука
+#EXTINF:-1 group-title="Cloudflare_Inc!",Наука
 http://hls127.freeott.top:8080/NAUKA/video.m3u8
-#EXTINF:-1 group-title="Cloudflare_Inc!", RTG TV
+#EXTINF:-1 group-title="Cloudflare_Inc!",RTG TV
 http://hls127.freeott.top:8080/RTG_TV/video.m3u8
-#EXTINF:-1 group-title="Cloudflare_Inc!", Ocean TV
+#EXTINF:-1 group-title="Cloudflare_Inc!",Ocean TV
 http://hls127.freeott.top:8080/Ocean_TV/video.m3u8
-#EXTINF:-1 group-title="Cloudflare_Inc!", Дикий
+#EXTINF:-1 group-title="Cloudflare_Inc!",Дикий
 http://hls127.freeott.top:8080/Dikiy/video.m3u8
-#EXTINF:-1 group-title="Cloudflare_Inc!", История
+#EXTINF:-1 group-title="Cloudflare_Inc!",История
 http://hls127.freeott.top:8080/Istoriya/video.m3u8
-#EXTINF:-1 group-title="Cloudflare_Inc!", Amedia 1
+#EXTINF:-1 group-title="Cloudflare_Inc!",Amedia 1
 http://hls127.freeott.top:8080/Amedia_1/video.m3u8
-#EXTINF:-1 group-title="Cloudflare_Inc!", BCU Kinorating HD
+#EXTINF:-1 group-title="Cloudflare_Inc!",BCU Kinorating HD
 http://hls127.freeott.top:8080/BCUKinoratingHD/video.m3u8
-#EXTINF:-1 group-title="Cloudflare_Inc!", BCU Stars HD
+#EXTINF:-1 group-title="Cloudflare_Inc!",BCU Stars HD
 http://hls127.freeott.top:8080/BCUStarsHD/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc!",CPS Action 
+http://hls127.freeott.top:8080/CPS_Action/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc!",CPS Comedy 
+http://hls127.freeott.top:8080/CPS_Comedy/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc!", CPS Drama 
+http://hls127.freeott.top:8080/CPS_Drama/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc!", CPS Fiction 
+http://hls127.freeott.top:8080/CPS_Fiction/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc!", CPS Fresh 
+http://hls127.freeott.top:8080/CPS_Fresh/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc!", CPS Investigation 
+http://hls127.freeott.top:8080/CPS_Investigation/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc!", CPS Cartoon 
+http://hls127.freeott.top:8080/CPS_Cartoon/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc!", CPS FreshUA 
+http://hls127.freeott.top:8080/CPS_Fresh_UA/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc!", BOX Anime HD
+http://hls127.freeott.top:8080/box_anime_hd/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc!", BOX Metall HD
+http://hls127.freeott.top:8080/BOX_Metall_HD/video.m3u8
 #EXTINF:-1 group-title="Cloudflare_Inc!", Gags Network
 http://hls127.freeott.top:8080/Gagsnetwork/video.m3u8
 #EXTINF:-1 group-title="Cloudflare_Inc!", HCT
@@ -442,6 +461,10 @@ http://hls127.freeott.top:8080/Nostalgiya/video.m3u8
 http://hls127.freeott.top:8080/ProLubovHD/video.m3u8
 #EXTINF:-1 group-title="Cloudflare_Inc!", РБК
 http://hls127.freeott.top:8080/RBK/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc!", Жара 
+http://hls127.freeott.top:8080/Zhara/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc!", OstWest 
+http://hls127.freeott.top:8080/OstWest/video.m3u8
 #EXTINF:-1 group-title="Cloudflare_Inc!", Союз
 http://hls127.freeott.top:8080/Souz/video.m3u8
 #EXTINF:-1 group-title="Cloudflare_Inc!", Совершенно секретно
@@ -450,6 +473,10 @@ http://hls127.freeott.top:8080/Sovershenno_Sekretno/video.m3u8
 http://hls127.freeott.top:8080/Spas/video.m3u8
 #EXTINF:-1 group-title="Cloudflare_Inc!", BRIDGE TV
 http://hls127.freeott.top:8080/BRIDGE_TV/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc!", Bridge TV Classic 
+http://hls127.freeott.top:8080/Bridge_Classic/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc!", МузТВ 
+http://hls127.freeott.top:8080/MUZ_TV/video.m3u8
 #EXTINF:-1 group-title="Cloudflare_Inc!", СТС Kids
 http://hls127.freeott.top:8080/STS_Kids/video.m3u8
 #EXTINF:-1 group-title="Cloudflare_Inc!", Бобёр
