@@ -100,6 +100,24 @@ http://185.46.48.18:80/iriston/mono.m3u8
 http://185.46.48.18:80/match/mono.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Шансон ТВ
 http://185.46.48.18:80/shanson/mono.m3u8
+#EXTINF:-1 group-title="TEST ⓵",1+1 HD
+http://cdn-bal.srv4you.net/0151/mpegts
+#EXTINF:-1 group-title="TEST ⓵",ІНТЕР HD
+http://cdn-bal.srv4you.net/0153/mpegts
+#EXTINF:-1 group-title="TEST ⓵",2+2 HD
+http://cdn-bal.srv4you.net/0152/mpegts
+#EXTINF:-1 group-title="TEST ⓵",НТН HD
+http://cdn-bal.srv4you.net/0157/mpegts
+#EXTINF:-1 group-title="TEST ⓵",K1 HD
+http://cdn-bal.srv4you.net/0158/mpegts
+#EXTINF:-1 group-title="TEST ⓵",K2 HD
+http://cdn-bal.srv4you.net/0169/mpegts
+#EXTINF:-1 group-title="TEST ⓵",СТБ HD
+http://cdn-bal.srv4you.net/0160/mpegts
+#EXTINF:-1 group-title="TEST ⓵",ТЕТ HD
+http://cdn-bal.srv4you.net/0164/mpegts
+#EXTINF:-1 group-title="TEST ⓵",Мега HD
+http://cdn-bal.srv4you.net/0171/mpegts
 #EXTINF:-1 group-title="TEST ⓵", Київ HD
 https://api-tv.ipnet.ua/api/v1/manifest/1293296300.m3u8
 #EXTINF:-1 group-title="TEST ⓵", 5 Канал HD
