@@ -431,6 +431,39 @@ https://river-4-430.rtbcdn.ru/hls-vod/gH2MLvLLNNbtrar2Xdw3ag/1773510455/1846/0x5
 
 
 
+#EXTINF:-1 group-title="KABELNET",Россия 1 HD
+http://87.246.54.249:8080/Rossia1/index.m3u8
+#EXTINF:-1 group-title="KABELNET",Россия 24
+http://87.246.54.249:8080/Rossia24/index.m3u8
+#EXTINF:-1 group-title="KABELNET",THT4
+http://87.246.54.249:8080/THT4/index.m3u8
+#EXTINF:-1 group-title="KABELNET",Техно 24
+http://87.246.54.249:8080/24Tehno/index.m3u8
+#EXTINF:-1 group-title="KABELNET",Viasat Nature
+http://87.246.54.249:8080/ViasatNature/index.m3u8
+#EXTINF:-1 group-title="KABELNET",Авто плюс
+http://87.246.54.249:8080/AvtoPlus/index.m3u8
+#EXTINF:-1 group-title="KABELNET",СТБ UA
+http://87.246.54.249:8080/espressotv/index.m3u8
+#EXTINF:-1 group-title="KABELNET",Кинохит HD
+http://87.246.54.249:8080/KinoHit/index.m3u8
+#EXTINF:-1 group-title="KABELNET",Мир сериала
+http://87.246.54.249:8080/MirSeriala/index.m3u8
+#EXTINF:-1 group-title="KABELNET",Пятница
+http://87.246.54.249:8080/piatnica/index.m3u8
+#EXTINF:-1 group-title="KABELNET",Победа
+http://87.246.54.249:8080/Pobeda/index.m3u8
+#EXTINF:-1 group-title="KABELNET",RTVI
+http://87.246.54.249:8080/RTVI/index.m3u8
+#EXTINF:-1 group-title="KABELNET",СТС Kids
+http://87.246.54.249:8080/CTC_Kids/index.m3u8
+#EXTINF:-1 group-title="KABELNET",Детский мир
+http://87.246.54.249:8080/DetskiMir/index.m3u8
+#EXTINF:-1 group-title="KABELNET",Карусель
+http://87.246.54.249:8080/Karusel/index.m3u8
+
+
+
 
 #EXTINF:-1 group-title="StarNet (VPN 🇳🇱)" group-title="StarNet" ,Настоящее время
 http://hls.stb.md/NASTOIASHIE_VREMEA_H264/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEwOS4yMDEuMTUyLjE4MSIsIm5iZiI6MTc3MzI0MjczNCwiZXhwIjoxNzczMzI5MTM0LCJpYXQiOjE3NzMyNDI3MzQsImlzcyI6InN0Yi5zdGFybmV0Lm1kIn0.PosQ68Z7K0WebbCQvLgnU5MsC4yHO264S_SGwpbIQCI
