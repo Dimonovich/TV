@@ -1559,6 +1559,7 @@ http://185.46.16.239:8000/Eurosport_1
 
 
 
+
 #EXTINF:-1 group-title="Internet42 LLC", Россия 24
 http://176.118.197.101/Rossiya24/index.m3u8
 #EXTINF:-1 group-title="Internet42 LLC", ТНТ
@@ -1567,36 +1568,12 @@ http://176.118.197.101/THT/index.m3u8
 http://176.118.197.101/NTV/index.m3u8
 #EXTINF:-1 group-title="Internet42 LLC", ТНТ4
 http://176.118.197.101/TNT4/index.m3u8
-#EXTINF:-1 group-title="Internet42 LLC", Galaxy
-http://176.118.197.125/Galaxy/index.m3u8
-#EXTINF:-1 group-title="Internet42 LLC", История
-http://176.118.197.125/Istoria/index.m3u8
-#EXTINF:-1 group-title="Internet42 LLC", RTG TV
-http://176.118.197.125/RTG-TV/index.m3u8
-#EXTINF:-1 group-title="Internet42 LLC", Viasat Explore
-http://176.118.197.125/viju-Explore/index.m3u8
-#EXTINF:-1 group-title="Internet42 LLC", Viasat History
-http://176.118.197.125/viju-History/index.m3u8
-#EXTINF:-1 group-title="Internet42 LLC", Viasat Nature
-http://176.118.197.125/viju-Nature/index.m3u8
-#EXTINF:-1 group-title="Internet42 LLC", .Black
-http://176.118.197.125/Black/index.m3u8
-#EXTINF:-1 group-title="Internet42 LLC", .SCI-FI
-http://176.118.197.125/SCI-FI/index.m3u8
-#EXTINF:-1 group-title="Internet42 LLC", TLC HD
-http://176.118.197.125/TLC-HD/index.m3u8
-#EXTINF:-1 group-title="Internet42 LLC", TV1000
-http://176.118.197.125/viju-TV1000/index.m3u8
 #EXTINF:-1 group-title="Internet42 LLC", Bollywood HD
 http://176.118.197.101/Bollywood_HD/index.m3u8
 #EXTINF:-1 group-title="Internet42 LLC", Cinema
 http://176.118.197.101/Cinema/index.m3u8
-#EXTINF:-1 group-title="Internet42 LLC", Дом Кино
-http://176.118.197.101/Dom_kino/index.m3u8
 #EXTINF:-1 group-title="Internet42 LLC", Еврокино
 http://176.118.197.101/Evrokino/index.m3u8
-#EXTINF:-1 group-title="Internet42 LLC", НСТ
-http://176.118.197.101/HCT/index.m3u8
 #EXTINF:-1 group-title="Internet42 LLC", Иллюзион+
 http://176.118.197.101/Illuzion+/index.m3u8
 #EXTINF:-1 group-title="Internet42 LLC", Кинокомедия
@@ -1609,34 +1586,10 @@ http://176.118.197.101/RodnoeKino/index.m3u8
 http://176.118.197.101/Kinopokaz/index.m3u8
 #EXTINF:-1 group-title="Internet42 LLC", Киносерия
 http://176.118.197.101/Kinoseria/index.m3u8
-#EXTINF:-1 group-title="Internet42 LLC", Комедия
-http://176.118.197.101/Komediya/index.m3u8
 #EXTINF:-1 group-title="Internet42 LLC", Любимое кино
 http://176.118.197.101/LubimoeKino/index.m3u8
 #EXTINF:-1 group-title="Internet42 LLC", Мир сериала
 http://176.118.197.101/MirSeriala/index.m3u8
-#EXTINF:-1 group-title="Internet42 LLC", Время
-http://176.118.197.125/Vremya/index.m3u8
-#EXTINF:-1 group-title="Internet42 LLC", Спас
-http://176.118.197.125/Spas/index.m3u8
-#EXTINF:-1 group-title="Internet42 LLC", Союз
-http://176.118.197.125/Souz/index.m3u8
-#EXTINF:-1 group-title="Internet42 LLC", Драйв
-http://176.118.197.125/Draiv/index.m3u8
-#EXTINF:-1 group-title="Internet42 LLC", 360 HD
-http://176.118.197.125/360_HD/index.m3u8
-#EXTINF:-1 group-title="Internet42 LLC", 365 дней
-http://176.118.197.125/365_dney_tv/index.m3u8
-#EXTINF:-1 group-title="Internet42 LLC", Мир
-http://176.118.197.125/Mir/index.m3u8
-#EXTINF:-1 group-title="Internet42 LLC", ОТР
-http://176.118.197.125/OTR/index.m3u8
-#EXTINF:-1 group-title="Internet42 LLC", Сарафан
-http://176.118.197.125/Sarafan/index.m3u8
-#EXTINF:-1 group-title="Internet42 LLC", Здоровое ТВ
-http://176.118.197.125/Zdorovoe-TV/index.m3u8
-#EXTINF:-1 group-title="Internet42 LLC", Звезда
-http://176.118.197.125/Zvezda/index.m3u8
 #EXTINF:-1 group-title="Internet42 LLC", 2x2
 http://176.118.197.101/2x2/index.m3u8
 #EXTINF:-1 group-title="Internet42 LLC", СТС
@@ -1657,24 +1610,9 @@ http://176.118.197.101/Telekafe/index.m3u8
 http://176.118.197.101/1HD/index.m3u8
 #EXTINF:-1 group-title="Internet42 LLC", Cartoon Network
 http://176.118.197.101/Cartoon_Network/index.m3u8
-#EXTINF:-1 group-title="Internet42 LLC", Boomerang
-http://176.118.197.125/Boomerang/index.m3u8
-#EXTINF:-1 group-title="Internet42 LLC", Бобёр
-http://176.118.197.125/Bober/index.m3u8
-#EXTINF:-1 group-title="Internet42 LLC", Ani
-http://176.118.197.125/Ani/index.m3u8
-#EXTINF:-1 group-title="Internet42 LLC", Gulli Girl
-http://176.118.197.125/Gulli-Girl/index.m3u8
-#EXTINF:-1 group-title="Internet42 LLC", JimJam
-http://176.118.197.125/JimJam/index.m3u8
-#EXTINF:-1 group-title="Internet42 LLC", Карусель
-http://176.118.197.125/Karusel/index.m3u8
-#EXTINF:-1 group-title="Internet42 LLC", Мама
-http://176.118.197.125/Mama/index.m3u8
-#EXTINF:-1 group-title="Internet42 LLC", Матч ТВ
-http://176.118.197.125/Match/index.m3u8
 #EXTINF:-1 group-title="Internet42 LLC", KHL
 http://176.118.197.101/KHL/index.m3u8
+
 
 
 
