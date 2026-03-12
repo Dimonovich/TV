@@ -182,6 +182,30 @@ http://194.143.148.28:8080/MCM/tracks-v1a1/mono.m3u8
 http://194.143.148.28:8080/Mir24/mpegts
 #EXTINF:-1 group-title="TEST (VPN)" tvg-id="aist",Аист ТВ
 http://194.143.148.28:8080/Aist/mpegts
+#EXTINF:-1 group-title="TEST (VPN)", Discovery Channel HD
+http://5.188.159.128:8070/DiscoveryChannel/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)", HOLLYWOOD HD
+http://5.188.159.128:8070/HOLLYWOOD_HD/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)", Кинопремьера
+http://5.188.159.128:8070/KINOPREMIERA/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)", Киносвидание
+http://5.188.159.128:8070/kinosvidanie/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)", Мир 24
+http://5.188.159.128:8070/mir_24/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)", .RED
+http://5.188.159.128:8070/RED/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)", Trash HD
+http://5.188.159.128:8070/Trash_HD/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)", Cartoon Network
+http://5.188.159.128:8070/Cartoon_Network/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)", Bridge TV Classic
+http://5.188.159.128:8070/Bridge_TV_Classic/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Bridge TV Hits
+http://5.188.159.128:8070/Bridge_TV_Hits/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)", Bridge TV
+http://5.188.159.128:8070/bridgetv/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)", RU.TV
+http://5.188.159.128:8070/rutv/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",IPTVPLAY PROMO
 http://5.188.158.65:4040/IPTVPLAYPromo.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1 group-title="TEST (VPN)",IPTVPLAY TEST
