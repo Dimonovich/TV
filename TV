@@ -2674,26 +2674,25 @@ https://tv.samaragis.ru/new/new/tracks-v1a1/0/stream.m3u8
 
 
 
+
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Первый канал Евразия
+http://188.225.31.197/bpk-tv/000000669/tve/index.m3u8
 #EXTINF:-1 group-title="ТаймВэб (VPN)",ТНТ HD
 http://188.225.31.197/bpk-tv/000007833/tve/index.m3u8
 #EXTINF:-1 group-title="ТаймВэб (VPN)",ТНТ4
 http://188.225.31.197/bpk-tv/000002926/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Рен ТВ
+http://188.225.31.197/bpk-tv/000002472/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Пятница! International
+http://188.225.31.197/bpk-tv/000007816/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Домашний International
+http://188.225.31.197/bpk-tv/000002348/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Карусель International
+http://188.225.31.197/bpk-tv/000000781/tve/index.m3u8
 #EXTINF:-1 group-title="ТаймВэб (VPN)",ТВ 3 International
 http://188.225.31.197/bpk-tv/000004712/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Премиум Киноᴴᴰ
-http://188.225.31.197/bpk-tv/000008491/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Мировое Киноᴴᴰ
-http://188.225.31.197/bpk-tv/000008488/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Семейное Киноᴴᴰ
-http://188.225.31.197/bpk-tv/000008489/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Кино Боевикᴴᴰ
-http://188.225.31.197/bpk-tv/000008490/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Победа
-http://188.225.31.197/bpk-tv/000004534/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Мосфильм. Золотая коллекция
-http://188.225.31.197/bpk-tv/000006365/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",VIP Serial HD
-http://188.225.31.197/bpk-tv/000004375/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",СТС International
+http://188.225.31.197/bpk-tv/000000428/tve/index.m3u8
 #EXTINF:-1 group-title="ТаймВэб (VPN)",National Geographic
 http://188.225.31.197/bpk-tv/000000034/tve/index.m3u8
 #EXTINF:-1 group-title="ТаймВэб (VPN)",Animal Planet
@@ -2702,32 +2701,174 @@ http://188.225.31.197/bpk-tv/000000216/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000008142/tve/index.m3u8
 #EXTINF:-1 group-title="ТаймВэб (VPN)",Discovery channel
 http://188.225.31.197/bpk-tv/000001496/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Время
-http://188.225.31.197/bpk-tv/000000205/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Тайны галактики HD
+http://188.225.31.197/bpk-tv/000000332/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Техно 24
+http://188.225.31.197/bpk-tv/000000008/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Планета HD
+http://188.225.31.197/bpk-tv/000001049/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",History HD
+http://188.225.31.197/bpk-tv/000001000/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Viasat Explore HD
+http://188.225.31.197/bpk-tv/000004157/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Viasat Nature HD
+http://188.225.31.197/bpk-tv/000006482/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Viasat History HD
+http://188.225.31.197/bpk-tv/000005528/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Живая природа HD
+http://188.225.31.197/bpk-tv/000001187/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Домашние животные
+http://188.225.31.197/bpk-tv/000000146/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Зоопарк
+http://188.225.31.197/bpk-tv/000000260/tve/index.m3u8
 #EXTINF:-1 group-title="ТаймВэб (VPN)",Диалоги о Рыбалке
 http://188.225.31.197/bpk-tv/000003174/tve/index.m3u8
 #EXTINF:-1 group-title="ТаймВэб (VPN)",Загородная жизнь HD
 http://188.225.31.197/bpk-tv/000000289/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Здоровое ТВ
-http://188.225.31.197/bpk-tv/000000057/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Зал суда
-http://188.225.31.197/bpk-tv/000006638/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Кто Куда
-http://188.225.31.197/bpk-tv/000001377/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Оружие
-http://188.225.31.197/bpk-tv/000000308/tve/index.m3u8
 #EXTINF:-1 group-title="ТаймВэб (VPN)",Поехали!
 http://188.225.31.197/bpk-tv/000002991/tve/index.m3u8
 #EXTINF:-1 group-title="ТаймВэб (VPN)",Рыбалка и охота
 http://188.225.31.197/bpk-tv/000002510/tve/index.m3u8
 #EXTINF:-1 group-title="ТаймВэб (VPN)",Точка отрыва
 http://188.225.31.197/bpk-tv/000003208/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Здоровое ТВ
+http://188.225.31.197/bpk-tv/000000057/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)" tvg-id="premium-kino-kz",Премиум Кино
+http://188.225.31.197/bpk-tv/000008491/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)" tvg-id="mirovoe-kino-kz",Мировое Кино
+http://188.225.31.197/bpk-tv/000008488/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)" tvg-id="semejnoe-kino-kz",Семейное Кино
+http://188.225.31.197/bpk-tv/000008489/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)" tvg-id="kinoboevik-kz",Кино Боевик
+http://188.225.31.197/bpk-tv/000008490/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Победа
+http://188.225.31.197/bpk-tv/000004534/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Мосфильм. Золотая коллекция
+http://188.225.31.197/bpk-tv/000006365/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",VIP Serial HD
+http://188.225.31.197/bpk-tv/000004375/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Время
+http://188.225.31.197/bpk-tv/000000205/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Зал суда
+http://188.225.31.197/bpk-tv/000006638/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Кто Куда
+http://188.225.31.197/bpk-tv/000001377/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Оружие
+http://188.225.31.197/bpk-tv/000000308/tve/index.m3u8
 #EXTINF:-1 group-title="ТаймВэб (VPN)",АВТО 24
 http://188.225.31.197/bpk-tv/000000815/tve/index.m3u8
 #EXTINF:-1 group-title="ТаймВэб (VPN)",English Club TV
 http://188.225.31.197/bpk-tv/000000202/tve/index.m3u8
 #EXTINF:-1 group-title="ТаймВэб (VPN)",Аппетитный
 http://188.225.31.197/bpk-tv/000008877/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",.Black
+http://188.225.31.197/bpk-tv/000000520/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Gags network
+http://188.225.31.197/bpk-tv/000006639/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",HIT TV
+http://188.225.31.197/bpk-tv/000001213/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Анекдот ТВ
+http://188.225.31.197/bpk-tv/000001921/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Телекафе
+http://188.225.31.197/bpk-tv/000000206/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",НСТ
+http://188.225.31.197/bpk-tv/000000078/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Твоё телевидение
+http://188.225.31.197/bpk-tv/000002721/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Новый игровой канал
+http://188.225.31.197/bpk-tv/000008615/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Amedia 1 HD
+http://188.225.31.197/bpk-tv/000000710/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Amedia 2
+http://188.225.31.197/bpk-tv/000000351/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Amedia HiT HD
+http://188.225.31.197/bpk-tv/000001662/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Amedia Premium HD
+http://188.225.31.197/bpk-tv/000000709/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Cinema
+http://188.225.31.197/bpk-tv/000000239/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Hollywood
+http://188.225.31.197/bpk-tv/000000031/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",TV1000 Русское кино
+http://188.225.31.197/bpk-tv/000003748/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Дом кино
+http://188.225.31.197/bpk-tv/000000050/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Дом Кино Премиум HD
+http://188.225.31.197/bpk-tv/000002943/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Еврокино
+http://188.225.31.197/bpk-tv/000000152/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Кинеко HD
+http://188.225.31.197/bpk-tv/000008136/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Ключ
+http://188.225.31.197/bpk-tv/000004585/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Мосфильм. Золотая коллекция
+http://188.225.31.197/bpk-tv/000006365/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Мужской
+http://188.225.31.197/bpk-tv/000000286/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Победа
+http://188.225.31.197/bpk-tv/000004534/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Русский Иллюзион
+http://188.225.31.197/bpk-tv/000004207/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Феникс+Кино
+http://188.225.31.197/bpk-tv/000000125/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Bollywood HD
+http://188.225.31.197/bpk-tv/000001419/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Romance
+http://188.225.31.197/bpk-tv/000008780/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Suspense
+http://188.225.31.197/bpk-tv/000008739/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",8 канал
+http://188.225.31.197/bpk-tv/000001564/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Народ Всё Видит
+http://188.225.31.197/bpk-tv/000008614/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",ТВЦ HD
+http://188.225.31.197/bpk-tv/000000112/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",31 канал
+http://188.225.31.197/bpk-tv/000000663/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",5 канал (региональный)
+http://188.225.31.197/bpk-tv/000000950/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Alem 1HD
+http://188.225.31.197/bpk-tv/000005449/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Alem 2HD
+http://188.225.31.197/bpk-tv/000005450/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Almaty tv
+http://188.225.31.197/bpk-tv/000000667/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Balapan
+http://188.225.31.197/bpk-tv/000005178/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Jambyl
+http://188.225.31.197/bpk-tv/000003244/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Saryarqa
+http://188.225.31.197/bpk-tv/000003146/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Semei
+http://188.225.31.197/bpk-tv/000003250/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",TLC HD
+http://188.225.31.197/bpk-tv/000001498/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Turan TV
+http://188.225.31.197/bpk-tv/000001404/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Women's Magazine HD
+http://188.225.31.197/bpk-tv/000008065/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Алау ТВ
+http://188.225.31.197/bpk-tv/000001511/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Ирбис TV
+http://188.225.31.197/bpk-tv/000001513/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",КТК HD
+http://188.225.31.197/bpk-tv/000000672/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Новое Телевидение SD
+http://188.225.31.197/bpk-tv/000001380/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Перец
+http://188.225.31.197/bpk-tv/000001248/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",РИКА-ТВ
+http://188.225.31.197/bpk-tv/000001514/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Седьмой канал
+http://188.225.31.197/bpk-tv/000000659/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Той Думан
+http://188.225.31.197/bpk-tv/000002936/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Туркестан
+http://188.225.31.197/bpk-tv/000007248/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Euronews
+http://188.225.31.197/bpk-tv/000000025/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Cartoon Classics
+http://188.225.31.197/bpk-tv/000008795/tve/index.m3u8
 #EXTINF:-1 group-title="ТаймВэб (VPN)",Уникум
 http://188.225.31.197/bpk-tv/000000048/tve/index.m3u8
 #EXTINF:-1 group-title="ТаймВэб (VPN)",Cartoon Network
@@ -2750,154 +2891,14 @@ http://188.225.31.197/bpk-tv/000008003/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000008551/tve/index.m3u8
 #EXTINF:-1 group-title="ТаймВэб (VPN)",Da Vinci
 http://188.225.31.197/bpk-tv/000000333/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",History HD
-http://188.225.31.197/bpk-tv/000001000/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Viasat Explore HD
-http://188.225.31.197/bpk-tv/000004157/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Viasat Nature HD
-http://188.225.31.197/bpk-tv/000006482/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Visast History HD
-http://188.225.31.197/bpk-tv/000005528/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Живая природа HD
-http://188.225.31.197/bpk-tv/000001187/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Домашние животные
-http://188.225.31.197/bpk-tv/000000146/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Зоопарк
-http://188.225.31.197/bpk-tv/000000260/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Тайны галактики HD
-http://188.225.31.197/bpk-tv/000000332/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Планета HD
-http://188.225.31.197/bpk-tv/000001049/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",.Black
-http://188.225.31.197/bpk-tv/000000520/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Gagsnetwork
-http://188.225.31.197/bpk-tv/000006639/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",HIT TV
-http://188.225.31.197/bpk-tv/000001213/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Анекдот ТВ
-http://188.225.31.197/bpk-tv/000001921/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Телекафе
-http://188.225.31.197/bpk-tv/000000206/tve/index.m3u8
 #EXTINF:-1 group-title="ТаймВэб (VPN)",О!
 http://188.225.31.197/bpk-tv/000002928/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",НСТ
-http://188.225.31.197/bpk-tv/000000078/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Твоё телевидение
-http://188.225.31.197/bpk-tv/000002721/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Новый игровой канал
-http://188.225.31.197/bpk-tv/000008615/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Amedia 1 HD
-http://188.225.31.197/bpk-tv/000000710/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Amedia 2
-http://188.225.31.197/bpk-tv/000000351/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Amedia HiT HD
-http://188.225.31.197/bpk-tv/000001662/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Amedia Premium HD
-http://188.225.31.197/bpk-tv/000000709/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Cinema
-http://188.225.31.197/bpk-tv/000000239/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Hollywood
-http://188.225.31.197/bpk-tv/000000031/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",TV1000 Русское
-http://188.225.31.197/bpk-tv/000003748/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Дом кино
-http://188.225.31.197/bpk-tv/000000050/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Дом кино Premium HD
-http://188.225.31.197/bpk-tv/000002943/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Еврокино
-http://188.225.31.197/bpk-tv/000000152/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Кинеко HD
-http://188.225.31.197/bpk-tv/000008136/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Ключ
-http://188.225.31.197/bpk-tv/000004585/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Мосфильм. Золотая коллекция
-http://188.225.31.197/bpk-tv/000006365/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Мужской
-http://188.225.31.197/bpk-tv/000000286/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Победа
-http://188.225.31.197/bpk-tv/000004534/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Русский Иллюзион
-http://188.225.31.197/bpk-tv/000004207/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Феникс+Кино
-http://188.225.31.197/bpk-tv/000000125/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",8 канал
-http://188.225.31.197/bpk-tv/000001564/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Bollywood HD
-http://188.225.31.197/bpk-tv/000001419/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Техно 24
-http://188.225.31.197/bpk-tv/000000008/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Romance
-http://188.225.31.197/bpk-tv/000008780/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Suspense
-http://188.225.31.197/bpk-tv/000008739/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Народ Всё Видит
-http://188.225.31.197/bpk-tv/000008614/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Cartoon Classics
-http://188.225.31.197/bpk-tv/000008795/tve/index.m3u8
 #EXTINF:-1 group-title="ТаймВэб (VPN)",В гостях у сказки
 http://188.225.31.197/bpk-tv/000002762/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Первый канал Евразия
-http://188.225.31.197/bpk-tv/000000669/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",ТВЦ HD
-http://188.225.31.197/bpk-tv/000000112/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",31 канал
-http://188.225.31.197/bpk-tv/000000663/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",5 канал (региональный)
-http://188.225.31.197/bpk-tv/000000950/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Alem 1HD
-http://188.225.31.197/bpk-tv/000005449/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Alem 2HD
-http://188.225.31.197/bpk-tv/000005450/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Almaty tv
-http://188.225.31.197/bpk-tv/000000667/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Balapan
-http://188.225.31.197/bpk-tv/000005178/tve/index.m3u8
 #EXTINF:-1 group-title="ТаймВэб (VPN)",Gulli Girl
 http://188.225.31.197/bpk-tv/000000284/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Jambyl
-http://188.225.31.197/bpk-tv/000003244/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Saryarqa
-http://188.225.31.197/bpk-tv/000003146/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Semei
-http://188.225.31.197/bpk-tv/000003250/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",TLC HD
-http://188.225.31.197/bpk-tv/000001498/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Turan TV
-http://188.225.31.197/bpk-tv/000001404/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Women's Magazine HD
-http://188.225.31.197/bpk-tv/000008065/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Алау ТВ
-http://188.225.31.197/bpk-tv/000001511/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Домашний International
-http://188.225.31.197/bpk-tv/000002348/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Ирбис TV
-http://188.225.31.197/bpk-tv/000001513/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",КТК HD
-http://188.225.31.197/bpk-tv/000000672/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Карусель International
-http://188.225.31.197/bpk-tv/000000781/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Новое Телевидение SD
-http://188.225.31.197/bpk-tv/000001380/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Перец
-http://188.225.31.197/bpk-tv/000001248/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Пятница International
-http://188.225.31.197/bpk-tv/000007816/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",РИКА-ТВ
-http://188.225.31.197/bpk-tv/000001514/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Рен ТВ
-http://188.225.31.197/bpk-tv/000002472/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",СТС International
-http://188.225.31.197/bpk-tv/000000428/tve/index.m3u8
 #EXTINF:-1 group-title="ТаймВэб (VPN)",СТС Kids
 http://188.225.31.197/bpk-tv/000003892/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Седьмой канал
-http://188.225.31.197/bpk-tv/000000659/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Той Думан
-http://188.225.31.197/bpk-tv/000002936/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Туркестан
-http://188.225.31.197/bpk-tv/000007248/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Euronews
-http://188.225.31.197/bpk-tv/000000025/tve/index.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Sport+ 🇰🇿
 http://188.225.31.197/bpk-tv/000008731/tve/index.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Q Football 🇰🇿
@@ -2926,6 +2927,7 @@ http://188.225.31.197/bpk-tv/000004208/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000003038/tve/index.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Setanta Qazaqstan HD
 http://188.225.31.197/bpk-tv/000002649/tve/index.m3u8
+
 
 
 
