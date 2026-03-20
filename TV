@@ -2615,6 +2615,8 @@ http://91.226.120.120/chid17/tracks-v1a1/mono.m3u8
 http://91.226.120.120/chid142/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)",Охота и Рыбалка
 http://91.226.120.120/chid149/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)",VIASAT History
+http://91.226.120.120/chid105/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)",Живая Планета
 http://91.226.120.120/chid414/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)",Первый Космический
@@ -2711,7 +2713,7 @@ http://91.226.120.120/chid11/tracks-v1a1/mono.m3u8
 http://91.226.120.120/chid32/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)",Ю
 http://91.226.120.120/chid137/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)",ТИ ВИ СИ
+#EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)" tvg-id="tivisi-hd",ТИ ВИ СИ
 http://91.226.120.120/chid290/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)",Спас
 http://91.226.120.120/chid7/tracks-v1a1/mono.m3u8
@@ -2729,11 +2731,11 @@ http://91.226.120.120/chid144/tracks-v1a1/mono.m3u8
 http://91.226.120.120/chid20/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)",RT Doc
 http://91.226.120.120/chid284/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)",Food
+#EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)",Food Time
 http://91.226.120.120/chid415/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)",Fashion TV
 http://91.226.120.120/chid169/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)",CТС
+#EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)",СТС
 http://91.226.120.120/chid219/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)",Пятый канал
 http://91.226.120.120/chid13/tracks-v1a1/mono.m3u8
@@ -2755,8 +2757,6 @@ http://91.226.120.120/chid54/tracks-v1a1/mono.m3u8
 http://91.226.120.120/chid18/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Viasat Sport
 http://91.226.120.120/chid51/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",VIASAT History
-http://91.226.120.120/chid105/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",KHL
 http://91.226.120.120/chid55/tracks-v1a1/mono.m3u8
 
