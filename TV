@@ -662,163 +662,163 @@ http://hls.stb.md/MATCH_PLANETA_H264/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cC
 
 
 #EXTINF:-1 group-title="Voka",Россия РТР
-http://46.53.208.4:80/live/5.m3u8
+http://46.53.208.4:80/live/5-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Voka",Россия К
-http://46.53.208.4:80/live/214.m3u8
+http://46.53.208.4:80/live/214-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Voka",ОНТ
-http://46.53.208.4:80/live/849.m3u8
+http://46.53.208.4:80/live/849-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Voka",НТВ Право
-http://46.53.208.4:80/live/992.m3u8
+http://46.53.208.4:80/live/992-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Voka",НТВ Стиль
-http://46.53.208.4:80/live/175.m3u8
+http://46.53.208.4:80/live/175-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Voka" tvg-id="stv-by",СТВ
-http://46.53.208.4:80/live/753.m3u8
+http://46.53.208.4:80/live/753-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Voka",НТВ-Беларусь
-http://46.53.208.4:80/live/6.m3u8
+http://46.53.208.4:80/live/6-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Voka",Беларусь 2
-http://46.53.208.4:80/live/693.m3u8
+http://46.53.208.4:80/live/693-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Voka",Беларусь 3
-http://46.53.208.4:80/live/8.m3u8
+http://46.53.208.4:80/live/8-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Voka" tvg-id="belarus4-vitebsk",Беларусь 4 Витебск
-http://46.53.208.4:80/live/2012.m3u8
+http://46.53.208.4:80/live/2012-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Voka",RTG TV
-http://46.53.208.4:80/live/131.m3u8
+http://46.53.208.4:80/live/131-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Voka",Нано ТВ
-http://46.53.208.4:80/live/211.m3u8
+http://46.53.208.4:80/live/211-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Voka",Рыбалка и охота
-http://46.53.208.4:80/live/244.m3u8
+http://46.53.208.4:80/live/244-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Voka",Viasat Explore
-http://46.53.208.4:80/live/540.m3u8
+http://46.53.208.4:80/live/540-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Voka",Viasat History
-http://46.53.208.4:80/live/541.m3u8
+http://46.53.208.4:80/live/541-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Voka",Viasat Nature
-http://46.53.208.4:80/live/542.m3u8
+http://46.53.208.4:80/live/542-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Voka",Travel+Adventure HD
-http://46.53.208.4:80/live/964.m3u8
+http://46.53.208.4:80/live/964-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Voka",Точка отрыва
-http://46.53.208.4:80/live/602.m3u8
+http://46.53.208.4:80/live/602-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Voka",RTG HD
-http://46.53.208.4:80/live/1406.m3u8
+http://46.53.208.4:80/live/1406-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Voka",Домашние животные
-http://46.53.208.4:80/live/2112.m3u8
+http://46.53.208.4:80/live/2112-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Voka",Дикая Рыбалка HD
-http://46.53.208.4:80/live/2324.m3u8
+http://46.53.208.4:80/live/2324-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Voka",Дикая охота HD
-http://46.53.208.4:80/live/2325.m3u8
+http://46.53.208.4:80/live/2325-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Voka",Terra HD
-http://46.53.208.4:80/live/1500.m3u8
+http://46.53.208.4:80/live/1500-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Voka",Curiosity Stream
-http://46.53.208.4:80/live/994.m3u8
+http://46.53.208.4:80/live/994-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Voka",Зоопарк
-http://46.53.208.4:80/live/996.m3u8
+http://46.53.208.4:80/live/996-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Voka",Оружие
-http://46.53.208.4:80/live/168.m3u8
+http://46.53.208.4:80/live/168-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Voka",Наука 2.0
-http://46.53.208.4:80/live/167.m3u8
+http://46.53.208.4:80/live/167-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Voka",Киносат
-http://46.53.208.4:80/live/59.m3u8
+http://46.53.208.4:80/live/59-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Voka",Сарафан
-http://46.53.208.4:80/live/84.m3u8
+http://46.53.208.4:80/live/84-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Voka" tvg-id="voentv-by",Воен ТВ   
-http://46.53.208.4:80/live/101.m3u8
+http://46.53.208.4:80/live/101-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Voka",Психология 21
-http://46.53.208.4:80/live/109.m3u8
+http://46.53.208.4:80/live/109-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Voka",Epic
-http://46.53.208.4:80/live/171.m3u8
+http://46.53.208.4:80/live/171-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Voka",.Sci-Fi
-http://46.53.208.4:80/live/207.m3u8
+http://46.53.208.4:80/live/207-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Voka",Luxury
-http://46.53.208.4:80/live/212.m3u8
+http://46.53.208.4:80/live/212-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Voka",Наше ТВ
-http://46.53.208.4:80/live/218.m3u8
+http://46.53.208.4:80/live/218-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Voka",Кинопоказ HD
-http://46.53.208.4:80/live/285.m3u8
+http://46.53.208.4:80/live/285-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Voka",Феникс+кино
-http://46.53.208.4:80/live/332.m3u8
+http://46.53.208.4:80/live/332-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Voka",Ретро
-http://46.53.208.4:80/live/335.m3u8
+http://46.53.208.4:80/live/335-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Voka",Драйв
-http://46.53.208.4:80/live/336.m3u8
+http://46.53.208.4:80/live/336-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Voka",Усадьба
-http://46.53.208.4:80/live/341.m3u8
+http://46.53.208.4:80/live/341-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Voka",Viju TV1000 Новелла HD
-http://46.53.208.4:80/live/545.m3u8
+http://46.53.208.4:80/live/545-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Voka",Союз
-http://46.53.208.4:80/live/583.m3u8
+http://46.53.208.4:80/live/583-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Voka",Авто 24
-http://46.53.208.4:80/live/588.m3u8
+http://46.53.208.4:80/live/588-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Voka",Иллюзион+
-http://46.53.208.4:80/live/603.m3u8
+http://46.53.208.4:80/live/603-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Voka",Русский Иллюзион
-http://46.53.208.4:80/live/616.m3u8
+http://46.53.208.4:80/live/616-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Voka",Мир
-http://46.53.208.4:80/live/754.m3u8
+http://46.53.208.4:80/live/754-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Voka",Еврокино
-http://46.53.208.4:80/live/903.m3u8
+http://46.53.208.4:80/live/903-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Voka",Домашний
-http://46.53.208.4:80/live/961.m3u8
+http://46.53.208.4:80/live/961-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Voka",8 канал
-http://46.53.208.4:80/live/962.m3u8
+http://46.53.208.4:80/live/962-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Voka",Светлое ТВ
-http://46.53.208.4:80/live/973.m3u8
+http://46.53.208.4:80/live/973-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Voka",ТВЦ+TV
-http://46.53.208.4:80/live/977.m3u8
+http://46.53.208.4:80/live/977-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Voka",Перец
-http://46.53.208.4:80/live/971.m3u8
+http://46.53.208.4:80/live/971-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Voka",Ultra 4K Extreme
-http://46.53.208.4:80/live/1042.m3u8
+http://46.53.208.4:80/live/1042-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Voka",VHS-ка
-http://46.53.208.4:80/live/1123.m3u8
+http://46.53.208.4:80/live/1123-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Voka",Мосфильм. Золотая коллекция
-http://46.53.208.4:80/live/1124.m3u8
+http://46.53.208.4:80/live/1124-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Voka",Novella TV
-http://46.53.208.4:80/live/1205.m3u8
+http://46.53.208.4:80/live/1205-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Voka",Звезда Плюс
-http://46.53.208.4:80/live/1247.m3u8
+http://46.53.208.4:80/live/1247-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Voka",.Red
-http://46.53.208.4:80/live/1400.m3u8
+http://46.53.208.4:80/live/1400-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Voka",Время
-http://46.53.208.4:80/live/1405.m3u8
+http://46.53.208.4:80/live/1405-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Voka",Вопросы и ответы
-http://46.53.208.4:80/live/1515.m3u8
+http://46.53.208.4:80/live/1515-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Voka",Start Air
-http://46.53.208.4:80/live/1804.m3u8
+http://46.53.208.4:80/live/1804-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Voka",Кинеко
-http://46.53.208.4:80/live/1812.m3u8
+http://46.53.208.4:80/live/1812-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Voka",Мир 24
-http://46.53.208.4:80/live/1908.m3u8
+http://46.53.208.4:80/live/1908-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Voka",TV XXI
-http://46.53.208.4:80/live/2018.m3u8
+http://46.53.208.4:80/live/2018-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Voka",Cinema
-http://46.53.208.4:80/live/2092.m3u8
+http://46.53.208.4:80/live/2092-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Voka",Наша Тема
-http://46.53.208.4:80/live/2103.m3u8
+http://46.53.208.4:80/live/2103-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Voka",Телекафе
-http://46.53.208.4:80/live/2812.m3u8
+http://46.53.208.4:80/live/2812-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Voka",Лёва
-http://46.53.208.4:80/live/2424.m3u8
+http://46.53.208.4:80/live/2424-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Voka",СТС kids
-http://46.53.208.4:80/live/1448.m3u8
+http://46.53.208.4:80/live/1448-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Voka",Киномульт
-http://46.53.208.4:80/live/157.m3u8
+http://46.53.208.4:80/live/157-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Voka",Cartoon Classics
-http://46.53.208.4:80/live/1303.m3u8
+http://46.53.208.4:80/live/1303-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Voka",Duck TV
-http://46.53.208.4:80/live/1492.m3u8
+http://46.53.208.4:80/live/1492-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Voka",RU.TV
-http://46.53.208.4:80/live/972.m3u8
+http://46.53.208.4:80/live/972-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Voka" tvg-id="belmuztv",Бел Муз ТВ
-http://46.53.208.4:80/live/966.m3u8
+http://46.53.208.4:80/live/966-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Voka",Европа плюс ТВ
-http://46.53.208.4:80/live/963.m3u8
+http://46.53.208.4:80/live/963-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Voka",Шансон ТВ
-http://46.53.208.4:80/live/235.m3u8
+http://46.53.208.4:80/live/235-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Voka",Bridge HD
-http://46.53.208.4:80/live/110.m3u8
+http://46.53.208.4:80/live/110-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Voka",MMA-TV.COM
-http://46.53.208.4:80/live/2100.m3u8
+http://46.53.208.4:80/live/2100-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Voka",Беларусь 5
-http://46.53.208.4:80/live/9.m3u8
+http://46.53.208.4:80/live/9-req_offset_28000000-req_window_0-1k_v5.m3u8
 
 
 
