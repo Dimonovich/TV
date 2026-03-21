@@ -661,6 +661,10 @@ http://hls.stb.md/MATCH_PLANETA_H264/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cC
 
 
 
+
+
+
+
 #EXTINF:-1 group-title="Voka",Россия РТР
 http://46.53.208.4:80/live/5-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Voka",Россия К
@@ -671,6 +675,8 @@ http://46.53.208.4:80/live/849-req_offset_28000000-req_window_0-1k_v5.m3u8
 http://46.53.208.4:80/live/992-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Voka",НТВ Стиль
 http://46.53.208.4:80/live/175-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 group-title="Voka",НТВ Сериал
+http://46.53.208.4:80/live/2065-req_offset_28000000-req_window_0-3k_v5.m3u8
 #EXTINF:-1 group-title="Voka" tvg-id="stv-by",СТВ
 http://46.53.208.4:80/live/753-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Voka",НТВ-Беларусь
@@ -743,6 +749,20 @@ http://46.53.208.4:80/live/336-req_offset_28000000-req_window_0-1k_v5.m3u8
 http://46.53.208.4:80/live/341-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Voka",Viju TV1000 Новелла HD
 http://46.53.208.4:80/live/545-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 group-title="Voka",Viju TV1000 Romantica HD
+http://46.53.208.4:80/live/3111-req_offset_28000000-req_window_0-3k_v5.m3u8
+#EXTINF:-1 group-title="Voka",TV1000 Русское кино 
+http://46.53.208.4:80/live/5109-req_offset_28000000-req_window_0-3k_v5.m3u8
+#EXTINF:-1 group-title="Voka",Дом Кино Премиум HD
+http://46.53.208.4:80/live/5111-req_offset_28000000-req_window_0-3k_v5.m3u8
+#EXTINF:-1 group-title="Voka",START World
+http://46.53.208.4:80/live/9011-req_offset_28000000-req_window_0-3k_v5.m3u8
+#EXTINF:-1 group-title="Voka",НСТ
+http://46.53.208.4:80/live/6008-req_offset_28000000-req_window_0-3k_v5.m3u8
+#EXTINF:-1 group-title="Voka",Муви ТВ
+http://46.53.208.4:80/live/5007-req_offset_28000000-req_window_0-3k_v5.m3u8
+#EXTINF:-1 group-title="Voka",.black
+http://46.53.208.4:80/live/3001-req_offset_28000000-req_window_0-3k_v5.m3u8
 #EXTINF:-1 group-title="Voka",Союз
 http://46.53.208.4:80/live/583-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Voka",Авто 24
@@ -759,6 +779,8 @@ http://46.53.208.4:80/live/903-req_offset_28000000-req_window_0-1k_v5.m3u8
 http://46.53.208.4:80/live/961-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Voka",8 канал
 http://46.53.208.4:80/live/962-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 group-title="Voka" tvg-id="zvyazda-by",Звязда BY
+http://46.53.208.4:80/live/6238-req_offset_28000000-req_window_0-3k_v5.m3u8
 #EXTINF:-1 group-title="Voka",Светлое ТВ
 http://46.53.208.4:80/live/973-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Voka",ТВЦ+TV
@@ -795,6 +817,12 @@ http://46.53.208.4:80/live/2092-req_offset_28000000-req_window_0-1k_v5.m3u8
 http://46.53.208.4:80/live/2103-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Voka",Телекафе
 http://46.53.208.4:80/live/2812-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 group-title="Voka",Советские мультфильмы
+http://46.53.208.4:80/live/3007-req_offset_28000000-req_window_0-3k_v5.m3u8
+#EXTINF:-1 group-title="Voka",Бобёр
+http://46.53.208.4:80/live/3012-req_offset_28000000-req_window_0-3k_v5.m3u8
+#EXTINF:-1 group-title="Voka",О!
+http://46.53.208.4:80/live/3013-req_offset_28000000-req_window_0-3k_v5.m3u8
 #EXTINF:-1 group-title="Voka",Лёва
 http://46.53.208.4:80/live/2424-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Voka",СТС kids
@@ -805,6 +833,14 @@ http://46.53.208.4:80/live/157-req_offset_28000000-req_window_0-1k_v5.m3u8
 http://46.53.208.4:80/live/1303-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Voka",Duck TV
 http://46.53.208.4:80/live/1492-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 group-title="Voka",Карусель
+http://46.53.208.4:80/live/5123-req_offset_28000000-req_window_0-3k_v5.m3u8
+#EXTINF:-1 group-title="Voka",Уникум
+http://46.53.208.4:80/live/5512-req_offset_28000000-req_window_0-3k_v5.m3u8
+#EXTINF:-1 group-title="Voka",Мультиландия
+http://46.53.208.4:80/live/5108-req_offset_28000000-req_window_0-3k_v5.m3u8
+#EXTINF:-1 group-title="Voka",Мульт
+http://46.53.208.4:80/live/6007-req_offset_28000000-req_window_0-3k_v5.m3u8
 #EXTINF:-1 group-title="Voka",RU.TV
 http://46.53.208.4:80/live/972-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Voka" tvg-id="belmuztv",Бел Муз ТВ
@@ -819,6 +855,12 @@ http://46.53.208.4:80/live/110-req_offset_28000000-req_window_0-1k_v5.m3u8
 http://46.53.208.4:80/live/2100-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Voka",Беларусь 5
 http://46.53.208.4:80/live/9-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 group-title="Voka",Viasat sport
+http://46.53.208.4:80/live/6005-req_offset_28000000-req_window_0-3k_v5.m3u8
+
+
+
+
 
 
 
