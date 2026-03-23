@@ -162,6 +162,8 @@ https://api-tv.ipnet.ua/api/v1/manifest/2118742632.m3u8
 http://185.221.213.254:8080/Okko/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://i.postimg.cc/0jSkDzbr/Sun.jpg",SunsetOne
 https://str-01.sunset-media.org/SunsetOne/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://1tourtv.ru/wp-content/uploads/2026/01/sayt-scaled.png",Первый Туристический
+http://91.186.196.185/hls/hotels/stream.m3u8
 #EXTINF:-1 group-title="TEST (VPN)" tvg-id="rus-hualiang-tv" ,Китай ТВ HD
 https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",РОССИЯ 24
