@@ -168,12 +168,8 @@ https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3
 http://77.232.131.211/Rossiya24/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",Travel+Adventure HD
 http://77.232.131.211/TravelAdventureHD/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",Спас
-http://77.232.131.211/Spas/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",O2TV
 http://77.232.131.211/O2TV/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",RU.TV
-http://77.232.131.211/RUTV/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",Карусель
 http://77.232.131.211/Karusel/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",MCM HD
@@ -282,10 +278,6 @@ http://vod.tuva.ru/myplanet/index.m3u8
 http://vod.tuva.ru/nauka2/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",OVAA TV
 http://vod.tuva.ru/ovaa/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",43 канал HD
-http://sochinskayatrk.ru/hdtv/hls/43K_HD/playlist.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",CTPK HD
-http://sochinskayatrk.ru/hdtv/hls/CTPK_HD/playlist.m3u8
 #EXTINF:-1 group-title="TEST (VPN)" tvg-logo="http://epg.it999.ru/img2/5441.png",ТВОЕ ТВ HD
 http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://i.postimg.cc/m2FWVxW3/Background-Eraser-20230805-095630572.png",ТВОЕ ТВ HD - ЮМОР
@@ -2858,7 +2850,7 @@ http://cdn.kubteltv.workers.dev/?ID=453
 http://cdn.kubteltv.workers.dev/?ID=454
 #EXTINF:-1 group-title="Кубань-Телеком (VPN)",Bollywood HD
 http://cdn.kubteltv.workers.dev/?ID=456
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Food Time HD
+#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Еда Премиум
 http://cdn.kubteltv.workers.dev/?ID=457
 #EXTINF:-1 group-title="Кубань-Телеком (VPN)",Мультимузыка
 http://cdn.kubteltv.workers.dev/?ID=366
