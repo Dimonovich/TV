@@ -256,6 +256,12 @@ http://cdn-01.bonus-tv.ru:80/kriktv_edge/index.m3u8
 http://cdn-01.bonus-tv.ru:80/prosveschenie_edge/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",Arirang Korea
 https://cdn-01.bonus-tv.ru/arirang_edge/playlist.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",TVM Channel
+http://cdn-01.bonus-tv.ru:80/tvm_edge/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Калейдоскоп ТВ
+http://cdn-01.bonus-tv.ru:80/Kaleidoskop_edge/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Вместе-РФ
+http://cdn-01.bonus-tv.ru:80/vmesterf/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",Матч ТВ
 http://tv.tuva.ru/machtv/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",Звезда (+4)
