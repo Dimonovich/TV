@@ -26,14 +26,6 @@ https://kino-stream.online/hls/DTRZONA1.m3u8
 https://kino-stream.online/hls/DTRZONA2.m3u8
 #EXTINF:-1 group-title="TEST ⓵" tvg-id="osh-tv-kg" ,ОшТВ
 http://212.42.117.34:8080/hls/OshTV.m3u8
-#EXTINF:-1 group-title="TEST ⓵", .Sci-Fi
-http://188.237.47.212:6001
-#EXTINF:-1 group-title="TEST ⓵", .black
-http://188.237.47.212:6007
-#EXTINF:-1 group-title="TEST ⓵",Nat Geo Wild HD
-http://188.237.47.212:6005
-#EXTINF:-1 group-title="TEST ⓵",Fox Life HD
-http://188.237.47.212:6008
 #EXTINF:-1 group-title="TEST ⓵",Домашний International
 http://cdn4.skygo.mn/live/disk1/Domashni/HLSv3-FTA/Domashni.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Перец International
@@ -84,6 +76,8 @@ http://88.99.215.227/FilmUADrama/index.m3u8
 http://catchup.videoline.ru/cinema/playlist.m3u8
 #EXTINF:-1 group-title="TEST ⓵", Матч ТВ
 http://catchup.videoline.ru/match/playlist.m3u8
+#EXTINF:-1 group-title="TEST ⓵", Патриот
+http://catchup.videoline.ru/asvtv/playlist.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Матч! Страна
 http://ukr.ukrainske.tv/134/keytvainua/video.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Viasat Kino Comedy
@@ -114,24 +108,6 @@ http://185.46.48.18:80/iriston/mono.m3u8
 http://185.46.48.18:80/match/mono.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Шансон ТВ
 http://185.46.48.18:80/shanson/mono.m3u8
-#EXTINF:-1 group-title="TEST ⓵",1+1 HD
-http://cdn-bal.srv4you.net/0151/mpegts
-#EXTINF:-1 group-title="TEST ⓵",ІНТЕР HD
-http://cdn-bal.srv4you.net/0153/mpegts
-#EXTINF:-1 group-title="TEST ⓵",2+2 HD
-http://cdn-bal.srv4you.net/0152/mpegts
-#EXTINF:-1 group-title="TEST ⓵",НТН HD
-http://cdn-bal.srv4you.net/0157/mpegts
-#EXTINF:-1 group-title="TEST ⓵",K1 HD
-http://cdn-bal.srv4you.net/0158/mpegts
-#EXTINF:-1 group-title="TEST ⓵",K2 HD
-http://cdn-bal.srv4you.net/0169/mpegts
-#EXTINF:-1 group-title="TEST ⓵",СТБ HD
-http://cdn-bal.srv4you.net/0160/mpegts
-#EXTINF:-1 group-title="TEST ⓵",ТЕТ HD
-http://cdn-bal.srv4you.net/0164/mpegts
-#EXTINF:-1 group-title="TEST ⓵",Мега HD
-http://cdn-bal.srv4you.net/0171/mpegts
 #EXTINF:-1 group-title="TEST ⓵", Київ HD
 https://api-tv.ipnet.ua/api/v1/manifest/1293296300.m3u8
 #EXTINF:-1 group-title="TEST ⓵", 5 Канал HD
@@ -1171,52 +1147,6 @@ https://a3569457567-s70378.cdn.ngenix.net/kxl/1/index.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆", MMA-TV.com
 https://a3569457567-s70378.cdn.ngenix.net/m1_global/1/index.m3u8
 
-
-
-
-
-#EXTINF:-1 group-title="Сириус",ПЕРВЫЙ КАНАЛ
-http://31.131.141.195:8000/play/1010/index.m3u8
-#EXTINF:-1 group-title="Сириус",Рен ТВ
-http://31.131.141.195:8000/play/2010/index.m3u8
-#EXTINF:-1 group-title="Сириус",Россия 1
-http://31.131.141.195:8000/play/1020/index.m3u8
-#EXTINF:-1 group-title="Сириус",НТВ
-http://31.131.141.195:8000/play/1040/index.m3u8
-#EXTINF:-1 group-title="Сириус",ТНТ
-http://31.131.141.195:8000/play/2090/index.m3u8
-#EXTINF:-1 group-title="Сириус",Россия К
-http://31.131.141.195:8000/play/1060/index.m3u8
-#EXTINF:-1 group-title="Сириус",РОССИЯ 24
-http://31.131.141.195:8000/play/1070/index.m3u8
-#EXTINF:-1 group-title="Сириус",Пятый канал
-http://31.131.141.195:8000/play/1050/index.m3u8
-#EXTINF:-1 group-title="Сириус",ОТР
-http://31.131.141.195:8000/play/1090/index.m3u8
-#EXTINF:-1 group-title="Сириус",ТВЦ
-http://31.131.141.195:8000/play/1100/index.m3u8
-#EXTINF:-1 group-title="Сириус",Спас
-http://31.131.141.195:8000/play/2020/index.m3u8
-#EXTINF:-1 group-title="Сириус",СТС
-http://31.131.141.195:8000/play/2030/index.m3u8
-#EXTINF:-1 group-title="Сириус",Пятница
-http://31.131.141.195:8000/play/2060/index.m3u8
-#EXTINF:-1 group-title="Сириус",Домашний
-http://31.131.141.195:8000/play/a001/index.m3u8
-#EXTINF:-1 group-title="Сириус",ТВ3
-http://31.131.141.195:8000/play/a002/index.m3u8
-#EXTINF:-1 group-title="Сириус",Мир
-http://31.131.141.195:8000/play/a003/index.m3u8
-#EXTINF:-1 group-title="Сириус",Оплот 2
-http://31.131.141.195:8000/play/a006/index.m3u8
-#EXTINF:-1 group-title="Сириус",Звезда
-http://31.131.141.195:8000/play/2070/index.m3u8
-#EXTINF:-1 group-title="Сириус",МузТВ
-http://31.131.141.195:8000/play/2100/index.m3u8
-#EXTINF:-1 group-title="Сириус",Карусель
-http://31.131.141.195:8000/play/1080/index.m3u8
-#EXTINF:-1 group-title="Сириус",Матч ТВ
-http://31.131.141.195:8000/play/1030/index.m3u8
 
 
 
