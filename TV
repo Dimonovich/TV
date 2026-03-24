@@ -26,6 +26,8 @@ https://kino-stream.online/hls/DTRZONA1.m3u8
 https://kino-stream.online/hls/DTRZONA2.m3u8
 #EXTINF:-1 group-title="TEST ⓵" tvg-id="osh-tv-kg" ,ОшТВ
 http://212.42.117.34:8080/hls/OshTV.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Победа
+http://cdn4.skygo.mn/live/disk1/Pobeda/HLSv3-FTA/Pobeda.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Домашний International
 http://cdn4.skygo.mn/live/disk1/Domashni/HLSv3-FTA/Domashni.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Перец International
