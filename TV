@@ -2223,7 +2223,7 @@ https://cp1.server89.com:19360/radiostudioonelive/radiostudioonelive.m3u8
 
 
 
-#EXTINF:-1 group-title="С сайтов" tvg-logo="https://pobeda.tv/images/logo_header.png",Победа
+#EXTINF:-1 group-title="С сайтов" ,Победа
 #EXTVLCOPT:http-referrer=https://pobeda.tv/
 https://pkvc-hls3.cdnvideo.ru/Pobeda/smil:Pobeda.smil/chunklist_b5128000_slru.m3u8
 #EXTINF:-1 group-title="С сайтов" ,Бобер
@@ -2293,11 +2293,11 @@ https://streamer103.neterra.tv/thisisbulgaria/thisisbulgaria_HD.m3u8
 
 #EXTINF:-1 group-title="С сайтов (VPN)" ,Первый канал Евразия
 https://1tvkz-stream.daitsuna.net/1tvkz/1tvkz/1tvkz/1tvkz_720/chunks.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://epg.it999.ru/img/983.png",Первый канал HD
+#EXTINF:-1 group-title="С сайтов (VPN)" ,Первый канал HD
 https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://epg.it999.ru/img/983.png",Первый канал (+4)
+#EXTINF:-1 group-title="С сайтов (VPN)" ,Первый канал (+4)
 http://edge4.1internet.tv/dash-live12/streams/1tv-orbit-plus-4/1tv-orbit-plus-4.mpd
-#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://cdn-static.ntv.ru/home/news/2023/20230511/kanal_io.jpg",Неизвестная Россия
+#EXTINF:-1 group-title="С сайтов (VPN)" ,Неизвестная Россия
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)", Россия 1 HD
@@ -2324,36 +2324,38 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" ,Россия К
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://epg.it999.ru/img/2001.png",НТВ HD
+#EXTINF:-1 group-title="С сайтов (VPN)" ,НТВ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://epg.it999.ru/img/2001.png",НТВ HD
+#EXTINF:-1 group-title="С сайтов (VPN)" ,НТВ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://cdn.ntv.ru/ntv0_hd/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://epg.it999.ru/img/2036.png",НТВ +1
+#EXTINF:-1 group-title="С сайтов (VPN)" ,НТВ +1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://cdn.ntv.ru/ntv1/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://epg.it999.ru/img/2036.png",НТВ +2
+#EXTINF:-1 group-title="С сайтов (VPN)" ,НТВ +2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://cdn.ntv.ru/ntv2/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://epg.it999.ru/img/2964.png",НТВ +4
+#EXTINF:-1 group-title="С сайтов (VPN)" ,НТВ +4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://cdn.ntv.ru/ntv4/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://epg.it999.ru/img/3028.png",НТВ +7
+#EXTINF:-1 group-title="С сайтов (VPN)" ,НТВ +7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://cdn.ntv.ru/ntv7/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://epg.it999.ru/img/2041.png",НТВ Хит
+#EXTINF:-1 group-title="С сайтов (VPN)" ,НТВ Хит
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://epg.it999.ru/img/1754.png",НТВ Сериал
+#EXTINF:-1 group-title="С сайтов (VPN)" ,НТВ Сериал
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://epg.it999.ru/img/1753.png",НТВ Право
+#EXTINF:-1 group-title="С сайтов (VPN)" ,НТВ Право
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://cdn.ntv.ru/th_pravo/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://epg.it999.ru/img/1755.png",НТВ Стиль
+#EXTINF:-1 group-title="С сайтов (VPN)" ,НТВ Стиль
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" ,Известия
+https://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" ,Большая Азия
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" ,Кавказ 24
@@ -2392,11 +2394,11 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-07.smil/tracks-v
 https://streaming.astrakhan.ru/telplushd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://epg.it999.ru/img/6755.png",Волжский Плюс FHD
 http://flussonic.powernet.com.ru:8080/volplus/index.fmp4.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://epg.it999.ru/img/2440.png",Тамыр
+#EXTINF:-1 group-title="С сайтов (VPN)" ,Тамыр
 https://bsttv.bonus-tv.ru/cdn/tamyr/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://epg.it999.ru/img/2464.png",БСТ
+#EXTINF:-1 group-title="С сайтов (VPN)" ,БСТ
 https://bsttv.bonus-tv.ru/cdn/bst/playlist_sdhigh.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://epg.it999.ru/img/2410.png",Курай TV
+#EXTINF:-1 group-title="С сайтов (VPN)" ,Курай TV
 https://bsttv.bonus-tv.ru/cdn/kurai/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://assets.limehd.tv/uploads/channel/10428/thumb_2224509bdab82cfcfaffe6b73fe26e7c.png",Салям
 http://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
@@ -2418,8 +2420,6 @@ http://trk555.tv:8888/live
 https://catchup.videoline.ru/iriston/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://ramtv.ru/wp-content/uploads/2021/12/cropped-Logo2020-white2-e1640011054620.png",Раменское ТВ
 https://e10-ll.facecast.net/rtv/0.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://1tourtv.ru/wp-content/uploads/2026/01/sayt-scaled.png",Первый туристический
-http://91.186.196.185/hls/hotels/stream.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://s3.spbtv.com/rosing-production/b292391b35e16613df3e.png",Белгород 24
 https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://sitv.ru/img/tvprogram/86.jpg",С1 Сургут 86
@@ -2460,11 +2460,11 @@ https://n1.slavmir.tv/live/slavmir/chunklist.m3u8
 https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://limehd.tv/images/seo/svoetv_1.jpg",Своё ТВ
 https://svoetv.mediacdn.ru/cdn/svoetv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://epg.it999.ru/img/2157.png",Архыз 24
+#EXTINF:-1 group-title="С сайтов (VPN)" ,Архыз 24
 http://live.mediacdn.ru/sr1/arhis24/playlist.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)",Север
+#EXTINF:-1 group-title="С сайтов (VPN)" ,Север
 https://live2.mediacdn.ru/sr1/sever/playlist_hdhigh.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://epg.it999.ru/img/2294.png",БелРос
+#EXTINF:-1 group-title="С сайтов (VPN)" ,БелРос
 https://live3.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)",Радость Моя
 https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
@@ -2476,15 +2476,15 @@ https://dagestan.mediacdn.ru/cdn/dagestan/playlist_hdhigh.m3u8
 https://rtpmedia-pull-hls.cdnvideo.ru/rtpmedia-pull/stream1/playlist.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://epg.it999.ru/img/2360.png",ТБН
 https://5f05e059699ae.streamlock.net/WEB_TBN/ngrp:TBN.stream-adaptive/chunklist.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://epg.it999.ru/img/2169.png",Грозный
+#EXTINF:-1 group-title="С сайтов (VPN)" ,Грозный
 https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/1.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://epg.it999.ru/img/2265.png",360°
+#EXTINF:-1 group-title="С сайтов (VPN)" ,360°
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/0.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://img15.lostpic.net/2019/09/01/7e6553c2727b709f781d5ab43b52ab9c.png",360 Новости
+#EXTINF:-1 group-title="С сайтов (VPN)" ,360 Новости
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/0.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://almaz-media.tv/templates/almaz2019/images/AK_logo-1024.png",Алмазный край
 https://stream.almaz-media.tv:8080/hls/720.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://i.otzovik.com/objects/b/790000/782877.png",ПЕРВЫЙ ТУЛЬСКИЙ
+#EXTINF:-1 group-title="С сайтов (VPN)" ,ПЕРВЫЙ ТУЛЬСКИЙ
 http://5.164.24.83/tula/1tv_hi/index.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://www.cableman.ru/sites/default/files/tverskoyprospekt.jpg",Тверской Проспект Регион
 http://stream.fastlnk.ru:88/Tverskojj_prospekt/index.m3u8
@@ -2500,9 +2500,9 @@ https://hls-volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m
 https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://i.postimg.cc/44ScwfKK/images.jpg",Евразия Орск
 https://live2-orsk.cdnvideo.ru/orsk-infochhd/infochhd/playlist.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://epg.it999.ru/img2/5816.png" tvg-id="aist",Аист ТВ
+#EXTINF:-1 group-title="С сайтов (VPN)" tvg-id="aist",Аист ТВ
 https://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://epg.it999.ru/img/2168.png",Астрахань 24
+#EXTINF:-1 group-title="С сайтов (VPN)" ,Астрахань 24
 https://streaming.astrakhan.ru/astrakhan24/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://s3.spbtv.com/rosing-production/bcf527a2cba8750f978d.png",Тюменское Время
 https://hls-sibinformburo.cdnvideo.ru/sibinformburo/sibinformburo.sdp/playlist.m3u8
@@ -2512,7 +2512,7 @@ https://live-mordovia24.cdnvideo.ru/mordovia24/streamtr/tracks-v1a1/mono.m3u8
 http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://lime-tv.ru/uploads/posts/2019-09/thumbs/1568806824_nts-tv.jpg",НТС HD
 https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/chunklist.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://epg.it999.ru/img2/6025.png",Ника ТВ
+#EXTINF:-1 group-title="С сайтов (VPN)" ,Ника ТВ
 https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://www.oreol.tv/img/mirpremium1.jpg",Мир Premium HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
@@ -2536,11 +2536,11 @@ https://s68149.cdn.ngenix.net/s68149-media-origin/lvs/tvgub/tracks-v1a1/mono.m3u
 https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://tv-11.ru/wp-content/uploads/2021/12/logo_shapka.jpg",Наш Дом
 http://85.234.33.63/stream/c11.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://epg.it999.ru/img/2478.png",Хузур ТВ
+#EXTINF:-1 group-title="С сайтов (VPN)" ,Хузур ТВ
 https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://epg.it999.ru/img/2578.png",Хабар 24
+#EXTINF:-1 group-title="С сайтов (VPN)" ,Хабар 24
 https://livekhabar-srt.cdnvideo.ru/khabarsrt/khabarsrt/playlist.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://epg.it999.ru/img/2474.png",КРЫМ 24
+#EXTINF:-1 group-title="С сайтов (VPN)" ,КРЫМ 24
 https://cdn.1tvcrimea.ru/24tvcrimea.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" tvg-id="legendarny24",Легендарный 24    
 https://sevas.1tvcrimea.ru/legendarniy24.m3u8
