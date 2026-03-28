@@ -476,7 +476,7 @@ http://46.53.208.4:80/live/6004-req_offset_28000000-req_window_0-1k_v5.m3u8
 
 
 
-#EXTINF:-1 ,TV1000 HD
+#EXTINF:-1 ,TV1000
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=hEjt2wWFQHmDkaaBYZu-1w&e=1775684230&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 ,TV1000 Action
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=HfkR7hbtpynU7YEdVK_v4A&e=1775684246&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
