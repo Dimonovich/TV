@@ -954,7 +954,7 @@ http://hls127.freeott.top:8080/Kluch/video.m3u8
 http://hls127.freeott.top:8080/Teatr/video.m3u8
 #EXTINF:-1 group-title="Cloudflare_Inc!", Кухня ТВ
 http://hls127.freeott.top:8080/Kuhnya_TV/video.m3u8
-#EXTINF:-1 group-title="Cloudflare_Inc!", Maydan
+#EXTINF:-1 group-title="Cloudflare_Inc!", Майдан
 http://hls127.freeott.top:8080/Maydan/video.m3u8
 #EXTINF:-1 group-title="Cloudflare_Inc!", Мосфильм. Золотая коллекция
 http://hls127.freeott.top:8080/Mosfilm/video.m3u8
@@ -2523,9 +2523,9 @@ https://a3569457567-s70378.cdn.ngenix.net/fox_life/1/index.m3u8
 https://a3569457567-s70378.cdn.ngenix.net/illusion_plus/1/index.m3u8
 #EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Зоопарк
 https://a3569457567-s70378.cdn.ngenix.net/zoopark/2/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", h1
+#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Armenia 1
 https://a3569457567-s70378.cdn.ngenix.net/h1/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", h2
+#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Armenia 2
 https://a3569457567-s70378.cdn.ngenix.net/h2/1/index.m3u8
 #EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Известия
 https://a3569457567-s70378.cdn.ngenix.net/izvestiya/1/index.m3u8
@@ -2593,295 +2593,6 @@ https://a3569457567-s70378.cdn.ngenix.net/m1_global/1/index.m3u8
 
 
 
-
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Первый канал
-http://cdn.kubteltv.workers.dev/?ID=01
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Россия 1
-http://cdn.kubteltv.workers.dev/?ID=02
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Россия К
-http://cdn.kubteltv.workers.dev/?ID=06
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Россия 24
-http://cdn.kubteltv.workers.dev/?ID=07
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",ТНТ HD
-http://cdn.kubteltv.workers.dev/?ID=373
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",ТНТ
-http://cdn.kubteltv.workers.dev/?ID=19
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",ТНТ4
-http://cdn.kubteltv.workers.dev/?ID=32
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",НТВ Хит
-http://cdn.kubteltv.workers.dev/?ID=329
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",НТВ Стиль
-http://cdn.kubteltv.workers.dev/?ID=330
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",НТВ Право
-http://cdn.kubteltv.workers.dev/?ID=331
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",НТВ Сериал
-http://cdn.kubteltv.workers.dev/?ID=332
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",НТВ HD
-http://cdn.kubteltv.workers.dev/?ID=375
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",НТВ
-http://cdn.kubteltv.workers.dev/?ID=04
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",РЕН ТВ HD
-http://cdn.kubteltv.workers.dev/?ID=376
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",РЕН ТВ
-http://cdn.kubteltv.workers.dev/?ID=11
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Охотник и рыболов HD
-http://cdn.kubteltv.workers.dev/?ID=259
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Телепутешествия
-http://cdn.kubteltv.workers.dev/?ID=257
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Viasat Nature
-http://cdn.kubteltv.workers.dev/?ID=262
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Viasat Explore
-http://cdn.kubteltv.workers.dev/?ID=263
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Viasat History
-http://cdn.kubteltv.workers.dev/?ID=264
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Поехали!
-http://cdn.kubteltv.workers.dev/?ID=268
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",RTG International
-http://cdn.kubteltv.workers.dev/?ID=333
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",RTG TV
-http://cdn.kubteltv.workers.dev/?ID=70
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Солнце
-http://cdn.kubteltv.workers.dev/?ID=334
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Живая природа
-http://cdn.kubteltv.workers.dev/?ID=339
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Живи активно
-http://cdn.kubteltv.workers.dev/?ID=340
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Глазами туриста
-http://cdn.kubteltv.workers.dev/?ID=341
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Глазами туриста 4K
-http://cdn.kubteltv.workers.dev/?ID=342
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Home 4K
-http://cdn.kubteltv.workers.dev/?ID=344
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Моя Планета HD
-http://cdn.kubteltv.workers.dev/?ID=349
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Живая Планета
-http://cdn.kubteltv.workers.dev/?ID=350
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Техно 24
-http://cdn.kubteltv.workers.dev/?ID=360
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",History
-http://cdn.kubteltv.workers.dev/?ID=365
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Terra
-http://cdn.kubteltv.workers.dev/?ID=148
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",The Explorers
-http://cdn.kubteltv.workers.dev/?ID=443
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Зоо ТВ
-http://cdn.kubteltv.workers.dev/?ID=258
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Загородный
-http://cdn.kubteltv.workers.dev/?ID=256
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Оружие
-http://cdn.kubteltv.workers.dev/?ID=71
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Еврокино
-http://cdn.kubteltv.workers.dev/?ID=60
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Zooпарк
-http://cdn.kubteltv.workers.dev/?ID=61
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Иллюзион+
-http://cdn.kubteltv.workers.dev/?ID=62
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Дом Кино
-http://cdn.kubteltv.workers.dev/?ID=131
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Сапфир
-http://cdn.kubteltv.workers.dev/?ID=132
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Суббота
-http://cdn.kubteltv.workers.dev/?ID=136
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Кинеко
-http://cdn.kubteltv.workers.dev/?ID=172
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Киноман
-http://cdn.kubteltv.workers.dev/?ID=182
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",TV1000
-http://cdn.kubteltv.workers.dev/?ID=191
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",TV1000 Action
-http://cdn.kubteltv.workers.dev/?ID=192
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",viju TV1000 Новелла
-http://cdn.kubteltv.workers.dev/?ID=381
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Блокбастер
-http://cdn.kubteltv.workers.dev/?ID=219
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Точка отрыва
-http://cdn.kubteltv.workers.dev/?ID=231
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Хит
-http://cdn.kubteltv.workers.dev/?ID=255
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Победа
-http://cdn.kubteltv.workers.dev/?ID=266
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Дом Кино Премиум HD
-http://cdn.kubteltv.workers.dev/?ID=272
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Kinojam 2 HD
-http://cdn.kubteltv.workers.dev/?ID=298
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",DetectiveJam HD
-http://cdn.kubteltv.workers.dev/?ID=299
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",FamilyJam HD
-http://cdn.kubteltv.workers.dev/?ID=300
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Киносерия HD
-http://cdn.kubteltv.workers.dev/?ID=316
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Киноужас
-http://cdn.kubteltv.workers.dev/?ID=200
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Кинокомедия HD
-http://cdn.kubteltv.workers.dev/?ID=328
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Киномикс HD
-http://cdn.kubteltv.workers.dev/?ID=105
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Индийское кино
-http://cdn.kubteltv.workers.dev/?ID=77
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Cinema
-http://cdn.kubteltv.workers.dev/?ID=352
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Мосфильм. Золотая коллекция
-http://cdn.kubteltv.workers.dev/?ID=353
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",FAN HD
-http://cdn.kubteltv.workers.dev/?ID=354
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Наш Кинопоказ HD
-http://cdn.kubteltv.workers.dev/?ID=414
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Русский Роман HD
-http://cdn.kubteltv.workers.dev/?ID=355
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Русский Бестселлер
-http://cdn.kubteltv.workers.dev/?ID=356
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Русский Детектив
-http://cdn.kubteltv.workers.dev/?ID=357
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",НСТ
-http://cdn.kubteltv.workers.dev/?ID=364
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",ТВ3 HD
-http://cdn.kubteltv.workers.dev/?ID=379
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Start World
-http://cdn.kubteltv.workers.dev/?ID=371
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Start Air
-http://cdn.kubteltv.workers.dev/?ID=372
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Русский Экстрим HD
-http://cdn.kubteltv.workers.dev/?ID=358
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Беларусь 24
-http://cdn.kubteltv.workers.dev/?ID=359
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",360
-http://cdn.kubteltv.workers.dev/?ID=216
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",360 Новости
-http://cdn.kubteltv.workers.dev/?ID=217
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Телекафе
-http://cdn.kubteltv.workers.dev/?ID=271
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",МИР 24
-http://cdn.kubteltv.workers.dev/?ID=345
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Сарафан
-http://cdn.kubteltv.workers.dev/?ID=361
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",5 канал
-http://cdn.kubteltv.workers.dev/?ID=05
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",ОТР
-http://cdn.kubteltv.workers.dev/?ID=09
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Время
-http://cdn.kubteltv.workers.dev/?ID=320
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",7 ТВ
-http://cdn.kubteltv.workers.dev/?ID=175
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Психология 21
-http://cdn.kubteltv.workers.dev/?ID=65
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Красная Линия
-http://cdn.kubteltv.workers.dev/?ID=91
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Пёс и Ко
-http://cdn.kubteltv.workers.dev/?ID=121
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Известия
-http://cdn.kubteltv.workers.dev/?ID=176
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",ТВЦ
-http://cdn.kubteltv.workers.dev/?ID=10
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Спас
-http://cdn.kubteltv.workers.dev/?ID=12
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",СТС
-http://cdn.kubteltv.workers.dev/?ID=13
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",СТС Love
-http://cdn.kubteltv.workers.dev/?ID=35
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Звезда
-http://cdn.kubteltv.workers.dev/?ID=17
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Мир
-http://cdn.kubteltv.workers.dev/?ID=18
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Ю
-http://cdn.kubteltv.workers.dev/?ID=23
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Че
-http://cdn.kubteltv.workers.dev/?ID=24
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Кубань 24
-http://cdn.kubteltv.workers.dev/?ID=28
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",8 Канал
-http://cdn.kubteltv.workers.dev/?ID=36
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Вместе-РФ
-http://cdn.kubteltv.workers.dev/?ID=37
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Краснодар
-http://cdn.kubteltv.workers.dev/?ID=39
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Драйв
-http://cdn.kubteltv.workers.dev/?ID=46
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Ретро ТВ
-http://cdn.kubteltv.workers.dev/?ID=47
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Точка ТВ
-http://cdn.kubteltv.workers.dev/?ID=50
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",БелРос
-http://cdn.kubteltv.workers.dev/?ID=52
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Мир HD
-http://cdn.kubteltv.workers.dev/?ID=374
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",СТС HD
-http://cdn.kubteltv.workers.dev/?ID=377
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Домашний HD
-http://cdn.kubteltv.workers.dev/?ID=378
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Пятый канал HD
-http://cdn.kubteltv.workers.dev/?ID=423
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Ювелирочка
-http://cdn.kubteltv.workers.dev/?ID=453
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Shopping Live
-http://cdn.kubteltv.workers.dev/?ID=454
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Bollywood HD
-http://cdn.kubteltv.workers.dev/?ID=456
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Еда Премиум
-http://cdn.kubteltv.workers.dev/?ID=457
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Мультимузыка
-http://cdn.kubteltv.workers.dev/?ID=366
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Киномульт
-http://cdn.kubteltv.workers.dev/?ID=346
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Sumiko
-http://cdn.kubteltv.workers.dev/?ID=343
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Лапки Live
-http://cdn.kubteltv.workers.dev/?ID=321
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Мультиландия
-http://cdn.kubteltv.workers.dev/?ID=273
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Da Vinci
-http://cdn.kubteltv.workers.dev/?ID=261
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",В гостях у сказки
-http://cdn.kubteltv.workers.dev/?ID=207
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Детский мир
-http://cdn.kubteltv.workers.dev/?ID=186
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Смайлик ТВ
-http://cdn.kubteltv.workers.dev/?ID=177
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Рыжий
-http://cdn.kubteltv.workers.dev/?ID=145
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Бобер
-http://cdn.kubteltv.workers.dev/?ID=146
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Уникум
-http://cdn.kubteltv.workers.dev/?ID=59
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Мульт HD
-http://cdn.kubteltv.workers.dev/?ID=348
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Ani
-http://cdn.kubteltv.workers.dev/?ID=367
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",ТНТ Music
-http://cdn.kubteltv.workers.dev/?ID=45
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Музыка Первого
-http://cdn.kubteltv.workers.dev/?ID=267
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Bridge TV Classic
-http://cdn.kubteltv.workers.dev/?ID=92
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Europa Plus TV HD
-http://cdn.kubteltv.workers.dev/?ID=82
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",МузТВ
-http://cdn.kubteltv.workers.dev/?ID=20
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",RU.TV
-http://cdn.kubteltv.workers.dev/?ID=48
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Bridge TV
-http://cdn.kubteltv.workers.dev/?ID=67
-#EXTINF:-1 group-title="Кубань-Телеком (VPN)",Bridge TV Hits
-http://cdn.kubteltv.workers.dev/?ID=64
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Мяч HD
-http://cdn.kubteltv.workers.dev/?ID=404
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Хоккей HD
-http://cdn.kubteltv.workers.dev/?ID=405
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! ТВ HD
-http://cdn.kubteltv.workers.dev/?ID=419
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Футбольный
-http://cdn.kubteltv.workers.dev/?ID=229
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Страна HD
-http://cdn.kubteltv.workers.dev/?ID=110
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Игра HD
-http://cdn.kubteltv.workers.dev/?ID=111
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Боец HD
-http://cdn.kubteltv.workers.dev/?ID=112
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Арена HD
-http://cdn.kubteltv.workers.dev/?ID=113
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Волейбол
-http://cdn.kubteltv.workers.dev/?ID=444
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Viasat Sport
-http://cdn.kubteltv.workers.dev/?ID=265
 
 
 
@@ -3007,9 +2718,9 @@ http://91.226.120.120/chid137/tracks-v1a1/mono.m3u8
 http://91.226.120.120/chid290/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)",Спас
 http://91.226.120.120/chid7/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)",Магнат ТВ
+#EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)",Магнат
 http://91.226.120.120/chid122/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)",ТСТ
+#EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)",ТСТ (Черемхово)
 http://91.226.120.120/chid459/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)",Пятница
 http://91.226.120.120/chid14/tracks-v1a1/mono.m3u8
@@ -3017,7 +2728,7 @@ http://91.226.120.120/chid14/tracks-v1a1/mono.m3u8
 http://91.226.120.120/chid163/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)",ОТВ Екатеринбург
 http://91.226.120.120/chid144/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)",БСТ 24
+#EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)",БСТ Братск
 http://91.226.120.120/chid20/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)",RT Doc
 http://91.226.120.120/chid284/tracks-v1a1/mono.m3u8
@@ -3186,14 +2897,18 @@ http://188.225.31.197/bpk-tv/000002510/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000003208/tve/index.m3u8
 #EXTINF:-1 group-title="ТаймВэб (VPN)",Здоровое ТВ
 http://188.225.31.197/bpk-tv/000000057/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)" tvg-id="premium-kino-kz",Премиум Кино
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Премиум Кино KZ
 http://188.225.31.197/bpk-tv/000008491/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)" tvg-id="mirovoe-kino-kz",Мировое Кино
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Мировое Кино KZ
 http://188.225.31.197/bpk-tv/000008488/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)" tvg-id="semejnoe-kino-kz",Семейное Кино
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Семейное Кино KZ
 http://188.225.31.197/bpk-tv/000008489/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)" tvg-id="kinoboevik-kz",Кино Боевик
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Кино Боевик KZ
 http://188.225.31.197/bpk-tv/000008490/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Кино Драма KZ
+http://188.225.31.197/bpk-tv/000005449/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Кино Сериал KZ
+http://188.225.31.197/bpk-tv/000005450/tve/index.m3u8
 #EXTINF:-1 group-title="ТаймВэб (VPN)",Победа
 http://188.225.31.197/bpk-tv/000004534/tve/index.m3u8
 #EXTINF:-1 group-title="ТаймВэб (VPN)",Мосфильм. Золотая коллекция
@@ -3334,10 +3049,6 @@ http://188.225.31.197/bpk-tv/000008135/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000000663/tve/index.m3u8
 #EXTINF:-1 group-title="ТаймВэб (VPN)",5 канал (региональный)
 http://188.225.31.197/bpk-tv/000000950/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Alem 1HD
-http://188.225.31.197/bpk-tv/000005449/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Alem 2HD
-http://188.225.31.197/bpk-tv/000005450/tve/index.m3u8
 #EXTINF:-1 group-title="ТаймВэб (VPN)",Almaty tv
 http://188.225.31.197/bpk-tv/000000667/tve/index.m3u8
 #EXTINF:-1 group-title="ТаймВэб (VPN)",Balapan
@@ -3356,7 +3067,7 @@ http://188.225.31.197/bpk-tv/000001404/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000008065/tve/index.m3u8
 #EXTINF:-1 group-title="ТаймВэб (VPN)",Алау ТВ
 http://188.225.31.197/bpk-tv/000001511/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",Ирбис TV
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Ирбис
 http://188.225.31.197/bpk-tv/000001513/tve/index.m3u8
 #EXTINF:-1 group-title="ТаймВэб (VPN)",НТК HD
 http://188.225.31.197/bpk-tv/000000673/tve/index.m3u8
@@ -3366,17 +3077,17 @@ http://188.225.31.197/bpk-tv/000000672/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000001380/tve/index.m3u8
 #EXTINF:-1 group-title="ТаймВэб (VPN)",Перец
 http://188.225.31.197/bpk-tv/000001248/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",РИКА-ТВ
+#EXTINF:-1 group-title="ТаймВэб (VPN)",Рика
 http://188.225.31.197/bpk-tv/000001514/tve/index.m3u8
 #EXTINF:-1 group-title="ТаймВэб (VPN)",Седьмой канал
 http://188.225.31.197/bpk-tv/000000659/tve/index.m3u8
 #EXTINF:-1 group-title="ТаймВэб (VPN)",Той Думан
 http://188.225.31.197/bpk-tv/000002936/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",TBK 6
+#EXTINF:-1 group-title="ТаймВэб (VPN)",ТВК6 Красноярск
 http://188.225.31.197/bpk-tv/000001516/tve/index.m3u8
 #EXTINF:-1 group-title="ТаймВэб (VPN)",TDK 42
 http://188.225.31.197/bpk-tv/000001507/tve/index.m3u8
-#EXTINF:-1 group-title="ТаймВэб (VPN)",АСТАНА ТВ
+#EXTINF:-1 group-title="ТаймВэб (VPN)",АСТАНА
 http://188.225.31.197/bpk-tv/000000666/tve/index.m3u8
 #EXTINF:-1 group-title="ТаймВэб (VPN)",Abai TV
 http://188.225.31.197/bpk-tv/000006116/tve/index.m3u8
@@ -3567,7 +3278,7 @@ http://193.25.8.59:8000/nst
 http://193.25.8.59:8000/usadba
 #EXTINF:-1 group-title="Сайт (VPN)",ОТР
 http://193.25.8.59:8000/otr
-#EXTINF:-1 group-title="Сайт (VPN)",Outdoor
+#EXTINF:-1 group-title="Сайт (VPN)",Точка Отрыва
 http://193.25.8.59:8000/outdoor
 #EXTINF:-1 group-title="Сайт (VPN)",Че
 http://193.25.8.59:8000/perec
@@ -3952,7 +3663,7 @@ http://tv.ttk.mx:9140
 http://tv.ttk.mx:9141
 #EXTINF:-1 group-title="Цитадель-Крым (VPN)",Телерадиокомпания 555 HD
 http://tv.ttk.mx:9148
-#EXTINF:-1 group-title="Цитадель-Крым (VPN)",Подмосковье 360
+#EXTINF:-1 group-title="Цитадель-Крым (VPN)",360° Подмосковье
 http://tv.ttk.mx:9052
 #EXTINF:-1 group-title="Цитадель-Крым (VPN)",Russia Today
 http://tv.ttk.mx:9130
@@ -4067,7 +3778,7 @@ http://195.26.83.96:7029/play/a001
 http://195.26.83.96:7029/play/a003
 #EXTINF:-1 group-title="AgroNet (VPN)",Русский Экстрим
 http://195.26.83.96:7029/play/a008
-#EXTINF:-1 group-title="AgroNet (VPN)",Ялта ТВ
+#EXTINF:-1 group-title="AgroNet (VPN)",Ялта
 http://195.26.83.96:7029/play/a006
 #EXTINF:-1 group-title="AgroNet (VPN)",Евпатория 24
 http://195.26.83.96:7029/play/a009
