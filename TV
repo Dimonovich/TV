@@ -48,7 +48,7 @@ http://86.57.209.210/Ocean/index.m3u8
 http://86.57.209.210/Belarus24/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Шансон ТВ
 http://86.57.209.210/Shanson/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵" tvg-id="tv3-by",ТВ3
+#EXTINF:-1 group-title="TEST ⓵",ТВ3 Беларусь
 http://86.57.209.210/TB-3/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵",KHL HD
 http://86.57.209.210/KHL_HD/index.m3u8
@@ -56,7 +56,7 @@ http://86.57.209.210/KHL_HD/index.m3u8
 http://86.57.209.210/Fenix/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Россия К
 http://86.57.209.210/Kultura/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵" ,Film UA Drama
+#EXTINF:-1 group-title="TEST ⓵" ,Film.UA Drama
 http://88.99.215.227/FilmUADrama/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵", Cinema
 http://catchup.videoline.ru/cinema/playlist.m3u8
@@ -110,7 +110,7 @@ https://api-tv.ipnet.ua/api/v1/manifest/1312714970.m3u8
 https://api-tv.ipnet.ua/api/v1/manifest/2118742505.m3u8
 #EXTINF:-1 group-title="TEST ⓵", МИ - УКРАЇНА HD
 https://api-tv.ipnet.ua/api/v1/manifest/2118742680.m3u8
-#EXTINF:-1 group-title="TEST ⓵", Армія ТБ
+#EXTINF:-1 group-title="TEST ⓵",Армія ТБ
 https://api-tv.ipnet.ua/api/v1/manifest/2118742632.m3u8
 
 
@@ -208,7 +208,7 @@ http://93.170.254.17/Kinomiks/index.m3u8
 http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TEST (VPN)" tvg-id="mamonttv", Мамонтёнок
 http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="TEST (VPN)" tvg-id="pro100", Про100 ТВ
+#EXTINF:-1 group-title="TEST (VPN)" ,Про100 ТВ
 https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 #EXTINF:-1 group-title="TEST (VPN)", Детский телеканал Мультимания
 http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
@@ -240,7 +240,7 @@ http://vod.tuva.ru/kinotv/index.m3u8
 http://vod.tuva.ru/nst/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",Еврокино
 http://vod.tuva.ru/eurokino/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",24 Тува
+#EXTINF:-1 group-title="TEST (VPN)",Тува 24
 http://vod.tuva.ru/tuva24/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",Моя Планета
 http://vod.tuva.ru/myplanet/index.m3u8
@@ -2256,7 +2256,7 @@ https://streaming.astrakhan.ru/telplushd/tracks-v1a1/mono.m3u8
 http://flussonic.powernet.com.ru:8080/volplus/index.fmp4.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" ,Тамыр
 https://bsttv.bonus-tv.ru/cdn/tamyr/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" ,БСТ
+#EXTINF:-1 group-title="С сайтов (VPN)" ,БСТ Братск
 https://bsttv.bonus-tv.ru/cdn/bst/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" ,Курай TV
 https://bsttv.bonus-tv.ru/cdn/kurai/tracks-v1a1/mono.m3u8
@@ -2282,7 +2282,7 @@ https://catchup.videoline.ru/iriston/tracks-v1a1/mono.m3u8
 https://e10-ll.facecast.net/rtv/0.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://s3.spbtv.com/rosing-production/b292391b35e16613df3e.png",Белгород 24
 https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://sitv.ru/img/tvprogram/86.jpg",С1 Сургут 86
+#EXTINF:-1 group-title="С сайтов (VPN)" ,Сургут 86 FHD
 https://sitv.ru/hls/s86512.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://i.postimg.cc/BbWJfGRT/2008-2010.png",ТВК (Красноярск)
 https://air.tvk6.ru/tvk24/tracks-v2a1/mono.m3u8
@@ -2328,13 +2328,13 @@ https://live2.mediacdn.ru/sr1/sever/playlist_hdhigh.m3u8
 https://live3.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)",Радость Моя
 https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://lime-tv.ru/wp-content/uploads/2020/10/1522085478_ing.jpeg",НТК ИНГУШЕТИЯ
+#EXTINF:-1 group-title="С сайтов (VPN)",НТРК Ингушетия
 https://ingushetia.mediacdn.ru/cdn/ingushetia/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://www.rgvktv.ru/templates/gk_gamenews/images/logo.png",РГВК Дагестан
 https://dagestan.mediacdn.ru/cdn/dagestan/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://tavriatv.ru/wp-content/uploads/2022/08/logotip-new.png",Таврия ТВ
 https://rtpmedia-pull-hls.cdnvideo.ru/rtpmedia-pull/stream1/playlist.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://epg.it999.ru/img/2360.png",ТБН
+#EXTINF:-1 group-title="С сайтов (VPN)" ,ТБН Россия
 https://5f05e059699ae.streamlock.net/WEB_TBN/ngrp:TBN.stream-adaptive/chunklist.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" ,Грозный
 https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/1.m3u8
@@ -2535,7 +2535,7 @@ https://a3569457567-s70378.cdn.ngenix.net/h2/1/index.m3u8
 https://a3569457567-s70378.cdn.ngenix.net/izvestiya/1/index.m3u8
 #EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Живи
 https://a3569457567-s70378.cdn.ngenix.net/jivi/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", kinoman
+#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", ATV Kinoman HD AM
 https://a3569457567-s70378.cdn.ngenix.net/kinoman/1/index.m3u8
 #EXTINF:-1 group-title="Современные сетевые технологии (VPN)", КВН ТВ
 https://a3569457567-s70378.cdn.ngenix.net/kvn_tv/1/index.m3u8
@@ -2553,7 +2553,7 @@ https://a3569457567-s70378.cdn.ngenix.net/rtvi/1/index.m3u8
 https://a3569457567-s70378.cdn.ngenix.net/shant_serial/1/index.m3u8
 #EXTINF:-1 group-title="Современные сетевые технологии (VPN)", shant premium
 https://a3569457567-s70378.cdn.ngenix.net/shant_premium/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Dar21
+#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", 21TV AM
 https://a3569457567-s70378.cdn.ngenix.net/dar21/1/index.m3u8
 #EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Mezzo
 https://a3569457567-s70378.cdn.ngenix.net/mezzo/1/index.m3u8
