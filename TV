@@ -7946,6 +7946,9 @@ https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R01_SARATOV24/variant.m3u8
 #EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Саха
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://s34351.cdn.ngenix.net/hls/CH_R03_OTT_DV_YKT_NVC_OTT/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="mamonttv" channelId="-1",Мамонт (Республика Саха - Якутск)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://s34351.cdn.ngenix.net/hls/CH_R14_MAMONT/variant.m3u8
 #EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="svoyo-tv-stavropol",Своё ТВ Ставрополь HD
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R03_OTT_STH_STAVR_STV-PLUS/variant.m3u8
@@ -8921,9 +8924,9 @@ http://127.0.0.1:6878/ace/getstream?infohash=07a3a89922fcd3679c5178f2616ec565a75
 http://127.0.0.1:6878/ace/getstream?infohash=4750d185565938b65e8607133b7abdfeb4c7c8cd
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Insport HD
 http://127.0.0.1:6878/ace/getstream?id=b7e8c3bae5d98a4f842f334ff57604de9886f5c7
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Eleven Sports 1 HD PL
+#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Eleven Sports 1 HD [PL]
 http://127.0.0.1:6878/ace/getstream?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Eleven Sports 2 HD PL
+#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Eleven Sports 2 HD [PL]
 http://127.0.0.1:6878/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Eleven Sports 3 HD [PL]
 http://127.0.0.1:6878/ace/getstream?id=b146ee4b6e16c9df58e27bd02ffd6cea840ff212
