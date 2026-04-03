@@ -2447,12 +2447,22 @@ https://a3569457567-s70378.cdn.ngenix.net/shoghakat/2/index.m3u8
 https://a3569457567-s70378.cdn.ngenix.net/sony_sci_fi/2/index.m3u8
 #EXTINF:-1 group-title="Современные сетевые технологии (VPN)", .Black
 https://a3569457567-s70378.cdn.ngenix.net/sony_turbo/2/index.m3u8
+#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", .Red
+https://a3285272783-s80718.cdn.ngenix.net/hls/CH_REDHD/video_1920x1080_avc1/playlist.m3u8
 #EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Телекафе
 https://a3569457567-s70378.cdn.ngenix.net/telecafe/2/index.m3u8
 #EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Индийское кино 
 https://a3569457567-s70378.cdn.ngenix.net/india_tv/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",Индия
+#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Индия
 https://a3569457567-s70378.cdn.ngenix.net/zee_tv/2/index.m3u8
+#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Кинохит
+https://a3285272783-s80718.cdn.ngenix.net//hls//CH_KINOHITHD//video_800x450_avc1/playlist.m3u8
+#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Кинокомедия
+https://a3285272783-s80718.cdn.ngenix.net//hls//CH_KINOKOMEDIYA//video_800x450_avc1/playlist.m3u8
+#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Киномикс
+https://a3285272783-s80718.cdn.ngenix.net//hls//CH_KINOMIXHD//video_800x450_avc1/playlist.m3u8
+#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Кинопремьера HD
+https://a3285272783-s80718.cdn.ngenix.net//hls//CH_KINOPREMIERAHD//video_800x450_avc1/playlist.m3u8
 #EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Наше новое кино
 https://a3569457567-s70378.cdn.ngenix.net/nashe_novoe_kino/1/index.m3u8
 #EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Киноужас
@@ -2461,6 +2471,8 @@ https://a3569457567-s70378.cdn.ngenix.net/kinouzhas/1/index.m3u8
 https://a3569457567-s70378.cdn.ngenix.net/mnogo_tv/1/index.m3u8
 #EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Киносвидание 
 https://a3569457567-s70378.cdn.ngenix.net/kinoklub/1/index.m3u8
+#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Мужское кино
+https://a3285272783-s80718.cdn.ngenix.net/hls/CH_MUJSKOE_KINOHD/video_1920x1080_avc1/playlist.m3u8
 #EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Дом Кино Премиум
 https://a3569457567-s70378.cdn.ngenix.net/dom_kino_premium_hd/3/index.m3u8
 #EXTINF:-1 group-title="Современные сетевые технологии (VPN)", ТВ3
@@ -2477,7 +2489,6 @@ https://a3569457567-s70378.cdn.ngenix.net/vip_premiere/2/index.m3u8
 https://a3569457567-s70378.cdn.ngenix.net/vip_serial/2/index.m3u8
 #EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Время
 https://a3569457567-s70378.cdn.ngenix.net/vremia/2/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Индия
 #EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Дом Кино
 https://a3569457567-s70378.cdn.ngenix.net/dom_kino/1/index.m3u8
 #EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Euronews
@@ -2522,18 +2533,20 @@ https://a3569457567-s70378.cdn.ngenix.net/nostalgia/1/index.m3u8
 https://a3569457567-s70378.cdn.ngenix.net/rbc/1/index.m3u8
 #EXTINF:-1 group-title="Современные сетевые технологии (VPN)", RTVI
 https://a3569457567-s70378.cdn.ngenix.net/rtvi/1/index.m3u8
+#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", shant
+https://a3569457567-s70378.cdn.ngenix.net/shant/1/index.m3u8
 #EXTINF:-1 group-title="Современные сетевые технологии (VPN)", shant serial
 https://a3569457567-s70378.cdn.ngenix.net/shant_serial/1/index.m3u8
 #EXTINF:-1 group-title="Современные сетевые технологии (VPN)", shant premium
 https://a3569457567-s70378.cdn.ngenix.net/shant_premium/1/index.m3u8
+#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Shant music
+https://a3569457567-s70378.cdn.ngenix.net/shant_music/2/index.m3u8
 #EXTINF:-1 group-title="Современные сетевые технологии (VPN)", 21TV AM
 https://a3569457567-s70378.cdn.ngenix.net/dar21/1/index.m3u8
 #EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Mezzo
 https://a3569457567-s70378.cdn.ngenix.net/mezzo/1/index.m3u8
 #EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Muzzone
 https://a3569457567-s70378.cdn.ngenix.net/muzzone/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Shant music
-https://a3569457567-s70378.cdn.ngenix.net/shant_music/2/index.m3u8
 #EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Baby TV
 https://a3569457567-s70378.cdn.ngenix.net/baby_tv/2/index.m3u8
 #EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Tiji
