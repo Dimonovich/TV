@@ -2344,6 +2344,8 @@ https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)",МИР 24 HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)",Мир KZ
+http://tvcdn01.esilnet.kz/tv/mir/index.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)",ТВЦ
 https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://s3.spbtv.com/rosing-production/b69bafc330ead51ef2b6_512x512c.png",Крик-ТВ
