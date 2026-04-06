@@ -697,10 +697,6 @@ http://31.133.46.225:8003/play/a06y
 http://31.133.46.225:8003/play/a002
 #EXTINF:-1 group-title="СКС-Лугань",ТНВ-Планета
 http://31.133.46.225:8003/play/a0bk
-#EXTINF:-1 group-title="СКС-Лугань",Тномер
-http://31.133.46.225:8003/play/a07x
-#EXTINF:-1 group-title="СКС-Лугань",Тонус
-http://31.133.46.225:8003/play/a07y
 #EXTINF:-1 group-title="СКС-Лугань",Точка отрыва
 http://31.133.46.225:8003/play/a05e
 #EXTINF:-1 group-title="СКС-Лугань",Точка РФ
@@ -961,12 +957,6 @@ http://31.133.46.225:8003/play/a05z
 http://31.133.46.225:8003/play/a02f
 #EXTINF:-1 group-title="СКС-Лугань",Киноман
 http://31.133.46.225:8003/play/a064
-#EXTINF:-1 group-title="СКС-Лугань",Кинокомедия
-http://31.133.46.225:8003/play/a02v
-#EXTINF:-1 group-title="СКС-Лугань",Родное кино
-http://31.133.46.225:8003/play/a04p
-#EXTINF:-1 group-title="СКС-Лугань",Киномикс HD
-http://31.133.46.225:8003/play/a0ag
 #EXTINF:-1 group-title="СКС-Лугань",Кинопоказ
 http://31.133.46.225:8003/play/a065
 #EXTINF:-1 group-title="СКС-Лугань",Наше мужское
@@ -975,6 +965,12 @@ http://31.133.46.225:8003/play/a06a
 http://31.133.46.225:8003/play/a047
 #EXTINF:-1 group-title="СКС-Лугань",Кинопремьера HD
 http://31.133.46.225:8003/play/a02p
+#EXTINF:-1 group-title="СКС-Лугань",Кинокомедия
+http://31.133.46.225:8003/play/a02v
+#EXTINF:-1 group-title="СКС-Лугань",Родное кино
+http://31.133.46.225:8003/play/a04p
+#EXTINF:-1 group-title="СКС-Лугань",Киномикс HD
+http://31.133.46.225:8003/play/a0ag
 #EXTINF:-1 group-title="СКС-Лугань",Киносвидание
 http://31.133.46.225:8003/play/a02q
 #EXTINF:-1 group-title="СКС-Лугань",Киносемья HD
@@ -983,6 +979,8 @@ http://31.133.46.225:8003/play/a0ah
 http://31.133.46.225:8003/play/a02s
 #EXTINF:-1 group-title="СКС-Лугань",Индийское кино
 http://31.133.46.225:8003/play/a02g
+#EXTINF:-1 group-title="СКС-Лугань",Мужское кино
+http://31.133.46.225:8003/play/a03t
 #EXTINF:-1 group-title="СКС-Лугань",Киноужас
 http://31.133.46.225:8003/play/a02t
 #EXTINF:-1 group-title="СКС-Лугань",Комедийное HD
@@ -997,8 +995,6 @@ http://31.133.46.225:8003/play/a030
 http://31.133.46.225:8003/play/a03n
 #EXTINF:-1 group-title="СКС-Лугань",Мосфильм. Золотая коллекция
 http://31.133.46.225:8003/play/a03q
-#EXTINF:-1 group-title="СКС-Лугань",Мужское кино
-http://31.133.46.225:8003/play/a03t
 #EXTINF:-1 group-title="СКС-Лугань",Мужской
 http://31.133.46.225:8003/play/a0av
 #EXTINF:-1 group-title="СКС-Лугань",Наш кинопоказ
@@ -1017,10 +1013,6 @@ http://31.133.46.225:8003/play/a04v
 http://31.133.46.225:8003/play/a04y
 #EXTINF:-1 group-title="СКС-Лугань",САПФИР
 http://31.133.46.225:8003/play/a00q
-#EXTINF:-1 group-title="СКС-Лугань",САПФИР HD
-http://31.133.46.225:8003/play/a010
-#EXTINF:-1 group-title="СКС-Лугань",Сериал UHD
-http://31.133.46.225:8003/play/a06e
 #EXTINF:-1 group-title="СКС-Лугань",Совершенно Секретно
 http://31.133.46.225:8003/play/a0bf
 #EXTINF:-1 group-title="СКС-Лугань",Страшное HD
@@ -1029,7 +1021,7 @@ http://31.133.46.225:8003/play/a0bh
 http://31.133.46.225:8003/play/a085
 #EXTINF:-1 group-title="СКС-Лугань",Кто есть кто
 http://31.133.46.225:8003/play/a02x
-#EXTINF:-1 group-title="СКС-Лугань",КтоКуда
+#EXTINF:-1 group-title="СКС-Лугань",Кто Куда
 http://31.133.46.225:8003/play/a0ak
 #EXTINF:-1 group-title="СКС-Лугань",Курай ТВ
 http://31.133.46.225:8003/play/a0al
@@ -1047,7 +1039,7 @@ http://31.133.46.225:8003/play/a03l
 http://31.133.46.225:8003/play/a05u
 #EXTINF:-1 group-title="СКС-Лугань",ЕГЭ ТВ
 http://31.133.46.225:8003/play/a0a3
-#EXTINF:-1 group-title="СКС-Лугань",World Fashion
+#EXTINF:-1 group-title="СКС-Лугань",World Fashion TV
 http://31.133.46.225:8003/play/a01o
 #EXTINF:-1 group-title="СКС-Лугань",Зоопарк
 http://31.133.46.225:8003/play/a09t
@@ -1131,7 +1123,9 @@ http://31.133.46.225:8003/play/a0b6
 http://31.133.46.225:8003/play/a07v
 #EXTINF:-1 group-title="СКС-Лугань",Пятница!
 http://31.133.46.225:8003/play/a04k
-#EXTINF:-1 group-title="СКС-Лугань",Пятый кaнaл
+#EXTINF:-1 group-title="СКС-Лугань",Тонус ТВ
+http://31.133.46.225:8003/play/a07y
+#EXTINF:-1 group-title="СКС-Лугань",Пятый канал
 http://31.133.46.225:8003/play/a006
 #EXTINF:-1 group-title="СКС-Лугань",Пятый канал +2
 http://31.133.46.225:8003/play/a0b5
@@ -1187,16 +1181,12 @@ http://31.133.46.225:8003/play/a06h
 http://31.133.46.225:8003/play/a05i
 #EXTINF:-1 group-title="СКС-Лугань",Ювелирочка
 http://31.133.46.225:8003/play/a05j
-#EXTINF:-1 group-title="СКС-Лугань",Юнион
-http://31.133.46.225:8003/play/a05b
 #EXTINF:-1 group-title="СКС-Лугань",Уникум
 http://31.133.46.225:8003/play/a05f
 #EXTINF:-1 group-title="СКС-Лугань",Малыш
 http://31.133.46.225:8003/play/a0bi
 #EXTINF:-1 group-title="СКС-Лугань",Мама
 http://31.133.46.225:8003/play/a032
-#EXTINF:-1 group-title="СКС-Лугань",В гостях у сказки
-http://31.133.46.225:8003/play/a01w
 #EXTINF:-1 group-title="СКС-Лугань",Лёва HD
 http://31.133.46.225:8003/play/a090
 #EXTINF:-1 group-title="СКС-Лугань",Карусель
@@ -1211,6 +1201,8 @@ http://31.133.46.225:8003/play/a01b
 http://31.133.46.225:8003/play/a08p
 #EXTINF:-1 group-title="СКС-Лугань",Радость моя
 http://31.133.46.225:8003/play/a04o
+#EXTINF:-1 group-title="СКС-Лугань",В гостях у сказки
+http://31.133.46.225:8003/play/a010
 #EXTINF:-1 group-title="СКС-Лугань",Bolt
 http://31.133.46.225:8003/play/a08h
 #EXTINF:-1 group-title="СКС-Лугань",Da Vinci
@@ -1225,7 +1217,7 @@ http://31.133.46.225:8003/play/a01t
 http://31.133.46.225:8003/play/a02k
 #EXTINF:-1 group-title="СКС-Лугань",Nickelodeon
 http://31.133.46.225:8003/play/a097
-#EXTINF:-1 group-title="СКС-Лугань",Nick Toons
+#EXTINF:-1 group-title="СКС-Лугань",Nicktoons
 http://31.133.46.225:8003/play/a098
 #EXTINF:-1 group-title="СКС-Лугань",Мульт
 http://31.133.46.225:8003/play/a03w
@@ -1241,7 +1233,7 @@ http://31.133.46.225:8003/play/a07d
 http://31.133.46.225:8003/play/a00c
 #EXTINF:-1 group-title="СКС-Лугань",Ля-минор
 http://31.133.46.225:8003/play/a031
-#EXTINF:-1 group-title="СКС-Лугань",Шансон ТВ International
+#EXTINF:-1 group-title="СКС-Лугань",Шансон-TB
 http://31.133.46.225:8003/play/a0bv
 #EXTINF:-1 group-title="СКС-Лугань",МузСоюз
 http://31.133.46.225:8003/play/a07h
@@ -1267,12 +1259,6 @@ http://31.133.46.225:8003/play/a00h
 http://31.133.46.225:8003/play/a09r
 #EXTINF:-1 group-title="СКС-Лугань",MCM Top
 http://31.133.46.225:8003/play/a00x
-#EXTINF:-1 group-title="СКС-Лугань",Mezzo
-http://31.133.46.225:8003/play/a091
-#EXTINF:-1 group-title="СКС-Лугань",Mezzo Live HD
-http://31.133.46.225:8003/play/a00y
-#EXTINF:-1 group-title="СКС-Лугань",MTV Hits
-http://31.133.46.225:8003/play/a095
 #EXTINF:-1 group-title="СКС-Лугань",Europa Plus TV
 http://31.133.46.225:8003/play/a029
 #EXTINF:-1 group-title="СКС-Лугань",МузТВ
