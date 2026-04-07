@@ -931,6 +931,8 @@ http://5.134.87.12:8005/play/a01c/index.m3u8
 http://5.134.87.12:8005/play/a01f/index.m3u8
 #EXTINF:-1 group-title="VIGEN PETROSYAN",RTG HD
 http://5.134.87.12:8005/play/a04t/index.m3u8
+#EXTINF:-1 group-title="VIGEN PETROSYAN",Глазами туриста HD
+http://5.134.87.12:8002/play/a06n/index.m3u8
 #EXTINF:-1 group-title="VIGEN PETROSYAN",National Geographic
 http://5.134.87.12:8005/play/a01p/index.m3u8
 #EXTINF:-1 group-title="VIGEN PETROSYAN",Nat Geo Wild
@@ -947,14 +949,20 @@ http://5.134.87.12:8005/play/a01v/index.m3u8
 http://5.134.87.12:8005/play/a01w/index.m3u8
 #EXTINF:-1 group-title="VIGEN PETROSYAN",viju+ Planet
 http://5.134.87.12:8005/play/a03j/index.m3u8
+#EXTINF:-1 group-title="VIGEN PETROSYAN",Terra HD
+http://5.134.87.12:8002/play/a06g/index.m3u8
 #EXTINF:-1 group-title="VIGEN PETROSYAN",Диалоги о рыбалке
 http://5.134.87.12:8005/play/a01x/index.m3u8
 #EXTINF:-1 group-title="VIGEN PETROSYAN",Дикая охота HD
 http://5.134.87.12:8005/play/a01y/index.m3u8
 #EXTINF:-1 group-title="VIGEN PETROSYAN",Дикая рыбалка HD
 http://5.134.87.12:8005/play/a01z/index.m3u8
+#EXTINF:-1 group-title="VIGEN PETROSYAN",Живая природа HD
+http://5.134.87.12:8002/play/a06o/index.m3u8
 #EXTINF:-1 group-title="VIGEN PETROSYAN",Дикий
 http://5.134.87.12:8005/play/a01t/index.m3u8
+#EXTINF:-1 group-title="VIGEN PETROSYAN",Моя планета HD
+http://5.134.87.12:8002/play/a07o/index.m3u8
 #EXTINF:-1 group-title="VIGEN PETROSYAN",Точка отрыва
 http://5.134.87.12:8005/play/a04i/index.m3u8
 #EXTINF:-1 group-title="VIGEN PETROSYAN",Ocean TV
@@ -963,6 +971,8 @@ http://5.134.87.12:8005/play/a04j/index.m3u8
 http://5.134.87.12:8005/play/a04p/index.m3u8
 #EXTINF:-1 group-title="VIGEN PETROSYAN",Загородная жизнь
 http://5.134.87.12:8005/play/a04q/index.m3u8
+#EXTINF:-1 group-title="VIGEN PETROSYAN",Охота и рыбалка
+http://5.134.87.12:8002/play/a065/index.m3u8
 #EXTINF:-1 group-title="VIGEN PETROSYAN",Мир 24
 http://5.134.87.12:8005/play/a012/index.m3u8
 #EXTINF:-1 group-title="VIGEN PETROSYAN",Победа
@@ -1011,12 +1021,20 @@ http://5.134.87.12:8005/play/a02n/index.m3u8
 http://5.134.87.12:8005/play/a02o/index.m3u8
 #EXTINF:-1 group-title="VIGEN PETROSYAN",КИНОПРЕМЬЕРА HD
 http://5.134.87.12:8005/play/a02p/index.m3u8
+#EXTINF:-1 group-title="VIGEN PETROSYAN",ИНДИЙСКОЕ КИНО
+http://5.134.87.12:8005/play/a03s/index.m3u8
+#EXTINF:-1 group-title="VIGEN PETROSYAN",МУЖСКОЕ КИНО
+http://5.134.87.12:8005/play/a03t/index.m3u8
 #EXTINF:-1 group-title="VIGEN PETROSYAN",КИНОСВИДАНИЕ
 http://5.134.87.12:8005/play/a02q/index.m3u8
 #EXTINF:-1 group-title="VIGEN PETROSYAN",Киносемья HD
 http://5.134.87.12:8005/play/a02s/index.m3u8
 #EXTINF:-1 group-title="VIGEN PETROSYAN",Кинохит HD
 http://5.134.87.12:8005/play/a02r/index.m3u8
+#EXTINF:-1 group-title="VIGEN PETROSYAN",Наше новое кино
+http://5.134.87.12:8005/play/a036/index.m3u8
+#EXTINF:-1 group-title="VIGEN PETROSYAN",Киномикс HD
+http://5.134.87.12:8002/play/a06q/index.m3u8
 #EXTINF:-1 group-title="VIGEN PETROSYAN",Родное кино
 http://5.134.87.12:8005/play/a02u/index.m3u8
 #EXTINF:-1 group-title="VIGEN PETROSYAN",Русский Бестселлер
@@ -1039,8 +1057,6 @@ http://5.134.87.12:8005/play/a033/index.m3u8
 http://5.134.87.12:8005/play/a034/index.m3u8
 #EXTINF:-1 group-title="VIGEN PETROSYAN",Мужской
 http://5.134.87.12:8005/play/a035/index.m3u8
-#EXTINF:-1 group-title="VIGEN PETROSYAN",Наше новое кино
-http://5.134.87.12:8005/play/a036/index.m3u8
 #EXTINF:-1 group-title="VIGEN PETROSYAN",FilmBox
 http://5.134.87.12:8005/play/a037/index.m3u8
 #EXTINF:-1 group-title="VIGEN PETROSYAN",Star Cinema
@@ -1077,14 +1093,8 @@ http://5.134.87.12:8005/play/a03n/index.m3u8
 http://5.134.87.12:8005/play/a03o/index.m3u8
 #EXTINF:-1 group-title="VIGEN PETROSYAN",Киноман
 http://5.134.87.12:8005/play/a03p/index.m3u8
-#EXTINF:-1 group-title="VIGEN PETROSYAN",КИНОМИКС HD
-http://5.134.87.12:8005/play/a03q/index.m3u8
 #EXTINF:-1 group-title="VIGEN PETROSYAN",Иллюзион+
 http://5.134.87.12:8005/play/a03r/index.m3u8
-#EXTINF:-1 group-title="VIGEN PETROSYAN",ИНДИЙСКОЕ КИНО
-http://5.134.87.12:8005/play/a03s/index.m3u8
-#EXTINF:-1 group-title="VIGEN PETROSYAN",МУЖСКОЕ КИНО
-http://5.134.87.12:8005/play/a03t/index.m3u8
 #EXTINF:-1 group-title="VIGEN PETROSYAN",Amedia Hit HD
 http://5.134.87.12:8005/play/a03u/index.m3u8
 #EXTINF:-1 group-title="VIGEN PETROSYAN",Мосфильм. Золотая коллекция
@@ -1141,8 +1151,18 @@ http://5.134.87.12:8005/play/a04h/index.m3u8
 http://5.134.87.12:8005/play/a052/index.m3u8
 #EXTINF:-1 group-title="VIGEN PETROSYAN",Европа Плюс ТВ
 http://5.134.87.12:8005/play/a040/index.m3u8
+#EXTINF:-1 group-title="VIGEN PETROSYAN",BRIDGE HD
+http://5.134.87.12:8002/play/a075/index.m3u8
 #EXTINF:-1 group-title="VIGEN PETROSYAN",BRIDGE TV
 http://5.134.87.12:8005/play/a041/index.m3u8
+#EXTINF:-1 group-title="VIGEN PETROSYAN",Bridge TV Этно
+http://5.134.87.12:8002/play/a076/index.m3u8
+#EXTINF:-1 group-title="VIGEN PETROSYAN",Bridge TV Шлягер
+http://5.134.87.12:8002/play/a070/index.m3u8
+#EXTINF:-1 group-title="VIGEN PETROSYAN",Bridge TV Фрэш
+http://5.134.87.12:8002/play/a072/index.m3u8
+#EXTINF:-1 group-title="VIGEN PETROSYAN",Bridge TV Rock
+http://5.134.87.12:8002/play/a071/index.m3u8
 #EXTINF:-1 group-title="VIGEN PETROSYAN",BRIDGE TV Русский Хит
 http://5.134.87.12:8005/play/a042/index.m3u8
 #EXTINF:-1 group-title="VIGEN PETROSYAN",BRIDGE TV HITS
