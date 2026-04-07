@@ -696,17 +696,17 @@ http://37.46.49.14:18010/play/a09h/index.m3u8
 http://37.46.49.14:18010/play/a02z/index.m3u8
 #EXTINF:-1 group-title="ОБИТ" ,Звезда
 http://37.46.49.14:18010/play/a028/index.m3u8
-#EXTINF:-1 group-title="ОБИТ" ,Fashion HD
+#EXTINF:-1 group-title="ОБИТ" ,Fashion TV HD
 http://37.46.49.14:18010/play/a01r/index.m3u8
 #EXTINF:-1 group-title="ОБИТ" ,31 канал
 http://37.46.49.14:18010/play/a04i/index.m3u8
-#EXTINF:-1 group-title="ОБИТ" ,Arirang TV
+#EXTINF:-1 group-title="ОБИТ" ,Arirang
 http://37.46.49.14:18010/play/a03p/index.m3u8
 #EXTINF:-1 group-title="ОБИТ" ,НТК
 http://37.46.49.14:18010/play/a04j/index.m3u8
 #EXTINF:-1 group-title="ОБИТ" ,BALAPAN
 http://37.46.49.14:18010/play/a048/index.m3u8
-#EXTINF:-1 group-title="ОБИТ" ,CCTV
+#EXTINF:-1 group-title="ОБИТ" ,CCTV4
 http://37.46.49.14:18010/play/a03t/index.m3u8
 #EXTINF:-1 group-title="ОБИТ" ,QAZAQSTAN
 http://37.46.49.14:18010/play/a047/index.m3u8
@@ -840,7 +840,7 @@ http://77.245.98.18:8000/play/a01l
 http://77.245.98.18:8000/play/a01i
 #EXTINF:-1 group-title="KazTransCom",Алматы
 http://77.245.98.18:8000/play/15
-#EXTINF:-1 group-title="KazTransCom",Балапан
+#EXTINF:-1 group-title="KazTransCom",Balapan
 http://77.245.98.18:8000/play/a00e
 #EXTINF:-1 group-title="KazTransCom",В гостях у сказки
 http://77.245.98.18:8000/play/a023
@@ -945,16 +945,12 @@ http://89.218.32.179:18000/play/a016
 http://89.218.32.179:18000/play/a015
 #EXTINF:-1 group-title="Казахтелеком",4Fun.TV
 http://89.218.32.179:18000/play/a014
-#EXTINF:-1 group-title="Казахтелеком",CCTV
+#EXTINF:-1 group-title="Казахтелеком",CCTV4
 http://89.218.32.179:18000/play/a020
 #EXTINF:-1 group-title="Казахтелеком",CGTN
 http://89.218.32.179:18000/play/a00t
-#EXTINF:-1 group-title="Казахтелеком",DW English HD
-http://89.218.32.179:18000/play/a00k
 #EXTINF:-1 group-title="Казахтелеком",QAZAQSTAN
 http://89.218.32.179:18000/play/a005
-#EXTINF:-1 group-title="Казахтелеком",QAZSPORT HD
-http://89.218.32.179:18000/play/a009
 #EXTINF:-1 group-title="Казахтелеком",РБК
 http://89.218.32.179:18000/play/a02c
 #EXTINF:-1 group-title="Казахтелеком",RT DOC HD
@@ -1017,6 +1013,8 @@ http://89.218.32.179:18000/play/a03j
 http://89.218.32.179:18000/play/a03f
 #EXTINF:-1 group-title="Казахтелеком",Карусель
 http://89.218.32.179:18000/play/a02r
+#EXTINF:-1 group-title="Спорткомплекс 🏆",QAZSPORT HD
+http://89.218.32.179:18000/play/a009
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Арена
 http://89.218.32.179:18000/play/a039
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Боец
