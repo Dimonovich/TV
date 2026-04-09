@@ -639,6 +639,57 @@ http://hls.stb.md/MATCH_PLANETA_H264/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cC
 
 
 
+#EXTINF:-1 group-title="Скай Телеком", Первый канал
+http://81.161.126.82:80/1620/index.m3u8
+#EXTINF:-1 group-title="Скай Телеком", Россия 1
+http://81.161.126.82:80/1630/index.m3u8
+#EXTINF:-1 group-title="Скай Телеком", Россия К
+http://81.161.126.82:80/1640/index.m3u8
+#EXTINF:-1 group-title="Скай Телеком", ТНТ
+http://81.161.126.82:80/1070/index.m3u8
+#EXTINF:-1 group-title="Скай Телеком", Рен ТВ
+http://81.161.126.82:80/1870/index.m3u8
+#EXTINF:-1 group-title="Скай Телеком", Россия 24 
+http://81.161.126.82:80/1700/index.m3u8
+#EXTINF:-1 group-title="Скай Телеком", НТВ
+http://81.161.126.82:80/1170/index.m3u8
+#EXTINF:-1 group-title="Скай Телеком", СТС
+http://81.161.126.82:80/1230/index.m3u8
+#EXTINF:-1 group-title="Скай Телеком", Звезда
+http://81.161.126.82:80/1390/index.m3u8
+#EXTINF:-1 group-title="Скай Телеком", Пятый канал
+http://81.161.126.82:80/1460/index.m3u8
+#EXTINF:-1 group-title="Скай Телеком", ОТР
+http://81.161.126.82:80/1470/index.m3u8
+#EXTINF:-1 group-title="Скай Телеком", Пятница
+http://81.161.126.82:80/1610/index.m3u8
+#EXTINF:-1 group-title="Скай Телеком", ТВ3
+http://81.161.126.82:80/1660/index.m3u8
+#EXTINF:-1 group-title="Скай Телеком", МИР
+http://81.161.126.82:80/1830/index.m3u8
+#EXTINF:-1 group-title="Скай Телеком", ТВЦ
+http://81.161.126.82:80/1920/index.m3u8
+#EXTINF:-1 group-title="Скай Телеком", Про Жизнь
+http://81.161.126.82:80/2050/index.m3u8
+#EXTINF:-1 group-title="Скай Телеком", СПАС
+http://81.161.126.82:80/3090/index.m3u8
+#EXTINF:-1 group-title="Скай Телеком", 360
+http://81.161.126.82:80/3180/index.m3u8
+#EXTINF:-1 group-title="Скай Телеком", Кузбасс Первый
+http://81.161.126.82:80/4200/index.m3u8
+#EXTINF:-1 group-title="Скай Телеком", Домашний
+http://81.161.126.82:80/1010/index.m3u8
+#EXTINF:-1 group-title="Скай Телеком", Карусель
+http://81.161.126.82:80/1650/index.m3u8
+#EXTINF:-1 group-title="Скай Телеком", МузТВ
+http://81.161.126.82:80/1030/index.m3u8
+#EXTINF:-1 group-title="Скай Телеком", Матч ТВ
+http://81.161.126.82:80/1450/index.m3u8
+
+
+
+
+
 
 #EXTINF:-1 group-title="Interhost", Первый канал
 http://89.33.29.116/Pervikanal/tracks-v1a1/mono.m3u8
@@ -8606,7 +8657,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_5/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_6/variant.m3u8
 #EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый канал (+7)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-https://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_1TV/variant.m3u8
+https://s97982.cdn.ngenix.net/hls/CH_R27_1TV/variant.m3u8
 #EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый канал (+8)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_8/variant.m3u8
