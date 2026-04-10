@@ -493,11 +493,10 @@ http://46.53.208.4:80/live/6004-req_offset_28000000-req_window_0-1k_v5.m3u8
 
 
 
-
-
-
+#EXTINF:-1 ,Viju TV1000 Новелла HD
+http://46.53.208.4:80/live/545-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 ,viju TV1000 romantica
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=xnMnLlxg7kDSJUr7Vd2ftQ&e=1775684200&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+http://46.53.208.4:80/live/3111-req_offset_28000000-req_window_0-3k_v5.m3u8
 
 #EXTINF:-1 ,TV1000 Русское Кино
 https://stream8.cinerama.uz/1059/tracks-v1a1/mono.m3u8
@@ -539,15 +538,15 @@ https://stream8.cinerama.uz/1404/tracks-v1a1/mono.m3u8
 http://46.53.208.4:80/live/6006-req_offset_28000000-req_window_0-1k_v5.m3u8
 
 #EXTINF:-1,Мосфильм. Золотая коллекция
-http://tinyurl.com/TvZaTak69/000006365/tve/index.m3u8
+http://188.225.31.197/bpk-tv/000006365/tve/index.m3u8
 #EXTINF:-1 ,Amedia 1 HD
-http://tinyurl.com/TvZaTak69/000000710/tve/index.m3u8
+http://188.225.31.197/bpk-tv/000000710/tve/index.m3u8
 #EXTINF:-1 ,Amedia 2 HD
-http://tinyurl.com/TvZaTak69/000000351/tve/index.m3u8
+http://188.225.31.197/bpk-tv/000000351/tve/index.m3u8
 #EXTINF:-1 ,Amedia HIT
-http://tinyurl.com/TvZaTak69/000001662/tve/index.m3u8
+http://188.225.31.197/bpk-tv/000001662/tve/index.m3u8
 #EXTINF:-1 ,Amedia Premium HD
-http://tinyurl.com/TvZaTak69/000000709/tve/index.m3u8
+http://188.225.31.197/bpk-tv/000000709/tve/index.m3u8
 
 #EXTINF:-1 ,viju Nature
 https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8
@@ -617,12 +616,15 @@ https://stream8.cinerama.uz/1028/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1049/tracks-v1a1/mono.m3u8
 
 
+
+
+
 #EXTINF:-1 ,Eurosport 1
-http://tinyurl.com/TvZaTak69/000002478/tve/index.m3u8
+http://188.225.31.197/bpk-tv/000002478/tve/index.m3u8
 #EXTINF:-1 ,Eurosport 2
-http://tinyurl.com/TvZaTak69/000002479/tve/index.m3u8
+http://188.225.31.197/bpk-tv/000002479/tve/index.m3u8
 #EXTINF:-1,Viasat Sport
-http://tinyurl.com/TvZaTak69/000000135/tve/index.m3u8
+http://188.225.31.197/bpk-tv/000000135/tve/index.m3u8
 
 #EXTINF:-1 ,Бокс ТВ
 https://a3285272783-s80718.cdn.ngenix.net/hls/CH_BOKS_TVHD/video_1920x1080_avc1/playlist.m3u8
