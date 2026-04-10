@@ -691,6 +691,8 @@ http://81.161.126.82:80/1450/index.m3u8
 
 
 
+
+
 #EXTINF:-1 group-title="Interhost", Первый канал
 http://89.33.29.116/Pervikanal/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Interhost", РОССИЯ 1
@@ -719,6 +721,10 @@ http://89.33.29.116/ntvserial/tracks-v1a1/mono.m3u8
 http://89.33.29.116/REN_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Interhost", ЕДА Премиум
 http://89.33.29.116/Eda/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Interhost", RTG HD
+http://89.33.29.116/RTG_TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Interhost", TERRA HD
+http://89.33.29.116/TERRA_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Interhost", Discovery Channel HD
 http://89.33.29.116/Discovery_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Interhost", Animal Planet HD
@@ -751,6 +757,8 @@ http://89.33.29.116/Istoriya/tracks-v1a1/mono.m3u8
 http://89.33.29.116/Muzhskoy/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Interhost", Viasat Explore HD
 http://89.33.29.116/Viasat_Explorer/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Interhost", Viasat Nature HD
+http://89.33.29.116/Viasat_Nature_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Interhost", Живая планета
 http://89.33.29.116/Zhivaya_planeta/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Interhost", Точка РФ
@@ -797,6 +805,8 @@ http://89.33.29.116/ID_Xtra_HD/tracks-v1a1/mono.m3u8
 http://89.33.29.116/H2_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Interhost", Победа HD
 http://89.33.29.116/Pobeda/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Interhost", Kомедийное HD
+http://89.33.29.116/Kinopokaz_HD2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Interhost", Русский бестселлер
 http://89.33.29.116/Russkibesteller/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Interhost", Русский Иллюзион
@@ -809,6 +819,8 @@ http://89.33.29.116/NST/tracks-v1a1/mono.m3u8
 http://89.33.29.116/Kino_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Interhost", Индия
 http://89.33.29.116/ZeeTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Interhost", Дорама
+http://89.33.29.116/dorama_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Interhost", ИНДИЙСКОЕ КИНО
 http://89.33.29.116/Indiya_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Interhost", КИНОСЕРИЯ
@@ -843,6 +855,8 @@ http://89.33.29.116/Sony_Turbo/tracks-v1a1/mono.m3u8
 http://89.33.29.116/FOX_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Interhost", Fox Life
 http://89.33.29.116/Fox_Life_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Interhost", Ужас ТВ HD
+http://89.33.29.116/Horror/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Interhost", TV1000
 http://89.33.29.116/TV1000/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Interhost", TV1000 Action
@@ -863,7 +877,7 @@ http://89.33.29.116/Sky1000Mult_SU/tracks-v1a1/mono.m3u8
 http://89.33.29.116/Sky1000Mult_RU/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Interhost", Sky2000 VHS HD
 http://89.33.29.116/sky2000_VHS/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Sky1000 India HD
+#EXTINF:-1 group-title="Interhost", Sky1000_India
 http://89.33.29.116/Sky1000_India/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Interhost", РЕТРО
 http://89.33.29.116/Retro/tracks-v1a1/mono.m3u8
@@ -873,7 +887,7 @@ http://89.33.29.116/Paramount_Comedy/tracks-v1a1/mono.m3u8
 http://89.33.29.116/StrashnoeHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Interhost", СТРАХ HD
 http://89.33.29.116/strah_hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Легенда
+#EXTINF:-1 group-title="Interhost", Л
 http://89.33.29.116/UFC_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Interhost", ViP Megahit HD
 http://89.33.29.116/TV1000_Megahit_HD/tracks-v1a1/mono.m3u8
@@ -913,6 +927,8 @@ http://89.33.29.116/Kinopokaz_HD2/tracks-v1a1/mono.m3u8
 http://89.33.29.116/pro_lyubov/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Interhost", РУССКАЯ КОМЕДИЯ
 http://89.33.29.116/russkaya_komedia/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Interhost", CineMan
+http://89.33.29.116/CineMan/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Interhost", Сарафан
 http://89.33.29.116/Sarafan/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Interhost", КВН ТВ
@@ -953,7 +969,11 @@ http://89.33.29.116/travel/tracks-v1a1/mono.m3u8
 http://89.33.29.116/Mezzo_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Interhost", ICTV
 http://89.33.29.116/ICTV/mono.m3u8
-#EXTINF:-1 group-title="Interhost", ТЕТ HD
+#EXTINF:-1 group-title="Interhost", 1+1
+http://89.33.29.116/1plus1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Interhost", 2+2
+http://89.33.29.116/2plus2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Interhost", TET UA
 http://89.33.29.116/TET/mono.m3u8
 #EXTINF:-1 group-title="Interhost", Эспресо TV UA
 http://89.33.29.116/EspresoTVUA/mono.m3u8
@@ -983,7 +1003,7 @@ http://89.33.29.116/mama_tv/tracks-v1a1/mono.m3u8
 http://89.33.29.116/ani/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Interhost", Baby TV
 http://89.33.29.116/Baby_TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Солнце
+#EXTINF:-1 group-title="Interhost", CОЛНЦЕ
 http://89.33.29.116/Disney_rus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Interhost", Cartoon Network
 http://89.33.29.116/Cartoon_Network/tracks-v1a1/mono.m3u8
@@ -997,7 +1017,7 @@ http://89.33.29.116/Teleklub/tracks-v1a1/mono.m3u8
 http://89.33.29.116/Nickelodeon/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Interhost", maestro
 http://89.33.29.116/maestro/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Classic Music HD
+#EXTINF:-1 group-title="Interhost", С-Music HD
 http://89.33.29.116/c-music/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Interhost", 360TuneBox
 http://89.33.29.116/360TuneBox/tracks-v1a1/mono.m3u8
@@ -1007,6 +1027,10 @@ http://89.33.29.116/ShansonTV/tracks-v1a1/mono.m3u8
 http://89.33.29.116/Lya-minor/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Interhost", Европа Плюс ТВ
 http://89.33.29.116/Evropa_Plyus_TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Interhost", Bridge TV Classic
+http://89.33.29.116/Bridge_TV_Classic/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Interhost", Bridge TV Фреш
+http://89.33.29.116/Bridge_TV_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Interhost", iConcerts HD
 http://89.33.29.116/iConcertsHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Interhost", Ностальгия
@@ -1057,6 +1081,7 @@ http://89.33.29.116/Setanta_SportsHD_UA/tracks-v1a1/mono.m3u8
 http://89.33.29.116/Viasat_Sport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆", Setanta Eurasia HD
 http://89.33.29.116/SetantaEurasia/tracks-v1a1/mono.m3u8
+
 
 
 
