@@ -3359,6 +3359,10 @@ https://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v1a1/mono.ts.m3u8
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" ,Кавказ 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" ,Волгоград 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/volgograd24-hd/index.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" ,Самара 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/samara/samara24-hd/index.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" ,Запад 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/zapad24-hd/index.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" ,Восток 24
@@ -3381,14 +3385,24 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/play
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" ,ТОЛК
 https://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://i121.fastpic.org/big/2023/0130/92/59fad59b14073636f24bbb90e4177b92.png",Смотрим Мелодрамы
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/tracks-v5a1/mono.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" ,Смотрим 100% Любовь
+https://stream.smotrim.ru/hls/fasttv01/playlist_3.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" ,Смотрим 100% Мужское
+https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" ,Смотрим 100% Классика
+https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" ,Смотрим 100% Праздник
+https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" ,Смотрим 100% Факты
+https://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" ,Смотрим 100% Детское
+https://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" ,Соловьёв Live
+https://stream.smotrim.ru/hls/solovievlive/playlist_6.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" ,Лен ТВ 24
+https://stream.smotrim.ru/hls/lentv24/playlist_5.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" ,Честный детектив
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://i.postimg.cc/t48njFN7/1.png",Смотрим Детям
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-06.smil/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://cdn-st2.smotrim.ru/vh/pictures/xw/456/504/4.png",Смотрим тайны
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-07.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://1tourtv.ru/wp-content/uploads/2026/01/sayt-scaled.png",Первый Туристический
 http://91.186.196.185/hls/hotels/stream.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://i.postimg.cc/ydG9W9Pz/1.jpg",Тел+ Астрахань
