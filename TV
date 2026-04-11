@@ -607,7 +607,154 @@ http://hls.stb.md/WE_SPORT_H264/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6Ikp
 http://hls.stb.md/MATCH_PLANETA_H264/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEwOS4yMDEuMTUyLjE4MSIsIm5iZiI6MTc3NTg5MDYyMiwiZXhwIjoxNzc1OTc3MDIyLCJpYXQiOjE3NzU4OTA2MjIsImlzcyI6InN0Yi5zdGFybmV0Lm1kIn0.3LkSuGXJ53hs_KN3N1gL1GXDkng82l-HCLyglz_nu8U
 
 
-
+#EXTINF:-1 group-title="Scaleway SAS",Первый канал
+http://51.159.108.7:83/play/28115-Perviy/index.m3u8
+#EXTINF:-1 group-title="Scaleway SAS",Россия HD
+http://51.159.108.7:83/play/28114-Russia/index.m3u8
+#EXTINF:-1 group-title="Scaleway SAS",ТНТ
+http://51.159.108.7:83/play/28110-THT/index.m3u8
+#EXTINF:-1 group-title="Scaleway SAS",ТНТ4 HD
+http://51.159.108.7:83/play/27007-THT-4/index.m3u8
+#EXTINF:-1 group-title="Scaleway SAS",НТВ
+http://51.159.108.7:83/play/28112-NTV/index.m3u8
+#EXTINF:-1 group-title="Scaleway SAS",Рен ТВ
+http://51.159.108.7:83/play/28108-Ren-TV/index.m3u8
+#EXTINF:-1 group-title="Scaleway SAS",Охотник и рыболов HD
+http://51.159.108.7:83/play/27010-Ohotnik-I-Rybolov/index.m3u8
+#EXTINF:-1 group-title="Scaleway SAS",TLC
+http://51.159.108.7:83/play/27008-TLC-HD/index.m3u8
+#EXTINF:-1 group-title="Scaleway SAS",National Geographic HD
+http://51.159.108.7:83/play/27011-National-Geographic-HD/index.m3u8
+#EXTINF:-1 group-title="Scaleway SAS",Nat Geo Wild HD
+http://51.159.108.7:83/play/27013-Nat-Geo-Wild-HD/index.m3u8
+#EXTINF:-1 group-title="Scaleway SAS",H2 HD
+http://51.159.108.7:83/play/27014-H2-HD/index.m3u8
+#EXTINF:-1 group-title="Scaleway SAS",RTG HD
+http://51.159.108.7:83/play/27015-Russian-Travel-Guide/index.m3u8
+#EXTINF:-1 group-title="Scaleway SAS",Discovery Channel HD
+http://51.159.108.7:83/play/27017-Discovery-Channel/index.m3u8
+#EXTINF:-1 group-title="Scaleway SAS",ТОЧКА РФ
+http://51.159.108.7:83/play/27018-HDL/index.m3u8
+#EXTINF:-1 group-title="Scaleway SAS",History HD
+http://51.159.108.7:83/play/27019-History/index.m3u8
+#EXTINF:-1 group-title="Scaleway SAS",Animal Planet HD
+http://51.159.108.7:83/play/27020-Animal-Planet-HD/index.m3u8
+#EXTINF:-1 group-title="Scaleway SAS",VIP Serial HD
+http://51.159.108.7:83/play/27000-Viju-Serial/index.m3u8
+#EXTINF:-1 group-title="Scaleway SAS",Amedia 2 HD
+http://51.159.108.7:83/play/27009-Amedia-2/index.m3u8
+#EXTINF:-1 group-title="Scaleway SAS",Fox
+http://51.159.108.7:83/play/27027-Fox/index.m3u8
+#EXTINF:-1 group-title="Scaleway SAS",Fox Life
+http://51.159.108.7:83/play/27028-Fox-Life/index.m3u8
+#EXTINF:-1 group-title="Scaleway SAS",Amedia Premium HD
+http://51.159.108.7:83/play/27030-Amedia-Premium/index.m3u8
+#EXTINF:-1 group-title="Scaleway SAS",Пятый Канал
+http://51.159.108.7:83/play/28100-Pyatyj/index.m3u8
+#EXTINF:-1 group-title="Scaleway SAS",Звезда
+http://51.159.108.7:83/play/28102-Zvezda/index.m3u8
+#EXTINF:-1 group-title="Scaleway SAS",Пятница
+http://51.159.108.7:83/play/28103-Paytnitsa/index.m3u8
+#EXTINF:-1 group-title="Scaleway SAS",ТВ3
+http://51.159.108.7:83/play/28104-TV-3/index.m3u8
+#EXTINF:-1 group-title="Scaleway SAS",Домашний
+http://51.159.108.7:83/play/28107-Domashniy/index.m3u8
+#EXTINF:-1 group-title="Scaleway SAS",СТС
+http://51.159.108.7:83/play/28109-CTC/index.m3u8
+#EXTINF:-1 group-title="Scaleway SAS",Ю
+http://51.159.108.7:83/play/290-U/index.m3u8
+#EXTINF:-1 group-title="Scaleway SAS",2x2
+http://51.159.108.7:83/play/41-2x2/index.m3u8
+#EXTINF:-1 group-title="Scaleway SAS",Еда Приемиум HD
+http://51.159.108.7:83/play/27005-EdaHD/index.m3u8
+#EXTINF:-1 group-title="Scaleway SAS",Food Network
+http://51.159.108.7:83/play/27006-Food-Network/index.m3u8
+#EXTINF:-1 group-title="Scaleway SAS",ТВЦ
+http://51.159.108.7:83/play/28113-TV-Cetner/index.m3u8
+#EXTINF:-1 group-title="Scaleway SAS",2+2
+http://51.159.108.7:83/play/27021-2-Plus-2/index.m3u8
+#EXTINF:-1 group-title="Scaleway SAS",1+1
+http://51.159.108.7:83/play/27022-1-Plus-1/index.m3u8
+#EXTINF:-1 group-title="Scaleway SAS",Nick Jr
+http://51.159.108.7:83/play/27057-NBC/index.m3u8
+#EXTINF:-1 group-title="Scaleway SAS",Романтичное
+http://51.159.108.7:83/play/27004-Romantichnoe/index.m3u8
+#EXTINF:-1 group-title="Scaleway SAS",Премиальное
+http://51.159.108.7:83/play/27036-PremialnoeHD/index.m3u8
+#EXTINF:-1 group-title="Scaleway SAS",Vip Megahit
+http://51.159.108.7:83/play/27037-Viju-Megahit-HD/index.m3u8
+#EXTINF:-1 group-title="Scaleway SAS",Vip Comedy
+http://51.159.108.7:83/play/27038-Viju-Comedy-HD/index.m3u8
+#EXTINF:-1 group-title="Scaleway SAS",Vip Premiere
+http://51.159.108.7:83/play/27039-Viju-Premiere-HD/index.m3u8
+#EXTINF:-1 group-title="Scaleway SAS",Bollywood HD
+http://51.159.108.7:83/play/27040-BollywoodHD/index.m3u8
+#EXTINF:-1 group-title="Scaleway SAS",Шокирующее
+http://51.159.108.7:83/play/27041-Shokiruyushchee/index.m3u8
+#EXTINF:-1 group-title="Scaleway SAS",Комедийное
+http://51.159.108.7:83/play/27042-Komedijnoe/index.m3u8
+#EXTINF:-1 group-title="Scaleway SAS",Остросюжетное
+http://51.159.108.7:83/play/27043-Ostrosuzhetnoe/index.m3u8
+#EXTINF:-1 group-title="Scaleway SAS",Киноужас HD
+http://51.159.108.7:83/play/27044-Kinouzhas/index.m3u8
+#EXTINF:-1 group-title="Scaleway SAS",TV1000
+http://51.159.108.7:83/play/27045-Viju-TV1000/index.m3u8
+#EXTINF:-1 group-title="Scaleway SAS",TV1000 Русское кино
+http://51.159.108.7:83/play/27046-Viju-TV1000-Russkoe/index.m3u8
+#EXTINF:-1 group-title="Scaleway SAS",TV1000 Action
+http://51.159.108.7:83/play/27047-Viju-TV1000-Action/index.m3u8
+#EXTINF:-1 group-title="Scaleway SAS",Наше Крутое HD
+http://51.159.108.7:83/play/27048-Nashe-Krutoe/index.m3u8
+#EXTINF:-1 group-title="Scaleway SAS",CineMan VHS
+http://51.159.108.7:83/play/27049-CineMan-VHS/index.m3u8
+#EXTINF:-1 group-title="Scaleway SAS",Карусель
+http://51.159.108.7:83/play/47-Karusel/index.m3u8
+#EXTINF:-1 group-title="Scaleway SAS",О!
+http://51.159.108.7:83/play/1169-KanalO/index.m3u8
+#EXTINF:-1 group-title="Scaleway SAS",Cartoon Network
+http://51.159.108.7:83/play/27034-Cartoon-Network/index.m3u8
+#EXTINF:-1 group-title="Scaleway SAS",Мульт
+http://51.159.108.7:83/play/27051-Mult/index.m3u8
+#EXTINF:-1 group-title="Scaleway SAS",Капитан Фантастика
+http://51.159.108.7:83/play/27052-Kapitan-Fantastika/index.m3u8
+#EXTINF:-1 group-title="Scaleway SAS",CineMan Cartoon 90
+http://51.159.108.7:83/play/27053-CineMan-Cartoon-90/index.m3u8
+#EXTINF:-1 group-title="Scaleway SAS",JimJam
+http://51.159.108.7:83/play/27054-Jim-Jam/index.m3u8
+#EXTINF:-1 group-title="Scaleway SAS",Nickelodeon HD
+http://51.159.108.7:83/play/27056-Nickelodeon/index.m3u8
+#EXTINF:-1 group-title="Scaleway SAS",CineMan Cartoon Shorts
+http://51.159.108.7:83/play/27058-CineMan-Cartoon-Shorts/index.m3u8
+#EXTINF:-1 group-title="Scaleway SAS",CineMan Cartoons Big
+http://51.159.108.7:83/play/32851-CartoonBig/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Viasat Sport HD
+http://51.159.108.7:83/play/28111-Viju-Sport/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Футбол 1 HD
+http://51.159.108.7:83/play/28000-Match-Foot-Ball-1/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Футбол 2 HD
+http://51.159.108.7:83/play/28001-Match-Foot-Ball-2/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Футбол 3 HD
+http://51.159.108.7:83/play/28002-Match-Foot-Ball-3/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч ТВ
+http://51.159.108.7:83/play/28003-Match-TV/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Хоккейный HD
+http://51.159.108.7:83/play/28004-Hokkejnyj/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",KHL Prime
+http://51.159.108.7:83/play/28005-KHL-Prime/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч Премьер HD
+http://51.159.108.7:83/play/28007-Match-Premier/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Боец HD
+http://51.159.108.7:83/play/28008-Match-Boets/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Игра HD
+http://51.159.108.7:83/play/28009-Match-Igra/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Арена HD
+http://51.159.108.7:83/play/28010-Match-Arena/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Eurosport 1 HD
+http://51.159.108.7:83/play/28014-Eurosport-1-HD/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Футбольный HD
+http://51.159.108.7:83/play/28016-Super-Tennis/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",FightBox HD
+http://51.159.108.7:83/play/84249-FightBoxHD/index.m3u8
 
 
 
