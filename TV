@@ -3363,6 +3363,8 @@ https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
 https://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" ,Большая Азия
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" ,Москва 24
+https://stream.smotrim.ru/hls/moscow_24/playlist_3.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" ,Кавказ 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" ,Волгоград 24
