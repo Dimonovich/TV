@@ -610,8 +610,7 @@ http://hls.stb.md/MATCH_PLANETA_H264/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cC
 
 
 
-#EXTINF:-1 group-title="Hetzner Online GmbH",Natgeo WILD
-http://178.63.98.119:8000/play/a025/index.m3u8
+
 #EXTINF:-1 group-title="Hetzner Online GmbH",National Geographic HD
 http://178.63.98.119:8000/play/a01o/index.m3u8
 #EXTINF:-1 group-title="Hetzner Online GmbH",Cartoons 90
@@ -3401,10 +3400,10 @@ https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8
 https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" ,Смотрим 100% Праздник
 https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" ,Смотрим 100% Факты
-https://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" ,Смотрим 100% Детское
 https://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" ,Смотрим 100% Факты
+https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" ,Соловьев Live
 https://stream.smotrim.ru/hls/solovievlive/playlist_6.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" ,Лен ТВ 24
