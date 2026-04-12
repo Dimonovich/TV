@@ -805,6 +805,11 @@ http://213.230.65.254:8200/play/a019
 
 
 
+
+
+
+
+
 #EXTINF:-1 group-title="IZONE", Первый HD
 http://46.32.176.50/perviy/index.m3u8
 #EXTINF:-1 group-title="IZONE", Россия 1
@@ -1027,26 +1032,33 @@ http://46.32.176.50/anitv/index.m3u8
 http://46.32.176.50/karusel/index.m3u8
 #EXTINF:-1 group-title="IZONE", Nick jr
 http://46.32.176.50/nickelodeonjunior/index.m3u8
-#EXTINF:-1 group-title="IZONE", Матч ТВ
+#EXTINF:-1 group-title="Спорткомплекс 🏆", Матч ТВ
 http://46.32.176.50/matchtv/index.m3u8
-#EXTINF:-1 group-title="IZONE", Матч HD
+#EXTINF:-1 group-title="Спорткомплекс 🏆", Матч HD
 http://46.32.176.50/MatchTVHD/index.m3u8
-#EXTINF:-1 group-title="IZONE", MMA-TV
+#EXTINF:-1 group-title="Спорткомплекс 🏆", MMA-TV
 http://46.32.176.50/mmatv/index.m3u8
-#EXTINF:-1 group-title="IZONE", Eurosport 2
+#EXTINF:-1 group-title="Спорткомплекс 🏆", Eurosport 1
+http://46.32.176.50/eurosport/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆", Eurosport 2
 http://46.32.176.50/eurosport2/index.m3u8
-#EXTINF:-1 group-title="IZONE", Матч! Игра
+#EXTINF:-1 group-title="Спорткомплекс 🏆", Матч! Игра
 http://46.32.176.50/matchiqra/index.m3u8
-#EXTINF:-1 group-title="IZONE", Матч! Арена HD
+#EXTINF:-1 group-title="Спорткомплекс 🏆", Матч! Арена HD
 http://46.32.176.50/MatchArenaHD/index.m3u8
-#EXTINF:-1 group-title="IZONE", Viasat Sport
+#EXTINF:-1 group-title="Спорткомплекс 🏆", Матч! Боец
+http://46.32.176.50/boets/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆", Viasat Sport
 http://46.32.176.50/viasatsport/index.m3u8
-#EXTINF:-1 group-title="IZONE", Бокс ТВ
+#EXTINF:-1 group-title="Спорткомплекс 🏆"", Бокс ТВ
 http://46.32.176.50/bokstv/index.m3u8
-#EXTINF:-1 group-title="IZONE", KHL
+#EXTINF:-1 group-title="Спорткомплекс 🏆", KHL
 http://46.32.176.50/kxltv/index.m3u8
-#EXTINF:-1 group-title="IZONE", Extreme Sports
+#EXTINF:-1 group-title="Спорткомплекс 🏆", Extreme Sports
 http://46.32.176.50/extremesport/index.m3u8
+
+
+
 
 
 
