@@ -662,10 +662,8 @@ http://85.117.37.41/fut3/index.m3u8
 http://217.21.34.162:38002/rossiyakhd/index.m3u8
 #EXTINF:-1 group-title="Unitary Services Enterprise",ТНТ-International (Беларусь)
 http://217.21.34.162:38006/tntint/index.m3u8
-#EXTINF:-1 group-title="Unitary Services Enterprise",RTR Беларусь HD
+#EXTINF:-1 group-title="Unitary Services Enterprise",РТР-Беларусь
 http://217.21.34.162:38005/rtr/index.m3u8
-#EXTINF:-1 group-title="Unitary Services Enterprise",RTR Беларусь
-http://217.21.34.162:38007/rtr/index.m3u8
 #EXTINF:-1 group-title="Unitary Services Enterprise",НТВ Беларусь
 http://217.21.34.162:38007/ntv/index.m3u8
 #EXTINF:-1 group-title="Unitary Services Enterprise",НТВ Право
@@ -684,7 +682,7 @@ http://217.21.34.162:38005/stv/index.m3u8
 http://217.21.34.162:38003/DocuBoxHD/index.m3u8
 #EXTINF:-1 group-title="Unitary Services Enterprise",Терра Инкогнита
 http://217.21.34.162:38003/terra/index.m3u8
-#EXTINF:-1 group-title="Unitary Services Enterprise",Galaxy HD
+#EXTINF:-1 group-title="Unitary Services Enterprise",Galaxy TV
 http://217.21.34.162:38006/GalaxyHD/index.m3u8
 #EXTINF:-1 group-title="Unitary Services Enterprise",Точка РФ
 http://217.21.34.162:38006/hdl/index.m3u8
@@ -700,7 +698,7 @@ http://217.21.34.162:38003/cinema/index.m3u8
 http://217.21.34.162:38003/FashionBoxHD/index.m3u8
 #EXTINF:-1 group-title="Unitary Services Enterprise",Классика Кино
 http://217.21.34.162:38003/klassikakino/index.m3u8
-#EXTINF:-1 group-title="Unitary Services Enterprise",Ко есть Кто
+#EXTINF:-1 group-title="Unitary Services Enterprise",Кто есть Кто
 http://217.21.34.162:38003/ktoestkto/index.m3u8
 #EXTINF:-1 group-title="Unitary Services Enterprise",Неизвестная планета
 http://217.21.34.162:38003/neplaneta/index.m3u8
@@ -752,11 +750,11 @@ http://217.21.34.162:38003/amediapremiumhd/index.m3u8
 http://217.21.34.162:38003/vhska/index.m3u8
 #EXTINF:-1 group-title="Unitary Services Enterprise",Муви ТВ
 http://217.21.34.162:38004/muvitv/index.m3u8
-#EXTINF:-1 group-title="Unitary Services Enterprise",Воен ТВ
+#EXTINF:-1 group-title="Unitary Services Enterprise",ВоенТВ [BY]
 http://217.21.34.162:38004/voentv/index.m3u8
 #EXTINF:-1 group-title="Unitary Services Enterprise",365 дней
 http://217.21.34.162:38006/365dnei/index.m3u8
-#EXTINF:-1 group-title="Unitary Services Enterprise",Звязда Беларусь
+#EXTINF:-1 group-title="Unitary Services Enterprise",Звязда
 http://217.21.34.162:38004/zvezda/index.m3u8
 #EXTINF:-1 group-title="Unitary Services Enterprise",Amedia 1 HD
 http://217.21.34.162:38004/amedia1hd/index.m3u8
@@ -802,17 +800,17 @@ http://217.21.34.162:38001/bridgetv/index.m3u8
 http://217.21.34.162:38003/europaplus/index.m3u8
 #EXTINF:-1 group-title="Unitary Services Enterprise",RU.TV
 http://217.21.34.162:38001/rutv/index.m3u8
-#EXTINF:-1 group-title="Unitary Services Enterprise",Матч! Планета HD
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Планета HD
 http://217.21.34.162:38003/matchplanetahd/index.m3u8
-#EXTINF:-1 group-title="Unitary Services Enterprise",Футбол
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Футбол
 http://217.21.34.162:38006/football/index.m3u8
-#EXTINF:-1 group-title="Unitary Services Enterprise",KHL HD
+#EXTINF:-1 group-title="Спорткомплекс 🏆",KHL HD
 http://217.21.34.162:38006/khlhd/index.m3u8
-#EXTINF:-1 group-title="Unitary Services Enterprise",MMA-TV.COM
+#EXTINF:-1 group-title="Спорткомплекс 🏆",MMA-TV.COM
 http://217.21.34.162:38006/m1global/index.m3u8
-#EXTINF:-1 group-title="Unitary Services Enterprise",Футбол HD
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Футбол HD
 http://217.21.34.162:38003/footballhd/index.m3u8
-#EXTINF:-1 group-title="Unitary Services Enterprise",Бокс ТВ
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Бокс ТВ
 http://217.21.34.162:38003/bokstv/index.m3u8
 
 
