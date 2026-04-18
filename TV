@@ -26,10 +26,14 @@ https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/tracks-v1a
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=cyHkNHyNlKjyMSaDl9s5Iw&e=1776885054&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 group-title="TEST ⓵",Viju TV1000 Romantica HD
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=w2FNAGw5P6Xh1HesXSylPQ&e=1776885025&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
-#EXTINF:-1 group-title="TEST ⓵", Investigation Discovery
+#EXTINF:-1 group-title="TEST ⓵",Investigation Discovery
 http://dtv.vol.net.ua/Investigation_Discovery/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵", DocuBox HD
+#EXTINF:-1 group-title="TEST ⓵",DocuBox HD
 http://dtv.vol.net.ua/DOCUBOX_HD/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Cartoon Network
+http://45.132.87.69:8080/cartoon_network/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Матч ТВ
+http://45.132.87.69:8080/match/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Россия 1 HD
 http://87.246.54.249:8080/Rossia1/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Пятница! International
