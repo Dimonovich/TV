@@ -62,6 +62,8 @@ http://ukr.ukrainske.tv/493/keytvainua/video.m3u8
 http://ukr.ukrainske.tv/399/keytvainua/video.m3u8
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://provider-static.plex.tv/3/epg/channels/logos/gracenote/38945a2afcb8ce8ae6b5fe557e908b2f.png",Cirque du Soleil
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-67642f277c5e3b38af72dcdb.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Digi 4K [RO]
+http://188.214.144.230:5555/digi4k
 #EXTINF:-1 group-title="TEST ⓵",Загородная жизнь
 http://185.57.68.33/40/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵",ДимГрад 24
