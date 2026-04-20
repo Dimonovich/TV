@@ -3416,13 +3416,13 @@ https://tv.samaragis.ru/new/new/tracks-v1a1/0/stream.m3u8
 https://100.free-iptvchannel.workers.dev/365_dnej_tv/index.m3u8
 #EXTINF:-1 group-title="Free (VPN)",#КтоКуда
 https://100.free-iptvchannel.workers.dev/kto_kuda/index.m3u8
-#EXTINF:-1 tvg-id="animal-planet-eu" catchup="flussonic" tvg-name="Animal Planet HD" catchup-days="1" group-title="Free (VPN)",Animal Planet HD
+#EXTINF:-1 group-title="Free (VPN)",Animal Planet HD
 https://100.free-iptvchannel.workers.dev/animal_planet_hd/index.m3u8
 #EXTINF:-1 group-title="Free (VPN)",Big Planet HD
 https://100.free-iptvchannel.workers.dev/big_planet_hd/index.m3u8
 #EXTINF:-1 group-title="Free (VPN)",Curiosity Stream HD
 https://100.free-iptvchannel.workers.dev/curiosity_stream_hd/index.m3u8
-#EXTINF:-1 tvg-id="discovery-channel" catchup="flussonic" tvg-name="Discovery Channel HD" catchup-days="1" group-title="Free (VPN)",Discovery Channel HD
+#EXTINF:-1 group-title="Free (VPN)",Discovery Channel HD
 https://100.free-iptvchannel.workers.dev/discovery_channel_hd/index.m3u8
 #EXTINF:-1 group-title="Free (VPN)",Еда
 https://100.free-iptvchannel.workers.dev/eda/index.m3u8
@@ -3430,7 +3430,7 @@ https://100.free-iptvchannel.workers.dev/eda/index.m3u8
 https://100.free-iptvchannel.workers.dev/history_hd/index.m3u8
 #EXTINF:-1 group-title="Free (VPN)",National Geographic
 https://100.free-iptvchannel.workers.dev/national_geographic/index.m3u8
-#EXTINF:-1 group-title="Free (VPN)",Океан TV HD
+#EXTINF:-1 group-title="Free (VPN)",Ocean TV
 https://100.free-iptvchannel.workers.dev/ocean_hd/index.m3u8
 #EXTINF:-1 group-title="Free (VPN)",RTG HD
 https://100.free-iptvchannel.workers.dev/RTG_HD/index.m3u8
@@ -3480,7 +3480,7 @@ https://100.free-iptvchannel.workers.dev/polet_tv/index.m3u8
 https://100.free-iptvchannel.workers.dev/russkaja_istorija_hd/index.m3u8
 #EXTINF:-1 group-title="Free (VPN)",Усадьба HD
 https://100.free-iptvchannel.workers.dev/usadba_hd/index.m3u8
-#EXTINF:-1 tvg-id="tlc" catchup="flussonic" tvg-name="TLC Россия HD" catchup-days="1" group-title="Free (VPN)",TLC HD
+#EXTINF:-1 group-title="Free (VPN)",TLC HD
 https://100.free-iptvchannel.workers.dev/tlc_hd/index.m3u8
 #EXTINF:-1 group-title="Free (VPN)",Дом Кино Премиум HD
 https://100.free-iptvchannel.workers.dev/dom_kino_premium_hd/index.m3u8
@@ -3490,7 +3490,7 @@ https://100.free-iptvchannel.workers.dev/komedija/index.m3u8
 https://100.free-iptvchannel.workers.dev/kinopremera_hd/index.m3u8
 #EXTINF:-1 group-title="Free (VPN)",Киномикс
 https://100.free-iptvchannel.workers.dev/kinomiks/index.m3u8
-#EXTINF:-1 tvg-id="kinomiks" catchup="flussonic" catchup-days="1" group-title="Free (VPN)",Киномикс HD
+#EXTINF:-1 group-title="Free (VPN)",Киномикс HD
 https://100.free-iptvchannel.workers.dev/kinomiks_hd/index.m3u8
 #EXTINF:-1 group-title="Free (VPN)",КиноКульт HD
 https://100.free-iptvchannel.workers.dev/kinokult_hd/index.m3u8
@@ -3868,33 +3868,33 @@ https://100.free-iptvchannel.workers.dev/match_strana_hd/index.m3u8
 https://100.free-iptvchannel.workers.dev/match_boets/index.m3u8
 #EXTINF:-1 group-title="Free (VPN)",Матч! Боец HD
 https://100.free-iptvchannel.workers.dev/match_boets_hd/index.m3u8
-#EXTINF:-1 catchup="flussonic" catchup-days="1" group-title="Free (VPN)",Матч! Премьер HD
+#EXTINF:-1 group-title="Free (VPN)",Матч! Премьер HD
 https://100.free-iptvchannel.workers.dev/match_premier_hd/index.m3u8
-#EXTINF:-1 tvg-id="match-planeta" catchup="flussonic" tvg-name="Матч! Планета" catchup-days="1" group-title="Free (VPN)",Матч! Планета
+#EXTINF:-1 group-title="Free (VPN)",Матч! Планета
 https://100.free-iptvchannel.workers.dev/match_planeta/index.m3u8
 #EXTINF:-1 group-title="Free (VPN)",Матч! Футбол 1
 https://100.free-iptvchannel.workers.dev/match_futbol_1/index.m3u8
-#EXTINF:-1 tvg-id="match-football1" catchup="flussonic" catchup-days="1" group-title="Free (VPN)",Матч! Футбол 1 HD
+#EXTINF:-1 group-title="Free (VPN)",Матч! Футбол 1 HD
 https://100.free-iptvchannel.workers.dev/match_futbol_1_hd/index.m3u8
 #EXTINF:-1 group-title="Free (VPN)",Матч! Футбол 2
 https://100.free-iptvchannel.workers.dev/match_futbol_2/index.m3u8
-#EXTINF:-1 tvg-id="match-football2" catchup="flussonic" catchup-days="1" group-title="Free (VPN)",Матч! Футбол 2 HD
+#EXTINF:-1 group-title="Free (VPN)",Матч! Футбол 2 HD
 https://100.free-iptvchannel.workers.dev/match_futbol_2_hd/index.m3u8
 #EXTINF:-1 group-title="Free (VPN)",Матч! Футбол 3
 https://100.free-iptvchannel.workers.dev/match_futbol_3/index.m3u8
-#EXTINF:-1 tvg-id="match-football3" catchup="flussonic" catchup-days="1" group-title="Free (VPN)",Матч! Футбол 3 HD
+#EXTINF:-1 group-title="Free (VPN)",Матч! Футбол 3 HD
 https://100.free-iptvchannel.workers.dev/match_futbol_3_hd/index.m3u8
-#EXTINF:-1 tvg-id="okko-sport" catchup="flussonic" catchup-days="1" group-title="Free (VPN)",Окко Спорт HD
+#EXTINF:-1 group-title="Free (VPN)",Окко Спорт HD
 https://100.free-iptvchannel.workers.dev/okko_sport_hd/index.m3u8
-#EXTINF:-1 tvg-id="okko-football" catchup="flussonic" catchup-days="1" group-title="Free (VPN)",Окко Футбол HD
+#EXTINF:-1 group-title="Free (VPN)",Окко Футбол HD
 https://100.free-iptvchannel.workers.dev/okko_futbol_hd/index.m3u8
-#EXTINF:-1 tvg-id="okko-sport-2" catchup="flussonic" catchup-days="1" group-title="Free (VPN)",Окко Прайм Спорт HD
+#EXTINF:-1 group-title="Free (VPN)",Окко Прайм Спорт HD
 https://100.free-iptvchannel.workers.dev/okko_praym_sport_hd/index.m3u8
 #EXTINF:-1 group-title="Free (VPN)",KHL
 https://100.free-iptvchannel.workers.dev/KHL/index.m3u8
-#EXTINF:-1 tvg-id="kxl" catchup="flussonic" catchup-days="1" group-title="Free (VPN)",KHL HD
+#EXTINF:-1 group-title="Free (VPN)",KHL HD
 https://100.free-iptvchannel.workers.dev/KHL_HD/index.m3u8
-#EXTINF:-1 tvg-id="kxl-hd" catchup="flussonic" catchup-days="1" group-title="Free (VPN)",KHL Prime HD
+#EXTINF:-1 group-title="Free (VPN)",KHL Prime HD
 https://100.free-iptvchannel.workers.dev/KHL_Prime_HD/index.m3u8
 #EXTINF:-1 group-title="Free (VPN)",Конный мир HD
 https://100.free-iptvchannel.workers.dev/konnyy_mir_hd/index.m3u8
