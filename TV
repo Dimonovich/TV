@@ -2609,6 +2609,11 @@ http://176.118.197.101/KHL/index.m3u8
 
 
 
+
+
+https://live20.bozztv.com/giatvplayout7/ushba-midnightlustmusic/index.m3u8
+
+
 #EXTINF:-1 group-title="📺 Usba TV" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg",Доктор Достоевский
 https://live20.bozztv.com/giatvplayout7/ushba3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Usba TV" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Star Media
@@ -2743,9 +2748,13 @@ https://live20.bozztv.com/giatvplayout7/ushba-t3/tracks-v1a1/mono.m3u8
 https://live20.bozztv.com/giatvplayout7/ushba-t4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Usba TV" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Музыка 5
 https://live20.bozztv.com/giatvplayout7/ushba63/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Usba TV" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Музыка 5
-https://live20.bozztv.com/giatvplayout7/ushba-monj/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Usba TV" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Музыка 6
+https://live20.bozztv.com/giatvplayout7/ushba-monj/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📺 Usba TV" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Музыка 7
+https://live20.bozztv.com/giatvplayout7/ushba-m3/index.m3u8
+#EXTINF:-1 group-title="📺 Usba TV" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Midnight Lust Music
+https://live20.bozztv.com/giatvplayout7/ushba-midnightlustmusic/index.m3u8
+#EXTINF:-1 group-title="📺 Usba TV" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Mafia
 https://live20.bozztv.com/giatvplayout7/ushba-mafia/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Usba TV" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Kpop Play TV
 https://live20.bozztv.com/giatvplayout7/ushba-m4/tracks-v1a1/mono.m3u8
@@ -2761,8 +2770,11 @@ https://live20.bozztv.com/giatvplayout7/ushba-m8/tracks-v1a1/mono.m3u8
 https://live20.bozztv.com/giatvplayout7/ushba-m9/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Usba TV" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Мода 6
 https://live20.bozztv.com/giatvplayout7/ushba-m1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📺 Usba TV" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Ai Video
+https://live20.bozztv.com/giatvplayout7/ushba-aivideo/index.m3u8
 #EXTINF:-1 group-title="📺 Usba TV" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Fashion Channel
 https://live20.bozztv.com/giatvplayout7/ushba19/tracks-v1a1/mono.m3u8
+
 
 
 
