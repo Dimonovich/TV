@@ -51,23 +51,7 @@
         .telegram-link { background: #0088cc; border: none; margin-top: 8px; }
         .telegram-link a { color: white !important; font-weight: bold; }
         .telegram-link a:hover { background: #006699; }
-        .counter {
-            margin-top: 24px;
-            padding-top: 20px;
-            border-top: 1px solid #e9ecef;
-            background: #f8f9fa;
-            border-radius: 16px;
-            padding: 16px;
-            font-size: 1rem;
-        }
-        .counter-number {
-            font-size: 2rem;
-            font-weight: bold;
-            color: #e67e22;
-        }
-        .counter small { display: block; font-size: 0.7rem; color: #adb5bd; margin-top: 8px; }
-        .footer-note { margin-top: 16px; font-size: 0.7rem; color: #adb5bd; }
-        .status-loading { color: #6c757d; font-size: 0.9rem; }
+        .footer-note { margin-top: 24px; font-size: 0.7rem; color: #adb5bd; }
     </style>
 </head>
 <body>
@@ -86,55 +70,9 @@
         <div class="link-card telegram-link"><a href="https://t.me/+ToSe3CIHnaZjNTMy" target="_blank">📱 Подпишись в Telegram</a></div>
     </div>
 
-    <div class="counter" id="visitor-counter">
-        <div class="status-loading">📊 Загрузка статистики...</div>
-    </div>
     <div class="footer-note">
-        Уникальные посетители за всё время
+        Приятного просмотра! 🎬
     </div>
 </div>
-
-<!-- GoatCounter скрипт (ваш аккаунт dimonovich) -->
-<script data-goatcounter="https://dimonovich.goatcounter.com/count"
-        async src="//gc.zgo.at/count.js"></script>
-
-<!-- Код для отображения счётчика на странице -->
-<script>
-    // Функция для отображения счётчика
-    function displayVisitorCount() {
-        const counterDiv = document.getElementById('visitor-counter');
-        
-        // Проверяем, загрузился ли GoatCounter
-        if (typeof window.goatcounter !== 'undefined' && window.goatcounter.count) {
-            // Запрашиваем данные через API GoatCounter
-            fetch('https://dimonovich.goatcounter.com/api/v0/count?path=TOTAL')
-                .then(response => response.json())
-                .then(data => {
-                    const count = data.count || 0;
-                    counterDiv.innerHTML = `
-                        <div>
-                            👥 Уникальных посетителей: <span class="counter-number">${count}</span>
-                            <small>* Считается один раз с каждого устройства</small>
-                        </div>
-                    `;
-                })
-                .catch(error => {
-                    console.error('Ошибка загрузки счётчика:', error);
-                    counterDiv.innerHTML = `
-                        <div>
-                            👥 Уникальных посетителей: <span class="counter-number">...</span>
-                            <small>Статистика обновится позже</small>
-                        </div>
-                    `;
-                });
-        } else {
-            // Если GoatCounter ещё не загрузился, пробуем снова через 1 секунду
-            setTimeout(displayVisitorCount, 1000);
-        }
-    }
-    
-    // Запускаем отображение счётчика после загрузки страницы
-    document.addEventListener('DOMContentLoaded', displayVisitorCount);
-</script>
 </body>
 </html>
