@@ -53,9 +53,6 @@
             border: 1px solid #ffbc5e;
         }
 
-        /* ============================================ */
-        /*   УЛУЧШЕННЫЙ ПЕРЕЛИВ ДЛЯ ЗАГОЛОВКА */
-        /* ============================================ */
         .shimmer-title {
             font-size: 3rem;
             font-weight: 800;
@@ -118,7 +115,6 @@
             margin-bottom: 20px;
         }
 
-        /* СТИЛИ КНОПОК СТАНЦИЙ: ОБЪЁМ + ПЕРЕЛИВЧАТАЯ КАЙМА */
         .station-card {
             background: #10131fcc;
             border: none;
@@ -239,9 +235,6 @@
             color: #ffdeae;
         }
 
-        /* ============================================ */
-        /*  ПЛЕЕР С НЕОНОВОЙ ПЕРЕЛИВАЮЩЕЙ ПОДСВЕТКОЙ ВОКРУГ ПЛАСТИНКИ */
-        /* ============================================ */
         .player-deck {
             padding: 28px 20px 28px 20px;
             display: flex;
@@ -255,10 +248,8 @@
             display: flex;
             justify-content: center;
             margin-bottom: 8px;
-            /* Контейнер для неонового свечения вокруг пластинки */
         }
 
-        /* Главный враппер диска с псевдоэлементом для бегающих неоновых огней */
         .vinyl-disc-panda {
             position: relative;
             width: 180px;
@@ -272,7 +263,7 @@
             transition: box-shadow 0.2s;
         }
 
-        /* НЕОНОВОЕ ПЕРЕЛИВАЮЩЕЕСЯ КОЛЬЦО ВОКРУГ ПЛАСТИНКИ (как бегающие огни) */
+        /* НЕОНОВОЕ ПЕРЕЛИВАЮЩЕЕСЯ КОЛЬЦО ВОКРУГ ПЛАСТИНКИ */
         .vinyl-disc-panda::before {
             content: '';
             position: absolute;
@@ -293,7 +284,6 @@
             pointer-events: none;
         }
 
-        /* Дополнительное тонкое мерцающее кольцо для объёма */
         .vinyl-disc-panda::after {
             content: '';
             position: absolute;
@@ -316,44 +306,16 @@
             pointer-events: none;
         }
 
-        /* Анимация вращения неонового градиента (огоньки бегают по кругу) */
         @keyframes neonOrbit {
-            0% {
-                background-position: 0% 0%;
-                transform: rotate(0deg);
-            }
-            100% {
-                background-position: 100% 100%;
-                transform: rotate(360deg);
-            }
+            0% { background-position: 0% 0%; transform: rotate(0deg); }
+            100% { background-position: 100% 100%; transform: rotate(360deg); }
         }
 
         @keyframes neonOrbitReverse {
-            0% {
-                background-position: 100% 0%;
-                transform: rotate(0deg);
-            }
-            100% {
-                background-position: 0% 100%;
-                transform: rotate(-360deg);
-            }
+            0% { background-position: 100% 0%; transform: rotate(0deg); }
+            100% { background-position: 0% 100%; transform: rotate(-360deg); }
         }
 
-        /* При включенном воспроизведении — неоновая подсветка загорается и переливается */
-        .playing-animation .vinyl-disc-panda::before,
-        .playing-animation .vinyl-disc-panda::after {
-            opacity: 0.9;
-        }
-
-        /* Когда плеер на паузе или остановлен — тусклое свечение или полупрозрачное (но не отключаем полностью) */
-        .vinyl-disc-panda::before {
-            opacity: 0.2;
-        }
-        .vinyl-disc-panda::after {
-            opacity: 0.1;
-        }
-
-        /* Во время проигрывания усиливаем и добавляем пульсацию */
         .playing-animation .vinyl-disc-panda::before {
             animation: neonOrbit 3s linear infinite, neonPulse 1.2s ease-in-out infinite alternate;
             opacity: 1;
@@ -364,17 +326,19 @@
             opacity: 0.8;
             filter: blur(8px);
         }
+        .vinyl-disc-panda::before { opacity: 0.2; }
+        .vinyl-disc-panda::after { opacity: 0.1; }
 
         @keyframes neonPulse {
             0% { opacity: 0.7; filter: blur(10px); }
             100% { opacity: 1; filter: blur(16px); }
         }
-
         @keyframes neonPulseSoft {
             0% { opacity: 0.5; filter: blur(6px); }
             100% { opacity: 0.9; filter: blur(10px); }
         }
 
+        /* Вращающийся слой — теперь через JS, но оставляем базовые стили */
         .spinning-layer-panda {
             width: 100%;
             height: 100%;
@@ -384,9 +348,8 @@
             display: flex;
             align-items: center;
             justify-content: center;
-            animation: spinVinyl 12s linear infinite;
-            animation-play-state: paused;
-            transition: all 0.2s ease;
+            will-change: transform;
+            /* Начальное состояние без вращения */
         }
 
         .panda-center-label {
@@ -416,15 +379,6 @@
             border-radius: 50%;
             pointer-events: none;
             background: repeating-radial-gradient(circle at 30% 30%, rgba(0,0,0,0) 0px, rgba(0,0,0,0) 6px, rgba(255,255,200,0.04) 6px, rgba(0,0,0,0.1) 8px);
-        }
-
-        @keyframes spinVinyl {
-            from { transform: rotate(0deg); }
-            to { transform: rotate(360deg); }
-        }
-
-        .playing-animation .spinning-layer-panda {
-            animation-play-state: running !important;
         }
 
         .action-buttons {
@@ -551,7 +505,7 @@
 
     <div class="player-deck" id="playerDeck">
         <div class="turntable-wrapper">
-            <div class="vinyl-disc-panda" id="vinylDiscGlow">
+            <div class="vinyl-disc-panda">
                 <div class="spinning-layer-panda" id="pandaVinylSpin">
                     <div class="panda-center-label">
                         <div class="panda-emoji-large" id="pandaEmoji">🐼</div>
@@ -606,11 +560,57 @@
     audio.preload = "metadata";
     let currentIndex = 0;
     let isPlaying = false;
-
+    
+    // ========== JS АНИМАЦИЯ ВРАЩЕНИЯ (работает везде, включая Opera Android) ==========
+    let rotationAngle = 0;
+    let animationFrameId = null;
+    let lastTimestamp = 0;
+    const ROTATION_SPEED = 0.18; // градусов за кадр при 60fps ~ 10.8 град/сек
+    
+    function rotateVinyl(timestamp) {
+        if (!isPlaying) return;
+        
+        if (lastTimestamp) {
+            const delta = Math.min(50, timestamp - lastTimestamp);
+            if (delta > 0) {
+                // Плавное вращение в зависимости от времени
+                rotationAngle += ROTATION_SPEED * (delta / 16.67);
+                if (rotationAngle >= 360) rotationAngle -= 360;
+                if (pandaVinylSpin) {
+                    pandaVinylSpin.style.transform = `rotate(${rotationAngle}deg)`;
+                }
+            }
+        }
+        lastTimestamp = timestamp;
+        animationFrameId = requestAnimationFrame(rotateVinyl);
+    }
+    
+    function startRotation() {
+        if (animationFrameId) cancelAnimationFrame(animationFrameId);
+        lastTimestamp = 0;
+        animationFrameId = requestAnimationFrame(rotateVinyl);
+    }
+    
+    function stopRotation() {
+        if (animationFrameId) {
+            cancelAnimationFrame(animationFrameId);
+            animationFrameId = null;
+        }
+        // Не сбрасываем угол, чтобы при паузе пластинка замирала в текущем положении
+    }
+    
+    function resetRotationAngle() {
+        rotationAngle = 0;
+        if (pandaVinylSpin) {
+            pandaVinylSpin.style.transform = `rotate(0deg)`;
+        }
+    }
+    
     function setVinylSpinState(playState) {
         if (!pandaVinylSpin) return;
         if (playState) {
             playerDeckDiv.classList.add('playing-animation');
+            startRotation();
             if (pandaEmojiSpan) {
                 pandaEmojiSpan.style.transform = 'scale(1.08)';
                 setTimeout(() => {
@@ -619,6 +619,7 @@
             }
         } else {
             playerDeckDiv.classList.remove('playing-animation');
+            stopRotation();
             if (pandaEmojiSpan) pandaEmojiSpan.style.transform = 'scale(1)';
         }
     }
@@ -743,6 +744,8 @@
         playBtn.innerText = '▶';
         updateStationInfo();
         statusMsgSpan.innerText = '🐼 Нажмите Play, пластинка с пандой закружится';
+        // Инициализируем угол
+        resetRotationAngle();
     }
 
     playBtn.addEventListener('click', togglePlayPause);
