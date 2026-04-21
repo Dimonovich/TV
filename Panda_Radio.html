@@ -391,7 +391,7 @@
 </div>
 
 <script>
-    // ---------- СПИСОК ВСЕХ СТАНЦИЙ (10 шт) ----------
+
     const stationsList = [
         { name: "60s & 70s", url: "http://strm112.1.fm/60s_70s_mobile_mp3", icon: "🎸" },
         { name: "80s & 90s", url: "http://strm112.1.fm/80s_90s_mobile_mp3", icon: "🎤" },
@@ -405,7 +405,7 @@
         { name: "Club Beats", url: "http://strm112.1.fm/club_mobile_mp3", icon: "🔊" }
     ];
 
-    // DOM элементы
+
     const stationsContainer = document.getElementById('stationsContainer');
     const currentStationTitle = document.getElementById('currentStationTitle');
     const liveLed = document.getElementById('liveLed');
@@ -418,13 +418,13 @@
     const pandaVinylSpin = document.getElementById('pandaVinylSpin');
     const pandaEmojiSpan = document.getElementById('pandaEmoji');
 
-    // Аудио объект
+
     let audio = new Audio();
     audio.preload = "metadata";
     let currentIndex = 0;
     let isPlaying = false;
 
-    // Функция управления вращением пластинки (визуал)
+
     function setVinylSpinState(playState) {
         if (!pandaVinylSpin) return;
         if (playState) {
@@ -444,7 +444,7 @@
         }
     }
 
-    // Отрисовка кнопок станций
+
     function renderStationButtons() {
         stationsContainer.innerHTML = '';
         stationsList.forEach((station, idx) => {
@@ -474,7 +474,7 @@
         });
     }
 
-    // Обновить UI информации
+
     function updateStationInfo() {
         const station = stationsList[currentIndex];
         if (station) {
@@ -494,7 +494,7 @@
         highlightActiveButton();
     }
 
-    // Остановить текущее воспроизведение, сбросить аудио
+
     function stopCurrentPlayback(resetSrc = false) {
         audio.pause();
         isPlaying = false;
@@ -507,13 +507,13 @@
         playBtn.innerText = '▶';
     }
 
-    // Переключение станции
+
     function changeStation(newIndex, autoPlay = true) {
         if (newIndex < 0) newIndex = 0;
         if (newIndex >= stationsList.length) newIndex = stationsList.length - 1;
         
         const wasPlayingBefore = isPlaying;
-        // полная остановка текущего потока
+
         audio.pause();
         audio.src = '';
         audio.load();
@@ -523,7 +523,7 @@
         audio.src = newStation.url;
         audio.load();
         
-        // сбрасываем обработчик ошибок
+
         audio.onerror = null;
         
         if (autoPlay && wasPlayingBefore) {
@@ -565,7 +565,7 @@
             }
         }
         
-        // Обработка ошибок после установки src
+
         audio.onerror = (e) => {
             console.error("Ошибка воспроизведения:", e);
             if (isPlaying) {
@@ -594,7 +594,7 @@
         audio.volume = parseFloat(volSlider.value);
     }
     
-    // Toggle Play / Pause
+
     function togglePlayPause() {
         if (!audio.src || audio.src === '') {
             changeStation(0, true);
@@ -634,7 +634,7 @@
         }
     }
     
-    // Next / Prev циклические
+
     function nextStation() {
         let nextIdx = (currentIndex + 1) % stationsList.length;
         const wasPlaying = isPlaying;
@@ -647,14 +647,14 @@
         changeStation(prevIdx, wasPlaying);
     }
     
-    // Громкость
+
     function setVolume(value) {
         const vol = parseFloat(value);
         audio.volume = vol;
         localStorage.setItem('goldenRadioVolume', vol);
     }
     
-    // Инициализация: загружаем первую станцию без автоплея
+
     function initRadio() {
         renderStationButtons();
         
@@ -678,7 +678,7 @@
         updateStationInfo();
         statusMsgSpan.innerText = '🐼 Нажмите Play, пластинка с пандой закружится';
         
-        // События аудио: при ручном запуске обновляем UI
+
         audio.onplay = () => {
             if (!isPlaying) {
                 isPlaying = true;
@@ -720,7 +720,7 @@
         };
     }
     
-    // Навешиваем глобальные кнопки
+
     playBtn.addEventListener('click', togglePlayPause);
     nextBtn.addEventListener('click', nextStation);
     prevBtn.addEventListener('click', prevStation);
@@ -730,10 +730,10 @@
         localStorage.setItem('goldenRadioVolume', val);
     });
     
-    // Запуск
+
     initRadio();
     
-    // Дополнительный штрих: при клике на винил можно запустить/остановить (игровой момент)
+
     const vinylWrapper = document.querySelector('.vinyl-disc-panda');
     if (vinylWrapper) {
         vinylWrapper.addEventListener('click', (e) => {
