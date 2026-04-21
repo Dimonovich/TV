@@ -54,7 +54,7 @@
         }
 
         /* ============================================ */
-        /*   УЛУЧШЕННЫЙ ПЕРЕЛИВ ДЛЯ ВСЕХ БРАУЗЕРОВ (включая Android Opera)   */
+        /*   УЛУЧШЕННЫЙ ПЕРЕЛИВ ДЛЯ ЗАГОЛОВКА */
         /* ============================================ */
         .shimmer-title {
             font-size: 3rem;
@@ -118,9 +118,7 @@
             margin-bottom: 20px;
         }
 
-        /* ============================================ */
-        /*  НОВЫЙ СТИЛЬ КНОПОК СТАНЦИЙ: ОБЪЁМ + ПЕРЕЛИВЧАТАЯ КАЙМА ПРИ АКТИВЕ */
-        /* ============================================ */
+        /* СТИЛИ КНОПОК СТАНЦИЙ: ОБЪЁМ + ПЕРЕЛИВЧАТАЯ КАЙМА */
         .station-card {
             background: #10131fcc;
             border: none;
@@ -138,33 +136,28 @@
             letter-spacing: 0.3px;
             font-family: monospace;
             position: relative;
-            /* тень для объёма в обычном состоянии */
             box-shadow: 0 2px 5px rgba(0, 0, 0, 0.4), inset 0 1px 0 rgba(255, 255, 255, 0.05);
             transform: translateY(0px);
         }
 
-        /* Эффект выдвижения вперёд при нажатии (active) — объёмная кнопка */
         .station-card:active {
             transform: translateY(-2px) scale(0.98);
             box-shadow: 0 6px 12px rgba(0, 0, 0, 0.5), inset 0 1px 1px rgba(255,255,200,0.2);
             transition: 0.05s linear;
         }
 
-        /* АКТИВНАЯ КНОПКА: выдвигается вперёд, переливчатая кайма, объёмный вид */
         .station-card.active {
             background: linear-gradient(105deg, #f5a623, #ff7e2e);
             color: #1e1707;
             text-shadow: 0 1px 0 #ffd7a0;
             transform: translateY(-3px) scale(1.02);
             box-shadow: 0 8px 18px rgba(0, 0, 0, 0.5), 0 0 0 2px rgba(255, 215, 120, 0.6), inset 0 1px 2px rgba(255,255,200,0.8);
-            /* Переливчатая граница (окаймление) — мягкое, не навязчивое, но красивое */
             border: 1px solid transparent;
             background-clip: padding-box;
             position: relative;
             z-index: 2;
         }
 
-        /* Псевдоэлемент для мягкого переливчатого свечения вокруг активной кнопки (окаймление) */
         .station-card.active::before {
             content: '';
             position: absolute;
@@ -183,23 +176,12 @@
             z-index: -1;
         }
 
-        /* Анимация перелива для внешней каймы */
         @keyframes borderShimmer {
-            0% {
-                background-position: 0% 50%;
-                opacity: 0.6;
-            }
-            50% {
-                background-position: 100% 50%;
-                opacity: 1;
-            }
-            100% {
-                background-position: 0% 50%;
-                opacity: 0.7;
-            }
+            0% { background-position: 0% 50%; opacity: 0.6; }
+            50% { background-position: 100% 50%; opacity: 1; }
+            100% { background-position: 0% 50%; opacity: 0.7; }
         }
 
-        /* При наведении тоже лёгкий подъём, но без перебора */
         .station-card:hover {
             transform: translateY(-1px);
             box-shadow: 0 5px 12px rgba(0, 0, 0, 0.5);
@@ -257,11 +239,15 @@
             color: #ffdeae;
         }
 
+        /* ============================================ */
+        /*  ПЛЕЕР С НЕОНОВОЙ ПЕРЕЛИВАЮЩЕЙ ПОДСВЕТКОЙ ВОКРУГ ПЛАСТИНКИ */
+        /* ============================================ */
         .player-deck {
             padding: 28px 20px 28px 20px;
             display: flex;
             flex-direction: column;
             align-items: center;
+            position: relative;
         }
 
         .turntable-wrapper {
@@ -269,8 +255,10 @@
             display: flex;
             justify-content: center;
             margin-bottom: 8px;
+            /* Контейнер для неонового свечения вокруг пластинки */
         }
 
+        /* Главный враппер диска с псевдоэлементом для бегающих неоновых огней */
         .vinyl-disc-panda {
             position: relative;
             width: 180px;
@@ -282,6 +270,109 @@
             align-items: center;
             justify-content: center;
             transition: box-shadow 0.2s;
+        }
+
+        /* НЕОНОВОЕ ПЕРЕЛИВАЮЩЕЕСЯ КОЛЬЦО ВОКРУГ ПЛАСТИНКИ (как бегающие огни) */
+        .vinyl-disc-panda::before {
+            content: '';
+            position: absolute;
+            top: -8px;
+            left: -8px;
+            right: -8px;
+            bottom: -8px;
+            border-radius: 50%;
+            background: linear-gradient(135deg, 
+                #FFD966, #FFB347, #FF6A3D, #E54B4B, 
+                #AA6DC9, #3B9EFF, #4ADE80, #FFD966);
+            background-size: 400% 400%;
+            z-index: -1;
+            opacity: 0;
+            transition: opacity 0.3s ease;
+            filter: blur(12px);
+            animation: neonOrbit 4s linear infinite;
+            pointer-events: none;
+        }
+
+        /* Дополнительное тонкое мерцающее кольцо для объёма */
+        .vinyl-disc-panda::after {
+            content: '';
+            position: absolute;
+            top: -4px;
+            left: -4px;
+            right: -4px;
+            bottom: -4px;
+            border-radius: 50%;
+            background: linear-gradient(45deg, 
+                rgba(255, 200, 100, 0.6), 
+                rgba(255, 100, 80, 0.5), 
+                rgba(170, 109, 201, 0.6), 
+                rgba(59, 158, 255, 0.6));
+            background-size: 300% 300%;
+            z-index: -1;
+            opacity: 0;
+            filter: blur(6px);
+            animation: neonOrbitReverse 3s linear infinite;
+            transition: opacity 0.3s ease;
+            pointer-events: none;
+        }
+
+        /* Анимация вращения неонового градиента (огоньки бегают по кругу) */
+        @keyframes neonOrbit {
+            0% {
+                background-position: 0% 0%;
+                transform: rotate(0deg);
+            }
+            100% {
+                background-position: 100% 100%;
+                transform: rotate(360deg);
+            }
+        }
+
+        @keyframes neonOrbitReverse {
+            0% {
+                background-position: 100% 0%;
+                transform: rotate(0deg);
+            }
+            100% {
+                background-position: 0% 100%;
+                transform: rotate(-360deg);
+            }
+        }
+
+        /* При включенном воспроизведении — неоновая подсветка загорается и переливается */
+        .playing-animation .vinyl-disc-panda::before,
+        .playing-animation .vinyl-disc-panda::after {
+            opacity: 0.9;
+        }
+
+        /* Когда плеер на паузе или остановлен — тусклое свечение или полупрозрачное (но не отключаем полностью) */
+        .vinyl-disc-panda::before {
+            opacity: 0.2;
+        }
+        .vinyl-disc-panda::after {
+            opacity: 0.1;
+        }
+
+        /* Во время проигрывания усиливаем и добавляем пульсацию */
+        .playing-animation .vinyl-disc-panda::before {
+            animation: neonOrbit 3s linear infinite, neonPulse 1.2s ease-in-out infinite alternate;
+            opacity: 1;
+            filter: blur(14px);
+        }
+        .playing-animation .vinyl-disc-panda::after {
+            animation: neonOrbitReverse 2.5s linear infinite, neonPulseSoft 1.5s ease infinite alternate;
+            opacity: 0.8;
+            filter: blur(8px);
+        }
+
+        @keyframes neonPulse {
+            0% { opacity: 0.7; filter: blur(10px); }
+            100% { opacity: 1; filter: blur(16px); }
+        }
+
+        @keyframes neonPulseSoft {
+            0% { opacity: 0.5; filter: blur(6px); }
+            100% { opacity: 0.9; filter: blur(10px); }
         }
 
         .spinning-layer-panda {
@@ -424,9 +515,9 @@
             .vinyl-disc-panda { width: 140px; height: 140px; }
             .panda-center-label { width: 65px; height: 65px; }
             .panda-emoji-large { font-size: 42px; }
-            .station-card.active {
-                transform: translateY(-2px) scale(1.01);
-            }
+            .station-card.active { transform: translateY(-2px) scale(1.01); }
+            .vinyl-disc-panda::before { top: -6px; left: -6px; right: -6px; bottom: -6px; filter: blur(8px); }
+            .vinyl-disc-panda::after { top: -3px; left: -3px; right: -3px; bottom: -3px; filter: blur(5px); }
         }
 
         .live-badge[style*="background: #b71c1c"] {
@@ -460,7 +551,7 @@
 
     <div class="player-deck" id="playerDeck">
         <div class="turntable-wrapper">
-            <div class="vinyl-disc-panda">
+            <div class="vinyl-disc-panda" id="vinylDiscGlow">
                 <div class="spinning-layer-panda" id="pandaVinylSpin">
                     <div class="panda-center-label">
                         <div class="panda-emoji-large" id="pandaEmoji">🐼</div>
@@ -553,11 +644,8 @@
     function highlightActiveButton() {
         const btns = document.querySelectorAll('.station-card');
         btns.forEach((btn, i) => {
-            if (i === currentIndex) {
-                btn.classList.add('active');
-            } else {
-                btn.classList.remove('active');
-            }
+            if (i === currentIndex) btn.classList.add('active');
+            else btn.classList.remove('active');
         });
     }
 
