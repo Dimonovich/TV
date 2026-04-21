@@ -1,0 +1,676 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+    <title>PANDA RADIO — 10 ретро и танцевальных радиостанций</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            background: radial-gradient(circle at 10% 20%, #0b0e1a, #03050b);
+            font-family: 'Inter', system-ui, 'Segoe UI', 'Poppins', -apple-system, sans-serif;
+            padding: 24px 20px;
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        /* главный каркас — расширенный, стильный */
+        .radio-master {
+            max-width: 1300px;
+            width: 100%;
+            background: rgba(12, 15, 25, 0.65);
+            backdrop-filter: blur(20px);
+            border-radius: 3rem;
+            box-shadow: 0 25px 45px rgba(0, 0, 0, 0.5), 0 0 0 1px rgba(255, 215, 150, 0.2);
+            overflow: hidden;
+            transition: all 0.2s;
+        }
+
+        /* Верхняя виниловая зона */
+        .hero-vinyl {
+            background: linear-gradient(115deg, #231b12, #3e2a1c);
+            padding: 24px 30px 20px 30px;
+            text-align: center;
+            border-bottom: 2px solid #f5b6424d;
+        }
+
+        .super-badge {
+            display: inline-block;
+            background: #00000066;
+            backdrop-filter: blur(4px);
+            border-radius: 60px;
+            padding: 5px 18px;
+            font-size: 0.75rem;
+            font-weight: 600;
+            letter-spacing: 1px;
+            color: #ffcd7e;
+            text-transform: uppercase;
+            margin-bottom: 12px;
+            border: 1px solid #ffbc5e;
+        }
+
+        h1 {
+            font-size: 3rem;
+            font-weight: 800;
+            background: linear-gradient(135deg, #FFE3B5, #FFAD4A);
+            background-clip: text;
+            -webkit-background-clip: text;
+            color: transparent;
+            letter-spacing: -1px;
+        }
+
+        .tagline {
+            color: #e7cfaa;
+            font-weight: 500;
+            font-size: 0.9rem;
+            margin-top: 6px;
+        }
+
+        /* сетка станций — красивая, адаптивная */
+        .stations-grid {
+            padding: 28px 24px 16px 24px;
+            background: rgba(0, 0, 0, 0.3);
+            border-bottom: 1px solid rgba(255, 200, 100, 0.2);
+        }
+
+        .stations-scroll {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 12px;
+            margin-bottom: 20px;
+        }
+
+        .station-card {
+            background: #10131fcc;
+            border: 1px solid #2f2e3e;
+            border-radius: 60px;
+            padding: 8px 18px;
+            font-size: 0.9rem;
+            font-weight: 600;
+            color: #cbd5f0;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            backdrop-filter: blur(4px);
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            letter-spacing: 0.3px;
+            font-family: monospace;
+        }
+
+        .station-card i {
+            font-style: normal;
+            font-size: 1.1rem;
+        }
+
+        .station-card.active {
+            background: linear-gradient(105deg, #f5a623, #ff7e2e);
+            border-color: #ffcf8a;
+            color: #1e1707;
+            box-shadow: 0 4px 12px rgba(255, 110, 30, 0.5);
+            text-shadow: 0 1px 0 #ffd7a0;
+        }
+
+        .station-card:active {
+            transform: scale(0.96);
+        }
+
+        /* инфо-блок текущего трека/статуса */
+        .info-panel {
+            background: #00000044;
+            border-radius: 50px;
+            padding: 12px 20px;
+            display: flex;
+            flex-wrap: wrap;
+            align-items: center;
+            justify-content: space-between;
+            gap: 15px;
+            margin-top: 8px;
+        }
+
+        .station-name-big {
+            font-size: 1.3rem;
+            font-weight: 700;
+            color: #ffdd99;
+            display: flex;
+            gap: 12px;
+            align-items: baseline;
+            flex-wrap: wrap;
+        }
+
+        .live-badge {
+            background: #d32f2f;
+            font-size: 0.7rem;
+            padding: 4px 12px;
+            border-radius: 30px;
+            font-weight: 600;
+            letter-spacing: 0.5px;
+            color: white;
+            box-shadow: 0 0 5px #ff5e5e;
+        }
+
+        .status-message {
+            background: #00000066;
+            padding: 5px 14px;
+            border-radius: 32px;
+            font-size: 0.8rem;
+            color: #ffdeae;
+        }
+
+        /* плеер: диск + управление */
+        .player-deck {
+            padding: 28px 20px 28px 20px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .vinyl-spinner {
+            width: 140px;
+            height: 140px;
+            background: radial-gradient(circle at 30% 30%, #1c1c1c, #050505);
+            border-radius: 50%;
+            box-shadow: 0 10px 20px rgba(0,0,0,0.6), inset 0 0 0 6px #444, inset 0 0 0 12px #222;
+            position: relative;
+            transition: all 0.1s;
+        }
+
+        .vinyl-spinner::after {
+            content: "💿";
+            position: absolute;
+            font-size: 44px;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            opacity: 0.85;
+        }
+
+        .playing-animation .vinyl-spinner {
+            animation: spinDisc 14s linear infinite;
+            box-shadow: 0 0 0 4px #ffb347aa, 0 12px 28px black;
+        }
+
+        @keyframes spinDisc {
+            from { transform: rotate(0deg); }
+            to { transform: rotate(360deg); }
+        }
+
+        .action-buttons {
+            display: flex;
+            gap: 40px;
+            margin: 20px 0 18px;
+        }
+
+        .circle-btn {
+            background: #262e44;
+            border: none;
+            width: 64px;
+            height: 64px;
+            border-radius: 64px;
+            font-size: 1.8rem;
+            font-weight: bold;
+            cursor: pointer;
+            color: #f0cf9c;
+            transition: 0.08s linear;
+            box-shadow: 0 6px 12px black;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .play-pulse {
+            background: #ffae42;
+            color: #221c0e;
+            width: 76px;
+            height: 76px;
+            font-size: 2rem;
+            box-shadow: 0 0 12px #ffaa33;
+        }
+
+        .circle-btn:active {
+            transform: scale(0.92);
+        }
+
+        .volume-row {
+            background: #00000055;
+            border-radius: 50px;
+            padding: 6px 20px;
+            display: flex;
+            gap: 12px;
+            align-items: center;
+            width: 220px;
+            justify-content: center;
+        }
+
+        .volume-row span {
+            color: #ffc285;
+        }
+
+        input[type="range"] {
+            width: 130px;
+            height: 4px;
+            -webkit-appearance: none;
+            background: #f3b35f;
+            border-radius: 4px;
+        }
+
+        input[type="range"]::-webkit-slider-thumb {
+            -webkit-appearance: none;
+            width: 15px;
+            height: 15px;
+            background: #ffbe5e;
+            border-radius: 50%;
+            cursor: pointer;
+            border: none;
+        }
+
+        .footer-note {
+            font-size: 0.7rem;
+            text-align: center;
+            background: #00000033;
+            padding: 14px;
+            color: #b8af92;
+            letter-spacing: 0.4px;
+        }
+
+        @media (max-width: 720px) {
+            .stations-scroll { gap: 8px; }
+            .station-card { font-size: 0.7rem; padding: 6px 12px; }
+            .station-name-big { font-size: 1rem; }
+            .circle-btn { width: 52px; height: 52px; font-size: 1.4rem; }
+            .play-pulse { width: 64px; height: 64px; }
+            h1 { font-size: 2.1rem; }
+        }
+    </style>
+</head>
+<body>
+<div class="radio-master" id="goldenRadio">
+    <div class="hero-vinyl">
+        <div class="super-badge">🎧 10 каналов • безлимитный поток</div>
+        <h1>PANDA RADIO</h1>
+        <div class="tagline">Эпоха диско, транса, джаза и рок-хитов — лучшее из мира FM</div>
+    </div>
+
+    <div class="stations-grid">
+        <div class="stations-scroll" id="stationsContainer">
+            <!-- кнопки будут динамически созданы, но можно и статически, но для удобства сгенерируем списком -->
+        </div>
+        <div class="info-panel">
+            <div class="station-name-big">
+                <span id="currentStationTitle">60s & 70s</span>
+                <span id="liveLed" class="live-badge">○ offline</span>
+            </div>
+            <div id="statusMsg" class="status-message">🎵 Нажмите Play</div>
+        </div>
+    </div>
+
+    <div class="player-deck" id="playerDeck">
+        <div class="vinyl-spinner" id="vinylDisc"></div>
+        <div class="action-buttons">
+            <button class="circle-btn" id="prevBtn">◀◀</button>
+            <button class="circle-btn play-pulse" id="playBtn">▶</button>
+            <button class="circle-btn" id="nextBtn">▶▶</button>
+        </div>
+        <div class="volume-row">
+            <span>🔊</span>
+            <input type="range" id="volSlider" min="0" max="1" step="0.01" value="0.75">
+        </div>
+    </div>
+    <div class="footer-note">
+        ✨ 1.FM International — наслаждение ретро-хитами, танцевальными ритмами и глубокими битами
+    </div>
+</div>
+
+<script>
+    // ---------- СПИСОК ВСЕХ СТАНЦИЙ (10 шт) ----------
+    const stationsList = [
+        { name: "60s & 70s", url: "http://strm112.1.fm/60s_70s_mobile_mp3", icon: "🎸" },
+        { name: "80s & 90s", url: "http://strm112.1.fm/80s_90s_mobile_mp3", icon: "🎤" },
+        { name: "Pure 90s", url: "https://strm112.1.fm/90s_mobile_mp3", icon: "📼" },
+        { name: "Disco Fever", url: "https://strm112.1.fm/disco_mobile_mp3", icon: "🪩" },
+        { name: "Trance Energy", url: "https://strm112.1.fm/trance_mobile_mp3", icon: "🌌" },
+        { name: "Dance Nation", url: "https://strm112.1.fm/dance_mobile_mp3", icon: "💃" },
+        { name: "Classic Rock", url: "https://strm112.1.fm/crock_mobile_mp3", icon: "🎸⚡" },
+        { name: "Deep House", url: "https://strm112.1.fm/deephouse_mobile_mp3", icon: "🌊" },
+        { name: "Smooth Jazz", url: "http://strm112.1.fm/smoothjazz_mobile_mp3", icon: "🎷" },
+        { name: "Club Beats", url: "http://strm112.1.fm/club_mobile_mp3", icon: "🔊" }
+    ];
+
+    // DOM элементы
+    const stationsContainer = document.getElementById('stationsContainer');
+    const currentStationTitle = document.getElementById('currentStationTitle');
+    const liveLed = document.getElementById('liveLed');
+    const statusMsgSpan = document.getElementById('statusMsg');
+    const playBtn = document.getElementById('playBtn');
+    const prevBtn = document.getElementById('prevBtn');
+    const nextBtn = document.getElementById('nextBtn');
+    const volSlider = document.getElementById('volSlider');
+    const vinylDiscEl = document.getElementById('vinylDisc');
+    const playerDeckDiv = document.getElementById('playerDeck');
+
+    // Аудио объект
+    let audio = new Audio();
+    audio.preload = "metadata";
+    let currentIndex = 0;
+    let isPlaying = false;
+
+    // Функция отрисовки кнопок станций с иконками
+    function renderStationButtons() {
+        stationsContainer.innerHTML = '';
+        stationsList.forEach((station, idx) => {
+            const btn = document.createElement('button');
+            btn.className = 'station-card';
+            btn.innerHTML = `<i>${station.icon}</i> ${station.name}`;
+            btn.dataset.index = idx;
+            btn.addEventListener('click', (e) => {
+                e.stopPropagation();
+                const targetIdx = parseInt(btn.dataset.index);
+                const wasPlaying = isPlaying;
+                changeStation(targetIdx, wasPlaying);
+            });
+            stationsContainer.appendChild(btn);
+        });
+        highlightActiveButton();
+    }
+
+    function highlightActiveButton() {
+        const btns = document.querySelectorAll('.station-card');
+        btns.forEach((btn, i) => {
+            if (i === currentIndex) {
+                btn.classList.add('active');
+            } else {
+                btn.classList.remove('active');
+            }
+        });
+    }
+
+    // Обновить UI информации
+    function updateStationInfo() {
+        const station = stationsList[currentIndex];
+        if (station) {
+            currentStationTitle.innerText = `${station.icon} ${station.name}`;
+        }
+        if (isPlaying) {
+            liveLed.innerText = '🔴 LIVE';
+            liveLed.style.background = '#b71c1c';
+            liveLed.style.boxShadow = '0 0 6px red';
+            statusMsgSpan.innerText = '🎙️ В эфире · поток активен';
+        } else {
+            liveLed.innerText = '⏹️ офлайн';
+            liveLed.style.background = '#2c2c2c';
+            liveLed.style.boxShadow = 'none';
+            statusMsgSpan.innerText = isPlaying === false && audio.src ? '⏸ На паузе' : '🎵 Нажмите Play для старта';
+        }
+        highlightActiveButton();
+    }
+
+    // Сброс анимации/класса вращения
+    function setPlayingAnimation(playState) {
+        if (playState) {
+            playerDeckDiv.classList.add('playing-animation');
+        } else {
+            playerDeckDiv.classList.remove('playing-animation');
+        }
+    }
+
+    // Остановить текущее воспроизведение, сбросить аудио
+    function stopCurrentPlayback(resetSrc = false) {
+        audio.pause();
+        isPlaying = false;
+        setPlayingAnimation(false);
+        if (resetSrc) {
+            audio.src = '';
+            audio.load();
+        }
+        updateStationInfo();
+        playBtn.innerText = '▶';
+    }
+
+    // Переключение станции (индекс, автозапуск)
+    function changeStation(newIndex, autoPlay = true) {
+        if (newIndex === currentIndex && audio.src && !autoPlay) {
+            // та же станция, но если вызвано без автозапуска — ничего
+        }
+        if (newIndex < 0) newIndex = 0;
+        if (newIndex >= stationsList.length) newIndex = stationsList.length - 1;
+        
+        const wasPlayingBefore = isPlaying;
+        // полная остановка текущего потока
+        audio.pause();
+        audio.src = '';
+        audio.load();
+        
+        currentIndex = newIndex;
+        const newStation = stationsList[currentIndex];
+        audio.src = newStation.url;
+        audio.load();
+        
+        // сбрасываем статус ошибки
+        audio.onerror = null;
+        
+        // установка обработчиков для плавного UI
+        if (autoPlay && wasPlayingBefore) {
+            const playPromise = audio.play();
+            if (playPromise !== undefined) {
+                playPromise.then(() => {
+                    isPlaying = true;
+                    setPlayingAnimation(true);
+                    playBtn.innerText = '⏸';
+                    updateStationInfo();
+                }).catch(err => {
+                    console.warn("play blocked or stream error:", err);
+                    isPlaying = false;
+                    setPlayingAnimation(false);
+                    playBtn.innerText = '▶';
+                    if (err.name === 'NotAllowedError') {
+                        statusMsgSpan.innerText = '🔇 Нажмите Play (требуется действие пользователя)';
+                    } else {
+                        statusMsgSpan.innerText = '⚠️ Ошибка потока. Попробуйте позже.';
+                    }
+                    updateStationInfo();
+                });
+            } else {
+                // старые браузеры
+                audio.play();
+                isPlaying = true;
+                setPlayingAnimation(true);
+                playBtn.innerText = '⏸';
+                updateStationInfo();
+            }
+        } else {
+            // если не надо автозапускать
+            isPlaying = false;
+            setPlayingAnimation(false);
+            playBtn.innerText = '▶';
+            updateStationInfo();
+            // если до этого музыка не играла, то просто загрузили станцию без старта
+            statusMsgSpan.innerText = '⏹️ Готово. Нажмите Play';
+        }
+        
+        // Обработка ошибок после установки src
+        audio.onerror = (e) => {
+            console.error("Ошибка воспроизведения:", e);
+            if (isPlaying) {
+                isPlaying = false;
+                setPlayingAnimation(false);
+                playBtn.innerText = '▶';
+                statusMsgSpan.innerText = '🚫 Не удается подключиться к потоку';
+                updateStationInfo();
+            } else {
+                statusMsgSpan.innerText = '❌ Ошибка соединения с радио';
+            }
+        };
+        
+        audio.oncanplay = () => {
+            if (isPlaying && !audio.paused) {
+                statusMsgSpan.innerText = '🎶 Поток стабилен';
+            }
+        };
+        
+        audio.onplaying = () => {
+            if (isPlaying) {
+                statusMsgSpan.innerText = '🎧 Музыка играет';
+            }
+        };
+        
+        // не забываем про громкость
+        audio.volume = parseFloat(volSlider.value);
+    }
+    
+    // Toggle Play / Pause
+    function togglePlayPause() {
+        if (!audio.src || audio.src === '') {
+            // если нет источника, инициализируем первую станцию
+            changeStation(0, true);
+            return;
+        }
+        
+        if (isPlaying) {
+            audio.pause();
+            isPlaying = false;
+            setPlayingAnimation(false);
+            playBtn.innerText = '▶';
+            updateStationInfo();
+            statusMsgSpan.innerText = '⏸ На паузе';
+        } else {
+            const playAttempt = audio.play();
+            if (playAttempt !== undefined) {
+                playAttempt.then(() => {
+                    isPlaying = true;
+                    setPlayingAnimation(true);
+                    playBtn.innerText = '⏸';
+                    updateStationInfo();
+                    statusMsgSpan.innerText = '🔊 В эфире';
+                }).catch(err => {
+                    console.warn("play() failed:", err);
+                    statusMsgSpan.innerText = '⚠️ Не удалось запустить. Проверьте интернет или нажмите ещё раз.';
+                    if (err.name === 'NotAllowedError') {
+                        statusMsgSpan.innerText = '🔇 Разрешите воспроизведение (клик по странице)';
+                    }
+                });
+            } else {
+                audio.play();
+                isPlaying = true;
+                setPlayingAnimation(true);
+                playBtn.innerText = '⏸';
+                updateStationInfo();
+            }
+        }
+    }
+    
+    // Next / Prev циклические
+    function nextStation() {
+        let nextIdx = (currentIndex + 1) % stationsList.length;
+        const wasPlaying = isPlaying;
+        changeStation(nextIdx, wasPlaying);
+    }
+    
+    function prevStation() {
+        let prevIdx = (currentIndex - 1 + stationsList.length) % stationsList.length;
+        const wasPlaying = isPlaying;
+        changeStation(prevIdx, wasPlaying);
+    }
+    
+    // Громкость + сохранение
+    function setVolume(value) {
+        const vol = parseFloat(value);
+        audio.volume = vol;
+        localStorage.setItem('goldenRadioVolume', vol);
+    }
+    
+    // Инициализация: загружаем первую станцию, но без автоплея, чтобы избежать политики
+    function initRadio() {
+        renderStationButtons();
+        
+        // Восстанавливаем громкость
+        const savedVol = localStorage.getItem('goldenRadioVolume');
+        if (savedVol !== null) {
+            const volNum = parseFloat(savedVol);
+            volSlider.value = volNum;
+            audio.volume = volNum;
+        } else {
+            audio.volume = 0.75;
+            volSlider.value = "0.75";
+        }
+        
+        // Устанавливаем первую станцию как загруженную, но не включаем автоматически
+        currentIndex = 0;
+        const firstStation = stationsList[0];
+        audio.src = firstStation.url;
+        audio.load();
+        isPlaying = false;
+        setPlayingAnimation(false);
+        playBtn.innerText = '▶';
+        updateStationInfo();
+        statusMsgSpan.innerText = '🎛️ Выберите станцию или нажмите Play';
+        
+        // События аудио: при ручном запуске обновляем UI
+        audio.onplay = () => {
+            if (!isPlaying) {
+                isPlaying = true;
+                setPlayingAnimation(true);
+                playBtn.innerText = '⏸';
+                updateStationInfo();
+                statusMsgSpan.innerText = '🎶 Сейчас играет';
+            }
+        };
+        audio.onpause = () => {
+            if (isPlaying) {
+                isPlaying = false;
+                setPlayingAnimation(false);
+                playBtn.innerText = '▶';
+                updateStationInfo();
+                statusMsgSpan.innerText = '⏸ Пауза';
+            }
+        };
+        audio.onended = () => {
+            if (isPlaying) {
+                // для некоторых потоков не вызывается, но на всякий случай
+                isPlaying = false;
+                setPlayingAnimation(false);
+                playBtn.innerText = '▶';
+                updateStationInfo();
+                statusMsgSpan.innerText = '⏹️ Поток завершился (перезапустите)';
+            }
+        };
+        
+        // обработчик ошибок сети
+        audio.onerror = (e) => {
+            if (isPlaying) {
+                isPlaying = false;
+                setPlayingAnimation(false);
+                playBtn.innerText = '▶';
+                updateStationInfo();
+                statusMsgSpan.innerText = '🚫 Ошибка потока (проверьте интернет)';
+            } else {
+                statusMsgSpan.innerText = '⚠️ Радиостанция недоступна';
+            }
+        };
+    }
+    
+    // Навешиваем глобальные кнопки
+    playBtn.addEventListener('click', togglePlayPause);
+    nextBtn.addEventListener('click', nextStation);
+    prevBtn.addEventListener('click', prevStation);
+    volSlider.addEventListener('input', (e) => {
+        const val = e.target.value;
+        audio.volume = parseFloat(val);
+        localStorage.setItem('goldenRadioVolume', val);
+    });
+    
+    // Запуск
+    initRadio();
+    
+    // Дополнительный комфорт: если пользователь кликает на активную станцию второй раз — не сбрасываем, но можно перезапустить по желанию
+    // уже реализовано через changeStation с флагом wasPlaying
+</script>
+</body>
+</html>
