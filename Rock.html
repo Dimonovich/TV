@@ -1,0 +1,574 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+    <title>Rock Inferno TV | Два огненных рок-канала</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            min-height: 100vh;
+            background: radial-gradient(circle at 20% 30%, #0a0200, #000000);
+            font-family: 'Segoe UI', 'Poppins', 'Impact', 'Arial Black', sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 2rem;
+            position: relative;
+            overflow-x: hidden;
+        }
+
+        /* Фоновое пламя */
+        body::before {
+            content: "";
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: repeating-radial-gradient(circle at 30% 40%, rgba(255, 60, 0, 0.1), rgba(255, 20, 0, 0.03) 80px);
+            pointer-events: none;
+            z-index: 0;
+            animation: flameFlicker 6s infinite alternate;
+        }
+
+        body::after {
+            content: "";
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            height: 40%;
+            background: linear-gradient(0deg, rgba(255, 70, 0, 0.25), transparent);
+            pointer-events: none;
+            z-index: 0;
+            filter: blur(20px);
+            animation: smokeRise 10s infinite ease-in-out;
+        }
+
+        @keyframes flameFlicker {
+            0% { opacity: 0.4; }
+            100% { opacity: 1; }
+        }
+
+        @keyframes smokeRise {
+            0% { transform: translateY(0px); opacity: 0.3;}
+            50% { transform: translateY(-20px); opacity: 0.6;}
+            100% { transform: translateY(0px); opacity: 0.3;}
+        }
+
+        .rock-dashboard {
+            position: relative;
+            z-index: 10;
+            max-width: 1400px;
+            width: 100%;
+            display: flex;
+            flex-direction: column;
+            gap: 2rem;
+        }
+
+        .rock-header {
+            text-align: center;
+            margin-bottom: 1rem;
+            animation: headerGlow 1.8s infinite alternate;
+        }
+
+        @keyframes headerGlow {
+            from { text-shadow: 0 0 2px #ff4400; }
+            to { text-shadow: 0 0 12px #ff6600; }
+        }
+
+        .rock-header h1 {
+            font-size: 3.4rem;
+            letter-spacing: 5px;
+            background: linear-gradient(135deg, #ffbb77, #ff4400, #ff2200);
+            -webkit-background-clip: text;
+            background-clip: text;
+            color: transparent;
+            font-weight: 900;
+            text-transform: uppercase;
+            display: inline-flex;
+            align-items: center;
+            gap: 20px;
+        }
+
+        .rock-header h1 span {
+            font-size: 3rem;
+            display: inline-block;
+            animation: guitarShake 1s infinite alternate ease-in-out;
+        }
+
+        @keyframes guitarShake {
+            0% { transform: rotate(0deg) scale(1);}
+            100% { transform: rotate(5deg) scale(1.1);}
+        }
+
+        .subrock {
+            font-size: 1.2rem;
+            color: #ffb074;
+            background: rgba(0,0,0,0.6);
+            display: inline-block;
+            padding: 0.4rem 1.8rem;
+            border-radius: 60px;
+            backdrop-filter: blur(5px);
+            margin-top: 10px;
+            font-family: monospace;
+            letter-spacing: 2px;
+            border-left: 4px solid #ff5500;
+            border-right: 4px solid #ff5500;
+        }
+
+        .channels-grid {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 2rem;
+            justify-content: center;
+            align-items: stretch;
+        }
+
+        .channel-card {
+            flex: 1;
+            min-width: 320px;
+            background: rgba(0, 0, 0, 0.65);
+            backdrop-filter: blur(12px);
+            border-radius: 2rem;
+            border: 1px solid rgba(255, 80, 0, 0.6);
+            box-shadow: 0 20px 35px rgba(0,0,0,0.5);
+            transition: all 0.3s ease;
+            overflow: hidden;
+            animation: cardGlow 3s infinite alternate;
+            position: relative;
+        }
+
+        @keyframes cardGlow {
+            0% { box-shadow: 0 0 5px rgba(255,60,0,0.3); }
+            100% { box-shadow: 0 0 25px rgba(255,80,0,0.8); }
+        }
+
+        .channel-card:hover {
+            transform: translateY(-8px) scale(1.01);
+            border-color: #ff884d;
+        }
+
+        .video-wrapper {
+            position: relative;
+            width: 100%;
+            background: #000;
+            border-radius: 1.5rem 1.5rem 0 0;
+            overflow: hidden;
+        }
+
+        video {
+            width: 100%;
+            aspect-ratio: 16 / 9;
+            object-fit: cover;
+            display: block;
+            background: #000;
+        }
+
+        .channel-info {
+            padding: 1.2rem;
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+            border-top: 2px solid rgba(255, 80, 0, 0.6);
+            background: linear-gradient(95deg, #1a0a02, #0a0300);
+        }
+
+        .logo-rock {
+            width: 60px;
+            height: 60px;
+            object-fit: contain;
+            border-radius: 15px;
+            background: #2a1000;
+            padding: 5px;
+            box-shadow: 0 0 8px #ff5500;
+            transition: transform 0.2s ease;
+            animation: logoFire 1.5s infinite alternate;
+        }
+
+        @keyframes logoFire {
+            0% { filter: drop-shadow(0 0 2px #ff7700); transform: scale(0.98);}
+            100% { filter: drop-shadow(0 0 12px #ff4400); transform: scale(1.02);}
+        }
+
+        .text-info h3 {
+            font-size: 1.7rem;
+            color: #ffaa66;
+            letter-spacing: 1px;
+            font-weight: bold;
+        }
+
+        .text-info p {
+            color: #ffb68b;
+            font-size: 0.85rem;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+
+        .fire-icon {
+            display: inline-block;
+            animation: fireMove 0.6s infinite alternate;
+        }
+
+        @keyframes fireMove {
+            from { text-shadow: 0 0 1px red; transform: translateY(0px);}
+            to { text-shadow: 0 0 8px orange; transform: translateY(-2px);}
+        }
+
+        .guitar-aura {
+            position: absolute;
+            bottom: 5px;
+            right: 15px;
+            opacity: 0.2;
+            pointer-events: none;
+            font-size: 5rem;
+            z-index: 1;
+            transform: rotate(-10deg);
+            animation: strum 3s infinite;
+        }
+
+        @keyframes strum {
+            0% { transform: rotate(-5deg) scale(1); opacity: 0.15; }
+            50% { transform: rotate(5deg) scale(1.1); opacity: 0.3; }
+            100% { transform: rotate(-5deg) scale(1); opacity: 0.15; }
+        }
+
+        .fire-footer {
+            text-align: center;
+            padding: 1.2rem;
+            background: rgba(0,0,0,0.5);
+            border-radius: 60px;
+            margin-top: 20px;
+            font-size: 0.9rem;
+            color: #ff9966;
+            backdrop-filter: blur(8px);
+            border-top: 1px solid #ff4400;
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            flex-wrap: wrap;
+        }
+
+        .fire-footer span {
+            animation: flickText 1.2s infinite;
+        }
+
+        @keyframes flickText {
+            0% { opacity: 0.7; }
+            100% { opacity: 1; text-shadow: 0 0 5px #ff5500; }
+        }
+
+        .error-message {
+            position: absolute;
+            bottom: 20px;
+            left: 20px;
+            background: rgba(0,0,0,0.85);
+            color: #ff884d;
+            padding: 8px 15px;
+            border-radius: 20px;
+            font-size: 12px;
+            font-family: monospace;
+            border-left: 3px solid #ff4400;
+            z-index: 20;
+            pointer-events: none;
+            animation: fadeOutMsg 4s forwards;
+        }
+
+        @keyframes fadeOutMsg {
+            0% { opacity: 1; }
+            70% { opacity: 1; }
+            100% { opacity: 0; visibility: hidden; }
+        }
+
+        .loading-spinner {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            width: 50px;
+            height: 50px;
+            border: 3px solid rgba(255, 80, 0, 0.3);
+            border-top: 3px solid #ff5500;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            z-index: 15;
+            pointer-events: none;
+        }
+
+        @keyframes spin {
+            0% { transform: translate(-50%, -50%) rotate(0deg); }
+            100% { transform: translate(-50%, -50%) rotate(360deg); }
+        }
+
+        @media (max-width: 800px) {
+            body { padding: 1rem; }
+            .rock-header h1 { font-size: 2.2rem; }
+            .channel-card { min-width: 280px; }
+        }
+    </style>
+</head>
+<body>
+
+<div class="rock-dashboard">
+    <div class="rock-header">
+        <h1>
+            <span>🎸</span> ROCK INFERNO <span>🔥</span>
+        </h1>
+        <div class="subrock">
+            ⚡ ДВА ОГНЕННЫХ КАНАЛА • ГИТАРНЫЙ АД ⚡
+        </div>
+    </div>
+
+    <div class="channels-grid">
+        <!-- КАНАЛ 1: RU Rock HD (исправленная ссылка chdty) -->
+        <div class="channel-card">
+            <div class="video-wrapper" style="position: relative;">
+                <video id="player1" playsinline controls></video>
+            </div>
+            <div class="channel-info">
+                <img class="logo-rock" src="https://i.postimg.cc/3rkRjpjC/photo-2024-01-14-15-41-50.jpg" alt="RU Rock HD Logo">
+                <div class="text-info">
+                    <h3>RU Rock HD <span class="fire-icon">🔥</span></h3>
+                    <p><span>🎸</span> Русский рок • Беспредельный драйв • HD качество <span>⚡</span></p>
+                    <p><span>📺</span> t.me/chdpty</p>
+                </div>
+            </div>
+            <div class="guitar-aura">🎸🔥</div>
+        </div>
+
+        <!-- КАНАЛ 2: CHD-TV Rock -->
+        <div class="channel-card">
+            <div class="video-wrapper" style="position: relative;">
+                <video id="player2" playsinline controls></video>
+            </div>
+            <div class="channel-info">
+                <img class="logo-rock" src="https://i.postimg.cc/MHNdgRXj/photo-2024-01-14-15-42-03.jpg" alt="CHD-TV Rock Logo">
+                <div class="text-info">
+                    <h3>CHD-TV Rock <span class="fire-icon">🤘</span></h3>
+                    <p><span>🎸</span> Классика рока • Металл • Хард-рок энергия <span>💀</span></p>
+                    <p><span>📺</span> t.me/chdpty</p>
+                </div>
+            </div>
+            <div class="guitar-aura">🤘🎸</div>
+        </div>
+    </div>
+
+    <div class="fire-footer">
+        <span>🔥 LIVE РОК-ЭФИР 🔥</span>
+        <span>🎸 ГИТАРНЫЕ СОЛО НА ГРАНИ ОГНЯ 🎸</span>
+        <span>⚡ ДВА КАНАЛА • НЕОГРАНИЧЕННЫЙ ДРАЙВ ⚡</span>
+    </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+<script>
+    (function() {
+        // ПРАВИЛЬНЫЕ URL-адреса каналов (исправлено!)
+        const channels = [
+            {
+                id: 'player1',
+                url: 'http://194.26.229.213/chdty_ru_rock/index.m3u8',  // исправлено: chdty вместо chdtv
+                name: 'RU Rock HD'
+            },
+            {
+                id: 'player2',
+                url: 'http://194.26.229.213/chdtv_rock/index.m3u8',
+                name: 'CHD-TV Rock'
+            }
+        ];
+
+        // Функция показа ошибки
+        function showError(videoElement, message) {
+            const wrapper = videoElement.parentElement;
+            if (!wrapper) return;
+            
+            const oldError = wrapper.querySelector('.error-message');
+            if (oldError) oldError.remove();
+            
+            const errorDiv = document.createElement('div');
+            errorDiv.className = 'error-message';
+            errorDiv.textContent = message;
+            wrapper.appendChild(errorDiv);
+            
+            setTimeout(() => {
+                if (errorDiv && errorDiv.remove) errorDiv.remove();
+            }, 4000);
+        }
+
+        // Функция показа загрузки
+        function showLoading(videoElement, show) {
+            const wrapper = videoElement.parentElement;
+            if (!wrapper) return;
+            
+            const oldSpinner = wrapper.querySelector('.loading-spinner');
+            if (oldSpinner) oldSpinner.remove();
+            
+            if (show) {
+                const spinner = document.createElement('div');
+                spinner.className = 'loading-spinner';
+                wrapper.appendChild(spinner);
+            }
+        }
+
+        // Функция инициализации плеера через hls.js
+        function initHlsPlayer(videoElement, streamUrl, channelName) {
+            if (!videoElement) return null;
+            
+            showLoading(videoElement, true);
+            
+            // Проверяем поддержку HLS
+            if (Hls.isSupported()) {
+                const hls = new Hls({
+                    debug: false,
+                    enableWorker: true,
+                    lowLatencyMode: true,
+                    manifestLoadingTimeOut: 15000,
+                    manifestLoadingMaxRetry: 3,
+                    levelLoadingTimeOut: 15000,
+                    fragLoadingTimeOut: 20000,
+                });
+                
+                hls.loadSource(streamUrl);
+                hls.attachMedia(videoElement);
+                
+                hls.on(Hls.Events.MANIFEST_PARSED, function() {
+                    console.log(`✅ ${channelName} - манифест загружен`);
+                    showLoading(videoElement, false);
+                    videoElement.play().catch(e => {
+                        console.log('Автовоспроизведение заблокировано');
+                        showError(videoElement, '🎸 Нажмите play для запуска рок-эфира');
+                    });
+                });
+                
+                hls.on(Hls.Events.ERROR, function(event, data) {
+                    if (data.fatal) {
+                        console.error(`${channelName} фатальная ошибка:`, data);
+                        showLoading(videoElement, false);
+                        switch(data.type) {
+                            case Hls.ErrorTypes.NETWORK_ERROR:
+                                showError(videoElement, '⚠️ Потеря связи с рок-потоком, переподключение...');
+                                setTimeout(() => {
+                                    hls.destroy();
+                                    initHlsPlayer(videoElement, streamUrl, channelName);
+                                }, 3000);
+                                break;
+                            case Hls.ErrorTypes.MEDIA_ERROR:
+                                showError(videoElement, '🎸 Ошибка медиа, перезапуск...');
+                                hls.recoverMediaError();
+                                break;
+                            default:
+                                showError(videoElement, '🔥 Перезагрузка рок-канала...');
+                                hls.destroy();
+                                setTimeout(() => initHlsPlayer(videoElement, streamUrl, channelName), 3000);
+                                break;
+                        }
+                    } else {
+                        // Нефатальные ошибки
+                        console.warn(`${channelName} предупреждение:`, data);
+                        if (data.details === 'fragLoadError') {
+                            showError(videoElement, '🤘 Подтягиваем струны...');
+                        }
+                    }
+                });
+                
+                hls.on(Hls.Events.FRAG_LOADED, function() {
+                    // Фрагмент загружен - скрываем ошибки если были
+                    const wrapper = videoElement.parentElement;
+                    const oldError = wrapper?.querySelector('.error-message');
+                    if (oldError) oldError.remove();
+                });
+                
+                return hls;
+            } 
+            else if (videoElement.canPlayType('application/vnd.apple.mpegurl')) {
+                // Для Safari
+                showLoading(videoElement, false);
+                videoElement.src = streamUrl;
+                videoElement.addEventListener('loadedmetadata', () => {
+                    videoElement.play().catch(e => {
+                        showError(videoElement, '🎸 Нажмите play для запуска');
+                    });
+                });
+                videoElement.addEventListener('error', (e) => {
+                    showError(videoElement, '⚠️ Ошибка потока');
+                });
+                return null;
+            } 
+            else {
+                showLoading(videoElement, false);
+                showError(videoElement, '❌ Ваш браузер не поддерживает HLS потоки');
+                return null;
+            }
+        }
+
+        // Эффекты при воспроизведении
+        function addPlayEffects(videoElement, cardElement) {
+            if (!videoElement) return;
+            
+            videoElement.addEventListener('play', () => {
+                if (cardElement) {
+                    const guitarIcon = cardElement.querySelector('.guitar-aura');
+                    if (guitarIcon) {
+                        guitarIcon.style.animation = 'none';
+                        guitarIcon.offsetHeight;
+                        guitarIcon.style.animation = 'strum 0.5s infinite';
+                        setTimeout(() => {
+                            if (guitarIcon) guitarIcon.style.animation = 'strum 3s infinite';
+                        }, 800);
+                    }
+                    
+                    // Огненная вспышка
+                    const flash = document.createElement('div');
+                    flash.style.position = 'absolute';
+                    flash.style.top = '0';
+                    flash.style.left = '0';
+                    flash.style.width = '100%';
+                    flash.style.height = '100%';
+                    flash.style.background = 'radial-gradient(circle, rgba(255,80,0,0.4), transparent)';
+                    flash.style.pointerEvents = 'none';
+                    flash.style.zIndex = '5';
+                    flash.style.animation = 'fadeOutFlash 0.5s forwards';
+                    cardElement.appendChild(flash);
+                    setTimeout(() => flash.remove(), 500);
+                }
+            });
+        }
+
+        // Добавляем стиль
+        const style = document.createElement('style');
+        style.textContent = `
+            @keyframes fadeOutFlash {
+                0% { opacity: 0.8; }
+                100% { opacity: 0; visibility: hidden; }
+            }
+        `;
+        document.head.appendChild(style);
+
+        // Инициализация при загрузке
+        window.addEventListener('DOMContentLoaded', () => {
+            channels.forEach(channel => {
+                const videoElement = document.getElementById(channel.id);
+                if (videoElement) {
+                    const cardElement = videoElement.closest('.channel-card');
+                    console.log(`🎸 Загрузка канала: ${channel.name} -> ${channel.url}`);
+                    const hlsInstance = initHlsPlayer(videoElement, channel.url, channel.name);
+                    addPlayEffects(videoElement, cardElement);
+                    
+                    if (hlsInstance) {
+                        videoElement.hlsInstance = hlsInstance;
+                    }
+                }
+            });
+        });
+
+    })();
+</script>
+</body>
+</html>
