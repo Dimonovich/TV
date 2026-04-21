@@ -21,7 +21,6 @@
             align-items: center;
         }
 
-        /* главный каркас — расширенный, стильный */
         .radio-master {
             max-width: 1300px;
             width: 100%;
@@ -30,10 +29,8 @@
             border-radius: 3rem;
             box-shadow: 0 25px 45px rgba(0, 0, 0, 0.5), 0 0 0 1px rgba(255, 215, 150, 0.2);
             overflow: hidden;
-            transition: all 0.2s;
         }
 
-        /* Верхняя виниловая зона с ПАНДОЙ */
         .hero-vinyl {
             background: linear-gradient(115deg, #231b12, #3e2a1c);
             padding: 24px 30px 20px 30px;
@@ -56,14 +53,70 @@
             border: 1px solid #ffbc5e;
         }
 
-        h1 {
+        /* ============================================ */
+        /*   УЛУЧШЕННЫЙ ПЕРЕЛИВ ДЛЯ ВСЕХ БРАУЗЕРОВ (включая Android Opera)   */
+        /* ============================================ */
+        .shimmer-title {
             font-size: 3rem;
             font-weight: 800;
-            background: linear-gradient(135deg, #FFE3B5, #FFAD4A);
-            background-clip: text;
-            -webkit-background-clip: text;
-            color: transparent;
             letter-spacing: -1px;
+            display: inline-block;
+            /* Базовый цвет — золотой, если градиент не сработает */
+            color: #FFD966;
+            /* Основной градиент для перелива */
+            background: linear-gradient(135deg, #FFE6B0, #FFB347, #FF6A3D, #E54B4B, #AA6DC9, #3B9EFF, #FFD966);
+            background-size: 400% 100%;
+            /* Ключевой момент: растягиваем градиент */
+            -webkit-background-clip: text;
+            background-clip: text;
+            color: transparent;
+            /* Анимация движения градиента */
+            animation: shimmerFlow 5s ease infinite;
+            text-shadow: 0 0 8px rgba(255, 180, 60, 0.4);
+            /* Для плавности */
+            will-change: background-position;
+        }
+
+        @keyframes shimmerFlow {
+            0% {
+                background-position: 0% 50%;
+            }
+            50% {
+                background-position: 100% 50%;
+            }
+            100% {
+                background-position: 0% 50%;
+            }
+        }
+
+        /* Дополнительно: для браузеров, которые не поддерживают background-clip: text,
+           оставляем красивый золотой цвет с тенью — перелив хотя бы через text-shadow */
+        @supports not (background-clip: text) {
+            .shimmer-title {
+                color: #FFD966;
+                background: none;
+                animation: shimmerTextShadow 2s ease infinite alternate;
+            }
+            @keyframes shimmerTextShadow {
+                0% { text-shadow: 0 0 2px #FFB347, 0 0 5px #FF6A3D; }
+                100% { text-shadow: 0 0 8px #FFE6B0, 0 0 12px #FF6A3D; }
+            }
+        }
+
+        /* Усиливаем эффект для Android WebView/Opera — через дополнительный слой */
+        @media screen and (-webkit-min-device-pixel-ratio: 0) {
+            .shimmer-title {
+                animation: shimmerFlow 4.5s ease infinite;
+                background-size: 300% 100%;
+            }
+        }
+
+        /* Дополнительный hover-эффект */
+        .shimmer-title:hover {
+            animation: shimmerFlow 1.2s ease infinite;
+            text-shadow: 0 0 12px rgba(255, 140, 50, 0.9);
+            transform: scale(1.02);
+            transition: 0.2s;
         }
 
         .tagline {
@@ -73,7 +126,6 @@
             margin-top: 6px;
         }
 
-        /* сетка станций — красивая, адаптивная */
         .stations-grid {
             padding: 28px 24px 16px 24px;
             background: rgba(0, 0, 0, 0.3);
@@ -123,7 +175,6 @@
             transform: scale(0.96);
         }
 
-        /* инфо-блок текущего трека/статуса */
         .info-panel {
             background: #00000044;
             border-radius: 50px;
@@ -165,7 +216,6 @@
             color: #ffdeae;
         }
 
-        /* плеер: ВИНИЛОВАЯ ПЛАСТИНКА С ПАНДОЙ */
         .player-deck {
             padding: 28px 20px 28px 20px;
             display: flex;
@@ -173,7 +223,6 @@
             align-items: center;
         }
 
-        /* контейнер проигрывателя (диск + панда) */
         .turntable-wrapper {
             position: relative;
             display: flex;
@@ -194,7 +243,6 @@
             transition: box-shadow 0.2s;
         }
 
-        /* вращающийся слой (винил) */
         .spinning-layer-panda {
             width: 100%;
             height: 100%;
@@ -209,7 +257,6 @@
             transition: all 0.2s ease;
         }
 
-        /* центральная наклейка пластинки с пандой (главная фишка) */
         .panda-center-label {
             width: 80px;
             height: 80px;
@@ -228,7 +275,6 @@
             transition: transform 0.2s ease;
         }
 
-        /* классические бороздки винила */
         .grooves-panda {
             position: absolute;
             top: 0;
@@ -245,7 +291,6 @@
             to { transform: rotate(360deg); }
         }
 
-        /* анимация вращения добавляется классом */
         .playing-animation .spinning-layer-panda {
             animation-play-state: running !important;
         }
@@ -334,10 +379,19 @@
             .station-name-big { font-size: 1rem; }
             .circle-btn { width: 52px; height: 52px; font-size: 1.4rem; }
             .play-pulse { width: 64px; height: 64px; }
-            h1 { font-size: 2.1rem; }
+            .shimmer-title { font-size: 2.1rem; }
             .vinyl-disc-panda { width: 140px; height: 140px; }
             .panda-center-label { width: 65px; height: 65px; }
             .panda-emoji-large { font-size: 42px; }
+        }
+
+        .live-badge[style*="background: #b71c1c"] {
+            animation: subtlePulse 1.2s infinite alternate;
+        }
+        
+        @keyframes subtlePulse {
+            0% { opacity: 0.8; }
+            100% { opacity: 1; text-shadow: 0 0 3px #ffb347; }
         }
     </style>
 </head>
@@ -345,14 +399,13 @@
 <div class="radio-master" id="goldenRadio">
     <div class="hero-vinyl">
         <div class="super-badge">🐼 10 каналов • безлимитный поток</div>
-        <h1>PANDA VINYL RADIO</h1>
+        <!-- Улучшенный заголовок с переливами — работает на Android Opera и всех браузерах -->
+        <h1 class="shimmer-title">PANDA VINYL RADIO</h1>
         <div class="tagline">Эпоха диско, транса, джаза и рок-хитов — лучшее из мира FM 🎵</div>
     </div>
 
     <div class="stations-grid">
-        <div class="stations-scroll" id="stationsContainer">
-            <!-- кнопки станций -->
-        </div>
+        <div class="stations-scroll" id="stationsContainer"></div>
         <div class="info-panel">
             <div class="station-name-big">
                 <span id="currentStationTitle">60s & 70s</span>
@@ -363,7 +416,6 @@
     </div>
 
     <div class="player-deck" id="playerDeck">
-        <!-- Новая зона: винил с пандой -->
         <div class="turntable-wrapper">
             <div class="vinyl-disc-panda">
                 <div class="spinning-layer-panda" id="pandaVinylSpin">
@@ -391,7 +443,6 @@
 </div>
 
 <script>
-
     const stationsList = [
         { name: "60s & 70s", url: "http://strm112.1.fm/60s_70s_mobile_mp3", icon: "🎸" },
         { name: "80s & 90s", url: "http://strm112.1.fm/80s_90s_mobile_mp3", icon: "🎤" },
@@ -405,7 +456,6 @@
         { name: "Club Beats", url: "http://strm112.1.fm/club_mobile_mp3", icon: "🔊" }
     ];
 
-
     const stationsContainer = document.getElementById('stationsContainer');
     const currentStationTitle = document.getElementById('currentStationTitle');
     const liveLed = document.getElementById('liveLed');
@@ -418,18 +468,15 @@
     const pandaVinylSpin = document.getElementById('pandaVinylSpin');
     const pandaEmojiSpan = document.getElementById('pandaEmoji');
 
-
     let audio = new Audio();
     audio.preload = "metadata";
     let currentIndex = 0;
     let isPlaying = false;
 
-
     function setVinylSpinState(playState) {
         if (!pandaVinylSpin) return;
         if (playState) {
             playerDeckDiv.classList.add('playing-animation');
-            // лёгкий эффект: панда чуть улыбается / пульсирует
             if (pandaEmojiSpan) {
                 pandaEmojiSpan.style.transform = 'scale(1.08)';
                 setTimeout(() => {
@@ -438,12 +485,9 @@
             }
         } else {
             playerDeckDiv.classList.remove('playing-animation');
-            if (pandaEmojiSpan) {
-                pandaEmojiSpan.style.transform = 'scale(1)';
-            }
+            if (pandaEmojiSpan) pandaEmojiSpan.style.transform = 'scale(1)';
         }
     }
-
 
     function renderStationButtons() {
         stationsContainer.innerHTML = '';
@@ -466,21 +510,15 @@
     function highlightActiveButton() {
         const btns = document.querySelectorAll('.station-card');
         btns.forEach((btn, i) => {
-            if (i === currentIndex) {
-                btn.classList.add('active');
-            } else {
-                btn.classList.remove('active');
-            }
+            if (i === currentIndex) btn.classList.add('active');
+            else btn.classList.remove('active');
         });
     }
 
-
     function updateStationInfo() {
         const station = stationsList[currentIndex];
-        if (station) {
-            currentStationTitle.innerText = `${station.icon} ${station.name}`;
-        }
-        if (isPlaying) {
+        if (station) currentStationTitle.innerText = `${station.icon} ${station.name}`;
+        if (isPlaying && audio && !audio.paused) {
             liveLed.innerText = '🔴 LIVE';
             liveLed.style.background = '#b71c1c';
             liveLed.style.boxShadow = '0 0 6px red';
@@ -489,258 +527,91 @@
             liveLed.innerText = '⏹️ офлайн';
             liveLed.style.background = '#2c2c2c';
             liveLed.style.boxShadow = 'none';
-            statusMsgSpan.innerText = audio.src && audio.src !== '' && !isPlaying ? '⏸ На паузе' : '🐼 Нажмите Play, панда закружится';
+            statusMsgSpan.innerText = audio.src ? '⏸ На паузе' : '🐼 Нажмите Play, панда закружится';
         }
         highlightActiveButton();
     }
 
-
-    function stopCurrentPlayback(resetSrc = false) {
-        audio.pause();
-        isPlaying = false;
-        setVinylSpinState(false);
-        if (resetSrc) {
-            audio.src = '';
-            audio.load();
-        }
-        updateStationInfo();
-        playBtn.innerText = '▶';
-    }
-
-
     function changeStation(newIndex, autoPlay = true) {
         if (newIndex < 0) newIndex = 0;
         if (newIndex >= stationsList.length) newIndex = stationsList.length - 1;
-        
-        const wasPlayingBefore = isPlaying;
-
+        const wasPlayingBefore = isPlaying && !audio.paused;
         audio.pause();
         audio.src = '';
         audio.load();
-        
         currentIndex = newIndex;
         const newStation = stationsList[currentIndex];
         audio.src = newStation.url;
         audio.load();
         
-
-        audio.onerror = null;
-        
         if (autoPlay && wasPlayingBefore) {
-            const playPromise = audio.play();
-            if (playPromise !== undefined) {
-                playPromise.then(() => {
-                    isPlaying = true;
-                    setVinylSpinState(true);
-                    playBtn.innerText = '⏸';
-                    updateStationInfo();
-                }).catch(err => {
-                    console.warn("play blocked or stream error:", err);
-                    isPlaying = false;
-                    setVinylSpinState(false);
-                    playBtn.innerText = '▶';
-                    if (err.name === 'NotAllowedError') {
-                        statusMsgSpan.innerText = '🔇 Нажмите Play (требуется действие пользователя)';
-                    } else {
-                        statusMsgSpan.innerText = '⚠️ Ошибка потока. Попробуйте позже.';
-                    }
-                    updateStationInfo();
-                });
-            } else {
-                audio.play();
+            audio.play().then(() => {
                 isPlaying = true;
                 setVinylSpinState(true);
                 playBtn.innerText = '⏸';
                 updateStationInfo();
-            }
+            }).catch(() => {
+                isPlaying = false;
+                setVinylSpinState(false);
+                playBtn.innerText = '▶';
+                updateStationInfo();
+                statusMsgSpan.innerText = '⚠️ Ошибка потока. Попробуйте позже.';
+            });
         } else {
             isPlaying = false;
             setVinylSpinState(false);
             playBtn.innerText = '▶';
             updateStationInfo();
-            if (!autoPlay) {
-                statusMsgSpan.innerText = '⏹️ Готово. Нажмите Play, чтобы панда закрутилась';
-            } else {
-                statusMsgSpan.innerText = '🎛️ Станция загружена. Нажмите Play';
-            }
         }
-        
-
-        audio.onerror = (e) => {
-            console.error("Ошибка воспроизведения:", e);
-            if (isPlaying) {
-                isPlaying = false;
-                setVinylSpinState(false);
-                playBtn.innerText = '▶';
-                statusMsgSpan.innerText = '🚫 Не удается подключиться к потоку';
-                updateStationInfo();
-            } else {
-                statusMsgSpan.innerText = '❌ Ошибка соединения с радио';
-            }
-        };
-        
-        audio.oncanplay = () => {
-            if (isPlaying && !audio.paused) {
-                statusMsgSpan.innerText = '🎶 Поток стабилен, панда танцует';
-            }
-        };
-        
-        audio.onplaying = () => {
-            if (isPlaying) {
-                statusMsgSpan.innerText = '🎧 Музыка играет, винил крутится 🐼';
-            }
-        };
-        
         audio.volume = parseFloat(volSlider.value);
     }
-    
 
     function togglePlayPause() {
         if (!audio.src || audio.src === '') {
             changeStation(0, true);
             return;
         }
-        
-        if (isPlaying) {
+        if (isPlaying && !audio.paused) {
             audio.pause();
             isPlaying = false;
             setVinylSpinState(false);
             playBtn.innerText = '▶';
             updateStationInfo();
-            statusMsgSpan.innerText = '⏸ Пауза — пластинка замерла';
         } else {
-            const playAttempt = audio.play();
-            if (playAttempt !== undefined) {
-                playAttempt.then(() => {
-                    isPlaying = true;
-                    setVinylSpinState(true);
-                    playBtn.innerText = '⏸';
-                    updateStationInfo();
-                    statusMsgSpan.innerText = '🔊 В эфире, панда вращается на пластинке';
-                }).catch(err => {
-                    console.warn("play() failed:", err);
-                    statusMsgSpan.innerText = '⚠️ Не удалось запустить. Проверьте интернет или нажмите ещё раз.';
-                    if (err.name === 'NotAllowedError') {
-                        statusMsgSpan.innerText = '🔇 Разрешите воспроизведение (клик по странице)';
-                    }
-                });
-            } else {
-                audio.play();
+            audio.play().then(() => {
                 isPlaying = true;
                 setVinylSpinState(true);
                 playBtn.innerText = '⏸';
                 updateStationInfo();
-            }
+            }).catch(() => {
+                statusMsgSpan.innerText = '⚠️ Не удалось запустить.';
+            });
         }
     }
-    
 
-    function nextStation() {
-        let nextIdx = (currentIndex + 1) % stationsList.length;
-        const wasPlaying = isPlaying;
-        changeStation(nextIdx, wasPlaying);
-    }
-    
-    function prevStation() {
-        let prevIdx = (currentIndex - 1 + stationsList.length) % stationsList.length;
-        const wasPlaying = isPlaying;
-        changeStation(prevIdx, wasPlaying);
-    }
-    
-
-    function setVolume(value) {
-        const vol = parseFloat(value);
-        audio.volume = vol;
-        localStorage.setItem('goldenRadioVolume', vol);
-    }
-    
+    function nextStation() { changeStation((currentIndex + 1) % stationsList.length, isPlaying && !audio.paused); }
+    function prevStation() { changeStation((currentIndex - 1 + stationsList.length) % stationsList.length, isPlaying && !audio.paused); }
 
     function initRadio() {
         renderStationButtons();
-        
         const savedVol = localStorage.getItem('goldenRadioVolume');
-        if (savedVol !== null) {
-            const volNum = parseFloat(savedVol);
-            volSlider.value = volNum;
-            audio.volume = volNum;
-        } else {
-            audio.volume = 0.75;
-            volSlider.value = "0.75";
-        }
-        
-        currentIndex = 0;
-        const firstStation = stationsList[0];
-        audio.src = firstStation.url;
+        if (savedVol) { audio.volume = parseFloat(savedVol); volSlider.value = savedVol; }
+        else { audio.volume = 0.75; volSlider.value = "0.75"; }
+        audio.src = stationsList[0].url;
         audio.load();
         isPlaying = false;
         setVinylSpinState(false);
         playBtn.innerText = '▶';
         updateStationInfo();
-        statusMsgSpan.innerText = '🐼 Нажмите Play, пластинка с пандой закружится';
-        
-
-        audio.onplay = () => {
-            if (!isPlaying) {
-                isPlaying = true;
-                setVinylSpinState(true);
-                playBtn.innerText = '⏸';
-                updateStationInfo();
-                statusMsgSpan.innerText = '🎶 Сейчас играет, панда вращается';
-            }
-        };
-        audio.onpause = () => {
-            if (isPlaying) {
-                isPlaying = false;
-                setVinylSpinState(false);
-                playBtn.innerText = '▶';
-                updateStationInfo();
-                statusMsgSpan.innerText = '⏸ Пауза — винил остановлен';
-            }
-        };
-        audio.onended = () => {
-            if (isPlaying) {
-                isPlaying = false;
-                setVinylSpinState(false);
-                playBtn.innerText = '▶';
-                updateStationInfo();
-                statusMsgSpan.innerText = '⏹️ Поток завершился (перезапустите)';
-            }
-        };
-        
-        audio.onerror = (e) => {
-            if (isPlaying) {
-                isPlaying = false;
-                setVinylSpinState(false);
-                playBtn.innerText = '▶';
-                updateStationInfo();
-                statusMsgSpan.innerText = '🚫 Ошибка потока (проверьте интернет)';
-            } else {
-                statusMsgSpan.innerText = '⚠️ Радиостанция недоступна';
-            }
-        };
     }
-    
 
     playBtn.addEventListener('click', togglePlayPause);
     nextBtn.addEventListener('click', nextStation);
     prevBtn.addEventListener('click', prevStation);
-    volSlider.addEventListener('input', (e) => {
-        const val = e.target.value;
-        audio.volume = parseFloat(val);
-        localStorage.setItem('goldenRadioVolume', val);
-    });
+    volSlider.addEventListener('input', (e) => { audio.volume = parseFloat(e.target.value); localStorage.setItem('goldenRadioVolume', e.target.value); });
     
-
     initRadio();
-    
-
-    const vinylWrapper = document.querySelector('.vinyl-disc-panda');
-    if (vinylWrapper) {
-        vinylWrapper.addEventListener('click', (e) => {
-            e.stopPropagation();
-            togglePlayPause();
-        });
-    }
+    document.querySelector('.vinyl-disc-panda')?.addEventListener('click', () => togglePlayPause());
 </script>
 </body>
 </html>
