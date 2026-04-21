@@ -5,19 +5,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover, user-scalable=yes">
     <title>🐼 ПРИЯТНОГО ПРОСМОТРА 🐼</title>
     <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-
+        * { margin: 0; padding: 0; box-sizing: border-box; }
         body {
             background: #f5f5f5;
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
             padding: 20px;
             color: #222;
         }
-
         .container {
             max-width: 800px;
             margin: 0 auto;
@@ -27,13 +21,7 @@
             box-shadow: 0 4px 20px rgba(0,0,0,0.08);
             text-align: center;
         }
-
-        h1 {
-            font-size: 1.8rem;
-            margin-bottom: 16px;
-            color: #e67e22;
-        }
-
+        h1 { font-size: 1.8rem; margin-bottom: 16px; color: #e67e22; }
         .main-image {
             width: 100%;
             max-width: 400px;
@@ -42,21 +30,13 @@
             display: block;
             box-shadow: 0 4px 12px rgba(0,0,0,0.1);
         }
-
-        .links-grid {
-            display: flex;
-            flex-direction: column;
-            gap: 12px;
-            margin-bottom: 32px;
-        }
-
+        .links-grid { display: flex; flex-direction: column; gap: 12px; margin-bottom: 32px; }
         .link-card {
             background: #f8f9fa;
             border-radius: 16px;
             transition: all 0.2s ease;
             border: 1px solid #e9ecef;
         }
-
         .link-card a {
             display: block;
             padding: 14px 20px;
@@ -67,60 +47,33 @@
             border-radius: 16px;
             transition: all 0.2s ease;
         }
-
-        .link-card a:hover {
-            background: #e9ecef;
-            transform: translateX(4px);
-        }
-
-        .telegram-link {
-            background: #0088cc;
-            border: none;
-            margin-top: 8px;
-        }
-
-        .telegram-link a {
-            color: white !important;
-            font-weight: bold;
-        }
-
-        .telegram-link a:hover {
-            background: #006699;
-        }
-
+        .link-card a:hover { background: #e9ecef; transform: translateX(4px); }
+        .telegram-link { background: #0088cc; border: none; margin-top: 8px; }
+        .telegram-link a { color: white !important; font-weight: bold; }
+        .telegram-link a:hover { background: #006699; }
         .counter {
             margin-top: 24px;
             padding-top: 20px;
             border-top: 1px solid #e9ecef;
-            color: #6c757d;
-            font-size: 0.9rem;
+            background: #f8f9fa;
+            border-radius: 16px;
+            padding: 16px;
+            font-size: 1rem;
         }
-
-        .counter span {
+        .counter-number {
+            font-size: 2rem;
             font-weight: bold;
             color: #e67e22;
-            font-size: 1.2rem;
         }
-
-        .footer-note {
-            margin-top: 16px;
-            font-size: 0.7rem;
-            color: #adb5bd;
-        }
-
-        @media (max-width: 640px) {
-            body { padding: 12px; }
-            .container { padding: 20px 16px; }
-            h1 { font-size: 1.5rem; }
-            .link-card a { padding: 12px 16px; font-size: 1rem; }
-        }
+        .counter small { display: block; font-size: 0.7rem; color: #adb5bd; margin-top: 8px; }
+        .footer-note { margin-top: 16px; font-size: 0.7rem; color: #adb5bd; }
+        .status-loading { color: #6c757d; font-size: 0.9rem; }
     </style>
 </head>
 <body>
 <div class="container">
     <h1>🐼 ПРИЯТНОГО ПРОСМОТРА 🐼</h1>
     
-    <!-- Основное изображение -->
     <img src="https://i.postimg.cc/7YPLwtvX/1.jpg" alt="ПРИЯТНОГО ПРОСМОТРА" class="main-image">
 
     <div class="links-grid">
@@ -133,35 +86,55 @@
         <div class="link-card telegram-link"><a href="https://t.me/+ToSe3CIHnaZjNTMy" target="_blank">📱 Подпишись в Telegram</a></div>
     </div>
 
-    <!-- Счётчик посещений -->
-    <div class="counter">
-        👁️ Просмотров: <span id="pageviews">...</span>
+    <div class="counter" id="visitor-counter">
+        <div class="status-loading">📊 Загрузка статистики...</div>
     </div>
     <div class="footer-note">
-        Статистика обновляется автоматически
+        Уникальные посетители за всё время
     </div>
 </div>
 
+<!-- GoatCounter скрипт (ваш аккаунт dimonovich) -->
+<script data-goatcounter="https://dimonovich.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
+
+<!-- Код для отображения счётчика на странице -->
 <script>
-    // Уникальный ключ для счётчика (замените при необходимости)
-    const COUNTER_KEY = 'https://countapi.xyz/click/Dimonovich.TV/Panda_info';
-    
-    async function updateCounter() {
-        const counterElement = document.getElementById('pageviews');
-        if (!counterElement) return;
+    // Функция для отображения счётчика
+    function displayVisitorCount() {
+        const counterDiv = document.getElementById('visitor-counter');
         
-        try {
-            const response = await fetch(COUNTER_KEY);
-            if (!response.ok) throw new Error('Ошибка сети');
-            const data = await response.json();
-            counterElement.textContent = data.value;
-        } catch (error) {
-            console.error('Не удалось загрузить счётчик:', error);
-            counterElement.textContent = '?';
+        // Проверяем, загрузился ли GoatCounter
+        if (typeof window.goatcounter !== 'undefined' && window.goatcounter.count) {
+            // Запрашиваем данные через API GoatCounter
+            fetch('https://dimonovich.goatcounter.com/api/v0/count?path=TOTAL')
+                .then(response => response.json())
+                .then(data => {
+                    const count = data.count || 0;
+                    counterDiv.innerHTML = `
+                        <div>
+                            👥 Уникальных посетителей: <span class="counter-number">${count}</span>
+                            <small>* Считается один раз с каждого устройства</small>
+                        </div>
+                    `;
+                })
+                .catch(error => {
+                    console.error('Ошибка загрузки счётчика:', error);
+                    counterDiv.innerHTML = `
+                        <div>
+                            👥 Уникальных посетителей: <span class="counter-number">...</span>
+                            <small>Статистика обновится позже</small>
+                        </div>
+                    `;
+                });
+        } else {
+            // Если GoatCounter ещё не загрузился, пробуем снова через 1 секунду
+            setTimeout(displayVisitorCount, 1000);
         }
     }
     
-    updateCounter();
+    // Запускаем отображение счётчика после загрузки страницы
+    document.addEventListener('DOMContentLoaded', displayVisitorCount);
 </script>
 </body>
 </html>
