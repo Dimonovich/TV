@@ -61,36 +61,23 @@
             font-weight: 800;
             letter-spacing: -1px;
             display: inline-block;
-            /* Базовый цвет — золотой, если градиент не сработает */
             color: #FFD966;
-            /* Основной градиент для перелива */
             background: linear-gradient(135deg, #FFE6B0, #FFB347, #FF6A3D, #E54B4B, #AA6DC9, #3B9EFF, #FFD966);
             background-size: 400% 100%;
-            /* Ключевой момент: растягиваем градиент */
             -webkit-background-clip: text;
             background-clip: text;
             color: transparent;
-            /* Анимация движения градиента */
             animation: shimmerFlow 5s ease infinite;
             text-shadow: 0 0 8px rgba(255, 180, 60, 0.4);
-            /* Для плавности */
             will-change: background-position;
         }
 
         @keyframes shimmerFlow {
-            0% {
-                background-position: 0% 50%;
-            }
-            50% {
-                background-position: 100% 50%;
-            }
-            100% {
-                background-position: 0% 50%;
-            }
+            0% { background-position: 0% 50%; }
+            50% { background-position: 100% 50%; }
+            100% { background-position: 0% 50%; }
         }
 
-        /* Дополнительно: для браузеров, которые не поддерживают background-clip: text,
-           оставляем красивый золотой цвет с тенью — перелив хотя бы через text-shadow */
         @supports not (background-clip: text) {
             .shimmer-title {
                 color: #FFD966;
@@ -103,15 +90,6 @@
             }
         }
 
-        /* Усиливаем эффект для Android WebView/Opera — через дополнительный слой */
-        @media screen and (-webkit-min-device-pixel-ratio: 0) {
-            .shimmer-title {
-                animation: shimmerFlow 4.5s ease infinite;
-                background-size: 300% 100%;
-            }
-        }
-
-        /* Дополнительный hover-эффект */
         .shimmer-title:hover {
             animation: shimmerFlow 1.2s ease infinite;
             text-shadow: 0 0 12px rgba(255, 140, 50, 0.9);
@@ -136,43 +114,106 @@
             display: flex;
             flex-wrap: wrap;
             justify-content: center;
-            gap: 12px;
+            gap: 14px;
             margin-bottom: 20px;
         }
 
+        /* ============================================ */
+        /*  НОВЫЙ СТИЛЬ КНОПОК СТАНЦИЙ: ОБЪЁМ + ПЕРЕЛИВЧАТАЯ КАЙМА ПРИ АКТИВЕ */
+        /* ============================================ */
         .station-card {
             background: #10131fcc;
-            border: 1px solid #2f2e3e;
+            border: none;
             border-radius: 60px;
             padding: 8px 18px;
             font-size: 0.9rem;
             font-weight: 600;
             color: #cbd5f0;
             cursor: pointer;
-            transition: all 0.2s ease;
+            transition: all 0.25s cubic-bezier(0.2, 0.9, 0.4, 1.1);
             backdrop-filter: blur(4px);
             display: inline-flex;
             align-items: center;
             gap: 8px;
             letter-spacing: 0.3px;
             font-family: monospace;
+            position: relative;
+            /* тень для объёма в обычном состоянии */
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.4), inset 0 1px 0 rgba(255, 255, 255, 0.05);
+            transform: translateY(0px);
+        }
+
+        /* Эффект выдвижения вперёд при нажатии (active) — объёмная кнопка */
+        .station-card:active {
+            transform: translateY(-2px) scale(0.98);
+            box-shadow: 0 6px 12px rgba(0, 0, 0, 0.5), inset 0 1px 1px rgba(255,255,200,0.2);
+            transition: 0.05s linear;
+        }
+
+        /* АКТИВНАЯ КНОПКА: выдвигается вперёд, переливчатая кайма, объёмный вид */
+        .station-card.active {
+            background: linear-gradient(105deg, #f5a623, #ff7e2e);
+            color: #1e1707;
+            text-shadow: 0 1px 0 #ffd7a0;
+            transform: translateY(-3px) scale(1.02);
+            box-shadow: 0 8px 18px rgba(0, 0, 0, 0.5), 0 0 0 2px rgba(255, 215, 120, 0.6), inset 0 1px 2px rgba(255,255,200,0.8);
+            /* Переливчатая граница (окаймление) — мягкое, не навязчивое, но красивое */
+            border: 1px solid transparent;
+            background-clip: padding-box;
+            position: relative;
+            z-index: 2;
+        }
+
+        /* Псевдоэлемент для мягкого переливчатого свечения вокруг активной кнопки (окаймление) */
+        .station-card.active::before {
+            content: '';
+            position: absolute;
+            inset: -3px;
+            border-radius: 62px;
+            padding: 2px;
+            background: linear-gradient(115deg, #FFD966, #FFB347, #FF8C42, #E54B4B, #AA6DC9, #6C9EFF, #FFD966);
+            background-size: 300% 300%;
+            -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+            mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+            -webkit-mask-composite: xor;
+            mask-composite: exclude;
+            pointer-events: none;
+            animation: borderShimmer 3s ease infinite alternate;
+            opacity: 0.85;
+            z-index: -1;
+        }
+
+        /* Анимация перелива для внешней каймы */
+        @keyframes borderShimmer {
+            0% {
+                background-position: 0% 50%;
+                opacity: 0.6;
+            }
+            50% {
+                background-position: 100% 50%;
+                opacity: 1;
+            }
+            100% {
+                background-position: 0% 50%;
+                opacity: 0.7;
+            }
+        }
+
+        /* При наведении тоже лёгкий подъём, но без перебора */
+        .station-card:hover {
+            transform: translateY(-1px);
+            box-shadow: 0 5px 12px rgba(0, 0, 0, 0.5);
+            background: #1c2137cc;
+            transition: 0.2s;
+        }
+
+        .station-card.active:hover {
+            transform: translateY(-3px) scale(1.02);
         }
 
         .station-card i {
             font-style: normal;
             font-size: 1.1rem;
-        }
-
-        .station-card.active {
-            background: linear-gradient(105deg, #f5a623, #ff7e2e);
-            border-color: #ffcf8a;
-            color: #1e1707;
-            box-shadow: 0 4px 12px rgba(255, 110, 30, 0.5);
-            text-shadow: 0 1px 0 #ffd7a0;
-        }
-
-        .station-card:active {
-            transform: scale(0.96);
         }
 
         .info-panel {
@@ -374,7 +415,7 @@
         }
 
         @media (max-width: 720px) {
-            .stations-scroll { gap: 8px; }
+            .stations-scroll { gap: 10px; }
             .station-card { font-size: 0.7rem; padding: 6px 12px; }
             .station-name-big { font-size: 1rem; }
             .circle-btn { width: 52px; height: 52px; font-size: 1.4rem; }
@@ -383,6 +424,9 @@
             .vinyl-disc-panda { width: 140px; height: 140px; }
             .panda-center-label { width: 65px; height: 65px; }
             .panda-emoji-large { font-size: 42px; }
+            .station-card.active {
+                transform: translateY(-2px) scale(1.01);
+            }
         }
 
         .live-badge[style*="background: #b71c1c"] {
@@ -399,7 +443,6 @@
 <div class="radio-master" id="goldenRadio">
     <div class="hero-vinyl">
         <div class="super-badge">🐼 10 каналов • безлимитный поток</div>
-        <!-- Улучшенный заголовок с переливами — работает на Android Opera и всех браузерах -->
         <h1 class="shimmer-title">PANDA VINYL RADIO</h1>
         <div class="tagline">Эпоха диско, транса, джаза и рок-хитов — лучшее из мира FM 🎵</div>
     </div>
@@ -499,7 +542,7 @@
             btn.addEventListener('click', (e) => {
                 e.stopPropagation();
                 const targetIdx = parseInt(btn.dataset.index);
-                const wasPlaying = isPlaying;
+                const wasPlaying = isPlaying && !audio.paused;
                 changeStation(targetIdx, wasPlaying);
             });
             stationsContainer.appendChild(btn);
@@ -510,8 +553,11 @@
     function highlightActiveButton() {
         const btns = document.querySelectorAll('.station-card');
         btns.forEach((btn, i) => {
-            if (i === currentIndex) btn.classList.add('active');
-            else btn.classList.remove('active');
+            if (i === currentIndex) {
+                btn.classList.add('active');
+            } else {
+                btn.classList.remove('active');
+            }
         });
     }
 
@@ -527,7 +573,7 @@
             liveLed.innerText = '⏹️ офлайн';
             liveLed.style.background = '#2c2c2c';
             liveLed.style.boxShadow = 'none';
-            statusMsgSpan.innerText = audio.src ? '⏸ На паузе' : '🐼 Нажмите Play, панда закружится';
+            statusMsgSpan.innerText = (audio.src && audio.src !== '') ? '⏸ На паузе' : '🐼 Нажмите Play, панда закружится';
         }
         highlightActiveButton();
     }
@@ -550,6 +596,7 @@
                 setVinylSpinState(true);
                 playBtn.innerText = '⏸';
                 updateStationInfo();
+                statusMsgSpan.innerText = `🎧 ${newStation.name} · панда крутит винил`;
             }).catch(() => {
                 isPlaying = false;
                 setVinylSpinState(false);
@@ -562,6 +609,8 @@
             setVinylSpinState(false);
             playBtn.innerText = '▶';
             updateStationInfo();
+            if (!autoPlay) statusMsgSpan.innerText = '⏹️ Готово. Нажмите Play, чтобы панда закрутилась';
+            else statusMsgSpan.innerText = '🎛️ Станция загружена. Нажмите Play';
         }
         audio.volume = parseFloat(volSlider.value);
     }
@@ -577,14 +626,16 @@
             setVinylSpinState(false);
             playBtn.innerText = '▶';
             updateStationInfo();
+            statusMsgSpan.innerText = '⏸ Пауза — пластинка замерла';
         } else {
             audio.play().then(() => {
                 isPlaying = true;
                 setVinylSpinState(true);
                 playBtn.innerText = '⏸';
                 updateStationInfo();
+                statusMsgSpan.innerText = '🔊 В эфире, панда вращается на пластинке';
             }).catch(() => {
-                statusMsgSpan.innerText = '⚠️ Не удалось запустить.';
+                statusMsgSpan.innerText = '⚠️ Не удалось запустить. Проверьте интернет.';
             });
         }
     }
@@ -603,6 +654,7 @@
         setVinylSpinState(false);
         playBtn.innerText = '▶';
         updateStationInfo();
+        statusMsgSpan.innerText = '🐼 Нажмите Play, пластинка с пандой закружится';
     }
 
     playBtn.addEventListener('click', togglePlayPause);
