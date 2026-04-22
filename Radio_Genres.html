@@ -121,6 +121,7 @@
             color: #b3c1e0;
             cursor: pointer;
             white-space: nowrap;
+            transition: all 0.2s;
         }
 
         .cat-btn.active, .cat-btn:hover {
@@ -206,6 +207,7 @@
             gap: 0.5rem;
             cursor: pointer;
             width: 100%;
+            transition: all 0.2s;
         }
 
         .play-btn.active-now {
@@ -238,7 +240,6 @@
             100% { height: 18px; opacity: 1; }
         }
 
-        /* Миниплеер — фиксированная структура, кнопки не прыгают */
         .now-playing {
             position: sticky;
             bottom: 1rem;
@@ -256,7 +257,6 @@
             flex-wrap: nowrap;
         }
 
-        /* Контейнер для названия с фиксированной шириной и бегущей строкой */
         .station-name-container {
             flex: 1;
             min-width: 0;
@@ -279,7 +279,6 @@
             animation: none;
         }
 
-        /* Анимация бегущей строки - запускается при наведении или касании */
         .station-name-container.scrolling .current-station {
             animation: marquee 8s linear infinite;
         }
@@ -289,7 +288,6 @@
             100% { transform: translateX(-50%); }
         }
 
-        /* Блок с кнопками — фиксированная ширина, не сжимается */
         .player-controls {
             display: flex;
             align-items: center;
@@ -327,9 +325,29 @@
             cursor: pointer;
             flex-shrink: 0;
             font-size: 0.85rem;
+            transition: 0.2s;
         }
 
-        /* Мобильная версия */
+        .stop-btn:hover {
+            background: #4a2f44;
+        }
+
+        .error-message {
+            position: fixed;
+            bottom: 80px;
+            left: 50%;
+            transform: translateX(-50%);
+            background: rgba(220, 53, 69, 0.95);
+            color: white;
+            padding: 10px 20px;
+            border-radius: 30px;
+            font-size: 0.85rem;
+            z-index: 100;
+            backdrop-filter: blur(10px);
+            white-space: nowrap;
+            pointer-events: none;
+        }
+
         @media (max-width: 640px) {
             .now-playing {
                 padding: 0.4rem 0.8rem;
@@ -352,6 +370,13 @@
             .stop-btn {
                 padding: 0.2rem 0.7rem;
                 font-size: 0.7rem;
+            }
+            .error-message {
+                font-size: 0.7rem;
+                white-space: normal;
+                text-align: center;
+                width: 90%;
+                bottom: 70px;
             }
         }
 
@@ -406,8 +431,8 @@
         </div>
         <button class="stop-btn" id="stopPlaybackBtn">⏹ Стоп</button>
     </div>
-    <audio id="audioPlayer" preload="none"></audio>
-    <footer>Интернет-радио. Created by Dimonovich (2026) </footer>
+    <audio id="audioPlayer" preload="none" crossorigin="anonymous"></audio>
+    <footer>Интернет-радио. Created by Dimonovich (2026)</footer>
 </div>
 
 <script>
@@ -683,6 +708,8 @@
     let currentIndex = -1;
     let currentActiveButton = null;
     let isPlaying = false;
+    let reconnectAttempts = 0;
+    let errorTimeout = null;
 
     const audio = document.getElementById('audioPlayer');
     const bar = document.getElementById('nowPlayingBar');
@@ -693,33 +720,42 @@
     const nextBtn = document.getElementById('nextTrackBtn');
     const stopBtn = document.getElementById('stopPlaybackBtn');
 
+    // Показ сообщения об ошибке
+    function showError(message) {
+        if (errorTimeout) clearTimeout(errorTimeout);
+        const existingError = document.querySelector('.error-message');
+        if (existingError) existingError.remove();
+        
+        const errorDiv = document.createElement('div');
+        errorDiv.className = 'error-message';
+        errorDiv.textContent = message;
+        document.body.appendChild(errorDiv);
+        
+        errorTimeout = setTimeout(() => {
+            if (errorDiv && errorDiv.remove) errorDiv.remove();
+        }, 3000);
+    }
+
     // Функция для проверки и запуска бегущей строки
     function checkAndStartMarquee() {
         const container = stationNameContainer;
         const textSpan = stationNameSpan;
         if (!container || !textSpan) return;
         
-        // Временно убираем анимацию, чтобы измерить реальную ширину
         container.classList.remove('scrolling');
         const containerWidth = container.clientWidth;
         const textWidth = textSpan.scrollWidth;
         
-        // Если текст шире контейнера, включаем анимацию
         if (textWidth > containerWidth) {
-            // Добавляем копию текста для бесконечной прокрутки
             const currentText = textSpan.innerText;
-            // Проверяем, нет ли уже дубликата
             if (!textSpan.hasAttribute('data-duplicated')) {
                 textSpan.setAttribute('data-duplicated', 'true');
-                // Для бесконечной прокрутки нужно два одинаковых блока
-                // Проще всего — создать дубликат через CSS, но мы сделаем через JS
                 const cloneText = currentText + '   ✦   ' + currentText;
                 textSpan.innerText = cloneText;
             }
             container.classList.add('scrolling');
         } else {
             container.classList.remove('scrolling');
-            // Возвращаем оригинальный текст без дубликата
             const originalText = textSpan.getAttribute('data-original');
             if (originalText) {
                 textSpan.innerText = originalText;
@@ -733,11 +769,9 @@
         const displayName = `🎸 ${name}`;
         stationNameSpan.innerText = displayName;
         stationNameSpan.setAttribute('data-original', displayName);
-        // Небольшая задержка для корректного измерения ширины
-        setTimeout(checkAndStartMarquee, 10);
+        setTimeout(checkAndStartMarquee, 50);
     }
 
-    // Следим за изменением размера окна
     window.addEventListener('resize', () => {
         if (bar.style.display === 'flex') {
             checkAndStartMarquee();
@@ -776,10 +810,37 @@
 
     function playByIndex(index) {
         if (index < 0 || index >= currentFilteredList.length) return;
+        
         const station = currentFilteredList[index];
+        
+        // Останавливаем текущее воспроизведение
+        audio.pause();
+        audio.src = "";
+        
+        // Очищаем старые обработчики
+        audio.onerror = null;
+        audio.oncanplay = null;
+        
+        // Устанавливаем новый источник
         audio.src = station.url;
         audio.load();
-        audio.play().catch(e => console.warn("Автовоспроизведение заблокировано"));
+        
+        // Обработчик успешной загрузки
+        audio.oncanplay = () => {
+            audio.play().catch(err => {
+                console.error("Ошибка воспроизведения:", err);
+                showError(`❌ Не удалось воспроизвести ${station.name}. Поток может быть недоступен.`);
+                stopPlayback();
+            });
+        };
+        
+        // Обработчик ошибки
+        audio.onerror = (e) => {
+            console.error("Ошибка аудиопотока:", e);
+            showError(`⚠️ Поток ${station.name} недоступен. Попробуйте другую станцию.`);
+            stopPlayback();
+        };
+        
         updateStationName(station.name);
         bar.style.display = 'flex';
         currentIndex = index;
@@ -787,11 +848,12 @@
         playPauseBtn.textContent = '⏸';
         updateActiveButton(index);
         
+        // Обработчик окончания потока
         audio.onended = () => {
-            if (isPlaying) nextTrack();
-        };
-        audio.onerror = () => {
-            console.warn("Ошибка потока");
+            if (isPlaying) {
+                // Автоматический переход на следующий трек
+                nextTrack();
+            }
         };
     }
 
@@ -812,7 +874,10 @@
     function togglePlayPause() {
         if (currentIndex === -1) return;
         if (audio.paused) {
-            audio.play();
+            audio.play().catch(err => {
+                console.error("Ошибка возобновления:", err);
+                showError("❌ Не удалось возобновить воспроизведение");
+            });
             isPlaying = true;
             playPauseBtn.textContent = '⏸';
         } else {
@@ -834,6 +899,11 @@
         currentIndex = -1;
         isPlaying = false;
         playPauseBtn.textContent = '⏸';
+        
+        // Очищаем обработчики
+        audio.onerror = null;
+        audio.oncanplay = null;
+        audio.onended = null;
     }
 
     prevBtn.addEventListener('click', prevTrack);
@@ -857,7 +927,7 @@
             return `
                 <div class="station-card" data-url="${station.url}" data-name="${station.name.replace(/"/g, '&quot;')}" data-index="${idx}">
                     <div class="card-header">
-                        <div class="logo-wrapper"><img src="${station.logo}" alt="" onerror="this.src='https://i.postimg.cc/rmMYcyyJ/radio-placeholder.png'"></div>
+                        <div class="logo-wrapper"><img src="${station.logo}" alt="" loading="lazy" onerror="this.src='https://i.postimg.cc/rmMYcyyJ/radio-placeholder.png'"></div>
                         <div class="station-name">${escapeHtml(station.name)}</div>
                     </div>
                     <div class="genre-tag">${escapeHtml(station.group)}</div>
@@ -870,10 +940,12 @@
             btn.addEventListener('click', (e) => {
                 e.stopPropagation();
                 const idx = parseInt(btn.dataset.idx);
-                if (!isNaN(idx) && idx !== currentIndex) {
-                    playByIndex(idx);
-                } else if (idx === currentIndex) {
-                    togglePlayPause();
+                if (!isNaN(idx)) {
+                    if (idx !== currentIndex) {
+                        playByIndex(idx);
+                    } else {
+                        togglePlayPause();
+                    }
                 }
             });
         });
@@ -916,6 +988,12 @@
 
     renderCategories();
     renderStations();
+    
+    // Инструкция для пользователя
+    console.log("Радио плеер готов. Если звука нет, проверьте:");
+    console.log("1. Некоторые потоки могут быть временно недоступны");
+    console.log("2. Попробуйте разные станции");
+    console.log("3. Убедитесь, что звук не выключен в системе");
 </script>
 </body>
 </html>
