@@ -1,0 +1,13 @@
+{
+  "name": "radio-genres-proxy",
+  "version": "1.0.0",
+  "description": "Proxy server for Radio Genres to fix mixed content",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "http-proxy-middleware": "^2.0.6"
+  }
+}
