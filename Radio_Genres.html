@@ -1,0 +1,921 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes, viewport-fit=cover">
+    <title>HDR FLAC · Радио</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            background: #0a0c12;
+            font-family: 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+            color: #eef2ff;
+            line-height: 1.5;
+            padding: 2rem 1.5rem 5rem 1.5rem;
+        }
+
+        body::before {
+            content: '';
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: radial-gradient(circle at 10% 20%, rgba(30, 45, 80, 0.4), rgba(0, 0, 0, 0.9));
+            pointer-events: none;
+            z-index: -2;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+
+        .hero {
+            margin-bottom: 2rem;
+            text-align: center;
+        }
+
+        .hero h1 {
+            font-size: 2.6rem;
+            font-weight: 700;
+            background: linear-gradient(135deg, #FFFFFF, #B4C9FF, #9B7BFF);
+            background-clip: text;
+            -webkit-background-clip: text;
+            color: transparent;
+        }
+
+        .badge {
+            display: inline-block;
+            background: rgba(255, 255, 255, 0.08);
+            backdrop-filter: blur(4px);
+            border-radius: 100px;
+            padding: 0.3rem 1rem;
+            font-size: 0.85rem;
+            color: #bfd6ff;
+            border: 1px solid rgba(255, 255, 255, 0.15);
+            margin-top: 0.75rem;
+        }
+
+        .hero p {
+            color: #9aa6c5;
+            max-width: 600px;
+            margin: 1rem auto 0;
+            font-size: 0.95rem;
+        }
+
+        .search-section {
+            margin-bottom: 2rem;
+            display: flex;
+            justify-content: center;
+        }
+
+        .search-box {
+            background: #11161f;
+            border-radius: 60px;
+            padding: 0.5rem 1rem;
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+            width: 100%;
+            max-width: 460px;
+            border: 1px solid #2a2f3c;
+        }
+
+        .search-box input {
+            background: transparent;
+            border: none;
+            width: 100%;
+            padding: 0.7rem 0;
+            font-size: 1rem;
+            color: #f0f3fa;
+            outline: none;
+        }
+
+        .search-box input::placeholder {
+            color: #5b6685;
+        }
+
+        .categories-nav {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.6rem;
+            margin-bottom: 2rem;
+            border-bottom: 1px solid #202433;
+            padding-bottom: 1rem;
+            overflow-x: auto;
+        }
+
+        .cat-btn {
+            background: transparent;
+            border: none;
+            padding: 0.5rem 1.2rem;
+            border-radius: 40px;
+            font-weight: 600;
+            font-size: 0.85rem;
+            color: #b3c1e0;
+            cursor: pointer;
+            white-space: nowrap;
+        }
+
+        .cat-btn.active, .cat-btn:hover {
+            background: #2d3b66;
+            color: white;
+        }
+
+        .stations-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(290px, 1fr));
+            gap: 1.3rem;
+        }
+
+        .station-card {
+            background: rgba(18, 23, 34, 0.7);
+            backdrop-filter: blur(8px);
+            border-radius: 24px;
+            padding: 1.2rem;
+            border: 1px solid rgba(72, 85, 120, 0.35);
+            cursor: pointer;
+            transition: all 0.25s ease;
+        }
+
+        .station-card:hover {
+            transform: translateY(-4px);
+            border-color: #5e7cd9;
+            background: rgba(28, 35, 52, 0.85);
+        }
+
+        .card-header {
+            display: flex;
+            align-items: center;
+            gap: 0.7rem;
+            margin-bottom: 0.8rem;
+        }
+
+        .logo-wrapper {
+            width: 44px;
+            height: 44px;
+            background: #0f121b;
+            border-radius: 16px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            overflow: hidden;
+            flex-shrink: 0;
+        }
+
+        .logo-wrapper img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+
+        .station-name {
+            font-weight: 700;
+            font-size: 1rem;
+            color: white;
+        }
+
+        .genre-tag {
+            font-size: 0.7rem;
+            background: rgba(85, 110, 170, 0.3);
+            display: inline-block;
+            padding: 0.2rem 0.7rem;
+            border-radius: 20px;
+            margin: 0.6rem 0 0.75rem;
+            color: #b9cdff;
+        }
+
+        .play-btn {
+            margin-top: 0.9rem;
+            background: #21293e;
+            border: none;
+            border-radius: 40px;
+            padding: 0.6rem 0;
+            font-weight: 600;
+            font-size: 0.85rem;
+            color: #e2ecff;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 0.5rem;
+            cursor: pointer;
+            width: 100%;
+        }
+
+        .play-btn.active-now {
+            background: #4c6a9e;
+            color: white;
+            box-shadow: 0 0 8px rgba(100, 150, 255, 0.5);
+        }
+
+        .play-icon-animated {
+            display: inline-flex;
+            align-items: center;
+            gap: 3px;
+        }
+
+        .play-icon-animated span {
+            width: 4px;
+            height: 12px;
+            background-color: currentColor;
+            border-radius: 2px;
+            animation: soundWave 1.2s ease infinite alternate;
+        }
+
+        .play-icon-animated span:nth-child(1) { animation-delay: 0s; }
+        .play-icon-animated span:nth-child(2) { animation-delay: 0.2s; }
+        .play-icon-animated span:nth-child(3) { animation-delay: 0.4s; }
+        .play-icon-animated span:nth-child(4) { animation-delay: 0.1s; }
+
+        @keyframes soundWave {
+            0% { height: 6px; opacity: 0.5; }
+            100% { height: 18px; opacity: 1; }
+        }
+
+        /* Миниплеер — фиксированная структура, кнопки не прыгают */
+        .now-playing {
+            position: sticky;
+            bottom: 1rem;
+            margin-top: 2rem;
+            background: rgba(10, 12, 22, 0.7);
+            backdrop-filter: blur(20px);
+            border-radius: 60px;
+            padding: 0.6rem 1.2rem;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 0.8rem;
+            border: 1px solid rgba(72, 85, 120, 0.4);
+            z-index: 20;
+            flex-wrap: nowrap;
+        }
+
+        /* Контейнер для названия с фиксированной шириной и бегущей строкой */
+        .station-name-container {
+            flex: 1;
+            min-width: 0;
+            max-width: 280px;
+            background: rgba(0, 0, 0, 0.5);
+            border-radius: 40px;
+            padding: 0.3rem 0;
+            overflow: hidden;
+            position: relative;
+        }
+
+        .current-station {
+            font-weight: 500;
+            font-size: 0.85rem;
+            color: #bdd4ff;
+            white-space: nowrap;
+            display: inline-block;
+            padding-left: 1rem;
+            padding-right: 1rem;
+            animation: none;
+        }
+
+        /* Анимация бегущей строки - запускается при наведении или касании */
+        .station-name-container.scrolling .current-station {
+            animation: marquee 8s linear infinite;
+        }
+
+        @keyframes marquee {
+            0% { transform: translateX(0); }
+            100% { transform: translateX(-50%); }
+        }
+
+        /* Блок с кнопками — фиксированная ширина, не сжимается */
+        .player-controls {
+            display: flex;
+            align-items: center;
+            gap: 0.6rem;
+            flex-shrink: 0;
+        }
+
+        .ctrl-btn {
+            background: #1e2538;
+            border: none;
+            border-radius: 40px;
+            width: 38px;
+            height: 38px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            font-size: 1.2rem;
+            color: #cbd5ff;
+            transition: 0.2s;
+            flex-shrink: 0;
+        }
+
+        .ctrl-btn:hover {
+            background: #3c4a76;
+            color: white;
+        }
+
+        .stop-btn {
+            background: #2a2f44;
+            border: none;
+            border-radius: 40px;
+            padding: 0.4rem 1.2rem;
+            color: #ffb7b7;
+            cursor: pointer;
+            flex-shrink: 0;
+            font-size: 0.85rem;
+        }
+
+        /* Мобильная версия */
+        @media (max-width: 640px) {
+            .now-playing {
+                padding: 0.4rem 0.8rem;
+                gap: 0.5rem;
+            }
+            .station-name-container {
+                max-width: 150px;
+                padding: 0.2rem 0;
+            }
+            .current-station {
+                font-size: 0.7rem;
+                padding-left: 0.8rem;
+                padding-right: 0.8rem;
+            }
+            .ctrl-btn {
+                width: 32px;
+                height: 32px;
+                font-size: 1rem;
+            }
+            .stop-btn {
+                padding: 0.2rem 0.7rem;
+                font-size: 0.7rem;
+            }
+        }
+
+        audio {
+            display: none;
+        }
+
+        .no-results {
+            text-align: center;
+            padding: 3rem;
+            color: #7f8db0;
+            background: #0c1020;
+            border-radius: 40px;
+        }
+
+        footer {
+            margin-top: 3rem;
+            text-align: center;
+            font-size: 0.7rem;
+            color: #5c688b;
+            border-top: 1px solid #1f253c;
+            padding-top: 1.8rem;
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <div class="hero">
+        <h1>🎧 Radio Genres</h1>
+        <div class="badge">🐼 Слушай лучшее</div>
+        <p>Неоклассика, метал, джаз, электроника, фолк — нажми на карточку, чтобы слушать</p>
+    </div>
+
+    <div class="search-section">
+        <div class="search-box">
+            <span>🔍</span>
+            <input type="text" id="searchInput" placeholder="Поиск по названию или жанру...">
+        </div>
+    </div>
+
+    <div class="categories-nav" id="categoriesNav"></div>
+    <div class="stations-grid" id="stationsGrid"><div class="no-results">Загрузка...</div></div>
+
+    <div class="now-playing" id="nowPlayingBar" style="display: none;">
+        <div class="station-name-container" id="stationNameContainer">
+            <div class="current-station" id="currentStationName">—</div>
+        </div>
+        <div class="player-controls">
+            <button class="ctrl-btn" id="prevTrackBtn">⏮</button>
+            <button class="ctrl-btn" id="playPauseBtn">⏸</button>
+            <button class="ctrl-btn" id="nextTrackBtn">⏭</button>
+        </div>
+        <button class="stop-btn" id="stopPlaybackBtn">⏹ Стоп</button>
+    </div>
+    <audio id="audioPlayer" preload="none"></audio>
+    <footer>Интернет-радио. Created by Dimonovich (2026) </footer>
+</div>
+
+<script>
+    // ПОЛНЫЙ СПИСОК СТАНЦИЙ
+    const stationsData = [
+        { group: "METAL", name: "NEOCLASSICAL METAL", url: "http://79.111.119.111:8000/neoclassicalmetal", logo: "https://i.postimg.cc/SxYJ1hKh/c300.jpg" },
+        { group: "METAL", name: "PAGAN METAL", url: "http://79.111.119.111:8000/paganmetal", logo: "https://i.postimg.cc/SxYJ1hKh/c300.jpg" },
+        { group: "METAL", name: "SYMPHONIC BLACK METAL", url: "http://79.111.119.111:8000/symphonicblackmetal", logo: "https://i.postimg.cc/SxYJ1hKh/c300.jpg" },
+        { group: "METAL", name: "GROOVE METAL", url: "http://79.120.39.202:8000/groovemetal", logo: "https://i.postimg.cc/SxYJ1hKh/c300.jpg" },
+        { group: "METAL", name: "SYMPHONIC METAL / SYMPHOMETAL", url: "http://79.120.77.11:8000/symphometal", logo: "https://i.postimg.cc/SxYJ1hKh/c300.jpg" },
+        { group: "METAL", name: "DEATH DOOM METAL", url: "http://79.120.39.202:8000/deathdoom", logo: "https://i.postimg.cc/SxYJ1hKh/c300.jpg" },
+        { group: "METAL", name: "DARK METAL", url: "http://79.111.119.111:8000/darkmetal", logo: "https://i.postimg.cc/SxYJ1hKh/c300.jpg" },
+        { group: "METAL", name: "DOOM METAL", url: "http://79.111.14.76:8000/doom", logo: "https://i.postimg.cc/SxYJ1hKh/c300.jpg" },
+        { group: "METAL", name: "POST / INSTRO / ART METAL", url: "http://79.120.39.202:8000/postmetal", logo: "https://i.postimg.cc/SxYJ1hKh/c300.jpg" },
+        { group: "METAL", name: "PROGRESSIVE BLACK / POST-BLACK / BLACKGAZE", url: "http://79.111.14.76:8000/postblack", logo: "https://i.postimg.cc/SxYJ1hKh/c300.jpg" },
+        { group: "METAL", name: "GOTHIC DOOM METAL", url: "http://79.120.39.202:8000/gothdoommet", logo: "https://i.postimg.cc/SxYJ1hKh/c300.jpg" },
+        { group: "METAL", name: "PROGRESSIVE POWER METAL", url: "http://79.111.119.111:8000/progpowermetal", logo: "https://i.postimg.cc/SxYJ1hKh/c300.jpg" },
+        { group: "METAL", name: "NWOBHM", url: "http://79.120.12.130:8000/nwobhm", logo: "https://i.postimg.cc/SxYJ1hKh/c300.jpg" },
+        { group: "METAL", name: "NEUE DEUTSCHE HARTE", url: "http://213.141.131.10:8000/ndh", logo: "https://i.postimg.cc/SxYJ1hKh/c300.jpg" },
+        { group: "METAL", name: "VIKING METAL", url: "http://79.111.14.76:8000/vikingmetal", logo: "https://i.postimg.cc/SxYJ1hKh/c300.jpg" },
+        { group: "METAL", name: "DEATH'N'ROLL", url: "http://79.120.39.202:8000/deathnroll", logo: "https://i.postimg.cc/SxYJ1hKh/c300.jpg" },
+        { group: "METAL", name: "FOLK BLACK METAL", url: "http://79.120.12.130:8000/folkblackmet", logo: "https://i.postimg.cc/SxYJ1hKh/c300.jpg" },
+        { group: "METAL", name: "BLACK METAL", url: "http://79.120.77.11:8000/blackmetal", logo: "https://i.postimg.cc/SxYJ1hKh/c300.jpg" },
+        { group: "METAL", name: "DEATH METAL", url: "http://79.120.77.11:8000/deathmetal", logo: "https://i.postimg.cc/SxYJ1hKh/c300.jpg" },
+        { group: "METAL", name: "PROGRESSIVE DEATH METAL", url: "http://79.111.119.111:8000/progdeath", logo: "https://i.postimg.cc/SxYJ1hKh/c300.jpg" },
+        { group: "METAL", name: "NU METAL", url: "http://79.111.14.76:8000/numetal", logo: "https://i.postimg.cc/SxYJ1hKh/c300.jpg" },
+        { group: "METAL", name: "SLUDGE METAL", url: "http://79.120.77.11:8000/sludgemetal", logo: "https://i.postimg.cc/SxYJ1hKh/c300.jpg" },
+        { group: "METAL", name: "POWER METAL", url: "http://79.120.77.11:8000/powermetal", logo: "https://i.postimg.cc/SxYJ1hKh/c300.jpg" },
+        { group: "METAL", name: "BLACK / BLACKENED DEATH METAL", url: "http://79.111.14.76:8000/blackdeath", logo: "https://i.postimg.cc/SxYJ1hKh/c300.jpg" },
+        { group: "METAL", name: "INSTRUMENTAL METAL", url: "http://79.111.119.111:8000/instrumentalmetal", logo: "https://i.postimg.cc/SxYJ1hKh/c300.jpg" },
+        { group: "METAL", name: "AVANT-GARDE / EXPERIMENTAL METAL", url: "http://79.111.14.76:8000/avantgardemetal", logo: "https://i.postimg.cc/SxYJ1hKh/c300.jpg" },
+        { group: "METAL", name: "HEAVY POWER METAL", url: "http://79.120.12.130:8000/heavypowermetal", logo: "https://i.postimg.cc/SxYJ1hKh/c300.jpg" },
+        { group: "METAL", name: "MELODIC HEAVY METAL", url: "http://79.111.119.111:8000/melodicheavy", logo: "https://i.postimg.cc/SxYJ1hKh/c300.jpg" },
+        { group: "METAL", name: "SYMPHONIC POWER METAL", url: "http://213.141.131.10:8000/symphopower", logo: "https://i.postimg.cc/SxYJ1hKh/c300.jpg" },
+        { group: "METAL", name: "SYMPHONIC GOTHIC METAL", url: "http://213.141.131.10:8000/symphogoth", logo: "https://i.postimg.cc/SxYJ1hKh/c300.jpg" },
+        { group: "METAL", name: "MEDIEVAL METAL", url: "http://213.141.131.10:8000/medievalmetal", logo: "https://i.postimg.cc/SxYJ1hKh/c300.jpg" },
+        { group: "METAL", name: "JAZZ / FUSION METAL", url: "http://213.141.131.10:8000/jazzmetal", logo: "https://i.postimg.cc/SxYJ1hKh/c300.jpg" },
+        { group: "METAL", name: "MELODIC DEATH METAL", url: "http://79.120.77.11:8000/melodicdeath", logo: "https://i.postimg.cc/SxYJ1hKh/c300.jpg" },
+        { group: "METAL", name: "GOTHIC BLACK METAL", url: "http://79.120.39.202:8000/gothblackmet", logo: "https://i.postimg.cc/SxYJ1hKh/c300.jpg" },
+        { group: "METAL", name: "FOLK DEATH METAL", url: "http://79.120.12.130:8000/folkdeathmet", logo: "https://i.postimg.cc/SxYJ1hKh/c300.jpg" },
+        { group: "METAL", name: "PROGRESSIVE METAL", url: "http://79.120.77.11:8000/progmetal", logo: "https://i.postimg.cc/SxYJ1hKh/c300.jpg" },
+        { group: "METAL", name: "HEAVY METAL", url: "http://79.111.14.76:8000/heavymetal", logo: "https://i.postimg.cc/SxYJ1hKh/c300.jpg" },
+        { group: "POP", name: "RUSSIAN POP", url: "http://79.120.77.11:8000/popru", logo: "https://i.postimg.cc/ZRk0745r/pop.jpg" },
+        { group: "POP", name: "NU DISCO", url: "http://79.111.119.111:8000/nudisco", logo: "https://i.postimg.cc/ZRk0745r/pop.jpg" },
+        { group: "POP", name: "POP MUSIC OF THE USSR", url: "http://79.120.77.11:8000/ussr", logo: "https://i.postimg.cc/ZRk0745r/pop.jpg" },
+        { group: "POP", name: "CHINESE POP", url: "http://213.141.131.10:8000/cpop", logo: "https://i.postimg.cc/ZRk0745r/pop.jpg" },
+        { group: "POP", name: "TURKISH POP", url: "http://213.141.131.10:8000/turkishpop", logo: "https://i.postimg.cc/ZRk0745r/pop.jpg" },
+        { group: "POP", name: "REGGAETON", url: "http://213.141.131.10:8000/reggaeton", logo: "https://i.postimg.cc/ZRk0745r/pop.jpg" },
+        { group: "POP", name: "CANTOPOP", url: "http://79.120.12.130:8000/cantopop", logo: "https://i.postimg.cc/ZRk0745r/pop.jpg" },
+        { group: "POP", name: "POP BALLADS", url: "http://79.120.77.11:8000/popballads", logo: "https://i.postimg.cc/ZRk0745r/pop.jpg" },
+        { group: "POP", name: "POP", url: "http://79.120.77.11:8000/pop", logo: "https://i.postimg.cc/ZRk0745r/pop.jpg" },
+        { group: "POP", name: "ITALO DISCO", url: "http://79.111.119.111:8000/italodisco", logo: "https://i.postimg.cc/ZRk0745r/pop.jpg" },
+        { group: "POP", name: "JAPANESE POP", url: "http://79.111.119.111:8000/jpop", logo: "https://i.postimg.cc/ZRk0745r/pop.jpg" },
+        { group: "POP", name: "FRENCH", url: "http://79.111.14.76:8000/frenchchanson", logo: "https://i.postimg.cc/ZRk0745r/pop.jpg" },
+        { group: "POP", name: "FRENCH POP MUSIC", url: "http://79.120.12.130:8000/frenchpop", logo: "https://i.postimg.cc/ZRk0745r/pop.jpg" },
+        { group: "POP", name: "KOREAN POP", url: "http://79.111.119.111:8000/kpop", logo: "https://i.postimg.cc/ZRk0745r/pop.jpg" },
+        { group: "POP", name: "EURODANCE", url: "http://79.120.39.202:8000/eurodance", logo: "https://i.postimg.cc/ZRk0745r/pop.jpg" },
+        { group: "POP", name: "EURO DISCO", url: "http://79.111.119.111:8000/eurodisco", logo: "https://i.postimg.cc/ZRk0745r/pop.jpg" },
+        { group: "POP", name: "DISCO", url: "http://79.120.77.11:8000/disco", logo: "https://i.postimg.cc/ZRk0745r/pop.jpg" },
+        { group: "POP", name: "RUSSIAN POP 1980-1990s", url: "http://79.120.77.11:8000/80ru", logo: "https://i.postimg.cc/ZRk0745r/pop.jpg" },
+        { group: "POP", name: "ARABIC POP MUSIC", url: "http://79.120.39.202:8000/arabicpop", logo: "https://i.postimg.cc/ZRk0745r/pop.jpg" },
+        { group: "POP", name: "LATIN POP", url: "http://79.111.119.111:8000/latinpop", logo: "https://i.postimg.cc/ZRk0745r/pop.jpg" },
+        { group: "POP", name: "DANCE POP", url: "http://79.120.77.11:8000/dancepop", logo: "https://i.postimg.cc/ZRk0745r/pop.jpg" },
+        { group: "POP", name: "ITALIAN POP", url: "http://213.141.131.10:8000/italopop", logo: "https://i.postimg.cc/ZRk0745r/pop.jpg" },
+        { group: "POP", name: "FOLK POP", url: "http://213.141.131.10:8000/folkpop", logo: "https://i.postimg.cc/ZRk0745r/pop.jpg" },
+        { group: "POP", name: "CLASSIC POP", url: "http://213.141.131.10:8000/tradpop", logo: "https://i.postimg.cc/ZRk0745r/pop.jpg" },
+        { group: "ROCK", name: "PSYCHOBILLY", url: "http://79.111.119.111:8000/psychobilly", logo: "https://i.postimg.cc/pLM7Lj7z/2023-04-10-200831163.png" },
+        { group: "ROCK", name: "INDIE", url: "http://79.111.119.111:8000/indiepop", logo: "https://i.postimg.cc/pLM7Lj7z/2023-04-10-200831163.png" },
+        { group: "ROCK", name: "FOLK ROCK", url: "http://79.111.14.76:8000/folkrock", logo: "https://i.postimg.cc/pLM7Lj7z/2023-04-10-200831163.png" },
+        { group: "ROCK", name: "ROCK'n'ROLL", url: "http://79.120.77.11:8000/rockroll", logo: "https://i.postimg.cc/pLM7Lj7z/2023-04-10-200831163.png" },
+        { group: "ROCK", name: "HARD", url: "http://79.120.77.11:8000/hardrock", logo: "https://i.postimg.cc/pLM7Lj7z/2023-04-10-200831163.png" },
+        { group: "ROCK", name: "RUSSIAN ROCK", url: "http://79.120.77.11:8000/rockru", logo: "https://i.postimg.cc/pLM7Lj7z/2023-04-10-200831163.png" },
+        { group: "ROCK", name: "GLAM ROCK", url: "http://79.120.39.202:8000/glam", logo: "https://i.postimg.cc/pLM7Lj7z/2023-04-10-200831163.png" },
+        { group: "ROCK", name: "INSTRUMENTAL ROCK", url: "http://79.120.39.202:8000/instrumentalrock", logo: "https://i.postimg.cc/pLM7Lj7z/2023-04-10-200831163.png" },
+        { group: "ROCK", name: "JAPANESE ROCK", url: "http://79.111.119.111:8000/jrock", logo: "https://i.postimg.cc/pLM7Lj7z/2023-04-10-200831163.png" },
+        { group: "ROCK", name: "PROGRESSIVE ROCK", url: "http://79.111.119.111:8000/progressiverock", logo: "https://i.postimg.cc/pLM7Lj7z/2023-04-10-200831163.png" },
+        { group: "ROCK", name: "NOISE ROCK", url: "http://79.120.39.202:8000/noiserock", logo: "https://i.postimg.cc/pLM7Lj7z/2023-04-10-200831163.png" },
+        { group: "ROCK", name: "CROSSOVER PROG", url: "http://79.111.14.76:8000/crossoverprog", logo: "https://i.postimg.cc/pLM7Lj7z/2023-04-10-200831163.png" },
+        { group: "ROCK", name: "LATIN", url: "http://79.111.119.111:8000/latinjazz", logo: "https://i.postimg.cc/pLM7Lj7z/2023-04-10-200831163.png" },
+        { group: "ROCK", name: "PIANO ROCK", url: "http://79.111.14.76:8000/pianorock", logo: "https://i.postimg.cc/pLM7Lj7z/2023-04-10-200831163.png" },
+        { group: "ROCK", name: "FUNK ROCK", url: "http://213.141.131.10:8000/funkrock", logo: "https://i.postimg.cc/pLM7Lj7z/2023-04-10-200831163.png" },
+        { group: "ROCK", name: "SURF ROCK", url: "http://79.111.119.111:8000/surfrock", logo: "https://i.postimg.cc/pLM7Lj7z/2023-04-10-200831163.png" },
+        { group: "ROCK", name: "PSYCHEDELIC ROCK", url: "http://79.111.119.111:8000/psychedelicrock", logo: "https://i.postimg.cc/pLM7Lj7z/2023-04-10-200831163.png" },
+        { group: "ROCK", name: "DARK WAVE", url: "http://79.111.14.76:8000/darkwave", logo: "https://i.postimg.cc/pLM7Lj7z/2023-04-10-200831163.png" },
+        { group: "ROCK", name: "PUNK ROCK", url: "http://79.120.77.11:8000/punk", logo: "https://i.postimg.cc/pLM7Lj7z/2023-04-10-200831163.png" },
+        { group: "ROCK", name: "GRUNGE", url: "http://79.120.39.202:8000/grunge", logo: "https://i.postimg.cc/pLM7Lj7z/2023-04-10-200831163.png" },
+        { group: "ROCK", name: "ART ROCK", url: "http://79.120.39.202:8000/artrock", logo: "https://i.postimg.cc/pLM7Lj7z/2023-04-10-200831163.png" },
+        { group: "ROCK", name: "GOTH ROCK", url: "http://79.111.14.76:8000/gothicrock", logo: "https://i.postimg.cc/pLM7Lj7z/2023-04-10-200831163.png" },
+        { group: "ROCK", name: "GARAGE ROCK", url: "http://79.111.119.111:8000/garagerock", logo: "https://i.postimg.cc/pLM7Lj7z/2023-04-10-200831163.png" },
+        { group: "ROCK", name: "ACID ROCK", url: "http://213.141.131.10:8000/acidrock", logo: "https://i.postimg.cc/pLM7Lj7z/2023-04-10-200831163.png" },
+        { group: "ROCK", name: "BLUES ROCK", url: "http://79.120.39.202:8000/bluesrock", logo: "https://i.postimg.cc/pLM7Lj7z/2023-04-10-200831163.png" },
+        { group: "ROCK", name: "RUSSIAN PUNK ROCK", url: "http://79.120.77.11:8000/punkru", logo: "https://i.postimg.cc/pLM7Lj7z/2023-04-10-200831163.png" },
+        { group: "ROCK", name: "SYMPHONIC ROCK", url: "http://79.120.39.202:8000/symphorock", logo: "https://i.postimg.cc/pLM7Lj7z/2023-04-10-200831163.png" },
+        { group: "ROCK", name: "SPACE ROCK", url: "http://79.111.119.111:8000/spacerock", logo: "https://i.postimg.cc/pLM7Lj7z/2023-04-10-200831163.png" },
+        { group: "ROCK", name: "POP ROCK", url: "http://79.120.77.11:8000/poprock", logo: "https://i.postimg.cc/pLM7Lj7z/2023-04-10-200831163.png" },
+        { group: "ROCK", name: "INDIE FOLK", url: "http://79.111.14.76:8000/indiefolk", logo: "https://i.postimg.cc/pLM7Lj7z/2023-04-10-200831163.png" },
+        { group: "ELECTRONIC", name: "UPLIFTING TRANCE", url: "http://79.111.119.111:8000/upliftingtrance", logo: "https://i.postimg.cc/RhkPq3SW/unnamed.png" },
+        { group: "ELECTRONIC", name: "ELECTRO HOUSE", url: "http://79.111.14.76:8000/electrohouse", logo: "https://i.postimg.cc/RhkPq3SW/unnamed.png" },
+        { group: "ELECTRONIC", name: "Hardstyle", url: "http://79.111.14.76:8000/hardstyle", logo: "https://i.postimg.cc/RhkPq3SW/unnamed.png" },
+        { group: "ELECTRONIC", name: "PROGRESSIVE TRANCE", url: "http://79.120.39.202:8000/progtrance", logo: "https://i.postimg.cc/RhkPq3SW/unnamed.png" },
+        { group: "ELECTRONIC", name: "RUSSIAN CLUB DANCE", url: "http://79.120.77.11:8000/clubru", logo: "https://i.postimg.cc/RhkPq3SW/unnamed.png" },
+        { group: "ELECTRONIC", name: "GOA TRANCE", url: "http://79.120.39.202:8000/goatrance", logo: "https://i.postimg.cc/RhkPq3SW/unnamed.png" },
+        { group: "ELECTRONIC", name: "LO-FI", url: "http://79.111.14.76:8000/lo-fi", logo: "https://i.postimg.cc/RhkPq3SW/unnamed.png" },
+        { group: "ELECTRONIC", name: "AMBIENT DUB", url: "http://79.111.14.76:8000/ambientdub", logo: "https://i.postimg.cc/RhkPq3SW/unnamed.png" },
+        { group: "ELECTRONIC", name: "TECHNO", url: "http://79.120.77.11:8000/techno", logo: "https://i.postimg.cc/RhkPq3SW/unnamed.png" },
+        { group: "ELECTRONIC", name: "AMBIENT", url: "http://79.111.119.111:8000/ambient", logo: "https://i.postimg.cc/RhkPq3SW/unnamed.png" },
+        { group: "ELECTRONIC", name: "ELECTRO FUNK", url: "http://79.111.119.111:8000/electro", logo: "https://i.postimg.cc/RhkPq3SW/unnamed.png" },
+        { group: "ELECTRONIC", name: "SPACESYNTH", url: "http://79.120.39.202:8000/spacesynth", logo: "https://i.postimg.cc/RhkPq3SW/unnamed.png" },
+        { group: "ELECTRONIC", name: "NEUROFUNK", url: "http://79.111.119.111:8000/neurofunk", logo: "https://i.postimg.cc/RhkPq3SW/unnamed.png" },
+        { group: "ELECTRONIC", name: "DRONE AMBIENT", url: "http://79.111.119.111:8000/droneambient", logo: "https://i.postimg.cc/RhkPq3SW/unnamed.png" },
+        { group: "ELECTRONIC", name: "ELECTROCLASH", url: "http://79.120.39.202:8000/electroclash", logo: "https://i.postimg.cc/RhkPq3SW/unnamed.png" },
+        { group: "ELECTRONIC", name: "PUMPING HOUSE", url: "http://79.120.77.11:8000/pumpinghouse", logo: "https://i.postimg.cc/RhkPq3SW/unnamed.png" },
+        { group: "ELECTRONIC", name: "DARK DUBSTEP", url: "http://79.120.39.202:8000/darkdubstep", logo: "https://i.postimg.cc/RhkPq3SW/unnamed.png" },
+        { group: "ELECTRONIC", name: "RIDDIM DUBSTEP", url: "http://79.111.119.111:8000/riddimdubstep", logo: "https://i.postimg.cc/RhkPq3SW/unnamed.png" },
+        { group: "ELECTRONIC", name: "SUOMISAUNDI", url: "http://79.120.77.11:8000/suomisaundi", logo: "https://i.postimg.cc/RhkPq3SW/unnamed.png" },
+        { group: "ELECTRONIC", name: "ELECTRO TECHNO", url: "http://213.141.131.10:8000/electrotechno", logo: "https://i.postimg.cc/RhkPq3SW/unnamed.png" },
+        { group: "ELECTRONIC", name: "CYBERPUNK", url: "http://79.120.12.130:8000/cyberpunk", logo: "https://i.postimg.cc/RhkPq3SW/unnamed.png" },
+        { group: "ELECTRONIC", name: "PROGRESSIVE ELECTRONIC", url: "http://79.120.12.130:8000/progelectronic", logo: "https://i.postimg.cc/RhkPq3SW/unnamed.png" },
+        { group: "ELECTRONIC", name: "INDUSTRIAL TECHNO", url: "http://79.120.12.130:8000/industrialtechno", logo: "https://i.postimg.cc/RhkPq3SW/unnamed.png" },
+        { group: "ELECTRONIC", name: "IDM", url: "http://79.111.14.76:8000/idm", logo: "https://i.postimg.cc/RhkPq3SW/unnamed.png" },
+        { group: "ELECTRONIC", name: "TRANCE", url: "http://79.120.77.11:8000/trance", logo: "https://i.postimg.cc/RhkPq3SW/unnamed.png" },
+        { group: "ELECTRONIC", name: "DARK TECHNO", url: "http://79.111.14.76:8000/darktechno", logo: "https://i.postimg.cc/RhkPq3SW/unnamed.png" },
+        { group: "ELECTRONIC", name: "SPACE MUSIC", url: "http://79.111.119.111:8000/spacemusic", logo: "https://i.postimg.cc/RhkPq3SW/unnamed.png" },
+        { group: "ELECTRONIC", name: "DUBSTEP", url: "http://79.120.39.202:8000/dubstep", logo: "https://i.postimg.cc/RhkPq3SW/unnamed.png" },
+        { group: "ELECTRONIC", name: "DRUM'n'BASS", url: "http://79.111.14.76:8000/drumbass", logo: "https://i.postimg.cc/RhkPq3SW/unnamed.png" },
+        { group: "ELECTRONIC", name: "HOUSE", url: "http://79.120.77.11:8000/house", logo: "https://i.postimg.cc/RhkPq3SW/unnamed.png" },
+        { group: "ELECTRONIC", name: "HI-TECH", url: "http://79.120.12.130:8000/hitechpsy", logo: "https://i.postimg.cc/RhkPq3SW/unnamed.png" },
+        { group: "CLASSICAL", name: "SYMPHONY", url: "http://79.111.14.76:8000/symphony", logo: "https://i.postimg.cc/L5tyY9nv/123.jpg" },
+        { group: "CLASSICAL", name: "CLASSICAL PIANO", url: "http://79.120.39.202:8000/classpiano", logo: "https://i.postimg.cc/L5tyY9nv/123.jpg" },
+        { group: "CLASSICAL", name: "CONTEMPORARY CLASSICAL", url: "http://79.111.119.111:8000/contclass", logo: "https://i.postimg.cc/L5tyY9nv/123.jpg" },
+        { group: "CLASSICAL", name: "CLAVECIN", url: "http://213.141.131.10:8000/clavecin", logo: "https://i.postimg.cc/L5tyY9nv/123.jpg" },
+        { group: "CLASSICAL", name: "CLASSICAL GUITAR", url: "http://213.141.131.10:8000/classguitar", logo: "https://i.postimg.cc/L5tyY9nv/123.jpg" },
+        { group: "CLASSICAL", name: "SONATAS", url: "http://213.141.131.10:8000/sonata", logo: "https://i.postimg.cc/L5tyY9nv/123.jpg" },
+        { group: "CLASSICAL", name: "LUTE", url: "http://79.120.12.130:8000/lute", logo: "https://i.postimg.cc/L5tyY9nv/123.jpg" },
+        { group: "CLASSICAL", name: "CLASSICAL SYMPHONIC", url: "http://79.120.77.11:8000/classical", logo: "https://i.postimg.cc/L5tyY9nv/123.jpg" },
+        { group: "CLASSICAL", name: "VOCAL MUSIC", url: "http://79.120.39.202:8000/chorus", logo: "https://i.postimg.cc/L5tyY9nv/123.jpg" },
+        { group: "CLASSICAL", name: "RENAISSANCE MUSIC", url: "http://213.141.131.10:8000/renaissance", logo: "https://i.postimg.cc/L5tyY9nv/123.jpg" },
+        { group: "CLASSICAL", name: "VIOLONCELLO", url: "http://79.120.12.130:8000/cello", logo: "https://i.postimg.cc/L5tyY9nv/123.jpg" },
+        { group: "CLASSICAL", name: "HARP", url: "http://213.141.131.10:8000/harp", logo: "https://i.postimg.cc/L5tyY9nv/123.jpg" },
+        { group: "CLASSICAL", name: "CHANTS", url: "http://213.141.131.10:8000/chants", logo: "https://i.postimg.cc/L5tyY9nv/123.jpg" },
+        { group: "CLASSICAL", name: "CANTATA", url: "http://79.120.12.130:8000/cantata", logo: "https://i.postimg.cc/L5tyY9nv/123.jpg" },
+        { group: "CLASSICAL", name: "ORGAN MUSIC", url: "http://79.120.77.11:8000/organ", logo: "https://i.postimg.cc/L5tyY9nv/123.jpg" },
+        { group: "CLASSICAL", name: "BAROQUE MUSIC", url: "http://79.111.14.76:8000/baroque", logo: "https://i.postimg.cc/L5tyY9nv/123.jpg" },
+        { group: "CLASSICAL", name: "MEDIEVAL MUSIC", url: "http://213.141.131.10:8000/medieval", logo: "https://i.postimg.cc/L5tyY9nv/123.jpg" },
+        { group: "CLASSICAL", name: "SACRED MUSIC", url: "http://213.141.131.10:8000/sacred", logo: "https://i.postimg.cc/L5tyY9nv/123.jpg" },
+        { group: "CLASSICAL", name: "CLASSICAL AVANT-GARDE", url: "http://213.141.131.10:8000/classavant", logo: "https://i.postimg.cc/L5tyY9nv/123.jpg" },
+        { group: "CLASSICAL", name: "ORATORIO", url: "http://79.120.12.130:8000/oratorio", logo: "https://i.postimg.cc/L5tyY9nv/123.jpg" },
+        { group: "CLASSICAL", name: "OPERA", url: "http://79.120.39.202:8000/opera", logo: "https://i.postimg.cc/L5tyY9nv/123.jpg" },
+        { group: "CLASSICAL", name: "STRINGS", url: "http://79.120.39.202:8000/strings", logo: "https://i.postimg.cc/L5tyY9nv/123.jpg" },
+        { group: "CLASSICAL", name: "CLARINET", url: "http://213.141.131.10:8000/clarinet", logo: "https://i.postimg.cc/L5tyY9nv/123.jpg" },
+        { group: "CLASSICAL", name: "MINIMALISM", url: "http://213.141.131.10:8000/minimalism", logo: "https://i.postimg.cc/L5tyY9nv/123.jpg" },
+        { group: "JAZZ", name: "SMOOTH JAZZ", url: "http://79.120.39.202:8000/smoothjazz", logo: "https://i.postimg.cc/DzG1yCWP/jazz3.jpg" },
+        { group: "JAZZ", name: "JAZZ FUNK", url: "http://79.120.39.202:8000/jazzfunk", logo: "https://i.postimg.cc/DzG1yCWP/jazz3.jpg" },
+        { group: "JAZZ", name: "FREE JAZZ", url: "http://79.111.14.76:8000/nujazz", logo: "https://i.postimg.cc/DzG1yCWP/jazz3.jpg" },
+        { group: "JAZZ", name: "CONTEMPORARY JAZZ", url: "http://79.111.119.111:8000/contemporaryjazz", logo: "https://i.postimg.cc/DzG1yCWP/jazz3.jpg" },
+        { group: "JAZZ", name: "SOUL JAZZ", url: "http://79.111.14.76:8000/souljazz", logo: "https://i.postimg.cc/DzG1yCWP/jazz3.jpg" },
+        { group: "JAZZ", name: "MODERN CREATIVE", url: "http://79.120.77.11:8000/mcreative", logo: "https://i.postimg.cc/DzG1yCWP/jazz3.jpg" },
+        { group: "JAZZ", name: "CHAMBER JAZZ", url: "http://79.120.39.202:8000/chamberjazz", logo: "https://i.postimg.cc/DzG1yCWP/jazz3.jpg" },
+        { group: "JAZZ", name: "CROSSOVER JAZZ", url: "http://213.141.131.10:8000/crossoverjazz", logo: "https://i.postimg.cc/DzG1yCWP/jazz3.jpg" },
+        { group: "JAZZ", name: "VIBRAPHONE JAZZ", url: "http://213.141.131.10:8000/vibraphone", logo: "https://i.postimg.cc/DzG1yCWP/jazz3.jpg" },
+        { group: "JAZZ", name: "SWING", url: "http://79.120.39.202:8000/swing", logo: "https://i.postimg.cc/DzG1yCWP/jazz3.jpg" },
+        { group: "JAZZ", name: "HARD BOP", url: "http://79.111.14.76:8000/hardbop", logo: "https://i.postimg.cc/DzG1yCWP/jazz3.jpg" },
+        { group: "JAZZ", name: "BOSSA NOVA", url: "http://79.111.14.76:8000/bossanova", logo: "https://i.postimg.cc/DzG1yCWP/jazz3.jpg" },
+        { group: "JAZZ", name: "JAZZ POP", url: "http://79.120.39.202:8000/jazzpop", logo: "https://i.postimg.cc/DzG1yCWP/jazz3.jpg" },
+        { group: "JAZZ", name: "MODAL JAZZ", url: "http://213.141.131.10:8000/modaljazz", logo: "https://i.postimg.cc/DzG1yCWP/jazz3.jpg" },
+        { group: "JAZZ", name: "BIG BAND", url: "http://79.120.39.202:8000/bigband", logo: "https://i.postimg.cc/DzG1yCWP/jazz3.jpg" },
+        { group: "JAZZ", name: "POST BOP", url: "http://79.111.14.76:8000/postbop", logo: "https://i.postimg.cc/DzG1yCWP/jazz3.jpg" },
+        { group: "JAZZ", name: "PIANO JAZZ", url: "http://79.111.119.111:8000/pianojazz", logo: "https://i.postimg.cc/DzG1yCWP/jazz3.jpg" },
+        { group: "JAZZ", name: "AVANT-GARDE JAZZ", url: "http://79.111.119.111:8000/avantgardejazz", logo: "https://i.postimg.cc/DzG1yCWP/jazz3.jpg" },
+        { group: "JAZZ", name: "AMBIENT JAZZ", url: "http://79.120.39.202:8000/darkjazz", logo: "https://i.postimg.cc/DzG1yCWP/jazz3.jpg" },
+        { group: "JAZZ", name: "DIXIELAND", url: "http://79.120.39.202:8000/dixieland", logo: "https://i.postimg.cc/DzG1yCWP/jazz3.jpg" },
+        { group: "JAZZ", name: "ACID JAZZ", url: "http://79.111.14.76:8000/acidjazz", logo: "https://i.postimg.cc/DzG1yCWP/jazz3.jpg" },
+        { group: "JAZZ", name: "JAZZ FUSION", url: "http://79.111.119.111:8000/jazzfusion", logo: "https://i.postimg.cc/DzG1yCWP/jazz3.jpg" },
+        { group: "JAZZ", name: "GUITAR JAZZ", url: "http://79.120.77.11:8000/guitarjazz", logo: "https://i.postimg.cc/DzG1yCWP/jazz3.jpg" },
+        { group: "JAZZ", name: "THIRD STREAM JAZZ", url: "http://213.141.131.10:8000/thirdstream", logo: "https://i.postimg.cc/DzG1yCWP/jazz3.jpg" },
+        { group: "JAZZ", name: "JAZZ TRUMPET", url: "http://213.141.131.10:8000/trumpetjazz", logo: "https://i.postimg.cc/DzG1yCWP/jazz3.jpg" },
+        { group: "BLUES/SOUL/FUNK", name: "ACOUSTIC BLUES", url: "http://79.111.14.76:8000/acousticblues", logo: "https://i.postimg.cc/wvvHQrhh/Blues.png" },
+        { group: "BLUES/SOUL/FUNK", name: "SOUL", url: "http://79.120.39.202:8000/soul", logo: "https://i.postimg.cc/wvvHQrhh/Blues.png" },
+        { group: "BLUES/SOUL/FUNK", name: "DELTA BLUES", url: "http://79.120.77.11:8000/deltablues", logo: "https://i.postimg.cc/wvvHQrhh/Blues.png" },
+        { group: "BLUES/SOUL/FUNK", name: "SOUL BLUES", url: "http://79.111.14.76:8000/soulblues", logo: "https://i.postimg.cc/wvvHQrhh/Blues.png" },
+        { group: "BLUES/SOUL/FUNK", name: "FUNK", url: "http://79.111.119.111:8000/funk", logo: "https://i.postimg.cc/wvvHQrhh/Blues.png" },
+        { group: "BLUES/SOUL/FUNK", name: "HARP BLUES", url: "http://79.120.39.202:8000/harpblues", logo: "https://i.postimg.cc/wvvHQrhh/Blues.png" },
+        { group: "BLUES/SOUL/FUNK", name: "COUNTRY BLUES", url: "http://79.120.77.11:8000/countryblues", logo: "https://i.postimg.cc/wvvHQrhh/Blues.png" },
+        { group: "BLUES/SOUL/FUNK", name: "PIANO BLUES", url: "http://79.111.14.76:8000/pianoblues", logo: "https://i.postimg.cc/wvvHQrhh/Blues.png" },
+        { group: "BLUES/SOUL/FUNK", name: "JUMP BLUES", url: "http://213.141.131.10:8000/jumpblues", logo: "https://i.postimg.cc/wvvHQrhh/Blues.png" },
+        { group: "BLUES/SOUL/FUNK", name: "BLUES ROCK", url: "http://79.120.39.202:8000/bluesrock", logo: "https://i.postimg.cc/wvvHQrhh/Blues.png" },
+        { group: "BLUES/SOUL/FUNK", name: "WEST COAST BLUES", url: "http://79.120.12.130:8000/westcoastblues", logo: "https://i.postimg.cc/wvvHQrhh/Blues.png" },
+        { group: "BLUES/SOUL/FUNK", name: "SLIDE GUITAR", url: "http://213.141.131.10:8000/slideguitar", logo: "https://i.postimg.cc/wvvHQrhh/Blues.png" },
+        { group: "BLUES/SOUL/FUNK", name: "CHICAGO BLUES", url: "http://79.111.14.76:8000/chicagoblues", logo: "https://i.postimg.cc/wvvHQrhh/Blues.png" },
+        { group: "BLUES/SOUL/FUNK", name: "HARD BLUES", url: "http://79.120.77.11:8000/heavyblues", logo: "https://i.postimg.cc/wvvHQrhh/Blues.png" },
+        { group: "BLUES/SOUL/FUNK", name: "POP SOUL", url: "http://213.141.131.10:8000/popsoul", logo: "https://i.postimg.cc/wvvHQrhh/Blues.png" },
+        { group: "BLUES/SOUL/FUNK", name: "BLUES", url: "http://79.120.77.11:8000/blues", logo: "https://i.postimg.cc/wvvHQrhh/Blues.png" },
+        { group: "BLUES/SOUL/FUNK", name: "TEXAS BLUES", url: "http://79.111.14.76:8000/texasblues", logo: "https://i.postimg.cc/wvvHQrhh/Blues.png" },
+        { group: "ETHNIC/FOLK", name: "Indian Folk", url: "http://79.111.14.76:8000/indianfolk", logo: "https://i.postimg.cc/wTvkhQyD/image.jpg" },
+        { group: "ETHNIC/FOLK", name: "RUSSIAN FOLK", url: "http://79.120.77.11:8000/russianfolk", logo: "https://i.postimg.cc/wTvkhQyD/image.jpg" },
+        { group: "ETHNIC/FOLK", name: "ORTHODOX SPIRITUAL", url: "http://79.111.14.76:8000/orthodox", logo: "https://i.postimg.cc/wTvkhQyD/image.jpg" },
+        { group: "ETHNIC/FOLK", name: "GREEK MUSIC", url: "http://79.111.119.111:8000/laika", logo: "https://i.postimg.cc/wTvkhQyD/image.jpg" },
+        { group: "ETHNIC/FOLK", name: "GOSPEL", url: "http://79.111.14.76:8000/gospel", logo: "https://i.postimg.cc/wTvkhQyD/image.jpg" },
+        { group: "ETHNIC/FOLK", name: "EUROPEAN FOLK", url: "http://213.141.131.10:8000/europeanfolk", logo: "https://i.postimg.cc/wTvkhQyD/image.jpg" },
+        { group: "ETHNIC/FOLK", name: "FLAMENCO", url: "http://79.111.14.76:8000/flamenco", logo: "https://i.postimg.cc/wTvkhQyD/image.jpg" },
+        { group: "ETHNIC/FOLK", name: "TANGO", url: "http://79.120.39.202:8000/tango", logo: "https://i.postimg.cc/wTvkhQyD/image.jpg" },
+        { group: "ETHNIC/FOLK", name: "MIDDLE EASTERN", url: "http://79.111.119.111:8000/middleeast", logo: "https://i.postimg.cc/wTvkhQyD/image.jpg" },
+        { group: "ETHNIC/FOLK", name: "AFRICAN FOLK", url: "http://79.120.39.202:8000/africanfolk", logo: "https://i.postimg.cc/wTvkhQyD/image.jpg" },
+        { group: "ETHNIC/FOLK", name: "SIBERIA", url: "http://79.111.119.111:8000/siberia", logo: "https://i.postimg.cc/wTvkhQyD/image.jpg" },
+        { group: "ETHNIC/FOLK", name: "ANDEAN", url: "http://213.141.131.10:8000/andean", logo: "https://i.postimg.cc/wTvkhQyD/image.jpg" },
+        { group: "ETHNIC/FOLK", name: "ZYDECO", url: "http://213.141.131.10:8000/zydeco", logo: "https://i.postimg.cc/wTvkhQyD/image.jpg" },
+        { group: "ETHNIC/FOLK", name: "AFROBEAT", url: "http://79.120.39.202:8000/afrobeat", logo: "https://i.postimg.cc/wTvkhQyD/image.jpg" },
+        { group: "ETHNIC/FOLK", name: "CELTIC", url: "http://79.111.14.76:8000/celtic", logo: "https://i.postimg.cc/wTvkhQyD/image.jpg" },
+        { group: "ETHNIC/FOLK", name: "NATIVE AMERICAN", url: "http://79.111.119.111:8000/nativeamerican", logo: "https://i.postimg.cc/wTvkhQyD/image.jpg" },
+        { group: "ETHNIC/FOLK", name: "BALKAN", url: "http://79.120.39.202:8000/balkan", logo: "https://i.postimg.cc/wTvkhQyD/image.jpg" },
+        { group: "ETHNIC/FOLK", name: "CAUCASIAN", url: "http://213.141.131.10:8000/caucasus", logo: "https://i.postimg.cc/wTvkhQyD/image.jpg" },
+        { group: "ETHNIC/FOLK", name: "INDIAN SPIRITUAL", url: "http://213.141.131.10:8000/mantras", logo: "https://i.postimg.cc/wTvkhQyD/image.jpg" },
+        { group: "ETHNIC/FOLK", name: "SLAVIC NEOFOLK", url: "http://213.141.131.10:8000/slavonicneofolk", logo: "https://i.postimg.cc/wTvkhQyD/image.jpg" },
+        { group: "ETHNIC/FOLK", name: "SALSA", url: "http://79.120.39.202:8000/salsa", logo: "https://i.postimg.cc/wTvkhQyD/image.jpg" },
+        { group: "ETHNIC/FOLK", name: "FAR EASTERN", url: "http://79.111.119.111:8000/fareast", logo: "https://i.postimg.cc/wTvkhQyD/image.jpg" },
+        { group: "ETHNIC/FOLK", name: "JEWISH", url: "http://79.120.39.202:8000/klezmer", logo: "https://i.postimg.cc/wTvkhQyD/image.jpg" },
+        { group: "ETHNIC/FOLK", name: "MEDIEVAL FOLK", url: "http://213.141.131.10:8000/medievalfolk", logo: "https://i.postimg.cc/wTvkhQyD/image.jpg" },
+        { group: "ETHNIC/FOLK", name: "FADO", url: "http://213.141.131.10:8000/fado", logo: "https://i.postimg.cc/wTvkhQyD/image.jpg" },
+        { group: "ETHNIC/FOLK", name: "OCEANIA", url: "http://213.141.131.10:8000/oceania", logo: "https://i.postimg.cc/wTvkhQyD/image.jpg" },
+        { group: "REGGAE/SKA", name: "REGGAE", url: "http://79.120.39.202:8000/reggae", logo: "https://i.postimg.cc/QMMpGp1j/6.jpg" },
+        { group: "REGGAE/SKA", name: "SKA", url: "http://79.111.119.111:8000/ska", logo: "https://i.postimg.cc/QMMpGp1j/6.jpg" },
+        { group: "REGGAE/SKA", name: "DUB", url: "http://79.111.14.76:8000/dub", logo: "https://i.postimg.cc/QMMpGp1j/6.jpg" },
+        { group: "REGGAE/SKA", name: "SKA PUNK", url: "http://79.111.119.111:8000/skapunk", logo: "https://i.postimg.cc/QMMpGp1j/6.jpg" },
+        { group: "REGGAE/SKA", name: "DANCEHALL", url: "http://79.111.14.76:8000/dancehall", logo: "https://i.postimg.cc/QMMpGp1j/6.jpg" },
+        { group: "REGGAE/SKA", name: "ROCKSTEADY", url: "http://79.120.39.202:8000/rocksteady", logo: "https://i.postimg.cc/QMMpGp1j/6.jpg" },
+        { group: "REGGAE/SKA", name: "ROOTS REGGAE", url: "http://79.111.119.111:8000/rootsreggae", logo: "https://i.postimg.cc/QMMpGp1j/6.jpg" },
+        { group: "HARDCORE", name: "MELODIC DEATHCORE", url: "http://79.111.14.76:8000/deathcore", logo: "https://i.postimg.cc/5NN7NFwk/11.jpg" },
+        { group: "HARDCORE", name: "CRUST PUNK", url: "http://79.120.39.202:8000/crust", logo: "https://i.postimg.cc/5NN7NFwk/11.jpg" },
+        { group: "HARDCORE", name: "BEATDOWN", url: "http://79.111.14.76:8000/beatdown", logo: "https://i.postimg.cc/5NN7NFwk/11.jpg" },
+        { group: "HARDCORE", name: "RAPCORE", url: "http://79.111.119.111:8000/rapcore", logo: "https://i.postimg.cc/5NN7NFwk/11.jpg" },
+        { group: "HARDCORE", name: "METALCORE", url: "http://79.120.39.202:8000/metalcore", logo: "https://i.postimg.cc/5NN7NFwk/11.jpg" },
+        { group: "HARDCORE", name: "POST HARDCORE", url: "http://79.111.119.111:8000/posthardcore", logo: "https://i.postimg.cc/5NN7NFwk/11.jpg" },
+        { group: "HARDCORE", name: "PROG METALCORE", url: "http://79.111.14.76:8000/progmetalcore", logo: "https://i.postimg.cc/5NN7NFwk/11.jpg" },
+        { group: "HARDCORE", name: "GRINDCORE", url: "http://79.120.77.11:8000/grindcore", logo: "https://i.postimg.cc/5NN7NFwk/11.jpg" },
+        { group: "HARDCORE", name: "MELODIC METALCORE", url: "http://79.111.14.76:8000/melodicmetalcore", logo: "https://i.postimg.cc/5NN7NFwk/11.jpg" },
+        { group: "HARDCORE", name: "MATHCORE", url: "http://79.120.39.202:8000/mathcore", logo: "https://i.postimg.cc/5NN7NFwk/11.jpg" },
+        { group: "HARDCORE", name: "HARDCORE PUNK", url: "http://213.141.131.10:8000/hardcorepunk", logo: "https://i.postimg.cc/5NN7NFwk/11.jpg" },
+        { group: "HARDCORE", name: "MELODIC HARDCORE", url: "http://79.111.14.76:8000/hardcoremetal", logo: "https://i.postimg.cc/5NN7NFwk/11.jpg" },
+        { group: "HARDCORE", name: "ELECTRONICORE", url: "http://79.111.119.111:8000/electronicore", logo: "https://i.postimg.cc/5NN7NFwk/11.jpg" },
+        { group: "HIP-HOP", name: "HIP-HOP", url: "http://79.120.77.11:8000/hiphop", logo: "https://i.postimg.cc/9MkdmrVs/3.jpg" },
+        { group: "HIP-HOP", name: "GANGSTA RAP", url: "http://79.120.39.202:8000/gangstarap", logo: "https://i.postimg.cc/9MkdmrVs/3.jpg" },
+        { group: "HIP-HOP", name: "INSTRUMENTAL HIP-HOP", url: "http://79.120.77.11:8000/instrumentalhiphop", logo: "https://i.postimg.cc/9MkdmrVs/3.jpg" },
+        { group: "HIP-HOP", name: "DEUTSCHE HIP-HOP", url: "http://213.141.131.10:8000/germanrap", logo: "https://i.postimg.cc/9MkdmrVs/3.jpg" },
+        { group: "HIP-HOP", name: "CLOUD RAP", url: "http://213.141.131.10:8000/cloudrap", logo: "https://i.postimg.cc/9MkdmrVs/3.jpg" },
+        { group: "HIP-HOP", name: "RUSSIAN RAP", url: "http://79.120.77.11:8000/rapru", logo: "https://i.postimg.cc/9MkdmrVs/3.jpg" },
+        { group: "HIP-HOP", name: "EAST COAST RAP", url: "http://79.111.14.76:8000/eastcoastrap", logo: "https://i.postimg.cc/9MkdmrVs/3.jpg" },
+        { group: "HIP-HOP", name: "JAZZ RAP", url: "http://79.120.39.202:8000/jazzrap", logo: "https://i.postimg.cc/9MkdmrVs/3.jpg" },
+        { group: "HIP-HOP", name: "FRENCH HIP-HOP", url: "http://213.141.131.10:8000/frenchrap", logo: "https://i.postimg.cc/9MkdmrVs/3.jpg" },
+        { group: "HIP-HOP", name: "CHICANO RAP", url: "http://213.141.131.10:8000/chicanorap", logo: "https://i.postimg.cc/9MkdmrVs/3.jpg" },
+        { group: "HIP-HOP", name: "RAP", url: "http://79.120.77.11:8000/rap", logo: "https://i.postimg.cc/9MkdmrVs/3.jpg" },
+        { group: "HIP-HOP", name: "UNDERGROUND RAP", url: "http://79.111.14.76:8000/undergroundrap", logo: "https://i.postimg.cc/9MkdmrVs/3.jpg" },
+        { group: "HIP-HOP", name: "HORRORCORE", url: "http://79.120.39.202:8000/hardcorerap", logo: "https://i.postimg.cc/9MkdmrVs/3.jpg" },
+        { group: "HIP-HOP", name: "BRITISH HIP-HOP", url: "http://213.141.131.10:8000/ukhiphop", logo: "https://i.postimg.cc/9MkdmrVs/3.jpg" },
+        { group: "HIP-HOP", name: "ABSTRACT", url: "http://79.111.14.76:8000/abstracthiphop", logo: "https://i.postimg.cc/9MkdmrVs/3.jpg" },
+        { group: "HIP-HOP", name: "SOUTHERN RAP", url: "http://79.111.119.111:8000/southernrap", logo: "https://i.postimg.cc/9MkdmrVs/3.jpg" },
+        { group: "HIP-HOP", name: "OLD SCHOOL", url: "http://213.141.131.10:8000/oldschoolhiphop", logo: "https://i.postimg.cc/9MkdmrVs/3.jpg" },
+        { group: "COUNTRY", name: "ALTERNATIVE COUNTRY", url: "http://79.111.119.111:8000/altcountry", logo: "https://i.postimg.cc/hGfwpQC5/2.jpg" },
+        { group: "COUNTRY", name: "HONKY-TONK", url: "http://213.141.131.10:8000/honkytonk", logo: "https://i.postimg.cc/hGfwpQC5/2.jpg" },
+        { group: "COUNTRY", name: "BLUEGRASS", url: "http://79.111.14.76:8000/bluegrass", logo: "https://i.postimg.cc/hGfwpQC5/2.jpg" },
+        { group: "COUNTRY", name: "WESTERN SWING", url: "http://79.120.12.130:8000/westernswing", logo: "https://i.postimg.cc/hGfwpQC5/2.jpg" },
+        { group: "COUNTRY", name: "COUNTRY", url: "http://79.120.77.11:8000/country", logo: "https://i.postimg.cc/hGfwpQC5/2.jpg" },
+        { group: "COUNTRY", name: "COUNTRY POP", url: "http://79.111.119.111:8000/countrypop", logo: "https://i.postimg.cc/hGfwpQC5/2.jpg" },
+        { group: "SHANSON", name: "RUSSIAN SHANSON", url: "http://79.120.77.11:8000/shansonru", logo: "https://i.postimg.cc/Pfg61r8d/dostavka-shanson-ekb.jpg" },
+        { group: "SHANSON", name: "RUSSIAN POST SHANSON", url: "http://79.120.77.11:8000/postshanson", logo: "https://i.postimg.cc/Pfg61r8d/dostavka-shanson-ekb.jpg" },
+        { group: "SHANSON", name: "GYPSY ROMANCES", url: "http://79.120.77.11:8000/gypsyru", logo: "https://i.postimg.cc/Pfg61r8d/dostavka-shanson-ekb.jpg" },
+        { group: "SHANSON", name: "RUSSIAN ROMANCE", url: "http://79.120.77.11:8000/romanceru", logo: "https://i.postimg.cc/Pfg61r8d/dostavka-shanson-ekb.jpg" }
+    ];
+
+    // Глобальные переменные
+    let activeCategory = "ALL";
+    let searchQuery = "";
+    let currentFilteredList = [];
+    let currentIndex = -1;
+    let currentActiveButton = null;
+    let isPlaying = false;
+
+    const audio = document.getElementById('audioPlayer');
+    const bar = document.getElementById('nowPlayingBar');
+    const stationNameSpan = document.getElementById('currentStationName');
+    const stationNameContainer = document.getElementById('stationNameContainer');
+    const playPauseBtn = document.getElementById('playPauseBtn');
+    const prevBtn = document.getElementById('prevTrackBtn');
+    const nextBtn = document.getElementById('nextTrackBtn');
+    const stopBtn = document.getElementById('stopPlaybackBtn');
+
+    // Функция для проверки и запуска бегущей строки
+    function checkAndStartMarquee() {
+        const container = stationNameContainer;
+        const textSpan = stationNameSpan;
+        if (!container || !textSpan) return;
+        
+        // Временно убираем анимацию, чтобы измерить реальную ширину
+        container.classList.remove('scrolling');
+        const containerWidth = container.clientWidth;
+        const textWidth = textSpan.scrollWidth;
+        
+        // Если текст шире контейнера, включаем анимацию
+        if (textWidth > containerWidth) {
+            // Добавляем копию текста для бесконечной прокрутки
+            const currentText = textSpan.innerText;
+            // Проверяем, нет ли уже дубликата
+            if (!textSpan.hasAttribute('data-duplicated')) {
+                textSpan.setAttribute('data-duplicated', 'true');
+                // Для бесконечной прокрутки нужно два одинаковых блока
+                // Проще всего — создать дубликат через CSS, но мы сделаем через JS
+                const cloneText = currentText + '   ✦   ' + currentText;
+                textSpan.innerText = cloneText;
+            }
+            container.classList.add('scrolling');
+        } else {
+            container.classList.remove('scrolling');
+            // Возвращаем оригинальный текст без дубликата
+            const originalText = textSpan.getAttribute('data-original');
+            if (originalText) {
+                textSpan.innerText = originalText;
+                textSpan.removeAttribute('data-duplicated');
+            }
+        }
+    }
+
+    // Обновление названия станции
+    function updateStationName(name) {
+        const displayName = `🎸 ${name}`;
+        stationNameSpan.innerText = displayName;
+        stationNameSpan.setAttribute('data-original', displayName);
+        // Небольшая задержка для корректного измерения ширины
+        setTimeout(checkAndStartMarquee, 10);
+    }
+
+    // Следим за изменением размера окна
+    window.addEventListener('resize', () => {
+        if (bar.style.display === 'flex') {
+            checkAndStartMarquee();
+        }
+    });
+
+    function updateFilteredList() {
+        currentFilteredList = stationsData.filter(s => {
+            const matchCategory = activeCategory === "ALL" || s.group === activeCategory;
+            const matchSearch = searchQuery === "" || s.name.toLowerCase().includes(searchQuery.toLowerCase()) || s.group.toLowerCase().includes(searchQuery.toLowerCase());
+            return matchCategory && matchSearch;
+        });
+    }
+
+    function updateActiveButton(index) {
+        if (currentActiveButton) {
+            currentActiveButton.classList.remove('active-now');
+            currentActiveButton.innerHTML = `▶ Воспроизвести`;
+        }
+        if (index >= 0 && index < currentFilteredList.length) {
+            const station = currentFilteredList[index];
+            const cards = document.querySelectorAll('.station-card');
+            for (let card of cards) {
+                if (card.dataset.url === station.url) {
+                    const btn = card.querySelector('.play-btn');
+                    if (btn) {
+                        currentActiveButton = btn;
+                        btn.classList.add('active-now');
+                        btn.innerHTML = `<div class="play-icon-animated"><span></span><span></span><span></span><span></span></div> Слушаю`;
+                    }
+                    break;
+                }
+            }
+        }
+    }
+
+    function playByIndex(index) {
+        if (index < 0 || index >= currentFilteredList.length) return;
+        const station = currentFilteredList[index];
+        audio.src = station.url;
+        audio.load();
+        audio.play().catch(e => console.warn("Автовоспроизведение заблокировано"));
+        updateStationName(station.name);
+        bar.style.display = 'flex';
+        currentIndex = index;
+        isPlaying = true;
+        playPauseBtn.textContent = '⏸';
+        updateActiveButton(index);
+        
+        audio.onended = () => {
+            if (isPlaying) nextTrack();
+        };
+        audio.onerror = () => {
+            console.warn("Ошибка потока");
+        };
+    }
+
+    function nextTrack() {
+        if (currentFilteredList.length === 0) return;
+        let newIndex = currentIndex + 1;
+        if (newIndex >= currentFilteredList.length) newIndex = 0;
+        playByIndex(newIndex);
+    }
+
+    function prevTrack() {
+        if (currentFilteredList.length === 0) return;
+        let newIndex = currentIndex - 1;
+        if (newIndex < 0) newIndex = currentFilteredList.length - 1;
+        playByIndex(newIndex);
+    }
+
+    function togglePlayPause() {
+        if (currentIndex === -1) return;
+        if (audio.paused) {
+            audio.play();
+            isPlaying = true;
+            playPauseBtn.textContent = '⏸';
+        } else {
+            audio.pause();
+            isPlaying = false;
+            playPauseBtn.textContent = '▶';
+        }
+    }
+
+    function stopPlayback() {
+        audio.pause();
+        audio.src = "";
+        bar.style.display = 'none';
+        if (currentActiveButton) {
+            currentActiveButton.classList.remove('active-now');
+            currentActiveButton.innerHTML = `▶ Воспроизвести`;
+            currentActiveButton = null;
+        }
+        currentIndex = -1;
+        isPlaying = false;
+        playPauseBtn.textContent = '⏸';
+    }
+
+    prevBtn.addEventListener('click', prevTrack);
+    nextBtn.addEventListener('click', nextTrack);
+    playPauseBtn.addEventListener('click', togglePlayPause);
+    stopBtn.addEventListener('click', stopPlayback);
+
+    function renderStations() {
+        updateFilteredList();
+        const grid = document.getElementById('stationsGrid');
+        if (currentFilteredList.length === 0) {
+            grid.innerHTML = `<div class="no-results">🎵 Ничего не найдено</div>`;
+            return;
+        }
+        grid.innerHTML = currentFilteredList.map((station, idx) => {
+            const isActive = (currentIndex === idx && currentActiveButton !== null);
+            const activeClass = isActive ? 'active-now' : '';
+            const buttonHtml = isActive ? 
+                `<div class="play-icon-animated"><span></span><span></span><span></span><span></span></div> Слушаю` : 
+                `▶ Воспроизвести`;
+            return `
+                <div class="station-card" data-url="${station.url}" data-name="${station.name.replace(/"/g, '&quot;')}" data-index="${idx}">
+                    <div class="card-header">
+                        <div class="logo-wrapper"><img src="${station.logo}" alt="" onerror="this.src='https://i.postimg.cc/rmMYcyyJ/radio-placeholder.png'"></div>
+                        <div class="station-name">${escapeHtml(station.name)}</div>
+                    </div>
+                    <div class="genre-tag">${escapeHtml(station.group)}</div>
+                    <button class="play-btn ${activeClass}" data-idx="${idx}">${buttonHtml}</button>
+                </div>
+            `;
+        }).join('');
+        
+        document.querySelectorAll('.play-btn').forEach(btn => {
+            btn.addEventListener('click', (e) => {
+                e.stopPropagation();
+                const idx = parseInt(btn.dataset.idx);
+                if (!isNaN(idx) && idx !== currentIndex) {
+                    playByIndex(idx);
+                } else if (idx === currentIndex) {
+                    togglePlayPause();
+                }
+            });
+        });
+        document.querySelectorAll('.station-card').forEach(card => {
+            card.addEventListener('click', (e) => {
+                if (e.target.classList.contains('play-btn')) return;
+                const idx = parseInt(card.dataset.index);
+                if (!isNaN(idx)) playByIndex(idx);
+            });
+        });
+    }
+
+    function escapeHtml(str) {
+        return str.replace(/[&<>]/g, function(m) {
+            if (m === '&') return '&amp;';
+            if (m === '<') return '&lt;';
+            if (m === '>') return '&gt;';
+            return m;
+        });
+    }
+
+    function renderCategories() {
+        const cats = [...new Set(stationsData.map(s => s.group))].sort();
+        const nav = document.getElementById('categoriesNav');
+        nav.innerHTML = `<button class="cat-btn ${activeCategory === 'ALL' ? 'active' : ''}" data-cat="ALL">📻 ВСЕ</button>` +
+            cats.map(c => `<button class="cat-btn ${activeCategory === c ? 'active' : ''}" data-cat="${c}">${escapeHtml(c)}</button>`).join('');
+        document.querySelectorAll('.cat-btn').forEach(btn => {
+            btn.addEventListener('click', () => {
+                activeCategory = btn.dataset.cat;
+                renderCategories();
+                renderStations();
+            });
+        });
+    }
+
+    document.getElementById('searchInput').addEventListener('input', (e) => {
+        searchQuery = e.target.value;
+        renderStations();
+    });
+
+    renderCategories();
+    renderStations();
+</script>
+</body>
+</html>
