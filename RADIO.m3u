@@ -2,7 +2,7 @@
 
 
 
-#EXTINF:-1 group-title="🔺 INFO 🔺"  tvg-logo="https://i.postimg.cc/mg921GS6/online-radio-triangle-signs-38400058.png",Обновление:26.02.2025
+#EXTINF:-1 group-title="🔺 INFO 🔺"  tvg-logo="https://i.postimg.cc/mg921GS6/online-radio-triangle-signs-38400058.png",Обновление:22.04.2026
 http://194.26.229.213/zastavka/index.m3u8
 #EXTINF:-1 group-title="🔺 INFO 🔺" tvg-logo="https://i.postimg.cc/jjkkG8Pc/Imagem-Telegram-Logo-PNG-Preto.png",Android TV + Free TV
 http://194.26.229.213/intro/index.m3u8
@@ -11,13 +11,28 @@ http://194.26.229.213/intro/index.m3u8
 
 
 
-
+#EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",Radio Club Classic
+https://stream.radioclub80.cl:8002/clasicos80.flac
+#EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",Radio Club Trance
+https://stream.radioclub80.cl:8052/trance80.flac
+#EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",Radio Club Trance
+https://stream.radioclub80.cl:10012/live.flac
+#EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",Radio Club Retro
+https://stream.radioclub80.cl:8022/retro80.flac
+#EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",Radio Club Retro
+https://stream.radioclub80.cl:8022/retro80.flac24
+#EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",Radio Club Lossless
+https://stream.radioclub80.cl:8032/stream.euro80flac
+#EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",Radio Club Latino Hits
+https://stream.radioclub80.cl:8012/espanol80.flac
+#EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",Radio Club Ballads
+https://stream.radioclub80.cl:8042/baladas80.flac
 #EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",Djam Radio
 https://stream10.xdevel.com/audio15s976748-2280/stream/icecast.audio
 #EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",Aural Radio
 http://radio.auralradiokerala.com:1320/stream
-#EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",Special Sound Radio
-http://c01.lexycast.de:3420/stream
+#EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",SECTOR Jazz
+http://89.223.45.5:8000/jazz-flac
 #EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",SECTOR Progressive FLAC
 http://89.223.45.5:8000/progressive-flac
 #EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",SECTOR Classical
@@ -30,6 +45,8 @@ http://89.223.45.5:8000/next-flac
 http://89.223.45.5:8000/geny-flac
 #EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",SECTOR 10s FLAC
 http://89.223.45.5:8000/zed-flac
+#EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",SECTOR 00s
+http://89.223.45.5:8000/indigo-flac
 #EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",RADIO SHAMAN
 http://harddanceradio.ddns.is74.ru:9000/hard_dance.ogg
 #EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",DANCE MUSIC
@@ -48,50 +65,22 @@ http://harddanceradio.ddns.is74.ru:9000/labelcantroll.ogg
 http://harddanceradio.ddns.is74.ru:9000/scooter.ogg
 #EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",HAPPY HARDCORE
 http://harddanceradio.ddns.is74.ru:9000/happyhardcore.ogg
-#EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",Dance Wave
-http://dancewave.online/dance.flac.ogg
 #EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",Dance Wave Retro!
 http://retro.dancewave.online/retrodance.flac.ogg
 #EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",EnTranced Music
 https://stream.entrancedmusic.com/ogg.flac.m3u
-#EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",Flashback 80 Radio
-https://c23.radioboss.fm:8129/stream
 #EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",Trance Pulse
 http://stream.trance.ie:8000/tpmixes
 #EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",Open broadcast
 http://stream.openbroadcast.ch/16bit.flac
-#EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",TEKnival Radio
-https://listen.teknivalradio.com/listen/teknivalradio/radio.flac
-#EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",Brillux Radio
-http://bx01.junkes.it/flac
-#EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",Progressieve Rock
-http://progressieverock.nl/flac
-#EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",The Cheese
-https://station.thecheese.co.nz/listen/the_cheese/flac
-#EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",Sveriges Radio
-https://live1.sr.se/p2-flac
-#EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",Radio evening in the Galaxy
-http://c01.lexycast.de:1650/stream
 #EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",Qabayan FM
 https://c2.radioboss.fm:8478/live
 #EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",Le Bon Mix
 https://stream10.xdevel.com/audio17s976748-2218/stream/icecast.audio
 #EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",Radio Sing Sing Flac
-http://stream.sing-sing.org:8000/singsingFlac
-#EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",Agape’s JPop/Anisong Radio
-http://nas.agapec.fun:38000/flac
+http://stream.sing-sing-bis.org:8000/singsingFlac
 #EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",Frequence 3
-http://hd.stream.frequence3.net:80/frequence3.flac
-#EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",Frequence 3 - Dance
-https://frequence3.net-radio.fr/frequence3dance.flac
-#EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",Frequence 3 - Gold
-https://frequence3.net-radio.fr/frequence3gold.flac
-#EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",Frequence 3 - World
-https://frequence3.net-radio.fr/frequence3world.flac
-#EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",JB Radio-2
-http://161.97.135.80:8889/flac
-#EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",Mybobba FM
-https://radio.edith.gg/listen/mybobbafm/radio_flac.flac
+https://frequence3.net-radio.fr/frequence3.flac
 #EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",Intense Radio
 http://secure.live-streams.nl/flac.flac
 #EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",Hi On Line
@@ -124,32 +113,24 @@ https://dancewave.online/dance.flac.ogg
 https://retro.dancewave.online/retrodance.flac.ogg
 #EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",EasyRadio
 https://c30.radioboss.fm:8758/live
-#EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",Electric Circus
-https://radio.eduneu.ar:8000/radio1_aire
-#EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",Radio Annushka
-https://flacradio.ru:1095/stream
-#EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",Hit Radio
-https://flacradio.ru:1075/stream
-#EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",PowerXS
-http://vriezenet.nl:11051/hrflac
 #EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",PowerXS Dance Classics
 http://vriezenet.nl:11051/dcflac
-#EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",8 Марта
-https://flacradio.ru:1145/stream
-#EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",Радио Лето
-https://flacradio.ru:1115/stream
 #EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",Futura FM
 https://futura.fm/stream.ogg
 #EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",K-Free
 https://kfre.s3.amazonaws.com/truehd/FLAC/program.m3u8
 #EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",Mother Earth Radio
-https://motherearth.streamserver24.com/listen/motherearth/motherearth
+https://stream.motherearthradio.de/listen/motherearth/motherearth.flac-lo
+#EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",Mother Earth Klassik
+https://stream.motherearthradio.de/listen/motherearth_klassik/motherearth.klassik.flac-lo
+#EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",Mother Earth Instrumental
+https://stream.motherearthradio.de/listen/motherearth_instrumental/motherearth.instrumental.flac-lo
+#EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",Mother Earth Jazz
+https://stream.motherearthradio.de/listen/motherearth_jazz/motherearth.jazz.flac-lo
 #EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",OpenSky Radio
 https://audio.opensky.radio:8082/flac
 #EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",Pi ano
 https://stream.p-node.org/piano
-#EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",Pirate Kanon.FM
-https://radio.stream-online.eu:10900/flac
 #EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",Pure Classix Radio
 https://mscp4.live-streams.nl:8142/lounge.ogg
 #EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",Radio Audiomastering
@@ -159,55 +140,33 @@ https://admin.biasradio.com/listen/bias_radio/flac
 #EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",Radio Club 80 - Hits
 https://radio.streaminghires.cl/8008/stream
 #EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",Radio Paradise - Main Mix
-https://audio-geo.radioparadise.com/chan/0/x/1892/4/b/1892-6.flac
+https://stream.radioparadise.com/flac
 #EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",Radio Paradise - Mellow Mix
-https://audio-geo.radioparadise.com/chan/0/x/1893/4/b/1893-2.flac
+https://stream.radioparadise.com/mellow-flac
 #EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",Radio Paradise - Rock Mix
-https://audio-geo.radioparadise.com/chan/0/x/1893/4/b/1893-4.flac
+https://stream.radioparadise.com/rock-flac
 #EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",Radio Paradise - Global Mix
-https://audio-geo.radioparadise.com/chan/0/x/1893/4/b/1893-5.flac
-#EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",Radio Paradise - 2050
-https://audio-geo.radioparadise.com/chan/0/x/1893/4/b/1893-6.flac
-#EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",Radio Paradise - My Favorites
-https://audio-geo.radioparadise.com/chan/0/x/1893/4/b/1893-7.flac
+https://stream.radioparadise.com/global-flac
 #EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",Riverside Radio
 https://stream.and-stuff.nl:8443/riverside
-#EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",SuperStereo 1
-https://icecast.centaury.cl:7560/SuperStereoNoData1plus
 #EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",Zappa Stream Radio
 http://streams.norbert.de:8000/zappa.flac
 #EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",Radio Calico
 https://d3d4yli4hf5bmh.cloudfront.net/hls/fLaC_hires.m3u8
-#EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",Zap! FM
-https://zapstream.nl:8443/1
 #EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",Sweet FM
 http://stream.sweetfm.fr:8000/dab-forever-lms
-#EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",SuperStereo 1 Yacht Rock (24-bit/96kHz)
-http://icecast.centaury.cl:7570/SuperStereoHiRes1
 #EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",SuperStereo 1+ Yacht Rock (16-bit/4.1kHz)
 http://icecast.centaury.cl:7560/SuperStereoNoData1
-#EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",SuperStereo 2 50s-60s-70s (24-bit/96kHz)
-http://icecast.centaury.cl:7570/SuperStereoHiRes2
 #EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",SuperStereo 4 50s-60-70s (16-bit/4.1kHz)
 http://icecast.centaury.cl:7560/SuperStereoNoData2
-#EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",SuperStereo 3 80’s (24-bit/96kHz)
-http://icecast.centaury.cl:7570/SuperStereoHiRes3
 #EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",SuperStereo 3 80’s (16-bit/4.1kHz)
 http://icecast.centaury.cl:7560/SuperStereoNoData3
-#EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",SuperStereo 4 Ballads 80’s-90s-00s (24-bit/96kHz)
-http://icecast.centaury.cl:7570/SuperStereoHiRes4
 #EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",SuperStereo 4 Ballads 80’s-90s-00s (16-bit/4.1kHz)
 http://icecast.centaury.cl:7560/SuperStereoNoData4
-#EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",SuperStereo 5 Rock (24-bit/96kHz)
-http://icecast.centaury.cl:7570/SuperStereoHiRes5
 #EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",SuperStereo 5 Rock (16-bit/4.1kHz)
 http://icecast.centaury.cl:7560/SuperStereoNoData5
-#EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",SuperStereo 6 Instrumental Music (24-bit/96kHz)
-http://icecast.centaury.cl:7570/SuperStereoHiRes6
 #EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",SuperStereo 6 Instrumental Music (16-bit/4.1kHz)
 http://icecast.centaury.cl:7560/SuperStereoNoData6
-#EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",SuperStereo 7 Jazz (24-bit/96kHz)
-http://icecast.centaury.cl:7570/SuperStereoHiRes7
 #EXTINF:-1 group-title="FLAC" tvg-logo="https://add-groups.com/uploads/mini/short/a7/9151_original.jpg",SuperStereo 7 Jazz (16-bit/4.1kHz)
 http://icecast.centaury.cl:7560/SuperStereoNoData7
 
