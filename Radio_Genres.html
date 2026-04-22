@@ -2,8 +2,8 @@
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes, viewport-fit=cover">
-    <title>HDR FLAC · Радио</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+    <title>PANDA VINYL RADIO — 10 ретро и танцевальных станций</title>
     <style>
         * {
             margin: 0;
@@ -12,433 +12,527 @@
         }
 
         body {
-            background: #0a0c12;
-            font-family: 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
-            color: #eef2ff;
-            line-height: 1.5;
-            padding: 2rem 1.5rem 5rem 1.5rem;
+            background: radial-gradient(circle at 10% 20%, #0b0e1a, #03050b);
+            font-family: 'Inter', system-ui, 'Segoe UI', 'Poppins', -apple-system, sans-serif;
+            padding: 24px 20px;
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
         }
 
-        body::before {
+        .radio-master {
+            max-width: 1300px;
+            width: 100%;
+            background: rgba(12, 15, 25, 0.65);
+            backdrop-filter: blur(20px);
+            border-radius: 3rem;
+            box-shadow: 0 25px 45px rgba(0, 0, 0, 0.5), 0 0 0 1px rgba(255, 215, 150, 0.2);
+            overflow: hidden;
+        }
+
+        .hero-vinyl {
+            background: linear-gradient(115deg, #231b12, #3e2a1c);
+            padding: 24px 30px 20px 30px;
+            text-align: center;
+            border-bottom: 2px solid #f5b6424d;
+        }
+
+        .super-badge {
+            display: inline-block;
+            background: #00000066;
+            backdrop-filter: blur(4px);
+            border-radius: 60px;
+            padding: 5px 18px;
+            font-size: 0.75rem;
+            font-weight: 600;
+            letter-spacing: 1px;
+            color: #ffcd7e;
+            text-transform: uppercase;
+            margin-bottom: 12px;
+            border: 1px solid #ffbc5e;
+        }
+
+        .shimmer-title {
+            font-size: 3rem;
+            font-weight: 800;
+            letter-spacing: -1px;
+            display: inline-block;
+            color: #FFD966;
+            background: linear-gradient(135deg, #FFE6B0, #FFB347, #FF6A3D, #E54B4B, #AA6DC9, #3B9EFF, #FFD966);
+            background-size: 400% 100%;
+            -webkit-background-clip: text;
+            background-clip: text;
+            color: transparent;
+            animation: shimmerFlow 5s ease infinite;
+            text-shadow: 0 0 8px rgba(255, 180, 60, 0.4);
+            will-change: background-position;
+        }
+
+        @keyframes shimmerFlow {
+            0% { background-position: 0% 50%; }
+            50% { background-position: 100% 50%; }
+            100% { background-position: 0% 50%; }
+        }
+
+        @supports not (background-clip: text) {
+            .shimmer-title {
+                color: #FFD966;
+                background: none;
+                animation: shimmerTextShadow 2s ease infinite alternate;
+            }
+            @keyframes shimmerTextShadow {
+                0% { text-shadow: 0 0 2px #FFB347, 0 0 5px #FF6A3D; }
+                100% { text-shadow: 0 0 8px #FFE6B0, 0 0 12px #FF6A3D; }
+            }
+        }
+
+        .shimmer-title:hover {
+            animation: shimmerFlow 1.2s ease infinite;
+            text-shadow: 0 0 12px rgba(255, 140, 50, 0.9);
+            transform: scale(1.02);
+            transition: 0.2s;
+        }
+
+        .tagline {
+            color: #e7cfaa;
+            font-weight: 500;
+            font-size: 0.9rem;
+            margin-top: 6px;
+        }
+
+        .stations-grid {
+            padding: 28px 24px 16px 24px;
+            background: rgba(0, 0, 0, 0.3);
+            border-bottom: 1px solid rgba(255, 200, 100, 0.2);
+        }
+
+        .stations-scroll {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 14px;
+            margin-bottom: 20px;
+        }
+
+        .station-card {
+            background: #10131fcc;
+            border: none;
+            border-radius: 60px;
+            padding: 8px 18px;
+            font-size: 0.9rem;
+            font-weight: 600;
+            color: #cbd5f0;
+            cursor: pointer;
+            transition: all 0.25s cubic-bezier(0.2, 0.9, 0.4, 1.1);
+            backdrop-filter: blur(4px);
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            letter-spacing: 0.3px;
+            font-family: monospace;
+            position: relative;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.4), inset 0 1px 0 rgba(255, 255, 255, 0.05);
+            transform: translateY(0px);
+        }
+
+        .station-card:active {
+            transform: translateY(-2px) scale(0.98);
+            box-shadow: 0 6px 12px rgba(0, 0, 0, 0.5), inset 0 1px 1px rgba(255,255,200,0.2);
+            transition: 0.05s linear;
+        }
+
+        .station-card.active {
+            background: linear-gradient(105deg, #f5a623, #ff7e2e);
+            color: #1e1707;
+            text-shadow: 0 1px 0 #ffd7a0;
+            transform: translateY(-3px) scale(1.02);
+            box-shadow: 0 8px 18px rgba(0, 0, 0, 0.5), 0 0 0 2px rgba(255, 215, 120, 0.6), inset 0 1px 2px rgba(255,255,200,0.8);
+            border: 1px solid transparent;
+            background-clip: padding-box;
+            position: relative;
+            z-index: 2;
+        }
+
+        .station-card.active::before {
             content: '';
-            position: fixed;
+            position: absolute;
+            inset: -3px;
+            border-radius: 62px;
+            padding: 2px;
+            background: linear-gradient(115deg, #FFD966, #FFB347, #FF8C42, #E54B4B, #AA6DC9, #6C9EFF, #FFD966);
+            background-size: 300% 300%;
+            -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+            mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+            -webkit-mask-composite: xor;
+            mask-composite: exclude;
+            pointer-events: none;
+            animation: borderShimmer 3s ease infinite alternate;
+            opacity: 0.85;
+            z-index: -1;
+        }
+
+        @keyframes borderShimmer {
+            0% { background-position: 0% 50%; opacity: 0.6; }
+            50% { background-position: 100% 50%; opacity: 1; }
+            100% { background-position: 0% 50%; opacity: 0.7; }
+        }
+
+        .station-card:hover {
+            transform: translateY(-1px);
+            box-shadow: 0 5px 12px rgba(0, 0, 0, 0.5);
+            background: #1c2137cc;
+            transition: 0.2s;
+        }
+
+        .station-card.active:hover {
+            transform: translateY(-3px) scale(1.02);
+        }
+
+        .station-card i {
+            font-style: normal;
+            font-size: 1.1rem;
+        }
+
+        .info-panel {
+            background: #00000044;
+            border-radius: 50px;
+            padding: 12px 20px;
+            display: flex;
+            flex-wrap: wrap;
+            align-items: center;
+            justify-content: space-between;
+            gap: 15px;
+            margin-top: 8px;
+        }
+
+        .station-name-big {
+            font-size: 1.3rem;
+            font-weight: 700;
+            color: #ffdd99;
+            display: flex;
+            gap: 12px;
+            align-items: baseline;
+            flex-wrap: wrap;
+        }
+
+        .live-badge {
+            background: #d32f2f;
+            font-size: 0.7rem;
+            padding: 4px 12px;
+            border-radius: 30px;
+            font-weight: 600;
+            letter-spacing: 0.5px;
+            color: white;
+            box-shadow: 0 0 5px #ff5e5e;
+        }
+
+        .status-message {
+            background: #00000066;
+            padding: 5px 14px;
+            border-radius: 32px;
+            font-size: 0.8rem;
+            color: #ffdeae;
+        }
+
+        .player-deck {
+            padding: 28px 20px 28px 20px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            position: relative;
+        }
+
+        .turntable-wrapper {
+            position: relative;
+            display: flex;
+            justify-content: center;
+            margin-bottom: 8px;
+        }
+
+        .vinyl-disc-panda {
+            position: relative;
+            width: 180px;
+            height: 180px;
+            border-radius: 50%;
+            background: radial-gradient(circle at 30% 30%, #1e1e2a, #0a0a10);
+            box-shadow: 0 12px 28px rgba(0, 0, 0, 0.6), inset 0 1px 2px rgba(255, 255, 255, 0.1);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: box-shadow 0.2s;
+        }
+
+        /* НЕОНОВОЕ ПЕРЕЛИВАЮЩЕЕСЯ КОЛЬЦО ВОКРУГ ПЛАСТИНКИ */
+        .vinyl-disc-panda::before {
+            content: '';
+            position: absolute;
+            top: -8px;
+            left: -8px;
+            right: -8px;
+            bottom: -8px;
+            border-radius: 50%;
+            background: linear-gradient(135deg, 
+                #FFD966, #FFB347, #FF6A3D, #E54B4B, 
+                #AA6DC9, #3B9EFF, #4ADE80, #FFD966);
+            background-size: 400% 400%;
+            z-index: -1;
+            opacity: 0;
+            transition: opacity 0.3s ease;
+            filter: blur(12px);
+            animation: neonOrbit 4s linear infinite;
+            pointer-events: none;
+        }
+
+        .vinyl-disc-panda::after {
+            content: '';
+            position: absolute;
+            top: -4px;
+            left: -4px;
+            right: -4px;
+            bottom: -4px;
+            border-radius: 50%;
+            background: linear-gradient(45deg, 
+                rgba(255, 200, 100, 0.6), 
+                rgba(255, 100, 80, 0.5), 
+                rgba(170, 109, 201, 0.6), 
+                rgba(59, 158, 255, 0.6));
+            background-size: 300% 300%;
+            z-index: -1;
+            opacity: 0;
+            filter: blur(6px);
+            animation: neonOrbitReverse 3s linear infinite;
+            transition: opacity 0.3s ease;
+            pointer-events: none;
+        }
+
+        @keyframes neonOrbit {
+            0% { background-position: 0% 0%; transform: rotate(0deg); }
+            100% { background-position: 100% 100%; transform: rotate(360deg); }
+        }
+
+        @keyframes neonOrbitReverse {
+            0% { background-position: 100% 0%; transform: rotate(0deg); }
+            100% { background-position: 0% 100%; transform: rotate(-360deg); }
+        }
+
+        .playing-animation .vinyl-disc-panda::before {
+            animation: neonOrbit 3s linear infinite, neonPulse 1.2s ease-in-out infinite alternate;
+            opacity: 1;
+            filter: blur(14px);
+        }
+        .playing-animation .vinyl-disc-panda::after {
+            animation: neonOrbitReverse 2.5s linear infinite, neonPulseSoft 1.5s ease infinite alternate;
+            opacity: 0.8;
+            filter: blur(8px);
+        }
+        .vinyl-disc-panda::before { opacity: 0.2; }
+        .vinyl-disc-panda::after { opacity: 0.1; }
+
+        @keyframes neonPulse {
+            0% { opacity: 0.7; filter: blur(10px); }
+            100% { opacity: 1; filter: blur(16px); }
+        }
+        @keyframes neonPulseSoft {
+            0% { opacity: 0.5; filter: blur(6px); }
+            100% { opacity: 0.9; filter: blur(10px); }
+        }
+
+        /* Вращающийся слой — теперь через JS, но оставляем базовые стили */
+        .spinning-layer-panda {
+            width: 100%;
+            height: 100%;
+            border-radius: 50%;
+            background: radial-gradient(circle at 35% 35%, #2c2c38, #0f0f17);
+            box-shadow: inset 0 0 18px rgba(0, 0, 0, 0.8), 0 0 0 5px #2a2418, 0 0 0 10px #1f1b12;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            will-change: transform;
+            /* Начальное состояние без вращения */
+        }
+
+        .panda-center-label {
+            width: 80px;
+            height: 80px;
+            background: radial-gradient(circle, #f9f3e0, #e6d8b5);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            box-shadow: inset 0 1px 3px rgba(0,0,0,0.2), 0 4px 10px rgba(0,0,0,0.3);
+            border: 2px solid #ffc285;
+        }
+
+        .panda-emoji-large {
+            font-size: 52px;
+            filter: drop-shadow(2px 4px 6px rgba(0,0,0,0.3));
+            transition: transform 0.2s ease;
+        }
+
+        .grooves-panda {
+            position: absolute;
             top: 0;
             left: 0;
             width: 100%;
             height: 100%;
-            background: radial-gradient(circle at 10% 20%, rgba(30, 45, 80, 0.4), rgba(0, 0, 0, 0.9));
+            border-radius: 50%;
             pointer-events: none;
-            z-index: -2;
+            background: repeating-radial-gradient(circle at 30% 30%, rgba(0,0,0,0) 0px, rgba(0,0,0,0) 6px, rgba(255,255,200,0.04) 6px, rgba(0,0,0,0.1) 8px);
         }
 
-        .container {
-            max-width: 1400px;
-            margin: 0 auto;
-        }
-
-        .hero {
-            margin-bottom: 2rem;
-            text-align: center;
-        }
-
-        .hero h1 {
-            font-size: 2.6rem;
-            font-weight: 700;
-            background: linear-gradient(135deg, #FFFFFF, #B4C9FF, #9B7BFF);
-            background-clip: text;
-            -webkit-background-clip: text;
-            color: transparent;
-        }
-
-        .badge {
-            display: inline-block;
-            background: rgba(255, 255, 255, 0.08);
-            backdrop-filter: blur(4px);
-            border-radius: 100px;
-            padding: 0.3rem 1rem;
-            font-size: 0.85rem;
-            color: #bfd6ff;
-            border: 1px solid rgba(255, 255, 255, 0.15);
-            margin-top: 0.75rem;
-        }
-
-        .hero p {
-            color: #9aa6c5;
-            max-width: 600px;
-            margin: 1rem auto 0;
-            font-size: 0.95rem;
-        }
-
-        .search-section {
-            margin-bottom: 2rem;
+        .action-buttons {
             display: flex;
+            gap: 40px;
+            margin: 20px 0 18px;
+        }
+
+        .circle-btn {
+            background: #262e44;
+            border: none;
+            width: 64px;
+            height: 64px;
+            border-radius: 64px;
+            font-size: 1.8rem;
+            font-weight: bold;
+            cursor: pointer;
+            color: #f0cf9c;
+            transition: 0.08s linear;
+            box-shadow: 0 6px 12px black;
+            display: flex;
+            align-items: center;
             justify-content: center;
         }
 
-        .search-box {
-            background: #11161f;
-            border-radius: 60px;
-            padding: 0.5rem 1rem;
+        .play-pulse {
+            background: #ffae42;
+            color: #221c0e;
+            width: 76px;
+            height: 76px;
+            font-size: 2rem;
+            box-shadow: 0 0 12px #ffaa33;
+        }
+
+        .circle-btn:active {
+            transform: scale(0.92);
+        }
+
+        .volume-row {
+            background: #00000055;
+            border-radius: 50px;
+            padding: 6px 20px;
             display: flex;
+            gap: 12px;
             align-items: center;
-            gap: 0.75rem;
-            width: 100%;
-            max-width: 460px;
-            border: 1px solid #2a2f3c;
-        }
-
-        .search-box input {
-            background: transparent;
-            border: none;
-            width: 100%;
-            padding: 0.7rem 0;
-            font-size: 1rem;
-            color: #f0f3fa;
-            outline: none;
-        }
-
-        .search-box input::placeholder {
-            color: #5b6685;
-        }
-
-        .categories-nav {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 0.6rem;
-            margin-bottom: 2rem;
-            border-bottom: 1px solid #202433;
-            padding-bottom: 1rem;
-            overflow-x: auto;
-        }
-
-        .cat-btn {
-            background: transparent;
-            border: none;
-            padding: 0.5rem 1.2rem;
-            border-radius: 40px;
-            font-weight: 600;
-            font-size: 0.85rem;
-            color: #b3c1e0;
-            cursor: pointer;
-            white-space: nowrap;
-            transition: all 0.2s;
-        }
-
-        .cat-btn.active, .cat-btn:hover {
-            background: #2d3b66;
-            color: white;
-        }
-
-        .stations-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(290px, 1fr));
-            gap: 1.3rem;
-        }
-
-        .station-card {
-            background: rgba(18, 23, 34, 0.7);
-            backdrop-filter: blur(8px);
-            border-radius: 24px;
-            padding: 1.2rem;
-            border: 1px solid rgba(72, 85, 120, 0.35);
-            cursor: pointer;
-            transition: all 0.25s ease;
-        }
-
-        .station-card:hover {
-            transform: translateY(-4px);
-            border-color: #5e7cd9;
-            background: rgba(28, 35, 52, 0.85);
-        }
-
-        .card-header {
-            display: flex;
-            align-items: center;
-            gap: 0.7rem;
-            margin-bottom: 0.8rem;
-        }
-
-        .logo-wrapper {
-            width: 44px;
-            height: 44px;
-            background: #0f121b;
-            border-radius: 16px;
-            display: flex;
-            align-items: center;
+            width: 220px;
             justify-content: center;
-            overflow: hidden;
-            flex-shrink: 0;
         }
 
-        .logo-wrapper img {
-            width: 100%;
-            height: 100%;
-            object-fit: cover;
+        .volume-row span {
+            color: #ffc285;
         }
 
-        .station-name {
-            font-weight: 700;
-            font-size: 1rem;
-            color: white;
+        input[type="range"] {
+            width: 130px;
+            height: 4px;
+            -webkit-appearance: none;
+            background: #f3b35f;
+            border-radius: 4px;
         }
 
-        .genre-tag {
+        input[type="range"]::-webkit-slider-thumb {
+            -webkit-appearance: none;
+            width: 15px;
+            height: 15px;
+            background: #ffbe5e;
+            border-radius: 50%;
+            cursor: pointer;
+            border: none;
+        }
+
+        .footer-note {
             font-size: 0.7rem;
-            background: rgba(85, 110, 170, 0.3);
-            display: inline-block;
-            padding: 0.2rem 0.7rem;
-            border-radius: 20px;
-            margin: 0.6rem 0 0.75rem;
-            color: #b9cdff;
-        }
-
-        .play-btn {
-            margin-top: 0.9rem;
-            background: #21293e;
-            border: none;
-            border-radius: 40px;
-            padding: 0.6rem 0;
-            font-weight: 600;
-            font-size: 0.85rem;
-            color: #e2ecff;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            gap: 0.5rem;
-            cursor: pointer;
-            width: 100%;
-            transition: all 0.2s;
-        }
-
-        .play-btn.active-now {
-            background: #4c6a9e;
-            color: white;
-            box-shadow: 0 0 8px rgba(100, 150, 255, 0.5);
-        }
-
-        .play-icon-animated {
-            display: inline-flex;
-            align-items: center;
-            gap: 3px;
-        }
-
-        .play-icon-animated span {
-            width: 4px;
-            height: 12px;
-            background-color: currentColor;
-            border-radius: 2px;
-            animation: soundWave 1.2s ease infinite alternate;
-        }
-
-        .play-icon-animated span:nth-child(1) { animation-delay: 0s; }
-        .play-icon-animated span:nth-child(2) { animation-delay: 0.2s; }
-        .play-icon-animated span:nth-child(3) { animation-delay: 0.4s; }
-        .play-icon-animated span:nth-child(4) { animation-delay: 0.1s; }
-
-        @keyframes soundWave {
-            0% { height: 6px; opacity: 0.5; }
-            100% { height: 18px; opacity: 1; }
-        }
-
-        .now-playing {
-            position: sticky;
-            bottom: 1rem;
-            margin-top: 2rem;
-            background: rgba(10, 12, 22, 0.7);
-            backdrop-filter: blur(20px);
-            border-radius: 60px;
-            padding: 0.6rem 1.2rem;
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-            gap: 0.8rem;
-            border: 1px solid rgba(72, 85, 120, 0.4);
-            z-index: 20;
-            flex-wrap: nowrap;
-        }
-
-        .station-name-container {
-            flex: 1;
-            min-width: 0;
-            max-width: 280px;
-            background: rgba(0, 0, 0, 0.5);
-            border-radius: 40px;
-            padding: 0.3rem 0;
-            overflow: hidden;
-            position: relative;
-        }
-
-        .current-station {
-            font-weight: 500;
-            font-size: 0.85rem;
-            color: #bdd4ff;
-            white-space: nowrap;
-            display: inline-block;
-            padding-left: 1rem;
-            padding-right: 1rem;
-            animation: none;
-        }
-
-        .station-name-container.scrolling .current-station {
-            animation: marquee 8s linear infinite;
-        }
-
-        @keyframes marquee {
-            0% { transform: translateX(0); }
-            100% { transform: translateX(-50%); }
-        }
-
-        .player-controls {
-            display: flex;
-            align-items: center;
-            gap: 0.6rem;
-            flex-shrink: 0;
-        }
-
-        .ctrl-btn {
-            background: #1e2538;
-            border: none;
-            border-radius: 40px;
-            width: 38px;
-            height: 38px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            cursor: pointer;
-            font-size: 1.2rem;
-            color: #cbd5ff;
-            transition: 0.2s;
-            flex-shrink: 0;
-        }
-
-        .ctrl-btn:hover {
-            background: #3c4a76;
-            color: white;
-        }
-
-        .stop-btn {
-            background: #2a2f44;
-            border: none;
-            border-radius: 40px;
-            padding: 0.4rem 1.2rem;
-            color: #ffb7b7;
-            cursor: pointer;
-            flex-shrink: 0;
-            font-size: 0.85rem;
-            transition: 0.2s;
-        }
-
-        .stop-btn:hover {
-            background: #4a2f44;
-        }
-
-        .error-message {
-            position: fixed;
-            bottom: 80px;
-            left: 50%;
-            transform: translateX(-50%);
-            background: rgba(220, 53, 69, 0.95);
-            color: white;
-            padding: 10px 20px;
-            border-radius: 30px;
-            font-size: 0.85rem;
-            z-index: 100;
-            backdrop-filter: blur(10px);
-            white-space: nowrap;
-            pointer-events: none;
-        }
-
-        @media (max-width: 640px) {
-            .now-playing {
-                padding: 0.4rem 0.8rem;
-                gap: 0.5rem;
-            }
-            .station-name-container {
-                max-width: 150px;
-                padding: 0.2rem 0;
-            }
-            .current-station {
-                font-size: 0.7rem;
-                padding-left: 0.8rem;
-                padding-right: 0.8rem;
-            }
-            .ctrl-btn {
-                width: 32px;
-                height: 32px;
-                font-size: 1rem;
-            }
-            .stop-btn {
-                padding: 0.2rem 0.7rem;
-                font-size: 0.7rem;
-            }
-            .error-message {
-                font-size: 0.7rem;
-                white-space: normal;
-                text-align: center;
-                width: 90%;
-                bottom: 70px;
-            }
-        }
-
-        audio {
-            display: none;
-        }
-
-        .no-results {
             text-align: center;
-            padding: 3rem;
-            color: #7f8db0;
-            background: #0c1020;
-            border-radius: 40px;
+            background: #00000033;
+            padding: 14px;
+            color: #b8af92;
+            letter-spacing: 0.4px;
         }
 
-        footer {
-            margin-top: 3rem;
-            text-align: center;
-            font-size: 0.7rem;
-            color: #5c688b;
-            border-top: 1px solid #1f253c;
-            padding-top: 1.8rem;
+        @media (max-width: 720px) {
+            .stations-scroll { gap: 10px; }
+            .station-card { font-size: 0.7rem; padding: 6px 12px; }
+            .station-name-big { font-size: 1rem; }
+            .circle-btn { width: 52px; height: 52px; font-size: 1.4rem; }
+            .play-pulse { width: 64px; height: 64px; }
+            .shimmer-title { font-size: 2.1rem; }
+            .vinyl-disc-panda { width: 140px; height: 140px; }
+            .panda-center-label { width: 65px; height: 65px; }
+            .panda-emoji-large { font-size: 42px; }
+            .station-card.active { transform: translateY(-2px) scale(1.01); }
+            .vinyl-disc-panda::before { top: -6px; left: -6px; right: -6px; bottom: -6px; filter: blur(8px); }
+            .vinyl-disc-panda::after { top: -3px; left: -3px; right: -3px; bottom: -3px; filter: blur(5px); }
+        }
+
+        .live-badge[style*="background: #b71c1c"] {
+            animation: subtlePulse 1.2s infinite alternate;
+        }
+        
+        @keyframes subtlePulse {
+            0% { opacity: 0.8; }
+            100% { opacity: 1; text-shadow: 0 0 3px #ffb347; }
         }
     </style>
 </head>
 <body>
-<div class="container">
-    <div class="hero">
-        <h1>🎧 Radio Genres</h1>
-        <div class="badge">🐼 Слушай лучшее</div>
-        <p>Неоклассика, метал, джаз, электроника, фолк — нажми на карточку, чтобы слушать</p>
+<div class="radio-master" id="goldenRadio">
+    <div class="hero-vinyl">
+        <div class="super-badge">🐼 10 каналов • безлимитный поток</div>
+        <h1 class="shimmer-title">PANDA VINYL RADIO</h1>
+        <div class="tagline">Эпоха диско, транса, джаза и рок-хитов — лучшее из мира FM 🎵</div>
     </div>
 
-    <div class="search-section">
-        <div class="search-box">
-            <span>🔍</span>
-            <input type="text" id="searchInput" placeholder="Поиск по названию или жанру...">
+    <div class="stations-grid">
+        <div class="stations-scroll" id="stationsContainer"></div>
+        <div class="info-panel">
+            <div class="station-name-big">
+                <span id="currentStationTitle">60s & 70s</span>
+                <span id="liveLed" class="live-badge">○ offline</span>
+            </div>
+            <div id="statusMsg" class="status-message">🎵 Нажмите Play, пластинка оживёт</div>
         </div>
     </div>
 
-    <div class="categories-nav" id="categoriesNav"></div>
-    <div class="stations-grid" id="stationsGrid"><div class="no-results">Загрузка...</div></div>
+    <div class="player-deck" id="playerDeck">
+        <div class="turntable-wrapper">
+            <div class="vinyl-disc-panda">
+                <div class="spinning-layer-panda" id="pandaVinylSpin">
+                    <div class="panda-center-label">
+                        <div class="panda-emoji-large" id="pandaEmoji">🐼</div>
+                    </div>
+                    <div class="grooves-panda"></div>
+                </div>
+            </div>
+        </div>
 
-    <div class="now-playing" id="nowPlayingBar" style="display: none;">
-        <div class="station-name-container" id="stationNameContainer">
-            <div class="current-station" id="currentStationName">—</div>
+        <div class="action-buttons">
+            <button class="circle-btn" id="prevBtn">◀◀</button>
+            <button class="circle-btn play-pulse" id="playBtn">▶</button>
+            <button class="circle-btn" id="nextBtn">▶▶</button>
         </div>
-        <div class="player-controls">
-            <button class="ctrl-btn" id="prevTrackBtn">⏮</button>
-            <button class="ctrl-btn" id="playPauseBtn">⏸</button>
-            <button class="ctrl-btn" id="nextTrackBtn">⏭</button>
+        <div class="volume-row">
+            <span>🔊</span>
+            <input type="range" id="volSlider" min="0" max="1" step="0.01" value="0.75">
         </div>
-        <button class="stop-btn" id="stopPlaybackBtn">⏹ Стоп</button>
     </div>
-    <audio id="audioPlayer" preload="none" crossorigin="anonymous"></audio>
-    <footer>Интернет-радио. Created by Dimonovich (2026)</footer>
+    <div class="footer-note">
+        ✨ Ретро-хиты, танцевальные ритмы и глубокие биты. Created by Dimonovich!
+    </div>
 </div>
 
 <script>
-    // ПОЛНЫЙ СПИСОК СТАНЦИЙ
-    const stationsData = [
-        { group: "METAL", name: "NEOCLASSICAL METAL", url: "http://79.111.119.111:8000/neoclassicalmetal", logo: "https://i.postimg.cc/SxYJ1hKh/c300.jpg" },
+    const stationsList = [
+ { group: "METAL", name: "NEOCLASSICAL METAL", url: "http://79.111.119.111:8000/neoclassicalmetal", logo: "https://i.postimg.cc/SxYJ1hKh/c300.jpg" },
         { group: "METAL", name: "PAGAN METAL", url: "http://79.111.119.111:8000/paganmetal", logo: "https://i.postimg.cc/SxYJ1hKh/c300.jpg" },
         { group: "METAL", name: "SYMPHONIC BLACK METAL", url: "http://79.111.119.111:8000/symphonicblackmetal", logo: "https://i.postimg.cc/SxYJ1hKh/c300.jpg" },
         { group: "METAL", name: "GROOVE METAL", url: "http://79.120.39.202:8000/groovemetal", logo: "https://i.postimg.cc/SxYJ1hKh/c300.jpg" },
@@ -701,299 +795,217 @@
         { group: "SHANSON", name: "RUSSIAN ROMANCE", url: "http://79.120.77.11:8000/romanceru", logo: "https://i.postimg.cc/Pfg61r8d/dostavka-shanson-ekb.jpg" }
     ];
 
-    // Глобальные переменные
-    let activeCategory = "ALL";
-    let searchQuery = "";
-    let currentFilteredList = [];
-    let currentIndex = -1;
-    let currentActiveButton = null;
+    const stationsContainer = document.getElementById('stationsContainer');
+    const currentStationTitle = document.getElementById('currentStationTitle');
+    const liveLed = document.getElementById('liveLed');
+    const statusMsgSpan = document.getElementById('statusMsg');
+    const playBtn = document.getElementById('playBtn');
+    const prevBtn = document.getElementById('prevBtn');
+    const nextBtn = document.getElementById('nextBtn');
+    const volSlider = document.getElementById('volSlider');
+    const playerDeckDiv = document.getElementById('playerDeck');
+    const pandaVinylSpin = document.getElementById('pandaVinylSpin');
+    const pandaEmojiSpan = document.getElementById('pandaEmoji');
+
+    let audio = new Audio();
+    audio.preload = "metadata";
+    let currentIndex = 0;
     let isPlaying = false;
-    let reconnectAttempts = 0;
-    let errorTimeout = null;
-
-    const audio = document.getElementById('audioPlayer');
-    const bar = document.getElementById('nowPlayingBar');
-    const stationNameSpan = document.getElementById('currentStationName');
-    const stationNameContainer = document.getElementById('stationNameContainer');
-    const playPauseBtn = document.getElementById('playPauseBtn');
-    const prevBtn = document.getElementById('prevTrackBtn');
-    const nextBtn = document.getElementById('nextTrackBtn');
-    const stopBtn = document.getElementById('stopPlaybackBtn');
-
-    // Показ сообщения об ошибке
-    function showError(message) {
-        if (errorTimeout) clearTimeout(errorTimeout);
-        const existingError = document.querySelector('.error-message');
-        if (existingError) existingError.remove();
+    
+    // ========== JS АНИМАЦИЯ ВРАЩЕНИЯ (работает везде, включая Opera Android) ==========
+    let rotationAngle = 0;
+    let animationFrameId = null;
+    let lastTimestamp = 0;
+    const ROTATION_SPEED = 0.18; // градусов за кадр при 60fps ~ 10.8 град/сек
+    
+    function rotateVinyl(timestamp) {
+        if (!isPlaying) return;
         
-        const errorDiv = document.createElement('div');
-        errorDiv.className = 'error-message';
-        errorDiv.textContent = message;
-        document.body.appendChild(errorDiv);
-        
-        errorTimeout = setTimeout(() => {
-            if (errorDiv && errorDiv.remove) errorDiv.remove();
-        }, 3000);
-    }
-
-    // Функция для проверки и запуска бегущей строки
-    function checkAndStartMarquee() {
-        const container = stationNameContainer;
-        const textSpan = stationNameSpan;
-        if (!container || !textSpan) return;
-        
-        container.classList.remove('scrolling');
-        const containerWidth = container.clientWidth;
-        const textWidth = textSpan.scrollWidth;
-        
-        if (textWidth > containerWidth) {
-            const currentText = textSpan.innerText;
-            if (!textSpan.hasAttribute('data-duplicated')) {
-                textSpan.setAttribute('data-duplicated', 'true');
-                const cloneText = currentText + '   ✦   ' + currentText;
-                textSpan.innerText = cloneText;
-            }
-            container.classList.add('scrolling');
-        } else {
-            container.classList.remove('scrolling');
-            const originalText = textSpan.getAttribute('data-original');
-            if (originalText) {
-                textSpan.innerText = originalText;
-                textSpan.removeAttribute('data-duplicated');
-            }
-        }
-    }
-
-    // Обновление названия станции
-    function updateStationName(name) {
-        const displayName = `🎸 ${name}`;
-        stationNameSpan.innerText = displayName;
-        stationNameSpan.setAttribute('data-original', displayName);
-        setTimeout(checkAndStartMarquee, 50);
-    }
-
-    window.addEventListener('resize', () => {
-        if (bar.style.display === 'flex') {
-            checkAndStartMarquee();
-        }
-    });
-
-    function updateFilteredList() {
-        currentFilteredList = stationsData.filter(s => {
-            const matchCategory = activeCategory === "ALL" || s.group === activeCategory;
-            const matchSearch = searchQuery === "" || s.name.toLowerCase().includes(searchQuery.toLowerCase()) || s.group.toLowerCase().includes(searchQuery.toLowerCase());
-            return matchCategory && matchSearch;
-        });
-    }
-
-    function updateActiveButton(index) {
-        if (currentActiveButton) {
-            currentActiveButton.classList.remove('active-now');
-            currentActiveButton.innerHTML = `▶ Воспроизвести`;
-        }
-        if (index >= 0 && index < currentFilteredList.length) {
-            const station = currentFilteredList[index];
-            const cards = document.querySelectorAll('.station-card');
-            for (let card of cards) {
-                if (card.dataset.url === station.url) {
-                    const btn = card.querySelector('.play-btn');
-                    if (btn) {
-                        currentActiveButton = btn;
-                        btn.classList.add('active-now');
-                        btn.innerHTML = `<div class="play-icon-animated"><span></span><span></span><span></span><span></span></div> Слушаю`;
-                    }
-                    break;
+        if (lastTimestamp) {
+            const delta = Math.min(50, timestamp - lastTimestamp);
+            if (delta > 0) {
+                // Плавное вращение в зависимости от времени
+                rotationAngle += ROTATION_SPEED * (delta / 16.67);
+                if (rotationAngle >= 360) rotationAngle -= 360;
+                if (pandaVinylSpin) {
+                    pandaVinylSpin.style.transform = `rotate(${rotationAngle}deg)`;
                 }
             }
         }
+        lastTimestamp = timestamp;
+        animationFrameId = requestAnimationFrame(rotateVinyl);
+    }
+    
+    function startRotation() {
+        if (animationFrameId) cancelAnimationFrame(animationFrameId);
+        lastTimestamp = 0;
+        animationFrameId = requestAnimationFrame(rotateVinyl);
+    }
+    
+    function stopRotation() {
+        if (animationFrameId) {
+            cancelAnimationFrame(animationFrameId);
+            animationFrameId = null;
+        }
+        // Не сбрасываем угол, чтобы при паузе пластинка замирала в текущем положении
+    }
+    
+    function resetRotationAngle() {
+        rotationAngle = 0;
+        if (pandaVinylSpin) {
+            pandaVinylSpin.style.transform = `rotate(0deg)`;
+        }
+    }
+    
+    function setVinylSpinState(playState) {
+        if (!pandaVinylSpin) return;
+        if (playState) {
+            playerDeckDiv.classList.add('playing-animation');
+            startRotation();
+            if (pandaEmojiSpan) {
+                pandaEmojiSpan.style.transform = 'scale(1.08)';
+                setTimeout(() => {
+                    if (pandaEmojiSpan) pandaEmojiSpan.style.transform = 'scale(1)';
+                }, 250);
+            }
+        } else {
+            playerDeckDiv.classList.remove('playing-animation');
+            stopRotation();
+            if (pandaEmojiSpan) pandaEmojiSpan.style.transform = 'scale(1)';
+        }
     }
 
-    function playByIndex(index) {
-        if (index < 0 || index >= currentFilteredList.length) return;
-        
-        const station = currentFilteredList[index];
-        
-        // Останавливаем текущее воспроизведение
+    function renderStationButtons() {
+        stationsContainer.innerHTML = '';
+        stationsList.forEach((station, idx) => {
+            const btn = document.createElement('button');
+            btn.className = 'station-card';
+            btn.innerHTML = `<i>${station.icon}</i> ${station.name}`;
+            btn.dataset.index = idx;
+            btn.addEventListener('click', (e) => {
+                e.stopPropagation();
+                const targetIdx = parseInt(btn.dataset.index);
+                const wasPlaying = isPlaying && !audio.paused;
+                changeStation(targetIdx, wasPlaying);
+            });
+            stationsContainer.appendChild(btn);
+        });
+        highlightActiveButton();
+    }
+
+    function highlightActiveButton() {
+        const btns = document.querySelectorAll('.station-card');
+        btns.forEach((btn, i) => {
+            if (i === currentIndex) btn.classList.add('active');
+            else btn.classList.remove('active');
+        });
+    }
+
+    function updateStationInfo() {
+        const station = stationsList[currentIndex];
+        if (station) currentStationTitle.innerText = `${station.icon} ${station.name}`;
+        if (isPlaying && audio && !audio.paused) {
+            liveLed.innerText = '🔴 LIVE';
+            liveLed.style.background = '#b71c1c';
+            liveLed.style.boxShadow = '0 0 6px red';
+            statusMsgSpan.innerText = '🎙️ В эфире · винил вращается с пандой';
+        } else {
+            liveLed.innerText = '⏹️ офлайн';
+            liveLed.style.background = '#2c2c2c';
+            liveLed.style.boxShadow = 'none';
+            statusMsgSpan.innerText = (audio.src && audio.src !== '') ? '⏸ На паузе' : '🐼 Нажмите Play, панда закружится';
+        }
+        highlightActiveButton();
+    }
+
+    function changeStation(newIndex, autoPlay = true) {
+        if (newIndex < 0) newIndex = 0;
+        if (newIndex >= stationsList.length) newIndex = stationsList.length - 1;
+        const wasPlayingBefore = isPlaying && !audio.paused;
         audio.pause();
-        audio.src = "";
-        
-        // Очищаем старые обработчики
-        audio.onerror = null;
-        audio.oncanplay = null;
-        
-        // Устанавливаем новый источник
-        audio.src = station.url;
+        audio.src = '';
+        audio.load();
+        currentIndex = newIndex;
+        const newStation = stationsList[currentIndex];
+        audio.src = newStation.url;
         audio.load();
         
-        // Обработчик успешной загрузки
-        audio.oncanplay = () => {
-            audio.play().catch(err => {
-                console.error("Ошибка воспроизведения:", err);
-                showError(`❌ Не удалось воспроизвести ${station.name}. Поток может быть недоступен.`);
-                stopPlayback();
+        if (autoPlay && wasPlayingBefore) {
+            audio.play().then(() => {
+                isPlaying = true;
+                setVinylSpinState(true);
+                playBtn.innerText = '⏸';
+                updateStationInfo();
+                statusMsgSpan.innerText = `🎧 ${newStation.name} · панда крутит винил`;
+            }).catch(() => {
+                isPlaying = false;
+                setVinylSpinState(false);
+                playBtn.innerText = '▶';
+                updateStationInfo();
+                statusMsgSpan.innerText = '⚠️ Ошибка потока. Попробуйте позже.';
             });
-        };
-        
-        // Обработчик ошибки
-        audio.onerror = (e) => {
-            console.error("Ошибка аудиопотока:", e);
-            showError(`⚠️ Поток ${station.name} недоступен. Попробуйте другую станцию.`);
-            stopPlayback();
-        };
-        
-        updateStationName(station.name);
-        bar.style.display = 'flex';
-        currentIndex = index;
-        isPlaying = true;
-        playPauseBtn.textContent = '⏸';
-        updateActiveButton(index);
-        
-        // Обработчик окончания потока
-        audio.onended = () => {
-            if (isPlaying) {
-                // Автоматический переход на следующий трек
-                nextTrack();
-            }
-        };
-    }
-
-    function nextTrack() {
-        if (currentFilteredList.length === 0) return;
-        let newIndex = currentIndex + 1;
-        if (newIndex >= currentFilteredList.length) newIndex = 0;
-        playByIndex(newIndex);
-    }
-
-    function prevTrack() {
-        if (currentFilteredList.length === 0) return;
-        let newIndex = currentIndex - 1;
-        if (newIndex < 0) newIndex = currentFilteredList.length - 1;
-        playByIndex(newIndex);
+        } else {
+            isPlaying = false;
+            setVinylSpinState(false);
+            playBtn.innerText = '▶';
+            updateStationInfo();
+            if (!autoPlay) statusMsgSpan.innerText = '⏹️ Готово. Нажмите Play, чтобы панда закрутилась';
+            else statusMsgSpan.innerText = '🎛️ Станция загружена. Нажмите Play';
+        }
+        audio.volume = parseFloat(volSlider.value);
     }
 
     function togglePlayPause() {
-        if (currentIndex === -1) return;
-        if (audio.paused) {
-            audio.play().catch(err => {
-                console.error("Ошибка возобновления:", err);
-                showError("❌ Не удалось возобновить воспроизведение");
-            });
-            isPlaying = true;
-            playPauseBtn.textContent = '⏸';
-        } else {
-            audio.pause();
-            isPlaying = false;
-            playPauseBtn.textContent = '▶';
-        }
-    }
-
-    function stopPlayback() {
-        audio.pause();
-        audio.src = "";
-        bar.style.display = 'none';
-        if (currentActiveButton) {
-            currentActiveButton.classList.remove('active-now');
-            currentActiveButton.innerHTML = `▶ Воспроизвести`;
-            currentActiveButton = null;
-        }
-        currentIndex = -1;
-        isPlaying = false;
-        playPauseBtn.textContent = '⏸';
-        
-        // Очищаем обработчики
-        audio.onerror = null;
-        audio.oncanplay = null;
-        audio.onended = null;
-    }
-
-    prevBtn.addEventListener('click', prevTrack);
-    nextBtn.addEventListener('click', nextTrack);
-    playPauseBtn.addEventListener('click', togglePlayPause);
-    stopBtn.addEventListener('click', stopPlayback);
-
-    function renderStations() {
-        updateFilteredList();
-        const grid = document.getElementById('stationsGrid');
-        if (currentFilteredList.length === 0) {
-            grid.innerHTML = `<div class="no-results">🎵 Ничего не найдено</div>`;
+        if (!audio.src || audio.src === '') {
+            changeStation(0, true);
             return;
         }
-        grid.innerHTML = currentFilteredList.map((station, idx) => {
-            const isActive = (currentIndex === idx && currentActiveButton !== null);
-            const activeClass = isActive ? 'active-now' : '';
-            const buttonHtml = isActive ? 
-                `<div class="play-icon-animated"><span></span><span></span><span></span><span></span></div> Слушаю` : 
-                `▶ Воспроизвести`;
-            return `
-                <div class="station-card" data-url="${station.url}" data-name="${station.name.replace(/"/g, '&quot;')}" data-index="${idx}">
-                    <div class="card-header">
-                        <div class="logo-wrapper"><img src="${station.logo}" alt="" loading="lazy" onerror="this.src='https://i.postimg.cc/rmMYcyyJ/radio-placeholder.png'"></div>
-                        <div class="station-name">${escapeHtml(station.name)}</div>
-                    </div>
-                    <div class="genre-tag">${escapeHtml(station.group)}</div>
-                    <button class="play-btn ${activeClass}" data-idx="${idx}">${buttonHtml}</button>
-                </div>
-            `;
-        }).join('');
-        
-        document.querySelectorAll('.play-btn').forEach(btn => {
-            btn.addEventListener('click', (e) => {
-                e.stopPropagation();
-                const idx = parseInt(btn.dataset.idx);
-                if (!isNaN(idx)) {
-                    if (idx !== currentIndex) {
-                        playByIndex(idx);
-                    } else {
-                        togglePlayPause();
-                    }
-                }
+        if (isPlaying && !audio.paused) {
+            audio.pause();
+            isPlaying = false;
+            setVinylSpinState(false);
+            playBtn.innerText = '▶';
+            updateStationInfo();
+            statusMsgSpan.innerText = '⏸ Пауза — пластинка замерла';
+        } else {
+            audio.play().then(() => {
+                isPlaying = true;
+                setVinylSpinState(true);
+                playBtn.innerText = '⏸';
+                updateStationInfo();
+                statusMsgSpan.innerText = '🔊 В эфире, панда вращается на пластинке';
+            }).catch(() => {
+                statusMsgSpan.innerText = '⚠️ Не удалось запустить. Проверьте интернет.';
             });
-        });
-        document.querySelectorAll('.station-card').forEach(card => {
-            card.addEventListener('click', (e) => {
-                if (e.target.classList.contains('play-btn')) return;
-                const idx = parseInt(card.dataset.index);
-                if (!isNaN(idx)) playByIndex(idx);
-            });
-        });
+        }
     }
 
-    function escapeHtml(str) {
-        return str.replace(/[&<>]/g, function(m) {
-            if (m === '&') return '&amp;';
-            if (m === '<') return '&lt;';
-            if (m === '>') return '&gt;';
-            return m;
-        });
+    function nextStation() { changeStation((currentIndex + 1) % stationsList.length, isPlaying && !audio.paused); }
+    function prevStation() { changeStation((currentIndex - 1 + stationsList.length) % stationsList.length, isPlaying && !audio.paused); }
+
+    function initRadio() {
+        renderStationButtons();
+        const savedVol = localStorage.getItem('goldenRadioVolume');
+        if (savedVol) { audio.volume = parseFloat(savedVol); volSlider.value = savedVol; }
+        else { audio.volume = 0.75; volSlider.value = "0.75"; }
+        audio.src = stationsList[0].url;
+        audio.load();
+        isPlaying = false;
+        setVinylSpinState(false);
+        playBtn.innerText = '▶';
+        updateStationInfo();
+        statusMsgSpan.innerText = '🐼 Нажмите Play, пластинка с пандой закружится';
+        // Инициализируем угол
+        resetRotationAngle();
     }
 
-    function renderCategories() {
-        const cats = [...new Set(stationsData.map(s => s.group))].sort();
-        const nav = document.getElementById('categoriesNav');
-        nav.innerHTML = `<button class="cat-btn ${activeCategory === 'ALL' ? 'active' : ''}" data-cat="ALL">📻 ВСЕ</button>` +
-            cats.map(c => `<button class="cat-btn ${activeCategory === c ? 'active' : ''}" data-cat="${c}">${escapeHtml(c)}</button>`).join('');
-        document.querySelectorAll('.cat-btn').forEach(btn => {
-            btn.addEventListener('click', () => {
-                activeCategory = btn.dataset.cat;
-                renderCategories();
-                renderStations();
-            });
-        });
-    }
-
-    document.getElementById('searchInput').addEventListener('input', (e) => {
-        searchQuery = e.target.value;
-        renderStations();
-    });
-
-    renderCategories();
-    renderStations();
+    playBtn.addEventListener('click', togglePlayPause);
+    nextBtn.addEventListener('click', nextStation);
+    prevBtn.addEventListener('click', prevStation);
+    volSlider.addEventListener('input', (e) => { audio.volume = parseFloat(e.target.value); localStorage.setItem('goldenRadioVolume', e.target.value); });
     
-    // Инструкция для пользователя
-    console.log("Радио плеер готов. Если звука нет, проверьте:");
-    console.log("1. Некоторые потоки могут быть временно недоступны");
-    console.log("2. Попробуйте разные станции");
-    console.log("3. Убедитесь, что звук не выключен в системе");
+    initRadio();
+    document.querySelector('.vinyl-disc-panda')?.addEventListener('click', () => togglePlayPause());
 </script>
 </body>
 </html>
