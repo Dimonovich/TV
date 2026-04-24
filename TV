@@ -90,12 +90,12 @@ https://api-tv.ipnet.ua/api/v1/manifest/2118742505.m3u8
 https://api-tv.ipnet.ua/api/v1/manifest/2118742680.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Армія ТБ
 https://api-tv.ipnet.ua/api/v1/manifest/2118742632.m3u8
-#EXTINF:-1 group-title="TEST ⓵" channel-id="KRBD44000025L" tvg-id="KRBD44000025L" tvg-chno="791" tvg-name="Fireplace 4K" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD44000025L_20260422T013535SQUARE.png" ,Fireplace 4K
-https://jmp2.uk/stvp-KRBD44000025L
-#EXTINF:-1 group-title="TEST ⓵" channel-id="KRBC4500001A5-kr" tvg-id="KRBC4500001A5" tvg-chno="645" tvg-name="tvN 환혼 4K" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4500001A5_20260422T013953SQUARE.png" ,tvN 환혼 4K
+#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4500001A5_20260422T013953SQUARE.png" ,tvN 환혼 4K
 https://jmp2.uk/stvp-KRBC4500001A5
 #EXTINF:-1 group-title="TEST ⓵" channel-id="USBA3400003IP" tvg-id="USBA3400003IP" tvg-chno="3532" tvg-name="Love Nature 4K" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3400003IP_20260421T142045SQUARE.png" ,Love Nature 4K
 https://jmp2.uk/stvp-USBA3400003IP
+#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500039Y5_20260422T012620SQUARE.png" ,Bloomberg TV+ UHD
+https://jmp2.uk/stvp-KRBB500039Y5
 
 
 
@@ -2806,6 +2806,8 @@ https://jmp2.uk/stvp-CAAJ3400003T7
 https://d9rd4243pcy92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-e4dxftqz7hlvi/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3500013DG
 #EXTINF:-1 channel-id="SamsungTVPlus-USBD3500027DS" tvg-name="ZenLIFE by Stingray" tvg-id="USBD3500027DS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500027DS_20240520T212949SQUARE.png" group-title="RELAX🏝️" tvg-chno="4578",ZenLIFE by Stingray
 https://jmp2.uk/rok-79876f8f79d0394ba8982259393e5e32.m3u8
+#EXTINF:-1 group-title="RELAX🏝️" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD44000025L_20260422T013535SQUARE.png" ,Fireplace 4K
+https://jmp2.uk/stvp-KRBD44000025L
 
 
 
