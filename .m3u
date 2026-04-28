@@ -428,13 +428,14 @@ http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 
 
 #EXTINF:-1, VIP Premiere
-http://46.53.208.4:80/live/6001-req_offset_28000000-req_window_0-1k_v5.m3u8
+https://a3569457567-s70378.cdn.ngenix.net/vip_premiere/2/index.m3u8
 #EXTINF:-1, VIP Megahit
-http://46.53.208.4:80/live/6002-req_offset_28000000-req_window_0-1k_v5.m3u8
+https://a3569457567-s70378.cdn.ngenix.net/vip_megahit/2/index.m3u8
 #EXTINF:-1, VIP Comedy
-http://46.53.208.4:80/live/6003-req_offset_28000000-req_window_0-1k_v5.m3u8
+https://a3569457567-s70378.cdn.ngenix.net/vip_comedy/2/index.m3u8
 #EXTINF:-1, VIP Serial HD
-http://46.53.208.4:80/live/6004-req_offset_28000000-req_window_0-1k_v5.m3u8
+https://a3569457567-s70378.cdn.ngenix.net/vip_serial/2/index.m3u8
+
 
 
 
@@ -445,8 +446,7 @@ https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/tra
 #EXTINF:-1 ,viju TV1000 romantica
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=hDVXfOe6KkbonXhEjIc93w&e=1777998159&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 
-#EXTINF:-1 ,Viju TV1000 Новелла HD
-http://46.53.208.4:80/live/545-req_offset_28000000-req_window_0-1k_v5.m3u8
+
 
 #EXTINF:-1 ,TV1000 Русское Кино
 https://stream8.cinerama.uz/1059/tracks-v1a1/mono.m3u8
@@ -480,11 +480,7 @@ https://stream8.cinerama.uz/1429/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,В Мире Животных
 https://stream8.cinerama.uz/1404/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,Viju+ Planet
-http://46.53.208.4:80/live/6006-req_offset_28000000-req_window_0-1k_v5.m3u8
 
-#EXTINF:-1,Мосфильм. Золотая коллекция
-http://46.53.208.4:80/live/1124-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 ,Amedia 1 HD
 https://a3569457567-s70378.cdn.ngenix.net/amedia_1/2/index.m3u8
 #EXTINF:-1 ,Amedia 2 HD
@@ -570,7 +566,7 @@ https://fs.uplink.kz/eurosport1/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 ,Eurosport 2
 https://fs.uplink.kz/eurosport2/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1,Viasat Sport
-http://46.53.208.4:80/live/6005-req_offset_28000000-req_window_0-3k_v5.m3u8
+https://a3569457567-s70378.cdn.ngenix.net/viasat_sport/2/index.m3u8
 
 #EXTINF:-1 ,Бокс ТВ
 https://a3285272783-s80718.cdn.ngenix.net/hls/CH_BOKS_TVHD/video_1920x1080_avc1/playlist.m3u8
