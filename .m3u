@@ -539,9 +539,6 @@ https://stream8.cinerama.uz/1060/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1406/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1,Нст
-http://46.53.208.4:80/live/6008-req_offset_28000000-req_window_0-1k_v5.m3u8
-
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Trace Sport Stars HD
 https://stream8.cinerama.uz/1274/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Uzreport HD
@@ -558,13 +555,10 @@ https://stream8.cinerama.uz/1028/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1049/tracks-v1a1/mono.m3u8
 
 
-
-
-
 #EXTINF:-1 ,Eurosport 1
-https://fs.uplink.kz/eurosport1/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+http://46.32.176.50/eurosport/index.m3u8
 #EXTINF:-1 ,Eurosport 2
-https://fs.uplink.kz/eurosport2/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+http://46.32.176.50/eurosport2/index.m3u8
 #EXTINF:-1,Viasat Sport
 https://a3569457567-s70378.cdn.ngenix.net/viasat_sport/2/index.m3u8
 
