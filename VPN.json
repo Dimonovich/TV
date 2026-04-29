@@ -16,6 +16,21 @@
     "udpdns": false
   },
   {
+    "server": "57.131.38.150",
+    "server_port": 2083,
+    "password": "41d65870-0f59-4de9-a608-56d489a738a2",
+    "method": "aes-256-gcm",
+    "remarks": "🇮🇹 Италия 2 (Android TV + Free TV)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },  
+  {
     "server": "51.254.142.162",
     "server_port": 2083,
     "password": "06611389-cf82-4daf-b56d-2f3e1c20e118",
@@ -60,12 +75,12 @@
     },
     "udpdns": false
   },
-  {
-    "server": "57.131.38.150",
+    {
+    "server": "85.208.109.254",
     "server_port": 2083,
-    "password": "41d65870-0f59-4de9-a608-56d489a738a2",
+    "password": "cb12c32b-67e4-4a06-b1b1-5bcc39286484",
     "method": "aes-256-gcm",
-    "remarks": "🇮🇹 Италия 2 (Android TV + Free TV)",
+    "remarks": "🇵🇱 Австрия (Android TV + Free TV)",
     "route": "all",
     "remote_dns": "one.one.one.one",
     "ipv6": false,
@@ -74,7 +89,7 @@
       "enabled": false
     },
     "udpdns": false
-  },
+  },  
   {
     "server": "54.36.162.84",
     "server_port": 2083,
