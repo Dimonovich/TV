@@ -3431,38 +3431,6 @@ http://95.47.155.244:8001/play/a003
 
 
 
-
-
-
-#EXTINF:-1 group-title="Селектел (VPN)", Discovery Channel
-http://5.188.159.128:8070/DiscoveryChannel/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Селектел (VPN)", HOLLYWOOD HD
-http://5.188.159.128:8070/HOLLYWOOD_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Селектел (VPN)", Кинопремьера
-http://5.188.159.128:8070/KINOPREMIERA/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Селектел (VPN)", Киносвидание
-http://5.188.159.128:8070/kinosvidanie/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Селектел (VPN)", Мир 24
-http://5.188.159.128:8070/mir_24/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Селектел (VPN)", .red
-http://5.188.159.128:8070/RED/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Селектел (VPN)", RU.TV
-http://5.188.159.128:8070/rutv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Селектел (VPN)", Cartoon Network
-http://5.188.159.128:8070/Cartoon_Network/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Селектел (VPN)", Bridge TV Classic
-http://5.188.159.128:8070/Bridge_TV_Classic/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Селектел (VPN)", Bridge TV
-http://5.188.159.128:8070/bridgetv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Селектел (VPN)", Trash HD
-http://5.188.159.128:8070/Trash_HD/tracks-v1a1/mono.m3u8
-
-
-
-
-
-
-
 #EXTINF:-1 group-title="Сайт (VPN)",НТВ Хит
 http://193.25.8.59:8000/Paramount
 #EXTINF:-1 group-title="Сайт (VPN)",Россия К
@@ -3636,8 +3604,6 @@ http://5.188.221.43:8080/play/moya_planeta
 http://5.188.221.43:8080/play/5_kanal
 #EXTINF:-1 group-title="АСАРТА (VPN)",ТВЦ
 http://5.188.221.43:8080/play/tv-centr
-#EXTINF:-1 group-title="АСАРТА (VPN)",Киносвидание
-http://5.188.159.128:8070/kinosvidanie/index.m3u8
 #EXTINF:-1 group-title="АСАРТА (VPN)",СТС
 http://5.188.221.43:8080/play/sts
 #EXTINF:-1 group-title="АСАРТА (VPN)",Домашний
