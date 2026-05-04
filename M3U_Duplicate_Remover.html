@@ -2,104 +2,106 @@
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>IPTV Объединитель - Выбор каналов галочками + кнопка Вверх</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes, viewport-fit=cover">
+    <title>IPTV Объединитель - Работает на ПК и Android</title>
     <style>
         * {
             margin: 0;
             padding: 0;
             box-sizing: border-box;
+            -webkit-tap-highlight-color: transparent;
         }
 
         body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
             background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
             min-height: 100vh;
-            padding: 20px;
+            padding: 12px;
         }
 
         .container {
-            max-width: 1600px;
+            max-width: 1200px;
             margin: 0 auto;
             background: white;
-            border-radius: 20px;
-            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            border-radius: 24px;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.2);
             overflow: hidden;
+            padding-bottom: 90px; /* место для фиксированной панели на мобилках */
         }
 
         .header {
             background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
             color: white;
-            padding: 30px;
+            padding: 20px 16px;
             text-align: center;
         }
 
         .header h1 {
-            font-size: 2.5em;
-            margin-bottom: 10px;
+            font-size: 1.6rem;
+            margin-bottom: 6px;
+        }
+
+        .header p {
+            font-size: 0.85rem;
+            opacity: 0.9;
         }
 
         .content {
-            padding: 30px;
+            padding: 16px;
         }
 
         .upload-area {
-            border: 3px dashed #667eea;
-            border-radius: 15px;
-            padding: 40px;
+            border: 2px dashed #667eea;
+            border-radius: 16px;
+            padding: 30px 16px;
             text-align: center;
             background: #f8f9ff;
             cursor: pointer;
-            transition: all 0.3s ease;
-            margin-bottom: 30px;
+            transition: all 0.2s;
+            margin-bottom: 20px;
         }
 
-        .upload-area:hover {
-            background: #f0f2ff;
-            border-color: #764ba2;
-        }
-
-        .upload-area.dragover {
+        .upload-area:active {
             background: #e8ebff;
-            border-color: #764ba2;
         }
 
         .upload-icon {
-            font-size: 48px;
-            margin-bottom: 10px;
+            font-size: 40px;
+            margin-bottom: 8px;
         }
 
         .file-list {
             background: #f8f9ff;
-            border-radius: 15px;
-            padding: 20px;
-            margin-bottom: 30px;
+            border-radius: 16px;
+            padding: 12px;
+            margin-bottom: 20px;
         }
 
         .file-item {
             background: white;
-            padding: 10px 15px;
-            margin: 10px 0;
-            border-radius: 10px;
+            padding: 10px 12px;
+            margin: 8px 0;
+            border-radius: 12px;
             display: flex;
             justify-content: space-between;
             align-items: center;
-            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+            font-size: 0.9rem;
         }
 
         .remove-file {
             background: #ff4757;
             color: white;
             border: none;
-            padding: 5px 15px;
-            border-radius: 5px;
+            padding: 6px 14px;
+            border-radius: 20px;
+            font-size: 0.8rem;
             cursor: pointer;
         }
 
         .controls {
             display: flex;
-            gap: 15px;
-            margin-bottom: 30px;
+            gap: 10px;
+            margin-bottom: 20px;
             flex-wrap: wrap;
         }
 
@@ -107,187 +109,189 @@
             background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
             color: white;
             border: none;
-            padding: 12px 30px;
-            border-radius: 10px;
-            font-size: 1em;
-            cursor: pointer;
+            padding: 10px 18px;
+            border-radius: 40px;
+            font-size: 0.85rem;
             font-weight: 600;
-            transition: all 0.3s;
+            cursor: pointer;
+            transition: 0.2s;
         }
 
-        button:hover:not(:disabled) {
-            transform: translateY(-2px);
-            box-shadow: 0 5px 15px rgba(102, 126, 234, 0.4);
+        button:active {
+            transform: scale(0.97);
         }
 
         button:disabled {
             opacity: 0.5;
-            cursor: not-allowed;
+            transform: none;
         }
 
         .stats {
             background: #f0f2ff;
-            padding: 20px;
-            border-radius: 15px;
-            margin-bottom: 20px;
+            padding: 16px;
+            border-radius: 16px;
+            margin-bottom: 16px;
             display: flex;
             justify-content: space-around;
             flex-wrap: wrap;
-            gap: 20px;
+            gap: 12px;
         }
 
         .stat-card {
             text-align: center;
             flex: 1;
-            min-width: 150px;
-            padding: 10px;
             background: white;
-            border-radius: 10px;
+            padding: 10px;
+            border-radius: 12px;
             cursor: pointer;
-            transition: all 0.3s;
         }
 
         .stat-number {
-            font-size: 2.5em;
+            font-size: 1.8rem;
             font-weight: bold;
             color: #667eea;
         }
 
         .stat-label {
+            font-size: 0.75rem;
             color: #666;
-            margin-top: 5px;
-            font-size: 0.9em;
         }
 
         .debug-info {
             background: #2d3436;
             color: #dfe6e9;
-            padding: 15px;
-            border-radius: 10px;
-            font-family: monospace;
-            font-size: 0.85em;
-            margin-bottom: 20px;
-            max-height: 200px;
-            overflow-y: auto;
+            padding: 12px;
+            border-radius: 12px;
+            font-size: 0.75rem;
+            margin-bottom: 16px;
         }
 
-        /* Плавающая панель управления */
-        .floating-controls {
-            position: relative;
-            background: white;
-            border-radius: 60px;
-            box-shadow: 0 8px 20px rgba(0,0,0,0.15);
-            padding: 12px 20px;
-            margin-bottom: 20px;
-            transition: all 0.2s ease;
-            z-index: 500;
-        }
-        
-        .floating-controls.sticky {
+        /* ФИКСИРОВАННАЯ ПАНЕЛЬ ДЛЯ МОБИЛЬНЫХ (всегда внизу) */
+        .mobile-fixed-panel {
             position: fixed;
-            bottom: 20px;
-            left: 20px;
-            right: 20px;
-            max-width: calc(1600px - 60px);
-            margin: 0 auto;
-            box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+            bottom: 0;
+            left: 0;
+            right: 0;
             background: rgba(255,255,255,0.98);
-            backdrop-filter: blur(8px);
-            border: 1px solid rgba(102,126,234,0.3);
-        }
-        
-        .controls-inner {
+            backdrop-filter: blur(12px);
+            box-shadow: 0 -4px 20px rgba(0,0,0,0.15);
+            padding: 12px 16px;
             display: flex;
-            gap: 12px;
-            align-items: center;
             flex-wrap: wrap;
+            gap: 8px;
             justify-content: center;
+            z-index: 1000;
+            border-top: 1px solid rgba(102,126,234,0.3);
         }
-        
-        .controls-inner input {
+
+        .mobile-fixed-panel input {
             flex: 2;
-            min-width: 200px;
-            padding: 10px 18px;
+            min-width: 140px;
+            padding: 10px 14px;
             border: 1px solid #ddd;
             border-radius: 40px;
-            font-size: 0.95rem;
+            font-size: 0.9rem;
             outline: none;
-            transition: 0.2s;
         }
-        
-        .controls-inner input:focus {
-            border-color: #667eea;
-            box-shadow: 0 0 0 2px rgba(102,126,234,0.2);
+
+        .mobile-fixed-panel button {
+            padding: 8px 16px;
+            font-size: 0.8rem;
+            white-space: nowrap;
         }
-        
-        .floating-controls button {
-            padding: 8px 18px;
-            font-size: 0.9em;
-            background: #667eea;
-        }
-        
-        .floating-controls .save-selected-btn {
+
+        .mobile-fixed-panel .save-btn {
             background: linear-gradient(135deg, #27ae60, #2ecc71);
         }
-        
-        .floating-controls .scroll-top-btn {
+
+        .mobile-fixed-panel .scroll-btn {
             background: linear-gradient(135deg, #ff9800, #f57c00);
         }
-        
-        .selected-badge {
+
+        .selected-count-badge {
             background: #667eea;
             color: white;
-            padding: 6px 14px;
+            padding: 6px 12px;
             border-radius: 40px;
-            font-size: 0.9em;
+            font-size: 0.8rem;
             font-weight: bold;
             white-space: nowrap;
         }
-        
+
+        /* Стили для списка каналов */
+        .channels-wrapper {
+            max-height: 55vh;
+            overflow-y: auto;
+            border-radius: 16px;
+            background: #fff;
+            margin-top: 8px;
+        }
+
+        .channels-wrapper::-webkit-scrollbar {
+            width: 6px;
+        }
+
+        .channels-wrapper::-webkit-scrollbar-track {
+            background: #f1f1f1;
+            border-radius: 10px;
+        }
+
+        .channels-wrapper::-webkit-scrollbar-thumb {
+            background: #667eea;
+            border-radius: 10px;
+        }
+
+        .group-card {
+            margin-bottom: 12px;
+            border-radius: 12px;
+            overflow: hidden;
+            background: #fafbff;
+            border: 1px solid #eef2ff;
+        }
+
         .group-header {
             background: #f0f2ff;
-            padding: 12px 15px;
-            font-weight: bold;
-            cursor: pointer;
-            border-bottom: 1px solid #ddd;
+            padding: 12px 16px;
             display: flex;
             align-items: center;
             gap: 12px;
-            transition: background 0.1s;
+            cursor: pointer;
+            transition: background 0.2s;
         }
-        
-        .group-header:hover {
+
+        .group-header:active {
             background: #e0e7ff;
         }
-        
-        .group-header .group-checkbox {
-            width: 20px;
-            height: 20px;
+
+        .group-checkbox {
+            width: 22px;
+            height: 22px;
             cursor: pointer;
             flex-shrink: 0;
         }
-        
-        .group-header .group-title {
+
+        .group-title {
             flex: 1;
+            font-weight: 600;
             display: flex;
             justify-content: space-between;
             align-items: center;
+            font-size: 0.95rem;
         }
-        
-        /* Индикация выделенной группы */
-        .group-header.partially-selected {
-            background: #fff3e0;
-            border-left: 4px solid #ff9800;
-        }
-        
+
         .group-header.fully-selected {
             background: #e8f5e9;
             border-left: 4px solid #4caf50;
         }
-        
-        .channel-item {
-            padding: 10px 15px;
-            margin-left: 45px;
+
+        .group-header.partially-selected {
+            background: #fff3e0;
+            border-left: 4px solid #ff9800;
+        }
+
+        .channel-row {
+            padding: 10px 16px;
+            margin-left: 38px;
             border-bottom: 1px solid #eee;
             display: flex;
             align-items: center;
@@ -295,67 +299,84 @@
             cursor: pointer;
             transition: background 0.1s;
         }
-        
-        .channel-item:hover {
+
+        .channel-row:active {
             background: #f8f9ff;
         }
-        
-        .channel-item .channel-checkbox {
-            width: 18px;
-            height: 18px;
+
+        .channel-checkbox {
+            width: 20px;
+            height: 20px;
             cursor: pointer;
             flex-shrink: 0;
         }
-        
+
         .channel-info {
             flex: 1;
         }
-        
+
         .channel-name {
             font-weight: 600;
+            font-size: 0.9rem;
+            word-break: break-word;
         }
-        
+
         .channel-url {
-            font-size: 0.8em;
+            font-size: 0.7rem;
             color: #666;
             word-break: break-all;
             font-family: monospace;
+            margin-top: 4px;
         }
-        
+
+        .badge {
+            display: inline-block;
+            background: #ff4757;
+            color: white;
+            padding: 2px 8px;
+            border-radius: 20px;
+            font-size: 0.65rem;
+            margin-left: 8px;
+        }
+
+        .badge-green {
+            background: #00b894;
+        }
+
+        /* Модальное окно */
         .modal {
             display: none;
             position: fixed;
-            z-index: 1000;
+            z-index: 2000;
             left: 0;
             top: 0;
             width: 100%;
             height: 100%;
             background-color: rgba(0,0,0,0.7);
-            animation: fadeIn 0.3s;
         }
-        
+
         .modal-content {
             background-color: white;
-            margin: 5% auto;
+            margin: 10% auto;
             padding: 0;
             width: 90%;
-            max-width: 1200px;
-            border-radius: 15px;
-            max-height: 85vh;
+            max-width: 600px;
+            border-radius: 20px;
+            max-height: 80vh;
             display: flex;
             flex-direction: column;
         }
-        
+
         .modal-header {
             background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
             color: white;
-            padding: 20px;
-            border-radius: 15px 15px 0 0;
+            padding: 16px;
+            border-radius: 20px 20px 0 0;
             display: flex;
             justify-content: space-between;
             align-items: center;
         }
-        
+
         .close-modal {
             background: none;
             border: none;
@@ -363,121 +384,112 @@
             font-size: 28px;
             cursor: pointer;
         }
-        
+
         .modal-body {
-            padding: 20px;
+            padding: 16px;
             overflow-y: auto;
         }
-        
-        .duplicate-group {
+
+        .duplicate-item {
             background: #f8f9ff;
-            border-radius: 10px;
-            margin-bottom: 20px;
-            border: 1px solid #ddd;
-            overflow: hidden;
+            border-radius: 12px;
+            margin-bottom: 12px;
+            padding: 12px;
         }
-        
-        .duplicate-header {
-            background: #ff4757;
-            color: white;
-            padding: 12px 15px;
-            cursor: pointer;
-            display: flex;
-            justify-content: space-between;
-        }
-        
-        .keep-badge { background: #00b894; color: white; padding: 4px 12px; border-radius: 20px; }
-        .remove-badge { background: #ff4757; color: white; padding: 4px 12px; border-radius: 20px; }
-        
-        .success {
+
+        .success, .error {
             position: fixed;
             top: 20px;
-            right: 20px;
+            left: 50%;
+            transform: translateX(-50%);
             background: #00b894;
             color: white;
             padding: 10px 20px;
-            border-radius: 8px;
-            z-index: 2000;
-            animation: slideIn 0.3s ease;
+            border-radius: 40px;
+            z-index: 3000;
+            font-size: 0.85rem;
+            white-space: nowrap;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.2);
         }
-        
+
         .error {
-            position: fixed;
-            top: 20px;
-            right: 20px;
             background: #ff4757;
-            color: white;
-            padding: 10px 20px;
-            border-radius: 8px;
-            z-index: 2000;
-            animation: slideIn 0.3s ease;
         }
-        
-        @keyframes slideIn {
-            from { transform: translateX(100%); opacity: 0; }
-            to { transform: translateX(0); opacity: 1; }
-        }
-        
+
         @keyframes fadeIn {
             from { opacity: 0; }
             to { opacity: 1; }
         }
-        
-        .channels-container {
-            max-height: 70vh;
-            overflow-y: auto;
-            border-radius: 12px;
-            background: #fff;
-        }
-        
-        .channel-list-wrapper {
-            position: relative;
-        }
-        
-        .channels-container::-webkit-scrollbar {
-            width: 8px;
-        }
-        
-        .channels-container::-webkit-scrollbar-track {
-            background: #f1f1f1;
-            border-radius: 10px;
-        }
-        
-        .channels-container::-webkit-scrollbar-thumb {
-            background: #667eea;
-            border-radius: 10px;
+
+        /* Планшет / ПК */
+        @media (min-width: 768px) {
+            body {
+                padding: 20px;
+            }
+            .container {
+                padding-bottom: 0;
+            }
+            .mobile-fixed-panel {
+                position: sticky;
+                bottom: auto;
+                top: 0;
+                background: white;
+                margin-bottom: 16px;
+                border-radius: 60px;
+                box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+                border: 1px solid #eef2ff;
+            }
+            .channels-wrapper {
+                max-height: 65vh;
+            }
         }
     </style>
 </head>
 <body>
 <div class="container">
     <div class="header">
-        <h1>📺 IPTV Объединитель плейлистов</h1>
-        <p>Выделяйте группы и каналы — плавающая панель всегда под рукой + кнопка Вверх</p>
+        <h1>📺 IPTV Объединитель</h1>
+        <p>Загрузите M3U файлы, выбирайте каналы галочками</p>
     </div>
     <div class="content">
         <div class="upload-area" id="uploadArea">
             <div class="upload-icon">📁</div>
-            <h3>Нажмите или перетащите файлы сюда</h3>
-            <p>Поддерживаются форматы: .m3u, .m3u8</p>
+            <h3>Нажмите или перетащите файлы</h3>
+            <p>.m3u .m3u8</p>
             <input type="file" id="fileInput" multiple accept=".m3u,.m3u8" style="display: none;">
         </div>
-        <div class="file-list" id="fileList" style="display: none;"></div>
-        <div class="controls">
-            <button id="mergeBtn" disabled>🔍 Объединить и найти дубликаты</button>
-            <button id="viewDuplicatesBtn" disabled>👁️ Показать дубликаты</button>
-            <button id="clearBtn" disabled>🗑 Очистить всё</button>
-            <button id="exportAllBtn" disabled>💾 Экспортировать всё</button>
+
+        <div id="fileList" style="display: none;"></div>
+
+        <div class="controls" id="mainControls">
+            <button id="mergeBtn" disabled>🔍 Объединить</button>
+            <button id="viewDuplicatesBtn" disabled>👁️ Дубликаты</button>
+            <button id="clearBtn" disabled>🗑 Очистить</button>
+            <button id="exportAllBtn" disabled>💾 Экспорт всех</button>
         </div>
+
         <div id="debugInfo" class="debug-info" style="display: none;"></div>
         <div id="stats" style="display: none;"></div>
         <div id="preview" style="display: none;"></div>
     </div>
 </div>
 
+<!-- ФИКСИРОВАННАЯ ПАНЕЛЬ (всегда видна) -->
+<div id="fixedPanel" class="mobile-fixed-panel" style="display: none;">
+    <input type="text" id="searchInput" placeholder="🔍 Поиск каналов...">
+    <button id="selectAllBtn">✅ Всё</button>
+    <button id="deselectAllBtn">❌ Снять</button>
+    <button id="saveSelectedBtn" class="save-btn">💾 Сохранить</button>
+    <button id="scrollTopBtn" class="scroll-btn">⬆ Вверх</button>
+    <span id="selectedCountSpan" class="selected-count-badge">0</span>
+</div>
+
 <div id="duplicatesModal" class="modal">
     <div class="modal-content">
-        <div class="modal-header"><h2>📋 Дубликаты</h2><button class="close-modal" onclick="document.getElementById('duplicatesModal').style.display='none'">&times;</button></div>
+        <div class="modal-header">
+            <h2>📋 Дубликаты по URL</h2>
+            <button class="close-modal" onclick="closeModal()">&times;</button>
+        </div>
         <div class="modal-body" id="duplicatesList"></div>
     </div>
 </div>
@@ -488,207 +500,157 @@
             this.files = [];
             this.uniqueChannels = [];
             this.duplicateGroups = [];
-            this.selectedChannelIds = new Set();
-            this.currentSearchText = '';
-            this.floatingPanel = null;
-            this.channelsScrollContainer = null;
+            this.selectedIds = new Set(); // Set of channel.id
+            this.searchText = '';
+            this.channelsContainer = null;
             this.init();
         }
-        
+
         init() {
-            this.setupEventListeners();
+            this.bindEvents();
         }
-        
-        setupEventListeners() {
+
+        bindEvents() {
             const uploadArea = document.getElementById('uploadArea');
             const fileInput = document.getElementById('fileInput');
-            const mergeBtn = document.getElementById('mergeBtn');
-            const viewDuplicatesBtn = document.getElementById('viewDuplicatesBtn');
-            const clearBtn = document.getElementById('clearBtn');
-            const exportAllBtn = document.getElementById('exportAllBtn');
-            
+            document.getElementById('mergeBtn').addEventListener('click', () => this.merge());
+            document.getElementById('viewDuplicatesBtn').addEventListener('click', () => this.showDuplicates());
+            document.getElementById('clearBtn').addEventListener('click', () => this.clearAll());
+            document.getElementById('exportAllBtn').addEventListener('click', () => this.exportAll());
+
             uploadArea.addEventListener('click', () => fileInput.click());
             uploadArea.addEventListener('dragover', (e) => { e.preventDefault(); uploadArea.classList.add('dragover'); });
-            uploadArea.addEventListener('dragleave', () => { uploadArea.classList.remove('dragover'); });
+            uploadArea.addEventListener('dragleave', () => uploadArea.classList.remove('dragover'));
             uploadArea.addEventListener('drop', (e) => {
                 e.preventDefault();
                 uploadArea.classList.remove('dragover');
                 this.handleFiles(e.dataTransfer.files);
             });
             fileInput.addEventListener('change', (e) => this.handleFiles(e.target.files));
-            mergeBtn.addEventListener('click', () => this.mergePlaylists());
-            viewDuplicatesBtn.addEventListener('click', () => this.showDuplicatesModal());
-            clearBtn.addEventListener('click', () => this.clearAll());
-            exportAllBtn.addEventListener('click', () => this.exportAll());
         }
-        
+
         handleFiles(fileList) {
             for (const file of fileList) {
-                if (file.name.endsWith('.m3u') || file.name.endsWith('.m3u8')) this.files.push(file);
-                else this.showMessage(`Файл ${file.name} не поддерживается`, 'error');
+                if (file.name.endsWith('.m3u') || file.name.endsWith('.m3u8')) {
+                    this.files.push(file);
+                } else {
+                    this.showMessage(`❌ ${file.name} не поддерживается`, 'error');
+                }
             }
-            this.updateFileList();
+            this.renderFileList();
             this.updateButtons();
         }
-        
-        async parseM3UFile(file, fileIndex) {
-            return new Promise((resolve, reject) => {
+
+        async parseM3U(file, fileIdx) {
+            return new Promise((resolve) => {
                 const reader = new FileReader();
                 reader.onload = (e) => {
                     const lines = e.target.result.split(/\r?\n/);
                     const channels = [];
-                    let extinfLine = null;
-                    for (let i = 0; i < lines.length; i++) {
-                        const line = lines[i].trim();
-                        if (line.startsWith('#EXTINF:')) extinfLine = line;
-                        else if (line && !line.startsWith('#') && extinfLine) {
-                            let name = extinfLine.split(',').pop().trim();
+                    let extinf = null;
+                    for (let line of lines) {
+                        line = line.trim();
+                        if (line.startsWith('#EXTINF:')) {
+                            extinf = line;
+                        } else if (line && !line.startsWith('#') && extinf) {
+                            let name = extinf.split(',').pop().trim();
                             let group = '', logo = '', tvgId = '';
-                            const groupMatch = extinfLine.match(/group-title="([^"]+)"/);
-                            if (groupMatch) group = groupMatch[1];
-                            const logoMatch = extinfLine.match(/tvg-logo="([^"]+)"/);
+                            const grpMatch = extinf.match(/group-title="([^"]+)"/);
+                            if (grpMatch) group = grpMatch[1];
+                            const logoMatch = extinf.match(/tvg-logo="([^"]+)"/);
                             if (logoMatch) logo = logoMatch[1];
-                            const tvgIdMatch = extinfLine.match(/tvg-id="([^"]+)"/);
-                            if (tvgIdMatch) tvgId = tvgIdMatch[1];
+                            const tvgMatch = extinf.match(/tvg-id="([^"]+)"/);
+                            if (tvgMatch) tvgId = tvgMatch[1];
                             channels.push({
-                                id: null, name: name || 'Без названия', url: line, group: group || 'Без группы',
-                                logo, tvgId, extinf: extinfLine, fileName: file.name, fileIndex
+                                name: name || 'Без имени',
+                                url: line,
+                                group: group || 'Без группы',
+                                logo, tvgId,
+                                extinf: extinf,
+                                fileName: file.name
                             });
-                            extinfLine = null;
+                            extinf = null;
                         }
                     }
                     resolve(channels);
                 };
-                reader.onerror = reject;
                 reader.readAsText(file, 'utf-8');
             });
         }
-        
-        async mergePlaylists() {
-            if (!this.files.length) { this.showMessage('❌ Загрузите файлы', 'error'); return; }
-            this.showMessage('🔍 Обработка...', 'success');
-            const urlToChannels = new Map();
-            let globalOrder = 0;
-            for (let idx = 0; idx < this.files.length; idx++) {
-                const file = this.files[idx];
-                try {
-                    const channels = await this.parseM3UFile(file, idx);
-                    for (const ch of channels) {
-                        ch.globalOrder = globalOrder++;
-                        const normUrl = ch.url.trim().toLowerCase();
-                        if (!urlToChannels.has(normUrl)) urlToChannels.set(normUrl, []);
-                        urlToChannels.get(normUrl).push(ch);
-                    }
-                } catch(e) { this.showMessage(`Ошибка ${file.name}`, 'error'); }
-            }
-            this.uniqueChannels = [];
-            this.duplicateGroups = [];
-            for (const [url, channels] of urlToChannels) {
-                if (channels.length === 1) this.uniqueChannels.push({ ...channels[0], duplicateCount: 1 });
-                else {
-                    this.duplicateGroups.push({ url, channels, count: channels.length });
-                    this.uniqueChannels.push({ ...channels[0], duplicateCount: channels.length });
+
+        async merge() {
+            if (!this.files.length) { this.showMessage('Загрузите файлы', 'error'); return; }
+            this.showMessage('Обработка...', 'success');
+            
+            const urlMap = new Map();
+            let order = 0;
+            for (let i = 0; i < this.files.length; i++) {
+                const channels = await this.parseM3U(this.files[i], i);
+                for (const ch of channels) {
+                    ch.order = order++;
+                    const normUrl = ch.url.trim().toLowerCase();
+                    if (!urlMap.has(normUrl)) urlMap.set(normUrl, []);
+                    urlMap.get(normUrl).push(ch);
                 }
             }
-            this.uniqueChannels.sort((a,b) => a.globalOrder - b.globalOrder);
-            this.uniqueChannels.forEach((ch, i) => ch.id = `ch_${i}`);
-            this.selectedChannelIds.clear();
             
-            this.showDebugInfo();
+            this.uniqueChannels = [];
+            this.duplicateGroups = [];
+            for (let [url, arr] of urlMap.entries()) {
+                if (arr.length === 1) {
+                    this.uniqueChannels.push({ ...arr[0], duplicateCount: 1 });
+                } else {
+                    this.duplicateGroups.push({ url, channels: arr, count: arr.length });
+                    this.uniqueChannels.push({ ...arr[0], duplicateCount: arr.length });
+                }
+            }
+            this.uniqueChannels.sort((a,b) => a.order - b.order);
+            this.uniqueChannels.forEach((ch, idx) => ch.id = `ch_${idx}`);
+            this.selectedIds.clear();
+            
             this.showStats();
-            this.renderFullInterface();
+            this.renderChannelsList();
             this.updateButtons(true);
+            document.getElementById('fixedPanel').style.display = 'flex';
             this.showMessage(`✅ Уникальных: ${this.uniqueChannels.length}`, 'success');
         }
         
-        renderFullInterface() {
-            const previewDiv = document.getElementById('preview');
-            previewDiv.style.display = 'block';
-            previewDiv.innerHTML = `
-                <div style="background:#f8f9ff; border-radius:15px; padding:20px;">
-                    <h3 style="margin-bottom:15px;">📺 Выберите каналы (галочки групп/каналов)</h3>
-                    <div class="channel-list-wrapper">
-                        <div class="channels-container" id="channelsScrollContainer"></div>
-                    </div>
-                </div>
-            `;
-            this.channelsScrollContainer = document.getElementById('channelsScrollContainer');
-            this.createFloatingPanel();
-            this.renderChannelList();
-            this.initStickyPanel();
-        }
-        
-        createFloatingPanel() {
-            if (this.floatingPanel) this.floatingPanel.remove();
-            const panel = document.createElement('div');
-            panel.className = 'floating-controls';
-            panel.innerHTML = `
-                <div class="controls-inner">
-                    <input type="text" id="floatingSearchInput" placeholder="🔍 Поиск по названию или URL..." autocomplete="off">
-                    <button id="floatingSelectAll">✅ Выделить всё</button>
-                    <button id="floatingDeselectAll">❌ Снять всё</button>
-                    <button id="floatingSaveSelected" class="save-selected-btn">💾 Сохранить выбранное</button>
-                    <button id="floatingScrollTop" class="scroll-top-btn">⬆ Вверх</button>
-                    <span id="floatingSelectedCount" class="selected-badge">Выбрано: 0</span>
-                </div>
-            `;
-            const wrapper = document.querySelector('.channel-list-wrapper');
-            wrapper.parentNode.insertBefore(panel, wrapper);
-            this.floatingPanel = panel;
+        renderChannelsList() {
+            let container = document.getElementById('preview');
+            container.style.display = 'block';
+            container.innerHTML = `<div style="background:#f8f9ff; border-radius:16px; padding:12px;"><h3 style="margin-bottom:10px;">📺 Выберите каналы</h3><div id="channelsList" class="channels-wrapper"></div></div>`;
+            this.channelsContainer = document.getElementById('channelsList');
+            this.updateChannelsView();
             
-            const searchInput = document.getElementById('floatingSearchInput');
+            // поиск
+            const searchInput = document.getElementById('searchInput');
             if (searchInput) {
-                searchInput.addEventListener('input', (e) => {
-                    this.currentSearchText = e.target.value;
-                    this.renderChannelList();
-                });
+                searchInput.oninput = (e) => {
+                    this.searchText = e.target.value.toLowerCase();
+                    this.updateChannelsView();
+                };
             }
-            document.getElementById('floatingSelectAll')?.addEventListener('click', () => {
-                this.uniqueChannels.forEach(ch => this.selectedChannelIds.add(ch.id));
-                this.renderChannelList();
-                this.updateSelectedCountDisplay();
-            });
-            document.getElementById('floatingDeselectAll')?.addEventListener('click', () => {
-                this.selectedChannelIds.clear();
-                this.renderChannelList();
-                this.updateSelectedCountDisplay();
-            });
-            document.getElementById('floatingSaveSelected')?.addEventListener('click', () => this.exportSelected());
-            document.getElementById('floatingScrollTop')?.addEventListener('click', () => {
-                if (this.channelsScrollContainer) {
-                    this.channelsScrollContainer.scrollTo({ top: 0, behavior: 'smooth' });
-                }
-            });
+            // кнопки панели
+            document.getElementById('selectAllBtn').onclick = () => {
+                this.uniqueChannels.forEach(ch => this.selectedIds.add(ch.id));
+                this.updateChannelsView();
+                this.updateSelectedCount();
+            };
+            document.getElementById('deselectAllBtn').onclick = () => {
+                this.selectedIds.clear();
+                this.updateChannelsView();
+                this.updateSelectedCount();
+            };
+            document.getElementById('saveSelectedBtn').onclick = () => this.exportSelected();
+            document.getElementById('scrollTopBtn').onclick = () => {
+                if (this.channelsContainer) this.channelsContainer.scrollTo({ top: 0, behavior: 'smooth' });
+            };
+            this.updateSelectedCount();
         }
         
-        initStickyPanel() {
-            if (!this.floatingPanel) return;
-            const panel = this.floatingPanel;
-            const observer = new IntersectionObserver((entries) => {
-                entries.forEach(entry => {
-                    if (!entry.isIntersecting) {
-                        panel.classList.add('sticky');
-                    } else {
-                        panel.classList.remove('sticky');
-                    }
-                });
-            }, { threshold: 0, rootMargin: '0px 0px -50px 0px' });
-            
-            const anchor = document.createElement('div');
-            anchor.style.position = 'relative';
-            anchor.style.top = '-10px';
-            anchor.style.height = '1px';
-            anchor.style.visibility = 'hidden';
-            this.floatingPanel.parentNode.insertBefore(anchor, this.floatingPanel);
-            observer.observe(anchor);
-        }
-        
-        renderChannelList() {
-            if (!this.channelsScrollContainer) return;
-            
-            // Сохраняем текущую прокрутку (не сбрасываем)
-            const oldScrollTop = this.channelsScrollContainer.scrollTop;
-            
+        updateChannelsView() {
+            if (!this.channelsContainer) return;
+            // группировка
             const groups = {};
             for (const ch of this.uniqueChannels) {
                 const g = ch.group || 'Без группы';
@@ -696,128 +658,113 @@
                 groups[g].push(ch);
             }
             
-            this.channelsScrollContainer.innerHTML = '';
-            const searchLower = this.currentSearchText.toLowerCase();
-            
-            for (const [groupName, groupChannels] of Object.entries(groups)) {
-                const filtered = searchLower ? groupChannels.filter(ch => 
-                    ch.name.toLowerCase().includes(searchLower) || 
-                    ch.url.toLowerCase().includes(searchLower)
-                ) : [...groupChannels];
-                
+            this.channelsContainer.innerHTML = '';
+            for (const [groupName, channels] of Object.entries(groups)) {
+                const filtered = this.searchText ? channels.filter(ch => 
+                    ch.name.toLowerCase().includes(this.searchText) || 
+                    ch.url.toLowerCase().includes(this.searchText)
+                ) : [...channels];
                 if (filtered.length === 0) continue;
                 
-                const allSelected = filtered.every(ch => this.selectedChannelIds.has(ch.id));
-                const someSelected = filtered.some(ch => this.selectedChannelIds.has(ch.id));
+                const allSelected = filtered.every(ch => this.selectedIds.has(ch.id));
+                const someSelected = filtered.some(ch => this.selectedIds.has(ch.id));
                 
                 const groupDiv = document.createElement('div');
-                const groupHeader = document.createElement('div');
-                groupHeader.className = 'group-header';
-                if (allSelected) groupHeader.classList.add('fully-selected');
-                else if (someSelected) groupHeader.classList.add('partially-selected');
+                groupDiv.className = 'group-card';
                 
-                const cbGroup = document.createElement('input');
-                cbGroup.type = 'checkbox';
-                cbGroup.className = 'group-checkbox';
-                cbGroup.checked = allSelected;
-                cbGroup.indeterminate = !allSelected && someSelected;
+                const header = document.createElement('div');
+                header.className = 'group-header';
+                if (allSelected) header.classList.add('fully-selected');
+                else if (someSelected) header.classList.add('partially-selected');
                 
-                // ВАЖНО: обработчик клика по чекбоксу группы - выделяем ВСЕ каналы в группе
-                cbGroup.addEventListener('change', (e) => {
+                const groupCb = document.createElement('input');
+                groupCb.type = 'checkbox';
+                groupCb.className = 'group-checkbox';
+                groupCb.checked = allSelected;
+                groupCb.indeterminate = !allSelected && someSelected;
+                groupCb.onclick = (e) => {
                     e.stopPropagation();
-                    const isChecked = cbGroup.checked;
-                    // Проходим по всем каналам в этой группе (именно filtered)
+                    const isChecked = groupCb.checked;
                     filtered.forEach(ch => {
-                        if (isChecked) {
-                            this.selectedChannelIds.add(ch.id);
-                        } else {
-                            this.selectedChannelIds.delete(ch.id);
-                        }
+                        if (isChecked) this.selectedIds.add(ch.id);
+                        else this.selectedIds.delete(ch.id);
                     });
-                    // Перерисовываем список, чтобы обновились все чекбоксы каналов и индикация группы
-                    this.renderChannelList();
-                    this.updateSelectedCountDisplay();
-                });
+                    this.updateChannelsView();
+                    this.updateSelectedCount();
+                };
                 
                 const titleSpan = document.createElement('div');
                 titleSpan.className = 'group-title';
-                titleSpan.innerHTML = `<span>📁 ${this.escapeHtml(groupName)} <span style="font-size:0.8em;">(${filtered.length})</span></span><span>▼</span>`;
+                titleSpan.innerHTML = `<span>📁 ${this.escapeHtml(groupName)} (${filtered.length})</span><span>▼</span>`;
                 
-                groupHeader.appendChild(cbGroup);
-                groupHeader.appendChild(titleSpan);
+                header.appendChild(groupCb);
+                header.appendChild(titleSpan);
                 
-                const groupContent = document.createElement('div');
-                groupContent.className = 'group-content';
-                groupContent.style.display = 'block';
+                const content = document.createElement('div');
+                content.className = 'group-content';
+                content.style.display = 'block';
                 
-                filtered.forEach(channel => {
-                    const chDiv = document.createElement('div');
-                    chDiv.className = 'channel-item';
+                filtered.forEach(ch => {
+                    const row = document.createElement('div');
+                    row.className = 'channel-row';
                     const cb = document.createElement('input');
                     cb.type = 'checkbox';
                     cb.className = 'channel-checkbox';
-                    cb.checked = this.selectedChannelIds.has(channel.id);
-                    cb.addEventListener('change', (e) => {
+                    cb.checked = this.selectedIds.has(ch.id);
+                    cb.onclick = (e) => {
                         e.stopPropagation();
-                        if (cb.checked) {
-                            this.selectedChannelIds.add(channel.id);
-                        } else {
-                            this.selectedChannelIds.delete(channel.id);
-                        }
-                        // Перерисовываем для обновления индикации группы (fully/partially)
-                        this.renderChannelList();
-                        this.updateSelectedCountDisplay();
-                    });
-                    const infoDiv = document.createElement('div');
-                    infoDiv.className = 'channel-info';
-                    infoDiv.innerHTML = `
+                        if (cb.checked) this.selectedIds.add(ch.id);
+                        else this.selectedIds.delete(ch.id);
+                        this.updateChannelsView();
+                        this.updateSelectedCount();
+                    };
+                    
+                    const info = document.createElement('div');
+                    info.className = 'channel-info';
+                    info.innerHTML = `
                         <div class="channel-name">
-                            📺 ${this.escapeHtml(channel.name)}
-                            ${channel.duplicateCount > 1 ? `<span style="background:#ff4757; color:white; padding:2px 8px; border-radius:12px; font-size:0.7em; margin-left:8px;">🔁 ${channel.duplicateCount}</span>` : ''}
-                            <span style="background:#00b894; color:white; padding:2px 8px; border-radius:12px; font-size:0.7em; margin-left:8px;">📄 ${this.escapeHtml(channel.fileName)}</span>
+                            📺 ${this.escapeHtml(ch.name)}
+                            ${ch.duplicateCount > 1 ? `<span class="badge">🔁 ${ch.duplicateCount}</span>` : ''}
+                            <span class="badge badge-green">📄 ${this.escapeHtml(ch.fileName)}</span>
                         </div>
-                        <div class="channel-url">🔗 ${this.escapeHtml(channel.url)}</div>
+                        <div class="channel-url">🔗 ${this.escapeHtml(ch.url)}</div>
                     `;
-                    chDiv.appendChild(cb);
-                    chDiv.appendChild(infoDiv);
-                    chDiv.onclick = (e) => { 
+                    
+                    row.appendChild(cb);
+                    row.appendChild(info);
+                    row.onclick = (e) => {
                         if (e.target.type !== 'checkbox') {
                             cb.checked = !cb.checked;
-                            const ev = new Event('change');
+                            const ev = new Event('click');
                             cb.dispatchEvent(ev);
                         }
                     };
-                    groupContent.appendChild(chDiv);
+                    content.appendChild(row);
                 });
                 
                 let collapsed = false;
                 titleSpan.onclick = (e) => {
                     if (e.target.type === 'checkbox') return;
                     collapsed = !collapsed;
-                    groupContent.style.display = collapsed ? 'none' : 'block';
-                    const arrowSpan = titleSpan.querySelector('span:last-child');
-                    if (arrowSpan) arrowSpan.textContent = collapsed ? '▶' : '▼';
+                    content.style.display = collapsed ? 'none' : 'block';
+                    const arrow = titleSpan.querySelector('span:last-child');
+                    if (arrow) arrow.textContent = collapsed ? '▶' : '▼';
                 };
                 
-                groupDiv.appendChild(groupHeader);
-                groupDiv.appendChild(groupContent);
-                this.channelsScrollContainer.appendChild(groupDiv);
+                groupDiv.appendChild(header);
+                groupDiv.appendChild(content);
+                this.channelsContainer.appendChild(groupDiv);
             }
-            // Восстанавливаем прокрутку, чтобы интерфейс не прыгал
-            if (oldScrollTop && this.channelsScrollContainer) {
-                this.channelsScrollContainer.scrollTop = oldScrollTop;
-            }
-            this.updateSelectedCountDisplay();
         }
         
-        updateSelectedCountDisplay() {
-            const countSpan = document.getElementById('floatingSelectedCount');
-            if (countSpan) countSpan.textContent = `Выбрано: ${this.selectedChannelIds.size}`;
+        updateSelectedCount() {
+            const span = document.getElementById('selectedCountSpan');
+            if (span) span.innerText = `${this.selectedIds.size}`;
         }
         
         exportSelected() {
-            if (this.selectedChannelIds.size === 0) { this.showMessage('❌ Не выбрано ни одного канала', 'error'); return; }
-            const selected = this.uniqueChannels.filter(ch => this.selectedChannelIds.has(ch.id));
+            if (this.selectedIds.size === 0) { this.showMessage('Ничего не выбрано', 'error'); return; }
+            const selected = this.uniqueChannels.filter(ch => this.selectedIds.has(ch.id));
             let m3u = '#EXTM3U\n';
             for (const ch of selected) {
                 let extinf = `#EXTINF:-1`;
@@ -827,18 +774,12 @@
                 extinf += `,${this.escapeM3U(ch.name)}\n`;
                 m3u += extinf + `${ch.url}\n`;
             }
-            const blob = new Blob([m3u], { type: 'application/vnd.apple.mpegurl' });
-            const url = URL.createObjectURL(blob);
-            const a = document.createElement('a');
-            a.href = url;
-            a.download = `selected_${Date.now()}.m3u`;
-            a.click();
-            URL.revokeObjectURL(url);
+            this.download(m3u, `selected_${Date.now()}.m3u`);
             this.showMessage(`✅ Сохранено ${selected.length} каналов`, 'success');
         }
         
         exportAll() {
-            if (!this.uniqueChannels.length) { this.showMessage('❌ Нет данных', 'error'); return; }
+            if (!this.uniqueChannels.length) { this.showMessage('Нет данных', 'error'); return; }
             let m3u = '#EXTM3U\n';
             for (const ch of this.uniqueChannels) {
                 let extinf = `#EXTINF:-1`;
@@ -848,87 +789,72 @@
                 extinf += `,${this.escapeM3U(ch.name)}\n`;
                 m3u += extinf + `${ch.url}\n`;
             }
-            const blob = new Blob([m3u], { type: 'application/vnd.apple.mpegurl' });
-            const url = URL.createObjectURL(blob);
-            const a = document.createElement('a');
-            a.href = url;
-            a.download = `all_merged_${Date.now()}.m3u`;
-            a.click();
-            URL.revokeObjectURL(url);
+            this.download(m3u, `all_merged_${Date.now()}.m3u`);
             this.showMessage(`✅ Экспортировано ${this.uniqueChannels.length} каналов`, 'success');
         }
         
-        showDuplicatesModal() {
-            if (!this.duplicateGroups.length) { this.showMessage('❌ Дубликатов нет', 'error'); return; }
-            const modal = document.getElementById('duplicatesModal');
-            const container = document.getElementById('duplicatesList');
-            container.innerHTML = '';
-            for (const grp of this.duplicateGroups) {
-                const div = document.createElement('div');
-                div.className = 'duplicate-group';
-                const header = document.createElement('div');
-                header.className = 'duplicate-header';
-                header.innerHTML = `<span>🔁 ${grp.count} дубликатов</span><span>📎 ${this.escapeHtml(grp.url.substring(0, 70))}</span><span>▼</span>`;
-                const content = document.createElement('div');
-                content.className = 'duplicate-channels';
-                let expanded = true;
-                header.onclick = () => {
-                    expanded = !expanded;
-                    content.style.display = expanded ? 'block' : 'none';
-                    header.innerHTML = `<span>🔁 ${grp.count} дубликатов</span><span>📎 ${this.escapeHtml(grp.url.substring(0, 70))}</span><span>${expanded ? '▼' : '▶'}</span>`;
-                };
-                grp.channels.forEach((ch, idx) => {
-                    const chDiv = document.createElement('div');
-                    chDiv.className = 'duplicate-channel';
-                    chDiv.innerHTML = `<div><strong>📺 ${this.escapeHtml(ch.name)}</strong><br><small>📄 ${this.escapeHtml(ch.fileName)}</small></div><div>${idx === 0 ? '<span class="keep-badge">✅ ОСТАВЛЕН</span>' : '<span class="remove-badge">❌ БУДЕТ УДАЛЁН</span>'}</div>`;
-                    content.appendChild(chDiv);
-                });
-                div.appendChild(header);
-                div.appendChild(content);
-                container.appendChild(div);
-            }
-            modal.style.display = 'block';
-            window.onclick = (e) => { if (e.target === modal) modal.style.display = 'none'; };
+        download(content, filename) {
+            const blob = new Blob([content], { type: 'application/vnd.apple.mpegurl' });
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = filename;
+            a.click();
+            URL.revokeObjectURL(url);
         }
         
-        showDebugInfo() {
-            const debug = document.getElementById('debugInfo');
-            debug.style.display = 'block';
-            debug.innerHTML = `<strong>📊 Уникальных каналов: ${this.uniqueChannels.length}</strong><br>Групп дубликатов: ${this.duplicateGroups.length}`;
+        showDuplicates() {
+            if (!this.duplicateGroups.length) { this.showMessage('Дубликатов нет', 'error'); return; }
+            const modal = document.getElementById('duplicatesModal');
+            const listDiv = document.getElementById('duplicatesList');
+            listDiv.innerHTML = '';
+            for (const grp of this.duplicateGroups) {
+                const div = document.createElement('div');
+                div.className = 'duplicate-item';
+                div.innerHTML = `<strong>🔁 ${grp.count} дубликатов</strong><br><small>${this.escapeHtml(grp.url.substring(0, 80))}</small>`;
+                for (let i = 0; i < grp.channels.length; i++) {
+                    const ch = grp.channels[i];
+                    div.innerHTML += `<div style="margin-top:8px; padding-left:8px; border-left:3px solid ${i===0?'#00b894':'#ff4757'}">📺 ${this.escapeHtml(ch.name)} <small>(${ch.fileName})</small> ${i===0?'✅ оставлен':'❌ удалён'}</div>`;
+                }
+                listDiv.appendChild(div);
+            }
+            modal.style.display = 'block';
         }
         
         showStats() {
             const statsDiv = document.getElementById('stats');
             statsDiv.style.display = 'block';
-            const duplicateCount = this.duplicateGroups.reduce((a,g)=>a+g.count-1,0);
-            statsDiv.innerHTML = `<div class="stats"><div class="stat-card"><div class="stat-number">${this.files.length}</div><div class="stat-label">📁 Файлов</div></div><div class="stat-card"><div class="stat-number">${this.uniqueChannels.length}</div><div class="stat-label">✨ Уникальных</div></div><div class="stat-card" id="duplicatesCardStat" style="cursor:pointer;"><div class="stat-number" style="color:#ff4757;">${duplicateCount}</div><div class="stat-label">🔁 Дублей удалено</div></div></div>`;
-            document.getElementById('duplicatesCardStat')?.addEventListener('click', () => this.showDuplicatesModal());
+            const dupCount = this.duplicateGroups.reduce((a,g)=>a+g.count-1,0);
+            statsDiv.innerHTML = `<div class="stats"><div class="stat-card"><div class="stat-number">${this.files.length}</div><div class="stat-label">Файлов</div></div><div class="stat-card"><div class="stat-number">${this.uniqueChannels.length}</div><div class="stat-label">Уникальных</div></div><div class="stat-card" id="dupStatCard"><div class="stat-number" style="color:#ff4757;">${dupCount}</div><div class="stat-label">Дублей удалено</div></div></div>`;
+            document.getElementById('dupStatCard')?.addEventListener('click', () => this.showDuplicates());
+            const debug = document.getElementById('debugInfo');
+            debug.style.display = 'block';
+            debug.innerHTML = `📊 Групп дубликатов: ${this.duplicateGroups.length}`;
         }
         
-        updateFileList() {
-            const fileListDiv = document.getElementById('fileList');
-            if (!this.files.length) { fileListDiv.style.display = 'none'; return; }
-            fileListDiv.style.display = 'block';
-            fileListDiv.innerHTML = '<h3>📄 Файлы:</h3><div id="fileListContainer"></div>';
-            const cont = document.getElementById('fileListContainer');
-            cont.innerHTML = '';
-            this.files.forEach((f, i) => {
-                const item = document.createElement('div');
-                item.className = 'file-item';
-                item.innerHTML = `<div><strong>${this.escapeHtml(f.name)}</strong><br>${(f.size/1024).toFixed(1)} KB</div><button class="remove-file" data-index="${i}">🗑 Удалить</button>`;
-                cont.appendChild(item);
+        renderFileList() {
+            const container = document.getElementById('fileList');
+            if (!this.files.length) { container.style.display = 'none'; return; }
+            container.style.display = 'block';
+            container.innerHTML = '<h3 style="margin-bottom:8px;">📄 Файлы:</h3>';
+            this.files.forEach((f, idx) => {
+                const div = document.createElement('div');
+                div.className = 'file-item';
+                div.innerHTML = `<span><strong>${this.escapeHtml(f.name)}</strong> (${(f.size/1024).toFixed(1)} KB)</span><button class="remove-file" data-idx="${idx}">Удалить</button>`;
+                container.appendChild(div);
             });
             document.querySelectorAll('.remove-file').forEach(btn => {
                 btn.addEventListener('click', (e) => {
-                    const idx = parseInt(btn.dataset.index);
+                    const idx = parseInt(btn.dataset.idx);
                     this.files.splice(idx, 1);
-                    this.updateFileList();
+                    this.renderFileList();
                     if (!this.files.length) {
                         document.getElementById('preview').style.display = 'none';
                         document.getElementById('stats').style.display = 'none';
                         document.getElementById('debugInfo').style.display = 'none';
+                        document.getElementById('fixedPanel').style.display = 'none';
                         this.uniqueChannels = [];
-                        this.selectedChannelIds.clear();
+                        this.selectedIds.clear();
                     }
                     this.updateButtons();
                 });
@@ -950,28 +876,33 @@
             this.files = [];
             this.uniqueChannels = [];
             this.duplicateGroups = [];
-            this.selectedChannelIds.clear();
-            this.updateFileList();
+            this.selectedIds.clear();
+            this.renderFileList();
             this.updateButtons();
             document.getElementById('preview').style.display = 'none';
             document.getElementById('stats').style.display = 'none';
             document.getElementById('debugInfo').style.display = 'none';
-            this.showMessage('🧹 Всё очищено', 'success');
+            document.getElementById('fixedPanel').style.display = 'none';
+            this.showMessage('Очищено', 'success');
         }
         
         showMessage(msg, type) {
             const div = document.createElement('div');
             div.className = type;
-            div.textContent = msg;
+            div.innerText = msg;
             document.body.appendChild(div);
-            setTimeout(() => div.remove(), 3000);
+            setTimeout(() => div.remove(), 2500);
         }
         
-        escapeHtml(s) { if (!s) return ''; const d = document.createElement('div'); d.textContent = s; return d.innerHTML; }
+        escapeHtml(s) { if (!s) return ''; return s.replace(/[&<>]/g, function(m) { if (m === '&') return '&amp;'; if (m === '<') return '&lt;'; if (m === '>') return '&gt;'; return m; }); }
         escapeM3U(s) { if (!s) return ''; return s.replace(/[#,\\]/g, '\\$&'); }
     }
     
-    const app = new M3UMerger();
+    function closeModal() {
+        document.getElementById('duplicatesModal').style.display = 'none';
+    }
+    
+    window.app = new M3UMerger();
 </script>
 </body>
 </html>
