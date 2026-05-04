@@ -16,44 +16,44 @@
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
             background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
             min-height: 100vh;
-            padding: 12px;
+            padding: 10px;
         }
 
         .container {
-            max-width: 1200px;
+            max-width: 1000px;
             margin: 0 auto;
             background: white;
             border-radius: 24px;
             box-shadow: 0 10px 40px rgba(0,0,0,0.2);
             overflow: hidden;
-            padding-bottom: 90px;
         }
 
         .header {
             background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
             color: white;
-            padding: 20px 16px;
+            padding: 18px 16px;
             text-align: center;
         }
 
         .header h1 {
-            font-size: 1.6rem;
-            margin-bottom: 6px;
+            font-size: 1.5rem;
+            margin-bottom: 4px;
         }
 
         .header p {
-            font-size: 0.85rem;
+            font-size: 0.8rem;
             opacity: 0.9;
         }
 
         .content {
             padding: 16px;
+            padding-bottom: 20px;
         }
 
         .upload-area {
             border: 2px dashed #667eea;
             border-radius: 16px;
-            padding: 30px 16px;
+            padding: 25px 16px;
             text-align: center;
             background: #f8f9ff;
             cursor: pointer;
@@ -66,8 +66,8 @@
         }
 
         .upload-icon {
-            font-size: 40px;
-            margin-bottom: 8px;
+            font-size: 36px;
+            margin-bottom: 6px;
         }
 
         .file-list {
@@ -79,28 +79,30 @@
 
         .file-item {
             background: white;
-            padding: 10px 12px;
-            margin: 8px 0;
+            padding: 8px 12px;
+            margin: 6px 0;
             border-radius: 12px;
             display: flex;
             justify-content: space-between;
             align-items: center;
-            font-size: 0.9rem;
+            font-size: 0.85rem;
+            flex-wrap: wrap;
+            gap: 8px;
         }
 
         .remove-file {
             background: #ff4757;
             color: white;
             border: none;
-            padding: 6px 14px;
+            padding: 5px 12px;
             border-radius: 20px;
-            font-size: 0.8rem;
+            font-size: 0.75rem;
             cursor: pointer;
         }
 
         .controls {
             display: flex;
-            gap: 10px;
+            gap: 8px;
             margin-bottom: 20px;
             flex-wrap: wrap;
         }
@@ -109,9 +111,9 @@
             background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
             color: white;
             border: none;
-            padding: 10px 18px;
+            padding: 8px 16px;
             border-radius: 40px;
-            font-size: 0.85rem;
+            font-size: 0.8rem;
             font-weight: 600;
             cursor: pointer;
             transition: 0.2s;
@@ -128,108 +130,121 @@
 
         .stats {
             background: #f0f2ff;
-            padding: 16px;
+            padding: 12px;
             border-radius: 16px;
             margin-bottom: 16px;
             display: flex;
             justify-content: space-around;
             flex-wrap: wrap;
-            gap: 12px;
+            gap: 10px;
         }
 
         .stat-card {
             text-align: center;
             flex: 1;
             background: white;
-            padding: 10px;
+            padding: 8px;
             border-radius: 12px;
             cursor: pointer;
         }
 
         .stat-number {
-            font-size: 1.8rem;
+            font-size: 1.5rem;
             font-weight: bold;
             color: #667eea;
         }
 
         .stat-label {
-            font-size: 0.75rem;
+            font-size: 0.7rem;
             color: #666;
         }
 
         .debug-info {
             background: #2d3436;
             color: #dfe6e9;
-            padding: 12px;
+            padding: 10px;
             border-radius: 12px;
-            font-size: 0.75rem;
+            font-size: 0.7rem;
             margin-bottom: 16px;
         }
 
-        /* ФИКСИРОВАННАЯ ПАНЕЛЬ */
-        .mobile-fixed-panel {
-            position: fixed;
-            bottom: 0;
-            left: 0;
-            right: 0;
-            background: rgba(255,255,255,0.98);
-            backdrop-filter: blur(12px);
-            box-shadow: 0 -4px 20px rgba(0,0,0,0.15);
-            padding: 12px 16px;
-            display: flex;
-            flex-wrap: wrap;
-            gap: 8px;
-            justify-content: center;
-            z-index: 1000;
-            border-top: 1px solid rgba(102,126,234,0.3);
+        /* МОБИЛЬНАЯ ПАНЕЛЬ - упрощённая и всегда видимая */
+        .action-panel {
+            background: white;
+            border-radius: 20px;
+            margin-bottom: 16px;
+            padding: 12px;
+            box-shadow: 0 2px 12px rgba(0,0,0,0.1);
+            border: 1px solid #eef2ff;
         }
 
-        .mobile-fixed-panel input {
-            flex: 2;
-            min-width: 140px;
+        .search-row {
+            display: flex;
+            gap: 8px;
+            margin-bottom: 12px;
+            flex-wrap: wrap;
+        }
+
+        .search-row input {
+            flex: 1;
             padding: 10px 14px;
             border: 1px solid #ddd;
             border-radius: 40px;
             font-size: 0.9rem;
             outline: none;
+            background: #fff;
         }
 
-        .mobile-fixed-panel button {
-            padding: 8px 16px;
-            font-size: 0.8rem;
+        .search-row input:focus {
+            border-color: #667eea;
+        }
+
+        .buttons-row {
+            display: flex;
+            gap: 8px;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+
+        .buttons-row button {
+            flex: 1;
+            min-width: 100px;
+            padding: 8px 12px;
+            font-size: 0.75rem;
             white-space: nowrap;
         }
 
-        .mobile-fixed-panel .save-btn {
+        .btn-save {
             background: linear-gradient(135deg, #27ae60, #2ecc71);
         }
 
-        .mobile-fixed-panel .save-found-btn {
+        .btn-save-found {
             background: linear-gradient(135deg, #ff9800, #f57c00);
         }
 
-        .mobile-fixed-panel .scroll-btn {
+        .btn-scroll {
             background: linear-gradient(135deg, #2196f3, #1976d2);
         }
 
-        .selected-count-badge {
-            background: #667eea;
-            color: white;
-            padding: 6px 12px;
-            border-radius: 40px;
-            font-size: 0.8rem;
-            font-weight: bold;
-            white-space: nowrap;
+        .counters {
+            display: flex;
+            gap: 10px;
+            justify-content: center;
+            margin-top: 10px;
         }
 
-        .found-count-badge {
-            background: #ff9800;
-            color: white;
-            padding: 6px 12px;
-            border-radius: 40px;
-            font-size: 0.8rem;
+        .counter {
+            background: #f0f2ff;
+            padding: 5px 12px;
+            border-radius: 30px;
+            font-size: 0.75rem;
+            font-weight: 600;
+            color: #333;
+        }
+
+        .counter span {
+            color: #667eea;
             font-weight: bold;
-            white-space: nowrap;
         }
 
         /* Стили для списка каналов */
@@ -239,24 +254,15 @@
             border-radius: 16px;
             background: #fff;
             margin-top: 8px;
+            border: 1px solid #eef2ff;
         }
 
         .channels-wrapper::-webkit-scrollbar {
-            width: 6px;
-        }
-
-        .channels-wrapper::-webkit-scrollbar-track {
-            background: #f1f1f1;
-            border-radius: 10px;
-        }
-
-        .channels-wrapper::-webkit-scrollbar-thumb {
-            background: #667eea;
-            border-radius: 10px;
+            width: 4px;
         }
 
         .group-card {
-            margin-bottom: 12px;
+            margin-bottom: 8px;
             border-radius: 12px;
             overflow: hidden;
             background: #fafbff;
@@ -265,12 +271,11 @@
 
         .group-header {
             background: #f0f2ff;
-            padding: 12px 16px;
+            padding: 10px 12px;
             display: flex;
             align-items: center;
-            gap: 12px;
+            gap: 10px;
             cursor: pointer;
-            transition: background 0.2s;
         }
 
         .group-header:active {
@@ -278,8 +283,8 @@
         }
 
         .group-checkbox {
-            width: 22px;
-            height: 22px;
+            width: 20px;
+            height: 20px;
             cursor: pointer;
             flex-shrink: 0;
         }
@@ -290,28 +295,27 @@
             display: flex;
             justify-content: space-between;
             align-items: center;
-            font-size: 0.95rem;
+            font-size: 0.85rem;
         }
 
         .group-header.fully-selected {
             background: #e8f5e9;
-            border-left: 4px solid #4caf50;
+            border-left: 3px solid #4caf50;
         }
 
         .group-header.partially-selected {
             background: #fff3e0;
-            border-left: 4px solid #ff9800;
+            border-left: 3px solid #ff9800;
         }
 
         .channel-row {
-            padding: 10px 16px;
-            margin-left: 38px;
+            padding: 8px 12px;
+            margin-left: 34px;
             border-bottom: 1px solid #eee;
             display: flex;
             align-items: center;
-            gap: 12px;
+            gap: 10px;
             cursor: pointer;
-            transition: background 0.1s;
         }
 
         .channel-row:active {
@@ -319,8 +323,8 @@
         }
 
         .channel-checkbox {
-            width: 20px;
-            height: 20px;
+            width: 18px;
+            height: 18px;
             cursor: pointer;
             flex-shrink: 0;
         }
@@ -331,34 +335,30 @@
 
         .channel-name {
             font-weight: 600;
-            font-size: 0.9rem;
+            font-size: 0.85rem;
             word-break: break-word;
         }
 
         .channel-url {
-            font-size: 0.7rem;
+            font-size: 0.65rem;
             color: #666;
             word-break: break-all;
             font-family: monospace;
-            margin-top: 4px;
+            margin-top: 3px;
         }
 
         .badge {
             display: inline-block;
             background: #ff4757;
             color: white;
-            padding: 2px 8px;
+            padding: 2px 6px;
             border-radius: 20px;
-            font-size: 0.65rem;
-            margin-left: 8px;
+            font-size: 0.6rem;
+            margin-left: 6px;
         }
 
         .badge-green {
             background: #00b894;
-        }
-
-        .badge-found {
-            background: #ff9800;
         }
 
         /* Модальное окно */
@@ -375,12 +375,12 @@
 
         .modal-content {
             background-color: white;
-            margin: 10% auto;
+            margin: 15% auto;
             padding: 0;
             width: 90%;
-            max-width: 600px;
+            max-width: 500px;
             border-radius: 20px;
-            max-height: 80vh;
+            max-height: 70vh;
             display: flex;
             flex-direction: column;
         }
@@ -388,7 +388,7 @@
         .modal-header {
             background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
             color: white;
-            padding: 16px;
+            padding: 14px;
             border-radius: 20px 20px 0 0;
             display: flex;
             justify-content: space-between;
@@ -399,61 +399,57 @@
             background: none;
             border: none;
             color: white;
-            font-size: 28px;
+            font-size: 26px;
             cursor: pointer;
         }
 
         .modal-body {
-            padding: 16px;
+            padding: 14px;
             overflow-y: auto;
         }
 
         .duplicate-item {
             background: #f8f9ff;
-            border-radius: 12px;
-            margin-bottom: 12px;
-            padding: 12px;
+            border-radius: 10px;
+            margin-bottom: 10px;
+            padding: 10px;
+            font-size: 0.8rem;
         }
 
-        .success, .error {
+        .toast {
             position: fixed;
-            top: 20px;
+            bottom: 80px;
             left: 50%;
             transform: translateX(-50%);
             background: #00b894;
             color: white;
-            padding: 10px 20px;
+            padding: 8px 20px;
             border-radius: 40px;
             z-index: 3000;
-            font-size: 0.85rem;
+            font-size: 0.8rem;
             white-space: nowrap;
             box-shadow: 0 4px 12px rgba(0,0,0,0.2);
         }
 
-        .error {
+        .toast.error {
             background: #ff4757;
         }
 
-        /* Планшет / ПК */
+        /* ПК стили */
         @media (min-width: 768px) {
             body {
                 padding: 20px;
             }
-            .container {
-                padding-bottom: 0;
-            }
-            .mobile-fixed-panel {
-                position: sticky;
-                bottom: auto;
-                top: 0;
-                background: white;
-                margin-bottom: 16px;
-                border-radius: 60px;
-                box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-                border: 1px solid #eef2ff;
-            }
             .channels-wrapper {
-                max-height: 65vh;
+                max-height: 60vh;
+            }
+            .action-panel {
+                position: sticky;
+                top: 10px;
+                z-index: 100;
+            }
+            .buttons-row button {
+                font-size: 0.85rem;
             }
         }
     </style>
@@ -474,7 +470,7 @@
 
         <div id="fileList" style="display: none;"></div>
 
-        <div class="controls" id="mainControls">
+        <div class="controls">
             <button id="mergeBtn" disabled>🔍 Объединить</button>
             <button id="viewDuplicatesBtn" disabled>👁️ Дубликаты</button>
             <button id="clearBtn" disabled>🗑 Очистить</button>
@@ -483,20 +479,27 @@
 
         <div id="debugInfo" class="debug-info" style="display: none;"></div>
         <div id="stats" style="display: none;"></div>
+        
+        <!-- Панель поиска и кнопок - всегда видна -->
+        <div id="actionPanel" class="action-panel" style="display: none;">
+            <div class="search-row">
+                <input type="text" id="searchInput" placeholder="🔍 Введите название канала..." autocomplete="off">
+            </div>
+            <div class="buttons-row">
+                <button id="selectAllBtn">✅ Выделить всё</button>
+                <button id="deselectAllBtn">❌ Снять всё</button>
+                <button id="saveSelectedBtn" class="btn-save">💾 Сохранить выбранное</button>
+                <button id="saveFoundBtn" class="btn-save-found">⭐ Сохранить найденное</button>
+                <button id="scrollTopBtn" class="btn-scroll">⬆ Вверх</button>
+            </div>
+            <div class="counters">
+                <div class="counter">✅ Выбрано: <span id="selectedCount">0</span></div>
+                <div class="counter" id="foundCounter" style="display: none;">🔍 Найдено: <span id="foundCount">0</span></div>
+            </div>
+        </div>
+        
         <div id="preview" style="display: none;"></div>
     </div>
-</div>
-
-<!-- ФИКСИРОВАННАЯ ПАНЕЛЬ -->
-<div id="fixedPanel" class="mobile-fixed-panel" style="display: none;">
-    <input type="text" id="searchInput" placeholder="🔍 Поиск каналов...">
-    <button id="selectAllBtn">✅ Всё</button>
-    <button id="deselectAllBtn">❌ Снять</button>
-    <button id="saveSelectedBtn" class="save-btn">💾 Сохранить выбранное</button>
-    <button id="saveFoundBtn" class="save-found-btn">🔍 Сохранить найденное</button>
-    <button id="scrollTopBtn" class="scroll-btn">⬆ Вверх</button>
-    <span id="selectedCountSpan" class="selected-count-badge">0</span>
-    <span id="foundCountSpan" class="found-count-badge" style="display: none;">Найдено: 0</span>
 </div>
 
 <div id="duplicatesModal" class="modal">
@@ -517,7 +520,7 @@
             this.duplicateGroups = [];
             this.selectedIds = new Set();
             this.searchText = '';
-            this.currentFoundChannels = []; // массив каналов, найденных в текущем поиске
+            this.currentFoundChannels = [];
             this.channelsContainer = null;
             this.init();
         }
@@ -628,7 +631,9 @@
             this.showStats();
             this.renderChannelsList();
             this.updateButtons(true);
-            document.getElementById('fixedPanel').style.display = 'flex';
+            
+            // Показываем панель
+            document.getElementById('actionPanel').style.display = 'block';
             
             // Очищаем поиск
             const searchInput = document.getElementById('searchInput');
@@ -637,13 +642,12 @@
         }
         
         renderChannelsList() {
-            let container = document.getElementById('preview');
-            container.style.display = 'block';
-            container.innerHTML = `<div style="background:#f8f9ff; border-radius:16px; padding:12px;"><h3 style="margin-bottom:10px;">📺 Выберите каналы</h3><div id="channelsList" class="channels-wrapper"></div></div>`;
+            const previewDiv = document.getElementById('preview');
+            previewDiv.style.display = 'block';
+            previewDiv.innerHTML = `<div id="channelsList" class="channels-wrapper"></div>`;
             this.channelsContainer = document.getElementById('channelsList');
-            this.updateChannelsView();
             
-            // поиск
+            // Настройка поиска
             const searchInput = document.getElementById('searchInput');
             if (searchInput) {
                 searchInput.oninput = (e) => {
@@ -652,29 +656,31 @@
                 };
             }
             
-            // кнопки панели
+            // Кнопки
             document.getElementById('selectAllBtn').onclick = () => {
                 this.uniqueChannels.forEach(ch => this.selectedIds.add(ch.id));
                 this.updateChannelsView();
-                this.updateSelectedCount();
+                this.updateCounters();
             };
             document.getElementById('deselectAllBtn').onclick = () => {
                 this.selectedIds.clear();
                 this.updateChannelsView();
-                this.updateSelectedCount();
+                this.updateCounters();
             };
             document.getElementById('saveSelectedBtn').onclick = () => this.exportSelected();
             document.getElementById('saveFoundBtn').onclick = () => this.exportFound();
             document.getElementById('scrollTopBtn').onclick = () => {
                 if (this.channelsContainer) this.channelsContainer.scrollTo({ top: 0, behavior: 'smooth' });
             };
-            this.updateSelectedCount();
+            
+            this.updateChannelsView();
+            this.updateCounters();
         }
         
         updateChannelsView() {
             if (!this.channelsContainer) return;
             
-            // группировка
+            // Группировка
             const groups = {};
             for (const ch of this.uniqueChannels) {
                 const g = ch.group || 'Без группы';
@@ -682,42 +688,35 @@
                 groups[g].push(ch);
             }
             
-            // Определяем найденные каналы
+            // Находим каналы по поиску
             let foundChannels = [];
             if (this.searchText.trim() !== '') {
                 foundChannels = this.uniqueChannels.filter(ch => 
                     ch.name.toLowerCase().includes(this.searchText) || 
                     ch.url.toLowerCase().includes(this.searchText)
                 );
-                // АВТОМАТИЧЕСКИ выделяем найденные каналы
+                // АВТОМАТИЧЕСКИ выделяем найденные (очищаем старые и выделяем новые)
                 this.selectedIds.clear();
                 foundChannels.forEach(ch => this.selectedIds.add(ch.id));
             }
             this.currentFoundChannels = foundChannels;
             
             // Обновляем счётчики
-            this.updateSelectedCount();
-            const foundSpan = document.getElementById('foundCountSpan');
-            if (foundSpan) {
-                if (this.searchText.trim() !== '' && foundChannels.length > 0) {
-                    foundSpan.style.display = 'inline-flex';
-                    foundSpan.textContent = `🔍 Найдено: ${foundChannels.length}`;
-                } else {
-                    foundSpan.style.display = 'none';
-                }
-            }
+            this.updateCounters();
             
             this.channelsContainer.innerHTML = '';
+            
             for (const [groupName, channels] of Object.entries(groups)) {
-                const filtered = this.searchText ? channels.filter(ch => 
+                // Фильтруем по поиску для отображения
+                const visibleChannels = this.searchText ? channels.filter(ch => 
                     ch.name.toLowerCase().includes(this.searchText) || 
                     ch.url.toLowerCase().includes(this.searchText)
                 ) : [...channels];
                 
-                if (filtered.length === 0) continue;
+                if (visibleChannels.length === 0) continue;
                 
-                const allSelected = filtered.every(ch => this.selectedIds.has(ch.id));
-                const someSelected = filtered.some(ch => this.selectedIds.has(ch.id));
+                const allSelected = visibleChannels.every(ch => this.selectedIds.has(ch.id));
+                const someSelected = visibleChannels.some(ch => this.selectedIds.has(ch.id));
                 
                 const groupDiv = document.createElement('div');
                 groupDiv.className = 'group-card';
@@ -735,17 +734,16 @@
                 groupCb.onclick = (e) => {
                     e.stopPropagation();
                     const isChecked = groupCb.checked;
-                    filtered.forEach(ch => {
+                    visibleChannels.forEach(ch => {
                         if (isChecked) this.selectedIds.add(ch.id);
                         else this.selectedIds.delete(ch.id);
                     });
                     this.updateChannelsView();
-                    this.updateSelectedCount();
                 };
                 
                 const titleSpan = document.createElement('div');
                 titleSpan.className = 'group-title';
-                titleSpan.innerHTML = `<span>📁 ${this.escapeHtml(groupName)} (${filtered.length})</span><span>▼</span>`;
+                titleSpan.innerHTML = `<span>📁 ${this.escapeHtml(groupName)} (${visibleChannels.length})</span><span>▼</span>`;
                 
                 header.appendChild(groupCb);
                 header.appendChild(titleSpan);
@@ -754,7 +752,7 @@
                 content.className = 'group-content';
                 content.style.display = 'block';
                 
-                filtered.forEach(ch => {
+                visibleChannels.forEach(ch => {
                     const row = document.createElement('div');
                     row.className = 'channel-row';
                     const cb = document.createElement('input');
@@ -766,7 +764,6 @@
                         if (cb.checked) this.selectedIds.add(ch.id);
                         else this.selectedIds.delete(ch.id);
                         this.updateChannelsView();
-                        this.updateSelectedCount();
                     };
                     
                     const info = document.createElement('div');
@@ -806,10 +803,10 @@
                 this.channelsContainer.appendChild(groupDiv);
             }
             
-            // Если есть текст поиска и ничего не найдено — показываем сообщение
+            // Сообщение если ничего не найдено
             if (this.searchText.trim() !== '' && this.currentFoundChannels.length === 0) {
                 const emptyMsg = document.createElement('div');
-                emptyMsg.style.padding = '20px';
+                emptyMsg.style.padding = '30px';
                 emptyMsg.style.textAlign = 'center';
                 emptyMsg.style.color = '#999';
                 emptyMsg.innerHTML = `🔍 Ничего не найдено для "${this.escapeHtml(this.searchText)}"`;
@@ -817,12 +814,22 @@
             }
         }
         
-        updateSelectedCount() {
-            const span = document.getElementById('selectedCountSpan');
-            if (span) span.innerText = `${this.selectedIds.size}`;
+        updateCounters() {
+            const selectedSpan = document.getElementById('selectedCount');
+            if (selectedSpan) selectedSpan.innerText = this.selectedIds.size;
+            
+            const foundSpanContainer = document.getElementById('foundCounter');
+            const foundCountSpan = document.getElementById('foundCount');
+            if (foundSpanContainer && foundCountSpan) {
+                if (this.searchText.trim() !== '' && this.currentFoundChannels.length > 0) {
+                    foundSpanContainer.style.display = 'flex';
+                    foundCountSpan.innerText = this.currentFoundChannels.length;
+                } else {
+                    foundSpanContainer.style.display = 'none';
+                }
+            }
         }
         
-        // Сохранить ВСЕ выбранные (включая ручные)
         exportSelected() {
             if (this.selectedIds.size === 0) { this.showMessage('Ничего не выбрано', 'error'); return; }
             const selected = this.uniqueChannels.filter(ch => this.selectedIds.has(ch.id));
@@ -830,7 +837,6 @@
             this.showMessage(`✅ Сохранено ${selected.length} каналов`, 'success');
         }
         
-        // Сохранить НАЙДЕННЫЕ (результат поиска) — автоматически выделены, но используем отдельный массив
         exportFound() {
             if (this.searchText.trim() === '') {
                 this.showMessage('Введите текст в поле поиска', 'error');
@@ -877,10 +883,10 @@
             for (const grp of this.duplicateGroups) {
                 const div = document.createElement('div');
                 div.className = 'duplicate-item';
-                div.innerHTML = `<strong>🔁 ${grp.count} дубликатов</strong><br><small>${this.escapeHtml(grp.url.substring(0, 80))}</small>`;
+                div.innerHTML = `<strong>🔁 ${grp.count} дубликатов</strong><br><small>${this.escapeHtml(grp.url.substring(0, 70))}</small>`;
                 for (let i = 0; i < grp.channels.length; i++) {
                     const ch = grp.channels[i];
-                    div.innerHTML += `<div style="margin-top:8px; padding-left:8px; border-left:3px solid ${i===0?'#00b894':'#ff4757'}">📺 ${this.escapeHtml(ch.name)} <small>(${ch.fileName})</small> ${i===0?'✅ оставлен':'❌ удалён'}</div>`;
+                    div.innerHTML += `<div style="margin-top:6px; padding-left:6px; border-left:2px solid ${i===0?'#00b894':'#ff4757'}">📺 ${this.escapeHtml(ch.name)} <small>(${ch.fileName})</small> ${i===0?'✅ оставлен':'❌ удалён'}</div>`;
                 }
                 listDiv.appendChild(div);
             }
@@ -902,7 +908,7 @@
             const container = document.getElementById('fileList');
             if (!this.files.length) { container.style.display = 'none'; return; }
             container.style.display = 'block';
-            container.innerHTML = '<h3 style="margin-bottom:8px;">📄 Файлы:</h3>';
+            container.innerHTML = '<h3 style="margin-bottom:8px; font-size:1rem;">📄 Файлы:</h3>';
             this.files.forEach((f, idx) => {
                 const div = document.createElement('div');
                 div.className = 'file-item';
@@ -918,7 +924,7 @@
                         document.getElementById('preview').style.display = 'none';
                         document.getElementById('stats').style.display = 'none';
                         document.getElementById('debugInfo').style.display = 'none';
-                        document.getElementById('fixedPanel').style.display = 'none';
+                        document.getElementById('actionPanel').style.display = 'none';
                         this.uniqueChannels = [];
                         this.selectedIds.clear();
                     }
@@ -950,13 +956,13 @@
             document.getElementById('preview').style.display = 'none';
             document.getElementById('stats').style.display = 'none';
             document.getElementById('debugInfo').style.display = 'none';
-            document.getElementById('fixedPanel').style.display = 'none';
+            document.getElementById('actionPanel').style.display = 'none';
             this.showMessage('Очищено', 'success');
         }
         
         showMessage(msg, type) {
             const div = document.createElement('div');
-            div.className = type;
+            div.className = 'toast' + (type === 'error' ? ' error' : '');
             div.innerText = msg;
             document.body.appendChild(div);
             setTimeout(() => div.remove(), 2500);
