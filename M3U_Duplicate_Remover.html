@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>IPTV M3U Объединитель - Просмотр дубликатов</title>
+    <title>IPTV Объединитель — продвинутый поиск и сохранение</title>
     <style>
         * {
             margin: 0;
@@ -191,7 +191,6 @@
             overflow-y: auto;
         }
 
-        /* Модальное окно для дубликатов */
         .modal {
             display: none;
             position: fixed;
@@ -298,21 +297,6 @@
             gap: 10px;
         }
 
-        .duplicate-channel-info {
-            flex: 1;
-        }
-
-        .duplicate-channel-name {
-            font-weight: 600;
-            color: #333;
-        }
-
-        .duplicate-channel-source {
-            font-size: 0.8em;
-            color: #666;
-            margin-top: 3px;
-        }
-
         .keep-badge {
             background: #00b894;
             color: white;
@@ -336,6 +320,9 @@
             font-weight: bold;
             cursor: pointer;
             border-bottom: 1px solid #ddd;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
         }
 
         .channel-item {
@@ -343,6 +330,7 @@
             margin-left: 20px;
             border-bottom: 1px solid #eee;
             cursor: pointer;
+            transition: background 0.1s;
         }
 
         .channel-item:hover {
@@ -358,6 +346,51 @@
             color: #666;
             word-break: break-all;
             font-family: monospace;
+        }
+
+        .search-panel {
+            display: flex;
+            gap: 12px;
+            align-items: center;
+            flex-wrap: wrap;
+            margin-bottom: 20px;
+            background: #ffffff;
+            padding: 15px;
+            border-radius: 16px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+        }
+
+        .search-panel input {
+            flex: 1;
+            padding: 10px 15px;
+            border: 1px solid #ddd;
+            border-radius: 40px;
+            font-size: 1rem;
+            outline: none;
+            transition: 0.2s;
+        }
+
+        .search-panel input:focus {
+            border-color: #667eea;
+            box-shadow: 0 0 0 2px rgba(102,126,234,0.2);
+        }
+
+        .save-search-btn {
+            background: #2ecc71;
+            background: linear-gradient(135deg, #27ae60, #2ecc71);
+        }
+
+        .save-search-btn:hover:not(:disabled) {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(46,204,113,0.4);
+        }
+
+        .result-badge {
+            background: #e0e7ff;
+            padding: 6px 12px;
+            border-radius: 40px;
+            font-size: 0.85rem;
+            color: #4a5568;
         }
 
         .success {
@@ -416,7 +449,7 @@
     <div class="container">
         <div class="header">
             <h1>📺 IPTV Объединитель плейлистов</h1>
-            <p>С подробным просмотром дубликатов по URL</p>
+            <p>Объединение, удаление дубликатов, умный поиск и сохранение найденного</p>
         </div>
 
         <div class="content">
@@ -459,8 +492,9 @@
                 this.files = [];
                 this.fileStats = [];
                 this.allChannels = [];
-                this.uniqueChannels = [];
-                this.duplicateGroups = []; // Хранит группы дубликатов
+                this.uniqueChannels = [];     // уникальные (первые вхождения)
+                this.duplicateGroups = [];    // группы дубликатов
+                this.currentSearchText = '';  // текущий текст поиска (для кнопки сохранения)
                 this.init();
             }
 
@@ -558,7 +592,6 @@
                                 extinfLine = null;
                             }
                             else if (line && !line.startsWith('#') && !extinfLine) {
-                                // Пропускаем URL без EXTINF
                                 continue;
                             }
                         }
@@ -580,29 +613,23 @@
                 
                 this.allChannels = [];
                 this.fileStats = [];
-                const urlToChannels = new Map(); // URL -> массив каналов
-                
-                let totalChannels = 0;
+                const urlToChannels = new Map();
                 let globalOrder = 0;
 
                 for (let fileIndex = 0; fileIndex < this.files.length; fileIndex++) {
                     const file = this.files[fileIndex];
                     try {
                         const channels = await this.parseM3UFile(file, fileIndex);
-                        
                         this.fileStats.push({
                             name: file.name,
                             channelCount: channels.length,
                             size: file.size
                         });
                         
-                        totalChannels += channels.length;
-                        
                         for (const channel of channels) {
                             channel.globalOrder = globalOrder++;
                             this.allChannels.push(channel);
-                            
-                            let normalizedUrl = channel.url.trim().toLowerCase();
+                            const normalizedUrl = channel.url.trim().toLowerCase();
                             if (!urlToChannels.has(normalizedUrl)) {
                                 urlToChannels.set(normalizedUrl, []);
                             }
@@ -614,25 +641,21 @@
                     }
                 }
                 
-                // Формируем уникальные каналы (первые вхождения) и группы дубликатов
                 this.uniqueChannels = [];
                 this.duplicateGroups = [];
                 
                 for (const [url, channels] of urlToChannels) {
                     if (channels.length === 1) {
-                        // Уникальный канал
                         this.uniqueChannels.push({
                             ...channels[0],
                             duplicateCount: 1
                         });
                     } else {
-                        // Есть дубликаты
                         this.duplicateGroups.push({
                             url: url,
                             channels: channels,
                             count: channels.length
                         });
-                        // Сохраняем только первый канал (который останется)
                         this.uniqueChannels.push({
                             ...channels[0],
                             duplicateCount: channels.length
@@ -640,16 +663,180 @@
                     }
                 }
                 
-                // Сортируем по глобальному порядку
                 this.uniqueChannels.sort((a, b) => a.globalOrder - b.globalOrder);
                 
+                const totalChannels = this.allChannels.length;
                 this.showDebugInfo(totalChannels);
                 this.showStats(totalChannels, this.uniqueChannels.length);
-                this.displayChannels();
+                this.displayChannelsWithSearch();
                 this.updateButtons(true);
                 
                 const duplicatesFound = totalChannels - this.uniqueChannels.length;
-                this.showMessage(`✅ Готово! Всего: ${totalChannels} | Уникальных: ${this.uniqueChannels.length} | Дубликатов: ${duplicatesFound} | Групп дубликатов: ${this.duplicateGroups.length}`, 'success');
+                this.showMessage(`✅ Готово! Всего: ${totalChannels} | Уникальных: ${this.uniqueChannels.length} | Дубликатов: ${duplicatesFound} | Групп: ${this.duplicateGroups.length}`, 'success');
+            }
+
+            // Функция рендеринга списка каналов с поддержкой поиска и кнопки сохранения
+            displayChannelsWithSearch() {
+                const previewDiv = document.getElementById('preview');
+                previewDiv.style.display = 'block';
+                
+                // Группируем каналы для отображения
+                const groups = {};
+                for (const channel of this.uniqueChannels) {
+                    const groupName = channel.group || 'Без группы';
+                    if (!groups[groupName]) groups[groupName] = [];
+                    groups[groupName].push(channel);
+                }
+                
+                let html = `
+                    <div style="background: #f8f9ff; border-radius: 15px; padding: 20px;">
+                        <h3>📺 Результат (${this.uniqueChannels.length} уникальных каналов)</h3>
+                        <div class="search-panel">
+                            <input type="text" id="searchInputChannel" placeholder="🔍 Название канала или часть URL ..." autocomplete="off">
+                            <button id="saveSearchResultsBtn" class="save-search-btn" style="background: linear-gradient(135deg, #27ae60, #2ecc71);">💾 Сохранить найденные каналы</button>
+                            <span id="searchResultCount" class="result-badge">0 каналов</span>
+                        </div>
+                        <div id="channelsList"></div>
+                    </div>
+                `;
+                previewDiv.innerHTML = html;
+                
+                const render = (searchText = '') => {
+                    this.currentSearchText = searchText;
+                    const channelsListDiv = document.getElementById('channelsList');
+                    if (!channelsListDiv) return;
+                    channelsListDiv.innerHTML = '';
+                    let totalFiltered = 0;
+                    
+                    for (const [groupName, groupChannels] of Object.entries(groups)) {
+                        const filteredChannels = groupChannels.filter(ch => 
+                            searchText === '' || 
+                            ch.name.toLowerCase().includes(searchText.toLowerCase()) ||
+                            ch.url.toLowerCase().includes(searchText.toLowerCase())
+                        );
+                        
+                        if (filteredChannels.length === 0) continue;
+                        totalFiltered += filteredChannels.length;
+                        
+                        const groupDiv = document.createElement('div');
+                        const groupHeader = document.createElement('div');
+                        groupHeader.className = 'group-header';
+                        groupHeader.innerHTML = `<span>📁 ${this.escapeHtml(groupName)} <span style="font-size: 0.8em;">(${filteredChannels.length})</span></span><span>▼</span>`;
+                        
+                        const groupContent = document.createElement('div');
+                        groupContent.className = 'group-content';
+                        
+                        for (const channel of filteredChannels) {
+                            const channelDiv = document.createElement('div');
+                            channelDiv.className = 'channel-item';
+                            channelDiv.innerHTML = `
+                                <div class="channel-name">
+                                    📺 ${this.escapeHtml(channel.name)}
+                                    ${channel.duplicateCount > 1 ? `<span style="background: #ff4757; color: white; padding: 2px 6px; border-radius: 10px; font-size: 0.7em; margin-left: 8px;">🔁 ${channel.duplicateCount}</span>` : ''}
+                                    <span style="background: #00b894; color: white; padding: 2px 6px; border-radius: 10px; font-size: 0.7em; margin-left: 8px;">📄 ${this.escapeHtml(channel.fileName)}</span>
+                                </div>
+                                <div class="channel-url">🔗 ${this.escapeHtml(channel.url)}</div>
+                            `;
+                            channelDiv.onclick = (e) => {
+                                e.stopPropagation();
+                                navigator.clipboard.writeText(channel.url);
+                                this.showMessage(`Скопировано: ${channel.name}`, 'success');
+                            };
+                            groupContent.appendChild(channelDiv);
+                        }
+                        
+                        let collapsed = false;
+                        groupHeader.onclick = () => {
+                            collapsed = !collapsed;
+                            groupContent.style.display = collapsed ? 'none' : 'block';
+                            const arrowSpan = groupHeader.querySelector('span:last-child');
+                            if (arrowSpan) arrowSpan.textContent = collapsed ? '▶' : '▼';
+                        };
+                        
+                        groupDiv.appendChild(groupHeader);
+                        groupDiv.appendChild(groupContent);
+                        channelsListDiv.appendChild(groupDiv);
+                    }
+                    
+                    const countSpan = document.getElementById('searchResultCount');
+                    if (countSpan) countSpan.textContent = `${totalFiltered} каналов`;
+                    
+                    // Обновляем состояние кнопки (если нет результата - блокируем, но лучше не блокировать, а просто сообщать)
+                    const saveBtn = document.getElementById('saveSearchResultsBtn');
+                    if (saveBtn) {
+                        if (totalFiltered === 0) {
+                            saveBtn.disabled = true;
+                            saveBtn.title = "Нет каналов для сохранения";
+                        } else {
+                            saveBtn.disabled = false;
+                            saveBtn.title = "Сохранить все каналы, соответствующие поиску, в отдельный M3U";
+                        }
+                    }
+                };
+                
+                const searchInput = document.getElementById('searchInputChannel');
+                if (searchInput) {
+                    searchInput.addEventListener('input', (e) => {
+                        render(e.target.value);
+                    });
+                }
+                
+                // Добавляем обработчик для кнопки сохранения результатов поиска
+                const saveSearchBtn = document.getElementById('saveSearchResultsBtn');
+                if (saveSearchBtn) {
+                    saveSearchBtn.addEventListener('click', () => this.exportSearchResult());
+                }
+                
+                render('');
+            }
+            
+            // НОВАЯ ФУНКЦИЯ: экспорт только тех каналов, которые соответствуют текущему поиску
+            exportSearchResult() {
+                if (!this.uniqueChannels.length) {
+                    this.showMessage('❌ Нет объединённых данных, выполните объединение сначала', 'error');
+                    return;
+                }
+                
+                const searchText = this.currentSearchText.trim();
+                if (searchText === '') {
+                    this.showMessage('🔍 Введите текст в поле поиска, чтобы отфильтровать каналы', 'error');
+                    return;
+                }
+                
+                // Фильтруем каналы по текущему поиску (по названию или URL)
+                const filtered = this.uniqueChannels.filter(ch => 
+                    ch.name.toLowerCase().includes(searchText.toLowerCase()) ||
+                    ch.url.toLowerCase().includes(searchText.toLowerCase())
+                );
+                
+                if (filtered.length === 0) {
+                    this.showMessage(`❌ По запросу "${searchText}" ничего не найдено. Нечего сохранять.`, 'error');
+                    return;
+                }
+                
+                // Генерируем M3U
+                let m3uContent = '#EXTM3U\n';
+                for (const channel of filtered) {
+                    let extinf = `#EXTINF:-1`;
+                    if (channel.tvgId) extinf += ` tvg-id="${this.escapeM3U(channel.tvgId)}"`;
+                    if (channel.group) extinf += ` group-title="${this.escapeM3U(channel.group)}"`;
+                    if (channel.logo) extinf += ` tvg-logo="${this.escapeM3U(channel.logo)}"`;
+                    extinf += `,${this.escapeM3U(channel.name)}\n`;
+                    m3uContent += extinf;
+                    m3uContent += `${channel.url}\n`;
+                }
+                
+                const safeName = searchText.replace(/[^a-zа-яё0-9]/gi, '_').substring(0, 30);
+                const filename = `search_${safeName}_${new Date().getTime()}.m3u`;
+                const blob = new Blob([m3uContent], { type: 'application/vnd.apple.mpegurl' });
+                const url = URL.createObjectURL(blob);
+                const a = document.createElement('a');
+                a.href = url;
+                a.download = filename;
+                a.click();
+                URL.revokeObjectURL(url);
+                
+                this.showMessage(`✅ Сохранено ${filtered.length} каналов (поиск: "${searchText}")`, 'success');
             }
 
             showDuplicatesModal() {
@@ -710,32 +897,22 @@
                 }
                 
                 modal.style.display = 'block';
-                
-                // Закрытие при клике вне окна
                 window.onclick = (event) => {
-                    if (event.target === modal) {
-                        modal.style.display = 'none';
-                    }
+                    if (event.target === modal) modal.style.display = 'none';
                 };
             }
 
             showDebugInfo(totalChannels) {
                 const debugDiv = document.getElementById('debugInfo');
                 debugDiv.style.display = 'block';
-                
                 let debugHtml = '<strong>🔍 Детальная статистика по файлам:</strong><br><br>';
-                
                 for (const stat of this.fileStats) {
-                    debugHtml += `📄 ${stat.name}<br>`;
-                    debugHtml += `   └─ Каналов: ${stat.channelCount}<br>`;
-                    debugHtml += `   └─ Размер: ${(stat.size / 1024).toFixed(2)} KB<br><br>`;
+                    debugHtml += `📄 ${stat.name}<br>   └─ Каналов: ${stat.channelCount}<br>   └─ Размер: ${(stat.size / 1024).toFixed(2)} KB<br><br>`;
                 }
-                
                 debugHtml += `<strong>📊 Итого в файлах: ${totalChannels} каналов</strong><br>`;
                 debugHtml += `<strong>✨ Уникальных URL: ${this.uniqueChannels.length} каналов</strong><br>`;
                 debugHtml += `<strong>🗑 Удалено дубликатов: ${totalChannels - this.uniqueChannels.length}</strong><br>`;
                 debugHtml += `<strong>🔁 Групп дубликатов: ${this.duplicateGroups.length}</strong>`;
-                
                 debugDiv.innerHTML = debugHtml;
             }
 
@@ -744,135 +921,34 @@
                 statsDiv.style.display = 'block';
                 statsDiv.innerHTML = `
                     <div class="stats">
-                        <div class="stat-card">
-                            <div class="stat-number">${this.files.length}</div>
-                            <div class="stat-label">📁 Загружено файлов</div>
-                        </div>
-                        <div class="stat-card" id="totalChannelsCard">
-                            <div class="stat-number">${total}</div>
-                            <div class="stat-label">📺 Всего каналов</div>
-                        </div>
-                        <div class="stat-card" id="uniqueChannelsCard">
-                            <div class="stat-number">${unique}</div>
-                            <div class="stat-label">✨ Уникальных потоков</div>
-                        </div>
-                        <div class="stat-card" id="duplicatesCard" style="cursor: pointer;">
-                            <div class="stat-number" style="color: #ff4757;">${total - unique}</div>
-                            <div class="stat-label">🔁 Дубликатов (${this.duplicateGroups.length} групп)</div>
-                        </div>
+                        <div class="stat-card"><div class="stat-number">${this.files.length}</div><div class="stat-label">📁 Загружено файлов</div></div>
+                        <div class="stat-card"><div class="stat-number">${total}</div><div class="stat-label">📺 Всего каналов</div></div>
+                        <div class="stat-card"><div class="stat-number">${unique}</div><div class="stat-label">✨ Уникальных потоков</div></div>
+                        <div class="stat-card" id="duplicatesCard" style="cursor: pointer;"><div class="stat-number" style="color: #ff4757;">${total - unique}</div><div class="stat-label">🔁 Дубликатов (${this.duplicateGroups.length} групп)</div></div>
                     </div>
                 `;
-                
-                // Добавляем клик на карточку дубликатов
                 document.getElementById('duplicatesCard')?.addEventListener('click', () => this.showDuplicatesModal());
-            }
-
-            displayChannels() {
-                const previewDiv = document.getElementById('preview');
-                previewDiv.style.display = 'block';
-                
-                const groups = {};
-                for (const channel of this.uniqueChannels) {
-                    const groupName = channel.group || 'Без группы';
-                    if (!groups[groupName]) groups[groupName] = [];
-                    groups[groupName].push(channel);
-                }
-                
-                let html = `
-                    <div style="background: #f8f9ff; border-radius: 15px; padding: 20px;">
-                        <h3>📺 Результат (${this.uniqueChannels.length} уникальных каналов)</h3>
-                        <input type="text" id="searchInput" placeholder="🔍 Поиск..." style="padding: 8px; margin: 15px 0; width: 300px; border: 1px solid #ddd; border-radius: 5px;">
-                        <div id="channelsList"></div>
-                    </div>
-                `;
-                
-                previewDiv.innerHTML = html;
-                
-                const renderChannels = (searchText = '') => {
-                    const channelsList = document.getElementById('channelsList');
-                    channelsList.innerHTML = '';
-                    
-                    for (const [groupName, groupChannels] of Object.entries(groups)) {
-                        const filteredChannels = groupChannels.filter(ch => 
-                            searchText === '' || 
-                            ch.name.toLowerCase().includes(searchText.toLowerCase()) ||
-                            ch.url.toLowerCase().includes(searchText.toLowerCase())
-                        );
-                        
-                        if (filteredChannels.length === 0) continue;
-                        
-                        const groupDiv = document.createElement('div');
-                        const groupHeader = document.createElement('div');
-                        groupHeader.className = 'group-header';
-                        groupHeader.innerHTML = `📁 ${groupName} <span style="font-size: 0.8em;">(${filteredChannels.length} каналов)</span> <span style="float: right;">▼</span>`;
-                        
-                        const groupContent = document.createElement('div');
-                        groupContent.className = 'group-content';
-                        
-                        for (const channel of filteredChannels) {
-                            const channelDiv = document.createElement('div');
-                            channelDiv.className = 'channel-item';
-                            channelDiv.innerHTML = `
-                                <div class="channel-name">
-                                    📺 ${this.escapeHtml(channel.name)}
-                                    ${channel.duplicateCount > 1 ? `<span style="background: #ff4757; color: white; padding: 2px 6px; border-radius: 10px; font-size: 0.7em; margin-left: 8px;">🔁 ${channel.duplicateCount}</span>` : ''}
-                                    <span style="background: #00b894; color: white; padding: 2px 6px; border-radius: 10px; font-size: 0.7em; margin-left: 8px;">📄 ${this.escapeHtml(channel.fileName)}</span>
-                                </div>
-                                <div class="channel-url">🔗 ${this.escapeHtml(channel.url)}</div>
-                            `;
-                            channelDiv.onclick = () => {
-                                navigator.clipboard.writeText(channel.url);
-                                this.showMessage(`Скопировано: ${channel.name}`, 'success');
-                            };
-                            groupContent.appendChild(channelDiv);
-                        }
-                        
-                        let collapsed = false;
-                        groupHeader.onclick = () => {
-                            collapsed = !collapsed;
-                            groupContent.style.display = collapsed ? 'none' : 'block';
-                            groupHeader.innerHTML = `📁 ${groupName} <span style="font-size: 0.8em;">(${filteredChannels.length} каналов)</span> <span style="float: right;">${collapsed ? '▶' : '▼'}</span>`;
-                        };
-                        
-                        groupDiv.appendChild(groupHeader);
-                        groupDiv.appendChild(groupContent);
-                        channelsList.appendChild(groupDiv);
-                    }
-                };
-                
-                renderChannels();
-                
-                document.getElementById('searchInput').addEventListener('input', (e) => {
-                    renderChannels(e.target.value);
-                });
             }
 
             updateFileList() {
                 const fileListDiv = document.getElementById('fileList');
-                
                 if (this.files.length === 0) {
                     fileListDiv.style.display = 'none';
                     return;
                 }
-                
                 fileListDiv.style.display = 'block';
                 fileListDiv.innerHTML = '<h3>📄 Загруженные файлы:</h3><div id="fileListContainer"></div>';
                 const container = document.getElementById('fileListContainer');
                 container.innerHTML = '';
-                
                 this.files.forEach((file, index) => {
                     const fileItem = document.createElement('div');
                     fileItem.className = 'file-item';
                     fileItem.innerHTML = `
-                        <div class="file-info">
-                            <div class="file-name">📄 ${this.escapeHtml(file.name)}</div>
-                            <div class="file-stats">Размер: ${(file.size / 1024).toFixed(2)} KB</div>
-                        </div>
+                        <div class="file-info"><div class="file-name">📄 ${this.escapeHtml(file.name)}</div><div class="file-stats">Размер: ${(file.size / 1024).toFixed(2)} KB</div></div>
                         <button class="remove-file" data-index="${index}">🗑 Удалить</button>
                     `;
                     container.appendChild(fileItem);
                 });
-                
                 document.querySelectorAll('.remove-file').forEach(btn => {
                     btn.addEventListener('click', (e) => {
                         const index = parseInt(btn.dataset.index);
@@ -895,7 +971,6 @@
                     this.showMessage('❌ Нет данных для экспорта', 'error');
                     return;
                 }
-
                 let m3uContent = '#EXTM3U\n';
                 for (const channel of this.uniqueChannels) {
                     let extinf = `#EXTINF:-1`;
@@ -903,10 +978,8 @@
                     if (channel.group) extinf += ` group-title="${this.escapeM3U(channel.group)}"`;
                     if (channel.logo) extinf += ` tvg-logo="${this.escapeM3U(channel.logo)}"`;
                     extinf += `,${this.escapeM3U(channel.name)}\n`;
-                    m3uContent += extinf;
-                    m3uContent += `${channel.url}\n`;
+                    m3uContent += extinf + `${channel.url}\n`;
                 }
-
                 const blob = new Blob([m3uContent], { type: 'application/vnd.apple.mpegurl' });
                 const url = URL.createObjectURL(blob);
                 const a = document.createElement('a');
@@ -914,7 +987,6 @@
                 a.download = `merged_${new Date().getTime()}.m3u`;
                 a.click();
                 URL.revokeObjectURL(url);
-                
                 this.showMessage(`✅ Экспортировано ${this.uniqueChannels.length} каналов`, 'success');
             }
 
@@ -923,7 +995,6 @@
                 const viewDuplicatesBtn = document.getElementById('viewDuplicatesBtn');
                 const clearBtn = document.getElementById('clearBtn');
                 const exportBtn = document.getElementById('exportBtn');
-                
                 mergeBtn.disabled = this.files.length === 0;
                 viewDuplicatesBtn.disabled = this.duplicateGroups.length === 0;
                 clearBtn.disabled = this.files.length === 0 && !hasResult;
