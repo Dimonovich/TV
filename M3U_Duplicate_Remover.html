@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes, viewport-fit=cover">
-    <title>IPTV Объединитель - Работает на ПК и Android</title>
+    <title>IPTV Объединитель - Сохранение найденных каналов</title>
     <style>
         * {
             margin: 0;
@@ -26,7 +26,7 @@
             border-radius: 24px;
             box-shadow: 0 10px 40px rgba(0,0,0,0.2);
             overflow: hidden;
-            padding-bottom: 90px; /* место для фиксированной панели на мобилках */
+            padding-bottom: 90px;
         }
 
         .header {
@@ -166,7 +166,7 @@
             margin-bottom: 16px;
         }
 
-        /* ФИКСИРОВАННАЯ ПАНЕЛЬ ДЛЯ МОБИЛЬНЫХ (всегда внизу) */
+        /* ФИКСИРОВАННАЯ ПАНЕЛЬ */
         .mobile-fixed-panel {
             position: fixed;
             bottom: 0;
@@ -204,12 +204,26 @@
             background: linear-gradient(135deg, #27ae60, #2ecc71);
         }
 
-        .mobile-fixed-panel .scroll-btn {
+        .mobile-fixed-panel .save-found-btn {
             background: linear-gradient(135deg, #ff9800, #f57c00);
+        }
+
+        .mobile-fixed-panel .scroll-btn {
+            background: linear-gradient(135deg, #2196f3, #1976d2);
         }
 
         .selected-count-badge {
             background: #667eea;
+            color: white;
+            padding: 6px 12px;
+            border-radius: 40px;
+            font-size: 0.8rem;
+            font-weight: bold;
+            white-space: nowrap;
+        }
+
+        .found-count-badge {
+            background: #ff9800;
             color: white;
             padding: 6px 12px;
             border-radius: 40px;
@@ -343,6 +357,10 @@
             background: #00b894;
         }
 
+        .badge-found {
+            background: #ff9800;
+        }
+
         /* Модальное окно */
         .modal {
             display: none;
@@ -416,11 +434,6 @@
             background: #ff4757;
         }
 
-        @keyframes fadeIn {
-            from { opacity: 0; }
-            to { opacity: 1; }
-        }
-
         /* Планшет / ПК */
         @media (min-width: 768px) {
             body {
@@ -449,7 +462,7 @@
 <div class="container">
     <div class="header">
         <h1>📺 IPTV Объединитель</h1>
-        <p>Загрузите M3U файлы, выбирайте каналы галочками</p>
+        <p>Поиск → авто-выделение → сохранение найденного</p>
     </div>
     <div class="content">
         <div class="upload-area" id="uploadArea">
@@ -474,14 +487,16 @@
     </div>
 </div>
 
-<!-- ФИКСИРОВАННАЯ ПАНЕЛЬ (всегда видна) -->
+<!-- ФИКСИРОВАННАЯ ПАНЕЛЬ -->
 <div id="fixedPanel" class="mobile-fixed-panel" style="display: none;">
     <input type="text" id="searchInput" placeholder="🔍 Поиск каналов...">
     <button id="selectAllBtn">✅ Всё</button>
     <button id="deselectAllBtn">❌ Снять</button>
-    <button id="saveSelectedBtn" class="save-btn">💾 Сохранить</button>
+    <button id="saveSelectedBtn" class="save-btn">💾 Сохранить выбранное</button>
+    <button id="saveFoundBtn" class="save-found-btn">🔍 Сохранить найденное</button>
     <button id="scrollTopBtn" class="scroll-btn">⬆ Вверх</button>
     <span id="selectedCountSpan" class="selected-count-badge">0</span>
+    <span id="foundCountSpan" class="found-count-badge" style="display: none;">Найдено: 0</span>
 </div>
 
 <div id="duplicatesModal" class="modal">
@@ -500,8 +515,9 @@
             this.files = [];
             this.uniqueChannels = [];
             this.duplicateGroups = [];
-            this.selectedIds = new Set(); // Set of channel.id
+            this.selectedIds = new Set();
             this.searchText = '';
+            this.currentFoundChannels = []; // массив каналов, найденных в текущем поиске
             this.channelsContainer = null;
             this.init();
         }
@@ -607,11 +623,16 @@
             this.uniqueChannels.sort((a,b) => a.order - b.order);
             this.uniqueChannels.forEach((ch, idx) => ch.id = `ch_${idx}`);
             this.selectedIds.clear();
+            this.searchText = '';
             
             this.showStats();
             this.renderChannelsList();
             this.updateButtons(true);
             document.getElementById('fixedPanel').style.display = 'flex';
+            
+            // Очищаем поиск
+            const searchInput = document.getElementById('searchInput');
+            if (searchInput) searchInput.value = '';
             this.showMessage(`✅ Уникальных: ${this.uniqueChannels.length}`, 'success');
         }
         
@@ -630,6 +651,7 @@
                     this.updateChannelsView();
                 };
             }
+            
             // кнопки панели
             document.getElementById('selectAllBtn').onclick = () => {
                 this.uniqueChannels.forEach(ch => this.selectedIds.add(ch.id));
@@ -642,6 +664,7 @@
                 this.updateSelectedCount();
             };
             document.getElementById('saveSelectedBtn').onclick = () => this.exportSelected();
+            document.getElementById('saveFoundBtn').onclick = () => this.exportFound();
             document.getElementById('scrollTopBtn').onclick = () => {
                 if (this.channelsContainer) this.channelsContainer.scrollTo({ top: 0, behavior: 'smooth' });
             };
@@ -650,6 +673,7 @@
         
         updateChannelsView() {
             if (!this.channelsContainer) return;
+            
             // группировка
             const groups = {};
             for (const ch of this.uniqueChannels) {
@@ -658,12 +682,38 @@
                 groups[g].push(ch);
             }
             
+            // Определяем найденные каналы
+            let foundChannels = [];
+            if (this.searchText.trim() !== '') {
+                foundChannels = this.uniqueChannels.filter(ch => 
+                    ch.name.toLowerCase().includes(this.searchText) || 
+                    ch.url.toLowerCase().includes(this.searchText)
+                );
+                // АВТОМАТИЧЕСКИ выделяем найденные каналы
+                this.selectedIds.clear();
+                foundChannels.forEach(ch => this.selectedIds.add(ch.id));
+            }
+            this.currentFoundChannels = foundChannels;
+            
+            // Обновляем счётчики
+            this.updateSelectedCount();
+            const foundSpan = document.getElementById('foundCountSpan');
+            if (foundSpan) {
+                if (this.searchText.trim() !== '' && foundChannels.length > 0) {
+                    foundSpan.style.display = 'inline-flex';
+                    foundSpan.textContent = `🔍 Найдено: ${foundChannels.length}`;
+                } else {
+                    foundSpan.style.display = 'none';
+                }
+            }
+            
             this.channelsContainer.innerHTML = '';
             for (const [groupName, channels] of Object.entries(groups)) {
                 const filtered = this.searchText ? channels.filter(ch => 
                     ch.name.toLowerCase().includes(this.searchText) || 
                     ch.url.toLowerCase().includes(this.searchText)
                 ) : [...channels];
+                
                 if (filtered.length === 0) continue;
                 
                 const allSelected = filtered.every(ch => this.selectedIds.has(ch.id));
@@ -755,6 +805,16 @@
                 groupDiv.appendChild(content);
                 this.channelsContainer.appendChild(groupDiv);
             }
+            
+            // Если есть текст поиска и ничего не найдено — показываем сообщение
+            if (this.searchText.trim() !== '' && this.currentFoundChannels.length === 0) {
+                const emptyMsg = document.createElement('div');
+                emptyMsg.style.padding = '20px';
+                emptyMsg.style.textAlign = 'center';
+                emptyMsg.style.color = '#999';
+                emptyMsg.innerHTML = `🔍 Ничего не найдено для "${this.escapeHtml(this.searchText)}"`;
+                this.channelsContainer.appendChild(emptyMsg);
+            }
         }
         
         updateSelectedCount() {
@@ -762,26 +822,31 @@
             if (span) span.innerText = `${this.selectedIds.size}`;
         }
         
+        // Сохранить ВСЕ выбранные (включая ручные)
         exportSelected() {
             if (this.selectedIds.size === 0) { this.showMessage('Ничего не выбрано', 'error'); return; }
             const selected = this.uniqueChannels.filter(ch => this.selectedIds.has(ch.id));
-            let m3u = '#EXTM3U\n';
-            for (const ch of selected) {
-                let extinf = `#EXTINF:-1`;
-                if (ch.tvgId) extinf += ` tvg-id="${this.escapeM3U(ch.tvgId)}"`;
-                if (ch.group) extinf += ` group-title="${this.escapeM3U(ch.group)}"`;
-                if (ch.logo) extinf += ` tvg-logo="${this.escapeM3U(ch.logo)}"`;
-                extinf += `,${this.escapeM3U(ch.name)}\n`;
-                m3u += extinf + `${ch.url}\n`;
-            }
-            this.download(m3u, `selected_${Date.now()}.m3u`);
+            this.downloadM3U(selected, `selected_${Date.now()}.m3u`);
             this.showMessage(`✅ Сохранено ${selected.length} каналов`, 'success');
         }
         
-        exportAll() {
-            if (!this.uniqueChannels.length) { this.showMessage('Нет данных', 'error'); return; }
+        // Сохранить НАЙДЕННЫЕ (результат поиска) — автоматически выделены, но используем отдельный массив
+        exportFound() {
+            if (this.searchText.trim() === '') {
+                this.showMessage('Введите текст в поле поиска', 'error');
+                return;
+            }
+            if (this.currentFoundChannels.length === 0) {
+                this.showMessage('По вашему запросу ничего не найдено', 'error');
+                return;
+            }
+            this.downloadM3U(this.currentFoundChannels, `found_${Date.now()}.m3u`);
+            this.showMessage(`✅ Сохранено ${this.currentFoundChannels.length} найденных каналов`, 'success');
+        }
+        
+        downloadM3U(channels, filename) {
             let m3u = '#EXTM3U\n';
-            for (const ch of this.uniqueChannels) {
+            for (const ch of channels) {
                 let extinf = `#EXTINF:-1`;
                 if (ch.tvgId) extinf += ` tvg-id="${this.escapeM3U(ch.tvgId)}"`;
                 if (ch.group) extinf += ` group-title="${this.escapeM3U(ch.group)}"`;
@@ -789,18 +854,19 @@
                 extinf += `,${this.escapeM3U(ch.name)}\n`;
                 m3u += extinf + `${ch.url}\n`;
             }
-            this.download(m3u, `all_merged_${Date.now()}.m3u`);
-            this.showMessage(`✅ Экспортировано ${this.uniqueChannels.length} каналов`, 'success');
-        }
-        
-        download(content, filename) {
-            const blob = new Blob([content], { type: 'application/vnd.apple.mpegurl' });
+            const blob = new Blob([m3u], { type: 'application/vnd.apple.mpegurl' });
             const url = URL.createObjectURL(blob);
             const a = document.createElement('a');
             a.href = url;
             a.download = filename;
             a.click();
             URL.revokeObjectURL(url);
+        }
+        
+        exportAll() {
+            if (!this.uniqueChannels.length) { this.showMessage('Нет данных', 'error'); return; }
+            this.downloadM3U(this.uniqueChannels, `all_merged_${Date.now()}.m3u`);
+            this.showMessage(`✅ Экспортировано ${this.uniqueChannels.length} каналов`, 'success');
         }
         
         showDuplicates() {
@@ -877,6 +943,8 @@
             this.uniqueChannels = [];
             this.duplicateGroups = [];
             this.selectedIds.clear();
+            this.searchText = '';
+            this.currentFoundChannels = [];
             this.renderFileList();
             this.updateButtons();
             document.getElementById('preview').style.display = 'none';
