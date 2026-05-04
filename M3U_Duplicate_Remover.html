@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes, viewport-fit=cover">
-    <title>IPTV Объединитель - Сохранение найденных каналов</title>
+    <title>IPTV Объединитель - Гибкое выделение каналов</title>
     <style>
         * {
             margin: 0;
@@ -168,7 +168,7 @@
             margin-bottom: 16px;
         }
 
-        /* МОБИЛЬНАЯ ПАНЕЛЬ - упрощённая и всегда видимая */
+        /* Панель управления */
         .action-panel {
             background: white;
             border-radius: 20px;
@@ -182,7 +182,6 @@
             display: flex;
             gap: 8px;
             margin-bottom: 12px;
-            flex-wrap: wrap;
         }
 
         .search-row input {
@@ -204,12 +203,13 @@
             gap: 8px;
             flex-wrap: wrap;
             justify-content: center;
+            margin-bottom: 10px;
         }
 
         .buttons-row button {
             flex: 1;
-            min-width: 100px;
-            padding: 8px 12px;
+            min-width: 90px;
+            padding: 8px 10px;
             font-size: 0.75rem;
             white-space: nowrap;
         }
@@ -230,7 +230,6 @@
             display: flex;
             gap: 10px;
             justify-content: center;
-            margin-top: 10px;
         }
 
         .counter {
@@ -435,7 +434,6 @@
             background: #ff4757;
         }
 
-        /* ПК стили */
         @media (min-width: 768px) {
             body {
                 padding: 20px;
@@ -448,9 +446,6 @@
                 top: 10px;
                 z-index: 100;
             }
-            .buttons-row button {
-                font-size: 0.85rem;
-            }
         }
     </style>
 </head>
@@ -458,7 +453,7 @@
 <div class="container">
     <div class="header">
         <h1>📺 IPTV Объединитель</h1>
-        <p>Поиск → авто-выделение → сохранение найденного</p>
+        <p>Поиск → авто-выделение → ручная корректировка → сохранение</p>
     </div>
     <div class="content">
         <div class="upload-area" id="uploadArea">
@@ -480,7 +475,7 @@
         <div id="debugInfo" class="debug-info" style="display: none;"></div>
         <div id="stats" style="display: none;"></div>
         
-        <!-- Панель поиска и кнопок - всегда видна -->
+        <!-- Панель поиска и кнопок -->
         <div id="actionPanel" class="action-panel" style="display: none;">
             <div class="search-row">
                 <input type="text" id="searchInput" placeholder="🔍 Введите название канала..." autocomplete="off">
@@ -632,10 +627,8 @@
             this.renderChannelsList();
             this.updateButtons(true);
             
-            // Показываем панель
             document.getElementById('actionPanel').style.display = 'block';
             
-            // Очищаем поиск
             const searchInput = document.getElementById('searchInput');
             if (searchInput) searchInput.value = '';
             this.showMessage(`✅ Уникальных: ${this.uniqueChannels.length}`, 'success');
@@ -647,16 +640,14 @@
             previewDiv.innerHTML = `<div id="channelsList" class="channels-wrapper"></div>`;
             this.channelsContainer = document.getElementById('channelsList');
             
-            // Настройка поиска
             const searchInput = document.getElementById('searchInput');
             if (searchInput) {
                 searchInput.oninput = (e) => {
                     this.searchText = e.target.value.toLowerCase();
-                    this.updateChannelsView();
+                    this.applySearchAndAutoSelect();
                 };
             }
             
-            // Кнопки
             document.getElementById('selectAllBtn').onclick = () => {
                 this.uniqueChannels.forEach(ch => this.selectedIds.add(ch.id));
                 this.updateChannelsView();
@@ -677,6 +668,35 @@
             this.updateCounters();
         }
         
+        // Новая логика: поиск -> находим каналы -> АВТОМАТИЧЕСКИ выделяем их
+        // НО! Если пользователь уже что-то выделил вручную до поиска? Сценарий:
+        // Поиск всегда перезаписывает выделение найденными (удобно для нового поиска)
+        // После этого можно вручную снимать/ставить галочки
+        applySearchAndAutoSelect() {
+            if (this.searchText.trim() === '') {
+                // Если поиск пустой - не меняем выделение, просто обновляем отображение
+                this.updateChannelsView();
+                this.updateCounters();
+                return;
+            }
+            
+            // Находим каналы по поиску
+            const found = this.uniqueChannels.filter(ch => 
+                ch.name.toLowerCase().includes(this.searchText) || 
+                ch.url.toLowerCase().includes(this.searchText)
+            );
+            this.currentFoundChannels = found;
+            
+            // АВТОМАТИЧЕСКИ выделяем ВСЕ найденные каналы
+            // Очищаем старые выделения и ставим галочки на найденных
+            this.selectedIds.clear();
+            found.forEach(ch => this.selectedIds.add(ch.id));
+            
+            // Обновляем отображение
+            this.updateChannelsView();
+            this.updateCounters();
+        }
+        
         updateChannelsView() {
             if (!this.channelsContainer) return;
             
@@ -688,30 +708,20 @@
                 groups[g].push(ch);
             }
             
-            // Находим каналы по поиску
-            let foundChannels = [];
-            if (this.searchText.trim() !== '') {
-                foundChannels = this.uniqueChannels.filter(ch => 
-                    ch.name.toLowerCase().includes(this.searchText) || 
-                    ch.url.toLowerCase().includes(this.searchText)
-                );
-                // АВТОМАТИЧЕСКИ выделяем найденные (очищаем старые и выделяем новые)
-                this.selectedIds.clear();
-                foundChannels.forEach(ch => this.selectedIds.add(ch.id));
-            }
-            this.currentFoundChannels = foundChannels;
-            
-            // Обновляем счётчики
-            this.updateCounters();
+            // Для отображения: показываем только те каналы, которые соответствуют поиску (если поиск не пуст)
+            const hasSearch = this.searchText.trim() !== '';
             
             this.channelsContainer.innerHTML = '';
             
             for (const [groupName, channels] of Object.entries(groups)) {
-                // Фильтруем по поиску для отображения
-                const visibleChannels = this.searchText ? channels.filter(ch => 
-                    ch.name.toLowerCase().includes(this.searchText) || 
-                    ch.url.toLowerCase().includes(this.searchText)
-                ) : [...channels];
+                // Фильтруем для отображения
+                let visibleChannels = channels;
+                if (hasSearch) {
+                    visibleChannels = channels.filter(ch => 
+                        ch.name.toLowerCase().includes(this.searchText) || 
+                        ch.url.toLowerCase().includes(this.searchText)
+                    );
+                }
                 
                 if (visibleChannels.length === 0) continue;
                 
@@ -738,7 +748,8 @@
                         if (isChecked) this.selectedIds.add(ch.id);
                         else this.selectedIds.delete(ch.id);
                     });
-                    this.updateChannelsView();
+                    this.updateChannelsView(); // перерисовываем для обновления стилей группы
+                    this.updateCounters();
                 };
                 
                 const titleSpan = document.createElement('div');
@@ -761,9 +772,14 @@
                     cb.checked = this.selectedIds.has(ch.id);
                     cb.onclick = (e) => {
                         e.stopPropagation();
-                        if (cb.checked) this.selectedIds.add(ch.id);
-                        else this.selectedIds.delete(ch.id);
+                        if (cb.checked) {
+                            this.selectedIds.add(ch.id);
+                        } else {
+                            this.selectedIds.delete(ch.id);
+                        }
+                        // Обновляем только этот вид (перерисовка всей группы для обновления стиля)
                         this.updateChannelsView();
+                        this.updateCounters();
                     };
                     
                     const info = document.createElement('div');
@@ -804,7 +820,7 @@
             }
             
             // Сообщение если ничего не найдено
-            if (this.searchText.trim() !== '' && this.currentFoundChannels.length === 0) {
+            if (hasSearch && this.currentFoundChannels.length === 0) {
                 const emptyMsg = document.createElement('div');
                 emptyMsg.style.padding = '30px';
                 emptyMsg.style.textAlign = 'center';
@@ -831,7 +847,10 @@
         }
         
         exportSelected() {
-            if (this.selectedIds.size === 0) { this.showMessage('Ничего не выбрано', 'error'); return; }
+            if (this.selectedIds.size === 0) { 
+                this.showMessage('Ничего не выбрано. Поставьте галочки на каналах, которые хотите сохранить', 'error'); 
+                return; 
+            }
             const selected = this.uniqueChannels.filter(ch => this.selectedIds.has(ch.id));
             this.downloadM3U(selected, `selected_${Date.now()}.m3u`);
             this.showMessage(`✅ Сохранено ${selected.length} каналов`, 'success');
@@ -846,6 +865,7 @@
                 this.showMessage('По вашему запросу ничего не найдено', 'error');
                 return;
             }
+            // Сохраняем ТОЛЬКО найденные каналы (не зависимо от того, сняты ли с них галочки)
             this.downloadM3U(this.currentFoundChannels, `found_${Date.now()}.m3u`);
             this.showMessage(`✅ Сохранено ${this.currentFoundChannels.length} найденных каналов`, 'success');
         }
