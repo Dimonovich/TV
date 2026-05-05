@@ -26,10 +26,6 @@ https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/tracks-v1a
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=KjTPc_Y88PPgHXz1EnT6bg&e=1777998193&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 group-title="TEST ⓵",Viju TV1000 Romantica HD
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=hDVXfOe6KkbonXhEjIc93w&e=1777998159&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
-#EXTINF:-1 group-title="TEST ⓵",Investigation Discovery
-http://dtv.vol.net.ua/Investigation_Discovery/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵",DocuBox HD
-http://dtv.vol.net.ua/DOCUBOX_HD/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Дорама
 https://fs.uplink.kz/dorama/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="TEST ⓵",Cartoon Network
@@ -48,12 +44,14 @@ http://ukr.ukrainske.tv/493/keytvainua/video.m3u8
 http://ukr.ukrainske.tv/399/keytvainua/video.m3u8
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://provider-static.plex.tv/3/epg/channels/logos/gracenote/38945a2afcb8ce8ae6b5fe557e908b2f.png",Cirque du Soleil
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-67642f277c5e3b38af72dcdb.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Digi 4K [RO]
-http://188.214.144.230:5555/digi4k
 #EXTINF:-1 group-title="TEST ⓵",Загородная жизнь
 http://185.57.68.33/40/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Матч! футбол 3
 http://185.57.68.33/110/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Tiji
+https://live-3.otcnet.ru/Tiji/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Gulli Girl
+https://live-3.otcnet.ru/GulliGirl/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="TEST ⓵",ДимГрад 24
 http://live-3.otcnet.ru/dimgrad/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Наша тема
