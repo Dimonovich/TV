@@ -3,13 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes, viewport-fit=cover">
-    <title>IPTV Объединитель - Авто-выделение при поиске</title>
+    <title>IPTV Объединитель - Два способа загрузки ссылок</title>
     <style>
         * {
             margin: 0;
             padding: 0;
             box-sizing: border-box;
-            -webkit-tap-highlight-color: transparent;
         }
 
         body {
@@ -47,22 +46,14 @@
 
         .content {
             padding: 16px;
-            padding-bottom: 20px;
-        }
-
-        .upload-section {
-            background: #f8f9ff;
-            border-radius: 20px;
-            padding: 16px;
-            margin-bottom: 20px;
         }
 
         .upload-area {
             border: 2px dashed #667eea;
             border-radius: 16px;
-            padding: 25px 16px;
+            padding: 30px 16px;
             text-align: center;
-            background: #ffffff;
+            background: #f8f9ff;
             cursor: pointer;
             transition: all 0.2s;
             margin-bottom: 20px;
@@ -73,25 +64,31 @@
         }
 
         .upload-icon {
-            font-size: 36px;
-            margin-bottom: 6px;
+            font-size: 48px;
+            margin-bottom: 10px;
+        }
+
+        .upload-area h3 {
+            margin-bottom: 8px;
+            color: #333;
+        }
+
+        .upload-area p {
+            color: #666;
+            font-size: 0.8rem;
         }
 
         .url-section {
-            background: #ffffff;
+            background: #f8f9ff;
             border-radius: 16px;
             padding: 16px;
             border: 1px solid #e0e7ff;
-            margin-top: 8px;
         }
 
         .url-section h3 {
             font-size: 1rem;
             margin-bottom: 12px;
             color: #333;
-            display: flex;
-            align-items: center;
-            gap: 8px;
         }
 
         .url-input-group {
@@ -119,45 +116,50 @@
         .url-input-group button {
             flex: 1;
             min-width: 100px;
-            background: linear-gradient(135deg, #667eea, #764ba2);
-            padding: 10px 16px;
-        }
-
-        .url-list {
-            margin-top: 12px;
-            max-height: 150px;
-            overflow-y: auto;
-        }
-
-        .url-item {
-            background: #f0f2ff;
-            padding: 8px 12px;
-            margin: 6px 0;
-            border-radius: 12px;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            font-size: 0.8rem;
-            word-break: break-all;
-        }
-
-        .url-item .remove-url {
-            background: #ff4757;
             color: white;
             border: none;
-            padding: 4px 12px;
-            border-radius: 20px;
-            font-size: 0.7rem;
+            border-radius: 40px;
             cursor: pointer;
-            margin-left: 8px;
-            flex-shrink: 0;
+            font-weight: 600;
+            padding: 10px 16px;
+            transition: transform 0.1s;
+        }
+
+        .url-input-group button:active {
+            transform: scale(0.97);
+        }
+
+        .button-load {
+            background: linear-gradient(135deg, #00b894, #55efc4);
+        }
+
+        .button-browser {
+            background: linear-gradient(135deg, #0984e3, #74b9ff);
+        }
+
+        .button-clear {
+            background: linear-gradient(135deg, #ff4757, #ff6b81);
+        }
+
+        .info-message {
+            background: #fff3cd;
+            padding: 12px;
+            border-radius: 12px;
+            font-size: 0.8rem;
+            border-left: 4px solid #ffc107;
+            margin-top: 12px;
+        }
+
+        .info-message.success {
+            background: #d4edda;
+            border-left-color: #28a745;
         }
 
         .file-list {
             background: #f8f9ff;
             border-radius: 16px;
             padding: 12px;
-            margin-bottom: 16px;
+            margin: 16px 0;
         }
 
         .file-item {
@@ -214,15 +216,6 @@
             color: #666;
         }
 
-        .debug-info {
-            background: #2d3436;
-            color: #dfe6e9;
-            padding: 10px;
-            border-radius: 12px;
-            font-size: 0.7rem;
-            margin-bottom: 16px;
-        }
-
         .action-panel {
             background: white;
             border-radius: 20px;
@@ -232,19 +225,14 @@
             border: 1px solid #eef2ff;
         }
 
-        .search-row {
-            display: flex;
-            gap: 8px;
-            margin-bottom: 12px;
-        }
-
         .search-row input {
-            flex: 1;
+            width: 100%;
             padding: 10px 14px;
             border: 1px solid #ddd;
             border-radius: 40px;
             font-size: 0.9rem;
             outline: none;
+            margin-bottom: 12px;
         }
 
         .buttons-row {
@@ -260,6 +248,11 @@
             min-width: 100px;
             padding: 8px 12px;
             font-size: 0.8rem;
+            background: linear-gradient(135deg, #667eea, #764ba2);
+            color: white;
+            border: none;
+            border-radius: 40px;
+            cursor: pointer;
         }
 
         .btn-save { background: linear-gradient(135deg, #27ae60, #2ecc71); }
@@ -311,7 +304,6 @@
             width: 20px;
             height: 20px;
             cursor: pointer;
-            flex-shrink: 0;
         }
 
         .group-title {
@@ -339,7 +331,6 @@
             width: 18px;
             height: 18px;
             cursor: pointer;
-            flex-shrink: 0;
         }
 
         .channel-info { flex: 1; }
@@ -415,42 +406,39 @@
             white-space: nowrap;
         }
         .toast.error { background: #ff4757; }
-
-        @media (min-width: 768px) {
-            .channels-wrapper { max-height: 60vh; }
-            .action-panel { position: sticky; top: 10px; z-index: 100; }
-        }
     </style>
 </head>
 <body>
 <div class="container">
     <div class="header">
         <h1>IPTV Объединитель плейлистов</h1>
-        <p>С подробным просмотром дубликатов по URL</p>
+        <p>Два способа добавить плейлист по ссылке</p>
     </div>
     <div class="content">
-        <div class="upload-section">
-            <div class="upload-area" id="uploadArea">
-                <div class="upload-icon">📁</div>
-                <h3>Нажмите или перетащите файлы</h3>
-                <p>.m3u .m3u8 (добавляются автоматически)</p>
-                <input type="file" id="fileInput" multiple accept=".m3u,.m3u8" style="display: none;">
-            </div>
+        <div class="upload-area" id="uploadArea">
+            <div class="upload-icon">📁</div>
+            <h3>Нажмите или перетащите файлы</h3>
+            <p>.m3u .m3u8 (добавляются автоматически)</p>
+            <input type="file" id="fileInput" multiple accept=".m3u,.m3u8" style="display: none;">
+        </div>
 
-            <div class="url-section">
-                <h3>🔗 Или добавьте по ссылке (URL)</h3>
-                <div class="url-input-group">
-                    <input type="text" id="urlInput" placeholder="https://example.com/playlist.m3u" autocomplete="off">
-                    <button id="addUrlBtn">➕ Добавить</button>
-                </div>
-                <div id="urlListContainer" class="url-list" style="display: none;"></div>
+        <div class="url-section">
+            <h3>🔗 Вставьте ссылку на плейлист</h3>
+            <div class="url-input-group">
+                <input type="text" id="urlInput" placeholder="https://raw.githubusercontent.com/.../playlist.m3u" autocomplete="off">
+                <button id="loadUrlBtn" class="button-load">📥 Загрузить</button>
+                <button id="openInBrowserBtn" class="button-browser">🌐 Открыть в браузере</button>
+                <button id="clearUrlBtn" class="button-clear">🗑 Очистить</button>
+            </div>
+            <div id="urlHint" class="info-message">
+                💡 <strong>Как добавить плейлист:</strong><br>
+                • <strong>«Загрузить»</strong> — для быстрых ссылок (GitHub, Dropbox)<br>
+                • <strong>«Открыть в браузере»</strong> — если ссылка не загружается, откроется в новой вкладке → скачайте файл → перетащите в область выше
             </div>
         </div>
 
         <div id="fileListContainer" class="file-list" style="display: none;"></div>
-
         <div id="stats" style="display: none;"></div>
-        <div id="debugInfo" class="debug-info" style="display: none;"></div>
         
         <div id="actionPanel" class="action-panel" style="display: none;">
             <div class="search-row"><input type="text" id="searchInput" placeholder="🔍 Введите название канала..."></div>
@@ -509,11 +497,10 @@
             });
             fileInput.addEventListener('change', (e) => this.handleLocalFiles(e.target.files));
 
-            document.getElementById('addUrlBtn').addEventListener('click', () => this.addUrlFile());
-            document.getElementById('urlInput').addEventListener('keypress', (e) => { if (e.key === 'Enter') this.addUrlFile(); });
-
-            document.getElementById('viewDuplicatesBtn')?.addEventListener('click', () => this.showDuplicates());
-            document.getElementById('exportAllBtn')?.addEventListener('click', () => this.exportAll());
+            document.getElementById('loadUrlBtn').addEventListener('click', () => this.loadUrl());
+            document.getElementById('openInBrowserBtn').addEventListener('click', () => this.openInBrowser());
+            document.getElementById('clearUrlBtn').addEventListener('click', () => this.clearUrlInput());
+            document.getElementById('urlInput').addEventListener('keypress', (e) => { if (e.key === 'Enter') this.loadUrl(); });
         }
 
         handleLocalFiles(fileList) {
@@ -542,32 +529,89 @@
             reader.readAsText(file, 'utf-8');
         }
 
-        async addUrlFile() {
+        async loadUrl() {
             const urlInput = document.getElementById('urlInput');
             let url = urlInput.value.trim();
-            if (!url) { this.showMessage('Введите ссылку на M3U файл', 'error'); return; }
+            if (!url) {
+                this.showMessage('Введите ссылку на плейлист', 'error');
+                return;
+            }
+            
             if (!url.startsWith('http://') && !url.startsWith('https://')) {
                 url = 'https://' + url;
             }
-            this.showMessage(`⏳ Загрузка ${url}...`, 'success');
+            
+            const hint = document.getElementById('urlHint');
+            hint.innerHTML = '⏳ Загрузка...';
+            hint.className = 'info-message';
+            
             try {
-                const response = await fetch(url);
+                const response = await fetch(url, {
+                    headers: {
+                        'User-Agent': 'Mozilla/5.0'
+                    }
+                });
+                
                 if (!response.ok) throw new Error(`HTTP ${response.status}`);
+                
                 const content = await response.text();
-                const fileName = url.split('/').pop() || 'remote.m3u';
+                
+                if (!content.includes('#EXTM3U') && !content.includes('#EXTINF')) {
+                    throw new Error('Файл не является M3U плейлистом');
+                }
+                
+                let fileName = url.split('/').pop() || 'remote.m3u';
+                if (!fileName.endsWith('.m3u')) fileName += '.m3u';
+                
                 this.sources.push({
                     name: fileName,
                     content: content,
                     isUrl: true,
                     sourceUrl: url
                 });
+                
                 this.renderSourcesList();
                 this.autoMerge();
-                this.showMessage(`✅ Добавлен: ${fileName}`, 'success');
+                
+                hint.innerHTML = `✅ Загружено: ${fileName}<br>📁 Источник: ${url}`;
+                hint.className = 'info-message success';
+                setTimeout(() => {
+                    hint.innerHTML = `💡 <strong>Как добавить плейлист:</strong><br>• <strong>«Загрузить»</strong> — для быстрых ссылок (GitHub, Dropbox)<br>• <strong>«Открыть в браузере»</strong> — если ссылка не загружается, откроется в новой вкладке → скачайте файл → перетащите в область выше`;
+                    hint.className = 'info-message';
+                }, 3000);
+                
+                this.showMessage(`✅ Загружено: ${fileName}`, 'success');
                 urlInput.value = '';
+                
             } catch (err) {
-                this.showMessage(`❌ Ошибка загрузки: ${err.message}`, 'error');
+                hint.innerHTML = `❌ Ошибка: ${err.message}<br>💡 Попробуйте нажать кнопку «Открыть в браузере» — скачайте файл и перетащите в область выше`;
+                hint.className = 'info-message';
+                this.showMessage(`❌ Не удалось загрузить: ${err.message}`, 'error');
             }
+        }
+
+        openInBrowser() {
+            const urlInput = document.getElementById('urlInput');
+            let url = urlInput.value.trim();
+            if (!url) {
+                this.showMessage('Введите ссылку', 'error');
+                return;
+            }
+            
+            if (!url.startsWith('http://') && !url.startsWith('https://')) {
+                url = 'https://' + url;
+            }
+            
+            window.open(url, '_blank');
+            this.showMessage('🌐 Файл открыт в новой вкладке. Скачайте его и перетащите в область выше', 'success');
+        }
+
+        clearUrlInput() {
+            document.getElementById('urlInput').value = '';
+            const hint = document.getElementById('urlHint');
+            hint.innerHTML = `💡 <strong>Как добавить плейлист:</strong><br>• <strong>«Загрузить»</strong> — для быстрых ссылок (GitHub, Dropbox)<br>• <strong>«Открыть в браузере»</strong> — если ссылка не загружается, откроется в новой вкладке → скачайте файл → перетащите в область выше`;
+            hint.className = 'info-message';
+            this.showMessage('Поле ввода очищено', 'success');
         }
 
         removeSource(index) {
@@ -581,7 +625,6 @@
                 if (document.getElementById('searchInput')) document.getElementById('searchInput').value = '';
                 document.getElementById('preview').style.display = 'none';
                 document.getElementById('stats').style.display = 'none';
-                document.getElementById('debugInfo').style.display = 'none';
                 document.getElementById('actionPanel').style.display = 'none';
             } else {
                 this.autoMerge();
@@ -596,8 +639,8 @@
             this.sources.forEach((src, idx) => {
                 const div = document.createElement('div');
                 div.className = 'file-item';
-                const sourceInfo = src.isUrl ? `🔗 ${src.sourceUrl.substring(0, 60)}...` : `📁 ${src.name}`;
-                div.innerHTML = `<span><strong>${this.escapeHtml(src.name)}</strong><br><small>${sourceInfo}</small></span><button class="remove-file" data-idx="${idx}">Удалить</button>`;
+                const typeIcon = src.isUrl ? '🔗' : '📁';
+                div.innerHTML = `<span><strong>${typeIcon} ${this.escapeHtml(src.name)}</strong><br><small>${this.escapeHtml(src.sourceUrl.substring(0, 60))}${src.sourceUrl.length > 60 ? '...' : ''}</small></span><button class="remove-file" data-idx="${idx}">Удалить</button>`;
                 container.appendChild(div);
             });
             document.querySelectorAll('.remove-file').forEach(btn => {
@@ -677,7 +720,6 @@
             this.uniqueChannels.sort((a,b) => a.order - b.order);
             this.uniqueChannels.forEach((ch, idx) => ch.id = `ch_${idx}`);
             
-            // Сохраняем выделение по URL (если канал с таким URL уже был выбран)
             const oldSelectedUrls = new Set();
             for (const oldId of this.selectedIds) {
                 const oldCh = this.uniqueChannels.find(oc => oc.id === oldId);
@@ -692,7 +734,6 @@
             
             this.showStats();
             this.renderChannelsList();
-            this.updateButtons();
             
             this.isProcessing = false;
         }
@@ -736,27 +777,20 @@
             this.updateCounters();
         }
         
-        // ГЛАВНАЯ ЛОГИКА: при поиске АВТОМАТИЧЕСКИ выделяем все найденные каналы
         applySearchAndAutoSelect() {
             if (this.searchText.trim() === '') {
-                // Если поиск пустой - не меняем выделение, просто обновляем отображение
                 this.updateChannelsView();
                 this.updateCounters();
                 return;
             }
             
-            // Находим каналы по поиску
             const found = this.uniqueChannels.filter(ch => 
                 ch.name.toLowerCase().includes(this.searchText) || 
                 ch.url.toLowerCase().includes(this.searchText)
             );
             this.currentFoundChannels = found;
-            
-            // АВТОМАТИЧЕСКИ выделяем ВСЕ найденные каналы
             this.selectedIds.clear();
             found.forEach(ch => this.selectedIds.add(ch.id));
-            
-            // Обновляем отображение
             this.updateChannelsView();
             this.updateCounters();
         }
@@ -826,18 +860,12 @@
         
         exportSelected() {
             if (this.selectedIds.size === 0) { 
-                this.showMessage('Ничего не выбрано. Чтобы сохранить каналы: найдите их через поиск (автовыделение) или поставьте галочки вручную', 'error'); 
+                this.showMessage('Ничего не выбрано', 'error'); 
                 return; 
             }
             const selected = this.uniqueChannels.filter(ch => this.selectedIds.has(ch.id));
             this.downloadM3U(selected, `selected_${Date.now()}.m3u`);
             this.showMessage(`✅ Сохранено ${selected.length} каналов`, 'success');
-        }
-        
-        exportAll() {
-            if (!this.uniqueChannels.length) { this.showMessage('Нет данных', 'error'); return; }
-            this.downloadM3U(this.uniqueChannels, `all_merged_${Date.now()}.m3u`);
-            this.showMessage(`✅ Экспортировано ${this.uniqueChannels.length} каналов`, 'success');
         }
         
         downloadM3U(channels, filename) {
@@ -883,16 +911,6 @@
                 <div class="stat-card" id="dupStatCard"><div class="stat-number" style="color:#ff4757;">${dupCount}</div><div class="stat-label">Дублей удалено</div></div>
             </div>`;
             document.getElementById('dupStatCard')?.addEventListener('click', () => this.showDuplicates());
-            const debug = document.getElementById('debugInfo');
-            debug.style.display = 'block';
-            debug.innerHTML = `📊 Групп дубликатов: ${this.duplicateGroups.length} | Автоматическое обновление`;
-        }
-        
-        updateButtons() {
-            const viewBtn = document.getElementById('viewDuplicatesBtn');
-            const exportAll = document.getElementById('exportAllBtn');
-            if (viewBtn) viewBtn.disabled = !this.duplicateGroups.length;
-            if (exportAll) exportAll.disabled = !this.uniqueChannels.length;
         }
         
         showMessage(msg, type) {
