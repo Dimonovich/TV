@@ -1,0 +1,596 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover, user-scalable=yes">
+    <title>Мастер инструментов | Сжатие · Аудио · ZIP</title>
+    <style>
+        * {
+            box-sizing: border-box;
+            -webkit-tap-highlight-color: transparent;
+        }
+
+        body {
+            font-family: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
+            background: #eef2f8;
+            margin: 0;
+            padding: 24px 20px 48px;
+            color: #1a2c3e;
+        }
+
+        .master-container {
+            max-width: 1300px;
+            margin: 0 auto;
+        }
+
+        .portal-header {
+            text-align: center;
+            margin-bottom: 32px;
+        }
+
+        .portal-header h1 {
+            font-size: 2.2rem;
+            font-weight: 700;
+            background: linear-gradient(135deg, #1f6e8c, #2c3e66);
+            background-clip: text;
+            -webkit-background-clip: text;
+            color: transparent;
+            margin: 0;
+        }
+
+        .portal-header p {
+            color: #4a627a;
+            margin-top: 8px;
+        }
+
+        .tools-tabs {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 12px;
+            margin-bottom: 28px;
+            justify-content: center;
+            border-bottom: 2px solid #d4e2f0;
+            padding-bottom: 12px;
+        }
+
+        .tab-btn {
+            background: #ffffffcc;
+            backdrop-filter: blur(4px);
+            border: none;
+            padding: 12px 28px;
+            border-radius: 60px;
+            font-weight: 600;
+            font-size: 1rem;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            color: #2c5a74;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+            border: 1px solid #cfe0ed;
+        }
+
+        .tab-btn.active {
+            background: #1f6392;
+            color: white;
+            border-color: #1f6392;
+            box-shadow: 0 6px 14px rgba(31,99,146,0.25);
+        }
+
+        .tool-panel {
+            display: none;
+            animation: fadeIn 0.25s ease;
+        }
+
+        .tool-panel.active-panel {
+            display: block;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(6px);}
+            to { opacity: 1; transform: translateY(0);}
+        }
+
+        .tool-card {
+            background: white;
+            border-radius: 36px;
+            box-shadow: 0 12px 28px rgba(0, 0, 0, 0.05);
+            padding: 24px 24px 32px;
+            transition: all 0.2s;
+        }
+
+        /* Стили для вкладок ZIP (архивирование / разархивирование) */
+        .zip-subtabs {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 20px;
+            border-bottom: 1px solid #dce5f2;
+            padding-bottom: 10px;
+        }
+        .zip-subtab {
+            background: none;
+            border: none;
+            padding: 8px 24px;
+            font-size: 0.95rem;
+            font-weight: 600;
+            cursor: pointer;
+            border-radius: 40px;
+            color: #5a6e85;
+            transition: all 0.2s;
+        }
+        .zip-subtab.active {
+            background: #1f6392;
+            color: white;
+        }
+        .zip-mode-panel {
+            display: none;
+        }
+        .zip-mode-panel.active-mode {
+            display: block;
+        }
+        .file-list {
+            max-height: 240px;
+            overflow-y: auto;
+            background: #fafcff;
+            border-radius: 24px;
+            border: 1px solid #e2e8f0;
+            margin-top: 8px;
+        }
+        .file-item {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 8px 12px;
+            border-bottom: 1px solid #edf2f7;
+        }
+        .file-item:last-child { border-bottom: none; }
+        .extracted-item {
+            cursor: pointer;
+            transition: background 0.1s;
+        }
+        .extracted-item:hover { background: #eef3fc; }
+        .folder-badge {
+            background: #e2eaf1;
+            padding: 2px 8px;
+            border-radius: 20px;
+            font-size: 0.7rem;
+        }
+
+        @media (max-width: 700px) {
+            body { padding: 16px 12px 32px; }
+            .tool-card { padding: 18px 16px 24px; }
+            .tab-btn { padding: 8px 20px; font-size: 0.9rem; }
+        }
+
+        button { cursor: pointer; transition: 0.2s; }
+        button:active { transform: scale(0.97); }
+        footer {
+            text-align: center;
+            margin-top: 32px;
+            font-size: 0.7rem;
+            color: #7c95af;
+        }
+    </style>
+    <script src="https://cdn.jsdelivr.net/npm/lamejs@1.2.1/lame.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/2.0.5/FileSaver.min.js"></script>
+</head>
+<body>
+<div class="master-container">
+    <div class="portal-header">
+        <h1>🧰 Мультитул: сжатие · аудио · ZIP</h1>
+        <p>Сжимайте изображения, меняйте битрейт MP3, создавайте и распаковывайте ZIP-архивы</p>
+    </div>
+
+    <div class="tools-tabs">
+        <button class="tab-btn active" data-tool="image">🖼️ Сжатие изображений</button>
+        <button class="tab-btn" data-tool="mp3">🎵 MP3 конвертер битрейта</button>
+        <button class="tab-btn" data-tool="zip">📦 ZIP (Архиватор + Разархиватор)</button>
+    </div>
+
+    <!-- Панель 1: ImageSqueeze -->
+    <div id="imageTool" class="tool-panel active-panel">
+        <div class="tool-card">
+            <h2 style="margin:0 0 6px 0; font-size:1.7rem;">✨ ImageSqueeze</h2>
+            <div style="color:#5e7a93; margin-bottom: 24px; border-left: 3px solid #2c7da0; padding-left: 12px;">JPEG · PNG · WEBP — сжатие в браузере с контролем качества</div>
+
+            <div id="imgUploadZone" style="background:#f8fafd; border:2px dashed #bdd4e7; border-radius:28px; padding:28px 20px; text-align:center; cursor:pointer; margin-bottom:24px;">
+                <div style="font-size:3rem;">📸🖼️</div>
+                <div style="font-weight:500; color:#1f5e7e;">Нажмите или перетащите изображение</div>
+                <div style="font-size:0.75rem; color:#7f95b0;">JPG, PNG, WEBP (до 25 МБ)</div>
+                <input type="file" id="imgFileInput" accept="image/jpeg,image/png,image/webp" style="display:none;">
+            </div>
+
+            <div style="background:#f9fbfd; border-radius:24px; padding:16px 18px; margin:20px 0;">
+                <div style="display:flex; justify-content:space-between; margin-bottom:12px;">
+                    <span style="color:#1a2c3e;">🎚️ Качество сжатия</span>
+                    <span id="imgQualityValue" style="background:#e2eaf1; padding:4px 12px; border-radius:40px; color:#1a2c3e;">85%</span>
+                </div>
+                <input type="range" id="imgQualitySlider" min="10" max="100" value="85" step="1" style="width:100%;">
+                <div style="font-size:0.7rem; color:#6f8eae; margin-top:6px;">Меньше размер ↔ Баланс ↔ Лучше качество</div>
+            </div>
+
+            <div id="imgPreviewArea" style="display:none;">
+                <div style="display:flex; flex-wrap:wrap; gap:20px; margin:16px 0;">
+                    <div style="flex:1; background:#fff; border-radius:24px; padding:16px; text-align:center; box-shadow:0 2px 8px rgba(0,0,0,0.05); border:1px solid #eef2f6;">
+                        <div style="font-weight:600; color:#1a2c3e;">📂 Оригинал</div>
+                        <img id="imgOriginalPreview" style="max-width:100%; max-height:170px; border-radius:16px; margin:10px 0;">
+                        <div id="imgOriginalSize" style="font-size:0.75rem; color:#5e7a93;"></div>
+                    </div>
+                    <div style="flex:1; background:#fff; border-radius:24px; padding:16px; text-align:center; box-shadow:0 2px 8px rgba(0,0,0,0.05); border:1px solid #eef2f6;">
+                        <div style="font-weight:600; color:#1a2c3e;">🗜️ Сжатое <span id="imgRatioBadge" style="background:#eef2fa; padding:2px 8px; border-radius:50px; font-size:0.7rem;">—</span></div>
+                        <img id="imgCompressedPreview" style="max-width:100%; max-height:170px; border-radius:16px; margin:10px 0;">
+                        <div id="imgCompressedSize" style="font-size:0.75rem; color:#5e7a93;"></div>
+                        <button id="imgDownloadBtn" style="background:#2c7da0; color:white; border:none; padding:8px 14px; border-radius:40px; margin-top:8px; width:100%; cursor:pointer;">⬇️ Скачать сжатое</button>
+                    </div>
+                </div>
+                <button id="imgResetBtn" style="background:transparent; border:1px solid #cbdde9; padding:10px; border-radius:40px; width:100%; cursor:pointer; color:#4a627a;">🔄 Загрузить другое изображение</button>
+            </div>
+            <div style="font-size:0.7rem; text-align:center; margin-top:20px; color:#8ca3bc;">⚡ Локальная обработка, качество регулируется, PNG → WEBP для сжатия.</div>
+        </div>
+    </div>
+
+    <!-- Панель 2: MP3 конвертер битрейта -->
+    <div id="mp3Tool" class="tool-panel">
+        <div class="tool-card">
+            <h2 style="margin:0 0 6px 0; color:#1a2c3e;">🎧 MP3 → MP3</h2>
+            <div style="margin-bottom: 20px; color:#5a6e85;">Конвертация с изменением битрейта.</div>
+            
+            <div id="mp3DropZone" style="background:#eef2f8; border-radius:36px; padding:24px; text-align:center; border:2px dashed #8a9bb5; cursor:pointer; margin-bottom:24px;">
+                <div style="font-size:2.5rem;">🎵📀</div>
+                <div style="color:#1a2c3e; font-weight:500;">Перетащите MP3 или нажмите для выбора</div>
+                <button id="mp3SelectBtn" style="background:#2a6d9e; border:none; padding:8px 24px; border-radius:60px; margin-top:12px; color:white; cursor:pointer;">📂 Выбрать MP3</button>
+                <div id="mp3FileNameDisplay" style="margin-top:12px; font-size:0.8rem; color:#2c5a74;"></div>
+                <input type="file" id="mp3FileInput" accept="audio/mpeg,audio/mp3,.mp3" style="display:none;">
+            </div>
+
+            <div style="background:#f0f4fa; border-radius:40px; padding:18px 20px; margin-bottom:20px;">
+                <div style="display:flex; flex-wrap:wrap; align-items:center; justify-content:space-between; gap:12px;">
+                    <span style="background:#e2eaf1; padding:6px 18px; border-radius:60px; color:#1a2c3e; font-weight:500;">🎚️ Целевой битрейт:</span>
+                    <input type="range" id="mp3BitrateSlider" min="32" max="256" step="8" value="128" style="flex:2; min-width:150px;">
+                    <span id="mp3BitrateValue" style="background:#e2eaf1; padding:6px 16px; border-radius:60px; font-family:monospace; color:#1a2c3e; font-weight:600;">128 kbps</span>
+                </div>
+                <div style="font-size:0.7rem; color:#5a6e85; margin-top:12px; text-align:center;">💡 32-64 (речь/подкасты) | 96-128 (хорошее) | 160-256 (высокое качество)</div>
+            </div>
+
+            <div style="display:flex; gap:16px; justify-content:center; margin-bottom:20px;">
+                <button id="mp3ConvertBtn" disabled style="background:#1f7a4a; color:white; padding:10px 32px; border-radius:60px; border:none; cursor:pointer; font-weight:600;">▶ НАЧАТЬ КОНВЕРТАЦИЮ</button>
+                <button id="mp3ResetBtn" style="background:#4a627a; padding:10px 28px; border-radius:60px; color:white; border:none; cursor:pointer; font-weight:600;">⟳ СБРОСИТЬ</button>
+            </div>
+
+            <div id="mp3ProgressArea" style="display:none;">
+                <div style="background:#dce5ef; border-radius:60px; padding:2px;"><div id="mp3ProgressFill" style="width:0%; height:12px; background:#2c7da0; border-radius:60px; transition:0.2s;"></div></div>
+                <div id="mp3ProgressPercent" style="text-align:center; font-size:0.8rem; margin-top:6px; color:#2c5a74;">0%</div>
+            </div>
+            <div id="mp3StatusMsg" style="background:#eef2f8; border-radius:60px; padding:12px; text-align:center; font-size:0.85rem; margin:12px 0; color:#1a2c3e; border:1px solid #d4e2f0;">📂 Загрузите MP3 файл</div>
+            <div id="mp3ResultBlock" style="display:none; background:#eef2f8; border-radius:44px; padding:16px; margin-top:16px; display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:12px; border:1px solid #d4e2f0;">
+                <span id="mp3ResultInfo" style="color:#1a2c3e; font-size:0.85rem;"></span>
+                <button id="mp3SaveBtn" style="background:#1f6392; padding:8px 28px; border-radius:60px; color:white; border:none; cursor:pointer; font-weight:500;">💾 СОХРАНИТЬ ФАЙЛ</button>
+            </div>
+            <div style="margin-top:20px; font-size:0.7rem; text-align:center; color:#7c95af;">🔊 Конвертация через Web Audio + lamejs.</div>
+        </div>
+    </div>
+
+    <!-- Панель 3: ZIP (архиватор + разархиватор) -->
+    <div id="zipTool" class="tool-panel">
+        <div class="tool-card">
+            <h2 style="color:#1a2c3e;">📦 ZIP: Архивация + Разархивация</h2>
+            <div style="margin:8px 0 16px; color:#5a6e85;">Создавайте ZIP или распаковывайте существующие архивы</div>
+            
+            <!-- Вкладки режимов -->
+            <div class="zip-subtabs">
+                <button class="zip-subtab active" data-zipmode="pack">📀 Создать ZIP</button>
+                <button class="zip-subtab" data-zipmode="unpack">📂 Распаковать ZIP</button>
+            </div>
+
+            <!-- РЕЖИМ АРХИВАЦИИ -->
+            <div id="zipPackMode" class="zip-mode-panel active-mode">
+                <div id="zipDropzone" style="border:2px dashed #8a9bb5; border-radius:32px; background:#f9fcff; padding:32px 20px; text-align:center; cursor:pointer; margin-bottom:20px;">
+                    <div style="font-size:42px;">📂➕</div>
+                    <div style="color:#1a2c3e; font-weight:500;"><strong>Перетащите файлы</strong> или нажмите для выбора</div>
+                    <div style="font-size:0.7rem; color:#7c95af; margin-top:6px;">Любые типы файлов</div>
+                    <input type="file" id="zipFileInput" multiple style="display:none;">
+                </div>
+                <div id="zipFileListContainer" style="display:none; margin:16px 0;">
+                    <div style="display:flex; justify-content:space-between; color:#1a2c3e; font-weight:500;"><span>📄 Файлы для архива</span><button id="zipClearAllBtn" style="background:none; border:none; color:#b91c1c; cursor:pointer;">Очистить всё</button></div>
+                    <div id="zipFileList" class="file-list"></div>
+                </div>
+                <div style="display:flex; gap:16px; margin:20px 0;">
+                    <button id="zipCreateBtn" disabled style="background:#1f6392; padding:12px 32px; color:white; border-radius:60px; border:none; cursor:pointer; font-weight:600;">📀 Создать ZIP-архив</button>
+                    <button id="zipClearBtn" disabled style="background:#4a627a; padding:12px 28px; color:white; border-radius:60px; border:none; cursor:pointer; font-weight:600;">🗑️ Удалить все</button>
+                </div>
+                <div id="zipProgressArea" style="display:none;">
+                    <div style="background:#e2e8f0; border-radius:30px; height:10px;"><div id="zipProgressFill" style="width:0%; background:#2c7da0; height:100%; border-radius:30px;"></div></div>
+                    <div id="zipStatusMsg" style="font-size:0.8rem; margin-top:8px; color:#2c5a74;"></div>
+                </div>
+            </div>
+
+            <!-- РЕЖИМ РАЗАРХИВАЦИИ -->
+            <div id="zipUnpackMode" class="zip-mode-panel">
+                <div id="unpackDropzone" style="border:2px dashed #8a9bb5; border-radius:32px; background:#f9fcff; padding:32px 20px; text-align:center; cursor:pointer; margin-bottom:20px;">
+                    <div style="font-size:42px;">🗜️➡️📂</div>
+                    <div style="color:#1a2c3e; font-weight:500;"><strong>Перетащите ZIP-файл</strong> или нажмите для выбора</div>
+                    <div style="font-size:0.7rem; color:#7c95af; margin-top:6px;">Поддерживаются ZIP-архивы</div>
+                    <input type="file" id="unpackFileInput" accept=".zip,application/zip" style="display:none;">
+                </div>
+                <div id="unpackResultArea" style="display:none; margin-top:20px;">
+                    <div style="background:#eef2f8; border-radius:24px; padding:16px;">
+                        <div style="font-weight:600; margin-bottom:12px;">📂 Содержимое архива:</div>
+                        <div id="unpackFileList" class="file-list" style="max-height:280px;"></div>
+                        <div style="margin-top:16px; display:flex; gap:12px; flex-wrap:wrap;">
+                            <button id="extractAllBtn" style="background:#1f6392; padding:10px 24px; border-radius:60px; color:white; border:none; font-weight:500;">💾 Распаковать всё (сохранить ZIP-папкой)</button>
+                            <button id="clearUnpackBtn" style="background:#4a627a; padding:10px 24px; border-radius:60px; color:white; border:none;">🗑️ Очистить</button>
+                        </div>
+                        <div id="unpackStatus" style="margin-top:12px; font-size:0.8rem; color:#2c5a74;"></div>
+                    </div>
+                </div>
+                <div id="unpackProgressArea" style="display:none; margin-top:16px;">
+                    <div style="background:#e2e8f0; border-radius:30px; height:10px;"><div id="unpackProgressFill" style="width:0%; background:#2c7da0; height:100%; border-radius:30px;"></div></div>
+                    <div id="unpackProgressText" style="font-size:0.75rem; margin-top:6px; color:#2c5a74;"></div>
+                </div>
+            </div>
+            <div style="font-size:0.7rem; text-align:center; color:#7c95af; margin-top:20px;">✅ ZIP — универсальный формат. Распаковывайте и создавайте архивы локально.</div>
+        </div>
+    </div>
+    <footer>🔒 Все операции на вашем устройстве. Никакие данные не отправляются на сервер.</footer>
+</div>
+
+<script>
+    (function(){
+        // ---------------------- 1) СЖАТИЕ ИЗОБРАЖЕНИЙ (как было, рабочий код) -------------------------
+        const imgUploadZone = document.getElementById('imgUploadZone');
+        const imgFileInput = document.getElementById('imgFileInput');
+        const imgQualitySlider = document.getElementById('imgQualitySlider');
+        const imgQualityValue = document.getElementById('imgQualityValue');
+        const imgPreviewArea = document.getElementById('imgPreviewArea');
+        const imgOriginalPreview = document.getElementById('imgOriginalPreview');
+        const imgCompressedPreview = document.getElementById('imgCompressedPreview');
+        const imgOriginalSizeSpan = document.getElementById('imgOriginalSize');
+        const imgCompressedSizeSpan = document.getElementById('imgCompressedSize');
+        const imgDownloadBtn = document.getElementById('imgDownloadBtn');
+        const imgResetBtn = document.getElementById('imgResetBtn');
+        const imgRatioBadge = document.getElementById('imgRatioBadge');
+
+        let imgCurrentFile = null, imgOriginalUrl = null, imgCompressedBlob = null, imgCompressedUrl = null, imgOriginalFileSize = 0;
+
+        function formatBytes(bytes) { if(bytes===0) return '0 B'; const k=1024; const sizes=['B','KB','MB']; const i=Math.floor(Math.log(bytes)/Math.log(k)); return parseFloat((bytes/Math.pow(k,i)).toFixed(1))+' '+sizes[i]; }
+        function updateImgQualityLabel() { const v=imgQualitySlider.value; imgQualityValue.innerText=v+'%'; }
+        async function compressImageBlob(file, qualityPercent) {
+            return new Promise((resolve,reject)=>{
+                const img=new Image(); const url=URL.createObjectURL(file);
+                img.onload=()=>{
+                    URL.revokeObjectURL(url);
+                    const canvas=document.createElement('canvas'); canvas.width=img.width; canvas.height=img.height;
+                    const ctx=canvas.getContext('2d'); ctx.drawImage(img,0,0);
+                    let mime='image/jpeg';
+                    if(file.type==='image/jpeg') mime='image/jpeg';
+                    else if(file.type==='image/webp') mime='image/webp';
+                    else mime='image/webp';
+                    canvas.toBlob(blob=>blob?resolve({blob,mime}):reject(new Error('Blob error')), mime, qualityPercent/100);
+                };
+                img.onerror=()=>reject(new Error('load fail'));
+                img.src=url;
+            });
+        }
+        async function refreshImageCompression(){
+            if(!imgCurrentFile) return;
+            const quality=parseInt(imgQualitySlider.value,10);
+            try{
+                imgDownloadBtn.innerText='⏳ Сжатие...'; imgDownloadBtn.disabled=true;
+                const {blob}=await compressImageBlob(imgCurrentFile, quality);
+                imgCompressedBlob=blob;
+                const compSize=blob.size, origSize=imgOriginalFileSize;
+                const ratio=((1-compSize/origSize)*100).toFixed(1);
+                imgRatioBadge.innerText=`-${ratio}%`;
+                imgCompressedSizeSpan.innerHTML=`📦 ${formatBytes(compSize)}`;
+                if(imgCompressedUrl) URL.revokeObjectURL(imgCompressedUrl);
+                imgCompressedUrl=URL.createObjectURL(blob);
+                imgCompressedPreview.src=imgCompressedUrl;
+                imgDownloadBtn.innerText='⬇️ Скачать сжатое'; imgDownloadBtn.disabled=false;
+            }catch(e){ imgCompressedSizeSpan.innerHTML='❌ ошибка'; imgDownloadBtn.disabled=true; }
+        }
+        async function loadImageFile(file){
+            if(!file || !file.type.startsWith('image/')){ alert('Выберите изображение'); return; }
+            if(file.size>28*1024*1024){ alert('Слишком большой файл'); return; }
+            imgCurrentFile=file; imgOriginalFileSize=file.size;
+            if(imgOriginalUrl) URL.revokeObjectURL(imgOriginalUrl);
+            imgOriginalUrl=URL.createObjectURL(file);
+            imgOriginalPreview.src=imgOriginalUrl;
+            imgOriginalSizeSpan.innerHTML=`📦 ${formatBytes(imgOriginalFileSize)}`;
+            imgPreviewArea.style.display='block';
+            if(imgCompressedUrl) URL.revokeObjectURL(imgCompressedUrl);
+            imgCompressedPreview.src='';
+            await refreshImageCompression();
+        }
+        imgUploadZone.addEventListener('click',()=>imgFileInput.click());
+        imgFileInput.addEventListener('change',e=>{ if(e.target.files[0]) loadImageFile(e.target.files[0]); });
+        imgUploadZone.addEventListener('dragover',e=>{ e.preventDefault(); imgUploadZone.style.background='#eef3fa';});
+        imgUploadZone.addEventListener('dragleave',()=>{ imgUploadZone.style.background='#f8fafd';});
+        imgUploadZone.addEventListener('drop',e=>{ e.preventDefault(); imgUploadZone.style.background='#f8fafd'; if(e.dataTransfer.files[0]) loadImageFile(e.dataTransfer.files[0]); });
+        imgQualitySlider.addEventListener('input',()=>{ updateImgQualityLabel(); if(imgCurrentFile) refreshImageCompression(); });
+        imgDownloadBtn.addEventListener('click',()=>{ if(!imgCompressedBlob) return; let ext='.jpg'; if(imgCompressedBlob.type==='image/webp') ext='.webp'; const name=(imgCurrentFile.name.replace(/\.[^/.]+$/,''))+`_compressed_${imgQualitySlider.value}q${ext}`; const a=document.createElement('a'); const url=URL.createObjectURL(imgCompressedBlob); a.href=url; a.download=name; document.body.appendChild(a); a.click(); document.body.removeChild(a); URL.revokeObjectURL(url); });
+        imgResetBtn.addEventListener('click',()=>{ if(imgOriginalUrl) URL.revokeObjectURL(imgOriginalUrl); if(imgCompressedUrl) URL.revokeObjectURL(imgCompressedUrl); imgCurrentFile=null; imgCompressedBlob=null; imgPreviewArea.style.display='none'; imgFileInput.value=''; imgQualitySlider.value='85'; updateImgQualityLabel(); });
+        updateImgQualityLabel();
+
+        // ---------------------- 2) MP3 КОНВЕРТЕР (как был рабочий) -------------------------
+        const mp3DropZone=document.getElementById('mp3DropZone'), mp3FileInput=document.getElementById('mp3FileInput'), mp3SelectBtn=document.getElementById('mp3SelectBtn');
+        const mp3BitrateSlider=document.getElementById('mp3BitrateSlider'), mp3BitrateValue=document.getElementById('mp3BitrateValue'), mp3ConvertBtn=document.getElementById('mp3ConvertBtn');
+        const mp3ResetBtn=document.getElementById('mp3ResetBtn'), mp3ProgressArea=document.getElementById('mp3ProgressArea'), mp3ProgressFill=document.getElementById('mp3ProgressFill');
+        const mp3ProgressPercent=document.getElementById('mp3ProgressPercent'), mp3StatusMsg=document.getElementById('mp3StatusMsg'), mp3ResultBlock=document.getElementById('mp3ResultBlock');
+        const mp3ResultInfo=document.getElementById('mp3ResultInfo'), mp3SaveBtn=document.getElementById('mp3SaveBtn'), mp3FileNameDisplay=document.getElementById('mp3FileNameDisplay');
+        let mp3OriginalFile=null, mp3AudioBuffer=null, mp3ConvertedBlob=null, mp3IsConverting=false, mp3OriginalFileSize=0, mp3Duration=0;
+        
+        function updateMp3BitrateLabel(){ const val=mp3BitrateSlider.value; mp3BitrateValue.innerText=val+' kbps'; }
+        function escapeHtml(str){ if(!str) return ''; return str.replace(/[&<>]/g,function(m){ if(m==='&') return '&amp;'; if(m==='<') return '&lt;'; if(m==='>') return '&gt;'; return m;});}
+        async function loadMp3File(file){ 
+            if(!file||(!file.type.includes('mpeg')&&!file.name.endsWith('.mp3'))){ mp3StatusMsg.innerHTML='❌ Нужен MP3'; return false; }
+            mp3OriginalFile=file; mp3OriginalFileSize=file.size; mp3FileNameDisplay.innerHTML=`🎵 ${escapeHtml(file.name)} (${(file.size/1024).toFixed(1)} KB)`;
+            mp3StatusMsg.innerHTML='⏳ Декодирование...'; mp3ConvertBtn.disabled=true; mp3ResultBlock.style.display='none';
+            const reader=new FileReader(); 
+            return new Promise((resolve)=>{ 
+                reader.onload=async(e)=>{ 
+                    try { 
+                        const audioCtx=new (window.AudioContext||window.webkitAudioContext)(); 
+                        const buf=await audioCtx.decodeAudioData(e.target.result); 
+                        mp3AudioBuffer=buf; mp3Duration=buf.duration; 
+                        await audioCtx.close(); 
+                        mp3StatusMsg.innerHTML=`✅ Загружен: ${mp3Duration.toFixed(1)} сек, выберите битрейт.`; 
+                        mp3ConvertBtn.disabled=false; 
+                        resolve(true); 
+                    } catch(err){ 
+                        mp3StatusMsg.innerHTML='❌ Ошибка декодирования'; 
+                        resolve(false); 
+                    } 
+                }; 
+                reader.onerror=()=>{ mp3StatusMsg.innerHTML='Ошибка чтения'; resolve(false); }; 
+                reader.readAsArrayBuffer(file); 
+            }); 
+        }
+        async function startMp3Conversion(){ 
+            if(!mp3AudioBuffer||mp3IsConverting) return; 
+            const targetBit=parseInt(mp3BitrateSlider.value,10); 
+            mp3IsConverting=true; mp3ConvertBtn.disabled=true; mp3ProgressArea.style.display='block'; 
+            mp3ProgressFill.style.width='0%'; mp3ProgressPercent.innerText='0%'; mp3StatusMsg.innerHTML=`Конвертация ${targetBit} kbps...`; 
+            try{
+                const channels=mp3AudioBuffer.numberOfChannels, sampleRate=mp3AudioBuffer.sampleRate; 
+                const left=mp3AudioBuffer.getChannelData(0); const right=channels>1?mp3AudioBuffer.getChannelData(1):null;
+                const float16=(arr)=>{ const out=new Int16Array(arr.length); for(let i=0;i<arr.length;i++){ let s=Math.max(-1,Math.min(1,arr[i])); out[i]=s<0?s*0x8000:s*0x7FFF; } return out; };
+                const leftPCM=float16(left), rightPCM=right?float16(right):null; 
+                const encoder=new lamejs.Mp3Encoder(channels,sampleRate,targetBit); 
+                const blockSize=1152; const chunks=[]; let offset=0, remaining=mp3AudioBuffer.length;
+                const updatePercent=()=>{ const percent=Math.min(99,Math.floor((offset/mp3AudioBuffer.length)*100)); mp3ProgressFill.style.width=percent+'%'; mp3ProgressPercent.innerText=percent+'%'; };
+                while(remaining>0){ 
+                    const curBlock=Math.min(blockSize,remaining); 
+                    const leftChunk=leftPCM.subarray(offset,offset+curBlock); 
+                    const rightChunk=rightPCM?rightPCM.subarray(offset,offset+curBlock):null; 
+                    const mp3Buf=encoder.encodeBuffer(leftChunk,rightChunk); 
+                    if(mp3Buf.length) chunks.push(new Int8Array(mp3Buf)); 
+                    offset+=curBlock; remaining-=curBlock; updatePercent(); 
+                    if(offset%3000===0) await new Promise(r=>setTimeout(r,0)); 
+                }
+                const final=encoder.flush(); if(final.length) chunks.push(new Int8Array(final)); 
+                let totalLen=chunks.reduce((s,a)=>s+a.length,0); const merged=new Uint8Array(totalLen); let pos=0; 
+                for(const c of chunks){ merged.set(c,pos); pos+=c.length; } 
+                mp3ConvertedBlob=new Blob([merged],{type:'audio/mp3'}); 
+                mp3ProgressFill.style.width='100%'; mp3ProgressPercent.innerText='100%'; 
+                mp3StatusMsg.innerHTML='✅ Конвертация завершена!'; 
+                const newSizeKB=(mp3ConvertedBlob.size/1024).toFixed(1); const oldKB=(mp3OriginalFileSize/1024).toFixed(1); 
+                mp3ResultInfo.innerHTML=`🎯 ${targetBit} kbps | ${newSizeKB} KB (было ${oldKB} KB) | ${mp3Duration.toFixed(1)} сек`; 
+                mp3ResultBlock.style.display='flex'; 
+            }catch(e){ mp3StatusMsg.innerHTML='❌ Ошибка кодирования'; }finally{ 
+                mp3IsConverting=false; if(mp3AudioBuffer) mp3ConvertBtn.disabled=false; 
+                setTimeout(()=>{ mp3ProgressArea.style.display='none'; },1500); 
+            } 
+        }
+        function saveMp3(){ if(!mp3ConvertedBlob){ mp3StatusMsg.innerHTML='Нет сконвертированного файла'; return; } let basename=mp3OriginalFile?mp3OriginalFile.name.replace(/\.mp3$/i,''):'audio'; const bit=parseInt(mp3BitrateSlider.value,10); const a=document.createElement('a'); const url=URL.createObjectURL(mp3ConvertedBlob); a.href=url; a.download=`${basename}_${bit}kbps.mp3`; document.body.appendChild(a); a.click(); document.body.removeChild(a); URL.revokeObjectURL(url); mp3StatusMsg.innerHTML='✅ Сохранено!'; }
+        function resetMp3(){ mp3OriginalFile=null; mp3AudioBuffer=null; mp3ConvertedBlob=null; mp3FileNameDisplay.innerHTML=''; mp3ResultBlock.style.display='none'; mp3StatusMsg.innerHTML='📂 Сброс. Загрузите MP3.'; mp3ConvertBtn.disabled=true; mp3BitrateSlider.value='128'; updateMp3BitrateLabel(); mp3ProgressArea.style.display='none'; if(mp3FileInput) mp3FileInput.value=''; }
+        mp3SelectBtn.addEventListener('click',()=>mp3FileInput.click()); 
+        mp3FileInput.addEventListener('change',async e=>{ if(e.target.files[0]) await loadMp3File(e.target.files[0]); mp3FileInput.value=''; });
+        mp3DropZone.addEventListener('dragover',e=>e.preventDefault()); 
+        mp3DropZone.addEventListener('drop',async e=>{ e.preventDefault(); const file=e.dataTransfer.files[0]; if(file) await loadMp3File(file); });
+        mp3ConvertBtn.addEventListener('click',startMp3Conversion); mp3ResetBtn.addEventListener('click',resetMp3); mp3SaveBtn.addEventListener('click',saveMp3); mp3BitrateSlider.addEventListener('input',updateMp3BitrateLabel); 
+        mp3ConvertBtn.disabled=true;
+
+        // ---------------------- 3) ZIP: АРХИВАЦИЯ + РАЗАРХИВАЦИЯ -------------------------
+        // Элементы для архивации
+        const zipDropzone=document.getElementById('zipDropzone'), zipFileInput=document.getElementById('zipFileInput'), zipCreateBtn=document.getElementById('zipCreateBtn'), zipClearBtn=document.getElementById('zipClearBtn'), zipClearAllBtn=document.getElementById('zipClearAllBtn');
+        const zipFileListContainer=document.getElementById('zipFileListContainer'), zipFileListDiv=document.getElementById('zipFileList'), zipProgressArea=document.getElementById('zipProgressArea'), zipProgressFill=document.getElementById('zipProgressFill'), zipStatusMsg=document.getElementById('zipStatusMsg');
+        let zipSelectedFiles=[];
+        
+        function zipFormatSize(bytes){ if(bytes===0) return '0 B'; const k=1024; const sizes=['B','KB','MB']; const i=Math.floor(Math.log(bytes)/Math.log(k)); return parseFloat((bytes/Math.pow(k,i)).toFixed(1))+' '+sizes[i]; }
+        function renderZipFileList(){ zipFileListDiv.innerHTML=''; zipSelectedFiles.forEach((f,i)=>{ const div=document.createElement('div'); div.className='file-item'; div.innerHTML=`<span style="font-weight:500; color:#1a2c3e; max-width:60%; overflow:hidden;">${escapeHtml(f.name)}</span><span style="font-size:0.75rem; color:#5a6e85;">${zipFormatSize(f.size)}</span><button data-idx="${i}" class="zip-remove" style="background:none; border:none; font-size:1.2rem; cursor:pointer; color:#b91c1c;">✕</button>`; zipFileListDiv.appendChild(div); }); document.querySelectorAll('.zip-remove').forEach(btn=>{ btn.addEventListener('click',(e)=>{ const idx=parseInt(btn.getAttribute('data-idx'),10); zipSelectedFiles.splice(idx,1); updateZipUI(); }); }); }
+        function updateZipUI(){ const has=zipSelectedFiles.length>0; zipCreateBtn.disabled=!has; zipClearBtn.disabled=!has; if(has){ zipFileListContainer.style.display='block'; renderZipFileList(); } else { zipFileListContainer.style.display='none'; zipFileListDiv.innerHTML=''; } }
+        function addZipFiles(files){ const arr=Array.from(files); for(const f of arr){ if(!zipSelectedFiles.some(ex=>ex.name===f.name&&ex.size===f.size)) zipSelectedFiles.push(f); } updateZipUI(); zipProgressArea.style.display='none'; }
+        if(zipDropzone){
+            zipDropzone.addEventListener('dragover',e=>{ e.preventDefault(); zipDropzone.style.background='#e2edfc';}); zipDropzone.addEventListener('dragleave',()=>{ zipDropzone.style.background='#f9fcff';}); zipDropzone.addEventListener('drop',e=>{ e.preventDefault(); zipDropzone.style.background='#f9fcff'; if(e.dataTransfer.files.length) addZipFiles(e.dataTransfer.files); });
+            zipDropzone.addEventListener('click',()=>zipFileInput.click()); zipFileInput.addEventListener('change',e=>{ if(e.target.files.length) addZipFiles(e.target.files); zipFileInput.value=''; });
+            zipClearBtn.addEventListener('click',()=>{ zipSelectedFiles=[]; updateZipUI(); zipProgressArea.style.display='none';});
+            zipClearAllBtn.addEventListener('click',()=>{ zipSelectedFiles=[]; updateZipUI();});
+            zipCreateBtn.addEventListener('click',async ()=>{ if(zipSelectedFiles.length===0) return; zipCreateBtn.disabled=true; zipProgressArea.style.display='block'; zipProgressFill.style.width='0%'; zipStatusMsg.innerHTML='Подготовка...'; try{ const zip=new JSZip(); const total=zipSelectedFiles.length; for(let i=0;i<total;i++){ const file=zipSelectedFiles[i]; const ab=await new Promise((res,rej)=>{ const r=new FileReader(); r.onload=()=>res(r.result); r.onerror=rej; r.readAsArrayBuffer(file); }); zip.file(file.name,ab,{binary:true}); const perc=Math.floor(((i+1)/total)*70); zipProgressFill.style.width=perc+'%'; zipStatusMsg.innerHTML=`Добавление ${i+1}/${total}`; await new Promise(r=>setTimeout(r,5)); } zipStatusMsg.innerHTML='Сжатие ZIP...'; const blob=await zip.generateAsync({type:"blob",compression:"DEFLATE",compressionOptions:{level:6}},(meta)=>{ if(meta.percent){ const perc=70+meta.percent*0.3; zipProgressFill.style.width=Math.min(100,perc)+'%'; }}); const now=new Date(); const zipName=`archive_${now.getFullYear()}-${(now.getMonth()+1).toString().padStart(2,'0')}-${now.getDate().toString().padStart(2,'0')}_${now.getHours()}-${now.getMinutes()}.zip`; saveAs(blob,zipName); zipProgressFill.style.width='100%'; zipStatusMsg.innerHTML='✅ Архив создан и скачан!'; setTimeout(()=>{ zipProgressArea.style.display='none';},3000); }catch(e){ zipStatusMsg.innerHTML='❌ Ошибка создания ZIP'; }finally{ zipCreateBtn.disabled=false; } });
+        }
+        updateZipUI();
+
+        // ========== РАЗАРХИВАЦИЯ ==========
+        const unpackDropzone=document.getElementById('unpackDropzone'), unpackFileInput=document.getElementById('unpackFileInput');
+        const unpackResultArea=document.getElementById('unpackResultArea'), unpackFileListDiv=document.getElementById('unpackFileList');
+        const extractAllBtn=document.getElementById('extractAllBtn'), clearUnpackBtn=document.getElementById('clearUnpackBtn');
+        const unpackStatus=document.getElementById('unpackStatus'), unpackProgressArea=document.getElementById('unpackProgressArea');
+        const unpackProgressFill=document.getElementById('unpackProgressFill'), unpackProgressText=document.getElementById('unpackProgressText');
+        let currentZipFiles = []; // массив {name, blob, isDirectory?}
+
+        function showUnpackProgress(percent, text){ unpackProgressArea.style.display='block'; unpackProgressFill.style.width=percent+'%'; unpackProgressText.innerText=text||`${Math.floor(percent)}%`; if(percent>=100) setTimeout(()=>{ unpackProgressArea.style.display='none'; },1000); }
+        async function loadAndParseZip(file){
+            if(!file || (!file.name.endsWith('.zip') && file.type!=='application/zip')){ unpackStatus.innerHTML='❌ Пожалуйста, выберите ZIP-файл'; return false; }
+            unpackStatus.innerHTML='⏳ Чтение архива...'; unpackResultArea.style.display='none'; currentZipFiles=[];
+            try{
+                const arrayBuf=await new Promise((res,rej)=>{ const r=new FileReader(); r.onload=()=>res(r.result); r.onerror=rej; r.readAsArrayBuffer(file); });
+                const zip=await JSZip.loadAsync(arrayBuf);
+                const filePromises=[];
+                zip.forEach((relativePath, zipEntry)=>{
+                    if(!zipEntry.dir){
+                        filePromises.push(zipEntry.async('blob').then(blob=>{ currentZipFiles.push({name:relativePath, blob:blob, size:blob.size}); }));
+                    } else { currentZipFiles.push({name:relativePath+'/', blob:null, isDir:true}); }
+                });
+                await Promise.all(filePromises);
+                renderUnpackFileList();
+                unpackResultArea.style.display='block';
+                unpackStatus.innerHTML=`✅ Архив содержит ${currentZipFiles.filter(f=>!f.isDir).length} файлов. Нажмите "Распаковать всё" для сохранения.`;
+                return true;
+            }catch(e){ unpackStatus.innerHTML='❌ Ошибка: файл повреждён или не ZIP'; return false; }
+        }
+        function renderUnpackFileList(){
+            unpackFileListDiv.innerHTML='';
+            currentZipFiles.forEach(f=>{
+                const div=document.createElement('div'); div.className='file-item extracted-item';
+                const icon=f.isDir?'📁':'📄';
+                const sizeStr=f.isDir?'':` (${zipFormatSize(f.size)||'?'})`;
+                div.innerHTML=`<span style="font-family:monospace; font-size:0.85rem;">${icon} ${escapeHtml(f.name)}${sizeStr}</span><button class="extract-single" data-name="${escapeHtml(f.name)}" style="background:#2c7da0; border:none; border-radius:30px; padding:4px 12px; color:white; font-size:0.7rem; cursor:pointer;">⬇️</button>`;
+                if(!f.isDir) div.querySelector('.extract-single')?.addEventListener('click',(e)=>{ e.stopPropagation(); saveSingleFile(f); });
+                unpackFileListDiv.appendChild(div);
+            });
+        }
+        async function saveSingleFile(fileEntry){ if(!fileEntry.blob) return; const a=document.createElement('a'); const url=URL.createObjectURL(fileEntry.blob); a.href=url; a.download=fileEntry.name.split('/').pop(); document.body.appendChild(a); a.click(); document.body.removeChild(a); URL.revokeObjectURL(url); unpackStatus.innerHTML=`✅ Скачан: ${fileEntry.name}`; setTimeout(()=>{ if(unpackStatus.innerHTML.includes('Скачан')) unpackStatus.innerHTML='Готово'; },1500); }
+        async function extractAllAsZipFolder(){
+            if(currentZipFiles.length===0) return;
+            const zip=new JSZip();
+            for(const entry of currentZipFiles){
+                if(entry.isDir) zip.folder(entry.name);
+                else if(entry.blob) zip.file(entry.name, entry.blob, {binary:true});
+            }
+            showUnpackProgress(30, 'Сборка архива...');
+            const blob=await zip.generateAsync({type:"blob",compression:"DEFLATE",compressionOptions:{level:5}},(meta)=>{ if(meta.percent){ const perc=30+meta.percent*0.7; showUnpackProgress(Math.min(99,perc), `Архивация ${Math.floor(meta.percent)}%`); } });
+            showUnpackProgress(100, 'Готово!');
+            const now=new Date(); const zipName=`extracted_${now.getFullYear()}-${(now.getMonth()+1)}-${now.getDate()}_${now.getHours()}-${now.getMinutes()}.zip`;
+            saveAs(blob, zipName);
+            unpackStatus.innerHTML=`✅ Все файлы упакованы и скачаны как ${zipName}`;
+            setTimeout(()=>{ unpackProgressArea.style.display='none'; },2000);
+        }
+        function clearUnpack(){ currentZipFiles=[]; unpackResultArea.style.display='none'; unpackFileListDiv.innerHTML=''; unpackStatus.innerHTML='Готов к распаковке'; if(unpackFileInput) unpackFileInput.value=''; }
+        if(unpackDropzone){
+            unpackDropzone.addEventListener('click',()=>unpackFileInput.click());
+            unpackFileInput.addEventListener('change',async e=>{ if(e.target.files[0]) await loadAndParseZip(e.target.files[0]); unpackFileInput.value=''; });
+            unpackDropzone.addEventListener('dragover',e=>{ e.preventDefault(); unpackDropzone.style.background='#e2edfc';});
+            unpackDropzone.addEventListener('dragleave',()=>{ unpackDropzone.style.background='#f9fcff';});
+            unpackDropzone.addEventListener('drop',async e=>{ e.preventDefault(); unpackDropzone.style.background='#f9fcff'; const file=e.dataTransfer.files[0]; if(file) await loadAndParseZip(file); });
+            extractAllBtn.addEventListener('click',extractAllAsZipFolder);
+            clearUnpackBtn.addEventListener('click',clearUnpack);
+        }
+
+        // Переключение между режимами ZIP
+        const packModeDiv=document.getElementById('zipPackMode'), unpackModeDiv=document.getElementById('zipUnpackMode');
+        const subTabs=document.querySelectorAll('.zip-subtab');
+        subTabs.forEach(tab=>{
+            tab.addEventListener('click',()=>{
+                subTabs.forEach(t=>t.classList.remove('active'));
+                tab.classList.add('active');
+                const mode=tab.getAttribute('data-zipmode');
+                if(mode==='pack'){ packModeDiv.classList.add('active-mode'); unpackModeDiv.classList.remove('active-mode'); }
+                else{ unpackModeDiv.classList.add('active-mode'); packModeDiv.classList.remove('active-mode'); }
+            });
+        });
+
+        // Переключение главных табов
+        const tabs=document.querySelectorAll('.tab-btn'); const panels=document.querySelectorAll('.tool-panel');
+        tabs.forEach(btn=>{ btn.addEventListener('click',()=>{ const tool=btn.getAttribute('data-tool'); tabs.forEach(b=>b.classList.remove('active')); btn.classList.add('active'); panels.forEach(panel=>panel.classList.remove('active-panel')); if(tool==='image') document.getElementById('imageTool').classList.add('active-panel'); else if(tool==='mp3') document.getElementById('mp3Tool').classList.add('active-panel'); else if(tool==='zip') document.getElementById('zipTool').classList.add('active-panel'); }); });
+    })();
+</script>
+</body>
+</html>
