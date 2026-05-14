@@ -2387,6 +2387,8 @@ https://cp1.server89.com:19360/radiostudioonelive/radiostudioonelive.m3u8
 https://live-sovsec-ref.cdnvideo.ru/sovsec/sovsec.smil/playlist.m3u8?zoid=sref
 #EXTINF:-1 group-title="С сайтов" tvg-logo="http://kharkov-z.ru/z-logo-line.png",ХАРЬКОВ Z
 http://212.193.53.254/app/potok/playlist.m3u8
+#EXTINF:-1 group-title="С сайтов", ТСВ
+https://tsv.md/stream/hls/tsv-online/index.m3u8
 #EXTINF:-1 group-title="С сайтов",Беларусь 24
 https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/chunklist_w1008231497_b5160000_sleng.m3u8
 #EXTINF:-1 group-title="С сайтов",СТВ Беларусь
