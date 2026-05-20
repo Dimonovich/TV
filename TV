@@ -701,8 +701,10 @@ http://185.78.112.47:8077/taina/index.m3u8
 http://185.78.112.47:8077/teleputeshestviya/index.m3u8
 #EXTINF:-1 group-title="Маяк Нетворк",Техно 24
 http://185.78.112.47:8077/t24/index.m3u8
-#EXTINF:-1 group-title="Маяк Нетворк",Индия
-http://185.78.112.47:8077/indiya/index.m3u8
+#EXTINF:-1 group-title="Маяк Нетворк",Загородный
+http://185.78.112.47:8077/Zagorodniy/index.m3u8
+#EXTINF:-1 group-title="Маяк Нетворк",Зоопарк
+http://185.78.112.47:8077/Zoopark/index.m3u8
 #EXTINF:-1 group-title="Маяк Нетворк",История
 http://185.78.112.47:8077/istoriya/index.m3u8
 #EXTINF:-1 group-title="Маяк Нетворк",Живи
@@ -713,10 +715,16 @@ http://185.78.112.47:8077/2x2/index.m3u8
 http://185.78.112.47:8077/rubl/index.m3u8
 #EXTINF:-1 group-title="Маяк Нетворк",365 дней
 http://185.78.112.47:8077/365_dnej/index.m3u8
-#EXTINF:-1 group-title="Маяк Нетворк",7tv
+#EXTINF:-1 group-title="Маяк Нетворк",7ТВ
 http://185.78.112.47:8077/7tv/index.m3u8
 #EXTINF:-1 group-title="Маяк Нетворк",8 канал
 http://185.78.112.47:8077/8kanal/index.m3u8
+#EXTINF:-1 group-title="Маяк Нетворк",Индия
+http://185.78.112.47:8077/zee-tv/index.m3u8
+#EXTINF:-1 group-title="Маяк Нетворк",BCU Ultra 4K
+http://185.78.112.47:8077/BCU_Ultra_4K/index.m3u8
+#EXTINF:-1 group-title="Маяк Нетворк",Bollywood HD
+http://185.78.112.47:8077/BollywoodHD/index.m3u8
 #EXTINF:-1 group-title="Маяк Нетворк",Amedia 1
 http://185.78.112.47:8077/amedia/index.m3u8
 #EXTINF:-1 group-title="Маяк Нетворк",Amedia 2
@@ -727,21 +735,17 @@ http://185.78.112.47:8077/amedia_hit_hd/index.m3u8
 http://185.78.112.47:8077/amedia_premium_hd/index.m3u8
 #EXTINF:-1 group-title="Маяк Нетворк",arirang
 http://185.78.112.47:8077/arirang/index.m3u8
-#EXTINF:-1 group-title="Маяк Нетворк",art
+#EXTINF:-1 group-title="Маяк Нетворк",Арт
 http://185.78.112.47:8077/art/index.m3u8
 #EXTINF:-1 group-title="Маяк Нетворк",atv
 http://185.78.112.47:8077/atv/index.m3u8
-#EXTINF:-1 group-title="Маяк Нетворк",BCU Ultra 4K
-http://185.78.112.47:8077/BCU_Ultra_4K/index.m3u8
 #EXTINF:-1 group-title="Маяк Нетворк",Bloomberg
 http://185.78.112.47:8077/bloomberg/index.m3u8
-#EXTINF:-1 group-title="Маяк Нетворк",BollywoodHD
-http://185.78.112.47:8077/BollywoodHD/index.m3u8
 #EXTINF:-1 group-title="Маяк Нетворк",Boomerang
 http://185.78.112.47:8077/Boomerang/index.m3u8
 #EXTINF:-1 group-title="Маяк Нетворк",Cinema
 http://185.78.112.47:8077/cinema_hd/index.m3u8
-#EXTINF:-1 group-title="Маяк Нетворк",CTV
+#EXTINF:-1 group-title="Маяк Нетворк",Центральное телевидение
 http://185.78.112.47:8077/ctv/index.m3u8
 #EXTINF:-1 group-title="Маяк Нетворк",Дом кино
 http://185.78.112.47:8077/dom_kino/index.m3u8
@@ -757,7 +761,7 @@ http://185.78.112.47:8077/fox/index.m3u8
 http://185.78.112.47:8077/fox-life/index.m3u8
 #EXTINF:-1 group-title="Маяк Нетворк",Gags Network
 http://185.78.112.47:8077/raz-tv/index.m3u8
-#EXTINF:-1 group-title="Маяк Нетворк",Калейдоскоп 24
+#EXTINF:-1 group-title="Маяк Нетворк",Калейдоскоп ТВ
 http://185.78.112.47:8077/kaleydoskop/index.m3u8
 #EXTINF:-1 group-title="Маяк Нетворк",Кинохит
 http://185.78.112.47:8077/kinohit/index.m3u8
@@ -767,6 +771,8 @@ http://185.78.112.47:8077/kinojam1/index.m3u8
 http://185.78.112.47:8077/kinojam2/index.m3u8
 #EXTINF:-1 group-title="Маяк Нетворк",Кинопремьера
 http://185.78.112.47:8077/premiera/index.m3u8
+#EXTINF:-1 group-title="Маяк Нетворк",Индийское кино
+http://185.78.112.47:8077/indiya/index.m3u8
 #EXTINF:-1 group-title="Маяк Нетворк",Киносерия
 http://185.78.112.47:8077/mnogo-tv/index.m3u8
 #EXTINF:-1 group-title="Маяк Нетворк",Наше новое кино
@@ -787,6 +793,8 @@ http://185.78.112.47:8077/kinoujas/index.m3u8
 http://185.78.112.47:8077/komediya/index.m3u8
 #EXTINF:-1 group-title="Маяк Нетворк",Кинопоказ
 http://185.78.112.47:8077/kinopokaz/index.m3u8
+#EXTINF:-1 group-title="Маяк Нетворк",Мужское кино HD
+http://185.78.112.47:8077/muzhskoe-kino_hd/index.m3u8
 #EXTINF:-1 group-title="Маяк Нетворк",Киносат
 http://185.78.112.47:8077/kinosat/index.m3u8
 #EXTINF:-1 group-title="Маяк Нетворк",Life 78
@@ -817,14 +825,8 @@ http://185.78.112.47:8077/viju_tv1000_hd/index.m3u8
 http://185.78.112.47:8077/ultra_cinema_4k/index.m3u8
 #EXTINF:-1 group-title="Маяк Нетворк",Усадьба
 http://185.78.112.47:8077/Usadba/index.m3u8
-#EXTINF:-1 group-title="Маяк Нетворк",World Fashion
-http://185.78.112.47:8077/world-fashion/index.m3u8
 #EXTINF:-1 group-title="Маяк Нетворк",World Fashion Channel
 http://185.78.112.47:8077/WorldFashionChannel/index.m3u8
-#EXTINF:-1 group-title="Маяк Нетворк",Загородный
-http://185.78.112.47:8077/Zagorodniy/index.m3u8
-#EXTINF:-1 group-title="Маяк Нетворк",Зоопарк
-http://185.78.112.47:8077/Zoopark/index.m3u8
 #EXTINF:-1 group-title="Маяк Нетворк",Авто 24
 http://185.78.112.47:8077/avto24/index.m3u8
 #EXTINF:-1 group-title="Маяк Нетворк",Авто плюс
@@ -839,12 +841,8 @@ http://185.78.112.47:8077/zvezda/index.m3u8
 http://185.78.112.47:8077/zvezda_plus_hd/index.m3u8
 #EXTINF:-1 group-title="Маяк Нетворк",Зоо ТВ
 http://185.78.112.47:8077/zoo_tv/index.m3u8
-#EXTINF:-1 group-title="Маяк Нетворк",Индия
-http://185.78.112.47:8077/zee-tv/index.m3u8
 #EXTINF:-1 group-title="Маяк Нетворк",КВН ТВ
 http://185.78.112.47:8077/kvn_tv/index.m3u8
-#EXTINF:-1 group-title="Маяк Нетворк",Конный мир
-http://185.78.112.47:8077/konniy_mir/index.m3u8
 #EXTINF:-1 group-title="Маяк Нетворк",Кто есть кто
 http://185.78.112.47:8077/kto-est-kto/index.m3u8
 #EXTINF:-1 group-title="Маяк Нетворк",Кухня ТВ
@@ -861,8 +859,6 @@ http://185.78.112.47:8077/moskva_24/index.m3u8
 http://185.78.112.47:8077/moskva_doverie/index.m3u8
 #EXTINF:-1 group-title="Маяк Нетворк",Мосфильм. Золотая коллекция
 http://185.78.112.47:8077/mosfilm/index.m3u8
-#EXTINF:-1 group-title="Маяк Нетворк",Мужское кино HD
-http://185.78.112.47:8077/muzhskoe-kino_hd/index.m3u8
 #EXTINF:-1 group-title="Маяк Нетворк",Нано ТВ
 http://185.78.112.47:8077/nano-tv/index.m3u8
 #EXTINF:-1 group-title="Маяк Нетворк",Нано ТВ HD
