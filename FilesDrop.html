@@ -1,0 +1,929 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes, viewport-fit=cover">
+  <title>FileDrop</title>
+  <script src="https://unpkg.com/peerjs@1.5.2/dist/peerjs.min.js"></script>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      -webkit-tap-highlight-color: transparent;
+    }
+
+    body {
+      background: #0a0a0f;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, sans-serif;
+      color: #f0f0f0;
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 16px;
+    }
+
+    .app {
+      max-width: 380px;
+      width: 100%;
+      margin: 0 auto;
+    }
+
+    .header {
+      display: flex;
+      align-items: baseline;
+      justify-content: space-between;
+      margin-bottom: 20px;
+      padding-bottom: 8px;
+      border-bottom: 0.5px solid rgba(255, 255, 255, 0.08);
+    }
+
+    .logo {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .logo-icon {
+      font-size: 22px;
+    }
+
+    .logo-text {
+      font-size: 15px;
+      font-weight: 600;
+      letter-spacing: -0.3px;
+    }
+
+    .badge {
+      font-size: 10px;
+      background: rgba(100, 108, 255, 0.15);
+      padding: 4px 10px;
+      border-radius: 20px;
+      color: #8b8eff;
+    }
+
+    .tabs {
+      display: flex;
+      gap: 8px;
+      background: #12121a;
+      padding: 4px;
+      border-radius: 40px;
+      margin-bottom: 20px;
+    }
+
+    .tab {
+      flex: 1;
+      text-align: center;
+      padding: 8px 0;
+      font-size: 13px;
+      font-weight: 500;
+      border-radius: 30px;
+      background: transparent;
+      border: none;
+      color: #666;
+      cursor: pointer;
+      transition: all 0.2s ease;
+    }
+
+    .tab.on {
+      background: #2a2a35;
+      color: #fff;
+    }
+
+    .panel {
+      background: #12121a;
+      border-radius: 24px;
+      padding: 20px 16px;
+      margin-bottom: 12px;
+      border: 0.5px solid rgba(255, 255, 255, 0.05);
+    }
+
+    .step {
+      display: none;
+    }
+
+    .step.on {
+      display: block;
+    }
+
+    .panel-title {
+      font-size: 10px;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      color: #666;
+      margin-bottom: 12px;
+    }
+
+    .drop-zone {
+      border: 1.5px dashed #2a2a35;
+      border-radius: 20px;
+      padding: 20px 16px;
+      text-align: center;
+      cursor: pointer;
+      transition: all 0.2s;
+      position: relative;
+    }
+
+    .drop-zone:active {
+      background: rgba(100, 108, 255, 0.05);
+    }
+
+    .drop-zone input {
+      position: absolute;
+      inset: 0;
+      opacity: 0;
+      cursor: pointer;
+    }
+
+    .drop-icon {
+      font-size: 28px;
+      margin-bottom: 6px;
+    }
+
+    .drop-text {
+      font-size: 12px;
+      color: #888;
+    }
+
+    .drop-text strong {
+      color: #fff;
+      font-weight: 500;
+    }
+
+    .code-display {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 16px;
+      padding: 16px;
+      background: #1a1a24;
+      border-radius: 20px;
+      margin: 12px 0;
+    }
+
+    .code-block {
+      font-family: monospace;
+      font-size: 48px;
+      font-weight: 700;
+      letter-spacing: 4px;
+      background: #0a0a0f;
+      padding: 8px 16px;
+      border-radius: 16px;
+      color: #8b8eff;
+    }
+
+    .code-dash {
+      font-size: 32px;
+      color: #444;
+    }
+
+    .code-inputs {
+      display: flex;
+      justify-content: center;
+      gap: 10px;
+      margin: 16px 0;
+    }
+
+    .digit {
+      width: 60px;
+      height: 70px;
+      background: #1a1a24;
+      border: 1.5px solid #2a2a35;
+      border-radius: 16px;
+      text-align: center;
+      font-size: 36px;
+      font-weight: 600;
+      font-family: monospace;
+      color: #8b8eff;
+      outline: none;
+    }
+
+    .digit:focus {
+      border-color: #8b8eff;
+    }
+
+    .digit.filled {
+      border-color: #8b8eff;
+    }
+
+    .btn {
+      width: 100%;
+      padding: 12px;
+      background: #2a2a35;
+      border: none;
+      border-radius: 40px;
+      color: #fff;
+      font-size: 14px;
+      font-weight: 500;
+      cursor: pointer;
+      margin-top: 12px;
+      transition: all 0.2s;
+    }
+
+    .btn:active {
+      transform: scale(0.97);
+    }
+
+    .btn-primary {
+      background: #5b5eff;
+    }
+
+    .btn-outline {
+      background: transparent;
+      border: 0.5px solid #2a2a35;
+      margin-top: 8px;
+    }
+
+    .status {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      padding: 8px 12px;
+      background: #1a1a24;
+      border-radius: 40px;
+      margin-top: 12px;
+    }
+
+    .status-dot {
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      background: #666;
+    }
+
+    .status-dot.conn {
+      background: #ffaa44;
+      animation: pulse 1s infinite;
+    }
+
+    .status-dot.ok {
+      background: #4cff9e;
+    }
+
+    .status-dot.err {
+      background: #ff5c5c;
+    }
+
+    .status-text {
+      font-size: 11px;
+      color: #aaa;
+      flex: 1;
+    }
+
+    @keyframes pulse {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.4; }
+    }
+
+    .progress {
+      margin-top: 12px;
+      display: none;
+    }
+
+    .progress.on {
+      display: block;
+    }
+
+    .progress-bar {
+      height: 4px;
+      background: #2a2a35;
+      border-radius: 4px;
+      overflow: hidden;
+      margin: 8px 0;
+    }
+
+    .progress-fill {
+      height: 100%;
+      width: 0%;
+      background: linear-gradient(90deg, #5b5eff, #8b8eff);
+      border-radius: 4px;
+      transition: width 0.2s;
+    }
+
+    .progress-stats {
+      display: flex;
+      justify-content: space-between;
+      font-size: 10px;
+      color: #888;
+      margin-top: 6px;
+    }
+
+    .ram-meter {
+      margin-top: 10px;
+      padding: 8px 0;
+    }
+
+    .ram-bar {
+      height: 3px;
+      background: #2a2a35;
+      border-radius: 3px;
+      overflow: hidden;
+      margin-top: 4px;
+    }
+
+    .ram-fill {
+      height: 100%;
+      width: 0%;
+      background: #4cff9e;
+      transition: width 0.2s;
+    }
+
+    .error-msg {
+      padding: 8px 12px;
+      border-radius: 12px;
+      font-size: 11px;
+      margin-top: 10px;
+      display: none;
+      background: rgba(255, 92, 92, 0.1);
+      color: #ff9e9e;
+    }
+
+    .error-msg.on {
+      display: block;
+    }
+
+    .download-item {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      background: #1a1a24;
+      padding: 8px 12px;
+      border-radius: 14px;
+      margin-top: 8px;
+    }
+
+    .download-name {
+      flex: 1;
+      font-size: 11px;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+
+    .download-link {
+      background: #4cff9e;
+      color: #000;
+      padding: 4px 12px;
+      border-radius: 20px;
+      font-size: 11px;
+      font-weight: 600;
+      text-decoration: none;
+    }
+
+    .hash-ok {
+      background: rgba(76, 255, 158, 0.1);
+      color: #4cff9e;
+      padding: 6px 10px;
+      border-radius: 10px;
+      font-size: 10px;
+      text-align: center;
+      margin-top: 8px;
+      display: none;
+    }
+
+    .hash-ok.on {
+      display: block;
+    }
+
+    .queue-item {
+      background: #1a1a24;
+      padding: 8px 12px;
+      border-radius: 12px;
+      margin-top: 8px;
+      font-size: 11px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .queue-status {
+      color: #8b8eff;
+      font-size: 10px;
+      margin-top: 8px;
+      text-align: center;
+    }
+
+    .badge-file {
+      background: #2a2a35;
+      padding: 2px 6px;
+      border-radius: 10px;
+      font-size: 9px;
+    }
+  </style>
+</head>
+<body>
+<div class="app">
+  <div class="header">
+    <div class="logo">
+      <span class="logo-icon">📡</span>
+      <span class="logo-text">FileDrop</span>
+    </div>
+    <div class="badge">P2P</div>
+  </div>
+
+  <div class="tabs">
+    <button class="tab on" id="tabSend">📤 Отправить</button>
+    <button class="tab" id="tabRecv">📥 Получить</button>
+  </div>
+
+  <!-- ОТПРАВИТЕЛЬ -->
+  <div class="step on" id="stepSend">
+    <div class="panel">
+      <div class="panel-title">📄 Файлы (до 50)</div>
+      <div class="drop-zone" id="dropZone">
+        <input type="file" id="fileInput" multiple>
+        <div class="drop-icon">📂</div>
+        <div class="drop-text"><strong>Нажмите</strong> или перетащите</div>
+      </div>
+      <div id="fileList"></div>
+      <div class="error-msg" id="critMsg">🛑 Файл превышает лимит RAM (отклонён)</div>
+    </div>
+
+    <div class="panel" id="codePanel" style="display:none">
+      <div class="panel-title">🔑 Код сессии</div>
+      <div class="code-display">
+        <span class="code-block" id="code1">—</span>
+        <span class="code-dash">–</span>
+        <span class="code-block" id="code2">—</span>
+      </div>
+      <div class="status">
+        <div class="status-dot conn" id="sendDot"></div>
+        <div class="status-text" id="sendStatus">Ожидание получателя...</div>
+      </div>
+      <div class="error-msg" id="sendError">Ошибка соединения</div>
+    </div>
+
+    <div class="panel" id="sendProgress" style="display:none">
+      <div class="progress on">
+        <div class="progress-bar"><div class="progress-fill" id="sendFill"></div></div>
+        <div class="progress-stats">
+          <span id="sendBytes">0 / 0</span>
+          <span id="sendSpeed">—</span>
+        </div>
+      </div>
+      <div id="queueStatus" class="queue-status"></div>
+    </div>
+
+    <button class="btn btn-outline" id="resetSendBtn">↺ Заново</button>
+  </div>
+
+  <!-- ПОЛУЧАТЕЛЬ -->
+  <div class="step" id="stepRecv">
+    <div class="panel">
+      <div class="panel-title">🔢 Код отправителя</div>
+      <div class="code-inputs">
+        <input class="digit" id="d1" maxlength="1" inputmode="numeric" placeholder="0">
+        <input class="digit" id="d2" maxlength="1" inputmode="numeric" placeholder="0">
+        <input class="digit" id="d3" maxlength="1" inputmode="numeric" placeholder="0">
+        <input class="digit" id="d4" maxlength="1" inputmode="numeric" placeholder="0">
+      </div>
+      <div class="error-msg" id="recvError">Отправитель не найден</div>
+    </div>
+
+    <div class="panel" id="recvPanel" style="display:none">
+      <div class="panel-title">📥 Приём (последовательный)</div>
+      <div class="status">
+        <div class="status-dot conn" id="recvDot"></div>
+        <div class="status-text" id="recvStatus">Подключение...</div>
+      </div>
+      <div class="progress" id="recvProgress">
+        <div class="progress-bar"><div class="progress-fill" id="recvFill"></div></div>
+        <div class="progress-stats">
+          <span id="recvBytes">—</span>
+          <span id="recvSpeed">—</span>
+        </div>
+      </div>
+      <div class="ram-meter" id="ramMeter" style="display:none">
+        <div style="display:flex; justify-content:space-between; font-size:10px;">
+          <span>💾 RAM (текущий файл)</span>
+          <span id="ramValue">0 МБ</span>
+        </div>
+        <div class="ram-bar"><div class="ram-fill" id="ramFill"></div></div>
+      </div>
+      <div class="hash-ok" id="hashOk">✅ Файл проверен, ошибок нет</div>
+      <div id="downloadList"></div>
+    </div>
+
+    <button class="btn btn-outline" id="resetRecvBtn">↺ Заново</button>
+  </div>
+</div>
+
+<script>
+(function() {
+  const CHUNK = 256 * 1024;
+  const MAX_BUFFER = 4 * 1024 * 1024;
+  
+  const PEER_CONFIG = {
+    host: '0.peerjs.com',
+    port: 443,
+    path: '/',
+    secure: true,
+    debug: 0,
+    config: {
+      iceServers: [
+        { urls: 'stun:stun.l.google.com:19302' },
+        { urls: 'stun:stun1.l.google.com:19302' },
+        { urls: 'stun:stun2.l.google.com:19302' },
+        { urls: 'stun:stun3.l.google.com:19302' },
+        { urls: 'stun:stun4.l.google.com:19302' },
+        { urls: 'turn:openrelay.metered.ca:80', username: 'openrelayproject', credential: 'openrelayproject' },
+        { urls: 'turn:openrelay.metered.ca:443', username: 'openrelayproject', credential: 'openrelayproject' }
+      ]
+    }
+  };
+
+  let peer = null, conn = null;
+  let fileQueue = [];
+  let currentFileIndex = -1;
+  let sessionCode = null;
+  let isSending = false;
+  
+  let recvMeta = null, recvBuffer = [], recvReceived = 0, expectedHash = null;
+  let sendStart = 0, sendLastTime = 0, sendLastBytes = 0;
+  let isConnecting = false;
+  let allFilesReceived = false;
+
+  // ========== ГЛАВНОЕ ИСПРАВЛЕНИЕ ==========
+  // Лимит = 50% от всей RAM, БЕЗ искусственного ограничения в 2 ГБ
+  function getRamLimit() {
+    const mem = navigator.deviceMemory || 4;
+    // 50% от всей RAM в байтах
+    return mem * 1024 * 1024 * 1024 * 0.5;
+  }
+  // =========================================
+
+  async function computeHash(buffer) {
+    const hash = await crypto.subtle.digest('SHA-256', buffer);
+    return Array.from(new Uint8Array(hash)).map(b => b.toString(16).padStart(2, '0')).join('');
+  }
+
+  function fmtSize(b) {
+    if (b < 1024) return b + ' B';
+    if (b < 1048576) return (b / 1024).toFixed(1) + ' KB';
+    return (b / 1048576).toFixed(1) + ' MB';
+  }
+
+  function fmtSpeed(bps) {
+    if (bps < 1024) return bps.toFixed(0) + ' B/s';
+    if (bps < 1048576) return (bps / 1024).toFixed(0) + ' KB/s';
+    return (bps / 1048576).toFixed(1) + ' MB/s';
+  }
+
+  function switchMode(mode) {
+    document.getElementById('stepSend').classList.toggle('on', mode === 'send');
+    document.getElementById('stepRecv').classList.toggle('on', mode === 'recv');
+    document.getElementById('tabSend').classList.toggle('on', mode === 'send');
+    document.getElementById('tabRecv').classList.toggle('on', mode === 'recv');
+    if (mode === 'recv') resetRecv();
+    else resetSend();
+  }
+
+  function updateFileList() {
+    const container = document.getElementById('fileList');
+    container.innerHTML = '';
+    if (fileQueue.length === 0) return;
+    
+    fileQueue.forEach((item, idx) => {
+      const div = document.createElement('div');
+      div.className = 'queue-item';
+      let statusIcon = '⏳';
+      let showRemove = false;
+      
+      if (item.rejected) {
+        statusIcon = '❌';
+        showRemove = true;
+      } else if (item.sent) {
+        statusIcon = '✅';
+        showRemove = false;
+      } else if (idx === currentFileIndex && isSending) {
+        statusIcon = '📤';
+        showRemove = false;
+      } else {
+        statusIcon = '⏳';
+        showRemove = true;
+      }
+      
+      div.innerHTML = `
+        <span>${statusIcon} ${item.file.name} (${fmtSize(item.file.size)})</span>
+        ${showRemove ? `<button class="file-remove" data-idx="${idx}" style="background:none; border:none; color:#ff5c5c; cursor:pointer;">✕</button>` : 
+          item.rejected ? '<span class="badge-file" style="color:#ff5c5c;">превышает RAM</span>' :
+          item.sent ? '<span class="badge-file" style="color:#4cff9e;">отправлен</span>' :
+          '<span class="badge-file" style="color:#8b8eff;">в очереди</span>'}
+      `;
+      container.appendChild(div);
+    });
+    
+    document.querySelectorAll('.file-remove').forEach(btn => {
+      btn.onclick = (e) => {
+        const idx = parseInt(btn.dataset.idx);
+        fileQueue.splice(idx, 1);
+        if (currentFileIndex >= idx) currentFileIndex--;
+        updateFileList();
+        if (fileQueue.filter(f => !f.rejected && !f.sent).length === 0) {
+          document.getElementById('codePanel').style.display = 'none';
+        }
+      };
+    });
+  }
+
+  function onFiles(files) {
+    const limit = getRamLimit();
+    const maxFiles = 50;  // до 50 файлов за сессию
+    
+    for (let i = 0; i < Math.min(files.length, maxFiles - fileQueue.length); i++) {
+      const file = files[i];
+      const rejected = file.size > limit;
+      
+      fileQueue.push({
+        file: file,
+        rejected: rejected,
+        sent: false
+      });
+    }
+    
+    updateFileList();
+    
+    const pendingFiles = fileQueue.filter(f => !f.rejected && !f.sent);
+    if (pendingFiles.length > 0 && !peer) {
+      startSender();
+    }
+  }
+
+  function startSender() {
+    const pendingFiles = fileQueue.filter(f => !f.rejected && !f.sent);
+    if (pendingFiles.length === 0) return;
+    
+    if (peer) { try { peer.destroy(); } catch(e) {} peer = null; }
+    
+    const digits = Array.from({length: 4}, () => Math.floor(Math.random() * 10));
+    sessionCode = digits.join('');
+    document.getElementById('code1').textContent = digits[0] + '' + digits[1];
+    document.getElementById('code2').textContent = digits[2] + '' + digits[3];
+    document.getElementById('codePanel').style.display = 'block';
+    document.getElementById('sendProgress').style.display = 'none';
+    document.getElementById('sendError').classList.remove('on');
+    document.getElementById('sendDot').className = 'status-dot conn';
+    document.getElementById('sendStatus').textContent = 'Ожидание получателя...';
+    document.getElementById('queueStatus').textContent = '';
+
+    try {
+      peer = new Peer(sessionCode, PEER_CONFIG);
+      peer.on('open', () => console.log('Session:', sessionCode));
+      peer.on('error', (err) => {
+        if (err.type === 'unavailable-id') startSender();
+        else { document.getElementById('sendError').classList.add('on'); document.getElementById('sendDot').className = 'status-dot err'; }
+      });
+      peer.on('connection', (c) => {
+        conn = c;
+        document.getElementById('sendDot').className = 'status-dot ok';
+        document.getElementById('sendStatus').textContent = 'Подключено!';
+        c.on('open', async () => {
+          document.getElementById('sendProgress').style.display = 'block';
+          await sendNextFile();
+        });
+        c.on('close', () => { document.getElementById('sendDot').className = 'status-dot err'; });
+      });
+    } catch(e) { document.getElementById('sendError').classList.add('on'); }
+  }
+
+  async function sendNextFile() {
+    let nextIndex = currentFileIndex + 1;
+    while (nextIndex < fileQueue.length && (fileQueue[nextIndex].rejected || fileQueue[nextIndex].sent)) {
+      nextIndex++;
+    }
+    
+    if (nextIndex >= fileQueue.length) {
+      conn.send(JSON.stringify({ type: 'ALL_DONE' }));
+      document.getElementById('queueStatus').textContent = '✅ Все файлы отправлены! Сессия завершена.';
+      document.getElementById('sendStatus').textContent = 'Готово!';
+      isSending = false;
+      currentFileIndex = -1;
+      return;
+    }
+    
+    currentFileIndex = nextIndex;
+    isSending = true;
+    const file = fileQueue[currentFileIndex].file;
+    document.getElementById('queueStatus').textContent = `📤 Отправка ${currentFileIndex + 1}/${fileQueue.length}: ${file.name}`;
+    updateFileList();
+    
+    let fileBuffer = await file.arrayBuffer();
+    const hash = await computeHash(fileBuffer);
+    conn.send(JSON.stringify({ type: 'META', name: file.name, size: file.size, mime: file.type, hash }));
+    
+    let offset = 0;
+    sendStart = Date.now();
+    sendLastTime = sendStart;
+    sendLastBytes = 0;
+    
+    const sendNextChunk = () => {
+      if (offset >= file.size) { 
+        conn.send(JSON.stringify({ type: 'DONE' }));
+        fileQueue[currentFileIndex].sent = true;
+        updateFileList();
+        fileBuffer = null;
+        isSending = false;
+        setTimeout(() => sendNextFile(), 500);
+        return; 
+      }
+      if (conn.dataChannel && conn.dataChannel.bufferedAmount > MAX_BUFFER) { 
+        setTimeout(sendNextChunk, 50); 
+        return; 
+      }
+      const chunk = file.slice(offset, offset + CHUNK);
+      const reader = new FileReader();
+      reader.onload = (e) => {
+        const bytes = new Uint8Array(e.target.result);
+        let binary = '';
+        for (let i = 0; i < bytes.length; i++) binary += String.fromCharCode(bytes[i]);
+        conn.send(JSON.stringify({ type: 'CHUNK', data: btoa(binary), size: bytes.length }));
+        offset += bytes.length;
+        const pct = Math.round(offset / file.size * 100);
+        document.getElementById('sendFill').style.width = pct + '%';
+        document.getElementById('sendBytes').textContent = fmtSize(offset) + ' / ' + fmtSize(file.size);
+        
+        const now = Date.now();
+        if (now - sendLastTime > 500) {
+          const bps = (offset - sendLastBytes) / ((now - sendLastTime) / 1000);
+          document.getElementById('sendSpeed').textContent = fmtSpeed(bps);
+          sendLastTime = now;
+          sendLastBytes = offset;
+        }
+        
+        sendNextChunk();
+      };
+      reader.readAsArrayBuffer(chunk);
+    };
+    sendNextChunk();
+  }
+
+  function digitInput(el, next) {
+    el.value = el.value.replace(/\D/g, '').slice(-1);
+    el.classList.toggle('filled', !!el.value);
+    if (el.value && next) document.getElementById(next).focus();
+    
+    const code = [1,2,3,4].map(i => document.getElementById('d'+i).value).join('');
+    if (code.length === 4 && !isConnecting) joinSession();
+  }
+
+  function joinSession() {
+    const code = [1,2,3,4].map(i => document.getElementById('d'+i).value).join('');
+    if (code.length < 4 || isConnecting) return;
+    isConnecting = true;
+    document.getElementById('recvPanel').style.display = 'block';
+    document.getElementById('recvError').classList.remove('on');
+    document.getElementById('recvDot').className = 'status-dot conn';
+    document.getElementById('recvStatus').textContent = 'Поиск...';
+    
+    if (peer) { try { peer.destroy(); } catch(e) {} }
+    peer = new Peer(PEER_CONFIG);
+    peer.on('open', () => {
+      const c = peer.connect(code, { reliable: true });
+      let opened = false;
+      setTimeout(() => { if (!opened) { document.getElementById('recvError').classList.add('on'); isConnecting = false; } }, 10000);
+      c.on('open', () => { opened = true; conn = c; document.getElementById('recvDot').className = 'status-dot ok'; setupRecv(c); isConnecting = false; });
+      c.on('error', () => { if (!opened) document.getElementById('recvError').classList.add('on'); isConnecting = false; });
+    });
+  }
+
+  function setupRecv(c) {
+    const limit = getRamLimit();
+    document.getElementById('ramMeter').style.display = 'block';
+    let lastTime = Date.now(), lastBytes = 0;
+    
+    c.on('data', async (data) => {
+      if (typeof data === 'string') {
+        try {
+          const msg = JSON.parse(data);
+          if (msg.type === 'META') {
+            recvBuffer = [];
+            recvReceived = 0;
+            recvMeta = msg;
+            expectedHash = msg.hash;
+            document.getElementById('recvProgress').style.display = 'block';
+            document.getElementById('recvStatus').textContent = 'Получение: ' + msg.name;
+            document.getElementById('hashOk').classList.remove('on');
+          } else if (msg.type === 'CHUNK') {
+            const binary = atob(msg.data);
+            const bytes = new Uint8Array(binary.length);
+            for (let i = 0; i < binary.length; i++) bytes[i] = binary.charCodeAt(i);
+            recvBuffer.push(bytes);
+            recvReceived += bytes.length;
+            const pct = Math.round(recvReceived / recvMeta.size * 100);
+            document.getElementById('recvFill').style.width = pct + '%';
+            document.getElementById('recvBytes').textContent = fmtSize(recvReceived);
+            const ramPct = Math.min(100, recvReceived / limit * 100);
+            document.getElementById('ramFill').style.width = ramPct + '%';
+            document.getElementById('ramValue').textContent = fmtSize(recvReceived);
+            const now = Date.now();
+            if (now - lastTime > 500) {
+              const bps = (recvReceived - lastBytes) / ((now - lastTime) / 1000);
+              document.getElementById('recvSpeed').textContent = fmtSpeed(bps);
+              lastTime = now;
+              lastBytes = recvReceived;
+            }
+          } else if (msg.type === 'DONE') {
+            await assembleFile();
+            recvBuffer = [];
+            recvReceived = 0;
+            recvMeta = null;
+          } else if (msg.type === 'ALL_DONE') {
+            allFilesReceived = true;
+            document.getElementById('recvStatus').textContent = '✅ Все файлы получены! Сессия завершена.';
+            document.getElementById('recvProgress').style.display = 'none';
+            document.getElementById('ramMeter').style.display = 'none';
+          }
+        } catch(e) {}
+      }
+    });
+  }
+
+  async function assembleFile() {
+    const total = recvReceived;
+    const merged = new Uint8Array(total);
+    let offset = 0;
+    for (const chunk of recvBuffer) {
+      merged.set(chunk, offset);
+      offset += chunk.length;
+    }
+    
+    if (expectedHash) {
+      const hash = await computeHash(merged.buffer);
+      if (hash === expectedHash) document.getElementById('hashOk').classList.add('on');
+    }
+    
+    const blob = new Blob([merged], { type: recvMeta.mime });
+    const url = URL.createObjectURL(blob);
+    const item = document.createElement('div');
+    item.className = 'download-item';
+    item.innerHTML = `<div class="download-name">${recvMeta.name} (${fmtSize(recvMeta.size)})</div>
+                      <a href="${url}" download="${recvMeta.name}" class="download-link">↓</a>`;
+    document.getElementById('downloadList').appendChild(item);
+    document.getElementById('recvStatus').textContent = 'Готово, ожидание следующего...';
+    
+    setTimeout(() => {
+      document.getElementById('recvFill').style.width = '0%';
+      document.getElementById('recvBytes').textContent = '—';
+      document.getElementById('ramFill').style.width = '0%';
+      document.getElementById('ramValue').textContent = '0 МБ';
+    }, 500);
+  }
+
+  function resetSend() {
+    if (peer) { try { peer.destroy(); } catch(e) {} peer = null; }
+    fileQueue = [];
+    currentFileIndex = -1;
+    isSending = false;
+    document.getElementById('fileInput').value = '';
+    document.getElementById('fileList').innerHTML = '';
+    document.getElementById('codePanel').style.display = 'none';
+    document.getElementById('sendProgress').style.display = 'none';
+    document.getElementById('critMsg').classList.remove('on');
+  }
+
+  function resetRecv() {
+    if (peer) { try { peer.destroy(); } catch(e) {} peer = null; }
+    conn = null;
+    recvMeta = null;
+    recvBuffer = [];
+    recvReceived = 0;
+    isConnecting = false;
+    allFilesReceived = false;
+    for (let i = 1; i <= 4; i++) {
+      const el = document.getElementById('d'+i);
+      if (el) { el.value = ''; el.classList.remove('filled'); }
+    }
+    document.getElementById('recvPanel').style.display = 'none';
+    document.getElementById('recvError').classList.remove('on');
+    document.getElementById('hashOk').classList.remove('on');
+    document.getElementById('downloadList').innerHTML = '';
+    document.getElementById('recvProgress').style.display = 'none';
+    document.getElementById('ramMeter').style.display = 'none';
+  }
+
+  document.getElementById('tabSend').onclick = () => switchMode('send');
+  document.getElementById('tabRecv').onclick = () => switchMode('recv');
+  document.getElementById('fileInput').onchange = (e) => onFiles(Array.from(e.target.files));
+  document.getElementById('resetSendBtn').onclick = resetSend;
+  document.getElementById('resetRecvBtn').onclick = resetRecv;
+  
+  const digits = ['d1','d2','d3','d4'];
+  digits.forEach((id, i) => {
+    const el = document.getElementById(id);
+    el.oninput = () => digitInput(el, digits[i+1]);
+    el.onkeydown = (e) => { if (e.key === 'Backspace' && !el.value && i > 0) document.getElementById(digits[i-1]).focus(); };
+  });
+  
+  const dz = document.getElementById('dropZone');
+  dz.ondragover = (e) => { e.preventDefault(); dz.style.borderColor = '#8b8eff'; };
+  dz.ondragleave = () => { dz.style.borderColor = '#2a2a35'; };
+  dz.ondrop = (e) => {
+    e.preventDefault();
+    dz.style.borderColor = '#2a2a35';
+    if (e.dataTransfer.files.length) onFiles(Array.from(e.dataTransfer.files));
+  };
+})();
+</script>
+</body>
+</html>
