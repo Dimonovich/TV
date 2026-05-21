@@ -793,13 +793,13 @@ http://217.174.229.136:8000/play/a08n
 http://217.174.229.136:8000/play/a00j
 #EXTINF:-1 group-title="ТуркменТелеком",ТНТ4
 http://217.174.229.136:8000/play/a00x
-#EXTINF:-1 group-title="ТуркменТелеком",РЕН
+#EXTINF:-1 group-title="ТуркменТелеком",РЕН ТВ
 http://217.174.229.136:8000/play/a03h
-#EXTINF:-1 group-title="ТуркменТелеком",РЕН (+2)
+#EXTINF:-1 group-title="ТуркменТелеком",РЕН ТВ (+2)
 http://217.174.229.136:8000/play/a097
-#EXTINF:-1 group-title="ТуркменТелеком",РЕН (+4)
+#EXTINF:-1 group-title="ТуркменТелеком",РЕН ТВ (+4)
 http://217.174.229.136:8000/play/a01o
-#EXTINF:-1 group-title="ТуркменТелеком",РЕН (+7)
+#EXTINF:-1 group-title="ТуркменТелеком",РЕН ТВ (+7)
 http://217.174.229.136:8000/play/a07f
 #EXTINF:-1 group-title="ТуркменТелеком",НТВ
 http://217.174.229.136:8000/play/a03f
@@ -913,9 +913,9 @@ http://217.174.229.136:8000/play/a023
 http://217.174.229.136:8000/play/a03p
 #EXTINF:-1 group-title="ТуркменТелеком",TV1000 action
 http://217.174.229.136:8000/play/a03o
-#EXTINF:-1 group-title="ТуркменТелеком",TV1000 romantica
+#EXTINF:-1 group-title="ТуркменТелеком",Viju TV1000 Romantica HD
 http://217.174.229.136:8000/play/a04b
-#EXTINF:-1 group-title="ТуркменТелеком",TV1000 Новелла
+#EXTINF:-1 group-title="ТуркменТелеком",Viju TV1000 Новелла HD
 http://217.174.229.136:8000/play/a03w
 #EXTINF:-1 group-title="ТуркменТелеком",TV1000 русское кино
 http://217.174.229.136:8000/play/a03n
@@ -933,9 +933,7 @@ http://217.174.229.136:8000/play/a05j
 http://217.174.229.136:8000/play/a051
 #EXTINF:-1 group-title="ТуркменТелеком",Успех
 http://217.174.229.136:8000/play/a096
-#EXTINF:-1 group-title="ТуркменТелеком",Витрина ТВ
-http://217.174.229.136:8000/play/a00s
-#EXTINF:-1 group-title="ТуркменТелеком",Восток
+#EXTINF:-1 group-title="ТуркменТелеком",Восток ТВ
 http://217.174.229.136:8000/play/a033
 #EXTINF:-1 group-title="ТуркменТелеком",Дом кино
 http://217.174.229.136:8000/play/a05f
@@ -1003,14 +1001,10 @@ http://217.174.229.136:8000/play/a085
 http://217.174.229.136:8000/play/a057
 #EXTINF:-1 group-title="ТуркменТелеком",Ключ
 http://217.174.229.136:8000/play/a07z
-#EXTINF:-1 group-title="ТуркменТелеком",Конный мир
-http://217.174.229.136:8000/play/a02t
 #EXTINF:-1 group-title="ТуркменТелеком",Курай
 http://217.174.229.136:8000/play/a05i
 #EXTINF:-1 group-title="ТуркменТелеком",Кухня ТВ
 http://217.174.229.136:8000/play/a07o
-#EXTINF:-1 group-title="ТуркменТелеком",ЛОТ-регион
-http://217.174.229.136:8000/play/a037
 #EXTINF:-1 group-title="ТуркменТелеком",Любимое кино
 http://217.174.229.136:8000/play/a050
 #EXTINF:-1 group-title="ТуркменТелеком",Майдан
@@ -1117,7 +1111,7 @@ http://217.174.229.136:8000/play/a00i
 http://217.174.229.136:8000/play/a00f
 #EXTINF:-1 group-title="ТуркменТелеком",СТС Kids
 http://217.174.229.136:8000/play/a08z
-#EXTINF:-1 group-title="ТуркменТелеком",Пингвин
+#EXTINF:-1 group-title="ТуркменТелеком",Пингвин Лоло
 http://217.174.229.136:8000/play/a05o
 #EXTINF:-1 group-title="ТуркменТелеком",Лёва HD
 http://217.174.229.136:8000/play/a08e
@@ -1163,7 +1157,7 @@ http://217.174.229.136:8000/play/a02c
 http://217.174.229.136:8000/play/a02i
 #EXTINF:-1 group-title="ТуркменТелеком",BRIDGE Этно
 http://217.174.229.136:8000/play/a02j
-#EXTINF:-1 group-title="ТуркменТелеком",BRIDGE Фрешь
+#EXTINF:-1 group-title="ТуркменТелеком",BRIDGE Фреш
 http://217.174.229.136:8000/play/a02f
 #EXTINF:-1 group-title="ТуркменТелеком",BRIDGE HITS
 http://217.174.229.136:8000/play/a02b
