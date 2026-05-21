@@ -613,7 +613,156 @@ http://hls.stb.md/MATCH_PLANETA_H264/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cC
 
 
 
-#EXTM3U
+
+
+
+#EXTINF:-1 group-title="ISATEL",ТНТ
+http://185.121.1.187:8001/play/25/index.m3u8
+#EXTINF:-1 group-title="ISATEL",ТНТ4
+http://185.121.1.187:8001/play/45/index.m3u8
+#EXTINF:-1 group-title="ISATEL",Рен ТВ
+http://185.121.1.187:8001/play/26/index.m3u8
+#EXTINF:-1 group-title="ISATEL",Россия 1
+http://185.121.1.187:8001/play/32/index.m3u8
+#EXTINF:-1 group-title="ISATEL",Россия 24
+http://185.121.1.187:8001/play/23/index.m3u8
+#EXTINF:-1 group-title="ISATEL",Россия К
+http://185.121.1.187:8001/play/37/index.m3u8
+#EXTINF:-1 group-title="ISATEL",НТВ
+http://185.121.1.187:8001/play/24/index.m3u8
+#EXTINF:-1 group-title="ISATEL",НТВ Хит
+http://185.121.1.187:8001/play/53/index.m3u8
+#EXTINF:-1 group-title="ISATEL",Discovery Channel
+http://185.121.1.187:8001/play/78/index.m3u8
+#EXTINF:-1 group-title="ISATEL",Глазами туриста
+http://185.121.1.187:8001/play/91/index.m3u8
+#EXTINF:-1 group-title="ISATEL",Тайны галактики
+http://185.121.1.187:8001/play/88/index.m3u8
+#EXTINF:-1 group-title="ISATEL",Техно 24
+http://185.121.1.187:8001/play/85/index.m3u8
+#EXTINF:-1 group-title="ISATEL",Точка отрыва
+http://185.121.1.187:8001/play/110/index.m3u8
+#EXTINF:-1 group-title="ISATEL",Viasat Explore
+http://185.121.1.187:8001/play/96/index.m3u8
+#EXTINF:-1 group-title="ISATEL",Nat Geo Wild
+http://185.121.1.187:8001/play/65/index.m3u8
+#EXTINF:-1 group-title="ISATEL",National Geographic
+http://185.121.1.187:8001/play/66/index.m3u8
+#EXTINF:-1 group-title="ISATEL",Наука 2.0
+http://185.121.1.187:8001/play/46/index.m3u8
+#EXTINF:-1 group-title="ISATEL",Моя планета
+http://185.121.1.187:8001/play/50/index.m3u8
+#EXTINF:-1 group-title="ISATEL",Охота и рыбалка
+http://185.121.1.187:8001/play/67/index.m3u8
+#EXTINF:-1 group-title="ISATEL",History
+http://185.121.1.187:8001/play/49/index.m3u8
+#EXTINF:-1 group-title="ISATEL",Amedia Hit
+http://185.121.1.187:8001/play/106/index.m3u8
+#EXTINF:-1 group-title="ISATEL",Авто 24
+http://185.121.1.187:8001/play/89/index.m3u8
+#EXTINF:-1 group-title="ISATEL",Bollywood
+http://185.121.1.187:8001/play/84/index.m3u8
+#EXTINF:-1 group-title="ISATEL",Че
+http://185.121.1.187:8001/play/36/index.m3u8
+#EXTINF:-1 group-title="ISATEL",Доктор
+http://185.121.1.187:8001/play/74/index.m3u8
+#EXTINF:-1 group-title="ISATEL",Дом кино
+http://185.121.1.187:8001/play/101/index.m3u8
+#EXTINF:-1 group-title="ISATEL",Домашний
+http://185.121.1.187:8001/play/70/index.m3u8
+#EXTINF:-1 group-title="ISATEL",Кинеко
+http://185.121.1.187:8001/play/105/index.m3u8
+#EXTINF:-1 group-title="ISATEL",Кино ТВ
+http://185.121.1.187:8001/play/93/index.m3u8
+#EXTINF:-1 group-title="ISATEL",Кинохит
+http://185.121.1.187:8001/play/94/index.m3u8
+#EXTINF:-1 group-title="ISATEL",Индийское кино
+http://185.121.1.187:8001/play/55/index.m3u8
+#EXTINF:-1 group-title="ISATEL",Киномикс
+http://185.121.1.187:8001/play/60/index.m3u8
+#EXTINF:-1 group-title="ISATEL",Кинопремьера
+http://185.121.1.187:8001/play/102/index.m3u8
+#EXTINF:-1 group-title="ISATEL",Наше новое кино
+http://185.121.1.187:8001/play/103/index.m3u8
+#EXTINF:-1 group-title="ISATEL",Киносемья
+http://185.121.1.187:8001/play/111/index.m3u8
+#EXTINF:-1 group-title="ISATEL",Киноужас
+http://185.121.1.187:8001/play/115/index.m3u8
+#EXTINF:-1 group-title="ISATEL",Kinoman
+http://185.121.1.187:8001/play/83/index.m3u8
+#EXTINF:-1 group-title="ISATEL",Кухня ТВ
+http://185.121.1.187:8001/play/90/index.m3u8
+#EXTINF:-1 group-title="ISATEL",Любимое кино
+http://185.121.1.187:8001/play/99/index.m3u8
+#EXTINF:-1 group-title="ISATEL",МузТВ
+http://185.121.1.187:8001/play/33/index.m3u8
+#EXTINF:-1 group-title="ISATEL",Мосфильм. Золотая коллекция
+http://185.121.1.187:8001/play/92/index.m3u8
+#EXTINF:-1 group-title="ISATEL",Мужское кино
+http://185.121.1.187:8001/play/61/index.m3u8
+#EXTINF:-1 group-title="ISATEL",НСТ
+http://185.121.1.187:8001/play/104/index.m3u8
+#EXTINF:-1 group-title="ISATEL",Победа
+http://185.121.1.187:8001/play/35/index.m3u8
+#EXTINF:-1 group-title="ISATEL",Пятница
+http://185.121.1.187:8001/play/43/index.m3u8
+#EXTINF:-1 group-title="ISATEL",РБК
+http://185.121.1.187:8001/play/39/index.m3u8
+#EXTINF:-1 group-title="ISATEL",Русский бестселлер
+http://185.121.1.187:8001/play/30/index.m3u8
+#EXTINF:-1 group-title="ISATEL",Русский детектив
+http://185.121.1.187:8001/play/29/index.m3u8
+#EXTINF:-1 group-title="ISATEL",Русский роман
+http://185.121.1.187:8001/play/28/index.m3u8
+#EXTINF:-1 group-title="ISATEL",СТС
+http://185.121.1.187:8001/play/27/index.m3u8
+#EXTINF:-1 group-title="ISATEL",TV1000
+http://185.121.1.187:8001/play/47/index.m3u8
+#EXTINF:-1 group-title="ISATEL",TV1000 Русское кино
+http://185.121.1.187:8001/play/95/index.m3u8
+#EXTINF:-1 group-title="ISATEL",ТВ3
+http://185.121.1.187:8001/play/44/index.m3u8
+#EXTINF:-1 group-title="ISATEL",RU.TV
+http://185.121.1.187:8001/play/34/index.m3u8
+#EXTINF:-1 group-title="ISATEL",ТНТ Music
+http://185.121.1.187:8001/play/75/index.m3u8
+#EXTINF:-1 group-title="ISATEL",СТС Kids
+http://185.121.1.187:8001/play/107/index.m3u8
+#EXTINF:-1 group-title="ISATEL",Мульт
+http://185.121.1.187:8001/play/71/index.m3u8
+#EXTINF:-1 group-title="ISATEL",Ani
+http://185.121.1.187:8001/play/108/index.m3u8
+#EXTINF:-1 group-title="ISATEL",Da Vinci
+http://185.121.1.187:8001/play/72/index.m3u8
+#EXTINF:-1 group-title="ISATEL",Детский мир
+http://185.121.1.187:8001/play/109/index.m3u8
+#EXTINF:-1 group-title="ISATEL",Карусель
+http://185.121.1.187:8001/play/100/index.m3u8
+#EXTINF:-1 group-title="ISATEL",Бобёр
+http://185.121.1.187:8001/play/38/index.m3u8
+#EXTINF:-1 group-title="ISATEL",Солнце
+http://185.121.1.187:8001/play/51/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Бокс ТВ
+http://185.121.1.187:8001/play/116/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Setanta Sport 1
+http://185.121.1.187:8001/play/77/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",KHL
+http://185.121.1.187:8001/play/114/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч ТВ
+http://185.121.1.187:8001/play/113/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Арена
+http://185.121.1.187:8001/play/79/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Боец
+http://185.121.1.187:8001/play/42/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Футбол 1
+http://185.121.1.187:8001/play/117/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Футбол 2
+http://185.121.1.187:8001/play/118/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Футбол 3
+http://185.121.1.187:8001/play/119/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч Премьер
+http://185.121.1.187:8001/play/76/index.m3u8
+
 
 
 #EXTINF:-1 group-title="ТуркменТелеком",Первый канал HD
