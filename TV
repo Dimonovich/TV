@@ -613,6 +613,457 @@ http://hls.stb.md/MATCH_PLANETA_H264/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cC
 
 
 
+#EXTM3U
+
+
+#EXTINF:-1 group-title="ТуркменТелеком",Первый канал HD
+http://217.174.229.136:8000/play/a09g
+#EXTINF:-1 group-title="ТуркменТелеком",Первый канал
+http://217.174.229.136:8000/play/a03c
+#EXTINF:-1 group-title="ТуркменТелеком",Первый канал (+2)
+http://217.174.229.136:8000/play/a00t
+#EXTINF:-1 group-title="ТуркменТелеком",Россия 1
+http://217.174.229.136:8000/play/a03d
+#EXTINF:-1 group-title="ТуркменТелеком",Россия 1 (+2)
+http://217.174.229.136:8000/play/a00u
+#EXTINF:-1 group-title="ТуркменТелеком",Россия HD
+http://217.174.229.136:8000/play/a031
+#EXTINF:-1 group-title="ТуркменТелеком",Россия К
+http://217.174.229.136:8000/play/a07e
+#EXTINF:-1 group-title="ТуркменТелеком",Россия 24
+http://217.174.229.136:8000/play/a00k
+#EXTINF:-1 group-title="ТуркменТелеком",ТНТ
+http://217.174.229.136:8000/play/a03k
+#EXTINF:-1 group-title="ТуркменТелеком",ТНТ (+2)
+http://217.174.229.136:8000/play/a09u
+#EXTINF:-1 group-title="ТуркменТелеком",ТНТ (+4)
+http://217.174.229.136:8000/play/a01h
+#EXTINF:-1 group-title="ТуркменТелеком",ТНТ HD
+http://217.174.229.136:8000/play/a08n
+#EXTINF:-1 group-title="ТуркменТелеком",ТНТ Music
+http://217.174.229.136:8000/play/a00j
+#EXTINF:-1 group-title="ТуркменТелеком",ТНТ4
+http://217.174.229.136:8000/play/a00x
+#EXTINF:-1 group-title="ТуркменТелеком",РЕН
+http://217.174.229.136:8000/play/a03h
+#EXTINF:-1 group-title="ТуркменТелеком",РЕН (+2)
+http://217.174.229.136:8000/play/a097
+#EXTINF:-1 group-title="ТуркменТелеком",РЕН (+4)
+http://217.174.229.136:8000/play/a01o
+#EXTINF:-1 group-title="ТуркменТелеком",РЕН (+7)
+http://217.174.229.136:8000/play/a07f
+#EXTINF:-1 group-title="ТуркменТелеком",НТВ
+http://217.174.229.136:8000/play/a03f
+#EXTINF:-1 group-title="ТуркменТелеком",НТВ (+2)
+http://217.174.229.136:8000/play/a07n
+#EXTINF:-1 group-title="ТуркменТелеком",НТВ (+7)
+http://217.174.229.136:8000/play/a08p
+#EXTINF:-1 group-title="ТуркменТелеком",НТВ HD
+http://217.174.229.136:8000/play/a08m
+#EXTINF:-1 group-title="ТуркменТелеком",НТВ Право
+http://217.174.229.136:8000/play/a08h
+#EXTINF:-1 group-title="ТуркменТелеком",НТВ Сериал
+http://217.174.229.136:8000/play/a08i
+#EXTINF:-1 group-title="ТуркменТелеком",НТВ Стиль
+http://217.174.229.136:8000/play/a08g
+#EXTINF:-1 group-title="ТуркменТелеком",Нано ТВ
+http://217.174.229.136:8000/play/a027
+#EXTINF:-1 group-title="ТуркменТелеком",Curiosity Stream
+http://217.174.229.136:8000/play/a09l
+#EXTINF:-1 group-title="ТуркменТелеком",viju+ Planet
+http://217.174.229.136:8000/play/a048
+#EXTINF:-1 group-title="ТуркменТелеком",Viasat Explore
+http://217.174.229.136:8000/play/a03q
+#EXTINF:-1 group-title="ТуркменТелеком",Viasat History
+http://217.174.229.136:8000/play/a03r
+#EXTINF:-1 group-title="ТуркменТелеком",Viasat Nature
+http://217.174.229.136:8000/play/a03s
+#EXTINF:-1 group-title="ТуркменТелеком",Глазами Туриста HD
+http://217.174.229.136:8000/play/a043
+#EXTINF:-1 group-title="ТуркменТелеком",Большая Азия
+http://217.174.229.136:8000/play/a038
+#EXTINF:-1 group-title="ТуркменТелеком",Диалоги о рыбалке
+http://217.174.229.136:8000/play/a08w
+#EXTINF:-1 group-title="ТуркменТелеком",Дикая охота HD
+http://217.174.229.136:8000/play/a08k
+#EXTINF:-1 group-title="ТуркменТелеком",Дикая рыбалка HD
+http://217.174.229.136:8000/play/a08j
+#EXTINF:-1 group-title="ТуркменТелеком",Дикий
+http://217.174.229.136:8000/play/a05b
+#EXTINF:-1 group-title="ТуркменТелеком",Моя Планета
+http://217.174.229.136:8000/play/a06v
+#EXTINF:-1 group-title="ТуркменТелеком",Моя планета HD
+http://217.174.229.136:8000/play/a07b
+#EXTINF:-1 group-title="ТуркменТелеком",Техно 24
+http://217.174.229.136:8000/play/a076
+#EXTINF:-1 group-title="ТуркменТелеком",ТНВ-Планета
+http://217.174.229.136:8000/play/a09y
+#EXTINF:-1 group-title="ТуркменТелеком",Terra
+http://217.174.229.136:8000/play/a032
+#EXTINF:-1 group-title="ТуркменТелеком",Terra HD
+http://217.174.229.136:8000/play/a039
+#EXTINF:-1 group-title="ТуркменТелеком",Ocean TV
+http://217.174.229.136:8000/play/a086
+#EXTINF:-1 group-title="ТуркменТелеком",Тайны Галактики
+http://217.174.229.136:8000/play/a080
+#EXTINF:-1 group-title="ТуркменТелеком",Наука
+http://217.174.229.136:8000/play/a06u
+#EXTINF:-1 group-title="ТуркменТелеком",Наука HD
+http://217.174.229.136:8000/play/a07a
+#EXTINF:-1 group-title="ТуркменТелеком",Охота и Рыбалка
+http://217.174.229.136:8000/play/a02y
+#EXTINF:-1 group-title="ТуркменТелеком",Живая Природа HD
+http://217.174.229.136:8000/play/a044
+#EXTINF:-1 group-title="ТуркменТелеком",Живи активно HD
+http://217.174.229.136:8000/play/a09i
+#EXTINF:-1 group-title="ТуркменТелеком",Загородная жизнь
+http://217.174.229.136:8000/play/a082
+#EXTINF:-1 group-title="ТуркменТелеком",Доктор
+http://217.174.229.136:8000/play/a036
+#EXTINF:-1 group-title="ТуркменТелеком",8 Канал
+http://217.174.229.136:8000/play/a00g
+#EXTINF:-1 group-title="ТуркменТелеком",Amedia 1
+http://217.174.229.136:8000/play/a07p
+#EXTINF:-1 group-title="ТуркменТелеком",Amedia 2
+http://217.174.229.136:8000/play/a084
+#EXTINF:-1 group-title="ТуркменТелеком",Amedia 2 HD
+http://217.174.229.136:8000/play/a078
+#EXTINF:-1 group-title="ТуркменТелеком",.Black
+http://217.174.229.136:8000/play/a00r
+#EXTINF:-1 group-title="ТуркменТелеком",Amedia Hit HD
+http://217.174.229.136:8000/play/a041
+#EXTINF:-1 group-title="ТуркменТелеком",Amedia Premium HD
+http://217.174.229.136:8000/play/a07y
+#EXTINF:-1 group-title="ТуркменТелеком",.Red
+http://217.174.229.136:8000/play/a00p
+#EXTINF:-1 group-title="ТуркменТелеком",.Red HD
+http://217.174.229.136:8000/play/a077
+#EXTINF:-1 group-title="ТуркменТелеком",.Sci-Fi
+http://217.174.229.136:8000/play/a00q
+#EXTINF:-1 group-title="ТуркменТелеком",Fashion HD
+http://217.174.229.136:8000/play/a089
+#EXTINF:-1 group-title="ТуркменТелеком",Gags network
+http://217.174.229.136:8000/play/a09c
+#EXTINF:-1 group-title="ТуркменТелеком",Plan B HD
+http://217.174.229.136:8000/play/a08l
+#EXTINF:-1 group-title="ТуркменТелеком",РБК
+http://217.174.229.136:8000/play/a028
+#EXTINF:-1 group-title="ТуркменТелеком",START Air
+http://217.174.229.136:8000/play/a099
+#EXTINF:-1 group-title="ТуркменТелеком",START World
+http://217.174.229.136:8000/play/a09a
+#EXTINF:-1 group-title="ТуркменТелеком",Star Cinema
+http://217.174.229.136:8000/play/a04v
+#EXTINF:-1 group-title="ТуркменТелеком",Star Family
+http://217.174.229.136:8000/play/a04u
+#EXTINF:-1 group-title="ТуркменТелеком",TV XXI
+http://217.174.229.136:8000/play/a06w
+#EXTINF:-1 group-title="ТуркменТелеком",Вкус
+http://217.174.229.136:8000/play/a023
+#EXTINF:-1 group-title="ТуркменТелеком",TV1000
+http://217.174.229.136:8000/play/a03p
+#EXTINF:-1 group-title="ТуркменТелеком",TV1000 action
+http://217.174.229.136:8000/play/a03o
+#EXTINF:-1 group-title="ТуркменТелеком",TV1000 romantica
+http://217.174.229.136:8000/play/a04b
+#EXTINF:-1 group-title="ТуркменТелеком",TV1000 Новелла
+http://217.174.229.136:8000/play/a03w
+#EXTINF:-1 group-title="ТуркменТелеком",TV1000 русское кино
+http://217.174.229.136:8000/play/a03n
+#EXTINF:-1 group-title="ТуркменТелеком",VIP Comedy
+http://217.174.229.136:8000/play/a040
+#EXTINF:-1 group-title="ТуркменТелеком",VIP Megahit
+http://217.174.229.136:8000/play/a03z
+#EXTINF:-1 group-title="ТуркменТелеком",VIP Premiere
+http://217.174.229.136:8000/play/a03y
+#EXTINF:-1 group-title="ТуркменТелеком",VIP Serial
+http://217.174.229.136:8000/play/a049
+#EXTINF:-1 group-title="ТуркменТелеком",БСТ
+http://217.174.229.136:8000/play/a05j
+#EXTINF:-1 group-title="ТуркменТелеком",БелРос
+http://217.174.229.136:8000/play/a051
+#EXTINF:-1 group-title="ТуркменТелеком",Успех
+http://217.174.229.136:8000/play/a096
+#EXTINF:-1 group-title="ТуркменТелеком",Витрина ТВ
+http://217.174.229.136:8000/play/a00s
+#EXTINF:-1 group-title="ТуркменТелеком",Восток
+http://217.174.229.136:8000/play/a033
+#EXTINF:-1 group-title="ТуркменТелеком",Дом кино
+http://217.174.229.136:8000/play/a05f
+#EXTINF:-1 group-title="ТуркменТелеком",Домашний
+http://217.174.229.136:8000/play/a00l
+#EXTINF:-1 group-title="ТуркменТелеком",Домашний (+2)
+http://217.174.229.136:8000/play/a07v
+#EXTINF:-1 group-title="ТуркменТелеком",Домашний (+4)
+http://217.174.229.136:8000/play/a01q
+#EXTINF:-1 group-title="ТуркменТелеком",Дон 24
+http://217.174.229.136:8000/play/a05g
+#EXTINF:-1 group-title="ТуркменТелеком",ЕГЭ
+http://217.174.229.136:8000/play/a05h
+#EXTINF:-1 group-title="ТуркменТелеком",Еврокино
+http://217.174.229.136:8000/play/a092
+#EXTINF:-1 group-title="ТуркменТелеком",ЗВЕЗДА ПЛЮС
+http://217.174.229.136:8000/play/a05p
+#EXTINF:-1 group-title="ТуркменТелеком",Зал суда
+http://217.174.229.136:8000/play/a09b
+#EXTINF:-1 group-title="ТуркменТелеком",Звезда
+http://217.174.229.136:8000/play/a03j
+#EXTINF:-1 group-title="ТуркменТелеком",Звезда (+2)
+http://217.174.229.136:8000/play/a074
+#EXTINF:-1 group-title="ТуркменТелеком",Звезда (+7)
+http://217.174.229.136:8000/play/a07c
+#EXTINF:-1 group-title="ТуркменТелеком",Зоопарк
+http://217.174.229.136:8000/play/a02l
+#EXTINF:-1 group-title="ТуркменТелеком",Известия
+http://217.174.229.136:8000/play/a08a
+#EXTINF:-1 group-title="ТуркменТелеком",Иллюзион+
+http://217.174.229.136:8000/play/a02m
+#EXTINF:-1 group-title="ТуркменТелеком",Индия
+http://217.174.229.136:8000/play/a09x
+#EXTINF:-1 group-title="ТуркменТелеком",КВН ТВ
+http://217.174.229.136:8000/play/a02r
+#EXTINF:-1 group-title="ТуркменТелеком",Катунь 24
+http://217.174.229.136:8000/play/a02q
+#EXTINF:-1 group-title="ТуркменТелеком",Кинеко
+http://217.174.229.136:8000/play/a02s
+#EXTINF:-1 group-title="ТуркменТелеком",Кинеко HD
+http://217.174.229.136:8000/play/a02w
+#EXTINF:-1 group-title="ТуркменТелеком",Кино 24
+http://217.174.229.136:8000/play/a06y
+#EXTINF:-1 group-title="ТуркменТелеком",Кино ТВ (+4)
+http://217.174.229.136:8000/play/a083
+#EXTINF:-1 group-title="ТуркменТелеком",Кино ТВ HD
+http://217.174.229.136:8000/play/a047
+#EXTINF:-1 group-title="ТуркменТелеком",Киноман
+http://217.174.229.136:8000/play/a02p
+#EXTINF:-1 group-title="ТуркменТелеком",МУЖСКОЕ КИНО
+http://217.174.229.136:8000/play/a07i
+#EXTINF:-1 group-title="ТуркменТелеком",КИНОМИКС HD
+http://217.174.229.136:8000/play/a046
+#EXTINF:-1 group-title="ТуркменТелеком",ИНДИЙСКОЕ КИНО
+http://217.174.229.136:8000/play/a02v
+#EXTINF:-1 group-title="ТуркменТелеком",КИНОПРЕМЬЕРА HD
+http://217.174.229.136:8000/play/a09h
+#EXTINF:-1 group-title="ТуркменТелеком",КИНОСВИДАНИЕ
+http://217.174.229.136:8000/play/a059
+#EXTINF:-1 group-title="ТуркменТелеком",Наше новое кино
+http://217.174.229.136:8000/play/a08f
+#EXTINF:-1 group-title="ТуркменТелеком",Киносемья HD
+http://217.174.229.136:8000/play/a085
+#EXTINF:-1 group-title="ТуркменТелеком",Кинохит HD
+http://217.174.229.136:8000/play/a057
+#EXTINF:-1 group-title="ТуркменТелеком",Ключ
+http://217.174.229.136:8000/play/a07z
+#EXTINF:-1 group-title="ТуркменТелеком",Конный мир
+http://217.174.229.136:8000/play/a02t
+#EXTINF:-1 group-title="ТуркменТелеком",Курай
+http://217.174.229.136:8000/play/a05i
+#EXTINF:-1 group-title="ТуркменТелеком",Кухня ТВ
+http://217.174.229.136:8000/play/a07o
+#EXTINF:-1 group-title="ТуркменТелеком",ЛОТ-регион
+http://217.174.229.136:8000/play/a037
+#EXTINF:-1 group-title="ТуркменТелеком",Любимое кино
+http://217.174.229.136:8000/play/a050
+#EXTINF:-1 group-title="ТуркменТелеком",Майдан
+http://217.174.229.136:8000/play/a094
+#EXTINF:-1 group-title="ТуркменТелеком",Мир
+http://217.174.229.136:8000/play/a04y
+#EXTINF:-1 group-title="ТуркменТелеком",Мир 24
+http://217.174.229.136:8000/play/a00w
+#EXTINF:-1 group-title="ТуркменТелеком",Мир Увлечений
+http://217.174.229.136:8000/play/a05c
+#EXTINF:-1 group-title="ТуркменТелеком",Мир сериала
+http://217.174.229.136:8000/play/a087
+#EXTINF:-1 group-title="ТуркменТелеком",Москва 24
+http://217.174.229.136:8000/play/a07k
+#EXTINF:-1 group-title="ТуркменТелеком",Мосфильм. Золотая коллекция
+http://217.174.229.136:8000/play/a07d
+#EXTINF:-1 group-title="ТуркменТелеком",Мужской
+http://217.174.229.136:8000/play/a081
+#EXTINF:-1 group-title="ТуркменТелеком",НВВ
+http://217.174.229.136:8000/play/a07g
+#EXTINF:-1 group-title="ТуркменТелеком",НИК
+http://217.174.229.136:8000/play/a07h
+#EXTINF:-1 group-title="ТуркменТелеком",НСТВ
+http://217.174.229.136:8000/play/a070
+#EXTINF:-1 group-title="ТуркменТелеком",ОТВ Челябинск БУЛАТ
+http://217.174.229.136:8000/play/a095
+#EXTINF:-1 group-title="ТуркменТелеком",ОТР
+http://217.174.229.136:8000/play/a09v
+#EXTINF:-1 group-title="ТуркменТелеком",Первый Вегетарианский
+http://217.174.229.136:8000/play/a08y
+#EXTINF:-1 group-title="ТуркменТелеком",Петербург 5 канал
+http://217.174.229.136:8000/play/a03u
+#EXTINF:-1 group-title="ТуркменТелеком",Петербург 5 канал (+2)
+http://217.174.229.136:8000/play/a098
+#EXTINF:-1 group-title="ТуркменТелеком",Победа
+http://217.174.229.136:8000/play/a09j
+#EXTINF:-1 group-title="ТуркменТелеком",Продвижение (Сибирь)
+http://217.174.229.136:8000/play/a054
+#EXTINF:-1 group-title="ТуркменТелеком",Пятница
+http://217.174.229.136:8000/play/a09d
+#EXTINF:-1 group-title="ТуркменТелеком",Пятница (+7)
+http://217.174.229.136:8000/play/a01w
+#EXTINF:-1 group-title="ТуркменТелеком",РБК
+http://217.174.229.136:8000/play/a07m
+#EXTINF:-1 group-title="ТуркменТелеком",Родное кино
+http://217.174.229.136:8000/play/a05d
+#EXTINF:-1 group-title="ТуркменТелеком",Русская История
+http://217.174.229.136:8000/play/a09q
+#EXTINF:-1 group-title="ТуркменТелеком",Русский Бестселлер
+http://217.174.229.136:8000/play/a04x
+#EXTINF:-1 group-title="ТуркменТелеком",Русский Детектив
+http://217.174.229.136:8000/play/a04t
+#EXTINF:-1 group-title="ТуркменТелеком",Русский Роман
+http://217.174.229.136:8000/play/a04s
+#EXTINF:-1 group-title="ТуркменТелеком",Русский иллюзион
+http://217.174.229.136:8000/play/a090
+#EXTINF:-1 group-title="ТуркменТелеком",СТС
+http://217.174.229.136:8000/play/a03i
+#EXTINF:-1 group-title="ТуркменТелеком",СТС (+2)
+http://217.174.229.136:8000/play/a07u
+#EXTINF:-1 group-title="ТуркменТелеком",СТС (+7)
+http://217.174.229.136:8000/play/a07t
+#EXTINF:-1 group-title="ТуркменТелеком",СТС Love
+http://217.174.229.136:8000/play/a00m
+#EXTINF:-1 group-title="ТуркменТелеком",Сапфир
+http://217.174.229.136:8000/play/a02o
+#EXTINF:-1 group-title="ТуркменТелеком",Сапфир HD
+http://217.174.229.136:8000/play/a02x
+#EXTINF:-1 group-title="ТуркменТелеком",Сарафан
+http://217.174.229.136:8000/play/a06z
+#EXTINF:-1 group-title="ТуркменТелеком",Cinema
+http://217.174.229.136:8000/play/a073
+#EXTINF:-1 group-title="ТуркменТелеком",Совершенно секретно
+http://217.174.229.136:8000/play/a08r
+#EXTINF:-1 group-title="ТуркменТелеком",Солнце
+http://217.174.229.136:8000/play/a00d
+#EXTINF:-1 group-title="ТуркменТелеком",Союз
+http://217.174.229.136:8000/play/a00e
+#EXTINF:-1 group-title="ТуркменТелеком",Спас
+http://217.174.229.136:8000/play/a09e
+#EXTINF:-1 group-title="ТуркменТелеком",Суббота
+http://217.174.229.136:8000/play/a03v
+#EXTINF:-1 group-title="ТуркменТелеком",ТВЦ
+http://217.174.229.136:8000/play/a09w
+#EXTINF:-1 group-title="ТуркменТелеком",ТВ3
+http://217.174.229.136:8000/play/a00v
+#EXTINF:-1 group-title="ТуркменТелеком",Театр
+http://217.174.229.136:8000/play/a05l
+#EXTINF:-1 group-title="ТуркменТелеком",2x2
+http://217.174.229.136:8000/play/a00y
+#EXTINF:-1 group-title="ТуркменТелеком",Точка отрыва
+http://217.174.229.136:8000/play/a08b
+#EXTINF:-1 group-title="ТуркменТелеком",Туган Тел
+http://217.174.229.136:8000/play/a072
+#EXTINF:-1 group-title="ТуркменТелеком",Удмуртия
+http://217.174.229.136:8000/play/a07w
+#EXTINF:-1 group-title="ТуркменТелеком",Чаваш Ен
+http://217.174.229.136:8000/play/a05a
+#EXTINF:-1 group-title="ТуркменТелеком",Че
+http://217.174.229.136:8000/play/a02z
+#EXTINF:-1 group-title="ТуркменТелеком",Ю
+http://217.174.229.136:8000/play/a00i
+#EXTINF:-1 group-title="ТуркменТелеком",Ювелирочка
+http://217.174.229.136:8000/play/a00f
+#EXTINF:-1 group-title="ТуркменТелеком",СТС Kids
+http://217.174.229.136:8000/play/a08z
+#EXTINF:-1 group-title="ТуркменТелеком",Пингвин
+http://217.174.229.136:8000/play/a05o
+#EXTINF:-1 group-title="ТуркменТелеком",Лёва HD
+http://217.174.229.136:8000/play/a08e
+#EXTINF:-1 group-title="ТуркменТелеком",Карусель
+http://217.174.229.136:8000/play/a03g
+#EXTINF:-1 group-title="ТуркменТелеком",Уникум
+http://217.174.229.136:8000/play/a035
+#EXTINF:-1 group-title="ТуркменТелеком",Детский Мир
+http://217.174.229.136:8000/play/a088
+#EXTINF:-1 group-title="ТуркменТелеком",Бобёр
+http://217.174.229.136:8000/play/a05q
+#EXTINF:-1 group-title="ТуркменТелеком",В гостях у сказки
+http://217.174.229.136:8000/play/a02u
+#EXTINF:-1 group-title="ТуркменТелеком",Мама
+http://217.174.229.136:8000/play/a071
+#EXTINF:-1 group-title="ТуркменТелеком",TiJi
+http://217.174.229.136:8000/play/a09k
+#EXTINF:-1 group-title="ТуркменТелеком",BABY TIME
+http://217.174.229.136:8000/play/a024
+#EXTINF:-1 group-title="ТуркменТелеком",Bolt
+http://217.174.229.136:8000/play/a055
+#EXTINF:-1 group-title="ТуркменТелеком",Da Vinci
+http://217.174.229.136:8000/play/a03m
+#EXTINF:-1 group-title="ТуркменТелеком",Gulli Girl
+http://217.174.229.136:8000/play/a09t
+#EXTINF:-1 group-title="ТуркменТелеком",Мульт
+http://217.174.229.136:8000/play/a06x
+#EXTINF:-1 group-title="ТуркменТелеком",Мульт HD
+http://217.174.229.136:8000/play/a042
+#EXTINF:-1 group-title="ТуркменТелеком",Мультиландия
+http://217.174.229.136:8000/play/a053
+#EXTINF:-1 group-title="ТуркменТелеком",МУЗ ТВ
+http://217.174.229.136:8000/play/a00n
+#EXTINF:-1 group-title="ТуркменТелеком",Шансон ТВ
+http://217.174.229.136:8000/play/a05n
+#EXTINF:-1 group-title="ТуркменТелеком",Европа Плюс ТВ
+http://217.174.229.136:8000/play/a08c
+#EXTINF:-1 group-title="ТуркменТелеком",RU.TV
+http://217.174.229.136:8000/play/a034
+#EXTINF:-1 group-title="ТуркменТелеком",BRIDGE CLASSIC
+http://217.174.229.136:8000/play/a02c
+#EXTINF:-1 group-title="ТуркменТелеком",BRIDGE DELUXE
+http://217.174.229.136:8000/play/a02i
+#EXTINF:-1 group-title="ТуркменТелеком",BRIDGE Этно
+http://217.174.229.136:8000/play/a02j
+#EXTINF:-1 group-title="ТуркменТелеком",BRIDGE Фрешь
+http://217.174.229.136:8000/play/a02f
+#EXTINF:-1 group-title="ТуркменТелеком",BRIDGE HITS
+http://217.174.229.136:8000/play/a02b
+#EXTINF:-1 group-title="ТуркменТелеком",BRIDGE ROCK
+http://217.174.229.136:8000/play/a02e
+#EXTINF:-1 group-title="ТуркменТелеком",BRIDGE Русский Хит
+http://217.174.229.136:8000/play/a02h
+#EXTINF:-1 group-title="ТуркменТелеком",BRIDGE Шлягер
+http://217.174.229.136:8000/play/a02d
+#EXTINF:-1 group-title="ТуркменТелеком",BRIDGE TV
+http://217.174.229.136:8000/play/a07s
+#EXTINF:-1 group-title="ТуркменТелеком",BRIDGE TV Classic
+http://217.174.229.136:8000/play/a056
+#EXTINF:-1 group-title="ТуркменТелеком",BRIDGE TV Русский Хит
+http://217.174.229.136:8000/play/a08u
+#EXTINF:-1 group-title="ТуркменТелеком",о2тв
+http://217.174.229.136:8000/play/a08s
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Футбол
+http://217.174.229.136:8000/play/a08o
+#EXTINF:-1 group-title="Спорткомплекс 🏆",KHL
+http://217.174.229.136:8000/play/a07q
+#EXTINF:-1 group-title="Спорткомплекс 🏆",KHL Prime HD
+http://217.174.229.136:8000/play/a07x
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Арена
+http://217.174.229.136:8000/play/a01b
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Боец
+http://217.174.229.136:8000/play/a016
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Игра
+http://217.174.229.136:8000/play/a01g
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Страна
+http://217.174.229.136:8000/play/a01d
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч ТВ
+http://217.174.229.136:8000/play/a03e
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч ТВ HD
+http://217.174.229.136:8000/play/a01s
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Футбол 1
+http://217.174.229.136:8000/play/a010
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Футбол 2
+http://217.174.229.136:8000/play/a011
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Футбол 3
+http://217.174.229.136:8000/play/a012
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч Премьер
+http://217.174.229.136:8000/play/a00o
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Turkmenistan Sport
+http://217.174.229.136:8000/play/a00a
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Viasat Sport
+http://217.174.229.136:8000/play/a03t
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Extreme Sports
+http://217.174.229.136:8000/play/a08q
 
 
 
