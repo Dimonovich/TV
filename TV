@@ -675,7 +675,7 @@ http://176.100.46.245:90/ViasatKinoComedy/index.m3u8
 http://176.100.46.245:90/viasatkino/index.m3u8
 #EXTINF:-1 group-title="VGS Network",Plan b
 http://176.100.46.245:90/PLANB/index.m3u8
-#EXTINF:-1 group-title="VGS Network",HCT
+#EXTINF:-1 group-title="VGS Network",НСТ
 http://176.100.46.245:90/hct/index.m3u8
 #EXTINF:-1 group-title="VGS Network",Amedia 1
 http://176.100.46.245:90/amedia1/index.m3u8
@@ -683,10 +683,6 @@ http://176.100.46.245:90/amedia1/index.m3u8
 http://176.100.46.245:90/AmediaPremium/index.m3u8
 #EXTINF:-1 group-title="VGS Network",DocuBox
 http://176.100.46.245:90/DOCUBOX/index.m3u8
-#EXTINF:-1 group-title="VGS Network",WORLDFASHION
-http://176.100.46.245:90/WORLDFASHION/index.m3u8
-#EXTINF:-1 group-title="VGS Network",Fashion TV
-http://176.100.46.245:90/fashiontv/index.m3u8
 #EXTINF:-1 group-title="VGS Network",ТВ3
 http://176.100.46.245:90/tv3/index.m3u8
 #EXTINF:-1 group-title="VGS Network",Кинеко
@@ -713,9 +709,9 @@ http://176.100.46.245:90/domkino/index.m3u8
 http://176.100.46.245:90/EVROKINO/index.m3u8
 #EXTINF:-1 group-title="VGS Network",alpha Cinema
 http://176.100.46.245:90/alphaCinema/index.m3u8
-#EXTINF:-1 group-title="VGS Network",Феник+Кино
+#EXTINF:-1 group-title="VGS Network",Феникс+Кино
 http://176.100.46.245:90/FENIXKINO/index.m3u8
-#EXTINF:-1 group-title="VGS Network",Кино 24
+#EXTINF:-1 group-title="VGS Network",Kino 24
 http://176.100.46.245:90/kino24/index.m3u8
 #EXTINF:-1 group-title="VGS Network",Flixsnip
 http://176.100.46.245:90/FlixSnip/index.m3u8
@@ -729,6 +725,10 @@ http://176.100.46.245:90/ICTV2/index.m3u8
 http://176.100.46.245:90/KINOPOKAZ/index.m3u8
 #EXTINF:-1 group-title="VGS Network",Авто 24
 http://176.100.46.245:90/AVTO24/index.m3u8
+#EXTINF:-1 group-title="VGS Network",WORLD FASHION
+http://176.100.46.245:90/WORLDFASHION/index.m3u8
+#EXTINF:-1 group-title="VGS Network",Fashion TV
+http://176.100.46.245:90/fashiontv/index.m3u8
 #EXTINF:-1 group-title="VGS Network",Digi+ 4K
 http://176.100.46.245:90/Digi4K/index.m3u8
 #EXTINF:-1 group-title="VGS Network",Digi + 4K 2
