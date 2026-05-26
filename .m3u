@@ -484,14 +484,10 @@ https://stream8.cinerama.uz/1429/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1404/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 ,Amedia 1 HD
-https://a3569457567-s70378.cdn.ngenix.net/amedia_1/2/index.m3u8
-#EXTINF:-1 ,Amedia 2 HD
-https://a3569457567-s70378.cdn.ngenix.net/amedia_2/2/index.m3u8
 #EXTINF:-1 ,Amedia HIT
-https://a3569457567-s70378.cdn.ngenix.net/amedia_hit/2/index.m3u8
+http://85.117.37.41/amediahit/index.m3u8
 #EXTINF:-1 ,Amedia Premium HD
-https://a3569457567-s70378.cdn.ngenix.net/amedia_premium_hd/2/index.m3u8
+http://85.117.37.41/amedipremium/index.m3u8
 
 #EXTINF:-1 ,viju Nature
 https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8
