@@ -432,7 +432,10 @@ http://tvoetv.space:8080/tvoetv/index.m3u8
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 
 
-
+#EXTINF:-1 ,Amedia 1 HD
+https://kino.zunotv.workers.dev/amedia_1_hd/index.m3u8
+#EXTINF:-1 ,Amedia 2 HD
+https://kino.zunotv.workers.dev/amedia_2_hd/index.m3u8
 
 #EXTINF:-1, VIP Premiere
 http://46.32.176.50/VIPPremiereHD/index.m3u8
