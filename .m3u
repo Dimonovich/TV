@@ -442,6 +442,13 @@ https://kino.zunotv.workers.dev/amedia_hit_hd/index.m3u8
 https://kino.zunotv.workers.dev/amedia_premium_hd/index.m3u8
 
 
+#EXTINF:-1 ,Кинеко HD
+https://kino.zunotv.workers.dev/kineko_hd/index.m3u8
+#EXTINF:-1 ,Сапфир HD
+https://kino.zunotv.workers.dev/sapfir_hd/index.m3u8
+
+
+
 #EXTINF:-1, VIP Premiere
 http://46.32.176.50/VIPPremiereHD/index.m3u8
 #EXTINF:-1, VIP Megahit
