@@ -1,20 +1,5 @@
 [
   {
-    "server": "193.29.139.251",
-    "server_port": 8080,
-    "password": "oZIoA69Q8yhcQV8ka3Pa3A",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇳🇱 Нидерланды 2 NEW (Android TV + Free TV)",
-    "route": "all",
-    "remote_dns": "one.one.one.one",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },  
-  {
     "server": "109.201.152.181",
     "server_port": 443,
     "password": "shadowsocks",
