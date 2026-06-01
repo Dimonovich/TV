@@ -598,7 +598,7 @@ http://hls.stb.md/DRAIV_H264/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVC
 http://hls.stb.md/ESPHD_H264/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEwOS4yMDEuMTUyLjE4MSIsIm5iZiI6MTc4MDI5NzMxMiwiZXhwIjoxNzgwMzgzNzEyLCJpYXQiOjE3ODAyOTczMTIsImlzcyI6InN0Yi5zdGFybmV0Lm1kIn0.wss2DaY_Ay4JexDTQlszwgcEcPtTQxnx2zGOSsl_ja8
 #EXTINF:-1 group-title="StarNet (VPN 🇳🇱)" ,Eurosport 2 HD
 http://hls.stb.md/EUROSPORT2HD_H264/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEwOS4yMDEuMTUyLjE4MSIsIm5iZiI6MTc4MDI5NzMxMiwiZXhwIjoxNzgwMzgzNzEyLCJpYXQiOjE3ODAyOTczMTIsImlzcyI6InN0Yi5zdGFybmV0Lm1kIn0.wss2DaY_Ay4JexDTQlszwgcEcPtTQxnx2zGOSsl_ja8
-#EXTINF:-1 group-title="StarNet (VPN 🇳🇱)" ,MMA-TV.COM
+#EXTINF:-1 group-title="StarNet (VPN 🇳🇱)" ,MMA-TV
 http://hls.stb.md/M_1GLOBAL_H264/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEwOS4yMDEuMTUyLjE4MSIsIm5iZiI6MTc4MDI5NzMxMiwiZXhwIjoxNzgwMzgzNzEyLCJpYXQiOjE3ODAyOTczMTIsImlzcyI6InN0Yi5zdGFybmV0Lm1kIn0.wss2DaY_Ay4JexDTQlszwgcEcPtTQxnx2zGOSsl_ja8
 #EXTINF:-1 group-title="StarNet (VPN 🇳🇱)" ,Q Sport HD
 http://hls.stb.md/QSPORT_H264/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEwOS4yMDEuMTUyLjE4MSIsIm5iZiI6MTc4MDI5NzMxMiwiZXhwIjoxNzgwMzgzNzEyLCJpYXQiOjE3ODAyOTczMTIsImlzcyI6InN0Yi5zdGFybmV0Lm1kIn0.wss2DaY_Ay4JexDTQlszwgcEcPtTQxnx2zGOSsl_ja8
@@ -4367,7 +4367,7 @@ http://tv.ttk.mx:9194
 http://tv.ttk.mx:9007
 #EXTINF:-1 group-title="Цитадель-Крым (VPN)",Ностальгия
 http://tv.ttk.mx:9195
-#EXTINF:-1 group-title="Спорткомплекс 🏆",MMA-TV.COM
+#EXTINF:-1 group-title="Спорткомплекс 🏆",MMA-TV
 http://tv.ttk.mx:9196
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Viasat Sport
 http://tv.ttk.mx:9187
@@ -6532,7 +6532,7 @@ http://api.peers.tv/timeshift/boets/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsI
 http://api.peers.tv/timeshift/khl/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3ODAzODM3NDgsImlhdCI6MTc4MDI5NzM0OCwiY2lkIjo2LCJ1aWQiOjEwNTA1MjIwNzEsInJlZyI6ZmFsc2UsImlwIjozNzQ2MjUyNCwiYWR1bHQiOmZhbHNlfQ.mLOAbdz7hSxZht4eZGUJltF76NXrdOqfkcqAeaHE4MU&offset=10
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)" ,KHL Prime HD
 http://api.peers.tv/timeshift/kxl_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3ODAzODM3NDgsImlhdCI6MTc4MDI5NzM0OCwiY2lkIjo2LCJ1aWQiOjEwNTA1MjIwNzEsInJlZyI6ZmFsc2UsImlwIjozNzQ2MjUyNCwiYWR1bHQiOmZhbHNlfQ.mLOAbdz7hSxZht4eZGUJltF76NXrdOqfkcqAeaHE4MU&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)" ,MMA-TV.COM
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)" ,MMA-TV
 http://api.peers.tv/timeshift/mma_tv_com/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3ODAzODM3NDgsImlhdCI6MTc4MDI5NzM0OCwiY2lkIjo2LCJ1aWQiOjEwNTA1MjIwNzEsInJlZyI6ZmFsc2UsImlwIjozNzQ2MjUyNCwiYWR1bHQiOmZhbHNlfQ.mLOAbdz7hSxZht4eZGUJltF76NXrdOqfkcqAeaHE4MU&offset=10
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)" ,Мир Баскетбола
 http://api.peers.tv/timeshift/mir_basketbola/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3ODAzODM3NDgsImlhdCI6MTc4MDI5NzM0OCwiY2lkIjo2LCJ1aWQiOjEwNTA1MjIwNzEsInJlZyI6ZmFsc2UsImlwIjozNzQ2MjUyNCwiYWR1bHQiOmZhbHNlfQ.mLOAbdz7hSxZht4eZGUJltF76NXrdOqfkcqAeaHE4MU&offset=10
@@ -6804,7 +6804,7 @@ http://arbiter.bolshoe.tv/?path=streaming/khl/71/tvrec/playlist.m3u8&&wmsAuthSig
 http://arbiter.bolshoe.tv/?path=abr2/khlHD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMjYgNzowMjoyOSBBTSZoYXNoX3ZhbHVlPXYyVStSbnNneGtCM2RFOExYWkpMUEE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Viasat Sport
 http://arbiter.bolshoe.tv/?path=streaming/viasat_sport/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMjYgNzowMjoyOSBBTSZoYXNoX3ZhbHVlPXYyVStSbnNneGtCM2RFOExYWkpMUEE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
-#EXTINF:-1 group-title="Спорткомплекс 🏆",MMA-TV.COM HD
+#EXTINF:-1 group-title="Спорткомплекс 🏆",MMA-TV
 http://arbiter.bolshoe.tv/?path=abr2/sethd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMjYgNzowMjoyOSBBTSZoYXNoX3ZhbHVlPXYyVStSbnNneGtCM2RFOExYWkpMUEE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Телеканал Футбол
 http://arbiter.bolshoe.tv/?path=abr1/futbol/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMjYgNzowMjoyOSBBTSZoYXNoX3ZhbHVlPXYyVStSbnNneGtCM2RFOExYWkpMUEE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
@@ -9482,7 +9482,7 @@ http://127.0.0.1:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
 http://127.0.0.1:6878/ace/getstream?id=6176281b9c46a5621a0e88524f8dc621f173b8e0
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",UFC HD
 http://127.0.0.1:6878/ace/getstream?id=d2374e2375a4275738e0dbed2f47d0114ad1cb64
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",MMA-TV.COM
+#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",MMA-TV
 http://127.0.0.1:6878/ace/getstream?infohash=f562d8a45a5475599fbd2ad18886b0cc847f75e4
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Старт
 http://127.0.0.1:6878/ace/getstream?id=4b129146077c1e357e4ab341448b9fb629f939dc
