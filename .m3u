@@ -565,6 +565,31 @@ https://stream8.cinerama.uz/1028/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1049/tracks-v1a1/mono.m3u8
 
 
+#EXTINF:-1,Матч! Арена
+https://kino.zunotv.workers.dev/match_arena_hd/index.m3u8
+#EXTINF:-1,Матч! Игра
+https://kino.zunotv.workers.dev/match_igra_hd/index.m3u8
+#EXTINF:-1,Матч! Страна
+https://kino.zunotv.workers.dev/match_strana_hd/index.m3u8
+#EXTINF:-1,Матч! Боец
+https://kino.zunotv.workers.dev/match_boets_hd/index.m3u8
+#EXTINF:-1,Матч Премьер
+https://kino.zunotv.workers.dev/match_premier_hd/index.m3u8
+#EXTINF:-1,Матч! Футбол 1
+https://kino.zunotv.workers.dev/match_futbol_1_hd/index.m3u8
+#EXTINF:-1,Матч! Футбол 2
+https://kino.zunotv.workers.dev/match_futbol_2_hd/index.m3u8
+#EXTINF:-1,Матч! Футбол 3
+https://kino.zunotv.workers.dev/match_futbol_3_hd/index.m3u8
+#EXTINF:-1,Окко Спорт
+https://kino.zunotv.workers.dev/okko_sport_hd/index.m3u8
+#EXTINF:-1,Окко Футбол HD
+https://kino.zunotv.workers.dev/okko_futbol_hd/index.m3u8
+#EXTINF:-1,Окко Прайм Спорт HD
+https://kino.zunotv.workers.dev/okko_praym_sport_hd/index.m3u8
+
+
+
 #EXTINF:-1 ,Eurosport 1
 http://46.32.176.50/eurosport/index.m3u8
 #EXTINF:-1 ,Eurosport 2
