@@ -426,52 +426,6 @@ https://bl.rutube.ru/livestream/efc2833169ec20a3ea61197714bea6ab/index.m3u8?s=Ey
 
 
 
-#EXTINF:-1 ,Твоё ТВ HD
-http://tvoetv.space:8080/tvoetv/index.m3u8
-#EXTINF:-1 ,Твоё ТВ - Юмор
-http://tvoetv.space:8080/tvoetv_humor/index.m3u8
-
-
-#EXTINF:-1 ,Amedia 1
-https://kino.zunotv.workers.dev/amedia_1_hd/index.m3u8
-#EXTINF:-1 ,Amedia 2
-https://kino.zunotv.workers.dev/amedia_2_hd/index.m3u8
-#EXTINF:-1 ,Amedia HIT
-https://kino.zunotv.workers.dev/amedia_hit_hd/index.m3u8
-#EXTINF:-1 ,Amedia Premium HD
-https://kino.zunotv.workers.dev/amedia_premium_hd/index.m3u8
-
-
-#EXTINF:-1 ,Кинеко HD
-https://kino.zunotv.workers.dev/kineko_hd/index.m3u8
-#EXTINF:-1 ,Сапфир HD
-https://kino.zunotv.workers.dev/sapfir_hd/index.m3u8
-
-
-
-#EXTINF:-1, VIP Premiere
-http://46.32.176.50/VIPPremiereHD/index.m3u8
-#EXTINF:-1, VIP Megahit
-http://46.32.176.50/VIPMegahitHD/index.m3u8
-#EXTINF:-1, VIP Comedy
-http://46.32.176.50/VIPComedyHD/index.m3u8
-#EXTINF:-1, VIP Serial HD
-http://46.32.176.50/ViasatSportHD/index.m3u8
-
-
-
-
-#EXTINF:-1 ,TV1000
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=tBtLgYgLfhlFUFm52_ZmZg&e=1780163456&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
-#EXTINF:-1 ,TV1000 Action
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=0nXxaVzwTmD1i68ia73ApA&e=1780163439&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
-#EXTINF:-1 ,viju TV1000 romantica
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=C5Wsi294DTigZMvRUoE5HA&e=1780163143&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
-
-
-#EXTINF:-1 ,TV1000 Русское Кино
-https://stream8.cinerama.uz/1059/tracks-v1a1/mono.m3u8
-
 
 #EXTINF:-1,Terra
 https://livetv.mylifeisgood.net.ru/channels/terra.m3u8
@@ -500,13 +454,6 @@ https://stream8.cinerama.uz/1423/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1429/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,В Мире Животных
 https://stream8.cinerama.uz/1404/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1 ,Amedia HIT
-http://85.117.37.41/amediahit/index.m3u8
-#EXTINF:-1 ,Amedia Premium HD
-http://85.117.37.41/amedipremium/index.m3u8
-
 #EXTINF:-1 ,viju Nature
 https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,viju History
@@ -529,6 +476,52 @@ https://stream8.cinerama.uz/1250/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1427/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Точка Отрыва
 https://stream8.cinerama.uz/1031/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 ,Твоё ТВ HD
+http://tvoetv.space:8080/tvoetv/index.m3u8
+#EXTINF:-1 ,Твоё ТВ - Юмор
+http://tvoetv.space:8080/tvoetv_humor/index.m3u8
+
+#EXTINF:-1 ,Amedia 1
+https://kino.zunotv.workers.dev/amedia_1_hd/index.m3u8
+#EXTINF:-1 ,Amedia 2
+https://kino.zunotv.workers.dev/amedia_2_hd/index.m3u8
+#EXTINF:-1 ,Amedia HIT
+https://kino.zunotv.workers.dev/amedia_hit_hd/index.m3u8
+#EXTINF:-1 ,Amedia Premium HD
+https://kino.zunotv.workers.dev/amedia_premium_hd/index.m3u8
+#EXTINF:-1 ,Кинеко HD
+https://kino.zunotv.workers.dev/kineko_hd/index.m3u8
+#EXTINF:-1 ,Сапфир HD
+https://kino.zunotv.workers.dev/sapfir_hd/index.m3u8
+#EXTINF:-1 ,Sci-Fi 
+https://kino.zunotv.workers.dev/sci_fi_hd/index.m3u8
+#EXTINF:-1 ,Red
+https://kino.zunotv.workers.dev/red_hd/index.m3u8
+#EXTINF:-1 ,Black
+https://kino.zunotv.workers.dev/black_hd/index.m3u8
+
+#EXTINF:-1, VIP Premiere
+http://46.32.176.50/VIPPremiereHD/index.m3u8
+#EXTINF:-1, VIP Megahit
+http://46.32.176.50/VIPMegahitHD/index.m3u8
+#EXTINF:-1, VIP Comedy
+http://46.32.176.50/VIPComedyHD/index.m3u8
+#EXTINF:-1, VIP Serial HD
+http://46.32.176.50/ViasatSportHD/index.m3u8
+
+
+#EXTINF:-1 ,TV1000
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=tBtLgYgLfhlFUFm52_ZmZg&e=1780163456&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:-1 ,TV1000 Action
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=0nXxaVzwTmD1i68ia73ApA&e=1780163439&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:-1 ,viju TV1000 romantica
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=C5Wsi294DTigZMvRUoE5HA&e=1780163143&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+
+
+#EXTINF:-1 ,TV1000 Русское Кино
+https://stream8.cinerama.uz/1059/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 ,Кинопоказ
 https://stream8.cinerama.uz/1057/tracks-v1a1/mono.m3u8
