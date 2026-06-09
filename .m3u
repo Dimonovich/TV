@@ -501,6 +501,12 @@ https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-
 https://stream8.cinerama.uz/1059/tracks-v1a1/mono.m3u8
 
 
+
+#EXTINF:-1 ,Black
+http://158.101.222.193:88/georgia_play.php?id=black
+
+
+
 #EXTINF:-1 ,Кинопоказ
 https://stream8.cinerama.uz/1057/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Наше Новое Кино
