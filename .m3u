@@ -438,6 +438,20 @@ https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=3X
 https://bl.rutube.ru/livestream/efc2833169ec20a3ea61197714bea6ab/index.m3u8?s=-Sn79Meq3oszOu3M0ZUD8w&e=2081333896&scheme=https
 
 
+
+#EXTINF:-1,Смотрим 100% Любовь
+https://stream.smotrim.ru/hls/fasttv01/playlist_2.m3u8
+#EXTINF:-1,Смотрим 100% Мужское
+https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8
+#EXTINF:-1,Смотрим 100% Классика
+https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8
+#EXTINF:-1,Смотрим 100% Праздник
+https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8
+#EXTINF:-1,Смотрим 100% Детское
+https://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8
+#EXTINF:-1,Смотрим 100% Факты
+https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8
+
 #EXTINF:-1 ,Неизвестная Россия
 https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
 
@@ -584,23 +598,23 @@ http://85.117.37.41/viasatsport/index.m3u8
 #EXTINF:-1 ,Бокс ТВ
 https://a3285272783-s80718.cdn.ngenix.net/hls/CH_BOKS_TVHD/video_1920x1080_avc1/playlist.m3u8
 
-#EXTINF:-1 group-title="С сайтов (VPN)" ,Кавказ 24
+#EXTINF:-1,Кавказ 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" ,Запад 24
+#EXTINF:-1,Запад 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/zapad24-hd/index.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" ,Восток 24
+#EXTINF:-1,Восток 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladivostok/vostok24-hd/index.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" ,Сибирь 24
+#EXTINF:-1,Сибирь 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/sibir24-hd/index.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" ,Башкортостан 24
+#EXTINF:-1,Башкортостан 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/bashkortostan24-hd/index.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" ,Урал 24
+#EXTINF:-1,Урал 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/ural24-hd/index.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" ,Нижний Новгород 24
+#EXTINF:-1,Нижний Новгород 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/nigniynovgorod24-hd/index.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" ,Краснодар
+#EXTINF:-1,Краснодар
 https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" ,Арктика 24
+#EXTINF:-1,Арктика 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/arktika24-hd/index.m3u8
 
 
