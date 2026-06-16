@@ -513,6 +513,12 @@ http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 
 #EXTINF:-1,Black 
 http://91.204.123.202:80/263/index.m3u8
+#EXTINF:-1,Amedia Hit
+http://91.204.123.202:80/162/index.m3u8
+#EXTINF:-1, Русский Бестселлер 
+http://91.204.123.202:80/208/index.m3u8
+#EXTINF:-1, Русский Детектив 
+http://91.204.123.202:80/204/index.m3u8
 
 
 #EXTINF:-1, VIP Premiere
