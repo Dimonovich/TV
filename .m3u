@@ -634,6 +634,11 @@ https://stream8.cinerama.uz/1028/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Планета
 https://stream8.cinerama.uz/1049/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1,Матч! Арена
+http://91.204.123.202:80/163/index.m3u8
+#EXTINF:-1,Матч! Футбол 3
+http://91.204.123.202:80/185/index.m3u8
+
 
 #EXTINF:-1 ,Матч HD
 https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
