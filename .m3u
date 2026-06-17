@@ -533,6 +533,42 @@ http://91.204.123.202:80/421/index.m3u8
 #EXTINF:-1,Fox 
 http://91.204.123.202:80/129/index.m3u8
 
+#EXTINF:-1 group-title="TEST (VPN)", .RED
+http://5.188.159.128:8070/RED/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)", Trash HD
+http://5.188.159.128:8070/Trash_HD/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)", Cartoon Network
+http://5.188.159.128:8070/Cartoon_Network/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)", Bridge TV Classic
+http://5.188.159.128:8070/Bridge_TV_Classic/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Bridge TV Hits
+http://5.188.159.128:8070/Bridge_TV_Hits/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)", RU.TV
+http://5.188.159.128:8070/rutv/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Удар
+http://5.188.159.128:8070/udar/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Megogo Sport
+http://5.188.159.128:8070/megogo_sport/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",IPTVPLAY PROMO
+http://5.188.158.65:4040/IPTVPLAYPromo.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 group-title="TEST (VPN)",IPTVPLAY TEST
+http://5.188.158.65:4040/IPTVPLAYTEST.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://i.postimg.cc/Rh516HVw/1.png", IPTVPLAY МультСказки HD
+http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://i.postimg.cc/mDMCsgNL/1.png", IPTVPLAY ВЕДЬМАК
+http://5.188.158.65:4040/IPTVPLAYVEDMAK.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://i.postimg.cc/D06WvJWn/1.png", IPTVPLAY ДЕСЯТОЕ КОРОЛЕВСТВО
+http://5.188.158.65:4040/IPTVPLAY10KOROLEVSTVO.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 group-title="TEST (VPN)"  tvg-logo="https://i.postimg.cc/3N8Rc8tq/1.png", IPTVPLAY ИНТЕРНЫ
+http://5.188.158.65:4040/IPTVPLAYINTERNY.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://i.ibb.co/pbxx3Sd/Fantastika.png", IPTVPLAY ФАНТАСТИКА
+http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://i.ibb.co/7gj4dQM/Pamyat.png", IPTVPLAY ПАМЯТЬ
+http://5.188.158.65:4040/IPTVPLAYPAMYAT.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://i.ibb.co/LZkQq0x/Uzhastik.png", IPTVPLAY УЖАСТИК
+http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://i.postimg.cc/v8KFj826/1.png", IPTVPLAY Великая Отечественная HD
+http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
 
 #EXTINF:-1, Viju+ Premiere
 http://46.32.176.50/VIPPremiereHD/index.m3u8
