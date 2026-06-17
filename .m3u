@@ -460,9 +460,6 @@ https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 ,Большая Азия
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,Terra
-https://livetv.mylifeisgood.net.ru/channels/terra.m3u8
-
 #EXTINF:-1 ,Техно 24
 https://stream8.cinerama.uz/1037/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Приключения HD
@@ -516,8 +513,7 @@ http://tvoetv.space:8080/tvoetv/index.m3u8
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 
 
-#EXTINF:-1,Black 
-http://91.204.123.202:80/263/index.m3u8
+
 #EXTINF:-1,Amedia Hit
 http://91.204.123.202:80/162/index.m3u8
 #EXTINF:-1, Русский Бестселлер 
@@ -532,8 +528,10 @@ http://91.204.123.202:80/420/index.m3u8
 http://91.204.123.202:80/421/index.m3u8
 #EXTINF:-1,Fox 
 http://91.204.123.202:80/129/index.m3u8
+#EXTINF:-1,Black 
+http://91.204.123.202:80/263/index.m3u8
 
-#EXTINF:-1 group-title="TEST (VPN)",RED
+#EXTINF:-1 group-title="TEST (VPN)",Red
 http://5.188.159.128:8070/RED/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)", Trash
 http://5.188.159.128:8070/Trash_HD/index.m3u8
