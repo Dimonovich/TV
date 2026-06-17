@@ -688,8 +688,6 @@ http://91.204.123.202:80/266/index.m3u8
 http://91.204.123.202:80/269/index.m3u8
 #EXTINF:-1 group-title="Датасфера",Сарафан
 http://91.204.123.202:80/81/index.m3u8
-#EXTINF:-1 group-title="Датасфера",347
-http://91.204.123.202:80/347/index.m3u8
 #EXTINF:-1 group-title="Датасфера",Хит HD
 http://91.204.123.202:80/363/index.m3u8
 #EXTINF:-1 group-title="Датасфера",Еврокино
@@ -742,6 +740,8 @@ http://91.204.123.202:80/122/index.m3u8
 http://91.204.123.202:80/349/index.m3u8
 #EXTINF:-1 group-title="Датасфера",CineMan Top
 http://91.204.123.202:80/350/index.m3u8
+#EXTINF:-1 group-title="Датасфера",CineMan Cartoons Short
+http://91.204.123.202:80/347/index.m3u8
 #EXTINF:-1 group-title="Датасфера",CineMan Action
 http://91.204.123.202:80/351/index.m3u8
 #EXTINF:-1 group-title="Датасфера",CineMan Thriller
@@ -762,7 +762,7 @@ http://91.204.123.202:80/477/index.m3u8
 http://91.204.123.202:80/484/index.m3u8
 #EXTINF:-1 group-title="Датасфера",CineMan Лесник
 http://91.204.123.202:80/115/index.m3u8
-#EXTINF:-1 group-title="Датасфера",475
+#EXTINF:-1 group-title="Датасфера",CineMan Скорая Помощь
 http://91.204.123.202:80/475/index.m3u8
 #EXTINF:-1 group-title="Датасфера",BCU СССР HD
 http://91.204.123.202:80/488/index.m3u8
@@ -784,9 +784,9 @@ http://91.204.123.202:80/303/index.m3u8
 http://91.204.123.202:80/153/index.m3u8
 #EXTINF:-1 group-title="Датасфера",Bridge HD
 http://91.204.123.202:80/92/index.m3u8
-#EXTINF:-1 group-title="Датасфера",Stingray Iconcert
+#EXTINF:-1 group-title="Датасфера",Stingray Iconcerts
 http://91.204.123.202:80/267/index.m3u8
-#EXTINF:-1 group-title="Датасфера",Music Classic
+#EXTINF:-1 group-title="Датасфера",Classic Music HD
 http://91.204.123.202:80/312/index.m3u8
 #EXTINF:-1 group-title="Датасфера",Russian Music Box
 http://91.204.123.202:80/319/index.m3u8
