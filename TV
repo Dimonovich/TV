@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG,http://epg.one/epg2.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz"
 
 
-#EXTINF:-1 group-title="🔺 INFO 🔺" tvg-logo="https://i.postimg.cc/76BWD3tc/1.gif",Обновление:17.06.2026
+#EXTINF:-1 group-title="🔺 INFO 🔺" tvg-logo="https://i.postimg.cc/76BWD3tc/1.gif",Обновление:16.06.2026
 http://194.26.229.213/zastavka/index.m3u8
 #EXTINF:-1 group-title="🔺 INFO 🔺" tvg-logo="https://i.postimg.cc/nrj0J6Dj/1.png",Android TV + Free TV
 http://194.26.229.213/intro/index.m3u8
@@ -26,6 +26,8 @@ https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/tracks-v1a
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=AqNHXVgwuI_Bm0IJ6JkIpw&e=1782385437&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 group-title="TEST ⓵",Viju TV1000 Romantica HD
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=JjKtxfmS6gUWHdOloguufw&e=1782385402&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:-1 group-title="TEST ⓵",Киномикс
+http://93.170.254.17/Kinomiks/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Дорама
 https://fs.uplink.kz/dorama/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="TEST ⓵",Cartoon Network
