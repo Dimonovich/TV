@@ -507,6 +507,9 @@ https://stream8.cinerama.uz/1427/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Точка Отрыва
 https://stream8.cinerama.uz/1031/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 ,Investigation Discovery
+http://91.204.123.202:80/205/index.m3u8
+
 #EXTINF:-1 ,Твоё ТВ HD
 http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 ,Твоё ТВ - Юмор
