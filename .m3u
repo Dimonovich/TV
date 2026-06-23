@@ -542,21 +542,22 @@ http://91.204.123.202:80/129/index.m3u8
 #EXTINF:-1,Black 
 http://91.204.123.202:80/263/index.m3u8
 
-#EXTINF:-1 group-title="TEST (VPN)",Red
+#EXTINF:-1 ,Red
 http://5.188.159.128:8070/RED/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)", Trash
+#EXTINF:-1 ,Trash
 http://5.188.159.128:8070/Trash_HD/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)", Bridge TV Classic
+#EXTINF:-1 ,Bridge TV Classic
 http://5.188.159.128:8070/Bridge_TV_Classic/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",Bridge TV Hits
+#EXTINF:-1 ,Bridge TV Hits
 http://5.188.159.128:8070/Bridge_TV_Hits/index.m3u8
-
-#EXTINF:-1,Bridge HD
+#EXTINF:-1 ,Bridge HD
+http://5.188.159.128:8070/bridgetv/index.m3u8
+#EXTINF:-1 ,Bridge Deluxe
 http://91.204.123.202:80/92/index.m3u8
 
-#EXTINF:-1 group-title="TEST (VPN)",Удар
+#EXTINF:-1 ,Удар
 http://5.188.159.128:8070/udar/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",Megogo Sport
+#EXTINF:-1 ,Megogo Sport
 http://5.188.159.128:8070/megogo_sport/index.m3u8
 
 
