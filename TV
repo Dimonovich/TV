@@ -668,6 +668,63 @@ http://31.131.141.195:8000/play/1030/index.m3u8
 
 
 
+
+#EXTINF:-1 group-title="Vivacom BG",Рен ТВ
+http://213.91.179.28:8000/play/a0ax
+#EXTINF:-1 group-title="Vivacom BG",Москва 24
+http://213.91.179.28:8000/play/a0b1
+#EXTINF:-1 group-title="Vivacom BG",Москва Доверие
+http://213.91.179.28:8000/play/a0b2
+#EXTINF:-1 group-title="Vivacom BG",Пятый канал
+http://213.91.179.28:8000/play/a0av
+#EXTINF:-1 group-title="Vivacom BG",Домашний International
+http://213.91.179.28:8000/play/a0b5
+#EXTINF:-1 group-title="Vivacom BG",Калейдоскоп ТВ
+http://213.91.179.28:8000/play/a0aw
+#EXTINF:-1 group-title="Vivacom BG",СТС International
+http://213.91.179.28:8000/play/a05u
+#EXTINF:-1 group-title="Vivacom BG",Любимое кино
+http://213.91.179.28:8000/play/a0af
+#EXTINF:-1 group-title="Vivacom BG",RTG International
+http://213.91.179.28:8000/play/a0bw
+#EXTINF:-1 group-title="Vivacom BG",Живи
+http://213.91.179.28:8000/play/a0bg
+#EXTINF:-1 group-title="Vivacom BG",Перец
+http://213.91.179.28:8000/play/a0ay
+#EXTINF:-1 group-title="Vivacom BG",TV1000 Русское кино
+http://213.91.179.28:8000/play/a0bx
+#EXTINF:-1 group-title="Vivacom BG",СТС Kids
+http://213.91.179.28:8000/play/a07g
+#EXTINF:-1 group-title="Vivacom BG",Nova Sport HD
+http://213.91.179.28:8000/play/a04a
+#EXTINF:-1 group-title="Vivacom BG",Diema Sport HD
+http://213.91.179.28:8000/play/a06q
+#EXTINF:-1 group-title="Vivacom BG",Diema Sport 2 HD
+http://213.91.179.28:8000/play/a08e
+#EXTINF:-1 group-title="Vivacom BG",Diema Sport 3 HD
+http://213.91.179.28:8000/play/a08f
+#EXTINF:-1 group-title="Vivacom BG",MAX Sport 1 HD
+http://213.91.179.28:8000/play/a0as
+#EXTINF:-1 group-title="Vivacom BG",MAX Sport 2 HD
+http://213.91.179.28:8000/play/a0at
+#EXTINF:-1 group-title="Vivacom BG",MAX Sport 3 HD
+http://213.91.179.28:8000/play/a0ar
+#EXTINF:-1 group-title="Vivacom BG",Max Sport 4
+http://213.91.179.28:8000/play/a05n
+#EXTINF:-1 group-title="Vivacom BG",Ring HD
+http://213.91.179.28:8000/play/a06e
+#EXTINF:-1 group-title="Vivacom BG",Fight Club HD
+http://213.91.179.28:8000/play/a08i
+#EXTINF:-1 group-title="Vivacom BG",MMA-TV
+http://213.91.179.28:8000/play/a048
+#EXTINF:-1 group-title="Vivacom BG",BNT 3 HD
+http://213.91.179.28:8000/play/a03x
+#EXTINF:-1 group-title="Vivacom BG",BNT 4 
+http://213.91.179.28:8000/play/a04u
+
+
+
+
 #EXTINF:-1 group-title="NNT",Первый канал
 http://45.145.32.13:20440/pervyj_kanal/index.m3u8?token=test
 #EXTINF:-1 group-title="NNT",Рен ТВ
