@@ -519,6 +519,15 @@ http://stitch.teletarget.ru/api/v1/hls/vintera/neplaneta/index.m3u8
 #EXTINF:-1 ,Полёт ТВ
 http://stitch.teletarget.ru/vintera/flighttv/index.m3u8
 
+#EXTINF:-1 ,Шоу Бенни Хилла
+https://lbgo.bozztv.com/07/ushba62/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Мистер Бин
+https://lbgo.bozztv.com/07/ushba45/index.m3u8
+#EXTINF:-1 ,Маша и медведь
+https://lbgo.bozztv.com/07/ushba79/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Мультфильмы
+https://lbgo.bozztv.com/07/ushba80/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 ,Твоё ТВ HD
 http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 ,Твоё ТВ - Юмор
@@ -670,6 +679,16 @@ http://194.26.229.213/souzmultfilm/index.m3u8
 #EXTINF:-1 ,Чип и Дейл
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 
+#EXTINF:-1,Blues Music
+https://lbgo.bozztv.com/07/ushba0/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Midnight Lust Music
+https://lbgo.bozztv.com/07/ushba-midnightlustmusic/index.m3u8
+#EXTINF:-1 ,Mafia
+https://lbgo.bozztv.com/07/ushba-mafia/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Kpop Play TV
+https://lbgo.bozztv.com/07/ushba-m4/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1 ,City TV
 https://tv.city.bg/play/tshls/citytv/2.m3u8
 #EXTINF:-1 ,SKY Folk TV
@@ -728,4 +747,21 @@ https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u
 https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 ,Stingray Urban Beat
 https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 ,Мода 1
+https://lbgo.bozztv.com/07/ushba-t8/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Мода 2
+https://lbgo.bozztv.com/07/ushba-m6/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Мода 3
+https://lbgo.bozztv.com/07/ushba-m7/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Мода 4
+https://lbgo.bozztv.com/07/ushba-m8/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Мода 5
+https://lbgo.bozztv.com/07/ushba-m9/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Мода 6
+https://lbgo.bozztv.com/07/ushba-m1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Fashion TV
+https://lbgo.bozztv.com/07/ushba93/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Ai Video
+https://lbgo.bozztv.com/07/ushba-aivideo/index.m3u8
  
