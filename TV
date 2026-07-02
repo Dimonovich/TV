@@ -1114,58 +1114,6 @@ http://ext.cdn.nashnet.tv/228.0.0.136/index.m3u8
 
 
 
-#EXTINF:-1 group-title="Кавкасус Онлайн",СТС
-http://85.117.37.41/sts/index.m3u8
-#EXTINF:-1 group-title="Кавкасус Онлайн",ТНТ
-http://85.117.37.41/tnt/index.m3u8
-#EXTINF:-1 group-title="Кавкасус Онлайн",ТНТ4
-http://85.117.37.41/tnt4/index.m3u8
-#EXTINF:-1 group-title="Кавкасус Онлайн",Amedia Hit
-http://85.117.37.41/amediahit/index.m3u8
-#EXTINF:-1 group-title="Кавкасус Онлайн",Amedia Premium
-http://85.117.37.41/amedipremium/index.m3u8
-#EXTINF:-1 group-title="Кавкасус Онлайн",Arirang
-http://85.117.37.41/arirang/index.m3u8
-#EXTINF:-1 group-title="Кавкасус Онлайн",Драйв
-http://85.117.37.41/drive/index.m3u8
-#EXTINF:-1 group-title="Кавкасус Онлайн" tvg-id="deutsche-welle-eu", Deutsche Welle
-http://85.117.37.41/dw/index.m3u8
-#EXTINF:-1 group-title="Кавкасус Онлайн",Bloomberg
-http://85.117.37.41/bloomberg/index.m3u8
-#EXTINF:-1 group-title="Кавкасус Онлайн",Еврокино
-http://85.117.37.41/eurokino/index.m3u8
-#EXTINF:-1 group-title="Кавкасус Онлайн",Евроновости
-http://85.117.37.41/euronews/index.m3u8
-#EXTINF:-1 group-title="Кавкасус Онлайн",TV1000
-http://85.117.37.41/tv1000/index.m3u8
-#EXTINF:-1 group-title="Кавкасус Онлайн",TV1000 Русское кино
-http://85.117.37.41/tv1000ru/index.m3u8
-#EXTINF:-1 group-title="Кавкасус Онлайн",TV XXI
-http://85.117.37.41/tv21/index.m3u8
-#EXTINF:-1 group-title="Кавкасус Онлайн",Mezzo
-http://85.117.37.41/mezzo/index.m3u8
-#EXTINF:-1 group-title="Кавкасус Онлайн",МузТВ
-http://85.117.37.41/muztv/index.m3u8
-#EXTINF:-1 group-title="Кавкасус Онлайн",JimJam
-http://85.117.37.41/jimjam/index.m3u8
-#EXTINF:-1 group-title="Кавкасус Онлайн",Viasat Sport
-http://85.117.37.41/viasatsport/index.m3u8
-#EXTINF:-1 group-title="Кавкасус Онлайн",KHL
-http://85.117.37.41/khl/index.m3u8
-#EXTINF:-1 group-title="Кавкасус Онлайн",Матч! Арена
-http://85.117.37.41/matcharena/index.m3u8
-#EXTINF:-1 group-title="Кавкасус Онлайн",Матч! Страна
-http://85.117.37.41/matchstrana/index.m3u8
-#EXTINF:-1 group-title="Кавкасус Онлайн",Eurosport 1 HD
-http://85.117.37.41/eurosport1/index.m3u8
-#EXTINF:-1 group-title="Кавкасус Онлайн",Eurosport 2 HD
-http://85.117.37.41/eurosport2/index.m3u8
-
-
-
-
-
-
 
 
 #EXTINF:-1 group-title="IZONE", Первый HD
@@ -3052,59 +3000,6 @@ https://stream8.cinerama.uz/1049/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1229/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",KHL
 https://stream8.cinerama.uz/1422/tracks-v1a1/mono.m3u8
-
-
-
-
-
-
-#EXTINF:-1 group-title="Виктория (VPN)", Первый канал 
-http://95.47.155.244:8001/play/a001
-#EXTINF:-1 group-title="Виктория (VPN)", Россия 1
-http://95.47.155.244:8001/play/a002
-#EXTINF:-1 group-title="Виктория (VPN)", Россия К
-http://95.47.155.244:8001/play/a006
-#EXTINF:-1 group-title="Виктория (VPN)", Россия 24
-http://95.47.155.244:8001/play/a007
-#EXTINF:-1 group-title="Виктория (VPN)", ТНТ
-http://95.47.155.244:8001/play/a019
-#EXTINF:-1 group-title="Виктория (VPN)", РЕН ТВ
-http://95.47.155.244:8001/play/a011
-#EXTINF:-1 group-title="Виктория (VPN)", НТВ
-http://95.47.155.244:8001/play/a004
-#EXTINF:-1 group-title="Виктория (VPN)", ПЯТЫЙ КАНАЛ
-http://95.47.155.244:8001/play/a005
-#EXTINF:-1 group-title="Виктория (VPN)", ОТР
-http://95.47.155.244:8001/play/a009
-#EXTINF:-1 group-title="Виктория (VPN)", ТВЦ
-http://95.47.155.244:8001/play/a010
-#EXTINF:-1 group-title="Виктория (VPN)", Спас
-http://95.47.155.244:8001/play/a012
-#EXTINF:-1 group-title="Виктория (VPN)", СТС
-http://95.47.155.244:8001/play/a013
-#EXTINF:-1 group-title="Виктория (VPN)", Домашний
-http://95.47.155.244:8001/play/a014
-#EXTINF:-1 group-title="Виктория (VPN)", ТВ3
-http://95.47.155.244:8001/play/a015
-#EXTINF:-1 group-title="Виктория (VPN)", Пятница
-http://95.47.155.244:8001/play/a016
-#EXTINF:-1 group-title="Виктория (VPN)" ,Звезда
-http://95.47.155.244:8001/play/a017
-#EXTINF:-1 group-title="Виктория (VPN)", МИР
-http://95.47.155.244:8001/play/a018
-#EXTINF:-1 group-title="Виктория (VPN)", Сибирь 24
-http://95.47.155.244:8001/play/a021
-#EXTINF:-1 group-title="Виктория (VPN)", РТС - Абакан
-http://95.47.155.244:8001/play/a022
-#EXTINF:-1 group-title="Виктория (VPN)",7 ТВ HD
-http://95.47.155.244:8001/play/a023
-#EXTINF:-1 group-title="Виктория (VPN)", КАРУСЕЛЬ
-http://95.47.155.244:8001/play/a008
-#EXTINF:-1 group-title="Виктория (VPN)", МузТВ
-http://95.47.155.244:8001/play/a020
-#EXTINF:-1 group-title="Виктория (VPN)", МАТЧ
-http://95.47.155.244:8001/play/a003
-
 
 
 
@@ -5801,6 +5696,57 @@ https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=Ls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/efc2833169ec20a3ea61197714bea6ab/index.m3u8?s=N_zhjI7Mb1hKcDy0XvDvOQ&e=2082976371&scheme=https
 
+
+
+
+
+
+#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)", Первый канал 
+http://95.47.155.244:8001/play/a001
+#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)", Россия 1
+http://95.47.155.244:8001/play/a002
+#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)", Россия К
+http://95.47.155.244:8001/play/a006
+#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)", Россия 24
+http://95.47.155.244:8001/play/a007
+#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)", ТНТ
+http://95.47.155.244:8001/play/a019
+#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)", РЕН ТВ
+http://95.47.155.244:8001/play/a011
+#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)", НТВ
+http://95.47.155.244:8001/play/a004
+#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)", ПЯТЫЙ КАНАЛ
+http://95.47.155.244:8001/play/a005
+#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)", ОТР
+http://95.47.155.244:8001/play/a009
+#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)", ТВЦ
+http://95.47.155.244:8001/play/a010
+#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)", Спас
+http://95.47.155.244:8001/play/a012
+#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)", СТС
+http://95.47.155.244:8001/play/a013
+#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)", Домашний
+http://95.47.155.244:8001/play/a014
+#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)", ТВ3
+http://95.47.155.244:8001/play/a015
+#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)", Пятница
+http://95.47.155.244:8001/play/a016
+#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)" ,Звезда
+http://95.47.155.244:8001/play/a017
+#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)", МИР
+http://95.47.155.244:8001/play/a018
+#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)", Сибирь 24
+http://95.47.155.244:8001/play/a021
+#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)", РТС - Абакан
+http://95.47.155.244:8001/play/a022
+#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)",7 ТВ HD
+http://95.47.155.244:8001/play/a023
+#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)", КАРУСЕЛЬ
+http://95.47.155.244:8001/play/a008
+#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)", МузТВ
+http://95.47.155.244:8001/play/a020
+#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)", МАТЧ
+http://95.47.155.244:8001/play/a003
 
 
 
