@@ -506,9 +506,6 @@ https://stream8.cinerama.uz/1427/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Точка Отрыва
 https://stream8.cinerama.uz/1031/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 ,Investigation Discovery
-http://91.204.123.202:80/205/index.m3u8
-
 #EXTINF:-1 ,Аква ТВ
 http://stitch.teletarget.ru/vintera/aquatv/index.m3u8
 #EXTINF:-1 ,Terra Incognita
@@ -532,8 +529,18 @@ http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 ,Твоё ТВ - Юмор
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 
-#EXTINF:-1,Amedia Hit
-http://91.204.123.202:80/162/index.m3u8
+
+#EXTINF:-1 group-title="IZONE", Amedia 1
+http://46.32.176.50/amedia1/index.m3u8
+#EXTINF:-1 group-title="IZONE", Amedia 2
+http://46.32.176.50/amedia2/index.m3u8
+#EXTINF:-1 group-title="IZONE", Amedia Hit
+http://46.32.176.50/amediahit/index.m3u8
+#EXTINF:-1 group-title="IZONE", Amedia Premium HD
+http://46.32.176.50/AmediaPremiumHD/index.m3u8
+
+
+
 #EXTINF:-1, Русский Бестселлер 
 http://91.204.123.202:80/208/index.m3u8
 #EXTINF:-1, Русский Детектив 
@@ -550,12 +557,11 @@ http://91.204.123.202:80/129/index.m3u8
 http://91.204.123.202:80/263/index.m3u8
 
 
+EXTINF:-1, Bridge TV
+http://46.32.176.50/bridgetv/index.m3u8
+#EXTINF:-1, Bridge Classic
+http://46.32.176.50/rusong/index.m3u8
 
-#EXTINF:-1, BRIDGE TV
-http://hls127.freeott.top:8080/BRIDGE_TV/video.m3u8
-
-#EXTINF:-1 ,Bridge TV Classic
-http://5.188.159.128:8070/Bridge_TV_Classic/index.m3u8
 #EXTINF:-1 ,Bridge TV Hits
 http://5.188.159.128:8070/Bridge_TV_Hits/index.m3u8
 #EXTINF:-1 ,Bridge HD
