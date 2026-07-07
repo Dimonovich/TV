@@ -549,6 +549,11 @@ http://91.204.123.202:80/129/index.m3u8
 #EXTINF:-1,Black 
 http://91.204.123.202:80/263/index.m3u8
 
+
+
+#EXTINF:-1, BRIDGE TV
+http://hls127.freeott.top:8080/BRIDGE_TV/video.m3u8
+
 #EXTINF:-1 ,Bridge TV Classic
 http://5.188.159.128:8070/Bridge_TV_Classic/index.m3u8
 #EXTINF:-1 ,Bridge TV Hits
