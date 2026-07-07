@@ -530,34 +530,22 @@ http://tvoetv.space:8080/tvoetv/index.m3u8
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 
 
-#EXTINF:-1 group-title="IZONE", Amedia 1
+#EXTINF:-1, Amedia 1
 http://46.32.176.50/amedia1/index.m3u8
-#EXTINF:-1 group-title="IZONE", Amedia 2
+#EXTINF:-1, Amedia 2
 http://46.32.176.50/amedia2/index.m3u8
-#EXTINF:-1 group-title="IZONE", Amedia Hit
+#EXTINF:-1, Amedia Hit
 http://46.32.176.50/amediahit/index.m3u8
-#EXTINF:-1 group-title="IZONE", Amedia Premium HD
+#EXTINF:-1, Amedia Premium HD
 http://46.32.176.50/AmediaPremiumHD/index.m3u8
 
+#EXTINF:-1, Русский Детектив
+http://46.32.176.50/russkiydetektiv/index.m3u8
+#EXTINF:-1, Русский Роман
+http://46.32.176.50/russkiyroman/index.m3u8
 
 
-#EXTINF:-1, Русский Бестселлер 
-http://91.204.123.202:80/208/index.m3u8
-#EXTINF:-1, Русский Детектив 
-http://91.204.123.202:80/204/index.m3u8
-#EXTINF:-1,Комедия
-http://91.204.123.202:80/68/index.m3u8
-#EXTINF:-1,Fan HD
-http://91.204.123.202:80/420/index.m3u8
-#EXTINF:-1,Премиальное
-http://91.204.123.202:80/421/index.m3u8
-#EXTINF:-1,Fox 
-http://91.204.123.202:80/129/index.m3u8
-#EXTINF:-1,Black 
-http://91.204.123.202:80/263/index.m3u8
-
-
-EXTINF:-1, Bridge TV
+#EXTINF:-1, Bridge TV
 http://46.32.176.50/bridgetv/index.m3u8
 #EXTINF:-1, Bridge Classic
 http://46.32.176.50/rusong/index.m3u8
@@ -583,16 +571,13 @@ http://46.32.176.50/VIPComedyHD/index.m3u8
 http://46.32.176.50/ViasatSportHD/index.m3u8
 
 
-#EXTINF:-1 ,TV1000
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=fzchBV1ACcQqFaWvyJQZpw&e=1783438348&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
-#EXTINF:-1 ,Viju TV1000 Action
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=ZxXbQi5AgCgaILCZ5_JPjg&e=1783438361&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
-#EXTINF:-1 ,Viju TV1000 Romantica
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=VvjRF6mrGa7vnHuhqBInLA&e=1783438328&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+EXTINF:-1, TV1000
+http://46.32.176.50/tv1000/index.m3u8
+#EXTINF:-1, Viju TV1000 Action
+http://46.32.176.50/tv1000action/index.m3u8
 
 #EXTINF:-1 ,TV1000 Русское Кино
 https://stream8.cinerama.uz/1059/tracks-v1a1/mono.m3u8
-
 
 
 #EXTINF:-1 ,Кинопоказ
@@ -631,25 +616,25 @@ https://stream8.cinerama.uz/1004/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1263/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Setanta Sports 2 HD
 https://stream8.cinerama.uz/1264/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,KHL
-https://stream8.cinerama.uz/1028/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Матч! Планета
 https://stream8.cinerama.uz/1049/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,Матч! Арена
-http://91.204.123.202:80/163/index.m3u8
-#EXTINF:-1,Матч! Футбол 3
-http://91.204.123.202:80/185/index.m3u8
-
-
-
-
+http://46.32.176.50/MatchArenaHD/index.m3u8
+#EXTINF:-1, Матч! Игра
+http://46.32.176.50/matchiqra/index.m3u8
+#EXTINF:-1, Матч! Боец
+http://46.32.176.50/boets/index.m3u8
+#EXTINF:-1, Viasat Sport
+http://46.32.176.50/viasatsport/index.m3u8
+#EXTINF:-1, Бокс ТВ
+http://46.32.176.50/bokstv/index.m3u8
+#EXTINF:-1, KHL
+http://46.32.176.50/kxltv/index.m3u8
 #EXTINF:-1 ,Eurosport 1
 http://46.32.176.50/eurosport/index.m3u8
 #EXTINF:-1 ,Eurosport 2
 http://46.32.176.50/eurosport2/index.m3u8
-#EXTINF:-1,Viasat Sport
-http://85.117.37.41/viasatsport/index.m3u8
 
 #EXTINF:-1 ,Бокс ТВ
 https://a3285272783-s80718.cdn.ngenix.net/hls/CH_BOKS_TVHD/video_1920x1080_avc1/playlist.m3u8
