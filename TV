@@ -112,6 +112,24 @@ https://ncdn.telewebion.ir/faratar/live/2160p/index.m3u8
 
 #EXTINF:-1 group-title="TEST (VPN)", Online TV
 http://185.221.213.254:8080/Okko/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Первый канал
+https://streaming.thestream.cyou/live/210.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Россия РТР
+https://streaming.thestream.cyou/live/211.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Россия 24
+https://streaming.thestream.cyou/live/30.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",НТВ-Мир
+https://streaming.thestream.cyou/live/213.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",ТНТ
+https://streaming.thestream.cyou/live/38.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Победа
+https://streaming.thestream.cyou/live/43.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Дом кино
+https://streaming.thestream.cyou/live/44.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Карусель
+https://streaming.thestream.cyou/live/232.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",СТС
+https://streaming.thestream.cyou/live/296.m3u8
 #EXTINF:-1 group-title="TEST (VPN)" tvg-id="rus-hualiang-tv" ,Китай ТВ HD
 https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",РОССИЯ 24
