@@ -130,6 +130,18 @@ https://streaming.thestream.cyou/live/44.m3u8
 https://streaming.thestream.cyou/live/232.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",СТС
 https://streaming.thestream.cyou/live/296.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Balapan
+http://live-3.otcnet.ru/Balapan/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",ДимГрад 24
+http://live-3.otcnet.ru/dimgrad/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Gulli Girl
+http://live-3.otcnet.ru/GulliGirl/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Mezzo
+http://live-3.otcnet.ru/Mezzo/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Первый Псковский
+http://live-3.otcnet.ru/pskov/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Спортивный
+http://live-3.otcnet.ru/sportivny/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)" tvg-id="rus-hualiang-tv" ,Китай ТВ HD
 https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",РОССИЯ 24
