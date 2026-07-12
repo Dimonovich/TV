@@ -64,14 +64,8 @@ http://45.11.139.43:8555/orujie/index.m3u8
 http://45.11.139.43:8555/vremya/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵", 8 канал
 http://45.11.139.43:8555/8kanal/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Патриот
-http://185.46.48.18:80/asvtv/mono.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Cinema
-http://185.46.48.18:80/cinema/mono.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Осетия Иристон
 http://185.46.48.18:80/iriston/mono.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Матч ТВ
-http://185.46.48.18:80/match/mono.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Шансон ТВ
 http://185.46.48.18:80/shanson/mono.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Закон ТВ
@@ -130,18 +124,6 @@ https://streaming.thestream.cyou/live/44.m3u8
 https://streaming.thestream.cyou/live/232.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",СТС
 https://streaming.thestream.cyou/live/296.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",Balapan
-http://live-3.otcnet.ru/Balapan/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",ДимГрад 24
-http://live-3.otcnet.ru/dimgrad/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",Gulli Girl
-http://live-3.otcnet.ru/GulliGirl/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",Mezzo
-http://live-3.otcnet.ru/Mezzo/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",Первый Псковский
-http://live-3.otcnet.ru/pskov/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",Спортивный
-http://live-3.otcnet.ru/sportivny/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)" tvg-id="rus-hualiang-tv" ,Китай ТВ HD
 https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",РОССИЯ 24
@@ -212,14 +194,6 @@ https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/rewind-240.ts.m3u8
 https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 group-title="TEST (VPN)", Киномикс
 http://93.170.254.17/Kinomiks/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)", Пингвин Лоло
-http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="TEST (VPN)" tvg-id="mamonttv", Мамонтёнок
-http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="TEST (VPN)" ,Про100 ТВ
-https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
-#EXTINF:-1 group-title="TEST (VPN)", Детский телеканал Мультимания
-http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",8 канал
 http://cdn-01.bonus-tv.ru:80/8kanal/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",Крик-ТВ
