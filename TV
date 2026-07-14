@@ -32,6 +32,10 @@ http://45.132.87.69:8080/match/index.m3u8
 https://iptv.itv.uz/hls/live/t/Yv8TO7PtCQ-DJIbxOr9N_g/e/1799038269/4000/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/MTbNhVZc/i-TV-Music-Logo.png",ITV Music
 https://iptv.itv.uz/hls/live/t/iR8iDnzqJIQrEetuXnP3iA/e/1799038327/4001/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://zvukoff.usite.pro/apps/logo.png",ZTV Premiere 1 HD
+https://kinostream3-premiera-1.hf.space/hls/stream.m3u8
+#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://zvukoff.usite.pro/apps/logo.png",ZTV Premiere 2 HD
+https://kinostream3-premiera-2.hf.space/hls/stream.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Матч! Страна
 http://ukr.ukrainske.tv/134/keytvainua/video.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Viasat Kino Comedy
