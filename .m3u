@@ -534,49 +534,6 @@ http://tvoetv.space:8080/tvoetv/index.m3u8
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 
 
-#EXTINF:-1, Amedia 1
-http://46.32.176.50/amedia1/index.m3u8
-#EXTINF:-1, Amedia 2
-http://46.32.176.50/amedia2/index.m3u8
-#EXTINF:-1, Amedia Hit
-http://46.32.176.50/amediahit/index.m3u8
-#EXTINF:-1, Amedia Premium HD
-http://46.32.176.50/AmediaPremiumHD/index.m3u8
-
-#EXTINF:-1, Русский Детектив
-http://46.32.176.50/russkiydetektiv/index.m3u8
-#EXTINF:-1, Русский Роман
-http://46.32.176.50/russkiyroman/index.m3u8
-
-
-#EXTINF:-1, Bridge TV
-http://46.32.176.50/bridgetv/index.m3u8
-#EXTINF:-1, Bridge Classic
-http://46.32.176.50/rusong/index.m3u8
-
-#EXTINF:-1 ,Bridge TV Hits
-http://5.188.159.128:8070/Bridge_TV_Hits/index.m3u8
-#EXTINF:-1 ,Bridge HD
-http://5.188.159.128:8070/bridgetv/index.m3u8
-#EXTINF:-1 ,Bridge Deluxe
-http://91.204.123.202:80/92/index.m3u8
-
-
-#EXTINF:-1, Viju+ Premiere
-http://46.32.176.50/VIPPremiereHD/index.m3u8
-#EXTINF:-1, Viju+ Megahit
-http://46.32.176.50/VIPMegahitHD/index.m3u8
-#EXTINF:-1, Viju+ Comedy
-http://46.32.176.50/VIPComedyHD/index.m3u8
-#EXTINF:-1, VIP Serial HD
-http://46.32.176.50/ViasatSportHD/index.m3u8
-
-
-#EXTINF:-1, TV1000
-http://46.32.176.50/tv1000/index.m3u8
-#EXTINF:-1, Viju TV1000 Action
-http://46.32.176.50/tv1000action/index.m3u8
-
 
 #EXTINF:-1, Viju TV1000 Romantica HD
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=mO1pygCeC8dZR4E-XrxdtQ&e=1784870426&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
@@ -623,31 +580,6 @@ https://stream8.cinerama.uz/1263/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1264/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Матч! Планета
 https://stream8.cinerama.uz/1049/tracks-v1a1/mono.m3u8
-
-
-
-#EXTINF:-1,KHL Prime
-http://45.145.32.13:20440/khl_prime/index.m3u8?token=test
-#EXTINF:-1,MMA-TV.COM
-http://45.145.32.13:20440/mmatv/index.m3u8?token=test
-#EXTINF:-1,Матч ТВ
-http://45.145.32.13:20440/match/index.m3u8?token=test
-#EXTINF:-1,Матч! Боец
-http://45.145.32.13:20440/match_boets/index.m3u8?token=test
-#EXTINF:-1,Матч! Арена
-http://45.145.32.13:20440/match_arena_hd/index.m3u8?token=test
-#EXTINF:-1,Матч! Футбол 1 
-http://45.145.32.13:20440/match_futbol_1_hd/index.m3u8?token=test
-#EXTINF:-1,Матч! Футбол 2
-http://45.145.32.13:20440/match_futbol_2_hd/index.m3u8?token=test
-#EXTINF:-1,Матч! Футбол 3
-http://45.145.32.13:20440/match_futbol_3_hd/index.m3u8?token=test
-#EXTINF:-1,Матч! Игра
-http://45.145.32.13:20440/match_igra/index.m3u8?token=test
-#EXTINF:-1,Матч! Страна
-http://45.145.32.13:20440/match_strana/index.m3u8?token=test
-#EXTINF:-1,Мир Баскетбола
-http://45.145.32.13:20440/mir_basketbola/index.m3u8?token=test
 
 
 #EXTINF:-1 ,Удар
