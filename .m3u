@@ -527,6 +527,13 @@ http://stitch.teletarget.ru/api/v1/hls/vintera/neplaneta/index.m3u8
 #EXTINF:-1 ,Полёт ТВ
 http://stitch.teletarget.ru/vintera/flighttv/index.m3u8
 
+#EXTINF:-1 ,Investigation Discovery
+http://stream.mcquack.net/205/index.m3u8
+#EXTINF:-1 ,History
+http://smotrim.org/000001000.m3u8
+#EXTINF:-1 ,History 2
+http://smotrim.org/000002722.m3u8
+
 #EXTINF:-1 ,Шоу Бенни Хилла
 https://lbgo.bozztv.com/07/ushba62/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Мистер Бин
@@ -614,6 +621,14 @@ https://stream8.cinerama.uz/1263/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1264/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Матч! Планета
 https://stream8.cinerama.uz/1049/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 ,Eurosport 1 HD
+http://smotrim.org/000002478.m3u8
+#EXTINF:-1 ,Eurosport 2 HD
+http://smotrim.org/000002479.m3u8
+#EXTINF:-1 ,Viasat Sport
+http://smotrim.org/000000135.m3u8
 
 
 #EXTINF:-1 ,Удар
