@@ -528,12 +528,14 @@ http://stitch.teletarget.ru/api/v1/hls/vintera/neplaneta/index.m3u8
 #EXTINF:-1 ,Полёт ТВ
 http://stitch.teletarget.ru/vintera/flighttv/index.m3u8
 
-#EXTINF:-1 ,Investigation Discovery
-http://stream.mcquack.net/205/index.m3u8
 #EXTINF:-1 ,History
-http://smotrim.org/000001000.m3u8
+https://s70378.cdn.ngenix.net/history/1/index.m3u8
 #EXTINF:-1 ,History_2
-http://smotrim.org/000002722.m3u8
+https://s70378.cdn.ngenix.net/history_2/1/index.m3u8
+#EXTINF:-1 ,Дикий
+https://s70378.cdn.ngenix.net/dikiy/1/index.m3u8
+#EXTINF:-1 ,RTG HD
+https://s70378.cdn.ngenix.net/rtg_hd/1/index.m3u8
 
 #EXTINF:-1 ,Шоу Бенни Хилла
 https://lbgo.bozztv.com/07/ushba62/tracks-v1a1/mono.m3u8
@@ -550,24 +552,20 @@ http://tvoetv.space:8080/tvoetv/index.m3u8
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 
 
+
+
 #EXTINF:-1 ,Amedia 1
-http://smotrim.org/000000710.m3u8
+https://s70378.cdn.ngenix.net/amedia_1/2/index.m3u8
 #EXTINF:-1 ,Amedia 2
-http://smotrim.org/000000351.m3u8
+https://s70378.cdn.ngenix.net/amedia_2/2/index.m3u8
 #EXTINF:-1 ,Amedia Hit
-http://smotrim.org/000001662.m3u8
-#EXTINF:-1 ,Amedia Premium
-http://smotrim.org/000000709.m3u8
-#EXTINF:-1 ,Black
-http://smotrim.org/000000520.m3u8
-#EXTINF:-1 ,Red
-http://smotrim.org/000000213.m3u8
+https://s70378.cdn.ngenix.net/amedia_hit/2/index.m3u8
+#EXTINF:-1 ,Amedia Premium HD
+https://s70378.cdn.ngenix.net/amedia_premium_hd/2/index.m3u8
 #EXTINF:-1 ,Sci-Fi
-http://smotrim.org/000000134.m3u8
-
-
-
-
+https://s70378.cdn.ngenix.net/sony_sci_fi/2/index.m3u8
+#EXTINF:-1 ,Black
+https://s70378.cdn.ngenix.net/sony_turbo/2/index.m3u8
 #EXTINF:-1, Viju+ Comedy
 https://s70378.cdn.ngenix.net/vip_comedy/2/index.m3u8
 #EXTINF:-1, Viju+ Megahit
@@ -629,12 +627,17 @@ https://stream8.cinerama.uz/1264/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1049/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 ,Eurosport 1 HD
-http://smotrim.org/000002478.m3u8
-#EXTINF:-1 ,Eurosport 2 HD
-http://smotrim.org/000002479.m3u8
-#EXTINF:-1 ,Viasat Sport
-http://smotrim.org/000000135.m3u8
+
+#EXTINF:-1 ,UFC
+https://s70378.cdn.ngenix.net/ufc/2/index.m3u8
+#EXTINF:-1 ,Viasat sport
+https://s70378.cdn.ngenix.net/viasat_sport/2/index.m3u8
+#EXTINF:-1 ,Бокс ТВ
+https://s70378.cdn.ngenix.net/boks_tv/1/index.m3u8
+#EXTINF:-1 ,KHL
+https://s70378.cdn.ngenix.net/kxl/1/index.m3u8
+#EXTINF:-1 ,MMA-TV.com
+https://s70378.cdn.ngenix.net/m1_global/1/index.m3u8
 
 
 #EXTINF:-1 ,Удар
