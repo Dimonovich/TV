@@ -565,13 +565,16 @@ http://smotrim.org/000000213.m3u8
 #EXTINF:-1 ,Sci-Fi
 http://smotrim.org/000000134.m3u8
 
-#EXTINF:-1 ,VIP Comedy
+
+
+
+#EXTINF:-1, Viju+ Comedy
 https://s70378.cdn.ngenix.net/vip_comedy/2/index.m3u8
-#EXTINF:-1 VIP Megahit
+#EXTINF:-1, Viju+ Megahit
 https://s70378.cdn.ngenix.net/vip_megahit/2/index.m3u8
-#EXTINF:-1 ,VIP Premiere
+#EXTINF:-1, Viju+ Premiere
 https://s70378.cdn.ngenix.net/vip_premiere/2/index.m3u8
-#EXTINF:-1 ,VIP Serial
+#EXTINF:-1 ,VIP Serial HD
 https://s70378.cdn.ngenix.net/vip_serial/2/index.m3u8
 
 
