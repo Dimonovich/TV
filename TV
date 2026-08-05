@@ -1470,10 +1470,6 @@ http://hls127.freeott.top:8080/Dikiy/video.m3u8
 http://hls127.freeott.top:8080/Istoriya/video.m3u8
 #EXTINF:-1 group-title="Cloudflare_Inc!",Amedia 1
 http://hls127.freeott.top:8080/Amedia_1/video.m3u8
-#EXTINF:-1 group-title="Cloudflare_Inc!",BCU Kinorating HD
-http://hls127.freeott.top:8080/BCUKinoratingHD/video.m3u8
-#EXTINF:-1 group-title="Cloudflare_Inc!",BCU Stars HD
-http://hls127.freeott.top:8080/BCUStarsHD/video.m3u8
 #EXTINF:-1 group-title="Cloudflare_Inc!",CPS Action 
 http://hls127.freeott.top:8080/CPS_Action/video.m3u8
 #EXTINF:-1 group-title="Cloudflare_Inc!",CPS Comedy 
@@ -1825,61 +1821,6 @@ https://lbgo.bozztv.com/07/ushba93/tracks-v1a1/mono.m3u8
 https://lbgo.bozztv.com/07/ushba-aivideo/index.m3u8
 
 
-
-
-
-#EXTINF:-1 group-title="RELAXON" tvg-logo="https://i.postimg.cc/8PfB8sS7/1.png",SCREENSAVER
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210273&extension=ts
-#EXTINF:-1 group-title="RELAXON" tvg-logo="https://i.postimg.cc/8PfB8sS7/1.png",SCREEN MEDIEVAL EUROPE
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210274&extension=ts
-#EXTINF:-1 group-title="RELAXON" tvg-logo="https://i.postimg.cc/8PfB8sS7/1.png",SCREEN WILD ANIMALS
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210275&extension=ts
-#EXTINF:-1 group-title="RELAXON" tvg-logo="https://i.postimg.cc/8PfB8sS7/1.png",SCREEN AQUARIUM
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210276&extension=ts
-#EXTINF:-1 group-title="RELAXON" tvg-logo="https://i.postimg.cc/8PfB8sS7/1.png",SCREEN FIREPLACE
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210277&extension=ts
-#EXTINF:-1 group-title="RELAXON" tvg-logo="https://i.postimg.cc/8PfB8sS7/1.png",SCREEN FIREPLACE WINTER
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210278&extension=ts
-#EXTINF:-1 group-title="RELAXON" tvg-logo="https://i.postimg.cc/8PfB8sS7/1.png",SCREEN CAMPFIRE
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210279&extension=ts
-#EXTINF:-1 group-title="RELAXON" tvg-logo="https://i.postimg.cc/8PfB8sS7/1.png",SCREEN WINTER WONDERLAND
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210280&extension=ts
-#EXTINF:-1 group-title="RELAXON" tvg-logo="https://i.postimg.cc/8PfB8sS7/1.png",SCREEN WINTER
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210281&extension=ts
-#EXTINF:-1 group-title="RELAXON" tvg-logo="https://i.postimg.cc/8PfB8sS7/1.png",SCREEN WINTER 2
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210282&extension=ts
-#EXTINF:-1 group-title="RELAXON" tvg-logo="https://i.postimg.cc/8PfB8sS7/1.png",SCREEN TROPICAL RAIN
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210283&extension=ts
-#EXTINF:-1 group-title="RELAXON" tvg-logo="https://i.postimg.cc/8PfB8sS7/1.png",SCREEN DUBAI
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210284&extension=ts
-#EXTINF:-1 group-title="RELAXON" tvg-logo="https://i.postimg.cc/8PfB8sS7/1.png",SCREEN ISTANBUL
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210285&extension=ts
-#EXTINF:-1 group-title="RELAXON" tvg-logo="https://i.postimg.cc/8PfB8sS7/1.png",SCREEN PARIS
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210286&extension=ts
-#EXTINF:-1 group-title="RELAXON" tvg-logo="https://i.postimg.cc/8PfB8sS7/1.png",SCREEN NORWAY
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210287&extension=ts
-#EXTINF:-1 group-title="RELAXON" tvg-logo="https://i.postimg.cc/8PfB8sS7/1.png",SCREEN NEWYORK
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210288&extension=ts
-#EXTINF:-1 group-title="RELAXON" tvg-logo="https://i.postimg.cc/8PfB8sS7/1.png",SCREEN NEW YORK 2
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210289&extension=ts
-#EXTINF:-1 group-title="RELAXON" tvg-logo="https://i.postimg.cc/8PfB8sS7/1.png",SCREEN NEWYORK NIGHT
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210290&extension=ts
-#EXTINF:-1 group-title="RELAXON" tvg-logo="https://i.postimg.cc/8PfB8sS7/1.png",SCREEN OCEAN
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210291&extension=ts
-#EXTINF:-1 group-title="RELAXON" tvg-logo="https://i.postimg.cc/8PfB8sS7/1.png",SCREEN THE DRIVE
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210292&extension=ts
-#EXTINF:-1 group-title="RELAXON" tvg-logo="https://i.postimg.cc/8PfB8sS7/1.png",RELAX MUSIC
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210293&extension=ts
-#EXTINF:-1 group-title="RELAXON" tvg-logo="https://i.postimg.cc/8PfB8sS7/1.png",RELAX JAZZ MUSIC
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210294&extension=ts
-#EXTINF:-1 group-title="RELAXON" tvg-logo="https://i.postimg.cc/8PfB8sS7/1.png",RELAX YOGA MUSIC
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210295&extension=ts
-#EXTINF:-1 group-title="RELAXON" tvg-logo="https://i.postimg.cc/8PfB8sS7/1.png",RELAX TO SLEEP
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210296&extension=ts
-#EXTINF:-1 group-title="RELAXON" tvg-logo="https://i.postimg.cc/8PfB8sS7/1.png",SCREEN CHICKEN
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=551441&extension=ts
-#EXTINF:-1 group-title="RELAXON" tvg-logo="https://i.postimg.cc/8PfB8sS7/1.png",RELAX COFFEE SHOP MUSIC
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210297&extension=ts
 
 
 
