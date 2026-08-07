@@ -22,20 +22,6 @@ http://194.26.229.213/souzmultfilm/index.m3u8
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵" ,Viju TV1000 Romantica HD
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=mSLA7ufRhDMFi2Tt0z_iLA&e=1786291475&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
-#EXTINF:-1 group-title="TEST ⓵", 9 канал Израиль
-http://starcius-cinema.com/11152/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵", Starcius Cinema 1
-http://starcius-cinema.com/11965/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵", Starcius Cinema 2
-http://starcius-cinema.com/12042/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵", Viasat True Crime
-http://starcius-cinema.com/20953/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Патриот
-http://starcius-cinema.com/10244/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Апостроф
-http://starcius-cinema.com/10660/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Star Cinema
-http://starcius-cinema.com/12042/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Киномикс
 http://93.170.254.17/Kinomiks/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Дорама
@@ -59,9 +45,9 @@ http://185.57.68.33/40/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Матч! футбол 3
 http://185.57.68.33/110/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Tiji
-https://live-3.otcnet.ru/Tiji/tracks-v1a1/mono.ts.m3u8
+http://live-3.otcnet.ru/Tiji/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Gulli Girl
-https://live-3.otcnet.ru/GulliGirl/tracks-v1a1/mono.ts.m3u8
+http://live-3.otcnet.ru/GulliGirl/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="TEST ⓵",ДимГрад 24
 http://live-3.otcnet.ru/dimgrad/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Наша тема
