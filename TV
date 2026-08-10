@@ -126,6 +126,8 @@ https://streaming.thestream.cyou/live/232.m3u8
 https://streaming.thestream.cyou/live/296.m3u8
 #EXTINF:-1 group-title="TEST (VPN)" tvg-id="rus-hualiang-tv" ,Китай ТВ HD
 https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",RU.TV
+http://77.232.131.211/RUTV/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",РОССИЯ 24
 http://77.232.131.211/Rossiya24/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",Travel+Adventure HD
@@ -138,6 +140,14 @@ http://194.143.148.28:8080/MCM/tracks-v1a1/mono.m3u8
 http://194.143.148.28:8080/Mir24/mpegts
 #EXTINF:-1 group-title="TEST (VPN)",Аист
 http://194.143.148.28:8080/Aist/mpegts
+#EXTINF:-1 group-title="TEST (VPN)",one
+http://fl.ralsei.site:8888/one/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",one (+2)
+http://fl.ralsei.site:8888/one2/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",one (+4)
+http://fl.ralsei.site:8888/one4/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",one (+7)
+http://fl.ralsei.site:8888/one7/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)", Discovery Channel HD
 http://5.188.159.128:8070/DiscoveryChannel/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)", HOLLYWOOD HD
