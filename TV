@@ -2211,7 +2211,7 @@ https://cp1.server89.com:19360/radiostudioonelive/radiostudioonelive.m3u8
 #EXTVLCOPT:http-referrer=https://sovsekretno.tv/
 https://live-sovsec-ref.cdnvideo.ru/sovsec/sovsec.smil/playlist.m3u8?zoid=sref
 #EXTINF:-1 group-title="С сайтов" tvg-logo="http://kharkov-z.ru/z-logo-line.png",ХАРЬКОВ Z
-http://212.193.53.254/app/potok/playlist.m3u8
+https://live.kharkov-z.ru/app/potok/playlist.m3u8
 #EXTINF:-1 group-title="С сайтов", ТСВ
 https://tsv.md/stream/hls/tsv-online/index.m3u8
 #EXTINF:-1 group-title="С сайтов",Беларусь 24
