@@ -2244,8 +2244,6 @@ https://stream.ntktv.ua/s/ntk/ntk.m3u8
 https://stream.ztv.zp.ua/hls/live.m3u8
 #EXTINF:-1 group-title="С сайтов",ДнiпроTV
 https://vcdn1.produck.company/out/ngrp:dtv_all/playlist.m3u8
-#EXTINF:-1 group-title="С сайтов" tvg-logo="https://nadiya.tv/static/img/logo.png",Надия
-http://nadiya.home-net.com.ua/mob/mystream.m3u8
 #EXTINF:-1 group-title="С сайтов" tvg-logo="http://orbita.dn.ua/wp-content/uploads/2020/09/logo_Orbita_fin14.png",Орбiта
 http://ftp.orbita.dn.ua/hls/orbita.m3u8
 #EXTINF:-1 group-title="С сайтов" tvg-logo="https://i.postimg.cc/Qd1GFD3R/image.png",Абаза ТВ
@@ -2261,7 +2259,7 @@ https://brodilo.tv/brodilotv.m3u
 #EXTINF:-1 group-title="С сайтов" ,КТК
 https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8
 #EXTINF:-1 group-title="С сайтов" tvg-logo="http://www.tbnbaltia.eu/img/tbn-baltia-2-white-trans.png",TBN BALTIA
-http://dc.tbnbaltia.eu:8088/dvr/tracks-v1a1/rewind-21600.m3u8
+http://dc.tbnbaltia.eu:8088/web/tracks-v1a1/rewind-21600.ts.m3u8
 #EXTINF:-1 group-title="С сайтов" tvg-logo="https://hd.traveltv.bg/wp-content/uploads/sites/3/2018/12/ThisIsBG.HDTV_.TV_-500x73.png",This is Bulgaria HD
 https://streamer103.neterra.tv/thisisbulgaria/thisisbulgaria_HD.m3u8
 
