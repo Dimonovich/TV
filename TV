@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG,http://epg.one/epg2.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz"
+#EXTM3U url-tvg="https://iptvx.one/EPG,http://epg.one/epg2.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz,http://uhd.bear-tv.net:8080/bear_uhd/epg.xml"
 
 
 #EXTINF:-1 group-title="🔺 INFO 🔺" tvg-logo="https://i.postimg.cc/76BWD3tc/1.gif",Обновление:21.08.2026
@@ -695,6 +695,212 @@ https://river-3-346.rtbcdn.ru/hls-vod/IGqc0jXfFvA3jl5Gu4V8ng/1787405755/1788/0x5
 #EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/8a/8f/8a8fb71bed7423746a80654fc5ba541e.jpg", Лес В 4К
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
 https://river-4-459.rtbcdn.ru/hls-vod/VXYKk4iQ7IxAhRTYdYz8fw/1787405755/2656/0x5000039ce83bb529/3a14e22cc0b24da0b4c9994cfbbfff0a.mp4.m3u8?i=3840x2160_15561
+
+
+
+
+
+#EXTINF:-1 tvg-id="000101_MegaKadr" tvg-name="Bear TV МегаКадр RU UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV МегаКадр RU UHD
+https://uhd.bear-tv.net/000101_MegaKadr/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="000102_GoldenScreen" tvg-name="Bear TV Золотой Экран RU UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Золотой Экран RU UHD
+https://uhd.bear-tv.net/000102_GoldenScreen/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="000104_KinoTime" tvg-name="Bear TV КиноВремя RU UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV КиноВремя RU UHD
+https://uhd.bear-tv.net/000104_KinoTime/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="000105_SerialWorld" tvg-name="Bear TV КиноМир RU UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV КиноМир RU UHD
+https://uhd.bear-tv.net/000105_SerialWorld/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="000109_SerialHit" tvg-name="Bear TV Хитовый Экран RU UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Хитовый Экран RU UHD
+https://uhd.bear-tv.net/000109_SerialHit/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="000110_Filmonavt" tvg-name="Bear TV Фильмонавт RU UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Фильмонавт RU UHD
+https://uhd.bear-tv.net/000110_Filmonavt/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="000113_KinoHorizon" tvg-name="Bear TV КиноГоризонт RU UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV КиноГоризонт RU UHD
+https://uhd.bear-tv.net/000113_KinoHorizon/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="000115_SyuzhetTV" tvg-name="Bear TV Сюжет ТВ RU UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Сюжет ТВ RU UHD
+https://uhd.bear-tv.net/000115_SyuzhetTV/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="000116_KadrPlus" tvg-name="Bear TV Кадр Плюс RU UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Кадр Плюс RU UHD
+https://uhd.bear-tv.net/000116_KadrPlus/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="000117_KinoPulse" tvg-name="Bear TV КиноПульс RU UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV КиноПульс RU UHD
+https://uhd.bear-tv.net/000117_KinoPulse/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="000121_Ekran24" tvg-name="Bear TV Экран 24 RU UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Экран 24 RU UHD
+https://uhd.bear-tv.net/000121_Ekran24/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="000130_NightSeans" tvg-name="Bear TV Ночной Сеанс RU UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Ночной Сеанс RU UHD
+https://uhd.bear-tv.net/000130_NightSeans/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="000131_PremiereLive" tvg-name="Bear TV Премьера Live RU UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Премьера Live RU UHD
+https://uhd.bear-tv.net/000131_PremiereLive/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="000132_KinoMarshrut" tvg-name="Bear TV КиноМаршрут RU UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV КиноМаршрут RU UHD
+https://uhd.bear-tv.net/000132_KinoMarshrut/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="000133_LegendsEkrana" tvg-name="Bear TV Легенды Экрана RU UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Легенды Экрана RU UHD
+https://uhd.bear-tv.net/000133_LegendsEkrana/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="000135_MovieWave" tvg-name="Bear TV КиноВолна RU UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV КиноВолна RU UHD
+https://uhd.bear-tv.net/000135_MovieWave/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="000137_CinemaOrbit" tvg-name="Bear TV КиноОрбита RU UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV КиноОрбита RU UHD
+https://uhd.bear-tv.net/000137_CinemaOrbit/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="000139_FilmGalaxy" tvg-name="Bear TV Галактика Кино RU UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Галактика Кино RU UHD
+https://uhd.bear-tv.net/000139_FilmGalaxy/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="000141_KinoSphere" tvg-name="Bear TV КиноСфера RU UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV КиноСфера RU UHD
+https://uhd.bear-tv.net/000141_KinoSphere/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="000143_KinoDrive" tvg-name="Bear TV КиноДрайв RU UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV КиноДрайв RU UHD
+https://uhd.bear-tv.net/000143_KinoDrive/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="000144_BlockbusterTV" tvg-name="Bear TV Блокбастер ТВ RU UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Блокбастер ТВ RU UHD
+https://uhd.bear-tv.net/000144_BlockbusterTV/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="000199_FilmKanal" tvg-name="Bear TV Фильм Канал RU UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Фильм Канал RU UHD
+https://uhd.bear-tv.net/000199_FilmKanal/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="000201_KinoLine" tvg-name="Bear TV КиноЛиния RU UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV КиноЛиния RU UHD
+https://uhd.bear-tv.net/000201_KinoLine/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="000202_MovieStar" tvg-name="Bear TV КиноЗвезда RU UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV КиноЗвезда RU UHD
+https://uhd.bear-tv.net/000202_MovieStar/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="000203_KinoArena" tvg-name="Bear TV КиноАрена RU UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV КиноАрена RU UHD
+https://uhd.bear-tv.net/000203_KinoArena/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="000204_EkranFuture" tvg-name="Bear TV Экран Будущего RU UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Экран Будущего RU UHD
+https://uhd.bear-tv.net/000204_EkranFuture/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="000205_CinemaNova" tvg-name="Bear TV Кино Нова RU UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Кино Нова RU UHD
+https://uhd.bear-tv.net/000205_CinemaNova/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="000206_KinoFocus" tvg-name="Bear TV КиноФокус RU UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV КиноФокус RU UHD
+https://uhd.bear-tv.net/000206_KinoFocus/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="000207_FilmPotok" tvg-name="Bear TV ФильмПоток RU UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV ФильмПоток RU UHD
+https://uhd.bear-tv.net/000207_FilmPotok/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="000208_KinoMix" tvg-name="Bear TV КиноМикс RU UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV КиноМикс RU UHD
+https://uhd.bear-tv.net/000208_KinoMix/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="000209_KinoClassic" tvg-name="Bear TV КиноКлассика RU UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV КиноКлассика RU UHD
+https://uhd.bear-tv.net/000209_KinoClassic/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="000210_SuperSeans" tvg-name="Bear TV СуперСеанс RU UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV СуперСеанс RU UHD
+https://uhd.bear-tv.net/000210_SuperSeans/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="000211_HDKinoDom" tvg-name="Bear TV КиноДом RU UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV КиноДом RU UHD
+https://uhd.bear-tv.net/000211_HDKinoDom/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="000212_KinoPlanet" tvg-name="Bear TV КиноПланета RU UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV КиноПланета RU UHD
+https://uhd.bear-tv.net/000212_KinoPlanet/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="000213_MovieNight" tvg-name="Bear TV КиноНочь RU UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV КиноНочь RU UHD
+https://uhd.bear-tv.net/000213_MovieNight/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="000214_KinoPortal" tvg-name="Bear TV КиноПортал RU UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV КиноПортал RU UHD
+https://uhd.bear-tv.net/000214_KinoPortal/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="000215_EkranPremium" tvg-name="Bear TV Экран Премиум RU UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Экран Премиум RU UHD
+https://uhd.bear-tv.net/000215_EkranPremium/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="000216_KinoSvet" tvg-name="Bear TV КиноСвет RU UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV КиноСвет RU UHD
+https://uhd.bear-tv.net/000216_KinoSvet/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="000217_FilmExpress" tvg-name="Bear TV ФильмЭкспресс RU UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV ФильмЭкспресс RU UHD
+https://uhd.bear-tv.net/000217_FilmExpress/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="000218_SerialPark" tvg-name="Bear TV Парк Кино RU UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Парк Кино RU UHD
+https://uhd.bear-tv.net/000218_SerialPark/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="000219_CinemaTime" tvg-name="Bear TV Время Кино RU UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Время Кино RU UHD
+https://uhd.bear-tv.net/000219_CinemaTime/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="000220_KinoMayak" tvg-name="Bear TV КиноМаяк RU UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV КиноМаяк RU UHD
+https://uhd.bear-tv.net/000220_KinoMayak/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="000221_KinoBaza" tvg-name="Bear TV КиноБаза RU UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV КиноБаза RU UHD
+https://uhd.bear-tv.net/000221_KinoBaza/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="000222_FilmZone" tvg-name="Bear TV ФильмЗона RU UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV ФильмЗона RU UHD
+https://uhd.bear-tv.net/000222_FilmZone/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="000223_KinoEmpire" tvg-name="Bear TV КиноИмперия RU UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV КиноИмперия RU UHD
+https://uhd.bear-tv.net/000223_KinoEmpire/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="000224_EkranHit" tvg-name="Bear TV Экран Хит RU UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Экран Хит RU UHD
+https://uhd.bear-tv.net/000224_EkranHit/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="000225_MovieLine" tvg-name="Bear TV Линия Кино RU UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Линия Кино RU UHD
+https://uhd.bear-tv.net/000225_MovieLine/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="000226_KinoRhythm" tvg-name="Bear TV КиноРитм RU UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV КиноРитм RU UHD
+https://uhd.bear-tv.net/000226_KinoRhythm/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="000227_Seans247" tvg-name="Bear TV Сеанс 24/7 RU UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Сеанс 24/7 RU UHD
+https://uhd.bear-tv.net/000227_Seans247/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="009999_KinoMania" tvg-name="Bear TV Киномания RU UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Киномания RU UHD
+https://uhd.bear-tv.net/009999_KinoMania/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="bear_tv_dobirka_filmiv" tvg-name="Bear TV Добірка Фільмів UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Добірка Фільмів UA HD
+https://uhd.bear-tv.net/bear_tv_dobirka_filmiv/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="bear_tv_domashniy_kinozal" tvg-name="Bear TV Домашній Кінозал UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Домашній Кінозал UA HD
+https://uhd.bear-tv.net/bear_tv_domashniy_kinozal/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="bear_tv_filmmaniya" tvg-name="Bear TV ФільмМанія UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV ФільмМанія UA HD
+https://uhd.bear-tv.net/bear_tv_filmmaniya/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="bear_tv_filmovyy_den" tvg-name="Bear TV Фільмовий День UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Фільмовий День UA HD
+https://uhd.bear-tv.net/bear_tv_filmovyy_den/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="bear_tv_filmovyy_miks" tvg-name="Bear TV Фільмовий Мікс UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Фільмовий Мікс UA HD
+https://uhd.bear-tv.net/bear_tv_filmovyy_miks/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="bear_tv_filmy_24" tvg-name="Bear TV Фільми 24 UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Фільми 24 UA HD
+https://uhd.bear-tv.net/bear_tv_filmy_24/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="bear_tv_film_za_filmom" tvg-name="Bear TV Фільм за Фільмом UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Фільм за Фільмом UA HD
+https://uhd.bear-tv.net/bear_tv_film_za_filmom/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="bear_tv_hit_film" tvg-name="Bear TV Хіт Фільм UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Хіт Фільм UA HD
+https://uhd.bear-tv.net/bear_tv_hit_film/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="bear_tv_kinoatmosfera" tvg-name="Bear TV КіноАтмосфера UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV КіноАтмосфера UA HD
+https://uhd.bear-tv.net/bear_tv_kinoatmosfera/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="bear_tv_kinobezperervy" tvg-name="Bear TV Кіно Без Перерви UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Кіно Без Перерви UA HD
+https://uhd.bear-tv.net/bear_tv_kinobezperervy/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="bear_tv_kinohvylya" tvg-name="Bear TV КіноХвиля UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV КіноХвиля UA HD
+https://uhd.bear-tv.net/bear_tv_kinohvylya/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="bear_tv_kinoklub" tvg-name="Bear TV КіноКлуб UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV КіноКлуб UA HD
+https://uhd.bear-tv.net/bear_tv_kinoklub/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="bear_tv_kinokolektsiya" tvg-name="Bear TV КіноКолекція UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV КіноКолекція UA HD
+https://uhd.bear-tv.net/bear_tv_kinokolektsiya/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="bear_tv_kinoliniya" tvg-name="Bear TV КіноЛінія UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV КіноЛінія UA HD
+https://uhd.bear-tv.net/bear_tv_kinoliniya/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="bear_tv_kinomarafon" tvg-name="Bear TV КіноМарафон UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV КіноМарафон UA HD
+https://uhd.bear-tv.net/bear_tv_kinomarafon/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="bear_tv_kinomiks" tvg-name="Bear TV КіноМікс UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV КіноМікс UA HD
+https://uhd.bear-tv.net/bear_tv_kinomiks/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="bear_tv_kinonastriy" tvg-name="Bear TV КіноНастрій UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV КіноНастрій UA HD
+https://uhd.bear-tv.net/bear_tv_kinonastriy/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="bear_tv_kinoplaneta" tvg-name="Bear TV КіноПланета UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV КіноПланета UA HD
+https://uhd.bear-tv.net/bear_tv_kinoplaneta/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="bear_tv_kinoplyus" tvg-name="Bear TV КіноПлюс UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV КіноПлюс UA HD
+https://uhd.bear-tv.net/bear_tv_kinoplyus/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="bear_tv_kinopotik" tvg-name="Bear TV КіноПотік UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV КіноПотік UA HD
+https://uhd.bear-tv.net/bear_tv_kinopotik/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="bear_tv_kinosvit" tvg-name="Bear TV КіноСвіт UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV КіноСвіт UA HD
+https://uhd.bear-tv.net/bear_tv_kinosvit/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="bear_tv_kinotaym" tvg-name="Bear TV КіноТайм UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV КіноТайм UA HD
+https://uhd.bear-tv.net/bear_tv_kinotaym/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="bear_tv_kinovechir" tvg-name="Bear TV КіноВечір UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV КіноВечір UA HD
+https://uhd.bear-tv.net/bear_tv_kinovechir/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="bear_tv_kinozal" tvg-name="Bear TV Кінозал UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Кінозал UA HD
+https://uhd.bear-tv.net/bear_tv_kinozal/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="bear_tv_legendy_kino" tvg-name="Bear TV Легенди Кіно UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Легенди Кіно UA HD
+https://uhd.bear-tv.net/bear_tv_legendy_kino/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="bear_tv_megafilm" tvg-name="Bear TV МегаФільм UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV МегаФільм UA HD
+https://uhd.bear-tv.net/bear_tv_megafilm/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="bear_tv_movie_ua" tvg-name="Bear TV Movie UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Movie UA HD
+https://uhd.bear-tv.net/bear_tv_movie_ua/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="bear_tv_mult_24" tvg-name="Bear TV Мульт 24 UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Мульт 24 UA HD
+https://uhd.bear-tv.net/bear_tv_mult_24/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="bear_tv_mult_animatsiya" tvg-name="Bear TV Мульт Анімація UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Мульт Анімація UA HD
+https://uhd.bear-tv.net/bear_tv_mult_animatsiya/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="bear_tv_mult_dytyachyy_svit" tvg-name="Bear TV Дитячий Світ UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Дитячий Світ UA HD
+https://uhd.bear-tv.net/bear_tv_mult_dytyachyy_svit/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="bear_tv_mult_hit" tvg-name="Bear TV Мульт Хіт UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Мульт Хіт UA HD
+https://uhd.bear-tv.net/bear_tv_mult_hit/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="bear_tv_mult_kids_kino" tvg-name="Bear TV Kids Кіно UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Kids Кіно UA HD
+https://uhd.bear-tv.net/bear_tv_mult_kids_kino/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="bear_tv_mult_malyy_ekran" tvg-name="Bear TV Малий Екран UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Малий Екран UA HD
+https://uhd.bear-tv.net/bear_tv_mult_malyy_ekran/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="bear_tv_mult_miks" tvg-name="Bear TV Мульт Мікс UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Мульт Мікс UA HD
+https://uhd.bear-tv.net/bear_tv_mult_miks/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="bear_tv_mult_simeyni" tvg-name="Bear TV Сімейні Мульти UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Сімейні Мульти UA HD
+https://uhd.bear-tv.net/bear_tv_mult_simeyni/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="bear_tv_mult_svit" tvg-name="Bear TV МультСвіт UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV МультСвіт UA HD
+https://uhd.bear-tv.net/bear_tv_mult_svit/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="bear_tv_mult_zal" tvg-name="Bear TV МультЗал UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV МультЗал UA HD
+https://uhd.bear-tv.net/bear_tv_mult_zal/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="bear_tv_nichnyy_seans" tvg-name="Bear TV Нічний Сеанс UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Нічний Сеанс UA HD
+https://uhd.bear-tv.net/bear_tv_nichnyy_seans/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="bear_tv_prem_yera" tvg-name="Bear TV Прем'єра UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Прем'єра UA HD
+https://uhd.bear-tv.net/bear_tv_prem_yera/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="bear_tv_seans_24" tvg-name="Bear TV Сеанс 24 UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Сеанс 24 UA HD
+https://uhd.bear-tv.net/bear_tv_seans_24/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="bear_tv_simeynyy_vechir" tvg-name="Bear TV Сімейний Вечір UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Сімейний Вечір UA HD
+https://uhd.bear-tv.net/bear_tv_simeynyy_vechir/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="bear_tv_svit_kino" tvg-name="Bear TV Світ Кіно UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Світ Кіно UA HD
+https://uhd.bear-tv.net/bear_tv_svit_kino/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="bear_tv_top_kino" tvg-name="Bear TV Топ Кіно UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Топ Кіно UA HD
+https://uhd.bear-tv.net/bear_tv_top_kino/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="bear_tv_ukrayinskyy_seans" tvg-name="Bear TV Український Сеанс UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Український Сеанс UA HD
+https://uhd.bear-tv.net/bear_tv_ukrayinskyy_seans/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="bear_tv_ulyubleni_filmy" tvg-name="Bear TV Улюблені Фільми UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Улюблені Фільми UA HD
+https://uhd.bear-tv.net/bear_tv_ulyubleni_filmy/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="bear_tv_vechirnye_kino" tvg-name="Bear TV Вечірнє Кіно UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Вечірнє Кіно UA HD
+https://uhd.bear-tv.net/bear_tv_vechirnye_kino/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="bear_tv_velyke_kino" tvg-name="Bear TV Велике Кіно UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Велике Кіно UA HD
+https://uhd.bear-tv.net/bear_tv_velyke_kino/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="bear_tv_velykyy_ekran" tvg-name="Bear TV Великий Екран UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Великий Екран UA HD
+https://uhd.bear-tv.net/bear_tv_velykyy_ekran/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="bear_tv_vybir_glyadacha" tvg-name="Bear TV Вибір Глядача UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Вибір Глядача UA HD
+https://uhd.bear-tv.net/bear_tv_vybir_glyadacha/index.m3u8?token=2__wqx2YvuBv00
+#EXTINF:-1 tvg-id="bear_tv_zolota_kolektsiya" tvg-name="Bear TV Золота Колекція UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Золота Колекція UA HD
+https://uhd.bear-tv.net/bear_tv_zolota_kolektsiya/index.m3u8?token=2__wqx2YvuBv00
+
 
 
 
