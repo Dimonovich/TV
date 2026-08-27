@@ -12,6 +12,9 @@ https://live.smotrim.ru/vgtrk/0/russia1-hd/1080p.m3u8
 https://stream.smotrim.ru/hls/planeta_rtr_euro/playlist_4.m3u8
 
 
+
+
+
 #EXTINF:-1 ,НТВ Хит
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
@@ -660,47 +663,28 @@ https://s70378.cdn.ngenix.net/m1_global/1/index.m3u8
 #EXTINF:-1 ,Удар
 http://5.188.159.128:8070/udar/index.m3u8
 
-#EXTINF:-1,Кавказ 24
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8
-#EXTINF:-1,Запад 24
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/zapad24-hd/index.m3u8
-#EXTINF:-1,Восток 24
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladivostok/vostok24-hd/index.m3u8
-#EXTINF:-1,Сибирь 24
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/sibir24-hd/index.m3u8
-#EXTINF:-1,Башкортостан 24
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/bashkortostan24-hd/index.m3u8
-#EXTINF:-1,Урал 24
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/ural24-hd/index.m3u8
-#EXTINF:-1,Нижний Новгород 24
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/nigniynovgorod24-hd/index.m3u8
-#EXTINF:-1,Краснодар
-https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
-#EXTINF:-1,Арктика 24
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/arktika24-hd/index.m3u8
 
-#EXTINF:-1 group-title="С сайтов (VPN)" ,Кавказ 24
+
+#EXTINF:-1 ,Кавказ 24
 https://live-gtrk.smotrim.ru/vgtrk/stavropol/kavkaz24-hd/track_102_93b61749/chunklist.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" ,Самара 24
+#EXTINF:-1 ,Самара 24
 https://live-gtrk.smotrim.ru/vgtrk/samara/samara24-hd/track_105_c67f9dc0/chunklist.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" ,Запад 24
+#EXTINF:-1 ,Запад 24
 https://live-gtrk.smotrim.ru/vgtrk/kaliningrad/zapad24-hd/track_105_6ee52196/chunklist.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" ,Восток 24
+#EXTINF:-1 ,Восток 24
 https://live-gtrk.smotrim.ru/vgtrk/vladivostok/vostok24-hd/track_105_7cd61590/chunklist.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" ,Сибирь 24
+#EXTINF:-1 ,Сибирь 24
 https://live-gtrk.smotrim.ru/vgtrk/novosibirsk/sibir24-hd/track_105_2da7a401/chunklist.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" ,Башкортостан 24
+#EXTINF:-1 ,Башкортостан 24
 https://live-gtrk.smotrim.ru/vgtrk/ufa/bashkortostan24-hd/track_105_dd0cf289/chunklist.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" ,Урал 24
+#EXTINF:-1 ,Урал 24
 https://live-gtrk.smotrim.ru/vgtrk/chelyabinsk/ural24-hd/track_105_4e9e7e3b/chunklist.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" ,Нижний Новгород 24
+#EXTINF:-1 ,Нижний Новгород 24
 https://live-gtrk.smotrim.ru/vgtrk/nigniynovgorod/nigniynovgorod24-hd/track_105_a38f1be2/chunklist.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" ,Краснодар
+#EXTINF:-1 ,Краснодар
 https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" ,Арктика 24
-https://live-gtrk.smotrim.ru/vgtrk/arhangelsk/arktika24-hd/track_105_12b117d7/chunklist.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" ,360° Новости
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
+#EXTINF:-1 ,Арктика 24
+https://live-gtrk.smotrim.ru/vgtrk/arhangelsk/arktika24-hd/track_105_12b117d7/chunklist.m3u8o
 
 
 #EXTINF:-1 ,CHD-TV RU Rock HD
