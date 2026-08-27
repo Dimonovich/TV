@@ -8,6 +8,8 @@ https://live.smotrim.ru/vgtrk/0/russia24-hd/1080p.m3u8
 https://live.smotrim.ru/vgtrk/0/kultura-hd/track_105_319a299f/chunklist.m3u8
 #EXTINF:-1, Россия 1
 https://live.smotrim.ru/vgtrk/0/russia1-hd/1080p.m3u8
+#EXTINF:-1 ,Россия РТР
+https://stream.smotrim.ru/hls/planeta_rtr_euro/playlist_4.m3u8
 
 
 #EXTINF:-1 ,НТВ Хит
@@ -677,6 +679,29 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/nigniynovgorod24-hd/ind
 https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
 #EXTINF:-1,Арктика 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/arktika24-hd/index.m3u8
+
+#EXTINF:-1 group-title="С сайтов (VPN)" ,Кавказ 24
+https://live-gtrk.smotrim.ru/vgtrk/stavropol/kavkaz24-hd/track_102_93b61749/chunklist.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" ,Самара 24
+https://live-gtrk.smotrim.ru/vgtrk/samara/samara24-hd/track_105_c67f9dc0/chunklist.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" ,Запад 24
+https://live-gtrk.smotrim.ru/vgtrk/kaliningrad/zapad24-hd/track_105_6ee52196/chunklist.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" ,Восток 24
+https://live-gtrk.smotrim.ru/vgtrk/vladivostok/vostok24-hd/track_105_7cd61590/chunklist.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" ,Сибирь 24
+https://live-gtrk.smotrim.ru/vgtrk/novosibirsk/sibir24-hd/track_105_2da7a401/chunklist.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" ,Башкортостан 24
+https://live-gtrk.smotrim.ru/vgtrk/ufa/bashkortostan24-hd/track_105_dd0cf289/chunklist.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" ,Урал 24
+https://live-gtrk.smotrim.ru/vgtrk/chelyabinsk/ural24-hd/track_105_4e9e7e3b/chunklist.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" ,Нижний Новгород 24
+https://live-gtrk.smotrim.ru/vgtrk/nigniynovgorod/nigniynovgorod24-hd/track_105_a38f1be2/chunklist.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" ,Краснодар
+https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" ,Арктика 24
+https://live-gtrk.smotrim.ru/vgtrk/arhangelsk/arktika24-hd/track_105_12b117d7/chunklist.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" ,360° Новости
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
 
 
 #EXTINF:-1 ,CHD-TV RU Rock HD
