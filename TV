@@ -26,6 +26,24 @@ https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=UyzOpTYp-O6bQOX3CAMeVA&e=1787945023&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 group-title="TEST ⓵",TV1000
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=fM1ieHknjyOUXIaDJAG1UQ&e=1787944999&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:-1 group-title="TEST ⓵",CCCP
+http://dtv.vol.net.ua/CCCP/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵",ICTV HD
+http://dtv.vol.net.ua/ICTV_HD/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Квартал ТВ
+http://dtv.vol.net.ua/Kvartal_TV/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵",M1 HD
+http://dtv.vol.net.ua/M1-HD/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Мега HD
+http://dtv.vol.net.ua/MEGA-HD/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Nat Geo Wild HD
+http://dtv.vol.net.ua/Nat_Geo_Wild_HD/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Setanta Ukraine HD
+http://dtv.vol.net.ua/Setanta_Sports/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Viasat_History
+http://dtv.vol.net.ua/Viasat_History/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Viasat_Nature
+http://dtv.vol.net.ua/Viasat_Nature/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Киномикс
 http://93.170.254.17/Kinomiks/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Дорама
