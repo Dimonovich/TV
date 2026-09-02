@@ -26,8 +26,6 @@ https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=8IWjpWsImVJ_tvoRpJSmmg&e=1789049097&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 group-title="TEST ⓵",TV1000
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=6usVID1YB83ilt9sKEyrxg&e=1789049111&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
-#EXTINF:-1 group-title="TEST ⓵",CCCP
-http://dtv.vol.net.ua/CCCP/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵",ICTV HD
 http://dtv.vol.net.ua/ICTV_HD/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Квартал ТВ
@@ -60,16 +58,10 @@ https://iptv.itv.uz/hls/live/t/iR8iDnzqJIQrEetuXnP3iA/e/1799038327/4001/index.m3
 http://ukr.ukrainske.tv/134/keytvainua/video.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Viasat Kino Comedy
 http://ukr.ukrainske.tv/493/keytvainua/video.m3u8
-#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://provider-static.plex.tv/3/epg/channels/logos/gracenote/38945a2afcb8ce8ae6b5fe557e908b2f.png",Cirque du Soleil
-https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-67642f277c5e3b38af72dcdb.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Загородная жизнь
 http://185.57.68.33/40/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Матч! футбол 3
 http://185.57.68.33/110/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Tiji
-http://live-3.otcnet.ru/Tiji/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Gulli Girl
-http://live-3.otcnet.ru/GulliGirl/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="TEST ⓵",ДимГрад 24
 http://live-3.otcnet.ru/dimgrad/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Наша тема
@@ -110,6 +102,8 @@ https://api-tv.ipnet.ua/api/v1/manifest/2118742505.m3u8
 https://api-tv.ipnet.ua/api/v1/manifest/2118742680.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Армія ТБ
 https://api-tv.ipnet.ua/api/v1/manifest/2118742632.m3u8
+#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/ac0caef9123a35df3b884b139340a597/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1783457806003_cw_presents_wwe_nxt_logo_hud.png",CW Presents WWE NXT
+https://jmp2.uk/rok-ac0caef9123a35df3b884b139340a597.m3u8
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4500001A5_20260422T013953SQUARE.png" ,tvN 환혼 4K
 https://jmp2.uk/stvp-KRBC4500001A5
 #EXTINF:-1 group-title="TEST ⓵" channel-id="USBA3400003IP" tvg-id="USBA3400003IP" tvg-chno="3532" tvg-name="Love Nature 4K" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3400003IP_20260421T142045SQUARE.png" ,Love Nature 4K
@@ -118,6 +112,8 @@ https://jmp2.uk/stvp-USBA3400003IP
 https://jmp2.uk/stvp-KRBB500039Y5
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/IRIB_FARATAR_UHD.png/960px-IRIB_FARATAR_UHD.png" ,IRIB UHD
 https://ncdn.telewebion.ir/faratar/live/2160p/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRAH2201403A_20260422T012851SQUARE.png",SAMSUNG UHD
+https://jmp2.uk/stvp-KRAH2201403A
 
 
 
