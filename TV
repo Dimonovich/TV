@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG,http://epg.one/epg2.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz"
+#EXTM3U url-tvg="https://iptvx.one/EPG,http://epg.one/epg2.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz,https://rostelekom-tv.xyz/xmltv/bJ1WKhdn0P60YSQ0.xml"
 
 
 #EXTINF:-1 group-title="🔺 INFO 🔺" tvg-logo="https://i.postimg.cc/76BWD3tc/1.gif",Обновление:🍁06.09.2026
@@ -3548,6 +3548,30 @@ https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/qazaqstantv/qazaqs
 #EXTINF:-1 group-title="С сайтов (VPN)" ,ГИС Самара
 https://tv.samaragis.ru/new/new/tracks-v1a1/0/stream.m3u8
 
+
+
+
+
+#EXTINF:-1 group-title="InterraMedia (VPN)" tvg-id="detvoraplushd" tvg-name="ДетвораПлюс HD" tvg-logo="https://cdn.rostelekom-tv.xyz/picons/89fe214904639432.png" ,ДетвораПлюс HD
+https://cdn.rostelekom-tv.xyz/live/WAYU4PTJ_VVz4wAQ.m3u8
+#EXTINF:-1 group-title="InterraMedia (VPN)" tvg-id="velvetmenthd" tvg-name="Velvet. Ментовские Сериалы HD" tvg-logo="https://cdn.rostelekom-tv.xyz/picons/d385074b6255d55c.png" ,Velvet. Ментовские Сериалы HD
+https://cdn.rostelekom-tv.xyz/live/tWQ0ge9rspBQhRst.m3u8
+#EXTINF:-1 group-title="InterraMedia (VPN)" tvg-id="velvetsovetskoehd" tvg-name="Velvet. Советское кино HD" tvg-logo="https://cdn.rostelekom-tv.xyz/picons/7129effd35bb63a1.png" ,Velvet. Советское кино HD
+https://cdn.rostelekom-tv.xyz/live/nF4sFCa49nFPHSF_.m3u8
+#EXTINF:-1 group-title="InterraMedia (VPN)" tvg-id="velvetzolotohd" tvg-name="Velvet. Золотая коллекция HD" tvg-logo="https://cdn.rostelekom-tv.xyz/picons/1d811cf354275a47.png" ,Velvet. Золотая коллекция HD
+https://cdn.rostelekom-tv.xyz/live/v804qFZr0QVQ1s9Z.m3u8
+#EXTINF:-1 group-title="InterraMedia (VPN)" tvg-id="velveteurkinohd" tvg-name="Velvet. Европейское кино HD" tvg-logo="https://cdn.rostelekom-tv.xyz/picons/e4351d9b387c625d.png" ,Velvet. Европейское кино HD
+https://cdn.rostelekom-tv.xyz/live/LQ3j0n7j0Kq4OQm8.m3u8
+#EXTINF:-1 group-title="InterraMedia (VPN)" tvg-id="serialyhityhd" tvg-name="Velvet. Сериалы Хиты HD" tvg-logo="https://cdn.rostelekom-tv.xyz/picons/e5f4f860cf5111be.png" ,Velvet. Сериалы Хиты HD
+https://cdn.rostelekom-tv.xyz/live/DeWr3Sgw1Aj2lJd0.m3u8
+#EXTINF:-1 group-title="InterraMedia (VPN)" tvg-id="velvetuzhasyhd" tvg-name="Velvet. Ужасы HD" tvg-logo="https://cdn.rostelekom-tv.xyz/picons/8dde3949fecff16c.png" ,Velvet. Ужасы HD
+https://cdn.rostelekom-tv.xyz/live/NImhIFLevxCbtcP-.m3u8
+#EXTINF:-1 group-title="InterraMedia (VPN)" tvg-id="mirserialhd" tvg-name="Velvet. Мировые сериалы HD" tvg-logo="https://cdn.rostelekom-tv.xyz/picons/d834f5a9e60097e0.png" ,Velvet. Мировые сериалы HD
+https://cdn.rostelekom-tv.xyz/live/2RR44py-yGlIWQIp.m3u8
+#EXTINF:-1 group-title="InterraMedia (VPN)" tvg-id="turkserial-hd" tvg-name="Velvet. Турецкие сериалы HD" tvg-logo="https://cdn.rostelekom-tv.xyz/picons/3a97ff710bd5fb7a.png" Velvet. Турецкие сериалы HD
+https://cdn.rostelekom-tv.xyz/live/3c9TIqiOO4n7o4zK.m3u8
+#EXTINF:-1 group-title="InterraMedia (VPN)" tvg-id="velvetsvatyhd" tvg-name="Velvet. Сваты HD" tvg-logo="https://cdn.rostelekom-tv.xyz/picons/5c274519467ec9c5.png" ,Velvet. Сваты HD
+https://cdn.rostelekom-tv.xyz/live/HSxyMqDlSVR54UTN.m3u8
 
 
 
