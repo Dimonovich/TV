@@ -26,22 +26,24 @@ https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=8IWjpWsImVJ_tvoRpJSmmg&e=1789049097&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 group-title="TEST ⓵",TV1000
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=6usVID1YB83ilt9sKEyrxg&e=1789049111&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
-#EXTINF:-1 group-title="TEST ⓵",ICTV HD
-http://dtv.vol.net.ua/ICTV_HD/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Квартал ТВ
-http://dtv.vol.net.ua/Kvartal_TV/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵",M1 HD
 http://dtv.vol.net.ua/M1-HD/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Мега HD
-http://dtv.vol.net.ua/MEGA-HD/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Nat Geo Wild HD
-http://dtv.vol.net.ua/Nat_Geo_Wild_HD/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Setanta Ukraine HD
-http://dtv.vol.net.ua/Setanta_Sports/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Viasat_History
-http://dtv.vol.net.ua/Viasat_History/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Viasat_Nature
-http://dtv.vol.net.ua/Viasat_Nature/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵",5 канал 
+http://dtv.vol.net.ua/5_kanal/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵",BCU Catastrophe HD
+http://dtv.vol.net.ua/BCU-Catastrophe-HD/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵",BCU Fantastic HD
+http://dtv.vol.net.ua/BCU-Fantastic-HD/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵",BCU Kinorating HD
+http://dtv.vol.net.ua/BCU-Kinorating-HD/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Bolt
+http://dtv.vol.net.ua/Bolt/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵",ICTV HD
+http://dtv.vol.net.ua/ICTV-HD/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵",TLC
+http://dtv.vol.net.ua/TLC/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Viasat Kino
+http://dtv.vol.net.ua/Viasat_Kino/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Киномикс
 http://93.170.254.17/Kinomiks/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Дорама
@@ -8615,7 +8617,7 @@ http://127.0.0.1:6878/ace/getstream?id=ed6a12719fbc9c9b38c2ce69c065a84f3a9b42e6
 http://127.0.0.1:6878/ace/getstream?id=e5546c985741ec758b39030c59ade2f3a311a06e
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",.black
 http://127.0.0.1:6878/ace/getstream?id=d67f201bfdc47d376b6195d50a3ac3ee231a92a5
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Fast&Funbox HD
+#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Fast & Fun Box HD
 http://127.0.0.1:6878/ace/getstream?id=c811cde690d467a2e45d3c263c4f0960a3933d18
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Fashion TV HD
 http://127.0.0.1:6878/ace/getstream?id=ac7762efa1c33ece2dd0e97abe1e9149e3ddafc6
@@ -8903,7 +8905,7 @@ http://127.0.0.1:6878/ace/getstream?id=3147c586346aee00c005d1caa55204d38678c95f
 http://127.0.0.1:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️" ,Dazn 2 Bar HD
 http://127.0.0.1:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️" ,DAZN F1 4K
+#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️" ,Sky Sports F1 UHD [UK]
 http://127.0.0.1:6878/ace/getstream?infohash=c95512caeb8ab562d2dbb4242e97ac3283fba1ec
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️" ,SKY SPORTS PREMIER LEAGUE UK
 http://127.0.0.1:6878/ace/getstream?infohash=b81a8e83ac842cf7e06b33c999002571ca1861b3
