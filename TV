@@ -60,6 +60,16 @@ http://live-3.otcnet.ru/nashatema/index.m3u8
 http://live-3.otcnet.ru/pskov/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Спортивный
 http://live-3.otcnet.ru/sportivny/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵",BETKING LIVE 1
+https://betkinglive.online/betking/video.m3u8
+#EXTINF:-1 group-title="TEST ⓵",BETKING LIVE 2
+https://betkinglive.online/betking2/video.m3u8
+#EXTINF:-1 group-title="TEST ⓵",BETKING LIVE 3
+https://betkinglive.online/betking3/video.m3u8
+#EXTINF:-1 group-title="TEST ⓵",BETKING LIVE 4
+https://betkinglive.online/betking4/video.m3u8
+#EXTINF:-1 group-title="TEST ⓵",BETKING LIVE 5
+https://betkinglive.online/betking5/video.m3u8
 #EXTINF:-1 group-title="TEST ⓵",CGTN Русский
 https://english-livetx.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802_hd.m3u8
 #EXTINF:-1 group-title="TEST ⓵", Оружие 
@@ -8408,16 +8418,12 @@ http://kinowalk.hopto.org/jtxonline_live
 https://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆" ,DiviSport
 https://vcdn.produck.company/out/ngrp:divisport_all/playlist.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆" ,Матч! HD
-https://livetv.mylifeisgood.net.ru/channels/matchhd_nocensored.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆" ,Матч ТВ HD
 https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆" ,Беларусь 5
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆" ,Беларусь 5
 https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆" ,СТАРТ HD
-https://livetv.mylifeisgood.net.ru/channels/startlive.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Turkmen Sport
 http://217.174.225.146/hls/ch004_720/index.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Canal Motor
@@ -8426,8 +8432,6 @@ http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
 https://playout.fubo.tv/plex/3.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Sports Grid
 https://sportsgrid-tribal.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Fifa+
-https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Horse and Country TV
 https://hnc-free-viewlift.amagi.tv/playlist720_lp.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",BEK TV Sports
@@ -8440,8 +8444,6 @@ https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-630fa9e577ec3866def38fa2.m3u8
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-68b9f334fc12601028c5651e.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Wired2Fish
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-608a2c722957c9002c6a617b.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",UFC
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-66ccae1a78822c7edc4b6df1.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",TNA Wrestling Channel
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-606605549dbfca002d2ae873.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",The World Poker Tour
@@ -8462,8 +8464,6 @@ https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-60afc726623f2f002c5bb49f.m3u8
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-643f0ecd76de2b4015ae6c01.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Monster Jam
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6615885e1eabecf2c9d56495.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",K-Baseball TV
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-682dff1fdfc9c452b8f9842a.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",FTF Sports
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-605a309dc5acdc002c7a20aa.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Fight Network
