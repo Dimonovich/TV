@@ -60,16 +60,16 @@ http://live-3.otcnet.ru/nashatema/index.m3u8
 http://live-3.otcnet.ru/pskov/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Спортивный
 http://live-3.otcnet.ru/sportivny/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵",BETKING LIVE 1
-https://betkinglive.online/betking/video.m3u8
-#EXTINF:-1 group-title="TEST ⓵",BETKING LIVE 2
-https://betkinglive.online/betking2/video.m3u8
-#EXTINF:-1 group-title="TEST ⓵",BETKING LIVE 3
-https://betkinglive.online/betking3/video.m3u8
-#EXTINF:-1 group-title="TEST ⓵",BETKING LIVE 4
-https://betkinglive.online/betking4/video.m3u8
-#EXTINF:-1 group-title="TEST ⓵",BETKING LIVE 5
-https://betkinglive.online/betking5/video.m3u8
+#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/0NnqZW7R/1.jpg",BETKING LIVE 1
+https://betkinglive.online/betking/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/0NnqZW7R/1.jpg",BETKING LIVE 2
+https://betkinglive.online/betking2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/0NnqZW7R/1.jpg",BETKING LIVE 3
+https://betkinglive.online/betking3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/0NnqZW7R/1.jpg",BETKING LIVE 4
+https://betkinglive.online/betking4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/0NnqZW7R/1.jpg",BETKING LIVE 5
+https://betkinglive.online/betking5/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TEST ⓵",CGTN Русский
 https://english-livetx.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802_hd.m3u8
 #EXTINF:-1 group-title="TEST ⓵", Оружие 
