@@ -27,34 +27,49 @@ http://dtv.vol.net.ua/BCU-Fantastic-HD/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵",BCU Kinorating HD
 http://dtv.vol.net.ua/BCU-Kinorating-HD/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Quadro 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15
 http://tv.teamm.workers.dev/ch629/tv.m3u8?tv=team
 #EXTINF:-1 group-title="TEST ⓵",Home 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
 http://tv.teamm.workers.dev/ch630/tv.m3u8?tv=team
 #EXTINF:-1 group-title="TEST ⓵",Insight UHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
 http://tv.teamm.workers.dev/ch627/tv.m3u8?tv=team
 #EXTINF:-1 group-title="TEST ⓵",Глазами туриста 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
 http://tv.teamm.workers.dev/ch626/tv.m3u8?tv=team
 #EXTINF:-1 group-title="TEST ⓵", Discovery Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15
 http://tv.teamm.workers.dev/ch1170/tv.m3u8?tv=team
 #EXTINF:-1 group-title="TEST ⓵", Приключения HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
 http://tv.teamm.workers.dev/ch1174/tv.m3u8?tv=team
 #EXTINF:-1 group-title="TEST ⓵", H2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15
 http://tv.teamm.workers.dev/ch1178/tv.m3u8?tv=team
 #EXTINF:-1 group-title="TEST ⓵",MM Открытия HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
 http://tv.teamm.workers.dev/ch1214/tv.m3u8?tv=team
 #EXTINF:-1 group-title="TEST ⓵",MM Live Planet HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0
 http://tv.teamm.workers.dev/ch1256/tv.m3u8?tv=team
 #EXTINF:-1 group-title="TEST ⓵",Yosso TV Travel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0
 http://tv.teamm.workers.dev/ch1225/tv.m3u8?tv=team
 #EXTINF:-1 group-title="TEST ⓵",BOX Travel HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
 http://tv.teamm.workers.dev/ch1221/tv.m3u8?tv=team
 #EXTINF:-1 group-title="TEST ⓵",Sky High Doc HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1
 http://tv.teamm.workers.dev/ch1216/tv.m3u8?tv=team
 #EXTINF:-1 group-title="TEST ⓵",Liberty Наука HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
 http://tv.teamm.workers.dev/ch1218/tv.m3u8?tv=team
 #EXTINF:-1 group-title="TEST ⓵",TVPlay Городок HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0
 http://tv.teamm.workers.dev/ch1346/tv.m3u8?tv=team
 #EXTINF:-1 group-title="TEST ⓵",Eurosport 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1
 http://tv.teamm.workers.dev/ch828/tv.m3u8?tv=team
 #EXTINF:-1 group-title="TEST ⓵",Киномикс
 http://93.170.254.17/Kinomiks/tracks-v1a1/mono.ts.m3u8
@@ -522,7 +537,7 @@ https://river-4-442.rtbcdn.ru/hls-vod/xjBkA-PO8Q3HCK_4Et1Mvg/1789412400/1897/0x5
 https://river-4-424.rtbcdn.ru/hls-vod/oWZJ4hQI1TR6o74ADqoD7w/1789412400/1780/0x5000c500c3527c11/cad2b76eaaa84797b8543b7cae4ac2f1.mp4.m3u8?i=3840x2160_26198
 #EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/61/19/6119d30ed9bd99327dfabed39633b97e.jpg", РАЙСКИЕ МЕСТА НА ЗЕМЛЕ 4K 60fps
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://river-4-444.rtbcdn.ru/hls-vod/8LqH2OnPIKm_yORAzD3neg/1789412401/3270/0x5000c500744761a5/ce1ba50a90b24925a689493496d705d4.mp4.m3u8?i=3840x2160_12559
+https://river-4-444.rtbcdn.ru/hls-vod/8LqH2OnPIKm_yORAzD3neg/1789412401/3270/0x5000c500744761a5/ce1ba50a90b24925a689493496d705d4.mp4.my3u8?i=3840x2160_12559
 #EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/d9/e3/d9e35dc3b656decefb87bed06d3cc00f.jpg", 4K HDR 60FPS Dolby Vision
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0
 https://river-4-448.rtbcdn.ru/hls-vod/Bggz_ATgNcxoDjr37VkWDA/1789412402/2722/0x5000039ce8339e5d/2692352188cf4c0b98884a884aadbd50.mp4.m3u8?i=3840x2160_20589
