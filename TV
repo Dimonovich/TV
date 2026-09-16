@@ -688,6 +688,57 @@ https://river-4-456.rtbcdn.ru/hls-vod/g_15OR7tUCu1Tm58dSHxUg/1789412452/2656/0x5
 
 
 
+#EXTINF:-1 group-title="Линкинтел",Рен ТВ
+http://194.152.35.17/ren_tv/index.m3u8
+#EXTINF:-1 group-title="Линкинтел",Россия 1
+http://194.152.35.17/rossiya_1/index.m3u8
+#EXTINF:-1 group-title="Линкинтел",НТВ
+http://194.152.35.17/ntv/index.m3u8
+#EXTINF:-1 group-title="Линкинтел",ТНТ
+http://194.152.35.17/tnt/index.m3u8
+#EXTINF:-1 group-title="Линкинтел",ТНТ4
+http://194.152.35.17/tnt4/index.m3u8
+#EXTINF:-1 group-title="Линкинтел",2x2
+http://194.152.35.17/2x2/index.m3u8
+#EXTINF:-1 group-title="Линкинтел",Пятый канал
+http://194.152.35.17/5-kanal/index.m3u8
+#EXTINF:-1 group-title="Линкинтел",Amedia Hit
+http://194.152.35.17/amedia-hit/index.m3u8
+#EXTINF:-1 group-title="Линкинтел",Че
+http://194.152.35.17/che/index.m3u8
+#EXTINF:-1 group-title="Линкинтел",Cinema
+http://194.152.35.17/cinema/index.m3u8
+#EXTINF:-1 group-title="Линкинтел",Дом Кино Премиум HD
+http://194.152.35.17/dom-kino-premium-hd/index.m3u8
+#EXTINF:-1 group-title="Линкинтел",Кино ТВ
+http://194.152.35.17/kino-tv/index.m3u8
+#EXTINF:-1 group-title="Линкинтел",ОТР
+http://194.152.35.17/otr/index.m3u8
+#EXTINF:-1 group-title="Линкинтел",Пятница
+http://194.152.35.17/Pyatnica/index.m3u8
+#EXTINF:-1 group-title="Линкинтел",СТС
+http://194.152.35.17/sts/index.m3u8
+#EXTINF:-1 group-title="Линкинтел",ТВЦ
+http://194.152.35.17/tvc/index.m3u8
+#EXTINF:-1 group-title="Линкинтел",Ю
+http://194.152.35.17/yu/index.m3u8
+#EXTINF:-1 group-title="Линкинтел",Звезда 
+http://194.152.35.17/zvezda/index.m3u8
+#EXTINF:-1 group-title="Линкинтел",Мама
+http://194.152.35.17/mama/index.m3u8
+#EXTINF:-1 group-title="Линкинтел",Мульт
+http://194.152.35.17/Mult/index.m3u8
+#EXTINF:-1 group-title="Линкинтел",Ani
+http://194.152.35.17/ani/index.m3u8
+#EXTINF:-1 group-title="Линкинтел",Карусель 
+http://194.152.35.17/Karusel/index.m3u8
+#EXTINF:-1 group-title="Линкинтел",Матч ТВ
+http://194.152.35.17/match/index.m3u8
+
+
+
+
+
 #EXTINF:-1 group-title="Interhost", Первый канал
 http://89.33.29.115:8080/Pervikanal/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Interhost", РОССИЯ 1
