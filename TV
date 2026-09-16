@@ -38,6 +38,16 @@ http://45.132.87.69:8080/match/index.m3u8
 https://iptv.itv.uz/hls/live/t/Yv8TO7PtCQ-DJIbxOr9N_g/e/1799038269/4000/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/MTbNhVZc/i-TV-Music-Logo.png",ITV Music
 https://iptv.itv.uz/hls/live/t/iR8iDnzqJIQrEetuXnP3iA/e/1799038327/4001/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵",GrandF TV Fantazy
+http://62.141.35.207:8080/fantazy/video.m3u8?token=WDJ_ON27CzbeN2
+#EXTINF:-1 group-title="TEST ⓵",GrandF TV Thriller
+http://62.141.35.207:8080/triller/video.m3u8?token=WDJ_ON27CzbeN2
+#EXTINF:-1 group-title="TEST ⓵",GrandF TV Comedy
+http://62.141.35.207:8080/comedy/video.m3u8?token=WDJ_ON27CzbeN2
+#EXTINF:-1 group-title="TEST ⓵",GrandF TV Action HD
+http://62.141.35.207:8080/action/video.m3u8?token=WDJ_ON27CzbeN2
+#EXTINF:-1 group-title="TEST ⓵",GrandF TV Масяня
+http://62.141.35.207:8080/masiana/video.m3u8?token=WDJ_ON27CzbeN2
 #EXTINF:-1 group-title="TEST ⓵",Матч! Страна
 http://ukr.ukrainske.tv/134/keytvainua/video.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Viasat Kino Comedy
