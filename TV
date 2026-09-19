@@ -92,6 +92,20 @@ https://api-tv.ipnet.ua/api/v1/manifest/2118742505.m3u8
 https://api-tv.ipnet.ua/api/v1/manifest/2118742680.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Армія ТБ
 https://api-tv.ipnet.ua/api/v1/manifest/2118742632.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Матч! Футбол 1
+http://31.148.5.241/Match_Football_1_HD/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Матч! Футбол 2
+http://31.148.5.241/Match_Football_2_HD/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Матч! Футбол 3
+http://31.148.5.241/Match_Football_3_HD/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Viasat Sport
+http://31.148.5.241/Viasat_Sport/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Eurosport 1 HD
+http://31.148.5.241/Eurosport_1_HD/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Eurosport 2 HD
+http://31.148.5.241/Eurosport_2_HD/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Спас
+http://31.148.5.241/kanal_12/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/ac0caef9123a35df3b884b139340a597/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1783457806003_cw_presents_wwe_nxt_logo_hud.png",CW Presents WWE NXT
 https://jmp2.uk/rok-ac0caef9123a35df3b884b139340a597.m3u8
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4500001A5_20260422T013953SQUARE.png" ,tvN 환혼 4K
@@ -102,8 +116,9 @@ https://jmp2.uk/stvp-USBA3400003IP
 https://jmp2.uk/stvp-KRBB500039Y5
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/IRIB_FARATAR_UHD.png/960px-IRIB_FARATAR_UHD.png" ,IRIB UHD
 https://ncdn.telewebion.ir/faratar/live/2160p/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵".Eurosport 4k
+#EXTINF:-1 group-title="TEST ⓵",Eurosport 4k
 http://88.212.15.19/live/esp_4k_atk/playlist.m3u8
+
 
 
 
