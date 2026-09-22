@@ -866,7 +866,7 @@ http://89.33.29.115:8080/24Dok/tracks-v1a1/mono.m3u8
 http://89.33.29.115:8080/Ohotnik_i_Ryibolov_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Interhost", Планета HD
 http://89.33.29.115:8080/IQ_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Eureka HD
+#EXTINF:-1 group-title="Interhost", Первый космический
 http://89.33.29.115:8080/Eureka_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Interhost", Глазами туриста HD
 http://89.33.29.115:8080/Glazami_turista_HD/tracks-v1a1/mono.m3u8
@@ -956,11 +956,9 @@ http://89.33.29.115:8080/Paramount_Comedy/tracks-v1a1/mono.m3u8
 http://89.33.29.115:8080/StrashnoeHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Interhost", СТРАХ HD
 http://89.33.29.115:8080/strah_hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Л
-http://89.33.29.115:8080/UFC_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Interhost", ViP Megahit HD
 http://89.33.29.115:8080/TV1000_Megahit_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", ViP Premium HD
+#EXTINF:-1 group-title="Interhost", ViP Premiere HD
 http://89.33.29.115:8080/TV1000_Premium_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Interhost", ViP Comedy HD
 http://89.33.29.115:8080/TV1000_Comedy_HD/tracks-v1a1/mono.m3u8
@@ -1066,7 +1064,7 @@ http://89.33.29.115:8080/JimJam/tracks-v1a1/mono.m3u8
 http://89.33.29.115:8080/mama_tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Interhost", Ani
 http://89.33.29.115:8080/ani/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Baby TV
+#EXTINF:-1 group-title="Interhost", Baby Time
 http://89.33.29.115:8080/Baby_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Interhost", Солнце
 http://89.33.29.115:8080/Disney_rus/tracks-v1a1/mono.m3u8
@@ -1084,7 +1082,7 @@ http://89.33.29.115:8080/Nickelodeon/tracks-v1a1/mono.m3u8
 http://89.33.29.115:8080/maestro/mono.m3u8
 #EXTINF:-1 group-title="Interhost", Classic Music HD
 http://89.33.29.115:8080/c-music/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", 360TuneBox
+#EXTINF:-1 group-title="Interhost", Musicbox Gold
 http://89.33.29.115:8080/360TuneBox/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Interhost", Шансон ТВ
 http://89.33.29.115:8080/ShansonTV/tracks-v1a1/mono.m3u8
@@ -1106,8 +1104,8 @@ http://89.33.29.115:8080/1HD/tracks-v1a1/mono.m3u8
 http://89.33.29.115:8080/MCM/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Interhost", ТНТ MUSIC
 http://89.33.29.115:8080/TNT_Music/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆", Футбол
-http://89.33.29.115:8080/Futbol/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆", Удар
+http://89.33.29.115:8080/UFC_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆", Матч! HD
 http://89.33.29.115:8080/Match_TV_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆", КХЛ HD
@@ -1124,7 +1122,7 @@ http://89.33.29.115:8080/Evrosport_2/tracks-v1a1/mono.m3u8
 http://89.33.29.115:8080/Match_Arena/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆", МАТЧ! ИГРА HD
 http://89.33.29.115:8080/Match_Igra_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆", МАТЧ ПРЕМЬЕР
+#EXTINF:-1 group-title="Спорткомплекс 🏆", МАТЧ Планета
 http://89.33.29.115:8080/Match_Planeta/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆", МАТЧ ПРЕМЬЕР HD
 http://89.33.29.115:8080/Nash_futbol_HD/tracks-v1a1/mono.m3u8
