@@ -1122,7 +1122,7 @@ http://89.33.29.115:8080/Evrosport_2/tracks-v1a1/mono.m3u8
 http://89.33.29.115:8080/Match_Arena/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆", МАТЧ! ИГРА HD
 http://89.33.29.115:8080/Match_Igra_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆", МАТЧ Планета
+#EXTINF:-1 group-title="Спорткомплекс 🏆", МАТЧ! Планета
 http://89.33.29.115:8080/Match_Planeta/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆", МАТЧ ПРЕМЬЕР HD
 http://89.33.29.115:8080/Nash_futbol_HD/tracks-v1a1/mono.m3u8
@@ -1509,23 +1509,23 @@ http://195.64.140.147:10135/135
 http://195.64.140.147:10136/136
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Матч ТВ
 http://195.64.140.147:10003/993
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч Арена
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Арена
 http://195.64.140.147:10096/96
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч Боец
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Боец
 http://195.64.140.147:10097/97
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Sport 5
 http://195.64.140.147:10098/98
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч Страна
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Страна
 http://195.64.140.147:10099/99
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч Футбол 1 HD
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Футбол 1 HD
 http://195.64.140.147:10100/100
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч Футбол 2 HD
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Футбол 2 HD
 http://195.64.140.147:10101/101
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч Футбол 3 HD
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Футбол 3 HD
 http://195.64.140.147:10102/102
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч Премьер HD
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Премьер HD
 http://195.64.140.147:10103/99103
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч Планета
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Планета
 http://195.64.140.147:10104/104
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Матч HD
 http://195.64.140.147:10105/105
@@ -7635,6 +7635,12 @@ http://127.0.0.1:6878/ace/getstream?infohash=0390d25613134c79f2126ac383a6ebf0a79
 http://127.0.0.1:6878/ace/getstream?infohash=365499a0980375801f50364f480c69c899e36875
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",2+2 HD UA
 http://127.0.0.1:6878/ace/getstream?infohash=dcb89a23f3eb7b0b4ecbfb013e67fc0517b310eb
+#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",К1 HD
+http://127.0.0.1:6878/ace/getstream?infohash=3d478b0441411bdeb1545a9dc1f0f94dbbd79356
+#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",К2 HD
+http://127.0.0.1:6878/ace/getstream?infohash=6ee9aee20ce91fd339f7ccade19a976076788e59
+#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Iнтер
+http://127.0.0.1:6878/ace/getstream?infohash=24aee1a36aa78d36d327585f6ac55d6a47b17ab8
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Enter-фільм HD UA
 http://127.0.0.1:6878/ace/getstream?infohash=39a3275a405cf97ebe4682c6af262e80df2a82e9
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Joker Fantastika
