@@ -721,6 +721,8 @@ https://river-4-456.rtbcdn.ru/hls-vod/UfEJs3iJUwaY_W0phXQyMw/1790441245/2656/0x5
 http://185.195.184.30:8000/play/a0ib/index.m3u8
 #EXTINF:-1 group-title="HARTUM TV SRL",РЕН ТВ
 http://185.195.184.30:8000/play/a0ig/index.m3u8
+#EXTINF:-1 group-title="HARTUM TV SRL",РенТВ Молдова
+http://185.195.184.30:8000/play/a0ll/index.m3u8
 #EXTINF:-1 group-title="HARTUM TV SRL",Россия 1
 http://185.195.184.30:8000/play/a0ic/index.m3u8
 #EXTINF:-1 group-title="HARTUM TV SRL",ТНТ
@@ -810,7 +812,7 @@ http://185.195.184.30:8000/play/a0d8/index.m3u8
 http://185.195.184.30:8000/play/a0d7/index.m3u8
 #EXTINF:-1 group-title="HARTUM TV SRL",9 Волна
 http://185.195.184.30:8000/play/a0m5/index.m3u8
-#EXTINF:-1 group-title="HARTUM TV SRL",ABTO24
+#EXTINF:-1 group-title="HARTUM TV SRL",ABTO 24
 http://185.195.184.30:8000/play/a0bk/index.m3u8
 #EXTINF:-1 group-title="HARTUM TV SRL",Amedia Premium HD
 http://185.195.184.30:8000/play/a0fa/index.m3u8
@@ -822,12 +824,8 @@ http://185.195.184.30:8000/play/a0g9/index.m3u8
 http://185.195.184.30:8000/play/a0hd/index.m3u8
 #EXTINF:-1 group-title="HARTUM TV SRL",KinoLiving
 http://185.195.184.30:8000/play/a0e8/index.m3u8
-#EXTINF:-1 group-title="HARTUM TV SRL",O2TV
-http://185.195.184.30:8000/play/a0kn/index.m3u8
 #EXTINF:-1 group-title="HARTUM TV SRL",Plan B HD
 http://185.195.184.30:8000/play/a0kf/index.m3u8
-#EXTINF:-1 group-title="HARTUM TV SRL",Ren Moldova
-http://185.195.184.30:8000/play/a0ll/index.m3u8
 #EXTINF:-1 group-title="HARTUM TV SRL",Star Cinema
 http://185.195.184.30:8000/play/a0l2/index.m3u8
 #EXTINF:-1 group-title="HARTUM TV SRL",viju+ Comedy
@@ -906,6 +904,8 @@ http://185.195.184.30:8000/play/a0dj/index.m3u8
 http://185.195.184.30:8000/play/a0mc/index.m3u8
 #EXTINF:-1 group-title="HARTUM TV SRL",RU.TV
 http://185.195.184.30:8000/play/a0bs/index.m3u8
+#EXTINF:-1 group-title="HARTUM TV SRL",о2тв
+http://185.195.184.30:8000/play/a0kn/index.m3u8
 #EXTINF:-1 group-title="HARTUM TV SRL",ТНТ MUSIC
 http://185.195.184.30:8000/play/a0dn/index.m3u8
 #EXTINF:-1 group-title="HARTUM TV SRL",Шансон ТВ
@@ -924,7 +924,7 @@ http://185.195.184.30:8000/play/a0ma/index.m3u8
 http://185.195.184.30:8000/play/a0c5/index.m3u8
 #EXTINF:-1 group-title="HARTUM TV SRL",Bolt
 http://185.195.184.30:8000/play/a0la/index.m3u8
-#EXTINF:-1 group-title="HARTUM TV SRL",CTC Kids HD
+#EXTINF:-1 group-title="HARTUM TV SRL",СТС Kids
 http://185.195.184.30:8000/play/a0bf/index.m3u8
 #EXTINF:-1 group-title="HARTUM TV SRL",BABY TIME
 http://185.195.184.30:8000/play/a0g2/index.m3u8
@@ -942,49 +942,47 @@ http://185.195.184.30:8000/play/a0mj/index.m3u8
 http://185.195.184.30:8000/play/a0bm/index.m3u8
 #EXTINF:-1 group-title="HARTUM TV SRL",СОЛНЦЕ
 http://185.195.184.30:8000/play/a0hb/index.m3u8
-#EXTINF:-1 group-title="HARTUM TV SRL",МАТЧ ПРЕМЬЕР
+#EXTINF:-1 group-title="Спорткомплекс 🏆",МАТЧ ПРЕМЬЕР
 http://185.195.184.30:8000/play/a00u/index.m3u8
-#EXTINF:-1 group-title="HARTUM TV SRL",МАТЧ! HD
+#EXTINF:-1 group-title="Спорткомплекс 🏆",МАТЧ! HD
 http://185.195.184.30:8000/play/a048/index.m3u8
-#EXTINF:-1 group-title="HARTUM TV SRL",МАТЧ! БОЕЦ
+#EXTINF:-1 group-title="Спорткомплекс 🏆",МАТЧ! БОЕЦ
 http://185.195.184.30:8000/play/a056/index.m3u8
-#EXTINF:-1 group-title="HARTUM TV SRL",МАТЧ! ФУТБОЛ 1
+#EXTINF:-1 group-title="Спорткомплекс 🏆",МАТЧ! ФУТБОЛ 1
 http://185.195.184.30:8000/play/a00m/index.m3u8
-#EXTINF:-1 group-title="HARTUM TV SRL",МАТЧ! ФУТБОЛ 2
+#EXTINF:-1 group-title="Спорткомплекс 🏆",МАТЧ! ФУТБОЛ 2
 http://185.195.184.30:8000/play/a00n/index.m3u8
-#EXTINF:-1 group-title="HARTUM TV SRL",МАТЧ! ФУТБОЛ 3
+#EXTINF:-1 group-title="Спорткомплекс 🏆",МАТЧ! ФУТБОЛ 3
 http://185.195.184.30:8000/play/a00o/index.m3u8
-#EXTINF:-1 group-title="HARTUM TV SRL",МАТЧ! АРЕНА
+#EXTINF:-1 group-title="Спорткомплекс 🏆",МАТЧ! АРЕНА
 http://185.195.184.30:8000/play/a0h7/index.m3u8
-#EXTINF:-1 group-title="HARTUM TV SRL",МАТЧ! ИГРА
+#EXTINF:-1 group-title="Спорткомплекс 🏆",МАТЧ! ИГРА
 http://185.195.184.30:8000/play/a0h8/index.m3u8
-#EXTINF:-1 group-title="HARTUM TV SRL",МАТЧ! СТРАНА
+#EXTINF:-1 group-title="Спорткомплекс 🏆",МАТЧ! СТРАНА
 http://185.195.184.30:8000/play/a0h9/index.m3u8
-#EXTINF:-1 group-title="HARTUM TV SRL",Матч ТВ
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч ТВ
 http://185.195.184.30:8000/play/a0id/index.m3u8
-#EXTINF:-1 group-title="HARTUM TV SRL",Eurosport 1
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Eurosport 1
 http://185.195.184.30:8000/play/a0jr/index.m3u8
-#EXTINF:-1 group-title="HARTUM TV SRL",Eurosport 2
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Eurosport 2
 http://185.195.184.30:8000/play/a0js/index.m3u8
-#EXTINF:-1 group-title="HARTUM TV SRL",KHL Prime
+#EXTINF:-1 group-title="Спорткомплекс 🏆",KHL Prime
 http://185.195.184.30:8000/play/a0ef/index.m3u8
-#EXTINF:-1 group-title="HARTUM TV SRL",КХЛ
+#EXTINF:-1 group-title="Спорткомплекс 🏆",КХЛ
 http://185.195.184.30:8000/play/a00y/index.m3u8
-#EXTINF:-1 group-title="HARTUM TV SRL",Viasat Sport
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Viasat Sport
 http://185.195.184.30:8000/play/a02b/index.m3u8
-#EXTINF:-1 group-title="HARTUM TV SRL",Basketball World
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Мир баскетбола
 http://185.195.184.30:8000/play/a014/index.m3u8
-#EXTINF:-1 group-title="HARTUM TV SRL",Extreme Sports
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Extreme Sports
 http://185.195.184.30:8000/play/a02c/index.m3u8
-#EXTINF:-1 group-title="HARTUM TV SRL",GRT
-http://185.195.184.30:8000/play/a09s/index.m3u8
-#EXTINF:-1 group-title="HARTUM TV SRL",MMA-TV
+#EXTINF:-1 group-title="Спорткомплекс 🏆",MMA-TV
 http://185.195.184.30:8000/play/a013/index.m3u8
-#EXTINF:-1 group-title="HARTUM TV SRL",Футбол
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Футбол
 http://185.195.184.30:8000/play/a0ki/index.m3u8
-#EXTINF:-1 group-title="HARTUM TV SRL",БОКС ТВ
+#EXTINF:-1 group-title="Спорткомплекс 🏆",БОКС ТВ
 http://185.195.184.30:8000/play/a0lp/index.m3u8
-#EXTINF:-1 group-title="HARTUM TV SRL",СТАРТ
+#EXTINF:-1 group-title="Спорткомплекс 🏆",СТАРТ
 http://185.195.184.30:8000/play/a0du/index.m3u8
 
 
@@ -8303,6 +8301,7 @@ http://127.0.0.1:6878/ace/getstream?infohash=ce9dfe7efa2fd304947f8b57554a524479b
 http://127.0.0.1:6878/ace/getstream?infohash=ab4f0c0791a41b00cf45e26e3a783314750481ac
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",[magenta] Sport 11 - myTeamTV
 http://127.0.0.1:6878/ace/getstream?infohash=348ef293fa3338b18559c37f96b7ce1861fa4f11
+ 
  
  
  
