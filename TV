@@ -26,32 +26,18 @@ http://109.207.243.18/2/index.m3u8
 http://93.170.254.17/Kinomiks/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Дорама
 https://fs.uplink.kz/dorama/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1 group-title="TEST ⓵",Cartoon Network
-http://45.132.87.69:8080/cartoon_network/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Матч ТВ
 http://45.132.87.69:8080/match/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/J4wRwcQn/i-TV-Cinema-Logo.png",ITV Cinema
 https://iptv.itv.uz/hls/live/t/Yv8TO7PtCQ-DJIbxOr9N_g/e/1799038269/4000/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/MTbNhVZc/i-TV-Music-Logo.png",ITV Music
 https://iptv.itv.uz/hls/live/t/iR8iDnzqJIQrEetuXnP3iA/e/1799038327/4001/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵",GrandF TV Fantazy
-http://62.141.35.207:8080/fantazy/video.m3u8?token=WDJ_ON27CzbeN2
-#EXTINF:-1 group-title="TEST ⓵",GrandF TV Thriller
-http://62.141.35.207:8080/triller/video.m3u8?token=WDJ_ON27CzbeN2
-#EXTINF:-1 group-title="TEST ⓵",GrandF TV Comedy
-http://62.141.35.207:8080/comedy/video.m3u8?token=WDJ_ON27CzbeN2
-#EXTINF:-1 group-title="TEST ⓵",GrandF TV Action HD
-http://62.141.35.207:8080/action/video.m3u8?token=WDJ_ON27CzbeN2
-#EXTINF:-1 group-title="TEST ⓵",GrandF TV Масяня
-http://62.141.35.207:8080/masiana/video.m3u8?token=WDJ_ON27CzbeN2
 #EXTINF:-1 group-title="TEST ⓵",Матч! Страна
 http://ukr.ukrainske.tv/134/keytvainua/video.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Viasat Kino Comedy
 http://ukr.ukrainske.tv/493/keytvainua/video.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Загородная жизнь
 http://185.57.68.33/40/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Матч! футбол 3
-http://185.57.68.33/110/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵",ДимГрад 24
 http://live-3.otcnet.ru/dimgrad/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Наша тема
@@ -810,7 +796,7 @@ http://185.195.184.30:8000/play/a0d8/index.m3u8
 http://185.195.184.30:8000/play/a0d7/index.m3u8
 #EXTINF:-1 group-title="HARTUM TV SRL",9 Волна
 http://185.195.184.30:8000/play/a0m5/index.m3u8
-#EXTINF:-1 group-title="HARTUM TV SRL",ABTO 24
+#EXTINF:-1 group-title="HARTUM TV SRL",Авто 24
 http://185.195.184.30:8000/play/a0bk/index.m3u8
 #EXTINF:-1 group-title="HARTUM TV SRL",Amedia Premium HD
 http://185.195.184.30:8000/play/a0fa/index.m3u8
