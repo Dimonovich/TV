@@ -699,66 +699,87 @@ https://river-4-456.rtbcdn.ru/hls-vod/UfEJs3iJUwaY_W0phXQyMw/1790441245/2656/0x5
 
 
 
-#EXTINF:-1 group-title="INTERNET MEDIA", Приключения HD
+
+
+
+#EXTINF:-1 group-title="Ott Club+Реклама",Приключения HD
 http://stream.mcquack.net/198/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="INTERNET MEDIA", National Geographic 
-http://stream.mcquack.net/116/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1
-#EXTINF:-1 group-title="INTERNET MEDIA",Nat Geo Wild 
-http://stream.mcquack.net/149/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1
-#EXTINF:-1 group-title="INTERNET MEDIA", Discovery Channel 
-http://stream.mcquack.net/177/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1
-#EXTINF:-1 group-title="INTERNET MEDIA", Investigation Discovery 
-http://stream.mcquack.net/205/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1
-#EXTINF:-1 group-title="INTERNET MEDIA",Моя стихия
-http://stream.mcquack.net/141/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1
-#EXTINF:-1 group-title="INTERNET MEDIA",TLC
-http://stream.mcquack.net/168/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1
-#EXTINF:-1 group-title="INTERNET MEDIA", Cinema 
-http://stream.mcquack.net/62/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1
-#EXTINF:-1 group-title="INTERNET MEDIA", Кинопоказ
-http://stream.mcquack.net/64/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1
-#EXTINF:-1 group-title="INTERNET MEDIA",.red
-http://stream.mcquack.net/69/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1
-#EXTINF:-1 group-title="INTERNET MEDIA",Комедийное HD
-http://stream.mcquack.net/74/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1
-#EXTINF:-1 group-title="INTERNET MEDIA",Остросюжетное HD
-http://stream.mcquack.net/214/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1
-#EXTINF:-1 group-title="INTERNET MEDIA",2x2
-http://stream.mcquack.net/187/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1
-#EXTINF:-1 group-title="INTERNET MEDIA",Кино ТВ
-http://stream.mcquack.net/221/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1
-#EXTINF:-1 group-title="INTERNET MEDIA",Капитан фантастика 
-http://stream.mcquack.net/144/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1
-#EXTINF:-1 group-title="INTERNET MEDIA",Amedia Premium 
-http://stream.mcquack.net/151/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1
-#EXTINF:-1 group-title="INTERNET MEDIA",Amedia Hit
-http://stream.mcquack.net/162/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1
-#EXTINF:-1 group-title="INTERNET MEDIA",.Sci-Fi
-http://stream.mcquack.net/180/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1
-#EXTINF:-1 group-title="INTERNET MEDIA",Jim Jam
-http://stream.mcquack.net/150/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1
-#EXTINF:-1 group-title="INTERNET MEDIA",Bolt
-http://stream.mcquack.net/73/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1
-#EXTINF:-1 group-title="INTERNET MEDIA",В гостях у сказки 
-http://stream.mcquack.net/93/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1
-#EXTINF:-1 group-title="INTERNET MEDIA",Tiji
-http://stream.mcquack.net/111/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1
-#EXTINF:-1 group-title="INTERNET MEDIA",Amedia 1
-http://stream.mcquack.net/117/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1
-#EXTINF:-1 group-title="INTERNET MEDIA", Солнце 
-http://stream.mcquack.net/118/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1
-#EXTINF:-1 group-title="INTERNET MEDIA",Европа плюс тв
-http://stream.mcquack.net/184/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1
-#EXTINF:-1 group-title="INTERNET MEDIA",МузТВ
-http://stream.mcquack.net/86/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1
-#EXTINF:-1 group-title="INTERNET MEDIA",Bridge HD
-http://stream.mcquack.net/92/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1
-#EXTINF:-1 group-title="INTERNET MEDIA",Qazsport
-http://stream.mcquack.net/72/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1
-#EXTINF:-1 group-title="INTERNET MEDIA",Eurosport 1
-http://stream.mcquack.net/176/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1
-#EXTINF:-1 group-title="INTERNET MEDIA",Eurosport 2
-http://stream.mcquack.net/192/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1
+#EXTINF:-1 group-title="Ott Club+Реклама",National Geographic 
+http://stream.mcquack.net/116/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Nat Geo Wild 
+http://stream.mcquack.net/149/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Discovery Channel 
+http://stream.mcquack.net/177/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Investigation Discovery 
+http://stream.mcquack.net/205/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Моя стихия
+http://stream.mcquack.net/141/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Трофей
+http://stream.mcquack.net/357/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",TLC
+http://stream.mcquack.net/168/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Cinema 
+http://stream.mcquack.net/62/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Кинопоказ
+http://stream.mcquack.net/64/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Комедийное HD
+http://stream.mcquack.net/74/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Премиальное HD
+http://stream.mcquack.net/214/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Хит HD
+http://stream.mcquack.net/363/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Премиальное HD
+http://stream.mcquack.net/364/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",2x2
+http://stream.mcquack.net/187/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Hollywood HD
+http://stream.mcquack.net/268/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Fan HD
+http://stream.mcquack.net/420/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Кино ТВ
+http://stream.mcquack.net/221/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Amedia 1
+http://stream.mcquack.net/117/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Amedia Premium 
+http://stream.mcquack.net/151/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Amedia Hit
+http://stream.mcquack.net/162/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Капитан фантастика 
+http://stream.mcquack.net/144/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Jim Jam
+http://stream.mcquack.net/150/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Солнце 
+http://stream.mcquack.net/118/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",.red
+http://stream.mcquack.net/69/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Sci-Fi
+http://stream.mcquack.net/180/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",.Black 
+http://stream.mcquack.net/263/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",МузТВ
+http://stream.mcquack.net/86/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Bridge HD
+http://stream.mcquack.net/92/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Bridge TV
+http://stream.mcquack.net/318/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Bridge TV Classic
+http://stream.mcquack.net/272/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Европа плюс тв
+http://stream.mcquack.net/184/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",В гостях у сказки 
+http://stream.mcquack.net/93/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Tiji
+http://stream.mcquack.net/111/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Gulli Girl
+http://stream.mcquack.net/111/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Bolt
+http://stream.mcquack.net/73/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Qazsport
+http://stream.mcquack.net/72/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Eurosport 1
+http://stream.mcquack.net/176/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Eurosport 2
+http://stream.mcquack.net/192/tracks-v1a1/mono.ts.m3u8
 
 
 
