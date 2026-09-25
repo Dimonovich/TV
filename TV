@@ -700,7 +700,7 @@ https://river-4-456.rtbcdn.ru/hls-vod/UfEJs3iJUwaY_W0phXQyMw/1790441245/2656/0x5
 
 
 #EXTINF:-1 group-title="INTERNET MEDIA", Приключения HD
-http://stream.mcquack.net/198/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1
+http://stream.mcquack.net/198/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="INTERNET MEDIA", National Geographic 
 http://stream.mcquack.net/116/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1
 #EXTINF:-1 group-title="INTERNET MEDIA",Nat Geo Wild 
@@ -721,7 +721,7 @@ http://stream.mcquack.net/64/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1
 http://stream.mcquack.net/69/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1
 #EXTINF:-1 group-title="INTERNET MEDIA",Комедийное HD
 http://stream.mcquack.net/74/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1
-#EXTINF:-1 group-title="INTERNET MEDIA",Премиальное HD
+#EXTINF:-1 group-title="INTERNET MEDIA",Остросюжетное HD
 http://stream.mcquack.net/214/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1
 #EXTINF:-1 group-title="INTERNET MEDIA",2x2
 http://stream.mcquack.net/187/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1
@@ -733,7 +733,7 @@ http://stream.mcquack.net/144/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1
 http://stream.mcquack.net/151/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1
 #EXTINF:-1 group-title="INTERNET MEDIA",Amedia Hit
 http://stream.mcquack.net/162/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1
-#EXTINF:-1 group-title="INTERNET MEDIA",Sci-Fi
+#EXTINF:-1 group-title="INTERNET MEDIA",.Sci-Fi
 http://stream.mcquack.net/180/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1
 #EXTINF:-1 group-title="INTERNET MEDIA",Jim Jam
 http://stream.mcquack.net/150/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1
