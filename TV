@@ -946,6 +946,67 @@ http://stream.mcquack.net/192/tracks-v1a1/mono.ts.m3u8
 
 
 
+
+
+
+
+
+#EXTINF:-1 group-title="Агронет",Первый Канал
+http://195.26.83.96:7013/play/12/index.m3u8
+#EXTINF:-1 group-title="Агронет",Россия 1
+http://195.26.83.96:7013/play/13/index.m3u8
+#EXTINF:-1 group-title="Агронет",Москва 24
+http://195.26.83.96:7007/play/a008/index.m3u8
+#EXTINF:-1 group-title="Агронет",Viasat Nature
+http://195.26.83.96:7013/play/37/index.m3u8
+#EXTINF:-1 group-title="Агронет",Тайны Галактики
+http://195.26.83.96:7007/play/a00j/index.m3u8
+#EXTINF:-1 group-title="Агронет",Доктор
+http://195.26.83.96:7009/play/a00k/index.m3u8
+#EXTINF:-1 group-title="Агронет",RTG TV
+http://195.26.83.96:7007/play/a00n/index.m3u8
+#EXTINF:-1 group-title="Агронет",Детский мир
+http://195.26.83.96:7007/play/14/index.m3u8
+#EXTINF:-1 group-title="Агронет",Загородная жизнь
+http://195.26.83.96:7007/play/10/index.m3u8
+#EXTINF:-1 group-title="Агронет",Мужской
+http://195.26.83.96:7007/play/11/index.m3u8
+#EXTINF:-1 group-title="Агронет",Известия
+http://195.26.83.96:7009/play/a00j/index.m3u8
+#EXTINF:-1 group-title="Агронет",Че
+http://195.26.83.96:7009/play/89/index.m3u8
+#EXTINF:-1 group-title="Агронет",RT DOC HD
+http://195.26.83.96:7017/play/a00t/index.m3u8
+#EXTINF:-1 group-title="Агронет",Суббота
+http://195.26.83.96:7013/play/a00e/index.m3u8
+#EXTINF:-1 group-title="Агронет",о2тв
+http://195.26.83.96:7006/play/1/index.m3u8
+#EXTINF:-1 group-title="Агронет",Русский Иллюзион
+http://195.26.83.96:7006/play/a00y/index.m3u8
+#EXTINF:-1 group-title="Агронет",Дом кино
+http://195.26.83.96:7005/play/a00o/index.m3u8
+#EXTINF:-1 group-title="Агронет",Кинохит HD
+http://195.26.83.96:7005/play/a00m/index.m3u8
+#EXTINF:-1 group-title="Агронет",Русский Роман
+http://195.26.83.96:7005/play/a00n/index.m3u8
+#EXTINF:-1 group-title="Агронет",Театр
+http://195.26.83.96:7005/play/16/index.m3u8
+#EXTINF:-1 group-title="Агронет",СТС Kids
+http://195.26.83.96:7006/play/a00z/index.m3u8
+#EXTINF:-1 group-title="Агронет",Бобёр
+http://195.26.83.96:7005/play/a00p/index.m3u8
+#EXTINF:-1 group-title="Агронет",BRIDGE TV
+http://195.26.83.96:7007/play/a00m/index.m3u8
+#EXTINF:-1 group-title="Агронет",Шансон ТВ
+http://195.26.83.96:7005/play/a00l/index.m3u8
+#EXTINF:-1 group-title="Агронет",КХЛ ТВ
+http://195.26.83.96:7007/play/4/index.m3u8
+#EXTINF:-1 group-title="Агронет",Viasat Sport
+http://195.26.83.96:7013/play/a00f/index.m3u8
+
+
+
+
 #EXTINF:-1 group-title="Велком",Ultra 4K Extreme
 http://46.53.200.153:7777/play/test_krask1/index.m3u8
 #EXTINF:-1 group-title="Велком",viju Explore
