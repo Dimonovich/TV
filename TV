@@ -8006,9 +8006,8 @@ https://v2.catcast.tv/content/40546/index.m3u8
 
 
 
-
-
-#EXTM3U
+#EXTINF:-1 group-title="Кинозалы 🍿 (VPN)" tvg-logo="https://kinowalk.hopto.org/static-content/logo/343?unique=2026-07-28+12%3A07%3A52.299856&access_token=9c11dbb4-9944-44c9-ba7b-09ce00c885b4",SANSEY_RU
+http://kinowalk.hopto.org/sansey_ru_live
 #EXTINF:-1 group-title="Кинозалы 🍿 (VPN)" tvg-logo="http://kinowalk.hopto.org/static-content/logo/148?unique=2026-02-20+01%3A57%3A49.533570&access_token=1f146571-2fd6-44f5-9534-64f2c358fc2a",Канал Disney Онлайн
 http://kinowalk.hopto.org/kanaldisneyonline_live
 #EXTINF:-1 group-title="Кинозалы 🍿 (VPN)" tvg-logo="http://kinowalk.hopto.org/static-content/logo/160?unique=2026-02-20+01%3A57%3A49.533570&access_token=07a454fd-a3fc-4f16-8042-67fc431210e8",JTX Online
