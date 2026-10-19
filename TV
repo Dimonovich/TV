@@ -148,15 +148,27 @@ http://194.143.148.28:8080/MCM/tracks-v1a1/mono.m3u8
 http://194.143.148.28:8080/Mir24/mpegts
 #EXTINF:-1 group-title="TEST (VPN)",Аист
 http://194.143.148.28:8080/Aist/mpegts
-#EXTINF:-1 group-title="TEST (VPN)", Discovery Channel HD
-http://5.188.159.128:8070/DiscoveryChannel/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)", Киносвидание
+#EXTINF:-1 group-title="TEST (VPN)",ТВЦ
+https://fs.uplink.kz/tvc/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="TEST (VPN)",КВН ТВ
+https://fs.uplink.kz/kvn_tv/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="TEST (VPN)",Дорама
+https://fs.uplink.kz/dorama/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="TEST (VPN)",Qazaqstan KZ
+https://fs.uplink.kz/qazaqstan/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="TEST (VPN)",Baby time
+https://fs.uplink.kz/baby_time/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="TEST (VPN)",Киносерия
+https://fs.uplink.kz/kinoseria/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="TEST (VPN)",Киносвидание
 http://5.188.159.128:8070/kinosvidanie/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)", Мир 24
+#EXTINF:-1 group-title="TEST (VPN)",Discovery Channel HD
+http://5.188.159.128:8070/DiscoveryChannel/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Мир 24
 http://5.188.159.128:8070/mir_24/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)", Cartoon Network
+#EXTINF:-1 group-title="TEST (VPN)",Cartoon Network
 http://5.188.159.128:8070/Cartoon_Network/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)" ,Bridge TV Hits
+#EXTINF:-1 group-title="TEST (VPN)",Bridge TV Hits
 http://5.188.159.128:8070/Bridge_TV_Hits/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",Eurosport 1
 http://5.188.159.128:8070/eurosport1/index.m3u8
