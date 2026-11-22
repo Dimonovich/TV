@@ -20,6 +20,10 @@ http://194.26.229.213/chdtv_rock/index.m3u8
 http://194.26.229.213/souzmultfilm/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/BvqS8HVV/1.png",Чип и Дейл
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/cJpG67kN/unnamed.png",Big Bug Bunny
+https://video1.getstreamhosting.com:1936/8006/8006/playlist.m3u8
+#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/3rZzHHh0/1.png",Tom and Jerry
+https://183.giatvcdn.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Россия 1
 http://109.207.243.18/2/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Киномикс
