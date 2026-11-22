@@ -24,6 +24,16 @@ http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 https://video1.getstreamhosting.com:1936/8006/8006/playlist.m3u8
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/3rZzHHh0/1.png",Tom and Jerry
 https://183.giatvcdn.com/giatvplayout7/giatv-208314/playlist.m3u8
+#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/P5MBds1G/1.png", ЗОВ ТВ
+https://183.giatvcdn.com/giatv/giatv-tvzovlivestream/tvzovlivestream/playlist.m3u8
+#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/bY7XTRqB/1.png", ЗОВ ТВ Black
+https://183.giatvcdn.com/giatv/giatv-tvzovBlackstream/tvzovBlackstream/playlist.m3u8
+#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/SRzrR8Pt/1.png", ЗОВ ТВ RED
+https://183.giatvcdn.com/giatv/giatv-tvzov%20RED/tvzov%20RED/playlist.m3u8
+#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/0N8cnz6S/i.jpg" , CyberTV
+https://183.giatvcdn.com/ssh101/ssh101/cybertv/playlist.m3u8
+#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/rmwZVDMW/1.png", VB Российские сериалы
+https://183.giatvcdn.com/ssh101/ssh101/russerials/playlist.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Россия 1
 http://109.207.243.18/2/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Киномикс
