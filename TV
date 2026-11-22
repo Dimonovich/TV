@@ -164,6 +164,20 @@ https://fs.uplink.kz/qazaqstan/mono.m3u8?token=onlinetv
 https://fs.uplink.kz/baby_time/mono.m3u8?token=onlinetv
 #EXTINF:-1 group-title="TEST (VPN)",Киносерия
 https://fs.uplink.kz/kinoseria/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://light.tvp.pp.ru/picons/4fab7cdee25052675035e1f7d6c265260536bfa18b2d3ee055508e88783602fc.png", IPTVPLAY ВЕДЬМАК
+https://social.tvp.pp.ru/public-playlist/q3sndMn4jxOpMXOiAx_OauuobFGwrYWiWO9SGtLt7nI/3919.m3u8
+#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://light.tvp.pp.ru/picons/e3298fc1c4e3c2e08f084d9cbfbccdc8f9656e75c6f11a8f3b1d9d90da521bf4.png", IPTVPLAY ДЕСЯТОЕ КОРОЛЕВСТВО
+https://social.tvp.pp.ru/public-playlist/q3sndMn4jxOpMXOiAx_OauuobFGwrYWiWO9SGtLt7nI/3988.m3u8
+#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://light.tvp.pp.ru/picons/e48d89259bd9a7568c8c9f9bb7aea18e087ed128bcbcb2dd5e43c650f4250f0d.png", IPTVPLAY ИНТЕРНЫ
+https://social.tvp.pp.ru/public-playlist/q3sndMn4jxOpMXOiAx_OauuobFGwrYWiWO9SGtLt7nI/3917.m3u8
+#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://light.tvp.pp.ru/picons/2030f1454c2aac8d5e1fe8f13731502cc60393e2acafaa94bfd1ca21e888d6cf.png",IPTVPLAY Великая Отечественная HD
+https://social.tvp.pp.ru/public-playlist/q3sndMn4jxOpMXOiAx_OauuobFGwrYWiWO9SGtLt7nI/3918.m3u8
+#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://light.tvp.pp.ru/picons/082a8fde4f8602f51c96f92ef066399788e4f7a1402fe879b4d0a6ee931832da.png",IPTVPLAY ФАНТАСТИКА HD
+https://social.tvp.pp.ru/public-playlist/q3sndMn4jxOpMXOiAx_OauuobFGwrYWiWO9SGtLt7nI/3914.m3u8
+#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://light.tvp.pp.ru/picons/92e4429de7e67346abb3d6ff8d815dc8abe1a543fca1536f1ec4e0199b8f282c.png",IPTVPLAY ПАМЯТЬ HD
+https://social.tvp.pp.ru/public-playlist/q3sndMn4jxOpMXOiAx_OauuobFGwrYWiWO9SGtLt7nI/3915.m3u8
+#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://light.tvp.pp.ru/picons/41b389b25e6a29309d30124b61876231007a64eddcc5b12ce37eeac0bed3833d.png",IPTVPLAY УЖАСТИК HD
+https://social.tvp.pp.ru/public-playlist/q3sndMn4jxOpMXOiAx_OauuobFGwrYWiWO9SGtLt7nI/3916.m3u8
 #EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/sp_vert_live8.jpg",НТВ Сериалы Скорая помощь
 https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/pes_live_vert.jpg",НТВ Сериалы Пёс
