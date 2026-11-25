@@ -1,6 +1,6 @@
 ﻿#EXTM3U
 
-#EXTINF:-1 group-title="🔺 INFO 🔺" tvg-logo="https://i.postimg.cc/50Wp1JKc/433d83f7e481f35245f8c6bb7c7591d8.gif",21.11.2026
+#EXTINF:-1 group-title="🔺 INFO 🔺" tvg-logo="https://i.postimg.cc/50Wp1JKc/433d83f7e481f35245f8c6bb7c7591d8.gif",25.11.2026
 http://194.26.229.213/zastavka/index.m3u8
 #EXTINF:-1 group-title="🔺 INFO 🔺" tvg-logo="https://i.postimg.cc/nrj0J6Dj/1.png",Android TV + Free TV
 http://194.26.229.213/intro/index.m3u8
@@ -4230,6 +4230,203 @@ https://s4.mvzd.ru/content/33/vi/33-vi-idite-ja-necu-33-2015-sml_1080p.m3u8
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://1rus.ru/content/xr/xk/JasonArgonauts_013_720x406.webp",Ясон и аргонавты (1963)
 https://s5.mvzd.ru/content/f7/m6/Jason_i_Argonavty_1963_BDRip_MVO_DVO_1080p.m3u8
 
+
+
+
+
+
+#EXTINF:-1 group-title="Концерт+Клип" tvg-logo="https://pic.rtbcdn.ru/video/2025-09-02/fe/0e/fe0ea3630e5cb997d27fa37eef132041.jpg", Sex Pistols & Frank Carter - Live at Hellfest (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 OPR/138.0.0.0
+https://river-4-483.rtbcdn.ru/hls-vod/2LUSvAmcy-GbaU0VSyEFMw/1796238300/3330/0x5000c500e8e8b435/a4b0298c0f2948d285c7345921ae73b1.mp4.m3u8?i=1920x1080_4505&streams=v1a1
+#EXTINF:-1 group-title="Концерт+Клип" tvg-logo="https://pic.rtbcdn.ru/video/2025-09-16/20/38/203831642ba1c5735f9a814723f594f5.jpg", Kreator: At The Pulse Of Kapitulation - Live In East Berlin (1990)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://river-4-419.rtbcdn.ru/hls-vod/rzhBdnkacp0GF-0AamSyRA/1796238300/3332/0x5000c500e9cfafd7/cdb23a7df6bc428895c9a4b9470f97c2.mp4.m3u8?i=640x480_1032&streams=v1a1
+#EXTINF:-1 group-title="Концерт+Клип" tvg-logo="https://pic.rtbcdn.ru/video/2025-09-17/57/d6/57d6009e241fa7c987d1326cba79037a.jpg", Camila Cabello - Live The Town (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0
+https://river-4-454.rtbcdn.ru/hls-vod/ZsfNpmq85fIuv5w7z5qT9w/1796238300/2684/0x5000039ce8399f21/0bf4c4652b7d4bc5b0081e95e2a8a17a.mp4.m3u8?i=3840x2160_16306&streams=v1a1
+#EXTINF:-1 group-title="Концерт+Клип" tvg-logo="https://pic.rtbcdn.ru/video/2025-09-17/94/ac/94acfaef7e27a5cae0b1be63d49ad82c.jpg", KISS - Goodbye (2020)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15
+https://river-4-416.rtbcdn.ru/hls-vod/Q7NIr2T8xqaEcWgMjz4P6g/1796238302/2654/0x5000039ce83824d9/b98505764531429aab0fd36216da2e8c.mp4.m3u8?i=1920x1080_6818&streams=v1a1
+#EXTINF:-1 group-title="Концерт+Клип" tvg-logo="https://pic.rtbcdn.ru/video/2025-09-17/b1/8c/b18cc6acfadeab71eb1fb4e6d254d239.jpg", Lionel Richie - The Town (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://river-4-416.rtbcdn.ru/hls-vod/oLwpqIf3n57tKUQ6rIaSGg/1796238311/2207/0x5000c500e7d6657f/78926fdedb5747969da5d2cfd4568e34.mp4.m3u8?i=3840x2160_17370&streams=v1a1
+#EXTINF:-1 group-title="Концерт+Клип" tvg-logo="https://pic.rtbcdn.ru/video/2025-09-17/54/a0/54a012107202b3f2625ad20953d70262.jpg", Natasha Bedingfield - Live The Town (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1
+https://river-4-481.rtbcdn.ru/hls-vod/1ADMeziPKmwXDT8Hvy18uw/1796238312/1897/0x5000c500e5111eee/72bf202c5e474cdf84adb12cacce11cb.mp4.m3u8?i=3840x2160_14638&streams=v1a1
+#EXTINF:-1 group-title="Концерт+Клип" tvg-logo="https://pic.rtbcdn.ru/video/2025-09-17/87/05/8705f60602265efadffcf47a9ad34e6e.jpg", Jason Derulo - Live The Town (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1
+https://river-4-424.rtbcdn.ru/hls-vod/_Ru2u3ug8yeLB_Abdw58GQ/1796238312/2199/0x5000c500e662670c/ddad77e46be346bf9b5cf95e54fb8b6a.mp4.m3u8?i=3840x2160_23103&streams=v1a1
+#EXTINF:-1 group-title="Концерт+Клип" tvg-logo="https://pic.rtbcdn.ru/video/2025-09-18/06/b1/06b1b15d47f3ac0d1973ba77bba6a473.jpg", Anastacia - Live Radio 2 in the Park (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://river-4-419.rtbcdn.ru/hls-vod/jpsJ1_rWd2jyy44vV_sOUQ/1796238313/3342/0x5000c500e9ee1e4a/099ba3b9674241df87596bf788e40034.mp4.m3u8?i=1920x1080_6556&streams=v1a1
+#EXTINF:-1 group-title="Концерт+Клип" tvg-logo="https://pic.rtbcdn.ru/video/2025-09-18/79/3b/793bc91e82cc1e99530f89c93568cfa9.jpg", Jessie J - Live The Town (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
+https://river-4-457.rtbcdn.ru/hls-vod/8h6XcouA0cV9v-xgIF9Bnw/1796238313/2201/0x5000c5007446bafc/7a237a1e12064c19a42e3862fdb39ea4.mp4.m3u8?i=3840x2160_12712&streams=v1a1
+#EXTINF:-1 group-title="Концерт+Клип" tvg-logo="https://pic.rtbcdn.ru/video/2025-09-19/8e/40/8e402f3276d6eb7af0bd3d471efcfbfd.jpg", Steve Hackett, 2025 - The Lamb Stands Up Live At The Royal Albert Hall (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://river-4-428.rtbcdn.ru/hls-vod/7F6GTkccAilQsHc7eF1_xg/1796238316/1905/0x5000c500e53969b4/dd8629302f244a68a1a9bc344473b18f.mp4.m3u8?i=1920x1080_3222&streams=v1a1
+#EXTINF:-1 group-title="Концерт+Клип" tvg-logo="https://pic.rtbcdn.ru/video/2025-09-19/85/5d/855d26568a18c4c6ce5f709ad558850b.jpg", Caro Emerald - Live in Concert (2010)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
+https://river-4-442.rtbcdn.ru/hls-vod/RSrYkTK68qHcRyHOdMUkhg/1796238317/3302/0x5000c500e9d37bac/7ac4fbe7296c49e5b1a6966bcc1a3994.mp4.m3u8?i=1920x1080_4295&streams=v1a1
+#EXTINF:-1 group-title="Концерт+Клип" tvg-logo="https://pic.rtbcdn.ru/video/2025-09-23/bd/51/bd51f6eed32c074601a909ab14b97893.jpg", Nickelback - Live At Sturgis (2021)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://river-4-455.rtbcdn.ru/hls-vod/y-E6ieI-HDZ0r-r2I2q-8Q/1796238318/3354/0x5000c500e9cf3d83/daeb508225584989a527cb222de91586.mp4.m3u8?i=1920x1080_5834&streams=v1a1
+#EXTINF:-1 group-title="Концерт+Клип" tvg-logo="https://pic.rtbcdn.ru/video/2025-09-23/59/c4/59c49c8f34e0d7a9e088c0053b1d4db6.jpg", Eros Ramazzotti - Stilelibero (2000)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
+https://river-4-452.rtbcdn.ru/hls-vod/DNH5oHF_uDnTwTA0-LOtBg/1796238323/3268/0x5000c500c97df948/a79b44fca33f478694fd2b6e6f650a56.mp4.m3u8?i=848x480_1725&streams=v1a1
+#EXTINF:-1 group-title="Концерт+Клип" tvg-logo="https://pic.rtbcdn.ru/video/2025-09-24/c3/eb/c3eb2d186bec57f394c388351aceed3a.jpg", Alice Cooper: Theatre of Death - Live at Hammersmith (2009)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 OPR/138.0.0.0
+https://river-4-453.rtbcdn.ru/hls-vod/xYCpoVN_PcWxMaerRuRYAw/1796238327/3344/0x5000c500e9cf5974/d2f0ecd3cca14e6099a3e56830209424.mp4.m3u8?i=1920x1080_4967&streams=v1a1
+#EXTINF:-1 group-title="Концерт+Клип" tvg-logo="https://pic.rtbcdn.ru/video/2025-09-24/ac/cd/accd374c171dd17b2454ab89007f2d04.jpg", Deep Purple - Rock In Rio (2024)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
+https://river-4-427.rtbcdn.ru/hls-vod/XYNXKKKCe8WRQTt_wfRR0g/1796238328/2682/0x5000039ce83bb899/bcd13bb41c294497b7f5600f35d8223d.mp4.m3u8?i=3840x2160_18541&streams=v1a1
+#EXTINF:-1 group-title="Концерт+Клип" tvg-logo="https://pic.rtbcdn.ru/video/2025-09-24/cb/f6/cbf682ecc56753897c9a6a95c1019ffc.jpg", BEAT EX-King Сrimson - ADRIAN BELEW, TONY LEVIN, STEVE VAI, DANNY CAREY (2024)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1
+https://river-6-602.rtbcdn.ru/hls-vod/X2CnyWKP4JQBF10_xB_flg/1796238329/1871/0x5000c500e8d21c37/be96981ca2c5421c948ad493c88def1f.mp4.m3u8?i=3840x2160_6917&streams=v1a1
+#EXTINF:-1 group-title="Концерт+Клип" tvg-logo="https://pic.rtbcdn.ru/video/2025-09-24/57/41/5741a640acc1f8d52ef0f94c083d0c35.jpg", The Baseballs - Strings 'n' Stripes Live (2012)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 OPR/138.0.0.0
+https://river-4-438.rtbcdn.ru/hls-vod/3mWnroRq-kT1JqE4pe2mHQ/1796238330/3274/0x5000c500e9cf578a/a6f40e7582c84abbb55dfc84fd4e64d0.mp4.m3u8?i=1920x1080_6318&streams=v1a1
+#EXTINF:-1 group-title="Концерт+Клип" tvg-logo="https://pic.rtbcdn.ru/video/2025-10-03/b7/cf/b7cf9cd585324a7b7d81a1023a7bebdd.jpg", Annihilator - Live at Masters of Rock (2009)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://river-4-437.rtbcdn.ru/hls-vod/yxXHJ4pU3v60-MqE-9FChA/1796238331/2616/0x5000039ce868e951/962b397ea9724ff79619255b13a88ef4.mp4.m3u8?i=640x480_1597&streams=v1a1
+#EXTINF:-1 group-title="Концерт+Клип" tvg-logo="https://pic.rtbcdn.ru/video/2025-10-03/e4/09/e409f0f2e1825c1d6672e3ebaeb4365d.jpg", The Truth About Love Tour. Live From Melbourne (2013)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1
+https://river-6-601.rtbcdn.ru/hls-vod/gnfabYgxYhkx21A2JPdLTQ/1796238334/3398/0x5000c500fa77c23d/f5ded518ff7e4348a33a543e21307feb.mp4.m3u8?i=1920x1080_5595&streams=v1a1
+#EXTINF:-1 group-title="Концерт+Клип" tvg-logo="https://pic.rtbcdn.ru/video/2025-06-28/b5/b5/b5b58da47d702cc1f2315e0c2fa61dd6.jpg", Megadeth Blood in the Water: Live in San Diego (2009)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://river-6-601.rtbcdn.ru/hls-vod/EuH7FeiUBdHyrVwRr3XCXQ/1796238334/3506/0x5000c500fae40662/de76294e009e4bb7b69e09cd3b3119e7.mp4.m3u8?i=848x480_2148&streams=v1a1
+#EXTINF:-1 group-title="Концерт+Клип" tvg-logo="https://pic.rtbcdn.ru/video/2025-08-06/27/94/2794402de56938cd8fbcaa328f9d4bc5.jpg", Arctic Monkeys - Live At Mad Cool Festival (2018)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0
+https://river-4-451.rtbcdn.ru/hls-vod/VY1G6iwbyOp6RgGzFC6BNA/1796238338/1899/0x5000c500e51154a7/f7c3b75699244def90b8cb5ec95edf25.mp4.m3u8?i=1280x720_1819&streams=v1a1
+#EXTINF:-1 group-title="Концерт+Клип" tvg-logo="https://pic.rtbcdn.ru/video/2025-09-17/8a/88/8a880ada658d4370594efcb2deb8c3e0.jpg", Backstreet Boys - Live The Town (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0
+https://river-4-481.rtbcdn.ru/hls-vod/1TI5chWcLm4ZFhOwpoluig/1796238338/2640/0x5000039ce863f00d/22cbfc15a807438cb7c179cbed631955.mp4.m3u8?i=2560x1440_9258&streams=v1a1
+#EXTINF:-1 group-title="Концерт+Клип" tvg-logo="https://pic.rtbcdn.ru/video/2025-09-17/2e/3f/2e3fb643af54e6c56aa6572cc6d064e6.jpg", Katy Perry - Live The Town (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
+https://river-4-483.rtbcdn.ru/hls-vod/W-tzYpYB77DJFpT3iqIlqQ/1796238339/2700/0x5000039ce869aca1/fc528dac156a409a8450af71b600047f.mp4.m3u8?i=2560x1440_9736&streams=v1a1
+#EXTINF:-1 group-title="Концерт+Клип" tvg-logo="https://pic.rtbcdn.ru/video/2026-11-18/e4/41/e441ae026264619d07dbeea739d4c64b.jpg", Warlock - Live in London (1985)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 OPR/138.0.0.0
+https://river-ntv-comc-d403.rtbcdn.ru/hls-vod/RfMAnJb-u5LytJjo0zhhHQ/1796238343/3584/0x5000c500faed498f/551449b0842e46c0bbeb6e3ef5445ba0.mp4.m3u8?i=1920x1008_3179&streams=v1a1
+#EXTINF:-1 group-title="Концерт+Клип" tvg-logo="https://pic.rtbcdn.ru/video/2025-07-10/5b/8c/5b8c7d5c91b502d3d2284cfbf099d07a.jpg", Whitney Houston -The Concert for a New South Africa (1994)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://river-4-435.rtbcdn.ru/hls-vod/raOiWW1s2OZkJvV6rM3BSw/1796238343/2686/0x5000039ce838cf3d/e9ff43842b514d999aa61fff8fba748c.mp4.m3u8?i=1920x1080_4265&streams=v1a1
+#EXTINF:-1 group-title="Концерт+Клип" tvg-logo="https://pic.rtbcdn.ru/video/2025-09-16/4e/24/4e24d483630e0206101e85175916c849.jpg", Kiss Me Once Live at the SSE Hydro (2015)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1
+https://river-4-428.rtbcdn.ru/hls-vod/6sBfSZ5FONpYomMovmpPrw/1796238346/3264/0x5000c500e9cc1b1d/005376293dfd4fcc95c59771e5cd6d29.mp4.m3u8?i=1920x1080_5703&streams=v1a1
+#EXTINF:-1 group-title="Концерт+Клип" tvg-logo="https://pic.rtbcdn.ru/video/2025-08-21/80/1f/801f3ce4ae6fdc4314b0fd69a6d29a66.jpg", Taylor Swift - LIVE SOFI Stadium (2023)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1
+https://river-4-411.rtbcdn.ru/hls-vod/fzA1p5UAlL9puUivg7iR8A/1796238347/2564/0x5000039ce8401cf1/2890e3cb06e9473f856a0ae673d8d0f4.mp4.m3u8?i=3840x1608_10283&streams=v1a1
+#EXTINF:-1 group-title="Концерт+Клип" tvg-logo="https://pic.rtbcdn.ru/video/2025-09-17/bc/eb/bceb1acdc040aa82c0f003a730a7532b.jpg", Mariah Carey - Live The Town (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0
+https://river-4-473.rtbcdn.ru/hls-vod/DzSADBGy1hB3PYt-fxlgHQ/1796238348/2203/0x5000c5007446bbbb/21734c6ea0b2435c874fe93629dd783d.mp4.m3u8?i=3840x2160_16208&streams=v1a1
+#EXTINF:-1 group-title="Концерт+Клип" tvg-logo="https://pic.rtbcdn.ru/video/2026-05-06/c1/eb/c1ebd2352c4aef670e3cdbd5ea12a16d.jpg", Ricchi e Poveri (1970-1980)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
+https://river-4-423.rtbcdn.ru/hls-vod/NAhxXAflqP_V3yaWnhF-lQ/1796238348/2708/0x5000039ce8380695/e3a6c1e825664f18935bed1f33f1e1df.mp4.m3u8?i=1920x1080_5062&streams=v1a1
+#EXTINF:-1 group-title="Концерт+Клип" tvg-logo="https://pic.rtbcdn.ru/video/2026-05-07/38/d1/38d1db238099bd891dd1a8e712dfdaf5.jpg", Smokie - Golden Hits (1976-1978)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://river-m9-comc-d3102.rtbcdn.ru/hls-vod/BZQ3lU-RIfXQDWiduiYZgQ/1796238349/3496/0x5000c500fa8033d7/bd3d745db5444afc811336e655a87273.mp4.m3u8?i=1280x720_1583&streams=v1a1
+#EXTINF:-1 group-title="Концерт+Клип" tvg-logo="https://pic.rtbcdn.ru/video/2025-07-10/3c/38/3c38a1417714797992d42d3299800aa0.jpg", Chris Norman – Time Traveller Tour: Live In Concert Germany (2011)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
+https://river-ntv-comc-d403.rtbcdn.ru/hls-vod/2GG4ShRSm1h4z3frXEc5Sg/1796238351/2648/0x5000039ce838d671/9dc3a11191854782af49cbfab0045df1.mp4.m3u8?i=848x480_1400&streams=v1a1
+#EXTINF:-1 group-title="Концерт+Клип" tvg-logo="https://pic.rtbcdn.ru/video/db/01/db01e89d5daf7c97e362d9397ad9aa7d.jpg", Mireille Mathieu - The Video Hits Collection (2017)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://river-4-441.rtbcdn.ru/hls-vod/n-rvJYOMzmndwUsxjoNMSQ/1796238352/2562/0x5000039ce8708a61/e7587631b8b44fa0a02a6ed9204c1281.mp4.m3u8?i=848x480_1772&streams=v1a1
+#EXTINF:-1 group-title="Концерт+Клип" tvg-logo="https://pic.rtbcdn.ru/video/2025-09-01/e0/5b/e05b8b29ef08d3603d359497b66a6752.jpg", Patricia Kaas – Tour de Charme (1993)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
+https://river-m9-comc-d3102.rtbcdn.ru/hls-vod/T4UPe8YXn5d_wOPVx2i5Tw/1796238353/3300/0x5000c500e9e3764f/ec75507d45514dd1b906e602d65212e1.mp4.m3u8?i=640x480_620&streams=v1a1
+#EXTINF:-1 group-title="Концерт+Клип" tvg-logo="https://pic.rtbcdn.ru/video/2025-09-23/69/fa/69fa07e2ccc1e25a8c8afeb870d694db.jpg", ABBA - Live at Wembley Arena (1979)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 OPR/138.0.0.0
+https://river-m9-comc-d3102.rtbcdn.ru/hls-vod/BXQ759eVWeIhlwoGEP45Mg/1796238355/2720/0x5000039ce869e611/24abf75ba2194ff29191e05f13b196e5.mp4.m3u8?i=640x480_1166&streams=v1a1
+#EXTINF:-1 group-title="Концерт+Клип" tvg-logo="https://pic.rtbcdn.ru/video/2025-06-09/79/3e/793e3b7c29434837c2ee052efa9ada56.jpg", Kiss - Alive In San Francisco  (1975)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://river-4-435.rtbcdn.ru/hls-vod/-oBgux-GWIn_zP3gKq3sQg/1796238356/2704/0x5000039ce8402961/6fbd2827a65c41c6845a3b39c1c1082a.mp4.m3u8?i=1280x720_2140&streams=v1a1
+#EXTINF:-1 group-title="Концерт+Клип" tvg-logo="https://pic.rtbcdn.ru/video/f9/ed/f9ed12b2976373e9b860febddc1884e4.jpg", JIMI HENDRIX - The Scandinavian Experience (1969)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15
+https://river-4-478.rtbcdn.ru/hls-vod/lLw2-33lPfcdNxa_vycwGA/1796238357/3264/0x5000c500e9ec000d/a148f8a54c3c4105b0bf8e305c6cda24.mp4.m3u8?i=1280x720_1004&streams=v1a1
+#EXTINF:-1 group-title="Концерт+Клип" tvg-logo="https://pic.rtbcdn.ru/video/2025-09-18/f8/27/f827e082c220d10da7247f7ec85a823b.jpg", Glenn Hughes - Live in Australia (2007)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://river-4-457.rtbcdn.ru/hls-vod/nfXA-IywCqwxcZD9jpZOdA/1796238359/3340/0x5000c500e986c0d7/ced27900364849e9bf4add396459747d.mp4.m3u8?i=848x480_1804&streams=v1a1
+#EXTINF:-1 group-title="Концерт+Клип" tvg-logo="https://pic.rtbcdn.ru/video/2025-09-19/25/c1/25c1e2f693bee918e1d0ea627bb1f758.jpg", The Australian Pink Floyd Show – Everything Under The Sun (2017)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 OPR/138.0.0.0
+https://river-4-455.rtbcdn.ru/hls-vod/Tvr9z0j6HcDO0FF7F-xFJg/1796238360/3308/0x5000c500e9d38436/17afe5641eeb42b88b80e802aff6d6a0.mp4.m3u8?i=1920x1080_2320&streams=v1a1
+#EXTINF:-1 group-title="Концерт+Клип" tvg-logo="https://pic.rtbcdn.ru/video/2025-07-10/82/d2/82d2f5a60ba25be32fc32c97854d4fcc.jpg", Paul McCartney - The McCartney Years (2007)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://river-4-422.rtbcdn.ru/hls-vod/kqXdjsdnHDE-sEA8-gnFKQ/1796238361/2640/0x5000039ce8406335/b38cdb4d271047078dea9bc54cf44351.mp4.m3u8?i=848x480_1995&streams=v1a1
+#EXTINF:-1 group-title="Концерт+Клип" tvg-logo="https://pic.rtbcdn.ru/video/2025-06-27/43/a0/43a0171bb988b184258100dd5c532052.jpg", The Rolling Stones - Bridges to Bremen (2019)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://river-4-457.rtbcdn.ru/hls-vod/g1fh8sOtF8YP96RDWEPzwg/1796238364/2604/0x5000039ce861bca1/3cef96d7a16a43118eadd4c6b47456f6.mp4.m3u8?i=1920x1080_4494&streams=v1a1
+#EXTINF:-1 group-title="Концерт+Клип" tvg-logo="https://pic.rtbcdn.ru/video/e1/80/e1800a3b613efc097ce7e4fc17a9cf40.jpg", Bad Company - Live At Red Rock (2018)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://river-4-416.rtbcdn.ru/hls-vod/zRTi9-t7_uZuGTnKTEmemw/1796238364/2668/0x5000039ce8403b79/ba9dd92cea374e39806a25f392adfbad.mp4.m3u8?i=856x480_2514&streams=v1a1
+#EXTINF:-1 group-title="Концерт+Клип" tvg-logo="https://pic.rtbcdn.ru/video/2025-06-10/e7/d3/e7d36176e67c6469b6b5e8f5216cc782.jpg", Electric Light Orchestra - Zoom Tour Live (2001)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1
+https://river-4-403.rtbcdn.ru/hls-vod/sQV6Fnqa0dEUcBR6kZj1xg/1796238366/2702/0x5000039ce8401b6d/660cd05f66ac4eccad403468533f01f3.mp4.m3u8?i=1920x1080_4039&streams=v1a1
+#EXTINF:-1 group-title="Концерт+Клип" tvg-logo="https://pic.rtbcdn.ru/video/2025-08-20/36/7d/367d1ccddd99b0c9c290d5641f68c494.jpg", Chris Rea - Baloise Session (2017)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://river-6-601.rtbcdn.ru/hls-vod/RKw2daelolqTldvMSOxphg/1796238368/3386/0x5000c500e87b5751/8ef982d827dd4326901581f90a2fe72f.mp4.m3u8?i=1280x720_3289&streams=v1a1
+#EXTINF:-1 group-title="Концерт+Клип" tvg-logo="https://pic.rtbcdn.ru/video/29/a7/29a72d631ec1bd99a35aa23786339a98.jpg", ZZ Top - Live From Texas (2008)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://river-4-421.rtbcdn.ru/hls-vod/4SyauANWERq8jDblljjIZA/1796238370/2229/0x5000c500e74f3cfb/531edc1491d34c00b830f88ecac6e278.mp4.m3u8?i=1920x1080_7572&streams=v1a1
+#EXTINF:-1 group-title="Концерт+Клип" tvg-logo="https://pic.rtbcdn.ru/video/bb/6f/bb6fb1b85e5a4c26d4b0141f8c1b7d8e.jpg", AC/DC - LIVE AT RIVER PLATE (2011)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 OPR/138.0.0.0
+https://river-4-473.rtbcdn.ru/hls-vod/lhV7o8FRFUNCfwL2FsBXYw/1796238370/2231/0x5000c5007446d16f/fca042392f354fa88dd0092842730ab6.mp4.m3u8?i=1280x720_4618&streams=v1a1
+#EXTINF:-1 group-title="Концерт+Клип" tvg-logo="https://pic.rtbcdn.ru/video/2025-09-18/7a/da/7adac1e5e00b70fa59f89132c9d6ae57.jpg", AC/DC - Live at the Circus Krone (2003)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0
+https://river-4-419.rtbcdn.ru/hls-vod/yTUPGkgu5a6BUN8rlaYrhg/1796238373/3330/0x5000c500e9cf561d/dd303f56f9f244b7a9751445574ae988.mp4.m3u8?i=848x480_2251&streams=v1a1
+#EXTINF:-1 group-title="Концерт+Клип" tvg-logo="https://pic.rtbcdn.ru/video/2026-05-31/b1/33/b13328d7240cf64d3727a3fa271494fe.jpg", Metallica - Through the Never (2013)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://river-4-452.rtbcdn.ru/hls-vod/rVsKafhRGXS6hxzROIed-w/1796238375/3486/0x5000c500fad7a277/f24179f4314c484f8e396eda6a57baef.mp4.m3u8?i=1920x1080_3933&streams=v1a1
+#EXTINF:-1 group-title="Концерт+Клип" tvg-logo="https://pic.rtbcdn.ru/video/2026-06-21/1f/42/1f422d865f09961c6c3cfddc753161a1.jpg", Metallica at Monsters of Rock in Moscow (1991)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1
+https://river-4-475.rtbcdn.ru/hls-vod/EZiPzLyoqnGqVcj2TyU2lQ/1796238375/3482/0x5000c500fadea60d/de84b938959e41808f079ce69b029024.mp4.m3u8?i=2560x1440_4778&streams=v1a1
+#EXTINF:-1 group-title="Концерт+Клип" tvg-logo="https://pic.rtbcdn.ru/video/2026-07-20/66/40/6640533a5d153d17586b917ad7b15547.jpg", Король И Шут - последний концерт Нашествие (2013)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15
+https://river-4-479.rtbcdn.ru/hls-vod/NIGd1-MmPZqJuQdzGDSHuA/1796238377/3588/0x5000c500fae004a0/844ba406e7234d218a4232fd38dc5579.mp4.m3u8?i=1280x720_4777&streams=v1a1
+#EXTINF:-1 group-title="Концерт+Клип" tvg-logo="https://pic.rtbcdn.ru/video/2026-07-21/9e/74/9e74449911536ad6574f0c0c52eaeba8.jpg", Mylène Farmer Le film (2019)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://river-4-481.rtbcdn.ru/hls-vod/k41Mu7XWLBGmWBEh_APz1w/1796238380/3582/0x5000c500fae06e6c/9bacdcd284b143cb8f6770107fb041b8.mp4.m3u8?i=1920x1080_3858&streams=v1a1
+#EXTINF:-1 group-title="Концерт+Клип" tvg-logo="https://pic.rtbcdn.ru/video/2026-07-22/0d/2c/0d2c84a6336ea1ef2e3e17cd661a39a2.jpg", Michael Jackson - Live In Bucharest (1992)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
+https://river-6-606.rtbcdn.ru/hls-vod/Ki_E_HkamD6XU6EFUZ881w/1796238381/2590/0x5000039ce8636595/d610988f44564d87b0a9aed70706f7d1.mp4.m3u8?i=1408x1080_3510&streams=v1a1
+#EXTINF:-1 group-title="Концерт+Клип" tvg-logo="https://pic.rtbcdn.ru/video/2026-07-22/6e/e4/6ee47c869d35d10672fe7cac2fe62118.jpg", Toto Cutugno: Best Hits (Video Collection) (1970-1990)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15
+https://river-4-480.rtbcdn.ru/hls-vod/ci7zr3t52C8JR6DqHXd_MA/1796238384/3484/0x5000c500fad94365/9afc19af542f4fb3b02af9c1f5b9969f.mp4.m3u8?i=1280x720_1709&streams=v1a1
+#EXTINF:-1 group-title="Концерт+Клип" tvg-logo="https://pic.rtbcdn.ru/video/2026-07-22/9e/95/9e9544412bd51bca2405e5d54b0d007b.jpg", Joe Dassin: Best Hits (Video Collection on TV) (1965-1980)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15
+https://river-4-435.rtbcdn.ru/hls-vod/lPQDCoMeQks-D1MeOcHZPQ/1796238384/3492/0x5000c500fad9db7b/942cfc831b5b4c25b5430c406ad6fb90.mp4.m3u8?i=656x480_552&streams=v1a1
+#EXTINF:-1 group-title="Концерт+Клип" tvg-logo="https://pic.rtbcdn.ru/video/2026-08-03/87/cd/87cd48c94cebb39e0d938da72d023944.jpg", АукцЫон - Концерт на Шаболовке (1993)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://river-4-479.rtbcdn.ru/hls-vod/5wR1ZYlrapakTqtIv3xIIQ/1796238386/3546/0x5000c500faed38ef/1bcc949c83b744b4814e0bf4fa05dd79.mp4.m3u8?i=1920x1080_4260&streams=v1a1
+#EXTINF:-1 group-title="Концерт+Клип" tvg-logo="https://pic.rtbcdn.ru/video/2026-07-25/b9/aa/b9aa66106090d4234d33948caa49be7f.jpg", The Prodigy Full Concert Live at Pinkpop (2005)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0
+https://river-4-441.rtbcdn.ru/hls-vod/Z8FGoD2oREjJ1DoKgR0Txw/1796238388/3312/0x5000c500e9d374bb/ae2189106dc34b8199fdc8ee99058c50.mp4.m3u8?i=1920x1080_4099&streams=v1a1
+#EXTINF:-1 group-title="Концерт+Клип" tvg-logo="https://pic.rtbcdn.ru/video/2026-08-06/94/61/9461848f6fc1c42af1bc74a8d81f93ae.jpg", Depeche Mode - VOLT Festival, Sopron, Hungary (2018)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1
+https://river-4-422.rtbcdn.ru/hls-vod/3PyaoaQsGaPSyhind2gCdg/1796238389/3484/0x5000c500fad89cb1/d5741d1c92e44d0cade659d09d325b39.mp4.m3u8?i=1920x1080_4183&streams=v1a1
+#EXTINF:-1 group-title="Концерт+Клип" tvg-logo="https://pic.rtbcdn.ru/video/2026-07-21/6b/b8/6bb8b8f3788c342516fd6c5c71205601.jpg", Depeche Mode - 101 Rose Bowl Concert (1988)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1
+https://river-4-451.rtbcdn.ru/hls-vod/uwRZisHHOFLaPy_qUGve0Q/1796238391/3478/0x5000c500fadfd2cb/df8bd7209e2244349442869b98dea52a.mp4.m3u8?i=1920x1080_3119&streams=v1a1
+#EXTINF:-1 group-title="Концерт+Клип" tvg-logo="https://pic.rtbcdn.ru/video/2026-08-31/37/8d/378d4bf85965a86686ca1c1094157f1d.jpg", Scorpions - MTV Unplugged: Live in Athens (2013)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1
+https://river-4-472.rtbcdn.ru/hls-vod/MV67gPH9GouL5jGR8bDxSg/1796238393/2512/0x5000039ce832c19d/cf423900959042b6a71a8291904b2654.mp4.m3u8?i=3840x2160_9938&streams=v1a1
+#EXTINF:-1 group-title="Концерт+Клип" tvg-logo="https://pic.rtbcdn.ru/video/2026-09-25/d0/d3/d0d3638137de7d560e513b9baf864fa4.jpg", Dua Lipa - Live From Mexico (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://river-4-427.rtbcdn.ru/hls-vod/rHLl_FJVIE26jf2JILEGxQ/1796238394/3590/0x5000c500faec9879/a506a4f72b2748ba99c9612f0f92cd01.mp4.m3u8?i=3840x2160_12193&streams=v1a1
+#EXTINF:-1 group-title="Концерт+Клип" tvg-logo="https://pic.rtbcdn.ru/video/2026-11-03/75/fa/75fac04411bb8ad0b6bb3f9eb0403048.jpg", Eagles: Live At The Capital Centre (1977)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1
+https://river-4-456.rtbcdn.ru/hls-vod/WXYWNf04T7LJVoMi6_GNyQ/1796238394/3492/0x5000c500fad9db7b/43cb0a3c8a1f418e963097c1bcf7351e.mp4.m3u8?i=1512x1080_2679&streams=v1a1
+#EXTINF:-1 group-title="Концерт+Клип" tvg-logo="https://pic.rtbcdn.ru/video/2026-11-03/17/27/1727ee6906519446a8da7b81714f6439.jpg", Nirvana: Live At The Paramount (1991)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15
+https://river-4-440.rtbcdn.ru/hls-vod/jBdwJj3fsOrHbRtoa3qwkw/1796238395/3554/0x5000c500fad7be07/cfbb78a37cc14cd49b07875fdb09655a.mp4.m3u8?i=1920x1080_3333&streams=v1a1
+#EXTINF:-1 group-title="Концерт+Клип" tvg-logo="https://pic.rtbcdn.ru/video/2026-10-21/e3/90/e3908378e35519e56d2dc34c9c82d41b.jpg", Nirvana - MTV Unplugged in New York (1993)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 OPR/138.0.0.0
+https://river-4-440.rtbcdn.ru/hls-vod/KINC8oH3ElppjDpli2UXUg/1796238397/3328/0x5000c500e9cf7741/6124b3eecd634eb8934c5f1afc1f5acc.mp4.m3u8?i=2840x2160_9519&streams=v1a1
+#EXTINF:-1 group-title="Концерт+Клип" tvg-logo="https://pic.rtbcdn.ru/video/2026-11-16/ca/dc/cadc9c97f0d526847f69a7816e6df7cb.jpg", Simply Red - Holding Back The Years: 40 Years Of Simply Red, Live In Santiago (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 OPR/138.0.0.0
+https://river-4-455.rtbcdn.ru/hls-vod/BCBRxADHWEFsGScNrfIfLg/1796238399/2680/0x5000039ce818dcb5/d4f1e3fe61b1453191afef6f2d1a95ab.mp4.m3u8?i=1920x1080_3412&streams=v1a1
+#EXTINF:-1 group-title="Концерт+Клип" tvg-logo="https://pic.rtbcdn.ru/video/2026-11-21/af/b0/afb021373789dbc23655f29c343059b8.jpg", Rammstein - Live in Mexico City (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15
+https://river-m9-comc-d3102.rtbcdn.ru/hls-vod/VHkpgUsk9alXXMz804uK6w/1796238399/2464/0x5000c500e8833b45/1fa3d29067d14980bffb3a15a06706ad.mp4.m3u8?i=1920x1080_5712&streams=v1a1
 
 
 
